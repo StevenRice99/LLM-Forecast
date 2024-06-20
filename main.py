@@ -538,4 +538,4 @@ def auto(path: str or list, start: int or list = 1, memory: int or list = 1, lea
 
 
 if __name__ == '__main__':
-    auto("Data/peak.csv", 1, 5, [0, 1, 2], [0, 1, 2], 25, 0, 3, "max", {}, {})
+    auto("Data/Sample.csv", 1, 5, [0, 1, 2], [0, 1, 2], 25, 0, 3, "max", {}, {})
