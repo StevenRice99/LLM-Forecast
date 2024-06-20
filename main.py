@@ -13,36 +13,62 @@ from statsmodels.tsa.arima.model import ARIMA
 
 
 def load(path: str) -> dict | None:
+    """
+    Load a file for testing.
+    :param path: The path to the file.
+    :return: The loaded file or nothing if the file does not exist.
+    """
     if not os.path.exists(path):
         return None
     return pd.read_csv(path).set_index("Item").T.to_dict()
 
 
 def clean_parameters(d: dict, key: str, default: int or float or str = 1, acceptable: int or float or list = 0) -> dict:
+    """
+    Ensure parameters in a dictionary are valid.
+    :param d: The dictionary to validate.
+    :param key: The key to validate.
+    :param default: The default value to apply if needed.
+    :param acceptable: Acceptable values, either a list of possible values or a minimum value.
+    :return: The validated dictionary.
+    """
+    # If the key does not exist, add the default.
     if key not in d:
         d[key] = [default]
+    # Otherwise, check if it is a list.
     elif not isinstance(d[key], list):
-        if isinstance(d[key], int) or isinstance(d[key], float):
+        # If it is a single parameter, convert it to a list.
+        if isinstance(d[key], int) or isinstance(d[key], float) or isinstance(d[key], str):
             d[key] = [d[key]]
+        # Otherwise, it is an invalid type so make the default value.
         else:
             d[key] = [default]
+    # Ensure it is distinct.
     d[key] = list(set(d[key]))
+    # If there is a list of acceptable values, check them.
     if isinstance(acceptable, list):
         for i in range(len(d[key])):
             if d[key][i] not in acceptable:
                 d[key].pop(i)
                 i -= 1
+    # Otherwise, remove values below the lower limit.
     else:
         for i in range(len(d[key])):
-            if d[key][i] < acceptable:
+            if isinstance(d[key][i], str) or d[key][i] < acceptable:
                 d[key].pop(i)
                 i -= 1
+    # Ensure there is at least one value.
     if len(d[key]) == 0:
         d[key] = [default]
     return d
 
 
 def clean_arima(arima: dict or None) -> dict or None:
+    """
+    Ensure ARIMA parameters are valid.
+    :param arima: The ARIMA dictionary to validate.
+    :return: The validated ARIMA dictionary.
+    """
     if isinstance(arima, dict):
         arima = clean_parameters(arima, "p", 1, 0)
         arima = clean_parameters(arima, "d", 1, 0)
@@ -53,6 +79,11 @@ def clean_arima(arima: dict or None) -> dict or None:
 
 
 def clean_svr(svr: dict or None) -> dict or None:
+    """
+    Ensure SVR parameters are valid.
+    :param svr: The SVR dictionary to validate.
+    :return: The validated SVR dictionary.
+    """
     if isinstance(svr, dict):
         svr = clean_parameters(svr, "C", 100, 0)
         svr = clean_parameters(svr, "gamma", "scale", ["auto", "scale"])
@@ -64,147 +95,212 @@ def clean_svr(svr: dict or None) -> dict or None:
 
 def predict(data: dict, forecast: int = 0, buffer: int = 0, power: int = 1, mode: str = "max",
             arima: dict or None = None, svr: dict or None = None) -> dict:
-    if data is None and "Inventory" not in data:
+    """
+    Predict what to order for an inbound shipment.
+    :param data: The data with inventory, past orders, and upcoming arrivals.
+    :param forecast: How much to forecast with the model.
+    :param buffer: The desired inventory buffer to have.
+    :param power: The polynomial up which to compute predictions with.
+    :param mode: How to choose the prediction between 'max', 'min', and 'average'.
+    :param arima: The ARIMA configuration to use.
+    :param svr: The SVR configuration to use.
+    :return: The order to place for an inbound shipment.
+    """
+    # Nothing to predict if there is no data.
+    if data is None or "Inventory" not in data or "History" not in data:
         return {}
+    # Start all orders at zero.
     shipment = {}
     for item in data["Inventory"]:
         shipment[item] = 0
-    if "History" in data:
-        arima = clean_arima(arima)
-        svr = clean_svr(svr)
-        if arima is None and svr is None and power < 1:
-            power = 1
-        if mode != "max" and mode != "min" and mode != "average":
-            mode = "max"
-        if forecast < 0:
-            forecast = 0
-        for item in shipment:
-            print(f"\nPredicting demand for {item}.")
-            history = data["History"][item]
-            results = []
-            if len(history) > 0:
-                results.append(history[-1])
-            print(f"Previous orders are {history}.")
-            for i in range(2, len(history) + 1):
-                numbers = history[-i:]
-                x = np.array(range(len(numbers))).reshape(-1, 1)
-                y = np.array(numbers)
-                for p in range(power + 1):
-                    if p > len(numbers):
-                        continue
-                    model = make_pipeline(PolynomialFeatures(p), LinearRegression())
-                    model.fit(x, y)
-                    index = 0
-                    result = 0
-                    while index <= forecast:
-                        result += model.predict(np.array([[len(numbers) + index]]))[0]
-                        index += 1
-                    if result < 0:
-                        result = 0
-                    results.append(math.ceil(result))
-                if arima is not None:
-                    for p in arima["p"]:
-                        for d in arima["d"]:
-                            for q in arima["q"]:
-                                # noinspection PyBroadException
-                                try:
-                                    model = ARIMA(y, order=(p, d, q))
-                                    warnings.filterwarnings("ignore", category=ConvergenceWarning)
-                                    warnings.filterwarnings("ignore", category=UserWarning)
-                                    warnings.filterwarnings("ignore", category=RuntimeWarning)
-                                    model = model.fit()
-                                    index = 1
-                                    result = 0
-                                    while index <= forecast + 1:
-                                        result += model.forecast(index)[0]
-                                        index += 1
-                                    if result < 0:
-                                        result = 0
-                                    results.append(math.ceil(result))
-                                except:
-                                    continue
-                if svr is not None:
-                    for c in svr["C"]:
-                        for g in svr["gamma"]:
-                            for e in svr["epsilon"]:
-                                # noinspection PyBroadException
-                                try:
-                                    model = SVR(kernel="rbf", C=c, gamma=g, epsilon=e)
-                                    model.fit(x, y)
-                                    index = 0
-                                    result = 0
-                                    while index <= forecast:
-                                        result += model.predict(np.array([[len(numbers) + index]]))[0]
-                                        index += 1
-                                    if result < 0:
-                                        result = 0
-                                    results.append(math.ceil(result))
-                                except:
-                                    continue
-            if len(results) < 1:
-                if len(data["History"][item]) > 0:
-                    results.append(data["History"][item])
-                else:
-                    results.append(0)
-            print(f"Predictions are {results}.")
-            if mode == "max":
-                result = math.ceil(max(results))
-            elif mode == "min":
-                result = math.ceil(min(results))
-            else:
-                result = math.ceil(sum(results) / len(results))
-            print(f"Predicted demand over next {forecast + 1} periods is {result} with {mode} estimation.")
-            result -= data["Inventory"][item]
-            print(f"Have {data['Inventory'][item]} in inventory, so need {result}.")
-            for s in data["Shipments"]:
-                if s["Time"] <= forecast and item in s:
-                    if item in s and s[item] > 0:
-                        result -= s[item]
-                        print(f"Shipment arriving in {forecast} periods with {s[item]}, so now need {result}")
-            if buffer > 0:
-                result += buffer
-                print(f"Want a buffer of {buffer}, so total needed is {result}.")
-            if result < 0:
+    # Ensure the configuration is valid.
+    arima = clean_arima(arima)
+    svr = clean_svr(svr)
+    if arima is None and svr is None and power < 1:
+        power = 1
+    if mode != "max" and mode != "min" and mode != "average":
+        mode = "max"
+    if forecast < 0:
+        forecast = 0
+    # Predict every item.
+    for item in shipment:
+        print(f"\nPredicting demand for {item}.")
+        history = data["History"][item]
+        results = []
+        # Store the last order as a possible prediction.
+        if len(history) > 0:
+            results.append(history[-1])
+        print(f"Previous orders are {history}.")
+        # Check with every step back in history.
+        for i in range(2, len(history) + 1):
+            numbers = history[-i:]
+            x = np.array(range(len(numbers))).reshape(-1, 1)
+            y = np.array(numbers)
+            # Compute possible polynomials.
+            for p in range(power + 1):
+                # Do not try to compute polynomials that are a higher degree than there are numbers.
+                if p >= len(numbers):
+                    continue
+                # Fit the data.
+                model = make_pipeline(PolynomialFeatures(p), LinearRegression())
+                model.fit(x, y)
+                # Predict the demand over the forecasted period.
+                index = 0
                 result = 0
-            if result > 0:
-                print(f"Placing order of {result}.")
-            else:
-                print(f"Not ordering anything.")
-            shipment[item] = result
+                while index <= forecast:
+                    result += model.predict(np.array([[len(numbers) + index]]))[0]
+                    index += 1
+                # Cannot predict negative values.
+                if result < 0:
+                    result = 0
+                results.append(math.ceil(result))
+            # Run ARIMA.
+            if arima is not None:
+                for p in arima["p"]:
+                    for d in arima["d"]:
+                        for q in arima["q"]:
+                            # noinspection PyBroadException
+                            try:
+                                # Fit the model.
+                                model = ARIMA(y, order=(p, d, q))
+                                warnings.filterwarnings("ignore", category=ConvergenceWarning)
+                                warnings.filterwarnings("ignore", category=UserWarning)
+                                warnings.filterwarnings("ignore", category=RuntimeWarning)
+                                model = model.fit()
+                                # Predict the demand over the forecasted period.
+                                index = 1
+                                result = 0
+                                while index <= forecast + 1:
+                                    result += model.forecast(index)[0]
+                                    index += 1
+                                # Cannot predict negative values.
+                                if result < 0:
+                                    result = 0
+                                results.append(math.ceil(result))
+                            except:
+                                continue
+            # Run SVR.
+            if svr is not None:
+                for c in svr["C"]:
+                    for g in svr["gamma"]:
+                        for e in svr["epsilon"]:
+                            # noinspection PyBroadException
+                            try:
+                                # Fit the model.
+                                model = SVR(kernel="rbf", C=c, gamma=g, epsilon=e)
+                                model.fit(x, y)
+                                # Predict the demand over the forecasted period.
+                                index = 0
+                                result = 0
+                                while index <= forecast:
+                                    result += model.predict(np.array([[len(numbers) + index]]))[0]
+                                    index += 1
+                                # Cannot predict negative values.
+                                if result < 0:
+                                    result = 0
+                                results.append(math.ceil(result))
+                            except:
+                                continue
+        # If no predictions were successful, assume zero required.
+        if len(results) < 1:
+            results.append(0)
+        print(f"Predictions are {results}.")
+        # Determine the best prediction by the given mode.
+        if mode == "max":
+            result = math.ceil(max(results))
+        elif mode == "min":
+            result = math.ceil(min(results))
+        else:
+            result = math.ceil(sum(results) / len(results))
+        print(f"Predicted demand over next {forecast + 1} periods is {result} with {mode} estimation.")
+        # Use what is in inventory to contribute towards the predicted requirements.
+        result -= data["Inventory"][item]
+        print(f"Have {data['Inventory'][item]} in inventory, so need {result}.")
+        # If any shipments will arrive during this period, contribute them towards the predicted requirements.
+        for s in data["Shipments"]:
+            if s["Time"] <= forecast and item in s:
+                if item in s and s[item] > 0:
+                    result -= s[item]
+                    print(f"Shipment arriving in {forecast} periods with {s[item]}, so now need {result}")
+        # Add the buffer that should be maintained.
+        if buffer > 0:
+            result += buffer
+            print(f"Want a buffer of {buffer}, so total needed is {result}.")
+        # Cannot order a negative amount.
+        if result < 0:
+            result = 0
+        if result > 0:
+            print(f"Placing order of {result}.")
+        else:
+            print(f"Not ordering anything.")
+        shipment[item] = result
     return shipment
 
 
-def test(path: str, start: int = 1, memory: int = 1, lead: int = 0, forecast: int = 2, buffer: int = 0,
+def test(path: str, start: int = 1, memory: int = 1, lead: int = 0, forecast: int = 0, buffer: int = 0,
          capacity: int = 0, power: int = 1, mode: str = "max", arima: dict or None = None,
          svr: dict or None = None) -> None:
+    """
+    Test a forecasting model given a CSV file.
+    :param path: The path to the file.
+    :param start: Which index in the data to start testing from.
+    :param memory: How much past orders should be given to the forecasting model.
+    :param lead: How long is the lead time before orders arrive.
+    :param forecast: How much to forecast with the model.
+    :param buffer: The desired inventory buffer to have.
+    :param capacity: The maximum inventory capacity to hold.
+    :param power: The polynomial up which to compute predictions with.
+    :param mode: How to choose the prediction between 'max', 'min', and 'average'.
+    :param arima: The ARIMA configuration to use.
+    :param svr: The SVR configuration to use.
+    :return: Nothing.
+    """
+    # Nothing to do if the dataset cannot be loaded.
     dataset = load(path)
-    if dataset is None:
+    if dataset is None or "Starting" not in dataset:
         return None
+    # Start the inventory with the initial amount.
     data = {"Inventory": dataset["Starting"]}
+    # Ensure the starting index is valid.
     if start < 1:
         start = 1
-    s = str(start)
+    index = start
+    s = str(index)
+    # Ensure there is a starting index, otherwise return nothing.
     while s not in dataset:
         start -= 1
         if start < 1:
             return None
+    # Configure the order history.
     history = {}
     for item in dataset[s]:
         history[item] = []
-    memory_index = start - 1
+    # If zero or a negative memory was passed, all previous values are passed to the forecasting model.
     fixed_memory = memory > 0
     if not fixed_memory:
         memory = start - 1
     original_memory = memory
-    while memory > 0:
-        memory -= 1
-        current = 1 if memory_index < 1 else memory_index
-        for key in history:
-            history[key].insert(0, dataset[str(current)][key])
-        memory_index -= 1
+    memory_index = start - 1
+    # With fixed memory, account for the given number of past instances.
+    # If there are not enough, pad the history with the first instance.
+    if fixed_memory:
+        while memory > 0:
+            memory -= 1
+            current = 1 if memory_index < 1 else memory_index
+            for key in history:
+                history[key].insert(0, dataset[str(current)][key])
+            memory_index -= 1
+    # Otherwise, add all previous instances.
+    else:
+        while memory_index > 0:
+            for key in history:
+                history[key].insert(0, dataset[str(memory_index)][key])
+            memory_index -= 1
+    # Start the history and shipments.
     data["History"] = history
     data["Shipments"] = []
     print(f"\nTesting on data from {path}.")
+    # Ensure parameters are valid.
     arima = clean_arima(arima)
     svr = clean_svr(svr)
     if arima is None and svr is None and power < 1:
@@ -232,11 +328,15 @@ def test(path: str, start: int = 1, memory: int = 1, lead: int = 0, forecast: in
     if forecast > 0:
         print(f"Forecasting {forecast} periods.")
     print(f"Choosing prediction by {mode}.")
+    # Loop until the end of the data is reached.
     results = []
     while True:
+        # If the current step is not in the dataset, the testing is done.
         if s not in dataset:
+            # Ensure the folder exists to hold all results.
             if not os.path.exists("Results"):
                 os.mkdir("Results")
+            # Ensure a folder for this configuration exists.
             name = (f"Start={start} Memory={original_memory if fixed_memory else 'All'} Lead={lead} "
                     f"Forecast={forecast} Buffer={buffer} Capacity={capacity if capacity > 0 else 'None'} "
                     f"Power={power if power > 0 else 'None'} ARIMA=")
@@ -251,11 +351,13 @@ def test(path: str, start: int = 1, memory: int = 1, lead: int = 0, forecast: in
             save = os.path.join("Results", name)
             if not os.path.exists(save):
                 os.mkdir(save)
+            # Make a folder for this dataset.
             file = os.path.basename(path)
             file, _ = os.path.splitext(file)
             save = os.path.join(save, file)
             if not os.path.exists(save):
                 os.mkdir(save)
+            # Write the data for every item type.
             for key in data["Inventory"]:
                 s = "Period,Inventory,Arrived,Available,Needed,Succeeded,Failed,Lost"
                 index = 1
@@ -264,6 +366,7 @@ def test(path: str, start: int = 1, memory: int = 1, lead: int = 0, forecast: in
                 total_arrived = 0
                 total_required = 0
                 total_lost = 0
+                # Write the data for every period.
                 for result in results:
                     inventory = result[key]["Inventory"]
                     arrived = result[key]["Arrived"]
@@ -280,6 +383,7 @@ def test(path: str, start: int = 1, memory: int = 1, lead: int = 0, forecast: in
                     total_required += (succeeded + failed)
                     total_lost += lost
                     index += 1
+                # Write the series to a CSV file.
                 f = open(os.path.join(save, f"{key}.csv"), "w")
                 f.write(s)
                 f.close()
@@ -289,10 +393,12 @@ def test(path: str, start: int = 1, memory: int = 1, lead: int = 0, forecast: in
                      f"\nArrived: {total_arrived}"
                      f"\nRequired: {total_required}")
                 print(f"\n{file} | {key}\n{s}")
+                # Write the overview to a text file.
                 f = open(os.path.join(save, f"{key}.txt"), "w")
                 f.write(s)
                 f.close()
             return None
+        # Store the information for this period.
         inventory = {}
         arrived = {}
         successes = {}
@@ -302,10 +408,13 @@ def test(path: str, start: int = 1, memory: int = 1, lead: int = 0, forecast: in
             inventory[key] = data["Inventory"][key]
             arrived[key] = 0
             lost[key] = 0
+        # Handle shipments.
         for i in range(len(data["Shipments"])):
             if i >= len(data["Shipments"]):
                 break
+            # Reduce the periods remaining before arriving for each shipment.
             data["Shipments"][i]["Time"] -= 1
+            # If the shipment has arrived, add them to inventory.
             if data["Shipments"][i]["Time"] <= 0:
                 arrived = data["Shipments"][i]
                 for item in arrived:
@@ -315,46 +424,118 @@ def test(path: str, start: int = 1, memory: int = 1, lead: int = 0, forecast: in
                     arrived[item] += arrived[item]
                 data["Shipments"].pop(i)
                 i -= 1
+        # Get the order to be placed by the forecasting model.
         placed = predict(data, forecast, buffer, power, mode, arima, svr)
+        # Make the request for the order.
         if isinstance(placed, dict):
+            # Ensure only valid items are ordered.
+            # No use yet, but could be useful for future LLM implementations.
             for key in placed:
                 if key not in data["Inventory"]:
                     placed.pop(key)
                 elif placed[key] < 0:
                     placed[key] = 0
+            # If an item was not ordered, ensure it is represented.
             for key in data["Inventory"]:
                 if key not in placed:
                     placed[key] = 0
+            # Set the lead time for it to arrive and add it to the shipments.
             placed["Time"] = lead
             data["Shipments"].append(placed)
+        # Check what orders need to be fulfilled.
         for key in dataset[s]:
             ordered = dataset[s][key]
             current = data["Inventory"][key]
+            # If there is enough in inventory to cover the order, cover it fully.
             if current - ordered > 0:
                 data["Inventory"][key] -= ordered
                 failures[key] = 0
                 successes[key] = ordered
+            # Otherwise, determine how much was covered and how much failed.
             else:
                 remaining = ordered - current
                 failures[key] = remaining
                 successes[key] = current
                 data["Inventory"][key] = 0
+            # Add the order to the history.
             history[key].append(ordered)
+            # Trim the oldest order if using a fixed memory size.
             if fixed_memory:
                 history[key].pop(0)
+        # If there is a maximum capacity, it must be met.
         if capacity > 0:
+            # Discard items until the capacity is met.
             while sum(data["Inventory"].values()) > capacity:
+                # Remove the item which has the largest capacity.
                 greatest = max(data["Inventory"], key=data["Inventory"].get)
                 data["Inventory"][greatest] -= 1
                 lost[greatest] += 1
+        # Store results.
         result = {}
         for key in data["Inventory"]:
             result[key] = {"Inventory": inventory[key], "Arrived": arrived[key], "Succeeded": successes[key],
                            "Failed": failures[key], "Lost": lost[key]}
         results.append(result)
-        start += 1
-        s = str(start)
+        # Go to the next period.
+        index += 1
+        s = str(index)
 
 
-test("Data/peak.csv", start=1, memory=5, lead=2, forecast=2, buffer=25, capacity=0, power=3, mode="max",
-     arima={}, svr={})
+def auto(path: str or list, start: int or list = 1, memory: int or list = 1, lead: int or list = 1,
+         forecast: int or list = 0, buffer: int or list = 0, capacity: int or list = 0, power: int or list = 1,
+         mode: str or list = "max", arima: list or dict or None = None, svr: dict or list or None = None) -> None:
+    """
+    Automatically test multiple options.
+    :param path: The path to the file.
+    :param start: Which index in the data to start testing from.
+    :param memory: How much past orders should be given to the forecasting model.
+    :param lead: How long is the lead time before orders arrive.
+    :param forecast: How much to forecast with the model.
+    :param buffer: The desired inventory buffer to have.
+    :param capacity: The maximum inventory capacity to hold.
+    :param power: The polynomial up which to compute predictions with.
+    :param mode: How to choose the prediction between 'max', 'min', and 'average'.
+    :param arima: The ARIMA configuration to use.
+    :param svr: The SVR configuration to use.
+    :return: Nothing.
+    """
+    # Ensure values are all converted to lists.
+    if isinstance(path, str):
+        path = [path]
+    if isinstance(start, int):
+        start = [start]
+    if isinstance(memory, int):
+        memory = [memory]
+    if isinstance(lead, int):
+        lead = [lead]
+    if isinstance(forecast, int):
+        forecast = [forecast]
+    if isinstance(buffer, int):
+        buffer = [buffer]
+    if isinstance(capacity, int):
+        capacity = [capacity]
+    if isinstance(power, int):
+        power = [power]
+    if isinstance(mode, str):
+        mode = [mode]
+    if not isinstance(arima, list):
+        arima = [arima]
+    if not isinstance(svr, list):
+        svr = [svr]
+    # Test all configurations.
+    for p in path:
+        for s in start:
+            for m in memory:
+                for le in lead:
+                    for f in forecast:
+                        for b in buffer:
+                            for c in capacity:
+                                for po in power:
+                                    for mo in mode:
+                                        for a in arima:
+                                            for sv in svr:
+                                                test(p, s, m, le, f, b, c, po, mo, a, sv)
+
+
+if __name__ == '__main__':
+    auto("Data/peak.csv", 1, 5, [0, 1, 2], [0, 1, 2], 25, 0, 3, "max", {}, {})
