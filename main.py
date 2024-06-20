@@ -18,135 +18,6 @@ def load(path: str) -> dict | None:
     return pd.read_csv(path).set_index("Item").T.to_dict()
 
 
-def test(path: str, index: int = 1, memory: int = 1, lead: int = 0, forecast: int = 2, buffer: int = 0,
-         capacity: int = 0, power: int = 1, mode: str = "max", arima: dict or None = None,
-         svr: dict or None = None) -> dict or None:
-    dataset = load(path)
-    if dataset is None:
-        return None
-    data = {"Inventory": dataset["Starting"]}
-    if index < 1:
-        index = 1
-    s = str(index)
-    while s not in dataset:
-        index -= 1
-        if index < 1:
-            return None
-    history = {}
-    for item in dataset[s]:
-        history[item] = []
-    memory_index = index - 1
-    fixed_memory = memory > 0
-    if not fixed_memory:
-        memory = index - 1
-    while memory > 0:
-        memory -= 1
-        current = 1 if memory_index < 1 else memory_index
-        for key in history:
-            history[key].insert(0, dataset[str(current)][key])
-        memory_index -= 1
-    data["History"] = history
-    data["Shipments"] = []
-    successes = []
-    failures = []
-    losses = []
-    imports = []
-    succeeded = 0
-    failed = 0
-    lost = 0
-    imported = 0
-    required = 0
-    for item in data["Inventory"]:
-        required -= data["Inventory"][item]
-    print(f"\nTesting on data from {path}.")
-    if index > 2:
-        print(f"Starting at {index}.")
-    if lead > 0:
-        print(f"Order lead time of {lead} periods.")
-    if fixed_memory:
-        print(f"Memory of {memory}.")
-    if buffer > 0:
-        print(f"Supply buffer of {buffer}.")
-    if capacity > 0:
-        print(f"Warehouse capacity of {capacity}.")
-    print(f"Fitting with polynomials of {power}.")
-    print(f"Choosing prediction by {mode}.")
-    while True:
-        if s not in dataset:
-            print(f"\nSucceeded: {succeeded}")
-            print(f"Failed: {failed}")
-            if capacity > 0:
-                print(f"Lost: {lost}")
-            print(f"Imported: {imported}")
-            print(f"Required: {required}")
-            return {"Succeeded": succeeded, "Failed": failed, "Lost": lost, "Imported": imported, "Required": required,
-                    "Successes": successes, "Failures": failures, "Losses": losses, "Imports": imports}
-        current_import = {}
-        for key in dataset[s]:
-            current_import[key] = 0
-        for i in range(len(data["Shipments"])):
-            if i >= len(data["Shipments"]):
-                break
-            data["Shipments"][i]["Time"] -= 1
-            if data["Shipments"][i]["Time"] <= 0:
-                arrived = data["Shipments"][i]
-                for item in arrived:
-                    if item == "Time":
-                        continue
-                    data["Inventory"][item] += arrived[item]
-                    current_import[item] += arrived[item]
-                    imported += arrived[item]
-                data["Shipments"].pop(i)
-                i -= 1
-        imports.append(current_import)
-        shipment = predict(data, lead + forecast, buffer, power, mode, arima, svr)
-        if isinstance(shipment, dict):
-            for key in shipment:
-                if key not in data["Inventory"]:
-                    shipment.pop(key)
-                elif shipment[key] < 0:
-                    shipment[key] = 0
-            for key in data["Inventory"]:
-                if key not in shipment:
-                    shipment[key] = 0
-            shipment["Time"] = lead
-            data["Shipments"].append(shipment)
-        failure = {}
-        success = {}
-        for key in dataset[s]:
-            order = dataset[s][key]
-            current = data["Inventory"][key]
-            if current - order > 0:
-                data["Inventory"][key] -= order
-                failure[key] = 0
-                success[key] = order
-            else:
-                remaining = order - current
-                failure[key] = remaining
-                success[key] = current
-                data["Inventory"][key] = 0
-            failed += failure[key]
-            succeeded += success[key]
-            required += order
-            history[key].append(order)
-            if fixed_memory:
-                history[key].pop(0)
-        successes.append(success)
-        failures.append(failure)
-        loss = {}
-        for key in dataset[s]:
-            loss[key] = 0
-        if capacity > 0:
-            while sum(data["Inventory"].values()) > capacity:
-                greatest = max(data["Inventory"], key=data["Inventory"].get)
-                data["Inventory"][greatest] -= 1
-                lost += 1
-                loss[greatest] += 1
-        losses.append(loss)
-        index += 1
-        s = str(index)
-
-
 def clean_parameters(d: dict, key: str, default: int or float or str = 1, acceptable: int or float or list = 0) -> dict:
     if key not in d:
         d[key] = [default]
@@ -171,6 +42,26 @@ def clean_parameters(d: dict, key: str, default: int or float or str = 1, accept
     return d
 
 
+def clean_arima(arima: dict or None) -> dict or None:
+    if isinstance(arima, dict):
+        arima = clean_parameters(arima, "p", 1, 0)
+        arima = clean_parameters(arima, "d", 1, 0)
+        arima = clean_parameters(arima, "q", 1, 0)
+    else:
+        arima = None
+    return arima
+
+
+def clean_svr(svr: dict or None) -> dict or None:
+    if isinstance(svr, dict):
+        svr = clean_parameters(svr, "C", 100, 0)
+        svr = clean_parameters(svr, "gamma", "scale", ["auto", "scale"])
+        svr = clean_parameters(svr, "epsilon", 0.1, 0)
+    else:
+        svr = None
+    return svr
+
+
 def predict(data: dict, forecast: int = 0, buffer: int = 0, power: int = 1, mode: str = "max",
             arima: dict or None = None, svr: dict or None = None) -> dict:
     if data is None and "Inventory" not in data:
@@ -179,18 +70,8 @@ def predict(data: dict, forecast: int = 0, buffer: int = 0, power: int = 1, mode
     for item in data["Inventory"]:
         shipment[item] = 0
     if "History" in data:
-        if isinstance(arima, dict):
-            arima = clean_parameters(arima, "p", 1, 0)
-            arima = clean_parameters(arima, "d", 1, 0)
-            arima = clean_parameters(arima, "q", 1, 0)
-        else:
-            arima = None
-        if isinstance(svr, dict):
-            svr = clean_parameters(svr, "C", 100, 0)
-            svr = clean_parameters(svr, "gamma", "scale", ["auto", "scale"])
-            svr = clean_parameters(svr, "epsilon", 0.1, 0)
-        else:
-            svr = None
+        arima = clean_arima(arima)
+        svr = clean_svr(svr)
         if arima is None and svr is None and power < 1:
             power = 1
         if mode != "max" and mode != "min" and mode != "average":
@@ -289,5 +170,183 @@ def predict(data: dict, forecast: int = 0, buffer: int = 0, power: int = 1, mode
     return shipment
 
 
-test("Data/peak.csv", index=1, memory=5, lead=0, forecast=1, buffer=25, capacity=0, power=3, mode="max",
+def test(path: str, start: int = 1, memory: int = 1, lead: int = 0, forecast: int = 2, buffer: int = 0,
+         capacity: int = 0, power: int = 1, mode: str = "max", arima: dict or None = None,
+         svr: dict or None = None) -> None:
+    dataset = load(path)
+    if dataset is None:
+        return None
+    data = {"Inventory": dataset["Starting"]}
+    if start < 1:
+        start = 1
+    s = str(start)
+    while s not in dataset:
+        start -= 1
+        if start < 1:
+            return None
+    history = {}
+    for item in dataset[s]:
+        history[item] = []
+    memory_index = start - 1
+    fixed_memory = memory > 0
+    if not fixed_memory:
+        memory = start - 1
+    original_memory = memory
+    while memory > 0:
+        memory -= 1
+        current = 1 if memory_index < 1 else memory_index
+        for key in history:
+            history[key].insert(0, dataset[str(current)][key])
+        memory_index -= 1
+    data["History"] = history
+    data["Shipments"] = []
+    succeeded = 0
+    failed = 0
+    loss = 0
+    imported = 0
+    required = 0
+    for item in data["Inventory"]:
+        required -= data["Inventory"][item]
+    print(f"\nTesting on data from {path}.")
+    arima = clean_arima(arima)
+    svr = clean_svr(svr)
+    if arima is None and svr is None and power < 1:
+        power = 1
+    if mode != "max" and mode != "min" and mode != "average":
+        mode = "max"
+    if forecast < 0:
+        forecast = 0
+    if start > 2:
+        print(f"Starting at {start}.")
+    if lead > 0:
+        print(f"Order lead time of {lead} periods.")
+    if buffer > 0:
+        print(f"Want a supply buffer of {buffer}.")
+    if capacity > 0:
+        print(f"Warehouse capacity of {capacity}.")
+    if fixed_memory:
+        print(f"Memory of {memory}.")
+    if power > 0:
+        print(f"Fitting with polynomials up to {power}.")
+    if arima is not None:
+        print(f"Using ARIMA with P={arima['p']}, D={arima['d']}] and Q={arima['q']}.")
+    if svr is not None:
+        print(f"Using SVR with C={svr['C']}, Gamma={svr['gamma']}], and Epsilon={svr['epsilon']}.")
+    if forecast > 0:
+        print(f"Forecasting {forecast} periods.")
+    print(f"Choosing prediction by {mode}.")
+    results = []
+    while True:
+        if s not in dataset:
+            print(f"\nSucceeded: {succeeded}")
+            print(f"Failed: {failed}")
+            if capacity > 0:
+                print(f"Lost: {loss}")
+            print(f"Imported: {imported}")
+            print(f"Required: {required}")
+            if not os.path.exists("Results"):
+                os.mkdir("Results")
+            name = (f"Start={start} Memory={original_memory if fixed_memory else 'All'} Lead={lead} Forecast={forecast}"
+                    f"Buffer={buffer} Capacity={capacity if capacity > 0 else 'None'} "
+                    f"Power={power if power > 0 else 'None'} ARIMA=")
+            if arima is None:
+                name += "None SVR="
+            else:
+                name += f"[P={arima['p']} D={arima['d']}] Q={arima['q']}] SVR="
+            if svr is None:
+                name += "None"
+            else:
+                name += f"[C={svr['C']} Gamma={svr['gamma']}] Epsilon={svr['epsilon']}]"
+            save = os.path.join("Results", name)
+            if not os.path.exists(save):
+                os.mkdir(save)
+            file = os.path.basename(path)
+            file, _ = os.path.splitext(file)
+            save = os.path.join(save, file)
+            if not os.path.exists(save):
+                os.mkdir(save)
+            for key in data["Inventory"]:
+                s = "Period,Inventory,Arrived,Available,Needed,Succeeded,Failed,Lost"
+                index = 1
+                for result in results:
+                    inventory = result[key]["Inventory"]
+                    arrived = result[key]["Arrived"]
+                    succeeded = result[key]["Succeeded"]
+                    failed = result[key]["Failed"]
+                    lost = result[key]["Lost"]
+                    s += (f"\n{index},{inventory},{arrived},{inventory + arrived},{succeeded + failed},{succeeded},"
+                          f"{failed},{lost}")
+                f = open(os.path.join(save, f"{key}.csv"), "w")
+                f.write(s)
+                f.close()
+            return None
+        inventory = {}
+        arrived = {}
+        successes = {}
+        failures = {}
+        lost = {}
+        for key in data["Inventory"]:
+            inventory[key] = data["Inventory"][key]
+            arrived[key] = 0
+            lost[key] = 0
+        for i in range(len(data["Shipments"])):
+            if i >= len(data["Shipments"]):
+                break
+            data["Shipments"][i]["Time"] -= 1
+            if data["Shipments"][i]["Time"] <= 0:
+                arrived = data["Shipments"][i]
+                for item in arrived:
+                    if item == "Time":
+                        continue
+                    data["Inventory"][item] += arrived[item]
+                    arrived[item] += arrived[item]
+                    imported += arrived[item]
+                data["Shipments"].pop(i)
+                i -= 1
+        placed = predict(data, forecast, buffer, power, mode, arima, svr)
+        if isinstance(placed, dict):
+            for key in placed:
+                if key not in data["Inventory"]:
+                    placed.pop(key)
+                elif placed[key] < 0:
+                    placed[key] = 0
+            for key in data["Inventory"]:
+                if key not in placed:
+                    placed[key] = 0
+            placed["Time"] = lead
+            data["Shipments"].append(placed)
+        for key in dataset[s]:
+            ordered = dataset[s][key]
+            current = data["Inventory"][key]
+            if current - ordered > 0:
+                data["Inventory"][key] -= ordered
+                failures[key] = 0
+                successes[key] = ordered
+            else:
+                remaining = ordered - current
+                failures[key] = remaining
+                successes[key] = current
+                data["Inventory"][key] = 0
+            failed += failures[key]
+            succeeded += successes[key]
+            required += ordered
+            history[key].append(ordered)
+            if fixed_memory:
+                history[key].pop(0)
+        if capacity > 0:
+            while sum(data["Inventory"].values()) > capacity:
+                greatest = max(data["Inventory"], key=data["Inventory"].get)
+                data["Inventory"][greatest] -= 1
+                loss += 1
+                lost[greatest] += 1
+        result = {}
+        for key in data["Inventory"]:
+            result[key] = {"Inventory": inventory[key], "Arrived": arrived[key], "Succeeded": successes[key],
+                           "Failed": failures[key], "Lost": lost[key]}
+        results.append(result)
+        start += 1
+        s = str(start)
+
+
+test("Data/peak.csv", start=1, memory=5, lead=2, forecast=2, buffer=25, capacity=0, power=3, mode="max",
      arima={}, svr={})
