@@ -166,6 +166,10 @@ def predict(data: dict, forecast: int = 0, buffer: int = 0, power: int = 1, mode
                 print(f"Want a buffer of {buffer}, so total needed is {result}.")
             if result < 0:
                 result = 0
+            if result > 0:
+                print(f"Placing order of {result}.")
+            else:
+                print(f"Not ordering anything.")
             shipment[item] = result
     return shipment
 
@@ -200,13 +204,6 @@ def test(path: str, start: int = 1, memory: int = 1, lead: int = 0, forecast: in
         memory_index -= 1
     data["History"] = history
     data["Shipments"] = []
-    succeeded = 0
-    failed = 0
-    loss = 0
-    imported = 0
-    required = 0
-    for item in data["Inventory"]:
-        required -= data["Inventory"][item]
     print(f"\nTesting on data from {path}.")
     arima = clean_arima(arima)
     svr = clean_svr(svr)
@@ -238,16 +235,10 @@ def test(path: str, start: int = 1, memory: int = 1, lead: int = 0, forecast: in
     results = []
     while True:
         if s not in dataset:
-            print(f"\nSucceeded: {succeeded}")
-            print(f"Failed: {failed}")
-            if capacity > 0:
-                print(f"Lost: {loss}")
-            print(f"Imported: {imported}")
-            print(f"Required: {required}")
             if not os.path.exists("Results"):
                 os.mkdir("Results")
-            name = (f"Start={start} Memory={original_memory if fixed_memory else 'All'} Lead={lead} Forecast={forecast}"
-                    f"Buffer={buffer} Capacity={capacity if capacity > 0 else 'None'} "
+            name = (f"Start={start} Memory={original_memory if fixed_memory else 'All'} Lead={lead} "
+                    f"Forecast={forecast} Buffer={buffer} Capacity={capacity if capacity > 0 else 'None'} "
                     f"Power={power if power > 0 else 'None'} ARIMA=")
             if arima is None:
                 name += "None SVR="
@@ -268,6 +259,11 @@ def test(path: str, start: int = 1, memory: int = 1, lead: int = 0, forecast: in
             for key in data["Inventory"]:
                 s = "Period,Inventory,Arrived,Available,Needed,Succeeded,Failed,Lost"
                 index = 1
+                total_succeeded = 0
+                total_failed = 0
+                total_arrived = 0
+                total_required = 0
+                total_lost = 0
                 for result in results:
                     inventory = result[key]["Inventory"]
                     arrived = result[key]["Arrived"]
@@ -276,7 +272,24 @@ def test(path: str, start: int = 1, memory: int = 1, lead: int = 0, forecast: in
                     lost = result[key]["Lost"]
                     s += (f"\n{index},{inventory},{arrived},{inventory + arrived},{succeeded + failed},{succeeded},"
                           f"{failed},{lost}")
+                    if index == 1:
+                        total_required -= inventory
+                    total_succeeded += succeeded
+                    total_failed += failed
+                    total_arrived += arrived
+                    total_required += (succeeded + failed)
+                    total_lost += lost
+                    index += 1
                 f = open(os.path.join(save, f"{key}.csv"), "w")
+                f.write(s)
+                f.close()
+                s = (f"Succeeded: {total_succeeded}"
+                     f"\nFailed: {total_failed}"
+                     f"\nLost: {total_lost}"
+                     f"\nArrived: {total_arrived}"
+                     f"\nRequired: {total_required}")
+                print(f"\n{file} | {key}\n{s}")
+                f = open(os.path.join(save, f"{key}.txt"), "w")
                 f.write(s)
                 f.close()
             return None
@@ -300,7 +313,6 @@ def test(path: str, start: int = 1, memory: int = 1, lead: int = 0, forecast: in
                         continue
                     data["Inventory"][item] += arrived[item]
                     arrived[item] += arrived[item]
-                    imported += arrived[item]
                 data["Shipments"].pop(i)
                 i -= 1
         placed = predict(data, forecast, buffer, power, mode, arima, svr)
@@ -327,9 +339,6 @@ def test(path: str, start: int = 1, memory: int = 1, lead: int = 0, forecast: in
                 failures[key] = remaining
                 successes[key] = current
                 data["Inventory"][key] = 0
-            failed += failures[key]
-            succeeded += successes[key]
-            required += ordered
             history[key].append(ordered)
             if fixed_memory:
                 history[key].pop(0)
@@ -337,7 +346,6 @@ def test(path: str, start: int = 1, memory: int = 1, lead: int = 0, forecast: in
             while sum(data["Inventory"].values()) > capacity:
                 greatest = max(data["Inventory"], key=data["Inventory"].get)
                 data["Inventory"][greatest] -= 1
-                loss += 1
                 lost[greatest] += 1
         result = {}
         for key in data["Inventory"]:
