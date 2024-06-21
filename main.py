@@ -93,7 +93,7 @@ def clean_svr(svr: dict or None) -> dict or None:
     return svr
 
 
-def predict(data: dict, forecast: int = 0, buffer: int = 0, power: int = 1, mode: str = "max",
+def predict(data: dict, forecast: int = 0, buffer: int = 0, power: int = 1, top: int = 1,
             arima: dict or None = None, svr: dict or None = None, verbose: bool = False) -> dict:
     """
     Predict what to order for an inbound shipment.
@@ -101,7 +101,7 @@ def predict(data: dict, forecast: int = 0, buffer: int = 0, power: int = 1, mode
     :param forecast: How much to forecast with the model.
     :param buffer: The desired inventory buffer to have.
     :param power: The polynomial up which to compute predictions with.
-    :param mode: How to choose the prediction with either 'max' or 'average'.
+    :param top: The number of top parameters to take into account for averaging the prediction.
     :param arima: The ARIMA configuration to use.
     :param svr: The SVR configuration to use.
     :param verbose: Whether outputs should be verbose or not.
@@ -119,8 +119,6 @@ def predict(data: dict, forecast: int = 0, buffer: int = 0, power: int = 1, mode
     svr = clean_svr(svr)
     if arima is None and svr is None and power < 1:
         power = 1
-    if mode != "max" and mode != "average":
-        mode = "max"
     if forecast < 0:
         forecast = 0
     # Predict every item.
@@ -209,13 +207,14 @@ def predict(data: dict, forecast: int = 0, buffer: int = 0, power: int = 1, mode
             results.append(0)
         if verbose:
             print(f"Predictions are {results}.")
-        # Determine the best prediction by the given mode.
-        if mode == "max":
-            result = math.ceil(max(results))
-        else:
-            result = math.ceil(sum(results) / len(results))
+        # Determine the best prediction by averaging the top best values.
+        if 0 < top < len(results):
+            results = sorted(results, reverse=True)[:top]
+            if verbose:
+                print(f"Top {top} predictions are {results}.")
+        result = math.ceil(sum(results) / len(results))
         if verbose:
-            print(f"Predicted demand over next {forecast + 1} periods is {result} with {mode} estimation.")
+            print(f"Predicted demand over next {forecast + 1} periods is {result}.")
         # Use what is in inventory to contribute towards the predicted requirements.
         result -= data["Inventory"][item]
         if verbose:
@@ -245,7 +244,7 @@ def predict(data: dict, forecast: int = 0, buffer: int = 0, power: int = 1, mode
 
 
 def test(path: str, start: int = 1, memory: int = 1, lead: int = 1, forecast: int = 0, buffer: int = 0,
-         capacity: int = 0, power: int = 1, mode: str = "max", arima: dict or None = None,
+         capacity: int = 0, power: int = 1, top: int = 1, arima: dict or None = None,
          svr: dict or None = None, verbose: bool = False) -> None:
     """
     Test a forecasting model given a CSV file.
@@ -257,7 +256,7 @@ def test(path: str, start: int = 1, memory: int = 1, lead: int = 1, forecast: in
     :param buffer: The desired inventory buffer to have.
     :param capacity: The maximum inventory capacity to hold.
     :param power: The polynomial up which to compute predictions with.
-    :param mode: How to choose the prediction with either 'max' or 'average'.
+    :param top: The number of top parameters to take into account for averaging the prediction.
     :param arima: The ARIMA configuration to use.
     :param svr: The SVR configuration to use.
     :param verbose: Whether outputs should be verbose or not.
@@ -321,10 +320,30 @@ def test(path: str, start: int = 1, memory: int = 1, lead: int = 1, forecast: in
     svr = clean_svr(svr)
     if arima is None and svr is None and power < 1:
         power = 1
-    if mode != "max" and mode != "average":
-        mode = "max"
     if forecast < 0:
         forecast = 0
+    if top < 0:
+        top = 0
+    # Build the name for the current test.
+    name = (f"Start={start} Memory={original_memory if fixed_memory else 'All'} Lead={lead} "
+            f"Forecast={forecast} Buffer={buffer} Capacity={capacity if capacity > 0 else 'None'} "
+            f"Top={top} Power={power if power > 0 else 'None'} ARIMA=")
+    if arima is None:
+        name += "None SVR="
+    else:
+        name += f"[P={arima['p']} D={arima['d']}] Q={arima['q']}] SVR="
+    if svr is None:
+        name += "None"
+    else:
+        name += f"[C={svr['C']} Gamma={svr['gamma']}] Epsilon={svr['epsilon']}]"
+    # Get the directories to save in.
+    model_path = os.path.join("Results", name)
+    file = os.path.basename(path)
+    file, _ = os.path.splitext(file)
+    data_path = os.path.join(model_path, file)
+    # If this test has already been done, no need to do it again.
+    if os.path.exists(data_path):
+        return None
     print(f"\nTesting on data from {path}.")
     if start > 2:
         print(f"Starting at {start}.")
@@ -344,7 +363,10 @@ def test(path: str, start: int = 1, memory: int = 1, lead: int = 1, forecast: in
         print(f"Using SVR with C={svr['C']}, Gamma={svr['gamma']}], and Epsilon={svr['epsilon']}.")
     if forecast > 0:
         print(f"Forecasting {forecast} periods.")
-    print(f"Choosing prediction by {mode}.")
+    if top > 0:
+        print(f"Choosing prediction by the average of the top {top} predictions.")
+    else:
+        print("Choosing prediction by the average of all predictions.")
     # Loop until the end of the data is reached.
     results = []
     while True:
@@ -354,26 +376,11 @@ def test(path: str, start: int = 1, memory: int = 1, lead: int = 1, forecast: in
             if not os.path.exists("Results"):
                 os.mkdir("Results")
             # Ensure a folder for this configuration exists.
-            name = (f"Start={start} Memory={original_memory if fixed_memory else 'All'} Lead={lead} "
-                    f"Forecast={forecast} Buffer={buffer} Capacity={capacity if capacity > 0 else 'None'} "
-                    f"Mode={mode} Power={power if power > 0 else 'None'} ARIMA=")
-            if arima is None:
-                name += "None SVR="
-            else:
-                name += f"[P={arima['p']} D={arima['d']}] Q={arima['q']}] SVR="
-            if svr is None:
-                name += "None"
-            else:
-                name += f"[C={svr['C']} Gamma={svr['gamma']}] Epsilon={svr['epsilon']}]"
-            save = os.path.join("Results", name)
-            if not os.path.exists(save):
-                os.mkdir(save)
+            if not os.path.exists(model_path):
+                os.mkdir(model_path)
             # Make a folder for this dataset.
-            file = os.path.basename(path)
-            file, _ = os.path.splitext(file)
-            save = os.path.join(save, file)
-            if not os.path.exists(save):
-                os.mkdir(save)
+            if not os.path.exists(data_path):
+                os.mkdir(data_path)
             # Write the data for every item type.
             for key in data["Inventory"]:
                 s = "Period,Inventory,Arrived,Available,Needed,Succeeded,Failed,Lost"
@@ -401,7 +408,7 @@ def test(path: str, start: int = 1, memory: int = 1, lead: int = 1, forecast: in
                     total_lost += lost
                     index += 1
                 # Write the series to a CSV file.
-                f = open(os.path.join(save, f"{key}.csv"), "w")
+                f = open(os.path.join(data_path, f"{key}.csv"), "w")
                 f.write(s)
                 f.close()
                 s = (f"Succeeded: {total_succeeded}"
@@ -414,10 +421,12 @@ def test(path: str, start: int = 1, memory: int = 1, lead: int = 1, forecast: in
                     print()
                 print(f"{file} | {key}\n{s}")
                 # Write the overview to a text file.
-                f = open(os.path.join(save, f"{key}.txt"), "w")
+                f = open(os.path.join(data_path, f"{key}.txt"), "w")
                 f.write(s)
                 f.close()
             return None
+        if verbose:
+            print(f"\nPeriod {index}.")
         # Store the information for this period.
         inventory = {}
         arrived = {}
@@ -445,7 +454,7 @@ def test(path: str, start: int = 1, memory: int = 1, lead: int = 1, forecast: in
                 data["Shipments"].pop(i)
                 i -= 1
         # Get the order to be placed by the forecasting model.
-        placed = predict(data, forecast, buffer, power, mode, arima, svr, verbose)
+        placed = predict(data, forecast, buffer, power, top, arima, svr, verbose)
         # Make the request for the order.
         if isinstance(placed, dict):
             # Ensure only valid items are ordered.
@@ -502,7 +511,7 @@ def test(path: str, start: int = 1, memory: int = 1, lead: int = 1, forecast: in
 
 def auto(path: str or list, start: int or list = 1, memory: int or list = 1, lead: int or list = 1,
          forecast: int or list = 0, buffer: int or list = 0, capacity: int or list = 0, power: int or list = 1,
-         mode: str or list = "max", arima: list or dict or None = None, svr: dict or list or None = None,
+         top: int or list = 1, arima: list or dict or None = None, svr: dict or list or None = None,
          verbose: bool = False) -> None:
     """
     Automatically test multiple options.
@@ -514,7 +523,7 @@ def auto(path: str or list, start: int or list = 1, memory: int or list = 1, lea
     :param buffer: The desired inventory buffer to have.
     :param capacity: The maximum inventory capacity to hold.
     :param power: The polynomial up which to compute predictions with.
-    :param mode: How to choose the prediction with either 'max' or 'average'.
+    :param top: The number of top parameters to take into account for averaging the prediction.
     :param arima: The ARIMA configuration to use.
     :param svr: The SVR configuration to use.
     :param verbose: Whether outputs should be verbose or not.
@@ -537,8 +546,8 @@ def auto(path: str or list, start: int or list = 1, memory: int or list = 1, lea
         capacity = [capacity]
     if isinstance(power, int):
         power = [power]
-    if isinstance(mode, str):
-        mode = [mode]
+    if isinstance(top, int):
+        top = [top]
     if not isinstance(arima, list):
         arima = [arima]
     if not isinstance(svr, list):
@@ -552,11 +561,11 @@ def auto(path: str or list, start: int or list = 1, memory: int or list = 1, lea
                         for b in buffer:
                             for c in capacity:
                                 for po in power:
-                                    for mo in mode:
+                                    for t in top:
                                         for a in arima:
                                             for sv in svr:
-                                                test(p, s, m, le, f, b, c, po, mo, a, sv, verbose)
+                                                test(p, s, m, le, f, b, c, po, t, a, sv, verbose)
 
 
 if __name__ == '__main__':
-    auto("Data/COVID Ontario.csv", 1, 5, 2, 2, 50, 0, 3, ["max", "average"], {}, {})
+    auto("Data/COVID Ontario.csv", 1, 10, 2, 2, 50, 0, 2, [0, 1, 3, 5, 10], {}, {}, True)

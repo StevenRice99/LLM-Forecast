@@ -1,0 +1,2 @@
+Model,Succeeded,Failed,Lost,Arrived,Remaining
+Start=1 Memory=10 Lead=2 Forecast=2 Buffer=50 Capacity=None Top=0 Power=2 ARIMA=[P=[1] D=[1]] Q=[1]] SVR=[C=[100] Gamma=['scale']] Epsilon=[0.1]],52175,24441,0,52251,76

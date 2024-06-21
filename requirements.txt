@@ -1,5 +1,6 @@
+matplotlib
 numpy
 pandas
+requests
 scikit-learn
 statsmodels
-requests
