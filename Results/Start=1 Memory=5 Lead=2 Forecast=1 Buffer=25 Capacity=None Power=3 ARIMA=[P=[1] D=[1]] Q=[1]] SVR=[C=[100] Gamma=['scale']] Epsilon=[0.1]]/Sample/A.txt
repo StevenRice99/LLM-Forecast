@@ -1,5 +1,0 @@
-Succeeded: 537
-Failed: 77
-Lost: 0
-Arrived: 1160
-Required: 564
