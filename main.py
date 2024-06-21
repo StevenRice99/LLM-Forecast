@@ -569,4 +569,22 @@ def auto(path: str or list, start: int or list = 1, memory: int or list = 1, lea
 
 if __name__ == '__main__':
     # Initial tests to see what is the best polynomial option on its own.
-    auto("Data/COVID Ontario.csv", 1, 8, 2, [2, 4], 50, 0, [1, 2, 3], [0, 1, 3, 5, 10], None, None, False)
+    covid = "Data/COVID Ontario.csv"
+    t_start = 1
+    t_memory = 8
+    t_lead = 2
+    t_buffer = 500
+    t_capacity = 0
+    # Search for best options with just polynomials.
+    auto(covid, t_start, t_memory, t_lead, [2, 4], t_buffer, t_capacity, [1, 2, 3], [0, 1, 3, 5, 10], None, None, False)
+    # Test the best ten results now using ARIMA and SVR.
+    test(covid, t_start, t_memory, t_lead, 2, t_buffer, t_capacity, 3, 5, {}, {}, False)
+    test(covid, t_start, t_memory, t_lead, 2, t_buffer, t_capacity, 3, 3, {}, {}, False)
+    test(covid, t_start, t_memory, t_lead, 2, t_buffer, t_capacity, 3, 1, {}, {}, False)
+    test(covid, t_start, t_memory, t_lead, 2, t_buffer, t_capacity, 2, 1, {}, {}, False)
+    test(covid, t_start, t_memory, t_lead, 2, t_buffer, t_capacity, 3, 10, {}, {}, False)
+    test(covid, t_start, t_memory, t_lead, 2, t_buffer, t_capacity, 2, 3, {}, {}, False)
+    test(covid, t_start, t_memory, t_lead, 2, t_buffer, t_capacity, 2, 5, {}, {}, False)
+    test(covid, t_start, t_memory, t_lead, 2, t_buffer, t_capacity, 2, 10, {}, {}, False)
+    test(covid, t_start, t_memory, t_lead, 2, t_buffer, t_capacity, 1, 1, {}, {}, False)
+    test(covid, t_start, t_memory, t_lead, 2, t_buffer, t_capacity, 3, 0, {}, {}, False)

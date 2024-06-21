@@ -84,7 +84,7 @@ def evaluate(keys: list or None = None, x: int = 10, y: int = 5, show: bool = Fa
                             plt.show()
                         except:
                             pass
-                    continue
+                    plt.close()
                 # Read the text file to get final tabulation results.
                 if item_path.endswith(".txt"):
                     # Initialize all values to zero in case they are not found.

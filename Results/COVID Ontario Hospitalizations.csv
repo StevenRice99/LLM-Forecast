@@ -1,6 +1,31 @@
 Model,Succeeded,Failed,Lost,Arrived,Remaining
-Start=1 Memory=10 Lead=2 Forecast=2 Buffer=50 Capacity=None Top=1 Power=2 ARIMA=[P=[1] D=[1]] Q=[1]] SVR=[C=[100] Gamma=['scale']] Epsilon=[0.1]],66834,9782,0,67195,361
-Start=1 Memory=10 Lead=2 Forecast=2 Buffer=50 Capacity=None Top=3 Power=2 ARIMA=[P=[1] D=[1]] Q=[1]] SVR=[C=[100] Gamma=['scale']] Epsilon=[0.1]],64542,12074,0,64877,335
-Start=1 Memory=10 Lead=2 Forecast=2 Buffer=50 Capacity=None Top=5 Power=2 ARIMA=[P=[1] D=[1]] Q=[1]] SVR=[C=[100] Gamma=['scale']] Epsilon=[0.1]],63768,12848,0,64065,297
-Start=1 Memory=10 Lead=2 Forecast=2 Buffer=50 Capacity=None Top=10 Power=2 ARIMA=[P=[1] D=[1]] Q=[1]] SVR=[C=[100] Gamma=['scale']] Epsilon=[0.1]],62170,14446,0,62367,197
-Start=1 Memory=10 Lead=2 Forecast=2 Buffer=50 Capacity=None Top=0 Power=2 ARIMA=[P=[1] D=[1]] Q=[1]] SVR=[C=[100] Gamma=['scale']] Epsilon=[0.1]],52175,24441,0,52251,76
+Start=1 Memory=8 Lead=2 Forecast=4 Buffer=500 Capacity=None Top=5 Power=3 ARIMA=None SVR=None,76616,0,0,81458,4842
+Start=1 Memory=8 Lead=2 Forecast=4 Buffer=500 Capacity=None Top=3 Power=3 ARIMA=None SVR=None,76616,0,0,84654,8038
+Start=1 Memory=8 Lead=2 Forecast=4 Buffer=500 Capacity=None Top=1 Power=3 ARIMA=None SVR=None,76616,0,0,93817,17201
+Start=1 Memory=8 Lead=2 Forecast=4 Buffer=500 Capacity=None Top=1 Power=2 ARIMA=None SVR=None,75925,691,0,79347,3422
+Start=1 Memory=8 Lead=2 Forecast=4 Buffer=500 Capacity=None Top=10 Power=3 ARIMA=None SVR=None,75289,1327,0,77614,2325
+Start=1 Memory=8 Lead=2 Forecast=4 Buffer=500 Capacity=None Top=3 Power=2 ARIMA=None SVR=None,74750,1866,0,77108,2358
+Start=1 Memory=8 Lead=2 Forecast=4 Buffer=500 Capacity=None Top=5 Power=2 ARIMA=None SVR=None,74356,2260,0,76534,2178
+Start=1 Memory=8 Lead=2 Forecast=4 Buffer=500 Capacity=None Top=10 Power=2 ARIMA=None SVR=None,73686,2930,0,75574,1888
+Start=1 Memory=8 Lead=2 Forecast=4 Buffer=500 Capacity=None Top=1 Power=1 ARIMA=None SVR=None,73544,3072,0,75486,1942
+Start=1 Memory=8 Lead=2 Forecast=4 Buffer=500 Capacity=None Top=All Power=3 ARIMA=None SVR=None,73184,3432,0,74258,1074
+Start=1 Memory=8 Lead=2 Forecast=4 Buffer=500 Capacity=None Top=3 Power=1 ARIMA=None SVR=None,73154,3462,0,74997,1843
+Start=1 Memory=8 Lead=2 Forecast=2 Buffer=500 Capacity=None Top=1 Power=3 ARIMA=None SVR=None,72694,3922,0,75134,2440
+Start=1 Memory=8 Lead=2 Forecast=4 Buffer=500 Capacity=None Top=5 Power=1 ARIMA=None SVR=None,72669,3947,0,74424,1755
+Start=1 Memory=8 Lead=2 Forecast=4 Buffer=500 Capacity=None Top=All Power=2 ARIMA=None SVR=None,72013,4603,0,73309,1296
+Start=1 Memory=8 Lead=2 Forecast=4 Buffer=500 Capacity=None Top=10 Power=1 ARIMA=None SVR=None,71464,5152,0,72963,1499
+Start=1 Memory=8 Lead=2 Forecast=2 Buffer=500 Capacity=None Top=3 Power=3 ARIMA=None SVR=None,71127,5489,0,72028,901
+Start=1 Memory=8 Lead=2 Forecast=2 Buffer=500 Capacity=None Top=5 Power=3 ARIMA=None SVR=None,70745,5871,0,71493,748
+Start=1 Memory=8 Lead=2 Forecast=2 Buffer=500 Capacity=None Top=1 Power=2 ARIMA=None SVR=None,70640,5976,0,71451,811
+Start=1 Memory=8 Lead=2 Forecast=4 Buffer=500 Capacity=None Top=All Power=1 ARIMA=None SVR=None,70253,6363,0,71419,1166
+Start=1 Memory=8 Lead=2 Forecast=2 Buffer=500 Capacity=None Top=10 Power=3 ARIMA=None SVR=None,69787,6829,0,70417,630
+Start=1 Memory=8 Lead=2 Forecast=2 Buffer=500 Capacity=None Top=3 Power=2 ARIMA=None SVR=None,69507,7109,0,70270,763
+Start=1 Memory=8 Lead=2 Forecast=2 Buffer=500 Capacity=None Top=5 Power=2 ARIMA=None SVR=None,69122,7494,0,69827,705
+Start=1 Memory=8 Lead=2 Forecast=2 Buffer=500 Capacity=None Top=1 Power=1 ARIMA=None SVR=None,68200,8416,0,68833,633
+Start=1 Memory=8 Lead=2 Forecast=2 Buffer=500 Capacity=None Top=10 Power=2 ARIMA=None SVR=None,68082,8534,0,68673,591
+Start=1 Memory=8 Lead=2 Forecast=2 Buffer=500 Capacity=None Top=3 Power=1 ARIMA=None SVR=None,67689,8927,0,68278,589
+Start=1 Memory=8 Lead=2 Forecast=2 Buffer=500 Capacity=None Top=5 Power=1 ARIMA=None SVR=None,66876,9740,0,67424,548
+Start=1 Memory=8 Lead=2 Forecast=2 Buffer=500 Capacity=None Top=10 Power=1 ARIMA=None SVR=None,64599,12017,0,65033,434
+Start=1 Memory=8 Lead=2 Forecast=2 Buffer=500 Capacity=None Top=All Power=3 ARIMA=None SVR=None,64398,12218,0,64681,283
+Start=1 Memory=8 Lead=2 Forecast=2 Buffer=500 Capacity=None Top=All Power=2 ARIMA=None SVR=None,63481,13135,0,63821,340
+Start=1 Memory=8 Lead=2 Forecast=2 Buffer=500 Capacity=None Top=All Power=1 ARIMA=None SVR=None,61806,14810,0,62074,268
