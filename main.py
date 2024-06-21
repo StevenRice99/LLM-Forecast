@@ -327,7 +327,7 @@ def test(path: str, start: int = 1, memory: int = 1, lead: int = 1, forecast: in
     # Build the name for the current test.
     name = (f"Start={start} Memory={original_memory if fixed_memory else 'All'} Lead={lead} "
             f"Forecast={forecast} Buffer={buffer} Capacity={capacity if capacity > 0 else 'None'} "
-            f"Top={top} Power={power if power > 0 else 'None'} ARIMA=")
+            f"Top={top if top > 0 else 'All'} Power={power if power > 0 else 'None'} ARIMA=")
     if arima is None:
         name += "None SVR="
     else:
@@ -568,4 +568,5 @@ def auto(path: str or list, start: int or list = 1, memory: int or list = 1, lea
 
 
 if __name__ == '__main__':
-    auto("Data/COVID Ontario.csv", 1, 10, 2, 2, 50, 0, 2, [0, 1, 3, 5, 10], {}, {}, False)
+    # Initial tests to see what is the best polynomial option on its own.
+    auto("Data/COVID Ontario.csv", 1, 8, 2, [2, 4], 50, 0, [1, 2, 3], [0, 1, 3, 5, 10], None, None, False)
