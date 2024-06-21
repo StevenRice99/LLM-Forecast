@@ -437,12 +437,12 @@ def test(path: str, start: int = 1, memory: int = 1, lead: int = 1, forecast: in
             data["Shipments"][i]["Time"] -= 1
             # If the shipment has arrived, add them to inventory.
             if data["Shipments"][i]["Time"] <= 0:
-                arrived = data["Shipments"][i]
-                for item in arrived:
+                curr = data["Shipments"][i]
+                for item in curr:
                     if item == "Time":
                         continue
-                    data["Inventory"][item] += arrived[item]
-                    arrived[item] += arrived[item]
+                    data["Inventory"][item] += curr[item]
+                    arrived[item] += curr[item]
                 data["Shipments"].pop(i)
                 i -= 1
         # Get the order to be placed by the forecasting model.
