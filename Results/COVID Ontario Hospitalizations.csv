@@ -1,2 +1,6 @@
 Model,Succeeded,Failed,Lost,Arrived,Remaining
+Start=1 Memory=10 Lead=2 Forecast=2 Buffer=50 Capacity=None Top=1 Power=2 ARIMA=[P=[1] D=[1]] Q=[1]] SVR=[C=[100] Gamma=['scale']] Epsilon=[0.1]],66834,9782,0,67195,361
+Start=1 Memory=10 Lead=2 Forecast=2 Buffer=50 Capacity=None Top=3 Power=2 ARIMA=[P=[1] D=[1]] Q=[1]] SVR=[C=[100] Gamma=['scale']] Epsilon=[0.1]],64542,12074,0,64877,335
+Start=1 Memory=10 Lead=2 Forecast=2 Buffer=50 Capacity=None Top=5 Power=2 ARIMA=[P=[1] D=[1]] Q=[1]] SVR=[C=[100] Gamma=['scale']] Epsilon=[0.1]],63768,12848,0,64065,297
+Start=1 Memory=10 Lead=2 Forecast=2 Buffer=50 Capacity=None Top=10 Power=2 ARIMA=[P=[1] D=[1]] Q=[1]] SVR=[C=[100] Gamma=['scale']] Epsilon=[0.1]],62170,14446,0,62367,197
 Start=1 Memory=10 Lead=2 Forecast=2 Buffer=50 Capacity=None Top=0 Power=2 ARIMA=[P=[1] D=[1]] Q=[1]] SVR=[C=[100] Gamma=['scale']] Epsilon=[0.1]],52175,24441,0,52251,76
