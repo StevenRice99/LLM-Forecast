@@ -275,7 +275,6 @@ def test(path: str, start: int = 1, memory: int = 1, lead: int = 1, forecast: in
         start -= 1
         if start < 1:
             return None
-    print(1)
     index = start
     # Initialize the inventory needed to succeed for the first day.
     data = {"Inventory": {}}
@@ -326,27 +325,26 @@ def test(path: str, start: int = 1, memory: int = 1, lead: int = 1, forecast: in
         mode = "max"
     if forecast < 0:
         forecast = 0
-    if verbose:
-        print(f"\nTesting on data from {path}.")
-        if start > 2:
-            print(f"Starting at {start}.")
-        if lead > 0:
-            print(f"Order lead time of {lead} periods.")
-        if buffer > 0:
-            print(f"Want a supply buffer of {buffer}.")
-        if capacity > 0:
-            print(f"Warehouse capacity of {capacity}.")
-        if fixed_memory:
-            print(f"Memory of {memory}.")
-        if power > 0:
-            print(f"Fitting with polynomials up to {power}.")
-        if arima is not None:
-            print(f"Using ARIMA with P={arima['p']}, D={arima['d']}] and Q={arima['q']}.")
-        if svr is not None:
-            print(f"Using SVR with C={svr['C']}, Gamma={svr['gamma']}], and Epsilon={svr['epsilon']}.")
-        if forecast > 0:
-            print(f"Forecasting {forecast} periods.")
-        print(f"Choosing prediction by {mode}.")
+    print(f"\nTesting on data from {path}.")
+    if start > 2:
+        print(f"Starting at {start}.")
+    if lead > 0:
+        print(f"Order lead time of {lead} periods.")
+    if buffer > 0:
+        print(f"Want a supply buffer of {buffer}.")
+    if capacity > 0:
+        print(f"Warehouse capacity of {capacity}.")
+    if fixed_memory:
+        print(f"Memory of {original_memory}.")
+    if power > 0:
+        print(f"Fitting with polynomials up to {power}.")
+    if arima is not None:
+        print(f"Using ARIMA with P={arima['p']}, D={arima['d']}] and Q={arima['q']}.")
+    if svr is not None:
+        print(f"Using SVR with C={svr['C']}, Gamma={svr['gamma']}], and Epsilon={svr['epsilon']}.")
+    if forecast > 0:
+        print(f"Forecasting {forecast} periods.")
+    print(f"Choosing prediction by {mode}.")
     # Loop until the end of the data is reached.
     results = []
     while True:
@@ -358,7 +356,7 @@ def test(path: str, start: int = 1, memory: int = 1, lead: int = 1, forecast: in
             # Ensure a folder for this configuration exists.
             name = (f"Start={start} Memory={original_memory if fixed_memory else 'All'} Lead={lead} "
                     f"Forecast={forecast} Buffer={buffer} Capacity={capacity if capacity > 0 else 'None'} "
-                    f"Power={power if power > 0 else 'None'} ARIMA=")
+                    f"Mode={mode} Power={power if power > 0 else 'None'} ARIMA=")
             if arima is None:
                 name += "None SVR="
             else:
@@ -413,7 +411,8 @@ def test(path: str, start: int = 1, memory: int = 1, lead: int = 1, forecast: in
                      f"\nRequired: {total_required}"
                      f"\nRemaining: {data['Inventory'][key]}")
                 if verbose:
-                    print(f"\n{file} | {key}\n{s}")
+                    print()
+                print(f"{file} | {key}\n{s}")
                 # Write the overview to a text file.
                 f = open(os.path.join(save, f"{key}.txt"), "w")
                 f.write(s)
@@ -560,5 +559,4 @@ def auto(path: str or list, start: int or list = 1, memory: int or list = 1, lea
 
 
 if __name__ == '__main__':
-    test("Data/COVID Ontario.csv", 1, 5, 2, 2, 25, 0, 3, "max", {}, {}, True)
-    #auto("Data/COVID Ontario.csv", 1, 5, [0, 1, 2], [0, 1, 2], 25, 0, 3, "max", {}, {})
+    auto("Data/COVID Ontario.csv", 1, 5, 2, 2, 50, 0, 3, ["max", "average"], {}, {})
