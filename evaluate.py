@@ -5,10 +5,11 @@ from matplotlib.ticker import MaxNLocator
 import pandas as pd
 
 
-def evaluate(keys: list or None = None, x: int = 10, y: int = 5, show: bool = False) -> None:
+def evaluate(keys: list or None = None, sort: bool = True, x: int = 10, y: int = 5, show: bool = False) -> None:
     """
     Evaluate all results and make plots.
     :param keys: The keys to consider for plotting.
+    :param sort: If the results should be sorted.
     :param x: The X size of the plots.
     :param y: The Y size of the plots.
     :param show: Whether to show the plots or not.
@@ -115,14 +116,16 @@ def evaluate(keys: list or None = None, x: int = 10, y: int = 5, show: bool = Fa
     # Save tabulated results.
     for dataset_item in results:
         # Sort the data so the best models are listed first.
-        current = dict(sorted(results[dataset_item].items(), key=lambda val: (
-            -val[1]["Succeeded"],
-            val[1]["Failed"],
-            val[1]["Lost"],
-            val[1]["Arrived"],
-            val[1]["Remaining"],
-            val[0]
-        )))
+        current = results[dataset_item]
+        if sort:
+            current = dict(sorted(current.items(), key=lambda val: (
+                -val[1]["Succeeded"],
+                val[1]["Failed"],
+                val[1]["Lost"],
+                val[1]["Arrived"],
+                val[1]["Remaining"],
+                val[0]
+            )))
         # Format the results as a CSV file and save it.
         s = "Start,Memory,Lead,Forecast,Buffer,Capacity,Top,Power,ARIMA,SVR"
         for title in titles:
@@ -144,4 +147,4 @@ def evaluate(keys: list or None = None, x: int = 10, y: int = 5, show: bool = Fa
 
 
 if __name__ == '__main__':
-    evaluate(["Available", "Needed"], show=False)
+    evaluate(["Available", "Needed"], True, 10, 5, False)
