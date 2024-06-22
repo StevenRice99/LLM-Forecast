@@ -70,7 +70,7 @@ def evaluate(keys: list or None = None, x: int = 10, y: int = 5, show: bool = Fa
                     for key in data:
                         plt.plot(time, data[key], label=key)
                     plt.xlabel('Period')
-                    plt.ylabel(item)
+                    plt.ylabel(item[:-4])
                     plt.legend()
                     ax = plt.gca()
                     # Ensure the values for each axis are whole numbers.
