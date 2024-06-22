@@ -331,11 +331,11 @@ def test(path: str, start: int = 1, memory: int = 1, lead: int = 1, forecast: in
     if arima is None:
         name += "None SVR="
     else:
-        name += f"[P={arima['p']} D={arima['d']}] Q={arima['q']}] SVR="
+        name += f"[P={arima['p']},D={arima['d']}],Q={arima['q']}] SVR="
     if svr is None:
         name += "None"
     else:
-        name += f"[C={svr['C']} Gamma={svr['gamma']}] Epsilon={svr['epsilon']}]"
+        name += f"[C={svr['C']},Gamma={svr['gamma']}],Epsilon={svr['epsilon']}]"
     # Get the directories to save in.
     model_path = os.path.join("Results", name)
     file = os.path.basename(path)

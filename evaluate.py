@@ -124,11 +124,18 @@ def evaluate(keys: list or None = None, x: int = 10, y: int = 5, show: bool = Fa
             val[0]
         )))
         # Format the results as a CSV file and save it.
-        s = "Model"
+        s = "Start,Memory,Lead,Forecast,Buffer,Capacity,Top,Power,ARIMA,SVR"
         for title in titles:
             s += f",{title}"
         for model in current:
-            s += f"\n{model}"
+            parameters = model.split(" ")
+            s += "\n"
+            first = True
+            for p in parameters:
+                p = p.split("=")
+                p = p[1] if len(p) > 1 else "-"
+                s += p if first else f",{p}"
+                first = False
             for title in current[model]:
                 s += f",{current[model][title]}"
         f = open(os.path.join("Results", f"{dataset_item}.csv"), "w")
