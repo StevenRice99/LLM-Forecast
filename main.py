@@ -1,5 +1,6 @@
 import math
 import os.path
+import time
 import warnings
 
 import numpy as np
@@ -331,11 +332,11 @@ def test(path: str, start: int = 1, memory: int = 1, lead: int = 1, forecast: in
     if arima is None:
         name += "None SVR="
     else:
-        name += f"[P={arima['p']},D={arima['d']}],Q={arima['q']}] SVR="
+        name += f"[P-{arima['p']}_D-{arima['d']}]_Q-{arima['q']}] SVR="
     if svr is None:
         name += "None"
     else:
-        name += f"[C={svr['C']},Gamma={svr['gamma']}],Epsilon={svr['epsilon']}]"
+        name += f"[C-{svr['C']}_Gamma-{svr['gamma']}]_Epsilon-{svr['epsilon']}]"
     # Get the directories to save in.
     model_path = os.path.join("Results", name)
     file = os.path.basename(path)
@@ -369,9 +370,11 @@ def test(path: str, start: int = 1, memory: int = 1, lead: int = 1, forecast: in
         print("Choosing prediction by the average of all predictions.")
     # Loop until the end of the data is reached.
     results = []
+    start_time = time.time()
     while True:
         # If the current step is not in the dataset, the testing is done.
         if index not in dataset:
+            end_time = time.time()
             # Ensure the folder exists to hold all results.
             if not os.path.exists("Results"):
                 os.mkdir("Results")
@@ -411,12 +414,19 @@ def test(path: str, start: int = 1, memory: int = 1, lead: int = 1, forecast: in
                 f = open(os.path.join(data_path, f"{key}.csv"), "w")
                 f.write(s)
                 f.close()
+                # Get the time in seconds
+                seconds = end_time - start_time
+                seconds = math.ceil(seconds)
+                hours = seconds // 3600
+                minutes = (seconds % 3600) // 60
+                seconds = seconds % 60
                 s = (f"Succeeded: {total_succeeded}"
                      f"\nFailed: {total_failed}"
                      f"\nLost: {total_lost}"
                      f"\nArrived: {total_arrived}"
                      f"\nRequired: {total_required}"
-                     f"\nRemaining: {data['Inventory'][key]}")
+                     f"\nRemaining: {data['Inventory'][key]}"
+                     f"\nTime: {hours:02}:{minutes:02}:{seconds:02}")
                 if verbose:
                     print()
                 print(f"{file} | {key}\n{s}")

@@ -1,6 +1,0 @@
-Succeeded: 69787
-Failed: 6829
-Lost: 0
-Arrived: 70417
-Required: 76616
-Remaining: 630

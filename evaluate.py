@@ -29,7 +29,7 @@ def evaluate(keys: list or None = None, sort: bool = True, x: int = 10, y: int =
     if keys is None or len(keys) < 1:
         keys = all_keys
     # All possible titles to read from text files for final tabulation.
-    titles = ["Succeeded", "Failed", "Lost", "Arrived", "Remaining"]
+    titles = ["Succeeded", "Failed", "Lost", "Arrived", "Remaining", "Time"]
     # Store results for final tabulation.
     results = {}
     # Loop through all models.
@@ -106,7 +106,11 @@ def evaluate(keys: list or None = None, sort: bool = True, x: int = 10, y: int =
                         title = line[0][:-1]
                         # If the title is needed, set it.
                         if title in titles:
-                            result[title] = int(line[1])
+                            # noinspection PyBroadException
+                            try:
+                                result[title] = int(line[1])
+                            except:
+                                result[title] = line[1]
                     # Save it under the dataset and item.
                     category = f"{dataset} {item[:-4]}"
                     # Initialize the category if it does not yet exist.
@@ -124,6 +128,7 @@ def evaluate(keys: list or None = None, sort: bool = True, x: int = 10, y: int =
                 val[1]["Lost"],
                 val[1]["Arrived"],
                 val[1]["Remaining"],
+                val[1]["Time"],
                 val[0]
             )))
         # Format the results as a CSV file and save it.
