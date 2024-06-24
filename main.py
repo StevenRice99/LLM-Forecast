@@ -420,13 +420,17 @@ def test(path: str, start: int = 1, memory: int = 1, lead: int = 1, forecast: in
                 hours = seconds // 3600
                 minutes = (seconds % 3600) // 60
                 seconds = seconds % 60
+                if hours > 0:
+                    time_s = f"{hours:02}:{minutes:02}:{seconds:02}"
+                else:
+                    time_s = f"{minutes}:{seconds:02}"
                 s = (f"Succeeded: {total_succeeded}"
                      f"\nFailed: {total_failed}"
                      f"\nLost: {total_lost}"
                      f"\nArrived: {total_arrived}"
                      f"\nRequired: {total_required}"
                      f"\nRemaining: {data['Inventory'][key]}"
-                     f"\nTime: {hours:02}:{minutes:02}:{seconds:02}")
+                     f"\nTime: {time_s}")
                 if verbose:
                     print()
                 print(f"{file} | {key}\n{s}")
@@ -582,11 +586,11 @@ if __name__ == '__main__':
          1,
          8,
          2,
-         [2, 4],
+         2,
          500,
          0,
          [0, 1, 2, 3],
-         [0, 1, 3, 5, 10],
+         [0, 1, 5, 10],
          [None, {}],
          [None, {}],
          False
