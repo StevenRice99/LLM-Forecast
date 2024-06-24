@@ -579,19 +579,3 @@ def auto(path: str or list, start: int or list = 1, memory: int or list = 1, lea
                                         for a in arima:
                                             for sv in svr:
                                                 test(p, s, m, le, f, b, c, po, t, a, sv, verbose)
-
-
-if __name__ == '__main__':
-    auto("Data/COVID Ontario.csv",
-         1,
-         8,
-         2,
-         2,
-         500,
-         0,
-         [0, 1, 2, 3],
-         [0, 1, 5, 10],
-         [None, {}],
-         [None, {}],
-         False
-         )
