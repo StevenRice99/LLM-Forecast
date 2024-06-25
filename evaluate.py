@@ -5,9 +5,11 @@ from matplotlib.ticker import MaxNLocator
 import pandas as pd
 
 
-def evaluate(keys: list or None = None, sort: bool = True, x: int = 10, y: int = 5, show: bool = False) -> None:
+def evaluate(root: str = "Results", keys: list or None = None, sort: bool = True, x: int = 10, y: int = 5,
+             show: bool = False) -> None:
     """
     Evaluate all results and make plots.
+    :param root: The root to search in.
     :param keys: The keys to consider for plotting.
     :param sort: If the results should be sorted.
     :param x: The X size of the plots.
@@ -16,7 +18,7 @@ def evaluate(keys: list or None = None, sort: bool = True, x: int = 10, y: int =
     :return: Nothing.
     """
     # Nothing to do if there are no results.
-    if not os.path.exists("Results"):
+    if not os.path.exists(root):
         return None
     # Store all possible keys.
     all_keys = ["Inventory", "Arrived", "Available", "Needed", "Succeeded", "Failed", "Lost"]
@@ -33,9 +35,9 @@ def evaluate(keys: list or None = None, sort: bool = True, x: int = 10, y: int =
     # Store results for final tabulation.
     results = {}
     # Loop through all models.
-    models = os.listdir("Results")
+    models = os.listdir(root)
     for model in models:
-        model_path = os.path.join("Results", model)
+        model_path = os.path.join(root, model)
         if not os.path.isdir(model_path):
             continue
         # Loop through all datasets the model has been tested on.
@@ -146,10 +148,11 @@ def evaluate(keys: list or None = None, sort: bool = True, x: int = 10, y: int =
                 first = False
             for title in current[model]:
                 s += f",{current[model][title]}"
-        f = open(os.path.join("Results", f"{dataset_item}.csv"), "w")
+        f = open(os.path.join(root, f"{dataset_item}.csv"), "w")
         f.write(s)
         f.close()
 
 
 if __name__ == '__main__':
-    evaluate(["Available", "Needed"], True, 10, 5, False)
+    evaluate("Results/FIRST", ["Available", "Needed", "Arrived"], True, 10, 5, False)
+    evaluate("Results/SECOND", ["Available", "Needed", "Arrived"], True, 10, 5, False)
