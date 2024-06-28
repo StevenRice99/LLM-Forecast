@@ -1,3 +1,4 @@
+gnews
 matplotlib
 numpy
 pandas
