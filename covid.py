@@ -33,15 +33,19 @@ def convert():
     df = df[df["region"] == "ON"]
     # Get the data into a list for indexing.
     data = []
+    dates = []
     for index, row in df.iterrows():
         data.append(row["value_daily"])
+        dates.append(row["date"])
     # The Ontario data was only done weekly, so keep only those value.
     week = 0
     step = 7
     cleaned = []
+    cleaned_dates = []
     for i in range(len(data)):
         if i == 1 or i == week:
             cleaned.append(int(data[i]))
+            cleaned_dates.append(dates[i])
             week += step
     # Ensure the directory to save the formatted data exists.
     if not os.path.exists("Data"):
@@ -53,6 +57,18 @@ def convert():
     for i in range(len(cleaned)):
         s += f"\n{i + 1},{cleaned[i]}"
     f = open(os.path.join("Data", "COVID Ontario.csv"), "w")
+    f.write(s)
+    f.close()
+    # Write dates for use in web scraping later.
+    path = os.path.join("Data", "Dates")
+    if not os.path.exists(path):
+        os.mkdir(path)
+    if not os.path.exists(path):
+        return
+    s = cleaned_dates[0]
+    for i in range(1, len(cleaned_dates)):
+        s += f"\n{cleaned_dates[i]}"
+    f = open(os.path.join(path, "COVID Ontario.txt"), "w")
     f.write(s)
     f.close()
 

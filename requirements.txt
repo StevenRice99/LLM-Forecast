@@ -1,5 +1,7 @@
+duckduckgo_search
 gnews
 matplotlib
+newspaper3k
 numpy
 pandas
 requests
