@@ -209,7 +209,7 @@ def search_news(keywords: str or list or None = None, max_results: int = 100, la
     if keywords is None:
         words = ""
     else:
-        words = f" containing the keyword{'s' if len(keywords) > 1 else ''} {keywords[0]}"
+        words = f" regarding {keywords[0]}"
         for i in range(1, len(keywords)):
             if i == len(keywords) - 1:
                 words += f"{',' if len(keywords) > 2 else ''} or {keywords[i]}"
@@ -256,6 +256,6 @@ def parse_dates(file: str) -> list:
 
 if __name__ == '__main__':
     #weeks = parse_dates("COVID Ontario.txt")
-    search_news(keywords="COVID-19 Pandemic Hospitalizations", location="Ontario, Canada",
+    search_news(keywords="COVID-19", location="Ontario, Canada",
                 trusted=["CDC", "Canada.ca", "Statistique Canada", "AFP Factcheck"], max_results=100,
                 end_date=(2022, 11, 30), delay=0, summarize=True)
