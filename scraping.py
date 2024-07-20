@@ -13,7 +13,8 @@ from webdriver_manager.firefox import GeckoDriverManager
 def search_news(keywords: str or list or None = None, max_results: int = 100, language: str = "en", country: str = "CA",
                 location: str or None = None, end_date: tuple or datetime.datetime or None = None, days: int = 7,
                 exclude_websites: list or None = None, trusted: list or None = None, model: str or None = None,
-                delay: float = 0, summarize: bool = True) -> None:
+                delay: float = 0, summarize: bool = True, forecasting: str = "COVID-19 hospitalizations",
+                folder: str = "COVID Ontario") -> str:
     """
     Search the web for news.
     :param keywords: The keywords to search for.
@@ -28,24 +29,29 @@ def search_news(keywords: str or list or None = None, max_results: int = 100, la
     :param model: Which model to use for LLM summaries.
     :param delay: How much to delay web queries by to ensure we do not hit limits.
     :param summarize: Whether to summarize the results.
-    :return: Nothing.
+    :param forecasting: What is being forecast.
+    :param folder: The name of the file to save the results.
+    :return: The news articles.
     """
     # Configure the time period if one should be used.
-    if end_date is None or days < 0:
-        end_date = None
+    if end_date is None:
+        end_date = datetime.datetime.now()
+    elif isinstance(end_date, tuple):
+        end_date = datetime.datetime(end_date[0], end_date[1], end_date[2])
+    if days < 0:
         start_date = None
     else:
-        if isinstance(end_date, tuple):
-            end_date = datetime.datetime(end_date[0], end_date[1], end_date[2])
         start_date = end_date - datetime.timedelta(days=days)
+    filename = f"{end_date.year}-{end_date.month}-{end_date.day}.txt"
+    full = os.path.join("Data", "Articles", folder, filename)
+    if os.path.exists(full):
+        f = open(full, "r")
+        s = f.read()
+        f.close()
+        return s
     # Configure the news search.
     google_news = GNews(language=language, country=country, start_date=start_date, end_date=end_date,
                         max_results=max_results, exclude_websites=exclude_websites)
-    # Trim the location if it has been set.
-    if isinstance(location, str):
-        location = location.strip()
-        while location.__contains__("  "):
-            location = location.replace("  ", " ")
     # If no keywords, get the top news or location news if the location was passed.
     if keywords is None:
         if isinstance(location, str):
@@ -59,16 +65,11 @@ def search_news(keywords: str or list or None = None, max_results: int = 100, la
         # Get the keywords as a list so each can be searched.
         if isinstance(keywords, str):
             keywords = keywords.split()
-        # Append the location if there is one so set it.
-        if isinstance(location, str):
-            location = f" {location}"
-        else:
-            location = ""
         # Store all results.
         results = []
         # Search for every keyword.
         for keyword in keywords:
-            keyword_results = google_news.get_news(f"{keyword}{location}")
+            keyword_results = google_news.get_news(keyword)
             # Check all results for the keyword.
             for result in keyword_results:
                 # If this is a new result, append it.
@@ -204,28 +205,94 @@ def search_news(keywords: str or list or None = None, max_results: int = 100, la
             -val["Minute"],
             -val["Second"]
         ))
-    # Format initial output.
-    days = f" from the past {days} day{'s' if days > 1 else ''}" if days > 0 else ""
-    if keywords is None:
-        words = ""
-    else:
-        words = f" regarding {keywords[0]}"
-        for i in range(1, len(keywords)):
-            if i == len(keywords) - 1:
-                words += f"{',' if len(keywords) > 2 else ''} or {keywords[i]}"
-            else:
-                words += f", {keywords[i]}"
-    single = len(results) == 1
-    s = f"Here {'is' if single else 'are'} {len(results)} new{'i' if single else 's'} articles{days}{words}:"
-    # Add every result.
-    for result in formatted:
-        s += f"\n\nTitle: {result['Title']}"
-        s += f"\nPublisher: {result['Publisher']}"
-        s += f"\nTrusted: {result['Trusted']}"
-        if result["Summary"] is not None:
-            s += f"\nSummary: {result['Summary']}"
+    s = ""
+    if len(formatted) > 0:
+        days = f" from the past {days} day{'s' if days > 1 else ''}" if days > 0 else ""
+        if keywords is None:
+            words = ""
+        else:
+            words = f" regarding {keywords[0]}"
+            for i in range(1, len(keywords)):
+                if i == len(keywords) - 1:
+                    words += f"{',' if len(keywords) > 2 else ''} or {keywords[i]}"
+                else:
+                    words += f", {keywords[i]}"
+        single = len(results) == 1
+        s += (f"Below {'is' if single else 'are'} {len(results)} news article{'' if single else 's'}{days}{words} to "
+              f"help guide you in making your decision. Using your best judgement, take into consideration only the "
+              f"articles that are most relevant for forecasting {forecasting}{location}. Articles that are from know "
+              f"reputable sources have been flagged with \"Trusted: True\".")
+        # Add every result.
+        for i in range(len(formatted)):
+            result = formatted[i]
+            date = datetime.datetime(result["Year"], result["Month"], result["Day"])
+            difference = end_date - date
+            days = difference.days
+            if days < 0:
+                days = 0
+            s += (f"\n\nArticle {i + 1} of {len(formatted)}\nTitle: {result['Title']}\nPublisher: {result['Publisher']}"
+                  f"\nPosted: {days} day{'s' if days > 1 else ''} ago\nTrusted: {result['Trusted']}")
+            if result["Summary"] is not None:
+                s += f"\nSummary: {result['Summary']}"
     # Simply output to the console for now.
-    print(s)
+    if not os.path.exists("Data"):
+        os.mkdir("Data")
+    if os.path.exists("Data"):
+        path = os.path.join("Data", "Articles")
+        if not os.path.exists(path):
+            os.mkdir(path)
+        if os.path.exists(path):
+            path = os.path.join(path, folder)
+            if not os.path.exists(path):
+                os.mkdir(path)
+            if os.path.exists(path):
+                f = open(os.path.join(path, filename), "w")
+                f.write(s)
+                f.close()
+    return s
+
+
+def build_prompt(keywords: str or list or None = None, max_results: int = 100, language: str = "en",
+                 country: str = "CA", location: str or None = None, end_date: tuple or datetime.datetime or None = None,
+                 days: int = 7, exclude_websites: list or None = None, trusted: list or None = None,
+                 model: str or None = None, delay: float = 0, summarize: bool = True,
+                 forecasting: str = "COVID-19 hospitalizations", folder: str = "COVID Ontario", units: str = "weeks",
+                 periods: int = 1, previous: list or None = None, prediction: int or None = None):
+    articles = search_news(keywords, max_results, language, country, location, end_date, days, exclude_websites,
+                           trusted, model, delay, summarize, forecasting, folder)
+    if isinstance(location, str):
+        location = f" in {location}"
+    else:
+        location = ""
+    if periods < 1:
+        periods = 1
+    if periods == 1:
+        if units.endswith("s"):
+            forecast_units = units[:-1]
+        else:
+            forecast_units = units
+    else:
+        forecast_units = f"{periods} {units}"
+    s = (f"You are tasked with forecasting {forecasting} you predict will occur over the next {forecast_units}"
+         f"{location}. You are to respond with a single integer and nothing else.")
+    if isinstance(previous, list) and len(previous) > 0:
+        if len(previous) == 1:
+            if units.endswith("s"):
+                past_units = units[:-1]
+            else:
+                past_units = units
+        else:
+            past_units = f"{units} from oldest to newest"
+        s += (f" Here {'are' if len(previous) > 1 else 'is'} the number of {forecasting}{location} over the past "
+              f"{len(previous)} {past_units}: {previous[0]}")
+        for i in range(1, len(previous)):
+            s += f", {previous[i]}"
+        s += "."
+    if isinstance(prediction, int):
+        s += (f" An analytical forecasting model has predicted that over the next {forecast_units}, there will be "
+              f"{prediction} {forecasting}{location}. Using your best judgement, you may choose to keep this value or "
+              f"adjust it.")
+    return f"{s} {articles}"
 
 
 def parse_dates(file: str) -> list:
@@ -256,6 +323,5 @@ def parse_dates(file: str) -> list:
 
 if __name__ == '__main__':
     #weeks = parse_dates("COVID Ontario.txt")
-    search_news(keywords="COVID-19", location="Ontario, Canada",
-                trusted=["CDC", "Canada.ca", "Statistique Canada", "AFP Factcheck"], max_results=100,
-                end_date=(2022, 11, 30), delay=0, summarize=True)
+    #search_news(keywords="COVID-19", location="Ontario, Canada", trusted=["CDC", "Canada.ca", "Statistique Canada", "AFP Factcheck"], max_results=1, end_date=(2022, 11, 30), delay=0, summarize=True)
+    print(build_prompt(keywords="COVID-19", location="Ontario, Canada", trusted=["CDC", "Canada.ca", "Statistique Canada", "AFP Factcheck"], max_results=1, end_date=(2022, 11, 30), delay=0, summarize=True, previous=[5, 6, 12, 20], prediction=25))
