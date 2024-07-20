@@ -1,3 +1,4 @@
+import datetime
 import math
 import os.path
 import time
@@ -11,6 +12,7 @@ from sklearn.preprocessing import PolynomialFeatures
 from sklearn.svm import SVR
 from statsmodels.tools.sm_exceptions import ConvergenceWarning
 from statsmodels.tsa.arima.model import ARIMA
+from scraping import parse_dates, llm_predict
 
 
 def load(path: str) -> dict | None:
@@ -95,7 +97,13 @@ def clean_svr(svr: dict or None) -> dict or None:
 
 
 def predict(data: dict, forecast: int = 0, buffer: int = 0, power: int = 1, top: int = 1,
-            arima: dict or None = None, svr: dict or None = None, verbose: bool = False) -> dict:
+            arima: dict or None = None, svr: dict or None = None, verbose: bool = False,
+            keywords: str or list or None = "COVID-19", max_results: int = 100, language: str = "en",
+            country: str = "CA", location: str or None = "Ontario, Canada",
+            end_date: tuple or datetime.datetime or None = None, days: int = 7, exclude_websites: list or None = None,
+            trusted: list or None = None, model: str or None = None, delay: float = 0, summarize: bool = True,
+            forecasting: str = "COVID-19 hospitalizations", folder: str = "COVID Ontario", units: str = "weeks",
+            periods: int = 1, previous: list or None = None, prediction: int or None = None) -> dict:
     """
     Predict what to order for an inbound shipment.
     :param data: The data with inventory, past orders, and upcoming arrivals.
@@ -106,6 +114,24 @@ def predict(data: dict, forecast: int = 0, buffer: int = 0, power: int = 1, top:
     :param arima: The ARIMA configuration to use.
     :param svr: The SVR configuration to use.
     :param verbose: Whether outputs should be verbose or not.
+    :param keywords: The keywords to search for.
+    :param max_results: The maximum number of results to return.
+    :param language: The language to search in.
+    :param country: The Country to search in.
+    :param location: Keyword location to search with.
+    :param end_date: The latest date that news results can be from.
+    :param days: How many days prior to the end date to search from.
+    :param exclude_websites: Websites to exclude.
+    :param trusted: What websites should be labelled as trusted.
+    :param model: Which model to use for LLM summaries.
+    :param delay: How much to delay web queries by to ensure we do not hit limits.
+    :param summarize: Whether to summarize the results.
+    :param forecasting: What is being forecast.
+    :param folder: The name of the file to save the results.
+    :param units: The units of predictions.
+    :param periods: The number of periods to predict.
+    :param previous: Previous values to help predict.
+    :param prediction: A guide to help predict.
     :return: The order to place for an inbound shipment.
     """
     # Nothing to predict if there is no data.
@@ -144,13 +170,13 @@ def predict(data: dict, forecast: int = 0, buffer: int = 0, power: int = 1, top:
                 if p >= len(numbers):
                     continue
                 # Fit the data.
-                model = make_pipeline(PolynomialFeatures(p), LinearRegression())
-                model.fit(x, y)
+                m = make_pipeline(PolynomialFeatures(p), LinearRegression())
+                m.fit(x, y)
                 # Predict the demand over the forecasted period.
                 index = 0
                 result = 0
                 while index <= forecast:
-                    result += model.predict(np.array([[len(numbers) + index]]))[0]
+                    result += m.predict(np.array([[len(numbers) + index]]))[0]
                     index += 1
                 # Cannot predict negative values.
                 if result < 0:
@@ -164,16 +190,16 @@ def predict(data: dict, forecast: int = 0, buffer: int = 0, power: int = 1, top:
                             # noinspection PyBroadException
                             try:
                                 # Fit the model.
-                                model = ARIMA(y, order=(p, d, q))
+                                m = ARIMA(y, order=(p, d, q))
                                 warnings.filterwarnings("ignore", category=ConvergenceWarning)
                                 warnings.filterwarnings("ignore", category=UserWarning)
                                 warnings.filterwarnings("ignore", category=RuntimeWarning)
-                                model = model.fit()
+                                m = m.fit()
                                 # Predict the demand over the forecasted period.
                                 index = 1
                                 result = 0
                                 while index <= forecast + 1:
-                                    result += model.forecast(index)[0]
+                                    result += m.forecast(index)[0]
                                     index += 1
                                 # Cannot predict negative values.
                                 if result < 0:
@@ -189,13 +215,13 @@ def predict(data: dict, forecast: int = 0, buffer: int = 0, power: int = 1, top:
                             # noinspection PyBroadException
                             try:
                                 # Fit the model.
-                                model = SVR(kernel="rbf", C=c, gamma=g, epsilon=e)
-                                model.fit(x, y)
+                                m = SVR(kernel="rbf", C=c, gamma=g, epsilon=e)
+                                m.fit(x, y)
                                 # Predict the demand over the forecasted period.
                                 index = 0
                                 result = 0
                                 while index <= forecast:
-                                    result += model.predict(np.array([[len(numbers) + index]]))[0]
+                                    result += m.predict(np.array([[len(numbers) + index]]))[0]
                                     index += 1
                                 # Cannot predict negative values.
                                 if result < 0:
@@ -216,6 +242,14 @@ def predict(data: dict, forecast: int = 0, buffer: int = 0, power: int = 1, top:
         result = math.ceil(sum(results) / len(results))
         if verbose:
             print(f"Predicted demand over next {forecast + 1} periods is {result}.")
+        if model is not None:
+            if model not in ["gpt-3.5", "claude-3-haiku", "llama-3-70b", "mixtral-8x7b"]:
+                model = "gpt-3.5"
+            result = llm_predict(keywords, max_results, language, country, location, end_date, days, exclude_websites,
+                                 trusted, model, delay, summarize, forecasting, folder, units, periods, previous,
+                                 prediction)
+            if verbose:
+                print(f"{model} predicted demand over next {forecast + 1} periods is {result}.")
         # Use what is in inventory to contribute towards the predicted requirements.
         result -= data["Inventory"][item]
         if verbose:
@@ -246,7 +280,12 @@ def predict(data: dict, forecast: int = 0, buffer: int = 0, power: int = 1, top:
 
 def test(path: str, start: int = 1, memory: int = 1, lead: int = 1, forecast: int = 0, buffer: int = 0,
          capacity: int = 0, power: int = 1, top: int = 1, arima: dict or None = None,
-         svr: dict or None = None, verbose: bool = False) -> None:
+         svr: dict or None = None, verbose: bool = False, keywords: str or list or None = "COVID-19",
+         max_results: int = 100, language: str = "en", country: str = "CA", location: str or None = "Ontario, Canada",
+         days: int = 7, exclude_websites: list or None = None, trusted: list or None = None, model: str or None = None,
+         delay: float = 0, summarize: bool = True, forecasting: str = "COVID-19 hospitalizations", units: str = "weeks",
+         periods: int = 1, previous: list or None = None, prediction: int or None = None,
+         output: str or None = None) -> None:
     """
     Test a forecasting model given a CSV file.
     :param path: The path to the file.
@@ -261,10 +300,30 @@ def test(path: str, start: int = 1, memory: int = 1, lead: int = 1, forecast: in
     :param arima: The ARIMA configuration to use.
     :param svr: The SVR configuration to use.
     :param verbose: Whether outputs should be verbose or not.
+    :param keywords: The keywords to search for.
+    :param max_results: The maximum number of results to return.
+    :param language: The language to search in.
+    :param country: The Country to search in.
+    :param location: Keyword location to search with.
+    :param days: How many days prior to the end date to search from.
+    :param exclude_websites: Websites to exclude.
+    :param trusted: What websites should be labelled as trusted.
+    :param model: Which model to use for LLM summaries.
+    :param delay: How much to delay web queries by to ensure we do not hit limits.
+    :param summarize: Whether to summarize the results.
+    :param forecasting: What is being forecast.
+    :param units: The units of predictions.
+    :param periods: The number of periods to predict.
+    :param previous: Previous values to help predict.
+    :param prediction: A guide to help predict.
+    :param output: Sub folder for results to output to.
     :return: Nothing.
     """
     # Nothing to do if the dataset cannot be loaded.
     dataset = load(path)
+    directory, file = os.path.split(path)
+    dates = parse_dates(os.path.join(directory, "Dates", file.replace(".csv", ".txt")))
+    file_name, file_extension = os.path.splitext(file)
     if dataset is None:
         return None
     # Ensure the starting index is valid.
@@ -325,6 +384,8 @@ def test(path: str, start: int = 1, memory: int = 1, lead: int = 1, forecast: in
         forecast = 0
     if top < 0:
         top = 0
+    if model is not None and model not in ["gpt-3.5", "claude-3-haiku", "llama-3-70b", "mixtral-8x7b"]:
+        model = "gpt-3.5"
     # Build the name for the current test.
     name = (f"Start={start} Memory={original_memory if fixed_memory else 'All'} Lead={lead} "
             f"Forecast={forecast} Buffer={buffer} Capacity={capacity if capacity > 0 else 'None'} "
@@ -334,19 +395,34 @@ def test(path: str, start: int = 1, memory: int = 1, lead: int = 1, forecast: in
     else:
         name += f"[P-{arima['p']}_D-{arima['d']}]_Q-{arima['q']}] SVR="
     if svr is None:
+        name += "None Model="
+    else:
+        name += f"[C-{svr['C']}_Gamma-{svr['gamma']}]_Epsilon-{svr['epsilon']}] Model="
+    if model is not None:
         name += "None"
     else:
-        name += f"[C-{svr['C']}_Gamma-{svr['gamma']}]_Epsilon-{svr['epsilon']}]"
+        name += model
     # Get the directories to save in.
-    model_path = os.path.join("Results", name)
+    if not os.path.exists("Results"):
+        os.mkdir("Results")
+    if output is not None:
+        model_path = os.path.join("Results", output)
+        if not os.path.exists(model_path):
+            os.mkdir(model_path)
+    else:
+        model_path = "Results"
+    model_path = os.path.join(model_path, name)
+    if not os.path.exists(model_path):
+        os.mkdir(model_path)
     file = os.path.basename(path)
     file, _ = os.path.splitext(file)
     data_path = os.path.join(model_path, file)
     # If this test has already been done, no need to do it again.
     if os.path.exists(data_path):
         return None
+    os.mkdir(data_path)
     print(f"\nTesting on data from {path}.")
-    if start > 2:
+    if start > 1:
         print(f"Starting at {start}.")
     if lead > 0:
         print(f"Order lead time of {lead} periods.")
@@ -368,6 +444,8 @@ def test(path: str, start: int = 1, memory: int = 1, lead: int = 1, forecast: in
         print(f"Choosing prediction by the average of the top {top} predictions.")
     else:
         print("Choosing prediction by the average of all predictions.")
+    if model is not None:
+        print(f"Using {model} to forecast.")
     # Loop until the end of the data is reached.
     results = []
     start_time = time.time()
@@ -375,15 +453,6 @@ def test(path: str, start: int = 1, memory: int = 1, lead: int = 1, forecast: in
         # If the current step is not in the dataset, the testing is done.
         if index not in dataset:
             end_time = time.time()
-            # Ensure the folder exists to hold all results.
-            if not os.path.exists("Results"):
-                os.mkdir("Results")
-            # Ensure a folder for this configuration exists.
-            if not os.path.exists(model_path):
-                os.mkdir(model_path)
-            # Make a folder for this dataset.
-            if not os.path.exists(data_path):
-                os.mkdir(data_path)
             # Write the data for every item type.
             for key in data["Inventory"]:
                 s = "Period,Inventory,Arrived,Available,Needed,Succeeded,Failed,Lost"
@@ -468,7 +537,9 @@ def test(path: str, start: int = 1, memory: int = 1, lead: int = 1, forecast: in
                 data["Shipments"].pop(i)
                 i -= 1
         # Get the order to be placed by the forecasting model.
-        placed = predict(data, forecast, buffer, power, top, arima, svr, verbose)
+        placed = predict(data, forecast, buffer, power, top, arima, svr, verbose, keywords, max_results, language,
+                         country, location, dates[index - 1], days, exclude_websites, trusted, model, delay, summarize,
+                         forecasting, file_name, units, periods, previous, prediction)
         # Make the request for the order.
         if isinstance(placed, dict):
             # Ensure only valid items are ordered.
@@ -526,7 +597,12 @@ def test(path: str, start: int = 1, memory: int = 1, lead: int = 1, forecast: in
 def auto(path: str or list, start: int or list = 1, memory: int or list = 1, lead: int or list = 1,
          forecast: int or list = 0, buffer: int or list = 0, capacity: int or list = 0, power: int or list = 1,
          top: int or list = 1, arima: list or dict or None = None, svr: dict or list or None = None,
-         verbose: bool = False) -> None:
+         verbose: bool = False, keywords: str or list or None = "COVID-19", max_results: int = 100,
+         language: str = "en", country: str = "CA", location: str or None = "Ontario, Canada",
+         days: int = 7, exclude_websites: list or None = None, trusted: list or None = None, model: str or None = None,
+         delay: float = 0, summarize: bool = True, forecasting: str = "COVID-19 hospitalizations",
+         units: str = "weeks", periods: int = 1, previous: list or None = None, prediction: int or None = None,
+         output: str or None = None) -> None:
     """
     Automatically test multiple options.
     :param path: The path to the file.
@@ -541,6 +617,23 @@ def auto(path: str or list, start: int or list = 1, memory: int or list = 1, lea
     :param arima: The ARIMA configuration to use.
     :param svr: The SVR configuration to use.
     :param verbose: Whether outputs should be verbose or not.
+    :param keywords: The keywords to search for.
+    :param max_results: The maximum number of results to return.
+    :param language: The language to search in.
+    :param country: The Country to search in.
+    :param location: Keyword location to search with.
+    :param days: How many days prior to the end date to search from.
+    :param exclude_websites: Websites to exclude.
+    :param trusted: What websites should be labelled as trusted.
+    :param model: Which model to use for LLM summaries.
+    :param delay: How much to delay web queries by to ensure we do not hit limits.
+    :param summarize: Whether to summarize the results.
+    :param forecasting: What is being forecast.
+    :param units: The units of predictions.
+    :param periods: The number of periods to predict.
+    :param previous: Previous values to help predict.
+    :param prediction: A guide to help predict.
+    :param output: Sub folder for results to output to.
     :return: Nothing.
     """
     # Ensure values are all converted to lists.
@@ -578,4 +671,7 @@ def auto(path: str or list, start: int or list = 1, memory: int or list = 1, lea
                                     for t in top:
                                         for a in arima:
                                             for sv in svr:
-                                                test(p, s, m, le, f, b, c, po, t, a, sv, verbose)
+                                                test(p, s, m, le, f, b, c, po, t, a, sv, verbose, keywords, max_results,
+                                                     language, country, location, days, exclude_websites,
+                                                     trusted, model, delay, summarize, forecasting, units,
+                                                     periods, previous, prediction, output)

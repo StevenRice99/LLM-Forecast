@@ -1,6 +1,8 @@
 import datetime
+import math
 import os
 import time
+import re
 
 from duckduckgo_search import DDGS
 from gnews import GNews
@@ -10,8 +12,9 @@ from selenium.webdriver.firefox.service import Service
 from webdriver_manager.firefox import GeckoDriverManager
 
 
-def search_news(keywords: str or list or None = None, max_results: int = 100, language: str = "en", country: str = "CA",
-                location: str or None = None, end_date: tuple or datetime.datetime or None = None, days: int = 7,
+def search_news(keywords: str or list or None = "COVID-19", max_results: int = 10, language: str = "en",
+                country: str = "CA", location: str or None = "Ontario, Canada",
+                end_date: tuple or datetime.datetime or None = None, days: int = 7,
                 exclude_websites: list or None = None, trusted: list or None = None, model: str or None = None,
                 delay: float = 0, summarize: bool = True, forecasting: str = "COVID-19 hospitalizations",
                 folder: str = "COVID Ontario") -> str:
@@ -49,11 +52,10 @@ def search_news(keywords: str or list or None = None, max_results: int = 100, la
         s = f.read()
         f.close()
         return s
-    # Configure the news search.
-    google_news = GNews(language=language, country=country, start_date=start_date, end_date=end_date,
-                        max_results=max_results, exclude_websites=exclude_websites)
     # If no keywords, get the top news or location news if the location was passed.
     if keywords is None:
+        google_news = GNews(language=language, country=country, max_results=max_results,
+                            exclude_websites=exclude_websites)
         if isinstance(location, str):
             results = google_news.get_news(location)
         else:
@@ -62,6 +64,8 @@ def search_news(keywords: str or list or None = None, max_results: int = 100, la
             time.sleep(delay)
     # Otherwise, search by the keywords.
     else:
+        google_news = GNews(language=language, country=country, start_date=start_date, end_date=end_date,
+                            max_results=max_results, exclude_websites=exclude_websites)
         # Get the keywords as a list so each can be searched.
         if isinstance(keywords, str):
             keywords = keywords.split()
@@ -218,7 +222,7 @@ def search_news(keywords: str or list or None = None, max_results: int = 100, la
                 else:
                     words += f", {keywords[i]}"
         single = len(results) == 1
-        s += (f"Below {'is' if single else 'are'} {len(results)} news article{'' if single else 's'}{days}{words} to "
+        s += (f"Below {'is' if single else 'are'} {len(formatted)} news article{'' if single else 's'}{days}{words} to "
               f"help guide you in making your decision. Using your best judgement, take into consideration only the "
               f"articles that are most relevant for forecasting {forecasting}{location}. Articles that are from know "
               f"reputable sources have been flagged with \"Trusted: True\".")
@@ -231,7 +235,7 @@ def search_news(keywords: str or list or None = None, max_results: int = 100, la
             if days < 0:
                 days = 0
             s += (f"\n\nArticle {i + 1} of {len(formatted)}\nTitle: {result['Title']}\nPublisher: {result['Publisher']}"
-                  f"\nPosted: {days} day{'s' if days > 1 else ''} ago\nTrusted: {result['Trusted']}")
+                  f"\nPosted: {days} day{'' if days == 1 else 's'} ago\nTrusted: {result['Trusted']}")
             if result["Summary"] is not None:
                 s += f"\nSummary: {result['Summary']}"
     # Simply output to the console for now.
@@ -252,12 +256,35 @@ def search_news(keywords: str or list or None = None, max_results: int = 100, la
     return s
 
 
-def build_prompt(keywords: str or list or None = None, max_results: int = 100, language: str = "en",
-                 country: str = "CA", location: str or None = None, end_date: tuple or datetime.datetime or None = None,
-                 days: int = 7, exclude_websites: list or None = None, trusted: list or None = None,
-                 model: str or None = None, delay: float = 0, summarize: bool = True,
-                 forecasting: str = "COVID-19 hospitalizations", folder: str = "COVID Ontario", units: str = "weeks",
-                 periods: int = 1, previous: list or None = None, prediction: int or None = None):
+def llm_predict(keywords: str or list or None = "COVID-19", max_results: int = 10, language: str = "en",
+                country: str = "CA", location: str or None = "Ontario, Canada",
+                end_date: tuple or datetime.datetime or None = None, days: int = 7,
+                exclude_websites: list or None = None, trusted: list or None = None, model: str or None = None,
+                delay: float = 0, summarize: bool = True, forecasting: str = "COVID-19 hospitalizations",
+                folder: str = "COVID Ontario", units: str = "weeks", periods: int = 1, previous: list or None = None,
+                prediction: int or None = None) -> int:
+    """
+    Make a prediction with a LLM.
+    :param keywords: The keywords to search for.
+    :param max_results: The maximum number of results to return.
+    :param language: The language to search in.
+    :param country: The Country to search in.
+    :param location: Keyword location to search with.
+    :param end_date: The latest date that news results can be from.
+    :param days: How many days prior to the end date to search from.
+    :param exclude_websites: Websites to exclude.
+    :param trusted: What websites should be labelled as trusted.
+    :param model: Which model to use for LLM summaries.
+    :param delay: How much to delay web queries by to ensure we do not hit limits.
+    :param summarize: Whether to summarize the results.
+    :param forecasting: What is being forecast.
+    :param folder: The name of the file to save the results.
+    :param units: The units of predictions.
+    :param periods: The number of periods to predict.
+    :param previous: Previous values to help predict.
+    :param prediction: A guide to help predict.
+    :return: The news articles.
+    """
     articles = search_news(keywords, max_results, language, country, location, end_date, days, exclude_websites,
                            trusted, model, delay, summarize, forecasting, folder)
     if isinstance(location, str):
@@ -292,21 +319,46 @@ def build_prompt(keywords: str or list or None = None, max_results: int = 100, l
         s += (f" An analytical forecasting model has predicted that over the next {forecast_units}, there will be "
               f"{prediction} {forecasting}{location}. Using your best judgement, you may choose to keep this value or "
               f"adjust it.")
-    return f"{s} {articles}"
+    # Ensure the LLM for summarizations is valid.
+    if model is None or model not in ["gpt-3.5", "claude-3-haiku", "llama-3-70b", "mixtral-8x7b"]:
+        model = "gpt-3.5"
+    s = f"{s} {articles}"
+    if len(s) > 16000:
+        s = s[:16000]
+    s = DDGS().chat(s, model=model)
+    print(s)
+    s = s.upper().replace("COVID-19", "")
+    s = re.sub(r"[^0-9.]", "", s)
+    while s.__contains__(".."):
+        s = s.replace("..", ".")
+    s = s.split()
+    predictions = []
+    for prediction in s:
+        # noinspection PyBroadException
+        try:
+            prediction = int(prediction)
+            predictions.append(prediction)
+        except:
+            # noinspection PyBroadException
+            try:
+                prediction = math.ceil(float(prediction))
+                predictions.append(prediction)
+            except:
+                pass
+    return max(predictions) if len(predictions) > 0 else 0
 
 
 def parse_dates(file: str) -> list:
     """
     Parse all dates from a file.
-    :param file: The file to parse dates from.
+    :param file: The file to get the dates from.
     :return: The parsed dates.
     """
     # Ensure the file exists.
-    path = os.path.join("Data", "Dates", file)
-    if not os.path.exists(path):
+    if not os.path.exists(file):
         return []
     # Read the file.
-    with open(path, "r") as file:
+    with open(file, "r") as file:
         s = file.read()
     # Get every line.
     s = s.split("\n")
@@ -321,7 +373,16 @@ def parse_dates(file: str) -> list:
     return dates
 
 
+def prepare_articles(file: str, keywords: str or list or None = "COVID-19", max_results: int = 10,
+                     language: str = "en", country: str = "CA", location: str or None = "Ontario, Canada",
+                     days: int = 7, exclude_websites: list or None = None, trusted: list or None = None,
+                     model: str or None = None, delay: float = 0, summarize: bool = True,
+                     forecasting: str = "COVID-19 hospitalizations", folder: str = "COVID Ontario") -> None:
+    dates = parse_dates(file)
+    for end_date in dates:
+        search_news(keywords, max_results, language, country, location, end_date, days, exclude_websites, trusted,
+                    model, delay, summarize, forecasting, folder)
+
+
 if __name__ == '__main__':
-    #weeks = parse_dates("COVID Ontario.txt")
-    #search_news(keywords="COVID-19", location="Ontario, Canada", trusted=["CDC", "Canada.ca", "Statistique Canada", "AFP Factcheck"], max_results=1, end_date=(2022, 11, 30), delay=0, summarize=True)
-    print(build_prompt(keywords="COVID-19", location="Ontario, Canada", trusted=["CDC", "Canada.ca", "Statistique Canada", "AFP Factcheck"], max_results=1, end_date=(2022, 11, 30), delay=0, summarize=True, previous=[5, 6, 12, 20], prediction=25))
+    prepare_articles("Data/Dates/COVID Ontario.txt", trusted=["CDC", "Canada.ca", "Statistique Canada", "AFP Factcheck"])
