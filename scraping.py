@@ -380,10 +380,31 @@ def prepare_articles(file: str, keywords: str or list or None = "COVID-19", max_
                      model: str or None = None, delay: float = 0, summarize: bool = True,
                      forecasting: str = "COVID-19 hospitalizations", folder: str = "COVID Ontario") -> None:
     dates = parse_dates(file)
-    for end_date in dates:
-        search_news(keywords, max_results, language, country, location, end_date, days, exclude_websites, trusted,
+    for i in range(len(dates)):
+        print(f"Preparing articles for time period {i + 1} of {len(dates)}.")
+        search_news(keywords, max_results, language, country, location, dates[i], days, exclude_websites, trusted,
                     model, delay, summarize, forecasting, folder)
 
 
+def set_trusted(trusted: list, folder: str = "COVID Ontario") -> None:
+    path = os.path.join("Data", "Articles", folder)
+    if not os.path.exists(path):
+        return None
+    files = os.listdir(path)
+    for file in files:
+        file = os.path.join(path, file)
+        if not os.path.isfile(file):
+            continue
+        f = open(file, "r")
+        s = f.read()
+        f.close()
+        for publisher in trusted:
+            core = f"Publisher: {publisher}\nTrusted: "
+            s = s.replace(f"{core}False", f"{core}True")
+        f = open(file, "w")
+        f.write(s)
+        f.close()
+
+
 if __name__ == '__main__':
-    prepare_articles("Data/Dates/COVID Ontario.txt", trusted=["CDC", "Canada.ca", "Statistique Canada", "AFP Factcheck"])
+    prepare_articles("Data/Dates/COVID Ontario.txt", trusted=["CDC", "Canada.ca", "Statistique Canada", "AFP Factcheck"], delay=5)
