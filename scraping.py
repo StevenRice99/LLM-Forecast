@@ -2,7 +2,6 @@ import datetime
 import math
 import os
 import time
-import re
 
 from duckduckgo_search import DDGS
 from gnews import GNews
@@ -195,7 +194,7 @@ def search_news(keywords: str or list or None = "COVID-19", max_results: int = 1
         published_time = published_date[4].split(":")
         # Store the formatted data.
         formatted.append({"Title": title, "Summary": summary, "Publisher": publisher,
-                          "Year": int(published_date[3]), "Month": published_date[2],"Day": int(published_date[1]),
+                          "Year": int(published_date[3]), "Month": published_date[2], "Day": int(published_date[1]),
                           "Hour": int(published_time[0]), "Minute": int(published_time[1]),
                           "Second": int(published_time[2]), "Trusted": publisher in trusted})
     # Close the web driver.
@@ -232,13 +231,14 @@ def search_news(keywords: str or list or None = "COVID-19", max_results: int = 1
             date = datetime.datetime(result["Year"], result["Month"], result["Day"])
             difference = end_date - date
             days = difference.days
-            if days < 0:
-                days = 0
+            if days < 1:
+                posted = "Today"
+            else:
+                posted = f"{days} day{'s' if days > 1 else ''} ago"
             s += (f"\n\nArticle {i + 1} of {len(formatted)}\nTitle: {result['Title']}\nPublisher: {result['Publisher']}"
-                  f"\nPosted: {days} day{'' if days == 1 else 's'} ago\nTrusted: {result['Trusted']}")
+                  f"\nTrusted: {result['Trusted']}\nPosted: {posted}")
             if result["Summary"] is not None:
                 s += f"\nSummary: {result['Summary']}"
-    # Simply output to the console for now.
     if not os.path.exists("Data"):
         os.mkdir("Data")
     if os.path.exists("Data"):
@@ -326,26 +326,27 @@ def llm_predict(keywords: str or list or None = "COVID-19", max_results: int = 1
     if len(s) > 16000:
         s = s[:16000]
     s = DDGS().chat(s, model=model)
-    print(s)
     s = s.upper().replace("COVID-19", "")
-    s = re.sub(r"[^0-9.]", "", s)
-    while s.__contains__(".."):
-        s = s.replace("..", ".")
     s = s.split()
     predictions = []
-    for prediction in s:
+    for p in s:
         # noinspection PyBroadException
         try:
-            prediction = int(prediction)
-            predictions.append(prediction)
+            p = int(p)
+            predictions.append(p)
         except:
             # noinspection PyBroadException
             try:
-                prediction = math.ceil(float(prediction))
-                predictions.append(prediction)
+                p = math.ceil(float(p))
+                predictions.append(p)
             except:
                 pass
-    return max(predictions) if len(predictions) > 0 else 0
+    if len(predictions) < 1:
+        if prediction is None:
+            return 0
+        else:
+            return prediction
+    return max(predictions)
 
 
 def parse_dates(file: str) -> list:
