@@ -1,14 +1,20 @@
 # Python Cache
-__pycache__/
+__pycache__
 
 # Virtual Environment
-venv/
+venv
 
 # JetBrains PyCharm Cache
-.idea/
+.idea
 
 # VS Code Cache
-.vscode/
+.vscode
 
 # COVID Data
-COVID/
+COVID
+
+# Ignore HuggingFace cookies
+cookies
+
+# HuggingFace login details
+hugging_face.txt

@@ -1,5 +1,6 @@
 duckduckgo_search
 gnews
+hugchat
 matplotlib
 newspaper3k
 numpy

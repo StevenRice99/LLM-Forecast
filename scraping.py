@@ -3,12 +3,62 @@ import math
 import os
 import time
 
+import unicodedata
 from duckduckgo_search import DDGS
 from gnews import GNews
+from hugchat import hugchat
+from hugchat.login import Login
 from newspaper import Article
 from selenium import webdriver
 from selenium.webdriver.firefox.service import Service
 from webdriver_manager.firefox import GeckoDriverManager
+
+
+def hugging_face() -> hugchat.ChatBot or None:
+    """
+    Try to use HuggingChat.
+    :return: The hugging Chat interface, otherwise nothing.
+    """
+    if os.path.exists("hugging_face.txt"):
+        f = open("hugging_face.txt", "r")
+        s = f.read()
+        f.close()
+        s = s.split()
+        if len(s) > 1:
+            cookie_path_dir = "./cookies/"
+            # noinspection PyBroadException
+            try:
+                sign = Login(s[0], s[1])
+                cookies = sign.login(cookie_dir_path=cookie_path_dir, save_cookies=True)
+                return hugchat.ChatBot(cookies=cookies.get_dict())
+            except:
+                pass
+    return None
+
+
+def chat(prompt: str, hugging_chat: hugchat.ChatBot or None = hugging_face(), model: str = "gpt-3.5",
+         max_length: int = 16000) -> str:
+    if len(prompt) > max_length:
+        prompt = prompt[:max_length]
+    if hugging_chat is None:
+        hugging_chat = hugging_face()
+    if hugging_chat is not None:
+        # noinspection PyBroadException
+        try:
+            hugging_chat.new_conversation(switch_to=True)
+            result = hugging_chat.chat(prompt)
+            message = result.wait_until_done()
+            hugging_chat.delete_all_conversations()
+            return message
+        except:
+            pass
+    if model is None or model not in ["gpt-3.5", "claude-3-haiku", "llama-3-70b", "mixtral-8x7b"]:
+        model = "gpt-3.5"
+    # noinspection PyBroadException
+    try:
+        return DDGS().chat(prompt, model=model)
+    except:
+        return ""
 
 
 def search_news(keywords: str or list or None = "COVID-19", max_results: int = 10, language: str = "en",
@@ -91,6 +141,7 @@ def search_news(keywords: str or list or None = "COVID-19", max_results: int = 1
     # Ensure the LLM for summarizations is valid.
     if model is None or model not in ["gpt-3.5", "claude-3-haiku", "llama-3-70b", "mixtral-8x7b"]:
         model = "gpt-3.5"
+    hugging_chat = hugging_face()
     # Set up Firefox web driver to handle Google News URL redirects.
     service = Service(GeckoDriverManager().install())
     driver = webdriver.Firefox(service=service)
@@ -144,15 +195,16 @@ def search_news(keywords: str or list or None = "COVID-19", max_results: int = 1
                     time.sleep(delay)
                 # Summarize the summary with an LLM if requested to.
                 if summarize:
-                    summary = DDGS().chat(f"Summarize this article: {summary}", model=model)
+                    summary = chat(f"Summarize this article: {summary}", hugging_chat, model)
                     summary = summary.replace("\r", "\n")
                     while summary.__contains__("\n\n"):
                         summary = summary.replace("\n\n", "\n")
                     summary = summary.replace("\n", " ")
                     if delay > 0:
                         time.sleep(delay)
-            except:
+            except Exception as e:
                 # The article could not be downloaded, so skip it.
+                print(e)
                 continue
         # If the full article cannot be downloaded or the summarization fails, use the initial news info.
         except:
@@ -221,6 +273,10 @@ def search_news(keywords: str or list or None = "COVID-19", max_results: int = 1
                 else:
                     words += f", {keywords[i]}"
         single = len(results) == 1
+        if isinstance(location, str):
+            location = f" in {location}"
+        else:
+            location = ""
         s += (f"Below {'is' if single else 'are'} {len(formatted)} news article{'' if single else 's'}{days}{words} to "
               f"help guide you in making your decision. Using your best judgement, take into consideration only the "
               f"articles that are most relevant for forecasting {forecasting}{location}. Articles that are from know "
@@ -239,6 +295,9 @@ def search_news(keywords: str or list or None = "COVID-19", max_results: int = 1
                   f"\nTrusted: {result['Trusted']}\nPosted: {posted}")
             if result["Summary"] is not None:
                 s += f"\nSummary: {result['Summary']}"
+    s = ''.join(c for c in s if c == "\n" or unicodedata.category(c) in {"Lu", "Ll", "Lt", "Lm", "Lo", "Nd", "Nl", "No",
+                                                                         "Zs", "Zl", "Zp", "Pc", "Pd", "Ps", "Pe", "Pi",
+                                                                         "Pf", "Po", "Sm", "Sc", "Sk", "So"})
     if not os.path.exists("Data"):
         os.mkdir("Data")
     if os.path.exists("Data"):
@@ -322,10 +381,7 @@ def llm_predict(keywords: str or list or None = "COVID-19", max_results: int = 1
     # Ensure the LLM for summarizations is valid.
     if model is None or model not in ["gpt-3.5", "claude-3-haiku", "llama-3-70b", "mixtral-8x7b"]:
         model = "gpt-3.5"
-    s = f"{s} {articles}"
-    if len(s) > 16000:
-        s = s[:16000]
-    s = DDGS().chat(s, model=model)
+    s = chat(f"{s} {articles}", model=model)
     s = s.upper().replace("COVID-19", "")
     s = s.split()
     predictions = []
@@ -407,4 +463,4 @@ def set_trusted(trusted: list, folder: str = "COVID Ontario") -> None:
 
 
 if __name__ == '__main__':
-    prepare_articles("Data/Dates/COVID Ontario.txt", trusted=["CDC", "Canada.ca", "Statistique Canada", "AFP Factcheck"], delay=5)
+    prepare_articles("Data/Dates/COVID Ontario.txt", trusted=["CDC", "Canada.ca", "Statistique Canada", "AFP Factcheck"], delay=5, max_results=1)
