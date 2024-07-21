@@ -25,21 +25,23 @@ def hugging_face() -> hugchat.ChatBot or None:
         f.close()
         s = s.split()
         if len(s) > 1:
-            cookie_path_dir = "./cookies/"
             # noinspection PyBroadException
             try:
                 sign = Login(s[0], s[1])
-                cookies = sign.login(cookie_dir_path=cookie_path_dir, save_cookies=True)
+                cookies = sign.login(cookie_dir_path="./cookies/", save_cookies=True)
                 return hugchat.ChatBot(cookies=cookies.get_dict())
             except:
                 pass
     return None
 
 
-def chat(prompt: str, hugging_chat: hugchat.ChatBot or None = hugging_face(), model: str = "gpt-3.5",
+def chat(prompt: str, hugging_chat: hugchat.ChatBot or None = None, model: str = "gpt-3.5",
          max_length: int = 16000) -> str:
     if len(prompt) > max_length:
         prompt = prompt[:max_length]
+    if hugging_chat is None:
+        hugging_chat = hugging_face()
+    message = None
     if hugging_chat is None:
         hugging_chat = hugging_face()
     if hugging_chat is not None:
@@ -49,21 +51,37 @@ def chat(prompt: str, hugging_chat: hugchat.ChatBot or None = hugging_face(), mo
             result = hugging_chat.chat(prompt)
             message = result.wait_until_done()
             hugging_chat.delete_all_conversations()
-            return message
         except:
-            pass
-    if model is None or model not in ["gpt-3.5", "claude-3-haiku", "llama-3-70b", "mixtral-8x7b"]:
-        model = "gpt-3.5"
-    # noinspection PyBroadException
-    try:
-        return DDGS().chat(prompt, model=model)
-    except:
+            message = None
+    if message is None:
+        if model is None or model not in ["gpt-3.5", "claude-3-haiku", "llama-3-70b", "mixtral-8x7b"]:
+            model = "gpt-3.5"
+        # noinspection PyBroadException
+        try:
+            message = DDGS().chat(prompt, model=model)
+        except:
+            message = None
+    if message is None:
         return ""
+    message = ''.join(c for c in message if unicodedata.category(c) in {"Lu", "Ll", "Lt", "Lm", "Lo", "Nd", "Nl", "No",
+                                                                        "Zs", "Zl", "Zp", "Pc", "Pd", "Ps", "Pe", "Pi",
+                                                                        "Pf", "Po", "Sm", "Sc", "Sk", "So"})
+    message = message.replace("\r", " ")
+    message = message.replace("\n", " ")
+    message = message.replace("\t", " ")
+    message = message.replace("*", "")
+    message = message.replace("#", "")
+    message = message.replace("- ", "")
+    message = message.replace("> ", "")
+    message = message.replace("`", "")
+    while message.__contains__("  "):
+        message = message.replace("  ", " ")
+    return message.strip()
 
 
 def get_article(result: dict, driver, trusted: list, forecasting: str = "COVID-19 hospitalizations",
                 delay: float = 0, summarize: bool = True, model: str = "gpt-3.5",
-                hugging_chat: hugchat.ChatBot or None = hugging_face()) -> dict or None:
+                hugging_chat: hugchat.ChatBot or None = None) -> dict or None:
     publisher = result["publisher"]["title"]
     # Try to get the full article and then summarize it with an LLM.
     # noinspection PyBroadException
@@ -97,41 +115,33 @@ def get_article(result: dict, driver, trusted: list, forecasting: str = "COVID-1
             break
         # Download the final article.
         article = Article(driver_url)
-        # noinspection PyBroadException
-        try:
-            article.download()
-            article.parse()
-            title = article.title
-            # Clean the summary.
-            summary = article.text.strip().replace("\r", "\n")
-            while summary.__contains__("\n\n"):
-                summary = summary.replace("\n\n", "\n")
+        article.download()
+        article.parse()
+        title = article.title
+        # Clean the summary.
+        summary = article.text.replace("\r", "\n")
+        summary = summary.replace("\t", " ")
+        while summary.__contains__("\n\n"):
+            summary = summary.replace("\n\n", "\n")
+        while summary.__contains__("  "):
+            summary = summary.replace("  ", " ")
+        summary = summary.strip()
+        if delay > 0:
+            time.sleep(delay)
+        # Summarize the summary with an LLM if requested to.
+        if summarize:
+            summary = chat(f"Summarize this article, including any important facts to help forecast "
+                           f"{forecasting}: {summary}", hugging_chat, model)
             if delay > 0:
                 time.sleep(delay)
-            # Summarize the summary with an LLM if requested to.
-            if summarize:
-                summary = chat(f"Summarize this article, including any important facts to help forecast "
-                               f"{forecasting}: {summary}", hugging_chat, model)
-                summary = summary.replace("\r", "\n")
-                while summary.__contains__("\n\n"):
-                    summary = summary.replace("\n\n", "\n")
-                summary = summary.replace("\n", " ")
-                if delay > 0:
-                    time.sleep(delay)
-        except Exception as e:
-            # The article could not be downloaded, so skip it.
-            print(e)
-            return None
     # If the full article cannot be downloaded or the summarization fails, use the initial news info.
     except:
         title = result["title"].replace(publisher, "").strip().strip("-").strip()
         summary = result["Summary"].replace(publisher, "").strip().strip("-").strip()
     # No point in having the summary if it is just equal to the title.
-    if summary is not None and (title == summary or summary == "" or summary.isspace()
-                                or summary == "I'm sorry, but I cannot access external content, including articles."
-                                              " If you provide me with the main points or key information from the "
-                                              "article, I'd be happy to help summarize it for you."):
-        summary = None
+    if summary is not None:
+        if title == summary or summary == "" or summary.isspace() or summary.startswith("I'm sorry, "):
+            summary = None
     # Parse the date.
     published_date = result["published date"].split(" ")
     if published_date[2] == "Jan":
@@ -209,9 +219,6 @@ def search_news(keywords: str or list or None = "COVID-19", max_results: int = 1
     # If there are no trusted sites, make an empty list for comparisons.
     if trusted is None:
         trusted = []
-    # Ensure the LLM for summarizations is valid.
-    if model is None or model not in ["gpt-3.5", "claude-3-haiku", "llama-3-70b", "mixtral-8x7b"]:
-        model = "gpt-3.5"
     hugging_chat = hugging_face()
     # Set up Firefox web driver to handle Google News URL redirects.
     service = Service(GeckoDriverManager().install())
@@ -304,10 +311,7 @@ def search_news(keywords: str or list or None = "COVID-19", max_results: int = 1
             s += (f"\n\nArticle {i + 1} of {len(formatted)}\nTitle: {result['Title']}\nPublisher: {result['Publisher']}"
                   f"\nTrusted: {result['Trusted']}\nPosted: {posted}")
             if result["Summary"] is not None:
-                s += f"\nSummary: {result['Summary']}"
-    s = ''.join(c for c in s if c == "\n" or unicodedata.category(c) in {"Lu", "Ll", "Lt", "Lm", "Lo", "Nd", "Nl", "No",
-                                                                         "Zs", "Zl", "Zp", "Pc", "Pd", "Ps", "Pe", "Pi",
-                                                                         "Pf", "Po", "Sm", "Sc", "Sk", "So"})
+                s += f"\n{result['Summary']}"
     if not os.path.exists("Data"):
         os.mkdir("Data")
     if os.path.exists("Data"):
@@ -388,11 +392,7 @@ def llm_predict(keywords: str or list or None = "COVID-19", max_results: int = 1
         s += (f" An analytical forecasting model has predicted that over the next {forecast_units}, there will be "
               f"{prediction} {forecasting}{location}. Using your best judgement, you may choose to keep this value or "
               f"adjust it.")
-    # Ensure the LLM for summarizations is valid.
-    if model is None or model not in ["gpt-3.5", "claude-3-haiku", "llama-3-70b", "mixtral-8x7b"]:
-        model = "gpt-3.5"
     s = chat(f"{s} {articles}", model=model)
-    s = s.upper().replace("COVID-19", "")
     s = s.split()
     predictions = []
     for p in s:
@@ -409,6 +409,8 @@ def llm_predict(keywords: str or list or None = "COVID-19", max_results: int = 1
                 pass
     if len(predictions) < 1:
         if prediction is None:
+            if isinstance(previous, list) and len(previous) > 0:
+                return previous[-1]
             return 0
         else:
             return prediction
