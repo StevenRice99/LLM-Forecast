@@ -61,6 +61,108 @@ def chat(prompt: str, hugging_chat: hugchat.ChatBot or None = hugging_face(), mo
         return ""
 
 
+def get_article(result: dict, driver, trusted: list,
+                delay: float = 0, summarize: bool = True, model: str = "gpt-3.5",
+                hugging_chat: hugchat.ChatBot or None = hugging_face()) -> dict or None:
+    publisher = result["publisher"]["title"]
+    # Try to get the full article and then summarize it with an LLM.
+    # noinspection PyBroadException
+    try:
+        # Get what the web driver is starting at.
+        driver_url = driver.current_url
+        # Store the starting URL.
+        redirect_url = result["url"]
+        # Go to the redirect URL.
+        driver.get(redirect_url)
+        # Wait until the web driver hits the page.
+        while True:
+            current_url = driver.current_url
+            # Failsafe in case the URL is none to start.
+            if current_url is None:
+                continue
+            # Failsafe in case the URL is empty to start.
+            if current_url == "":
+                continue
+            # Ensure we are not at the initial URL when loading the web driver.
+            if current_url == driver_url:
+                continue
+            # Ensure we are not still at the redirect URL.
+            if current_url == redirect_url:
+                continue
+            # Update the previously visited URL for future redirect handling.
+            driver_url = current_url
+            break
+        # Download the final article.
+        article = Article(driver_url)
+        # noinspection PyBroadException
+        try:
+            article.download()
+            article.parse()
+            title = article.title
+            # Clean the summary.
+            summary = article.text.strip().replace("\r", "\n")
+            while summary.__contains__("\n\n"):
+                summary = summary.replace("\n\n", "\n")
+            if delay > 0:
+                time.sleep(delay)
+            # Summarize the summary with an LLM if requested to.
+            if summarize:
+                summary = chat(f"Summarize this article, making sure you include any important numbers it "
+                               f"mentions: {summary}", hugging_chat, model)
+                summary = summary.replace("\r", "\n")
+                while summary.__contains__("\n\n"):
+                    summary = summary.replace("\n\n", "\n")
+                summary = summary.replace("\n", " ")
+                if delay > 0:
+                    time.sleep(delay)
+        except Exception as e:
+            # The article could not be downloaded, so skip it.
+            print(e)
+            return None
+    # If the full article cannot be downloaded or the summarization fails, use the initial news info.
+    except:
+        title = result["title"].replace(publisher, "").strip().strip("-").strip()
+        summary = result["Summary"].replace(publisher, "").strip().strip("-").strip()
+    # No point in having the summary if it is just equal to the title.
+    if summary is not None and (title == summary or summary == "" or summary.isspace()
+                                or summary == "I'm sorry, but I cannot access external content, including articles."
+                                              " If you provide me with the main points or key information from the "
+                                              "article, I'd be happy to help summarize it for you."):
+        summary = None
+    # Parse the date.
+    published_date = result["published date"].split(" ")
+    if published_date[2] == "Jan":
+        published_date[2] = 1
+    elif published_date[2] == "Feb":
+        published_date[2] = 2
+    elif published_date[2] == "Mar":
+        published_date[2] = 3
+    elif published_date[2] == "Apr":
+        published_date[2] = 4
+    elif published_date[2] == "May":
+        published_date[2] = 5
+    elif published_date[2] == "Jun":
+        published_date[2] = 6
+    elif published_date[2] == "Jul":
+        published_date[2] = 7
+    elif published_date[2] == "Aug":
+        published_date[2] = 8
+    elif published_date[2] == "Sep":
+        published_date[2] = 9
+    elif published_date[2] == "Oct":
+        published_date[2] = 10
+    elif published_date[2] == "Nov":
+        published_date[2] = 11
+    else:
+        published_date[2] = 12
+    # Parse the time
+    published_time = published_date[4].split(":")
+    # Store the formatted data.
+    return {"Title": title, "Summary": summary, "Publisher": publisher, "Year": int(published_date[3]),
+            "Month": published_date[2], "Day": int(published_date[1]), "Hour": int(published_time[0]),
+            "Minute": int(published_time[1]), "Second": int(published_time[2]), "Trusted": publisher in trusted}
+
+
 def search_news(keywords: str or list or None = "COVID-19", max_results: int = 10, language: str = "en",
                 country: str = "CA", location: str or None = "Ontario, Canada",
                 end_date: tuple or datetime.datetime or None = None, days: int = 7,
@@ -101,6 +203,18 @@ def search_news(keywords: str or list or None = "COVID-19", max_results: int = 1
         s = f.read()
         f.close()
         return s
+    # If there are no trusted sites, make an empty list for comparisons.
+    if trusted is None:
+        trusted = []
+    # Ensure the LLM for summarizations is valid.
+    if model is None or model not in ["gpt-3.5", "claude-3-haiku", "llama-3-70b", "mixtral-8x7b"]:
+        model = "gpt-3.5"
+    hugging_chat = hugging_face()
+    # Set up Firefox web driver to handle Google News URL redirects.
+    service = Service(GeckoDriverManager().install())
+    driver = webdriver.Firefox(service=service)
+    # Format all results.
+    formatted = []
     # If no keywords, get the top news or location news if the location was passed.
     if keywords is None:
         google_news = GNews(language=language, country=country, max_results=max_results,
@@ -109,6 +223,10 @@ def search_news(keywords: str or list or None = "COVID-19", max_results: int = 1
             results = google_news.get_news(location)
         else:
             results = google_news.get_top_news()
+            for result in results:
+                result = get_article(result, driver, trusted, delay, summarize, model, hugging_chat)
+                if result is not None:
+                    formatted.append(result)
         if delay > 0:
             time.sleep(delay)
     # Otherwise, search by the keywords.
@@ -125,130 +243,19 @@ def search_news(keywords: str or list or None = "COVID-19", max_results: int = 1
             keyword_results = google_news.get_news(keyword)
             # Check all results for the keyword.
             for result in keyword_results:
-                # If this is a new result, append it.
+                # If this URL has already been visited, skip it.
                 match = False
                 for existing in results:
                     if existing["url"] == result["url"]:
                         match = True
                         break
+                # If this is a new result, format and append it.
                 if not match:
-                    results.append(result)
+                    result = get_article(result, driver, trusted, delay, summarize, model, hugging_chat)
+                    if result is not None:
+                        formatted.append(result)
             if delay > 0:
                 time.sleep(delay)
-    # If there are no trusted sites, make an empty list for comparisons.
-    if trusted is None:
-        trusted = []
-    # Ensure the LLM for summarizations is valid.
-    if model is None or model not in ["gpt-3.5", "claude-3-haiku", "llama-3-70b", "mixtral-8x7b"]:
-        model = "gpt-3.5"
-    hugging_chat = hugging_face()
-    # Set up Firefox web driver to handle Google News URL redirects.
-    service = Service(GeckoDriverManager().install())
-    driver = webdriver.Firefox(service=service)
-    # Store where the web driver has been.
-    initial_url = "about:blank"
-    visited_url = initial_url
-    # Format all results.
-    formatted = []
-    for result in results:
-        publisher = result["publisher"]["title"]
-        # Try to get the full article and then summarize it with an LLM.
-        # noinspection PyBroadException
-        try:
-            # Store the starting URL.
-            redirect_url = result["url"]
-            # Go to the redirect URL.
-            driver.get(redirect_url)
-            # Wait until the web driver hits the page.
-            while True:
-                current_url = driver.current_url
-                # Failsafe in case the URL is none to start.
-                if current_url is None:
-                    continue
-                # Failsafe in case the URL is empty to start.
-                if current_url == "":
-                    continue
-                # Ensure we are not at the initial URL when loading the web driver.
-                if current_url == initial_url:
-                    continue
-                # Ensure we are not at the previous URL from the last article.
-                if current_url == visited_url:
-                    continue
-                # Ensure we are not still at the redirect URL.
-                if current_url == redirect_url:
-                    continue
-                # Update the previously visited URL for future redirect handling.
-                visited_url = current_url
-                break
-            # Download the final article.
-            article = Article(visited_url)
-            # noinspection PyBroadException
-            try:
-                article.download()
-                article.parse()
-                title = article.title
-                # Clean the summary.
-                summary = article.text.strip().replace("\r", "\n")
-                while summary.__contains__("\n\n"):
-                    summary = summary.replace("\n\n", "\n")
-                if delay > 0:
-                    time.sleep(delay)
-                # Summarize the summary with an LLM if requested to.
-                if summarize:
-                    summary = chat(f"Summarize this article: {summary}", hugging_chat, model)
-                    summary = summary.replace("\r", "\n")
-                    while summary.__contains__("\n\n"):
-                        summary = summary.replace("\n\n", "\n")
-                    summary = summary.replace("\n", " ")
-                    if delay > 0:
-                        time.sleep(delay)
-            except Exception as e:
-                # The article could not be downloaded, so skip it.
-                print(e)
-                continue
-        # If the full article cannot be downloaded or the summarization fails, use the initial news info.
-        except:
-            title = result["title"].replace(publisher, "").strip().strip("-").strip()
-            summary = result["Summary"].replace(publisher, "").strip().strip("-").strip()
-        # No point in having the summary if it is just equal to the title.
-        if summary is not None and (title == summary or summary == "" or summary.isspace()
-                                    or summary == "I'm sorry, but I cannot access external content, including articles."
-                                                  " If you provide me with the main points or key information from the "
-                                                  "article, I'd be happy to help summarize it for you."):
-            summary = None
-        # Parse the date.
-        published_date = result["published date"].split(" ")
-        if published_date[2] == "Jan":
-            published_date[2] = 1
-        elif published_date[2] == "Feb":
-            published_date[2] = 2
-        elif published_date[2] == "Mar":
-            published_date[2] = 3
-        elif published_date[2] == "Apr":
-            published_date[2] = 4
-        elif published_date[2] == "May":
-            published_date[2] = 5
-        elif published_date[2] == "Jun":
-            published_date[2] = 6
-        elif published_date[2] == "Jul":
-            published_date[2] = 7
-        elif published_date[2] == "Aug":
-            published_date[2] = 8
-        elif published_date[2] == "Sep":
-            published_date[2] = 9
-        elif published_date[2] == "Oct":
-            published_date[2] = 10
-        elif published_date[2] == "Nov":
-            published_date[2] = 11
-        else:
-            published_date[2] = 12
-        # Parse the time
-        published_time = published_date[4].split(":")
-        # Store the formatted data.
-        formatted.append({"Title": title, "Summary": summary, "Publisher": publisher,
-                          "Year": int(published_date[3]), "Month": published_date[2], "Day": int(published_date[1]),
-                          "Hour": int(published_time[0]), "Minute": int(published_time[1]),
-                          "Second": int(published_time[2]), "Trusted": publisher in trusted})
     # Close the web driver.
     driver.quit()
     # Sort results by newest to oldest.
@@ -272,7 +279,7 @@ def search_news(keywords: str or list or None = "COVID-19", max_results: int = 1
                     words += f"{',' if len(keywords) > 2 else ''} or {keywords[i]}"
                 else:
                     words += f", {keywords[i]}"
-        single = len(results) == 1
+        single = len(formatted) == 1
         if isinstance(location, str):
             location = f" in {location}"
         else:
