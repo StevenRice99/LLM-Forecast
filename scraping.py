@@ -83,6 +83,9 @@ def get_article(result: dict, driver, trusted: list, forecasting: str = "COVID-1
             # Failsafe in case the URL is empty to start.
             if current_url == "":
                 continue
+            # Skip the default starting page.
+            if current_url == "about:blank":
+                continue
             # Ensure we are not at the initial URL when loading the web driver.
             if current_url == driver_url:
                 continue
