@@ -137,7 +137,7 @@ def get_article(result: dict, driver, trusted: list, forecasting: str = "COVID-1
     # If the full article cannot be downloaded or the summarization fails, use the initial news info.
     except:
         title = result["title"].replace(publisher, "").strip().strip("-").strip()
-        summary = result["Summary"].replace(publisher, "").strip().strip("-").strip()
+        summary = result["description"].replace(publisher, "").strip().strip("-").strip()
     # No point in having the summary if it is just equal to the title.
     if summary is not None:
         if title == summary or summary == "" or summary.isspace() or summary.startswith("I'm sorry, "):
