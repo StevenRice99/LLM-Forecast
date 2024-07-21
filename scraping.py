@@ -61,7 +61,7 @@ def chat(prompt: str, hugging_chat: hugchat.ChatBot or None = hugging_face(), mo
         return ""
 
 
-def get_article(result: dict, driver, trusted: list,
+def get_article(result: dict, driver, trusted: list, forecasting: str = "COVID-19 hospitalizations",
                 delay: float = 0, summarize: bool = True, model: str = "gpt-3.5",
                 hugging_chat: hugchat.ChatBot or None = hugging_face()) -> dict or None:
     publisher = result["publisher"]["title"]
@@ -107,8 +107,8 @@ def get_article(result: dict, driver, trusted: list,
                 time.sleep(delay)
             # Summarize the summary with an LLM if requested to.
             if summarize:
-                summary = chat(f"Summarize this article, making sure you include any important numbers it "
-                               f"mentions: {summary}", hugging_chat, model)
+                summary = chat(f"Summarize this article, including any important facts to help forecast "
+                               f"{forecasting}: {summary}", hugging_chat, model)
                 summary = summary.replace("\r", "\n")
                 while summary.__contains__("\n\n"):
                     summary = summary.replace("\n\n", "\n")
@@ -223,10 +223,10 @@ def search_news(keywords: str or list or None = "COVID-19", max_results: int = 1
             results = google_news.get_news(location)
         else:
             results = google_news.get_top_news()
-            for result in results:
-                result = get_article(result, driver, trusted, delay, summarize, model, hugging_chat)
-                if result is not None:
-                    formatted.append(result)
+        for result in results:
+            result = get_article(result, driver, trusted, forecasting, delay, summarize, model, hugging_chat)
+            if result is not None:
+                formatted.append(result)
         if delay > 0:
             time.sleep(delay)
     # Otherwise, search by the keywords.
@@ -251,7 +251,7 @@ def search_news(keywords: str or list or None = "COVID-19", max_results: int = 1
                         break
                 # If this is a new result, format and append it.
                 if not match:
-                    result = get_article(result, driver, trusted, delay, summarize, model, hugging_chat)
+                    result = get_article(result, driver, trusted, forecasting, delay, summarize, model, hugging_chat)
                     if result is not None:
                         formatted.append(result)
             if delay > 0:
@@ -470,4 +470,4 @@ def set_trusted(trusted: list, folder: str = "COVID Ontario") -> None:
 
 
 if __name__ == '__main__':
-    prepare_articles("Data/Dates/COVID Ontario.txt", trusted=["CDC", "Canada.ca", "Statistique Canada", "AFP Factcheck"], delay=5, max_results=1)
+    prepare_articles("Data/Dates/COVID Ontario.txt", trusted=["CDC", "Canada.ca", "Statistique Canada", "AFP Factcheck"], delay=5)
