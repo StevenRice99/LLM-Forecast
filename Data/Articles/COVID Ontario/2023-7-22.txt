@@ -1,0 +1,69 @@
+Below are 10 news articles from the past 7 days regarding COVID-19 to help guide you in making your decision. Using your best judgement, take into consideration only the articles that are most relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Articles that are from know reputable sources have been flagged with "Trusted: True".
+
+Article 1 of 10
+Title: Opinion: COVID-19 was also a fiscal crisis – just how much did governments spend? We don’t know
+Publisher: The Globe and Mail
+Trusted: False
+Posted: 2 days ago
+The article discusses the lack of transparency in Canadian governments' financial responses to the COVID-19 pandemic in 2020. While the public accounts show a significant increase in expenses and deficits at the federal, provincial, and territorial levels, there is little information about how much was spent specifically on COVID-19 responses. Only the Northwest Territories provided a detailed summary of the pandemic's impact on its finances. The article also criticizes the lack of timely budgets from several governments, including the absence of a 2020-21 budget from the federal government. The lack of transparency makes it difficult to hold governments accountable for their spending and tax decisions during the pandemic. The article concludes that opaque government finances are not good for democracy and that the COVID-19 crisis has highlighted the need for greater transparency in this area. To forecast COVID-19 hospitalizations, several factors need to be considered, including vaccination rates, the prevalence of new variants, and the availability of healthcare resources. Governments can use transparent data on these factors to make informed decisions and allocate resources effectively to manage the pandemic.
+
+Article 2 of 10
+Title: Got COVID with no symptoms? A mutated gene may explain why - National
+Publisher: Global News
+Trusted: False
+Posted: 2 days ago
+Here is a summary of the article: Researchers may have discovered why some people remain asymptomatic despite being infected with SARS-CoV-2, the virus that causes COVID-19. A study published in Nature found that a mutated gene called HLA-B15:01 may be responsible. People with this gene are more than twice as likely to not exhibit any symptoms, and those with two copies of the gene are over eight times more likely to remain asymptomatic. The study enrolled nearly 30,000 participants from a database of bone-marrow donors, and self-reported data on SARS-CoV-2 tests and symptoms were collected between February 2020 and April 2021, before vaccines were widely available. Of the 1,400 participants who tested positive, 136 remained asymptomatic. The researchers then found a link between asymptomatic infection and variations in HLA genes in about 10% of the participants, whose T-cells recognized COVID-19 without prior exposure. The mutated HLA-B15:01 gene may provide T-cells with enhanced talent and adaptability, allowing them to recognize and combat the virus effectively. However, it's important to note that asymptomatic individuals can still carry and transmit the virus to others, even if they don't experience any symptoms themselves. The study has important implications for public health measures, vaccine design, and therapeutic development related to COVID-19. Understanding the role of HLA genes and asymptomatic infection can help in forecasting hospitalizations by identifying individuals who may be more likely to experience severe symptoms and require hospitalization if infected. This knowledge can inform public health strategies and resource allocation.
+
+Article 3 of 10
+Title: Quebec lifts all remaining COVID-19 masking measures
+Publisher: CBC.ca
+Trusted: False
+Posted: 3 days ago
+Quebec's Health Ministry has lifted all remaining COVID-19 masking directives, citing improvements in the epidemiological situation and the immunity achieved by most of the population through infection or vaccination. As of April, wearing a mask in healthcare settings is mostly optional, and facilities can now decide on their own directives based on public health recommendations. The province has also reduced the isolation period for individuals exposed to COVID-19 to five days. While the removal of guidelines doesn't mean the virus is no longer circulating, the latest COVID-19 data in Quebec shows a decrease in cases and deaths. The province is also preparing for a fall vaccination campaign against COVID-19 and the seasonal flu. However, it's important to consider that the virus still poses a risk to vulnerable individuals and that future waves or variants could impact hospitalization rates.
+
+Article 4 of 10
+Title: Lingering COVID-19 mask rules are now completely lifted in Quebec
+Publisher: CTV News Montreal
+Trusted: False
+Posted: 3 days ago
+Quebec has lifted nearly all remaining COVID-19 restrictions, including mask requirements for healthcare workers treating patients with COVID-19. Individual facilities can still decide to require masks in certain situations, such as when dealing with immunocompromised patients. Preventative isolation for those exposed to COVID-19 has been reduced to five days. The Quebec Health Ministry stated that the lifting of restrictions reflects the improved epidemiological situation, largely due to vaccines, acquired immunity, available treatments, and the evolution of the virus. However, they acknowledged that the virus is still circulating. Preparations are underway for fall vaccination campaigns, including COVID-19, flu, and pneumococcus vaccinations. The latest COVID-19 data for Quebec showed 626 confirmed cases and one death for the week of July 9-15, with over 18,000 total deaths since the pandemic began. While restrictions have eased, the ministry's focus on vaccinations suggests that they are preparing for potential future cases and hospitalizations.
+
+Article 5 of 10
+Title: Childhood immunization begins recovery after COVID-19 backslide
+Publisher: World Health Organization (WHO)
+Trusted: True
+Posted: 4 days ago
+Here is a summary of the article: According to data from the World Health Organization (WHO) and UNICEF, global immunization efforts reached 4 million more children in 2022 compared to 2021, indicating a recovery from the setbacks caused by the COVID-19 pandemic. However, there are still concerns about persistent inequities and regional disparities. Key points: In 2022, 20.5 million children missed out on routine vaccinations, an improvement from 24.4 million in 2021 but still higher than the 18.4 million in 2019 before the pandemic. The number of "zero-dose" children who did not receive any vaccinations decreased to 14.3 million in 2022 but remains higher than the 12.9 million in 2019. The recovery in immunization rates has been uneven, with well-resourced countries with large infant populations improving, while most low-income countries continue to struggle, especially with measles vaccination. Measles vaccination coverage has not recovered to pre-pandemic levels, with 21.9 million children missing their first dose in 2022, putting an additional 35.2 million children at risk of measles infection. The African region faces an extra challenge due to its increasing child population, requiring annual scaling up of routine immunization services to maintain coverage levels. Gavi-supported lower-income countries showed improvement, with DTP3 vaccine coverage increasing to 81% in 2022, but low-income countries within this group have not yet increased coverage. WHO, UNICEF, and partners have launched "The Big Catch-Up" initiative to advocate for governments to catch up on missed vaccinations, restore and strengthen immunization services. Regarding forecasting COVID-19 hospitalizations, the article does not provide specific data or models for prediction. However, the article's focus on immunization efforts and coverage rates is relevant to COVID-19 hospitalization forecasts. The article highlights the ongoing challenges in global immunization and the need for catch-up and recovery efforts, which can impact the vulnerability of populations to COVID-19 and other vaccine-preventable diseases.
+
+Article 6 of 10
+Title: Mitigating neurological, cognitive, and psychiatric sequelae of COVID-19-related critical illness
+Publisher: The Lancet
+Trusted: False
+Posted: 5 days ago
+
+Article 7 of 10
+Title: Etobicoke General Hospital declares COVID-19 outbreak
+Publisher: Toronto Star
+Trusted: False
+Posted: 5 days ago
+Here is a summary of the article: The article provides a table with COVID-19 hospitalization forecasts for all 50 US states, as well as some territories and military bases. The table includes the name of the state or territory, and the forecasted number of new COVID-19 hospitalizations for the upcoming week. The forecasts are based on various data sources and predictive models and are intended to help healthcare systems and policymakers plan for resource allocation and response efforts. The article likely includes additional context and information on the methodologies used to make these forecasts and the trends observed in different regions. These forecasts are essential for preparing healthcare infrastructure and resources to handle potential surges in hospitalizations and provide optimal care to COVID-19 patients.
+
+Article 8 of 10
+Title: Working Most Hours from Home: New Estimates for January to April 2022
+Publisher: Statistique Canada
+Trusted: True
+Posted: 5 days ago
+Here is a summary of the article: The article examines the percentage of Canadian workers who worked from home during the COVID-19 pandemic from January 2020 to July 2022. It compares different questions used in the Labour Force Survey (LFS) to collect data on work locations and identifies potential issues with the new question introduced in January 2022. Descriptive evidence from public transit data and COVID-19 restriction indices suggests that the estimates of the percentage of Canadians working from home may be overestimated from January to April 2022. Regression analyses support this hypothesis and indicate that the overestimation may be due to a change in the LFS question on work locations. The study offers new estimates of the percentage of Canadians working from home at the provincial and national levels for the months of January to April 2022. A simple adjustment procedure is proposed to revise estimates of work from home by other dimensions for these four months. The findings have implications for understanding the impact of the COVID-19 pandemic on work arrangements and can inform policy responses. To forecast COVID-19 hospitalizations, the following important facts can be considered: The percentage of Canadians working from home increased significantly during the COVID-19 pandemic, peaking in April 2020 and then gradually decreasing. There was a strong negative relationship between the percentage of people working from home and the use of public transit, with each percentage point increase in work from home associated with a substantial decrease in public transit ridership. The COVID-19 Restriction Index, which measures the stringency of public health restrictions, had a significant impact on the percentage of people working from home, particularly in the early stages of the pandemic. The responsiveness of the percentage of people working from home to changes in COVID-19 restrictions decreased over time, suggesting that other factors may have influenced work arrangements. The estimates of the percentage of Canadians working from home may be overestimated from January to April 2022 due to a change in the LFS question on work locations. To forecast COVID-19 hospitalizations accurately, it is important to consider various factors such as vaccination rates, the prevalence of new variants, adherence to public health measures, and the capacity of the healthcare system. Additionally, monitoring the percentage of people working from home can provide valuable insights into the impact of the pandemic on work arrangements and mobility patterns, which may indirectly influence hospitalization rates.
+
+Article 9 of 10
+Title: Severe COVID-19 associated hyperglycemia is caused by beta cell dysfunction: a prospective cohort study
+Publisher: Nature.com
+Trusted: False
+Posted: 5 days ago
+The study found that: Many patients with severe COVID-19 had hyperglycemia (high blood sugar), which was caused by insufficient insulin secretion and insulin resistance. Energy expenditure was about 20% higher than predicted across the entire sample in the acute phase of COVID-19, indicating hypermetabolism. However, it returned to predicted levels after 3 months. Hyperglycemia was present in 63% of patients without previously diagnosed diabetes, and it persisted in 50% of these patients after 6 months. Insulin resistance in adipose tissue did not contribute to overall insulin resistance. The study had limitations, including a dropout rate of 18.8% and the absence of a control group, which makes it difficult to establish a causal link between COVID-19 and hyperglycemia. These findings suggest that hyperglycemia is a common complication of severe COVID-19 and may persist in the post-COVID phase. However, the short follow-up period of 6 months may not capture the full clinical picture of pre/diabetes development.
+
+Article 10 of 10
+Title: RFK Jr. denies comments on ‘ethnically targeted’ Covid-19 were anti-Semitic
+Publisher: POLITICO
+Trusted: False
+Posted: 7 days ago

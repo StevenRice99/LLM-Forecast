@@ -1,0 +1,68 @@
+Below are 10 news articles from the past 7 days regarding COVID-19 to help guide you in making your decision. Using your best judgement, take into consideration only the articles that are most relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Articles that are from know reputable sources have been flagged with "Trusted: True".
+
+Article 1 of 10
+Title: Recommendations on the Duration of the Post-vaccination Observation Period for Influenza Vaccination during the COVID-19 Pandemic
+Publisher: Canada.ca
+Trusted: True
+Posted: 2 days ago
+Here is a summary of the article, including some important facts that could be useful for forecasting COVID-19 hospitalizations: Background: The article discusses the recommendations for the duration of the post-vaccination observation period for influenza vaccination during the COVID-19 pandemic. The National Advisory Committee on Immunization (NACI) provides advice to the Public Health Agency of Canada on immunization practices. Recommendations: NACI recommends maintaining the current post-vaccination observation period of 15 minutes for influenza vaccination to reduce the risk of SARS-CoV-2 transmission. This recommendation is based on fair evidence and applies to individuals with no history of severe allergic reactions or immediate post-vaccination reactions. However, during times when physical distancing cannot be maintained in waiting areas, NACI recommends considering a shorter observation period of 5 to 15 minutes, provided specific conditions are met. These conditions include the past receipt of influenza vaccine without allergic reactions, no history of immediate post-vaccination reactions, and the presence of a responsible adult to monitor the vaccine recipient for at least 15 minutes. Evidence: The evidence for the recommendations is based on a rapid literature review and data from the Canadian Adverse Events Following Immunization Surveillance System (CAEFISS). The review found that serious adverse events requiring medical intervention after immunization are rare. CAEFISS data from 2014-2018 showed a low incidence of anaphylaxis, syncope, and afebrile seizures following influenza vaccination. Rationale: Reducing the post-vaccination observation period can help reduce crowding in vaccination clinics, lowering the risk of SARS-CoV-2 transmission. However, any reduction in observation time must balance the potential risk of delayed identification of adverse events requiring medical intervention. Conclusion: Maintaining the recommended public health measures, including physical distancing, is crucial in vaccination clinics. A shorter observation period can be considered during the COVID-19 pandemic when physical distancing cannot be maintained, but specific conditions must be met to ensure the safety of vaccine recipients. These recommendations aim to balance the risks of COVID-19 transmission and potential adverse events following influenza vaccination. This article provides insights into the considerations and precautions regarding influenza vaccination during the COVID-19 pandemic. While forecasting COVID-19 hospitalizations involves a multitude of factors, these recommendations could contribute to overall public health strategies and help reduce the burden on the healthcare system.
+
+Article 2 of 10
+Title: Canadian COVID-19 researchers face a growing threat of cyber-espionage — University Affairs
+Publisher: University Affairs
+Trusted: False
+Posted: 2 days ago
+The article discusses the increase in foreign cyber-attacks targeting Canadian research institutions, particularly universities, since the start of the COVID-19 pandemic. Hackers are exploiting the urgency created by the health crisis and the shift to remote work to target researchers, professors, and students for confidential data related to COVID-19 research. Key points include: Universities, like the University of Calgary, have experienced a surge in cyber-attacks seeking sensitive information, especially related to COVID-19 research. Hackers use tactics like spear phishing, denial of service attacks, brute-force attacks, and web application attacks to gain access to valuable data. Countries like China, Russia, and Iran are suspected of targeting COVID-19 research globally, with instances of Russian cyber-threat activity identified in Canada, the U.S., and the U.K. The Canadian government has released tools and resources to help safeguard research integrity, intellectual property, and business interests in response to these cyber threats. Experts emphasize the need for universities to provide researchers with the necessary infrastructure, tools, and training to identify and combat cyber-attacks effectively. The article underscores the importance of enhancing cybersecurity measures in universities to protect valuable research data and mitigate the growing threat of cyber-attacks.
+
+Article 3 of 10
+Title: A tool to capture learning experiences during COVID-19
+Publisher: OECD
+Trusted: False
+Posted: 3 days ago
+The PISA Global Crises Module was created to understand how education systems and students' learning experiences changed due to COVID-19-related school disruptions. The module consists of student and school questionnaire items designed through a rigorous process involving experts and small-scale studies. Its purpose is to highlight the varying impacts of the pandemic on student learning and well-being, as well as the differences in education disruptions across countries. This resource can be utilized by policymakers, researchers, and organizations to gain insights into the effects of the pandemic on education and make informed decisions or adaptations as needed. However, the article does not contain information specifically related to forecasting COVID-19 hospitalizations.
+
+Article 4 of 10
+Title: Student mental health in the age of COVID-19
+Publisher: Queen's University
+Trusted: False
+Posted: 3 days ago
+Here is a summary of the article: Queen's University hosted a virtual discussion with its students and community members about the impact of the COVID-19 pandemic on mental health. The discussion was moderated by Jane Philpott, the Dean of the Faculty of Health Sciences, and featured mental health experts from the university: Heather Stuart, Anne Duffy, and Brooke Linden. The panel addressed the stigma associated with mental health issues and how it can prevent people from seeking help. They emphasized the importance of social support and reaching out to others. Dr. Duffy highlighted the importance of maintaining a routine and regular cardiovascular exercise for mental wellness. She also mentioned her work on an international collaborative network called U-Flourish, which focuses on the mental health needs of university students. Dr. Linden advised communicating and offering a range of resources to those resistant to seeking professional help. Overall, the discussion aimed to raise awareness about mental health during the pandemic and provided valuable insights and resources to support individuals struggling with their mental health.
+
+Article 5 of 10
+Title: COVID-19 pandemic adversely affecting mental health of women and people with children
+Publisher: CAMH
+Trusted: False
+Posted: 3 days ago
+
+Article 6 of 10
+Title: When it comes to COVID-19, not all tests are created equal: U of T’s Vivek Goel
+Publisher: University of Toronto
+Trusted: False
+Posted: 3 days ago
+The article emphasizes the importance of "smart testing" in the fight against the COVID-19 pandemic. Vivek Goel, a public health expert, highlights the need for a strategic approach to testing to avoid wasting resources and ensure accurate results. Three types of tests are discussed: the PCR test, the rapid antigen test, and the antibody test. The article provides examples of successful testing strategies, such as the NBA's approach to testing players daily with rapid tests followed by confirmatory PCR tests. Goel warns against inefficient testing of large populations at low risk and stresses the importance of conserving testing resources. Smart testing can provide crucial data to prevent prolonged lockdowns and monitor trends to avert outbreaks. The article also discusses the role of testing in enabling activities like travel and highlights ongoing efforts to develop innovative testing technologies. In conclusion, the article underscores the necessity of smart testing strategies alongside vaccine distribution to effectively manage COVID-19 and facilitate a safe return to normalcy.
+
+Article 7 of 10
+Title: Drawing closer to COVID-19 treatment breakthrough
+Publisher: UBC Faculty of Medicine
+Trusted: False
+Posted: 4 days ago
+
+Article 8 of 10
+Title: Impact of COVID-19 mitigation measures on the incidence of preterm birth: a national quasi-experimental study
+Publisher: The Lancet
+Trusted: False
+Posted: 4 days ago
+
+Article 9 of 10
+Title: Eight Persistent COVID-19 Myths and Why People Believe Them
+Publisher: Scientific American
+Trusted: False
+Posted: 5 days ago
+Here is a summary of the article, including key facts to help forecast COVID-19 hospitalizations: Claim 1: COVID-19 was engineered in a Chinese laboratory This claim is false. US intelligence agencies and Chinese virologist Shi Zhengli have denied this possibility. Zhengli's research showed that the COVID-19 sequence did not match any sampled bat coronaviruses. People believe this claim because they want to blame China for the pandemic's impact, and accidental lab releases have occurred in the past. Claim 2: COVID-19 is no more severe than the flu False. Epidemiologists estimate COVID-19's infection fatality rate is 0.5-1%, compared to 0.1% for the flu. By mid-September 2020, COVID-19 had caused 200,000 deaths in the US, far exceeding annual flu-related deaths. People believe this due to misinformation from leaders like Trump, who downplayed COVID-19's severity. Claim 3: Masks are not necessary False. Masks are effective in preventing infected individuals from spreading COVID-19, especially since asymptomatic transmission is possible. Early inconsistent guidance from health organizations and a shortage of high-quality masks contributed to confusion. Some view masks as a violation of their civil liberties or masculinity. Claim 4: Wealthy elites are profiting from the pandemic There is no evidence supporting this claim. Figures like Fauci and Gates have not benefited from the pandemic and have contributed to pandemic response and philanthropy. Wealthy individuals are often targets of conspiracy theories. Trump's criticism of Fauci may influence his supporters' beliefs. Claim 5: Hydroxychloroquine is an effective treatment False. Multiple studies show hydroxychloroquine does not protect against or treat COVID-19. The FDA and NIH have warned against its use due to risks and a lack of benefits. Initial reports suggested potential effectiveness, and anchoring bias makes people hold onto this belief despite contradictory evidence. Trump's promotion of the drug also influences his supporters. Claim 6: Surges in cases are due to increased testing False. If this were true, the percentage of positive tests would decrease, but analyses show the opposite. Hospitalizations and deaths have increased alongside cases, indicating a true surge. People believe this due to early test shortages and the logical assumption that more tests lead to more detected cases. Claim 7: Herd immunity will protect us False. Experts estimate 60-70% of people need to contract COVID-19 for herd immunity, which would lead to millions of deaths. The UK and Sweden, which initially considered this approach, have high death rates. People want a return to normal, and without a vaccine, herd immunity is the only option. However, antibody studies show even heavily affected regions are far from this threshold. Claim 8: A COVID-19 vaccine will be unsafe Vaccines save millions of lives, and approved vaccines undergo rigorous clinical testing to ensure safety and efficacy. Top vaccine candidates have not shown major adverse effects in trials, and pharmaceutical companies have pledged to prioritize safety. The politicization of the FDA under Trump and the spread of conspiracy theories contribute to vaccine hesitancy. These claims and their rebuttals provide important context for forecasting COVID-19 hospitalizations. Understanding misinformation and public perceptions can inform public health strategies and communication to encourage evidence-based practices and reduce the disease's impact.
+
+Article 10 of 10
+Title: 2 new cases of COVID-19 confirmed on P.E.I.
+Publisher: CBC.ca
+Trusted: False
+Posted: 6 days ago
+Prince Edward Island (P.E.I.) has reported two new COVID-19 cases, bringing the total to 63, with 3 active cases. Unrelated to each other, the two new cases are men who recently traveled within Canada outside the Atlantic bubble and were detected through routine testing. They are self-isolating and doing well. P.E.I.'s Chief Public Health Office (CPHO) is closely monitoring the COVID-19 outbreak in neighboring New Brunswick, which has seen 71 new cases in six days. Dr. Heather Morrison, P.E.I.'s chief public health officer, warns that a similar situation could occur in P.E.I. and advises Islanders to follow public health measures and avoid non-essential travel to Moncton and Campbellton, the regions in New Brunswick with the most cases. Returning travelers from these regions are advised to take precautions, including wearing masks, monitoring symptoms, and avoiding public places and large gatherings. Notably, P.E.I. has not had any hospitalizations or deaths due to COVID-19.

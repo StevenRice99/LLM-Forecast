@@ -1,0 +1,69 @@
+Below are 10 news articles from the past 7 days regarding COVID-19 to help guide you in making your decision. Using your best judgement, take into consideration only the articles that are most relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Articles that are from know reputable sources have been flagged with "Trusted: True".
+
+Article 1 of 10
+Title: 2020 passenger totals drop 60 percent as COVID-19 assault on international mobility continues
+Publisher: ICAO
+Trusted: False
+Posted: 1 day ago
+The article discusses the economic impact of the COVID-19 pandemic on the aviation industry in 2020, with a focus on passenger traffic and revenues. Here is a summary: International passenger traffic dropped by 60% in 2020, bringing air travel totals back to 2003 levels. Airline financial losses due to COVID-19 were estimated at 370 billion dollars, with airports and air navigation service providers losing an additional 115 billion and 13 billion respectively. The pandemic's impact on air travel demand began in January 2020 but affected only a few countries at first. By the end of March, however, air transport activities had come to a near standstill as lockdown measures, border closures, and travel restrictions were implemented worldwide. In April 2020, passenger numbers fell by 92% compared to 2019 levels, with a 98% drop in international traffic and an 87% fall in domestic air travel. There was a moderate rebound in passenger traffic during the summer travel period, but this was short-lived as the second wave of infections hit many regions in September, leading to the reintroduction of restrictive measures. The recovery of the aviation sector became more vulnerable and volatile in the last four months of 2020, indicating an overall double-dip recession for the year. ICAO reported a persistent disparity between domestic and international air travel impacts, with domestic travel demonstrating stronger resilience, particularly in China and the Russian Federation. Overall, domestic passenger traffic dropped by 50% globally, while international traffic fell by 74%, resulting in 1.4 billion fewer passengers. ICAO indicated that the near-term outlook is for prolonged depressed demand, with downside risks to recovery predominating in the first quarter of 2021. In the most optimistic scenario, passenger numbers are expected to recover to 71% of their 2019 levels by June 2021, while a more pessimistic scenario foresees only a 49% recovery. While the article does not directly provide forecasts for COVID-19 hospitalizations, the impact on the aviation industry and travel restrictions can indirectly affect the spread of the virus and, consequently, hospitalizations. The article highlights the volatile nature of the recovery and the ongoing implementation of restrictive measures, which can influence the transmission rates and hospitalizations associated with COVID-19.
+
+Article 2 of 10
+Title: Aide-memoire: Infection prevention and control (IPC) principles and procedures for COVID-19 vaccination activities
+Publisher: World Health Organization (WHO)
+Trusted: True
+Posted: 1 day ago
+This Aide Memoire provides guidance for policymakers, healthcare workers, and others involved in COVID-19 vaccination efforts. It summarizes the World Health Organization's (WHO) recommendations and principles for infection prevention and control (IPC) in the context of COVID-19 vaccination delivery. The document aims to ensure safe vaccine delivery by outlining key IPC principles and precautions. As new information emerges, the WHO will update its recommendations, and all technical guidance for COVID-19 is accessible online. This summary highlights the key considerations for forecasting COVID-19 hospitalizations and ensuring safe vaccination practices.
+
+Article 3 of 10
+Title: Two studies confirm efficiency of saliva tests for COVID-19
+Publisher: McGill University Health Centre
+Trusted: False
+Posted: 1 day ago
+A new study published in JAMA Internal Medicine has confirmed the efficiency and accuracy of saliva testing for COVID-19. The study, led by researchers from the McGill University Health Centre, found that saliva tests are as effective as nasopharyngeal swabs in diagnosing COVID-19, especially in ambulatory settings. This discovery is significant because, unlike nasal swab tests, saliva tests can be self-administered, increasing testing options and accessibility for case identification in the community. The statistical methods employed in the study provide a more accurate assessment of saliva test diagnostic accuracy and highlight the importance of validating this sampling technique for potential implementation in communities with high case rates and limited access to specialized healthcare. This development in testing strategies has the potential to impact global public health policy and improve COVID-19 case detection and management.
+
+Article 4 of 10
+Title: The COVID-19 PCR Test Is Reliable Despite the Commotion About Ct Values
+Publisher: Office for Science and Society
+Trusted: False
+Posted: 1 day ago
+The article argues against the claim that COVID-19 Polymerase Chain Reaction (PCR) tests are unreliable due to high Ct (cycle threshold) values, resulting in false positives. It explains that PCR tests are a standard and reliable method in molecular biology, used for detecting infectious microorganisms and disease-causing mutations. In the case of COVID-19, real-time PCR assays are used to quickly detect the virus by amplifying specific genetic material. The test's limit of detection depends on the viral load in the sample, and high Ct values can occur when there is a low viral load, requiring more amplification cycles to detect the virus. While high Ct values may introduce some uncertainty, the article emphasizes that PCR tests are validated and reliable. The interpretation of results considers various factors, including laboratory methods, specimen type, and an individual's symptoms and exposure risk. Thus, COVID-19 PCR tests remain a trusted tool for public health agencies in managing the pandemic.
+
+Article 5 of 10
+Title: 
+Publisher: Brock University
+Trusted: False
+Posted: 2 days ago
+
+Article 6 of 10
+Title: Ontario Newsroom
+Publisher: Government of Ontario News
+Trusted: False
+Posted: 4 days ago
+
+Article 7 of 10
+Title: Ontario's homeless 5 times more likely to die of COVID-19, study finds
+Publisher: CBC.ca
+Trusted: False
+Posted: 4 days ago
+A recent study published in the Canadian Medical Association Journal has revealed the devastating impact of COVID-19 on Ontario's homeless population. The research followed 30,000 individuals with a history of homelessness over six months and found that they were more susceptible to COVID-19 infections, hospitalizations, complications, and death. Specifically, the homeless were 20 times more likely to be hospitalized, over 10 times more likely to require intensive care, and 5 times more likely to die within 21 days of a positive test compared to the general population. The study, conducted by the Lawson Research Institute and the Institute for Clinical Evaluative Sciences, also revealed a significantly higher positivity rate among the homeless once testing became widely available. Their tests were positive more than 75% of the time compared to those with housing. This highlights the precarious living situations and inability to physically distance in shelters that put the homeless at increased risk. The findings underscore the need for immediate short-term solutions such as hotel recovery sites and long-term investments in housing to address the disproportionate impact of COVID-19 on the homeless population. Dr. Andrew Boozary, an expert in social medicine, emphasizes the link between health and housing, calling for a significant investment in housing to improve public health outcomes lasting.
+
+Article 8 of 10
+Title: Here’s how Covid-19 ranks among the worst plagues in history
+Publisher: Vox.com
+Trusted: False
+Posted: 5 days ago
+The article discusses the historical context of pandemics, particularly focusing on the impact of COVID-19 in comparison to past deadly outbreaks. It highlights that while COVID-19 has caused significant global deaths, it ranks among the top 10 deadliest plagues in history due to the world's increased population. The article also mentions the challenges in accurately measuring the death toll of past pandemics and the current COVID-19 pandemic, emphasizing the importance of excess mortality data. It provides insights into how past plagues, such as the Black Death and the Spanish flu, had devastating effects on populations, with mortality rates ranging from 5% to 40% of the world's population at the time. The article also touches on the unique characteristics of different pandemics, like the Spanish flu's impact on young adults and HIV/AIDS's slow spread over decades. Furthermore, the article discusses the difficulty in ranking historical plagues due to limited records and uncertainties in estimating death tolls. It emphasizes the value of comparing past pandemics to understand the potential severity of future outbreaks and the importance of global efforts in disease prevention and treatment. Overall, the article provides a comprehensive overview of the historical context of pandemics, highlighting the lessons learned from past outbreaks and the ongoing challenges in combating infectious diseases.
+
+Article 9 of 10
+Title: Canada’s COVID-19 vaccine contender: Medicago’s breakthrough, ties to Big Tobacco and warnings a pandemic was coming
+Publisher: Global News
+Trusted: False
+Posted: 5 days ago
+A Canadian company, Medicago, is developing a COVID-19 vaccine using a new technology that is rapid and nimble, and the vaccine can be stored at normal fridge temperatures. The company is the leading Canadian-based contender to produce a vaccine and has an agreement to provide the federal government with 76 million doses if approved. Medicago has faced some adversity, including a lack of funding from the federal government and restructuring during the pandemic. The company's vaccine has shown promising results in phase one clinical trials, and phase three is expected to begin later this month. The bulk of Medicago's vaccine supply will initially come from the U.S., as its Quebec manufacturing site is still under construction. The company's relationship with Big Tobacco, specifically Philip Morris International, has also been a source of controversy. Despite the challenges, Medicago is confident in its vaccine and hopes to have it approved by Health Canada and in the arms of Canadians by the second half of this year.
+
+Article 10 of 10
+Title: COVID-19 face masks represent a chance to restore Canadian manufacturing
+Publisher: The Conversation
+Trusted: False
+Posted: 6 days ago
+The COVID-19 pandemic has had a significant impact on global health and economics, revealing the vulnerabilities of international travel, commerce, and supply chains. The pandemic has also disrupted the supply of personal protective equipment (PPE), with hospitals, clinics, and long-term care facilities struggling to access vital masks, gloves, and other protective gear, much of which was imported from overseas. However, there is a silver lining as the pandemic may catalyze economic recovery and localize manufacturing. Localization brings smaller, more agile, and profitable manufacturing back to local communities, adding resilience to post-industrial countries like Canada. This shift focuses on continuous improvement in product quality and value rather than minimizing manufacturing costs. The PPE market has changed dramatically due to the pandemic, with consumers demanding higher-quality and stylish masks. This creates opportunities for Canadian manufacturers to introduce new technologies and create high-value, next-generation products. The Centre of Excellence in Protective Equipment and Materials (CEPEM) at McMaster University was established to support the local manufacturing of face masks and shields, with several Canadian companies now producing "Made in Canada" PPE. This dynamic can help restore Canada's lost share of manufacturing and ensure that end users, including healthcare workers, students, and the general public, have access to locally made masks.

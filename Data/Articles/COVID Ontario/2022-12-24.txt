@@ -1,0 +1,69 @@
+Below are 10 news articles from the past 7 days regarding COVID-19 to help guide you in making your decision. Using your best judgement, take into consideration only the articles that are most relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Articles that are from know reputable sources have been flagged with "Trusted: True".
+
+Article 1 of 10
+Title: COVID-19 and science advice on the ‘Grand Stage’: the metadata and linguistic choices in a scientific advisory groups’ meeting minutes
+Publisher: Nature.com
+Trusted: False
+Posted: Today
+The article discusses the transparency of SAGE, a scientific advisory group providing advice to the UK government during the COVID-19 pandemic. The analysis found that SAGE became more transparent over time, with a decrease in the delay between meetings and the release of meeting minutes. The number of experts attending SAGE meetings increased over time, indicating new expertise being incorporated. SAGE's role as a scientific advisor was clearly outlined, with a tension between neutrality and usefulness of advice noted. The use of attitude markers and SAGE taking a stance on issues indicated a shift away from neutrality. SAGE was presented as a body of consensus, with unanimous agreement emphasized. Linguistic markers were used to indicate degrees of certainty, with boosters emphasizing evidential basis and hedges signaling uncertainty.
+
+Article 2 of 10
+Title: Worries, beliefs and factors influencing perinatal COVID-19 vaccination: a cross-sectional survey of preconception, pregnant and lactating individuals - BMC Public Health
+Publisher: BMC Public Health
+Trusted: False
+Posted: 1 day ago
+In this Canadian perinatal survey, 42.4% of respondents had received at least one COVID-19 vaccine dose, and among the unvaccinated, 72.8% were willing to get vaccinated. The strongest factors associated with vaccination were access to healthcare providers (HCPs) to discuss COVID-19 vaccination during pregnancy, and believing that the vaccine is effective. The most common worries among respondents were concerns about fetal growth, future behavioral and neurodevelopmental problems in the child, and pregnancy loss. The findings highlight a high vaccine acceptance rate and the importance of addressing concerns about vaccine safety and effectiveness to mitigate hesitancy. The study's strengths include the large sample size and representation of different reproductive stages, while limitations include the potential for multiple entries and sociodemographic homogeneity due to self-selection. The most pressing area for continued research is the long-term effects of the COVID-19 vaccine during pregnancy on child development. Overall, the study provides valuable insights into COVID-19 vaccine acceptance and hesitancy among perinatal individuals in Canada during the early phases of the vaccine rollout.
+
+Article 3 of 10
+Title: Employment growth in Canada and the United States during the recovery from COVID-19
+Publisher: Statistique Canada
+Trusted: True
+Posted: 2 days ago
+
+Article 4 of 10
+Title: China's Health-Care System on the Brink as COVID-19 Patients Flood Hospitals
+Publisher: Asia Pacific Foundation of Canada
+Trusted: False
+Posted: 2 days ago
+Here is a summary of the article: Following the rapid easing of COVID-19 restrictions in China, outbreaks in popular centers are overwhelming local healthcare systems. Hospitals and medical workers are facing their biggest challenge in handling the nation's most significant outbreak since 2020. COVID-19 patients have flooded hospitals, and there is a shortage of medical staff. Authorities in Henan province have canceled statutory holidays for healthcare workers until the end of March 2023 to combat rising cases. There are also widespread shortages of medicine and self-testing kits. The current public health measures could lead to severe outbreaks in smaller urban areas and rural regions with limited healthcare resources, where there are relatively higher percentages of children, the elderly, and people with disabilities. Delayed treatment for non-COVID illnesses and a lack of trust in the government's messaging about recovering at home are also concerns. As of 2021, China had a national average of 3.04 doctors and 6.7 beds per 1,000 residents. The country is preparing to mobilize health resources, such as opening new fever clinics and adding ICU beds in makeshift hospitals. Chinese authorities are reporting low daily COVID-19 case counts, but there are discrepancies with reports from crematorium staff, indicating a higher number of deaths. The government's definition of a COVID-19 death excludes those with pre-existing conditions, which may further misinformation and distrust. China is focusing on bolstering community-level care and plans to build an effective primary-care system. However, there may be a lack of staff and equipment at community health centers. Modeling predicts that without an efficient vaccination drive or control measures, 1.5 million people in China could die from COVID-19 in the next three months, especially among vulnerable citizens.
+
+Article 5 of 10
+Title: What Does Recovery From COVID-19 Look Like?
+Publisher: Yale Medicine
+Trusted: False
+Posted: 3 days ago
+As of December 2022, COVID-19 symptoms have evolved, but most cases remain mild. Vaccinated individuals especially tend to experience milder cases and often do not require hospitalization. However, there is a growing number of patients with "long COVID," or "long haulers," who experience lingering symptoms months after their initial infection, including "brain fog," fatigue, and pulmonary and cardiac issues. Researchers are still working to understand long COVID, which can affect patients regardless of their initial disease severity. Yale Medicine's Post-COVID-19 Recovery Program treats patients facing these ongoing challenges. For the latest information on COVID-19, it is recommended to refer to official sources such as the CDC and WHO, as well as local government websites.
+
+Article 6 of 10
+Title: PAHO makes COVID-19 therapeutic available to 16 countries
+Publisher: Pan American Health Organization
+Trusted: False
+Posted: 3 days ago
+PAHO delivered over 11,000 vials of the drug tocilizumab to 15 Latin American and Caribbean countries to improve treatment for severe and critical COVID-19 patients. Tocilizumab is a medication that has been shown to reduce mortality in hospitalized COVID-19 patients with severe or critical illness, rapid deterioration, increased oxygen requirements, and significant inflammatory response. The drug is an immunosuppressant that delivers monoclonal antibodies targeting and blocking Interleukin-6 (IL-6) receptors. High levels of IL-6 are found in critically ill COVID-19 patients, inducing an inflammatory response. The WHO added tocilizumab to its list of prequalified COVID-19 treatments in early 2022, and it has been shown to reduce mortality, complications, and hospital stay duration. The availability of this medication is important as COVID-19 continues to cause severe disease and hospitalizations, particularly in at-risk groups such as the elderly and those with underlying medical conditions. The purchase and distribution of tocilizumab by PAHO, supported by the US government, is a significant step towards ensuring equitable access to COVID-19 therapeutics in the region.
+
+Article 7 of 10
+Title: 
+Publisher: Harvard Medical School
+Trusted: False
+Posted: 3 days ago
+
+Article 8 of 10
+Title: Coronavirus and Pregnancy: What You Should Know
+Publisher: Johns Hopkins Medicine
+Trusted: False
+Posted: 5 days ago
+Pregnant women are more vulnerable to respiratory viruses like the coronavirus due to changes in their immune systems. To protect themselves and their unborn children from COVID-19, pregnant women are advised to take extra precautions, including physical distancing, wearing masks, hand washing, and consulting their doctors regularly. Less frequent in-person appointments and the use of telemedicine are strategies obstetricians are employing to monitor pregnant patients while reducing potential exposure to the virus. COVID-19 vaccination is now authorized for pregnant women and has led to a significant increase in vaccination rates, offering the best protection against maternal and fetal complications from COVID-19 infection. To summarize, pregnant women should prioritize avoiding the coronavirus, take necessary precautions, utilize telemedicine options, and consider vaccination as the most effective way to ensure a healthy pregnancy during the pandemic.
+
+Article 9 of 10
+Title: Doctors warn holidays will likely bring COVID-19 infections
+Publisher: CBC.ca
+Trusted: False
+Posted: 5 days ago
+The COVID-19 signal in Ottawa's wastewater data is 10 times higher than last December before the Omicron variant emerged, indicating a significant presence of the virus in the community. However, the main difference between this year and last year is the level of concern among the public, with less "existential dread" surrounding the holidays this season, according to epidemiologist Raywat Deonandan. Despite the high COVID-19 levels, there is a lack of concern among the public, and the hospital situation is worse, with less capacity to handle emergencies. Deonandan predicts a bump in infections in January due to indoor gatherings and the current trend of more common, less severe waves. This leveling-out means we may be living with high COVID-19 levels for an extended period. Tyson Graber, an associate scientist involved in Ottawa's COVID-19 wastewater project, agrees that COVID-19 levels are very high but doesn't anticipate a major new wave. The positivity rate in Ottawa is over 10%, indicating a high proportion of positive tests among healthcare workers, which is a good predictor of community spread. The Omicron subvariant BQ 1.1 is dominant in the wastewater, but immune protection is still effective, so a huge surge in cases is unlikely in the coming weeks. Deonandan recommends taking precautions to limit respiratory infections, especially before holiday gatherings, including masking, ventilation, and staying up-to-date with vaccinations. He criticizes government messaging for being too lax and not addressing public concerns about long COVID and repeated infections, which may cause immune damage and reduce the ability to fight future diseases.
+
+Article 10 of 10
+Title: NCI's COVID-19 Research Initiatives
+Publisher: National Cancer Institute (.gov)
+Trusted: False
+Posted: 5 days ago
+Here is a summary of the article: The National Cancer Institute (NCI) is actively contributing to the global fight against the COVID-19 pandemic by utilizing its scientific expertise and advanced resources. NCI's efforts are focused on conducting research and supporting clinical trials related to SARS-CoV-2, the virus causing COVID-19. This includes studying vaccine responses, severity factors, and the virus's impact on cancer patients. To understand the immune response to COVID-19, NCI has launched several initiatives, including the NCI COVID-19 Serology Program, funded through the Paycheck Protection Program and Health Care Enhancement Act. The largest component of this program is the Serological Sciences Network (SeroNet), which supports research projects at various institutions and centers of excellence. NCI also collaborates with the FDA, CDC, and NIH to validate antibody tests for emergency use authorization, ensuring their accuracy and reliability. NCI supports clinical trials for COVID-19 treatments and has initiated the NCI COVID-19 in Cancer Patients Study (NCCAPS) to understand the virus's effects on people with cancer. Additionally, they are studying the immune response to vaccination in young cancer patients undergoing immunosuppressive therapy. Genomic studies, such as COVIDcode and COVNET, aim to identify genetic variants associated with COVID-19 outcomes, which could lead to the development of novel therapies and risk identification. NCI has also studied other risk factors, such as smoking status, and its association with COVID-19 severity. Furthermore, NCI, along with the National Institute of Biomedical Imaging and Bioengineering (NIBIB), launched the Digital Health Solutions for COVID-19 initiative to develop digital tools for population health management during the pandemic. This includes smartphone apps and software for identifying infected individuals and tracking test results. Overall, NCI's efforts encompass a wide range of research areas, clinical trials, and digital solutions, all aimed at addressing the COVID-19 pandemic and improving patient care and outcomes. These initiatives provide valuable insights for forecasting COVID-19 hospitalizations by identifying high-risk individuals and developing effective treatments.

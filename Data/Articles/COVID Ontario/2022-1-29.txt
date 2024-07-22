@@ -1,0 +1,68 @@
+Below are 10 news articles from the past 7 days regarding COVID-19 to help guide you in making your decision. Using your best judgement, take into consideration only the articles that are most relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Articles that are from know reputable sources have been flagged with "Trusted: True".
+
+Article 1 of 10
+Title: Thousands opposed to COVID-19 rules converge on Parliament Hill
+Publisher: CBC News
+Trusted: False
+Posted: Today
+A large convoy of truckers and protesters converged on Parliament Hill in Ottawa on Saturday to call for an end to COVID-19 vaccine mandates and public health restrictions. The protest, which has been peaceful so far, caused significant traffic disruptions in the city and led to the closure of a major shopping centre. As of Saturday evening, police had not provided an official estimate of the crowd's size, but organizers expected up to 10,000 people to attend. The convoy has attracted people from all regions of the country and has been supported by Conservative politicians. Prime Minister Justin Trudeau and his family have been moved to an undisclosed location in the capital due to security concerns. While the protest has been largely peaceful, there have been some incidents of disrespectful behaviour, including protesters dancing on the Tomb of the Unknown Soldier and adorning a statue of Terry Fox with anti-vaccine material. There is also a concern about extremist elements in the crowd, with some protesters equating vaccine mandates to Nazi Germany. The Public Health Agency of Canada reported that unvaccinated people are 19 times more likely to be hospitalized with COVID-19 than those who are fully vaccinated.
+
+Article 2 of 10
+Title: Mayo Clinic expert discourages throat swab COVID-19 test ‘hack’
+Publisher: Mayo Clinic
+Trusted: False
+Posted: 1 day ago
+Here is a summary of the article: Dr. Matthew Binnicker, director of Clinical Virology at Mayo Clinic, is urging people to use at-home COVID-19 tests as directed and not to deviate from the manufacturer's instructions. Despite online claims suggesting that a throat swab may better detect the Omicron variant, Dr. Binnicker states that there is no scientific evidence to support this claim. The at-home antigen tests available in the US are designed for nasal swabs only, and using a throat swab instead could negatively affect the test's performance due to the difference in acidity levels between the throat and nasal tract. The Food and Drug Administration (FDA) also warns against self-collection of throat swabs due to the risk of invalid results and potential injury if performed incorrectly. Dr. Binnicker emphasizes that while new variants may lead to changes in testing strategies, for now, it is crucial to follow the test instructions and await scientific data for any necessary modifications. This information is crucial in ensuring accurate testing and preventing false positives, which is essential for forecasting COVID-19 hospitalizations accurately.
+
+Article 3 of 10
+Title: The Yukon’s experience with COVID-19: Travel restrictions, variants and spread among the unvaccinated The Yukon’s experience with COVID-19: Travel restrictions, variants and spread among the unvaccina
+Publisher: Canada.ca
+Trusted: True
+Posted: 2 days ago
+The Yukon Territory in Canada experienced a late wave of COVID-19 in June and July 2021, despite having the highest vaccination rate in Canada at the time. The wave was caused by the highly contagious Gamma variant and primarily affected unvaccinated individuals, including children and youth. The outbreak overwhelmed the healthcare system and led to hospitalizations and medical evacuations to larger centers. The Yukon's experience highlights the importance of continued support for public vaccination programs and the careful relaxation of restrictions as more contagious variants emerge. High vaccination rates and mandatory masking were not sufficient to prevent outbreaks in unvaccinated populations. The impact of the outbreak included pediatric cases, daycare and school closures, economic disruptions, and a strained healthcare system. To reduce the severity of future waves, widespread vaccination across age groups and communities is necessary.
+
+Article 4 of 10
+Title: Ontario Newsroom
+Publisher: Government of Ontario News
+Trusted: False
+Posted: 2 days ago
+
+Article 5 of 10
+Title: National Kids and Vaccines Day spotlights COVID-19 vaccination confidence
+Publisher: Government of Yukon
+Trusted: False
+Posted: 2 days ago
+
+Article 6 of 10
+Title: COVID Symptoms — Frequently Asked Questions
+Publisher: Johns Hopkins Medicine
+Trusted: False
+Posted: 2 days ago
+Here is a summary of the article: The article discusses the symptoms of COVID-19 and provides guidance on when to seek medical help. Here are the key points: Common COVID-19 symptoms include cough, fever or chills, shortness of breath, muscle aches, sore throat, loss of taste or smell, diarrhea, headache, fatigue, nausea, and congestion. In the case of emergency warning signs, such as difficulty breathing, chest pain or pressure, confusion, or bluish lips or face, call 911 immediately. Symptoms can appear 2-14 days after exposure to SARS-CoV-2, with a median time of around five days for the original virus and about three days for the Omicron variant. Early symptoms can vary but may include fatigue, headache, sore throat, fever, and loss of smell or taste. It is possible to have COVID-19 without a fever or a cough, and some individuals may be asymptomatic, experiencing no symptoms at all. COVID-19 symptoms can fluctuate, with periods of feeling better followed by a recurrence of symptoms. COVID-19 symptoms in children are similar to those in adults and can include fever, cough, sore throat, difficulty breathing, and diarrhea. Children are also at risk for multisystem inflammatory syndrome (MIS-C). COVID-19 shares some symptoms with allergies, flu, colds, and strep throat, so it may be difficult to differentiate without a test. The COVID-19 vaccine cannot give you COVID-19, but it can cause temporary and mild side effects as your immune system responds. To forecast COVID-19 hospitalizations, it is important to consider the following: The incubation period for COVID-19 is 2-14 days, with most symptoms appearing around day 5 for the original virus and day 3 for Omicron. The severity of symptoms can vary widely and some people may experience mild symptoms initially, which then worsen over 5-7 days. People with COVID-19 might experience recurring symptoms during the recovery process. Hospitalizations may depend on the availability of effective treatments, the vaccination rate in the area, and the overall health of the population. Keep up to date with the latest CDC guidelines for isolation and quarantine to help prevent the spread of COVID-19 and reduce the burden on hospitals.
+
+Article 7 of 10
+Title: Homologous and Heterologous Covid-19 Booster Vaccinations
+Publisher: nejm.org
+Trusted: False
+Posted: 3 days ago
+
+Article 8 of 10
+Title: How does Pfizer's COVID-19 pill work and who will get it?
+Publisher: CBC News
+Trusted: False
+Posted: 4 days ago
+Here is a summary of the article: Health Canada has approved Pfizer's COVID-19 treatment, Paxlovid, for individuals 18 and older, prompting inquiries about its limitations and mode of action. Paxlovid is an oral antiviral medication, or pills that alleviate COVID-19 symptoms. The treatment combines two antiviral medications: nirmatrelvir and ritonavir. Patients take three pills twice daily for a total of 30 pills over five days. Nirmatrelvir, a Pfizer-BioNTech innovation, impairs the virus's ability to replicate, while ritonavir, a common HIV/AIDS medication, prolongs nirmatrelvir's efficacy in the body. According to infectious disease specialist Dr. Isaac Bogoch, Paxlovid is a protease inhibitor that disrupts viral replication. Early treatment is crucial for effectiveness. Immunologist Dr. David Burt cautions that the treatment is most effective when administered within a narrow window of time after infection. Pfizer's trials showed an 85% reduction in hospitalization or death risk when taken within five days of infection. A prescription and a positive PCR or rapid antigen test are required for Paxlovid, which will be provided free of charge by the federal government to provinces and territories. The drug is particularly beneficial for immunocompromised, elderly, and underserved individuals. While Canada has purchased one million doses, the initial supply is limited, with 30,000 pills already distributed and 120,000 additional treatments expected by March. Experts emphasize that Paxlovid is not a substitute for vaccines but an additional layer of protection. It targets the virus's ability to spread, making it effective regardless of the variant. Early data suggests Paxlovid is effective against the Omicron variant, with Pfizer studies indicating that nirmatrelvir retains its antiviral activity. This information can be used to forecast COVID-19 hospitalizations by considering the availability, distribution, and eligibility for Paxlovid treatment. The treatment's effectiveness in reducing hospitalization and death risk highlights its potential impact on healthcare systems. However, the limited supply and the need for early treatment administration are factors that may influence hospitalization rates.
+
+Article 9 of 10
+Title: Coronavirus Diagnosis: What Should I Expect?
+Publisher: Johns Hopkins Medicine
+Trusted: False
+Posted: 5 days ago
+There are three main phases of a COVID-19 infection: the incubation period, acute COVID-19, and COVID-19 recovery. During the incubation period, which typically lasts 2-14 days but can vary depending on the variant, an individual may not exhibit any symptoms but is still contagious. This stage is crucial for self-quarantine and monitoring to prevent the spread of the virus. The acute COVID-19 stage is when symptoms like fever and cough appear, and the illness can last from one to two weeks or even months in severe cases. Some individuals may be asymptomatic but still test positive for COVID-19. During the COVID-19 recovery stage, individuals may experience lingering symptoms such as cough, fever, weakness, and altered senses of smell or taste, known as long COVID-19, which can persist for weeks or months. It's important to note that positive test results don't necessarily indicate infectiousness, as most people are no longer contagious after the recommended isolation period. However, those with severe immunosuppression should consult their healthcare provider for personalized guidance on isolation and infectiousness.
+
+Article 10 of 10
+Title: Social connectedness, sleep, and physical activity associated with better mental health among youth during the COVID-19 pandemic
+Publisher: National Institutes of Health (NIH) (.gov)
+Trusted: False
+Posted: 5 days ago
+The research, published in the Journal of Adolescent Health and supported by the National Institute on Drug Abuse and other NIH entities, analyzed data from over 3,000 adolescents aged 11-14 before and during the early months of the COVID-19 pandemic. It found that supportive relationships and healthy behaviors like physical activity and better sleep were associated with better mental health outcomes during the pandemic. Positive relationships with family and friends were among the top predictors of high positive affect and protected against stress, anxiety, and depression. Conversely, more screen time and witnessing racism or discrimination related to the pandemic were predictors of negative affect. The study also found that girls and those with pre-existing mental health or sleep problems were more vulnerable to the negative impacts of the pandemic. The sample, however, was not representative of the US population, limiting the generalizability of the results. The ABCD Study is a longitudinal study of brain development and child health, providing valuable insights into the impact of the pandemic on youth mental health.

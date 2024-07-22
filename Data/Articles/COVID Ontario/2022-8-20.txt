@@ -1,0 +1,69 @@
+Below are 10 news articles from the past 7 days regarding COVID-19 to help guide you in making your decision. Using your best judgement, take into consideration only the articles that are most relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Articles that are from know reputable sources have been flagged with "Trusted: True".
+
+Article 1 of 10
+Title: Two years after Trudeau promised a made-in-Canada COVID vaccine, the country is still waiting
+Publisher: CBC News
+Trusted: False
+Posted: Today
+The article highlights the delays and challenges faced by the Canadian government in its efforts to establish domestic vaccine production capabilities, specifically focusing on the National Research Council (NRC) facility in Montreal. Despite the federal government's initial promise of producing COVID-19 vaccines by November 2020, the NRC facility has not produced any vaccines two years later. The article cites various factors for the delays, including construction setbacks and a failed partnership with a Chinese vaccine manufacturer. While the facility has recently received Health Canada approvals, there is still no target date for when it will be operational. The government's partnership with Novavax, a company that had never brought a vaccine to market before, is also discussed, with experts questioning the optimistic timeline provided by the government. The delays have led to criticism from opposition parties, who accuse the government of failing to deliver on its promises and lacking credibility. The article concludes by highlighting the need for public vaccine manufacturing capacity in Canada to avoid supply issues in future pandemics.
+
+Article 2 of 10
+Title: Amazon’s COVID-19 blog
+Publisher: About Amazon
+Trusted: False
+Posted: 1 day ago
+The article highlights several AWS customers and their innovative solutions to improve the COVID-19 patient experience and help manage hospitalizations. Here's a summary: EASE Applications: Offers HIPAA-compliant text updates to families, keeping them informed about their loved ones' health. They have also incorporated two-way video communication using Amazon Chime SDK during the COVID-19 crisis, allowing families to connect remotely with patients and doctors. CareMonitor: Expanded its remote health monitoring platform to track the daily health status of COVID-19 patients with mild symptoms at home. The app integrates Amazon Chime for messaging and video connections with healthcare providers. Current Health: Over 40 hospitals and care facilities are using their remote monitoring technology to free up beds. Their wearable medical device continuously monitors at-risk patients, enabling clinicians to perform triage and consult remotely. Seoul National University Hospital: Developed a system on AWS to remotely monitor mild and asymptomatic COVID-19 patients under quarantine. This helps the medical team decide if patients need to be transferred for treatment. These solutions contribute to improved patient care, family communication, and efficient utilization of healthcare resources during the COVID-19 pandemic. They also help in forecasting COVID-19 hospitalizations by providing real-time data on patient symptoms, biometric data, and vital signs, enabling healthcare providers to make informed decisions and allocate resources effectively.
+
+Article 3 of 10
+Title: UBC researchers say they've found 'weak spot' in all COVID-19 variants that could lead to better treatment
+Publisher: CBC.ca
+Trusted: False
+Posted: 2 days ago
+Researchers at the University of British Columbia (UBC) have discovered a "weak spot" in the virus that causes COVID-19, which they believe could lead to the development of effective treatments against current and future variants. The team used cryo-electron microscopy (cryo-EM) to identify a consistent soft spot in the virus's spike protein that has survived mutations. They found that a specific antibody fragment, VH Ab6, can effectively neutralize all variants by exploiting this vulnerability. This "master key" antibody has the potential to be used as a basis for designing treatments that are resistant to different variants. While the findings are promising, further research and development are needed before any clinical applications can be realized. This discovery provides valuable insights into understanding the COVID-19 virus and could potentially lead to more effective treatments in the future.
+
+Article 4 of 10
+Title: UBC researchers discover ‘weak spot’ across major COVID-19 variants
+Publisher: UBC Faculty of Medicine
+Trusted: False
+Posted: 2 days ago
+
+Article 5 of 10
+Title: The Moderna COVID-19 (mRNA-1273) vaccine: what you need to know
+Publisher: World Health Organization (WHO)
+Trusted: True
+Posted: 2 days ago
+The WHO Strategic Advisory Group of Experts on Immunization (SAGE) has issued updated recommendations for the Moderna COVID-19 vaccine. Here are the key points: The vaccine is safe and effective for individuals aged 6 months and above, with priority given to older adults, health workers, and immunocompromised individuals. Pregnant and breastfeeding women can be vaccinated, as the benefits outweigh any potential risks. Individuals with a history of severe allergic reaction to any component of the vaccine should not receive it. The vaccine is authorized for use in children and adolescents, with a recommended dosage adjustment for those under 12. The vaccine is safe and effective, with rare cases of myocarditis as a possible side effect. The vaccine is highly effective against severe disease, hospitalizations, and death after two doses and a booster. The recommended dosage for adults is two doses, 8 weeks apart, and for adolescents and children, two doses, 4-8 weeks apart, with a lower dosage for those under 12. A first booster dose is recommended for high-priority groups, and a second booster is recommended for the highest priority groups. The vaccine can be 'mixed and matched' with other WHO-approved COVID-19 vaccines. The vaccine has a modest impact on preventing mild infections and transmission, especially against the Omicron variant. The vaccine remains effective against virus variants, but a third dose is recommended for all adults, and a second booster for high-priority groups, to maintain protection against Omicron. Overall, the Moderna COVID-19 vaccine is a safe and effective tool in the fight against COVID-19, especially for preventing severe disease and hospitalizations.
+
+Article 6 of 10
+Title: Randomized Trial of Metformin, Ivermectin, and Fluvoxamine for Covid-19
+Publisher: nejm.org
+Trusted: False
+Posted: 3 days ago
+
+Article 7 of 10
+Title: COVID-19 hospitalizations and deaths in Canada stable, but higher than past summers - National
+Publisher: Global News
+Trusted: False
+Posted: 3 days ago
+COVID-19 hospitalizations, confirmed cases, and deaths across Canada have stabilized after a summer wave, but the numbers remain higher than previous summers. As of Wednesday, Canada is averaging 3,475 cases and 44 deaths per day, with 5,158 people hospitalized, including 305 in intensive care. These numbers are down from the June-July wave but are still higher than the summers of 2020 and 2021. The death rate has also eclipsed previous summers. The Omicron variant and its subvariants, BA.5 and BA.2, have caused more waves this year. The WHO warned that BA.5 has increased COVID-19 deaths globally by 35% in the last four weeks. Canada's health officials predict further waves and are planning booster doses for all adults. Experts emphasize the importance of boosters as current vaccines don't fully protect against Omicron. Unvaccinated individuals are more likely to be hospitalized and die from COVID-19. Canada's vaccination rate is high, with 86.1% receiving one dose and 49.7% receiving a booster, but hospitalizations are rising in some provinces.
+
+Article 8 of 10
+Title: Rural businesses in Alberta relied on support from Community Futures through the COVID-19 pandemic
+Publisher: Canada.ca
+Trusted: True
+Posted: 4 days ago
+During the COVID-19 pandemic, the Government of Canada launched the Regional Relief and Recovery Fund (RRRF) to support small and medium-sized enterprises (SMEs) facing challenges. In Alberta, the Community Futures Network of Alberta, a network of 27 local offices, disbursed over $85 million in loans to more than 1,700 rural businesses, helping to maintain over 9,500 jobs. This support was vital in keeping businesses open and driving the economy in rural Alberta. The funding provided by PrairiesCan, the federal economic development organization for the Prairies, was essential to the success of the RRRF in the province. The Community Futures Network of Alberta focused on economic development and supporting small businesses to sustain the economy of rural communities. The organization provided business loans, guidance, and training, as well as tailored services for entrepreneurs with disabilities. The COVID-19 pandemic caused significant uncertainty and financial pressure for small businesses, and the RRRF provided a lifeline for many, allowing them to keep their doors open and recover economically.
+
+Article 9 of 10
+Title: What to eat when you have COVID
+Publisher: Medical News Today
+Trusted: False
+Posted: 4 days ago
+Here is a summary of the article's key points and important facts to help forecast COVID-19 hospitalizations: Eating a nutritious diet is crucial for recovering from COVID-19, as insufficient nutrition is a risk factor for severe illness. A plant-based diet is associated with a lower risk and severity of COVID-19. The Mediterranean diet, which is high in plant-based foods and low in saturated fat, can provide more antioxidants to fight viruses and support the immune system. An anti-inflammatory diet that includes high-quality proteins such as fish, eggs, and lean meat helps produce antibodies and fight infection. Dietary fiber, found in whole grains, fruits, vegetables, legumes, beans, and lentils, is associated with lower mortality from infectious and respiratory diseases and promotes favorable gut bacteria. Omega-3 fatty acids, especially EPA and DHA, found in oily fish and plant sources like flaxseed and walnuts, may have anti-inflammatory and immune-stimulating effects, which could benefit COVID-19 patients. Vitamin C may help shorten the duration of colds and improve respiratory symptoms, acting as an antioxidant and regulating the immune system. Vitamin D, obtained from sunlight and foods like beef liver, egg yolks, and fortified cereals, plays a crucial role in immune function, especially during periods of reduced sun exposure, such as lockdowns. Zinc may reduce viral replication and gastrointestinal and respiratory symptoms associated with COVID-19. Food sources of zinc include meat, poultry, beans, seafood, dairy, nuts, seeds, and oatmeal. While the article does not provide direct information for forecasting COVID-19 hospitalizations, emphasizing proper nutrition and specific dietary recommendations can help reduce the risk of severe illness and hospitalization.
+
+Article 10 of 10
+Title: UM researchers to develop COVID-19 resources related to kids coming to Emergency
+Publisher: UM Today
+Trusted: False
+Posted: 5 days ago
+The University of Manitoba has received a grant of $433,000 from the Canadian Institutes of Health Research (CIHR) to conduct a study that will provide valuable information to healthcare professionals in emergency departments regarding COVID-19 and children. This study is an extension of the Translating Emergency Knowledge for Kids (TREKK) program, which already offers evidence-based resources to parents and healthcare providers across Canada through its website and app. Led by Dr. Terry Klassen, the research will focus on 10 conditions related to the COVID-19 pandemic, including asthma, bronchiolitis, croup, and pneumonia. The team will also survey healthcare professionals, parents, and youths to understand what additional topics and information are needed in the emergency department setting. This feedback will help create and improve user-friendly resources, ensuring accuracy and evidence-based content. The study aims to improve the confidence and reduce the anxiety of healthcare providers treating children, who may be less familiar with pediatric cases, ultimately enhancing the quality of care for children visiting emergency departments.

@@ -1,0 +1,69 @@
+Below are 10 news articles from the past 7 days regarding COVID-19 to help guide you in making your decision. Using your best judgement, take into consideration only the articles that are most relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Articles that are from know reputable sources have been flagged with "Trusted: True".
+
+Article 1 of 10
+Title: Montreal study indicates young people less likely to follow COVID-19 rules - Montreal
+Publisher: Global News
+Trusted: False
+Posted: 1 day ago
+Here is a summary of the article: A recent study from Laval University in Quebec City reveals that young people are less likely to adhere to COVID-19 health guidelines, despite understanding the heightened risks associated with the virus. The study aimed to understand Quebec residents' risk perception and its impact on their behavior regarding COVID-19 guidelines. Key findings include: 1. Individuals under 30 are less likely to follow COVID-19 guidelines, even though they are aware of the increased risk of contracting the virus. 2. Those with pre-existing health conditions are more vigilant in following strict health guidelines due to their heightened concern about the virus. 3. Men are generally less likely to follow coronavirus guidelines, such as handwashing and mask-wearing. 4. Quebec City residents are less likely to comply with rules compared to Montrealers, which may explain the difference in pandemic status between the two regions. 5. The study's authors believe their research can help the government tailor messages to specific groups and anticipate behavior ahead of a potential second wave of COVID-19. Medical experts find these results concerning yet predictable, especially regarding young people's behavior. They emphasize the ongoing risk of the virus and the need to avoid a sense of normalcy. The study highlights the importance of understanding risk perception to manage the pandemic effectively and influence future public health messaging.
+
+Article 2 of 10
+Title: On trend: Modelling the future in a COVID-19 world
+Publisher: University of Alberta
+Trusted: False
+Posted: 1 day ago
+Marie Betsy Varughese, a senior modeller with Alberta Health in Canada, has been working tirelessly with an interdisciplinary team to understand and curb the spread of COVID-19. Varughese, with a background in mathematical biology, builds mathematical models to predict disease spread, a skill she honed during her PhD studies on tuberculosis in Indigenous communities. In January 2020, Varughese and her former supervisor, Michael Li, started modelling COVID-19 using data from Wuhan, China. This proactive approach prepared them for when COVID-19 reached Canada. Varughese's work now involves analyzing data, contributing to briefings, and providing insights for policy decisions. Math modelling helps analyze interventions like physical distancing and predict potential outcomes, aiding in Alberta's relaunch strategy and preparation for a potential second wave. Li highlights Varughese's leadership role and their focus on understanding risk factors for larger outbreaks in Calgary and care facilities.
+
+Article 3 of 10
+Title: Talking to someone in crisis during COVID-19
+Publisher: Mental Health Commission of Canada
+Trusted: False
+Posted: 3 days ago
+The article offers guidance on supporting colleagues, friends, and family experiencing anxiety due to the COVID-19 pandemic. It emphasizes the importance of active listening and provides a list of dos, such as offering emotional support, empathizing with their situation, especially vulnerable populations, paraphrasing their concerns, and validating their feelings. It also recommends providing practical help by asking permission to connect them with relevant resources like food banks or public health services and then providing specific contact details or making the connection directly. These steps can help navigate sensitive conversations and provide meaningful assistance during a challenging time, potentially reducing the mental health burden associated with the pandemic. Regarding forecasting COVID-19 hospitalizations, several factors are considered, including infection rates, the severity of cases, and the capacity of the healthcare system. Active listening and providing support as outlined in the article can play a role in encouraging those infected to seek appropriate medical care and prevent hospitalization whenever possible. Additionally, understanding and addressing anxiety and mental health issues can help allocate resources effectively and potentially reduce the strain on healthcare services.
+
+Article 4 of 10
+Title: Office work could be changed forever by COVID-19. Here's why that matters
+Publisher: CBC.ca
+Trusted: False
+Posted: 3 days ago
+The COVID-19 pandemic has caused a significant shift in the way people work, with many employees transitioning to working from home. This has had ramifications for workplaces, living arrangements, and surrounding businesses. According to Statistics Canada, a large portion of Canadians who began working remotely during the pandemic are still doing so, and a survey by Maru/Blue found that many prefer to continue working from home indefinitely. This preference is partly due to fears of contracting the virus and the need to balance work with COVID-era family responsibilities. The survey also revealed that young people believe flexible work policies, including remote work and flextime, will become more common in the future. This shift in work preferences is impacting various aspects of society. For individuals, working from home can lead to improved self-care, increased productivity, and reduced spending on things like commuting and office-related expenses. However, it has been devastating for businesses that rely on office workers as customers, such as pubs and local services. Additionally, the trend of working from home is influencing real estate decisions, with some Canadians opting to move away from downtown areas and into suburbs or larger homes that provide more space for remote work. This shift could have long-term effects on the ecosystem of businesses surrounding office buildings. In terms of forecasting COVID-19 hospitalizations, the continued preference for remote work could have a mitigating effect on the spread of the virus. However, experts predict a spike in cases following the Labour Day long weekend, and the impact of increased social gatherings and indoor activities during the fall and winter months remains to be seen.
+
+Article 5 of 10
+Title: Fair allocation mechanism for COVID-19 vaccines through the COVAX Facility
+Publisher: World Health Organization (WHO)
+Trusted: True
+Posted: 3 days ago
+The article introduces the ACT-Accelerator, a global initiative to address the COVID-19 pandemic by promoting equitable access to diagnostics, vaccines, and treatments across all countries. A key component is the Fair Allocation Framework, which aims to prevent hoarding, shortages, and price spikes by distributing vaccines based on population size, allowing countries to prioritize high-risk groups first. This is outlined in the document 'Fair allocation mechanism for COVID-19 vaccines through the COVAX Facility', with Annex 3 focusing on supporting lower-coverage participants. The article emphasizes the critical nature of equitable vaccine distribution to end the acute phase of the pandemic and begin societal and economic recovery. The initial phase of the allocation plan ensures all countries receive enough doses to cover 20% of their population, with the second phase expanding coverage based on national priorities. If supply constraints persist, allocation will be weighted according to a country's COVID threat and vulnerability. This document provides a strategy for fair vaccine allocation, helping to forecast and manage COVID-19 hospitalizations by ensuring a consistent global approach to immunization.
+
+Article 6 of 10
+Title: Nurses pen light-hearted poem on COVID-19 safety
+Publisher: Alberta Health Services
+Trusted: False
+Posted: 3 days ago
+
+Article 7 of 10
+Title: A COVID-19 Vaccine - Betting on the Hare or the Tortoise?
+Publisher: Office for Science and Society
+Trusted: False
+Posted: 3 days ago
+The article discusses the global race to develop a vaccine against the SARS-CoV-2 virus, with numerous pharmaceutical companies and researchers working on close to two hundred projects. It explains the basic idea of vaccine development, which involves triggering the body's immune response without exposing it to live virus. Different technologies are being pursued, including using the virus itself, the spike protein detached from the virus, genetic engineering to produce the spike protein, and viral vectors to introduce the spike protein gene. The article also mentions the importance of proper testing for safety and efficacy, highlighting the complexities and challenges involved in vaccine development. It emphasizes the need for thorough testing despite the urgency to find a vaccine quickly.
+
+Article 8 of 10
+Title: Why COVID-19 is more deadly in people with obesity—even if they're young
+Publisher: Science
+Trusted: False
+Posted: 4 days ago
+
+Article 9 of 10
+Title: Canadians are less willing to fly during COVID-19 than Americans
+Publisher: The Conversation Canada
+Trusted: False
+Posted: 4 days ago
+The International Air Transport Association (IATA) predicts a 55% decrease in global air travel in 2020 due to the COVID-19 pandemic and related government restrictions, with a slow recovery to pre-pandemic levels expected by 2024. While global seat capacity was on track for a record year in January 2020, the rapid spread of COVID-19 led to a sharp decline in air travel, with only 30 million seats available by May, mostly for domestic flights. Consumer demand for air travel has been heavily impacted, with less than a third of Canadians willing to fly and a significant discrepancy in travel confidence between Canadians and Americans due to the severity of the outbreak in the United States. The number of arrivals at Toronto Pearson International Airport, one of the few airports in Canada authorized to receive international flights, has decreased dramatically, with 120-140 daily arrivals during the pandemic compared to an average of 650 per day in 2019. Despite border restrictions, a small number of international travelers continue to arrive in Canada, with a mandatory 14-day quarantine in place. Data from IATA and Spreedix Analytics shows a steep decline in arrivals to Canada from February 2020, while arrivals to the United States from Canada hit a low of 16% of 2019 levels in May. Consumer confidence is slowly returning, influenced by factors such as decreased airfare prices, relaxed flight modification policies, and realistic booking windows. However, the unpredictable nature of the pandemic, with periodic spikes in infections and sudden lockdowns, continues to challenge the industry, and consumer confidence remains fragile. The global air travel industry is expected to remain in a precarious position until the pandemic is brought under control.
+
+Article 10 of 10
+Title: Theme 1: protecting workers’ rights through the Covid-19 crisis
+Publisher: PRI
+Trusted: False
+Posted: 5 days ago
+The COVID-19 pandemic has highlighted the vulnerability of workers, particularly those in precarious employment, and the lack of adequate safeguards to protect their rights. Job losses and reduced hours have left many without access to healthcare or financial support, especially in the informal economy. Investors and companies have a responsibility to protect workers' rights, including health and safety, paid sick leave, access to healthcare, and freedom of association. Stewardship is key, and companies should engage in dialogue with workers to address labor rights concerns and ensure they can express their concerns without fear of retaliation. Examples of investor initiatives and corporate good practices include providing laid-off employees with severance packages and career support, waiving charges for home delivery to protect customers, and mandating remote work to ensure social distancing. To forecast COVID-19 hospitalizations, it is important to consider the impact of worker vulnerability and the lack of social safety nets. The loss of jobs and income, especially for those in precarious employment, can lead to financial strain and difficulty accessing healthcare, potentially increasing the risk of hospitalization due to COVID-19. Additionally, the lack of paid sick leave and inadequate workplace safety measures can contribute to the spread of the virus and increase hospitalizations.

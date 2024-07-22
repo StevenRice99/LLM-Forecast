@@ -1,0 +1,68 @@
+Below are 10 news articles from the past 7 days regarding COVID-19 to help guide you in making your decision. Using your best judgement, take into consideration only the articles that are most relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Articles that are from know reputable sources have been flagged with "Trusted: True".
+
+Article 1 of 10
+Title: COVID-19 May Trigger Hyperglycemia and Worsen Disease by Harming Fat Cells
+Publisher: Weill Cornell Medicine Newsroom
+Trusted: False
+Posted: 1 day ago
+Here is a summary of the article: Researchers from Weill Cornell Medicine and NewYork-Presbyterian have found a link between COVID-19 and hyperglycemia, or high blood sugar levels. The study, published in Cell Metabolism, analyzed records from nearly 3,854 hospitalized COVID-19 patients and found that almost half presented with or developed hyperglycemia during their stay. This condition was associated with a nine-fold increase in the likelihood of severe lung dysfunction, a fifteen-fold increase in the likelihood of requiring mechanical ventilation, and a three-fold increase in the risk of death. The coronavirus, SARS-CoV-2, is believed to induce hyperglycemia by disrupting the production of adiponectin, a hormone that regulates blood sugar and is produced by fat cells. This discovery provides insight into why some individuals experience worse COVID-19 outcomes and suggests that obesity may be a vulnerability factor due to potential insulin resistance and fat cell dysfunction. The findings also indicate that diabetes drugs that increase adiponectin production may be a potential treatment option for COVID-19 patients with hyperglycemia, although further research is needed. Additionally, Dr. Lo is investigating the possibility of COVID-19-induced hyperglycemia persisting and leading to diabetes even after recovery from the virus.
+
+Article 2 of 10
+Title: COVID-19: Edmonton doctor recounts calling woman to share her mom’s dying moments
+Publisher: Global News
+Trusted: False
+Posted: 1 day ago
+The article recounts the story of Dr. Neeja Bakshi, an Edmonton doctor who shared a personal account of sitting with a 75-year-old patient as she died from COVID-19. The patient, referred to as Anne, was admitted to the COVID ward and was not expected to survive the day. Dr. Bakshi called Anne's daughter, Jane, to inform her of her mother's condition and arranged for them to say goodbye via an iPad. Anne insisted on putting on lipstick before the call, wanting to "die beautifully." Despite the difficulty in hearing each other due to the loud oxygen machines and Anne's oxygen mask, mother and daughter were able to communicate with the help of Dr. Bakshi, who translated their words. Anne passed away 30 minutes later, with Jane by her side virtually and Dr. Bakshi in the room. The article also mentions the high number of COVID-19 deaths in Alberta, with 95 deaths reported in the previous four days, including 34 deaths on a single day. The personal story shared by Dr. Bakshi highlights the human impact of the pandemic and the difficult role of healthcare workers in supporting dying patients and their families.
+
+Article 3 of 10
+Title: Clinical Practice Guideline Summary: Recommended Drugs and Biologics in Adult Patients with COVID-19
+Publisher: Ontario COVID-19 Science Advisory Table
+Trusted: False
+Posted: 2 days ago
+The Ontario COVID-19 Science Advisory Table, comprised of scientific experts and health system leaders, has released version 4.0 of its Clinical Practice Guidelines for drugs and biologics used in the treatment of adult COVID-19 patients. The guidelines are based on scientific evidence and are intended to inform public health and healthcare professionals in Ontario. The Drugs & Biologics Clinical Practice Guidelines Working Group, a subgroup of the Science Advisory Table, evaluates scientific data, disease epidemiology, drug availability, and implementation issues to develop these guidelines. The Working Group includes experts in academic and community medicine, critical care, family medicine, internal medicine, geriatrics, pediatrics, nursing, and pharmacy. They provide recommendations on the use of medications and biologics for the treatment of COVID-19 in adults, aiming to improve patient outcomes and manage the impact of the pandemic. This version of the guidelines (4.0) likely includes updated recommendations on drug and biologic treatments based on the evolving scientific understanding of COVID-19 and the availability of new treatments. It is crucial to refer to the actual guidelines for specific details and recommendations. These guidelines play a vital role in guiding healthcare professionals and public health policymakers in their response to the COVID-19 pandemic in Ontario.
+
+Article 4 of 10
+Title: How COVID-19 exposed Canada’s treatment of migrant workers
+Publisher: openDemocracy
+Trusted: False
+Posted: 2 days ago
+
+Article 5 of 10
+Title: Ontario Newsroom
+Publisher: Government of Ontario News
+Trusted: False
+Posted: 3 days ago
+
+Article 6 of 10
+Title: COVID-19 disease in children and adolescents: Scientific brief, 29 September 2021
+Publisher: World Health Organization (WHO)
+Trusted: True
+Posted: 3 days ago
+Here is a summary of the article's key points and important facts to consider when forecasting COVID-19 hospitalizations in the pediatric population: Children and adolescents typically experience milder symptoms and lower mortality rates from SARS-CoV-2 infection compared to adults. This is a positive aspect as it indicates a lower risk of severe disease in the younger population. However, the concern arises from the possibility that mild or asymptomatic infections in children may result in undertesting and, consequently, an underidentification of COVID-19 cases in this age group. This could inadvertently contribute to disease transmission if these undetected cases spread the virus unknowingly. Accurate understanding of symptoms, infectivity, and transmission patterns among children and adolescents is crucial for devising effective control measures for COVID-19 that can be applied across all age groups. Proper surveillance, testing, and reporting of COVID-19 cases in pediatric populations are essential for epidemic forecasting and implementing preventive measures in schools, kindergarten, and day-care facilities. This will help in making informed decisions to ensure the safety and well-being of children and staff while keeping these institutions operational. Considering the potential for intergenerational mixing, especially during festive periods, it is advisable to maintain precautionary measures such as social distancing, proper ventilation, hand hygiene, and masking to reduce the risk of transmission from children to older, more vulnerable adults. While forecasting COVID-19 hospitalizations, it is important to consider the overall vaccination rates, including pediatric vaccinations (if eligible), as well as the emergence of new variants that may have increased transmissibility or immune escape properties. Monitoring local and regional trends in COVID-19 cases, hospitalizations, and intensive care unit (ICU) admissions among children can provide valuable data for forecasting and resource allocation. Understanding the seasonality of respiratory viruses, including potential coinfections with SARS-CoV-2, can also help in forecasting and preparing for potential surges in hospitalizations. Finally, communicating accurate and up-to-date information to the public, including parents and caregivers, is crucial for promoting testing, adhering to preventive measures, and making informed decisions regarding healthcare-seeking behavior, which collectively contribute to more accurate forecasting and effective management of COVID-19 hospitalizations in children and adolescents.
+
+Article 7 of 10
+Title: Autoimmune response found in many with COVID-19
+Publisher: National Institutes of Health (NIH) (.gov)
+Trusted: False
+Posted: 4 days ago
+In a recent study, researchers examined the presence of autoantibodies in people hospitalized with COVID-19. Autoantibodies are immune system proteins that mistakenly target the body's own tissues, and they are commonly found in autoimmune diseases. The study found that about half of the hospitalized COVID-19 patients had autoantibodies in their bloodstream, compared to only 15% of healthy individuals. Interestingly, some patients developed these autoantibodies during their illness, even if they didn't have them upon admission. The levels of autoantibodies in some patients were comparable to those seen in autoimmune diseases, and common targets included immune system proteins. The production of autoantibodies may be linked to the excessive inflammation caused by COVID-19, and vaccination against COVID-19 does not appear to cause the development of autoantibodies. The findings raise questions about the potential long-term effects of COVID-19 on the development of autoimmune diseases and the role of autoantibodies in COVID-19 symptoms. This research contributes to our understanding of the varied responses to COVID-19 and may help in forecasting hospitalizations by identifying risk factors associated with severe cases.
+
+Article 8 of 10
+Title: Suicide ideation in Canada during the COVID-19 pandemic
+Publisher: Canada.ca
+Trusted: True
+Posted: 5 days ago
+The article examines the impact of the COVID-19 pandemic on suicide ideation among Canadian adults, using data from the 2019 Canadian Community Health Survey and the 2020 Survey on COVID-19 and Mental Health. The study found no significant difference in the percentage of adults reporting suicide ideation since the pandemic began (2.44%) compared to those who reported ideation in the past 12 months in 2019 (2.73%). This trend of no significant difference in suicide ideation during the pandemic was consistent across most sociodemographic groups analyzed. However, certain populations were identified as being at higher risk of suicide ideation during the pandemic, including adults under 65, Canadian-born individuals, frontline workers, those with lower educational attainment and household income, individuals who experienced pandemic-related income/job loss or loneliness/isolation, and those who had experienced a highly stressful/traumatic event in their lifetime. The article concludes that continued surveillance of suicide and risk/protective factors is necessary to inform prevention efforts. While the article does not directly provide forecasts or predictions for COVID-19 hospitalizations, it offers insights into the mental health impacts of the pandemic, particularly related to suicide ideation. The identification of high-risk populations can help inform targeted interventions and support services to mitigate the impact of the pandemic on mental health and potentially reduce hospitalizations related to suicide attempts or other mental health crises.
+
+Article 9 of 10
+Title: Canada was already desperately short of nurses before COVID-19. Now nurses say they're hanging on by a thread
+Publisher: CBC.ca
+Trusted: False
+Posted: 5 days ago
+The nursing shortage in Canada, exacerbated by the COVID-19 pandemic, has reached a critical point, with nearly one in five unfilled jobs in the health-care sector. This has led to emergency department closures and increased wait times, affecting patient care. Nurses are working overtime and risking burnout, and the problem is especially acute in small communities and rural areas. Experts and unions have been warning about this shortage for years, blaming a lack of strategic planning and calling for better working conditions and pay for nurses. The federal government has responded by saying that health workforce planning is the responsibility of provincial and territorial governments. According to a nursing professor, improving working conditions and offering incentives like signing bonuses and student loan forgiveness programs are necessary to attract and retain nurses.
+
+Article 10 of 10
+Title: Supporting youth going back to school during COVID-19
+Publisher: Mental Health Commission of Canada
+Trusted: False
+Posted: 5 days ago

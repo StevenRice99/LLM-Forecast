@@ -1,0 +1,70 @@
+Below are 10 news articles from the past 7 days regarding COVID-19 to help guide you in making your decision. Using your best judgement, take into consideration only the articles that are most relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Articles that are from know reputable sources have been flagged with "Trusted: True".
+
+Article 1 of 10
+Title: COVID-19 patient sues Health P.E.I. for privacy breach at hospital
+Publisher: CBC News
+Trusted: False
+Posted: 1 day ago
+A man is suing Health PEI for breach of privacy after his medical information, including his HIV-positive status, was leaked by a hospital employee and shared online by a blogger. The man, who was the first hospitalized COVID-19 case on Prince Edward Island, faced social stigmatization and mental health issues due to the breach. The lawsuit highlights the sensitive nature of his underlying condition and the subsequent expectation of confidentiality. The incident was investigated by Health PEI and the P.E.I. Information and Privacy Commissioner's office, revealing that a hospital employee with no connection to the patient accessed their records. The lawsuit seeks $500,000 in damages, emphasizing the offensive nature of disclosing the man's sexual orientation and HIV status to the public. This case has had significant personal consequences, forcing the man and his family to leave the island and sell their home.
+
+Article 2 of 10
+Title: Why Do Some People Get Sicker Than Others from COVID?
+Publisher: Boston University
+Trusted: False
+Posted: 1 day ago
+Florian Douam, a professor of microbiology, and Devin Kenney, a PhD student, led a study investigating why some people experience milder COVID-19 symptoms than others. They found that the balance of immune cells called macrophages might be key. Most COVID-19 deaths are caused by a hyper-immune response, where macrophages attack the body, causing excessive inflammation. The study identified 11 "protection-defining genes" that determine whether immune cells respond effectively or turn rogue. These genes were upregulated in cases of effective virus resistance. The findings could inform the development of new drugs that prime the immune system to better fight the virus. Douam and Kenney's work provides valuable insights into the molecular processes driving lung protection from COVID-19 and offers potential targets for immunotherapy strategies.
+
+Article 3 of 10
+Title: Canadians’ use of the Internet and digital technologies before and during the COVID-19 pandemic
+Publisher: Statistique Canada
+Trusted: True
+Posted: 2 days ago
+Here is a summary of the article: This study examines the shift in Canadians' online activities and digital skills before and during the COVID-19 pandemic. Data from the 2018 and 2020 Canadian Internet Use Survey (CIUS) is used to categorize Canadians into five internet user groups: non-users, basic users, intermediate users, proficient users, and advanced users. The study finds that there was an upward shift across user groups, with a decrease in non-users and basic users, and an increase in advanced users. This indicates that more Canadians adapted to using the internet and digital technologies during the pandemic. The study also looks at specific online activities that shed light on Canadians' online adaptations during the pandemic. One example is changing location privacy settings on digital devices, which saw an increase across all user groups, particularly among basic and intermediate users. The study finds that the COVID-19 pandemic likely contributed to and accelerated the adoption of the internet and digital technologies in Canadians' lives. While the study does not directly mention forecasting COVID-19 hospitalizations, the data and methods presented could be useful for understanding the impact of the pandemic on internet usage and digital engagement. This information could be used in conjunction with other data sources and models to forecast COVID-19 hospitalizations, particularly when considering the impact of public health measures and lockdowns on internet usage and digital skills.
+
+Article 4 of 10
+Title: Heart Problems after COVID-19
+Publisher: Johns Hopkins Medicine
+Trusted: False
+Posted: 2 days ago
+The article discusses the potential long-term effects of COVID-19 on the heart, including temporary or permanent heart tissue damage. Cardiologists Wendy Post and Nisha Gilotra clarify which post-COVID symptoms may indicate heart issues and provide guidance on when to seek medical attention. While a diagnosis of heart failure post-COVID is rare, people may experience heart-related symptoms such as palpitations, dizziness, chest pain, and shortness of breath. These symptoms could be related to heart problems or the overall impact of the illness and prolonged inactivity during recovery. People with severe chest pain, persistent nausea, shortness of breath, or lightheadedness should seek immediate medical help as they could be experiencing a heart attack. COVID-19 can damage the heart in several ways: Lack of oxygen due to lung inflammation can cause the heart to work harder, potentially leading to heart failure or tissue damage. Myocarditis, an inflammation of the heart muscle, can be caused directly by the virus or indirectly by the body's immune response. Blood vessel inflammation and damage can compromise blood flow to the heart and other organs. Cytokine Storm, a severe immune response, can lead to overwhelming inflammation, damaging healthy tissues and organs, including the heart. Stress cardiomyopathy, caused by viral infections, can affect the heart's ability to pump blood effectively. The article also addresses the impact of COVID-19 on existing heart conditions, the possibility of heart problems surfacing long after recovery, and the unknown long-term effects of the disease on heart health. It emphasizes the need for further research and highlights the gradual nature of COVID-19 recovery, recommending physical therapy, breathing exercises, and patience during the healing process.
+
+Article 5 of 10
+Title: $6.7 million to study the impacts of COVID-19 on children
+Publisher: McGill University Health Centre
+Trusted: False
+Posted: 2 days ago
+Health Minister Jean-Yves Duclos visited Montreal to announce a $6.7 million investment to create a nationwide research platform called POPCORN to understand COVID-19's impact on youth. The platform will monitor infections, vaccinations, and the social effects of the disease on children and youth. The principal investigator of the POPCORN project is Dr. Jesse Papenburg, and it includes 16 research sites across Canada. Minister Duclos also visited the Research Institute of the MUHC to congratulate Jean-Jacques Lebrun and his team for their Quebec Science Award. Dr. Lebrun presented his research on triple-negative breast cancers and precision medicine in oncology. The visit highlighted the RI-MUHC's role in innovation, translational research, and training the next generation of health researchers.
+
+Article 6 of 10
+Title: Current Affairs Journalism, Documentaries and Podcasts
+Publisher: TVO Today
+Trusted: False
+Posted: 3 days ago
+
+Article 7 of 10
+Title: Does My Mask Protect Me if Nobody Else Is Wearing One?
+Publisher: The New York Times
+Trusted: False
+Posted: 3 days ago
+Here is a summary of the article: Even though masks are most effective when everyone in a group wears one, they still provide considerable protection even if the wearer is the only one masked. The level of protection depends on the type of mask and its fit. Health experts recommend using N95, KN95, or KF94 masks to protect against the highly contagious Omicron BA.2 subvariant.
+
+Article 8 of 10
+Title: E-Commerce Sales Surged During the Pandemic
+Publisher: U.S. Census Bureau
+Trusted: False
+Posted: 3 days ago
+The COVID-19 pandemic has significantly impacted consumer behavior, with a shift towards online shopping, grocery delivery, and curbside pickup. E-commerce has grown, and brands are adjusting their strategies accordingly. Forecasting COVID-19 hospitalizations can be influenced by these behavioral changes, as indoor activities and close contact increase the risk of infection and transmission. Avoiding indoor venues and malls, opting for grocery delivery or pickup, and working from home can help reduce the strain on healthcare systems by lowering the infection rate and, consequently, hospitalizations. These behavioral adaptations may become crucial factors in managing and mitigating the impact of the pandemic on healthcare resources.
+
+Article 9 of 10
+Title: Online misinformation is linked to early COVID-19 vaccination hesitancy and refusal
+Publisher: Nature.com
+Trusted: False
+Posted: 4 days ago
+The article investigates the relationship between COVID-19 vaccine misinformation on Twitter and vaccine hesitancy and uptake rates in the United States. The key variable of interest is the percentage of vaccine-related misinformation shared on Twitter at the state and county levels. The authors used a dataset of 55 million tweets collected between January 4 and March 25, 2021, and geolocated users to specific states and counties. Misinformation was identified based on links to low-credibility websites. The dependent variables were vaccination uptake rates (measured by the number of daily vaccinations) and vaccine hesitancy rates (based on Facebook surveys). The article also includes a multivariate regression analysis that adjusts for potential confounding factors such as poverty, age, race, rural-urban classification, COVID-19 deaths, and political affiliation. The authors conducted a Granger causality analysis to determine if misinformation rates help forecast hesitancy rates. They used a bootstrap method to estimate the expected random distribution of the error reduction, generating trial surrogates by randomly shuffling the data points. The p-value was calculated as the proportion of trials where the error reduction was greater than the observed value. The analysis suggests that misinformation rates are Granger causal on hesitancy rates at both the state and county levels, indicating that misinformation may influence vaccine attitudes and behaviors. Overall, the article provides evidence that COVID-19 vaccine misinformation on social media is associated with lower vaccination uptake and increased vaccine hesitancy. The findings highlight the potential impact of misinformation on public health outcomes and the importance of addressing misinformation to improve vaccination rates.
+
+Article 10 of 10
+Title: Unvaccinated people increase risk of COVID-19 infection among vaccinated: study - National
+Publisher: Global News
+Trusted: False
+Posted: 5 days ago
+A new study published in the Canadian Medical Association Journal suggests that even in populations with high immunization rates, the unvaccinated can still pose a risk to those vaccinated against COVID-19. The study used an infectious disease model based on the province of Ontario to understand the interactions between vaccinated and unvaccinated groups, finding that attack rates were highest among the vaccinated when they were randomly mixed with the unvaccinated. The model also showed that unvaccinated individuals had lower attack rates when interacting with vaccinated individuals, as the vaccinated acted as a buffer. The study's authors emphasize the importance of collective action and public health measures in controlling communicable diseases like COVID-19. They also note that the decision to get vaccinated is not just a personal choice but has implications for the community. Forecasting COVID-19 hospitalizations can be informed by data on vaccine effectiveness, baseline immunity, and recovery rates. Current data from Canada shows that hospitalizations due to COVID-19 are rising, with the bulk driven by the unvaccinated or vulnerable populations without a shot. Health Canada emphasizes that vaccination provides significant protection against severe outcomes, including hospitalization and death.

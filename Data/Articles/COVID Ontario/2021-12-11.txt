@@ -1,0 +1,69 @@
+Below are 10 news articles from the past 7 days regarding COVID-19 to help guide you in making your decision. Using your best judgement, take into consideration only the articles that are most relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Articles that are from know reputable sources have been flagged with "Trusted: True".
+
+Article 1 of 10
+Title: 17 pandemic innovations that are here to stay
+Publisher: POLITICO
+Trusted: False
+Posted: 1 day ago
+
+Article 2 of 10
+Title: India, U.S. account for a quarter of COVID-19 misinformation: study
+Publisher: University of Alberta
+Trusted: False
+Posted: 1 day ago
+A University of Alberta master's student, Sayeed Al-Zaman, studied the prevalence of COVID-19 misinformation in 138 countries between January 2020 and March 2021. The results showed that India had the highest rate of misinformation, accounting for about 16% of the global output. The United States, Brazil, and Spain also had high rates of COVID-19 misinformation, with a correlation between misinformation and death rates in these countries. Social media, especially Facebook, was the largest source of misinformation, accounting for 85% of the total output. Asian and African countries generally had a lower prevalence of misinformation compared to South Asia and North and South America. Al-Zaman's study highlights the global reach and impact of COVID-19 misinformation, with consumers worldwide accepting and believing religious misinformation the most.
+
+Article 3 of 10
+Title: CERB helped Canadians during COVID-19 — but not the most vulnerable
+Publisher: The Conversation Indonesia
+Trusted: False
+Posted: 2 days ago
+The article discusses the impact of the COVID-19 pandemic on Canadians with disabilities and evaluates the effectiveness of the Canadian Emergency Response Benefit (CERB) in providing support. Here are the key points: Statistics Canada reported that workers with and without disabilities had similar uptake rates for CERB, but the report overestimates the support received by Canadians with disabilities due to their lower employment rates and eligibility criteria for CERB. Canadians with disabilities were harder hit by the pandemic, with lower employment rates (59% for those with disabilities compared to 80% for those without) and often working in lower-paying, precarious jobs. The authors' research found that only about 22% of Canadians with disabilities surveyed had applied for CERB, compared to 30% of non-disabled workers. Half of the respondents with disabilities were not working when the pandemic hit, making them ineligible for CERB. The federal government's response for disabled people was a one-time $600 GST payment, which was inadequate for most. Later expansions of the program still missed many people who received neither a Canada Pension Plan disability benefit nor disability support through Veterans Affairs. CERB provided financial security for those who could access it, but many disabled Canadians were left out and struggled to make ends meet. CERB's limitations and eligibility criteria excluded the most vulnerable in society, demonstrating the shortcomings of means-tested welfare policies that prioritize employment over support for those who need it most. Disability groups advocated for higher disability support payments, and some have filed Charter challenges alleging disability discrimination in benefit programs. Overall, while CERB helped some workers with disabilities, it was not enough to support all those in need, leaving many Canadians with disabilities unsupported and vulnerable during the pandemic.
+
+Article 4 of 10
+Title: BC Gov News
+Publisher: BC Gov News
+Trusted: False
+Posted: 3 days ago
+Here is a summary of the article: As of December 8, 2021, 85.8% of eligible people aged five and older in British Columbia (B.C.), Canada, have received their first dose of the COVID-19 vaccine, while 82.1% have received their second dose. There were 379 new COVID-19 cases reported in B.C., bringing the total number of cases in the province to 221,235. The province had 2,874 active cases, with 224 individuals hospitalized and 77 in intensive care. Six new deaths were reported in the past 24 hours, bringing the total number of deaths in B.C. to 2,369. From November 30 to December 6, people who were not fully vaccinated accounted for 59.0% of new cases and 67.5% of hospitalizations. The article provides links to regional restrictions, vaccine information, and guidance on restrictions and testing. To forecast COVID-19 hospitalizations, the following facts from the article may be important: The current number of active cases (2,874) and the number of individuals hospitalized (224) and in intensive care (77). The percentage of new cases and hospitalizations among those who are not fully vaccinated. The number of cases and hospitalizations per 100,000 population after adjusting for age. Information on vaccine doses administered and the percentage of the eligible population vaccinated. These data points can help track the spread of COVID-19, understand the effectiveness of vaccination efforts, and forecast the demand for hospital resources.
+
+Article 5 of 10
+Title: MIS-C and COVID-19: Uncommon but Serious Inflammatory Syndrome in Kids and Teens
+Publisher: Johns Hopkins Medicine
+Trusted: False
+Posted: 3 days ago
+Multisystem inflammatory syndrome in children (MIS-C) is a rare but severe condition that can occur following a COVID-19 infection. First identified in April 2020, MIS-C shares similarities with toxic shock syndrome and Kawasaki disease, causing body-wide inflammation. The syndrome typically affects school-age children, with 8 and 9-year-olds being the most susceptible, although it has also been observed in infants and young adults. Symptoms of MIS-C include fever, rashes, red eyes, diarrhea, vomiting, and abdominal pain, often requiring urgent medical attention. Left untreated, it can lead to organ damage, particularly to the heart. However, with prompt medical care, the condition is treatable, and full recovery is possible through the use of medications such as intravenous immunoglobulin, steroids, and anti-inflammatory drugs. Parents are advised to seek medical assistance if their child exhibits any of the mentioned symptoms, especially if they are aware of a previous COVID-19 exposure or infection.
+
+Article 6 of 10
+Title: BNT162b2 Vaccine Booster and Mortality Due to Covid-19
+Publisher: nejm.org
+Trusted: False
+Posted: 3 days ago
+
+Article 7 of 10
+Title: Researchers to begin human trials for promising new inhaled COVID-19 vaccines designed to combat variants of concern
+Publisher: Brighter World
+Trusted: False
+Posted: 4 days ago
+The article discusses the development of two next-generation COVID-19 vaccines by researchers at McMaster University in Canada. These vaccines, which are delivered by inhaled aerosol directly to the lungs and upper airways, target three different SARS-CoV-2 proteins and are designed to provide better protection against variants of concern. The inhaled delivery method is a unique aspect of these vaccines, aiming to induce respiratory mucosal immunity which offers the best protection against respiratory pathogens. The vaccines were created by a team of renowned researchers, building on McMaster University's history of adenovirus research. The university's state-of-the-art infrastructure, including the Robert E. Fitzhenry Vector Laboratory, played a crucial role in developing and producing the vaccines for clinical trials. Human clinical trials for these vaccines began in March 2022, with at least 30 healthy volunteers participating in the study. The researchers aim to examine the immune response in the lungs and blood, monitor for side effects, and assess the vaccines' ability to boost immunity in individuals who have already received two doses of a COVID-19 mRNA vaccine. The development of these vaccines is significant in the transition from the pandemic to the endemic phase of COVID-19, offering a potential new tool to boost protection and control hospitalizations. With sufficient doses manufactured for larger trials, the McMaster University team is prepared to move forward if Phase 1 is successful.
+
+Article 8 of 10
+Title: Canada's first homegrown COVID-19 vaccine shows high efficacy
+Publisher: CBC News
+Trusted: False
+Posted: 4 days ago
+Canada's first domestically developed COVID-19 vaccine, created by Medicago and GlaxoSmithKline (GSK), has demonstrated high efficacy against infection in Phase 3 trials, with an overall efficacy rate of 71% against all variants studied and a higher rate of 75% against the dominant Delta variant. The vaccine uses plant-derived, virus-like particles and an adjuvant from GSK to boost the immune response. No severe COVID-19 cases or related serious adverse events were reported in the vaccinated group. The trial involved over 24,000 participants in various countries and showed nearly 89% efficacy against the Gamma variant. The companies plan to seek regulatory approval from Health Canada soon. This vaccine may help boost Canada's vaccine production sector and restore its vaccine manufacturing capacity. The trial results are promising for both efficacy and safety, with an immunologist expecting strong protection against severe illness, but the durability of the response is still unknown.
+
+Article 9 of 10
+Title: Impact of COVID-19 on non-profit organizations in Canada, fourth quarter of 2021
+Publisher: Statistique Canada
+Trusted: True
+Posted: 5 days ago
+The article discusses the results of the Canadian Survey on Business Conditions, which was conducted by Statistics Canada in late 2021 to understand how businesses and organizations, including non-profit organizations, were operating and their expectations for the future. The survey found that non-profit organizations had a more positive outlook than private sector businesses, despite being less able to take on more debt. Here are the key facts from the article that can be used to forecast COVID-19 hospitalizations: Non-profit organizations planned for recruitment, retention, and training to address labor-related challenges, with many planning to increase wages and benefits for employees. About 15.4% of non-profit organizations expected their number of employees to increase in the next three months, while 76.9% expected it to stay the same and 7.7% expected a decrease. 21.9% of non-profit organizations expected training expenditures to increase, while 51.1% expected it to stay the same and 4.0% expected a decrease. Non-profit organizations were more likely to expect labor-related obstacles, such as recruiting and retaining skilled employees, in the next three months. Despite being less able to take on more debt, over 82% of non-profit organizations reported an optimistic future outlook for the next 12 months, with 36% being very optimistic. Non-profit organizations were more likely to support hybrid work arrangements, with an average of 27.2% of their workforce anticipated to have a hybrid telework and on-site work arrangement in the next three months. The survey received responses from a total of 16,528 businesses and organizations, including 1,690 non-profit organizations. Overall, the article suggests that non-profit organizations in Canada have a positive outlook and are taking active measures to address labor-related challenges. However, it is important to consider other factors, such as the impact of COVID-19 variants and vaccination rates, when forecasting COVID-19 hospitalizations.
+
+Article 10 of 10
+Title: COVID-19: Canadian zoos prepare to vaccinate animals with experimental vaccine - National
+Publisher: Global News
+Trusted: False
+Posted: 7 days ago
+Six Canadian zoos are expecting a shipment of 900 doses of the COVID-19 vaccine, specifically developed for animals by U.S. pharmaceutical company Zoetis. The vaccine has been approved for experimental use in Canada and is already being used in some zoos in the United States. According to the company, the vaccine is administered in two doses, three weeks apart, and will be enough to protect 450 animals. There have been no reported outbreaks of COVID-19 at any Canadian zoos, but the vaccine is seen as an important tool in protecting vulnerable animal populations, particularly large cats such as lions and tigers, which have been affected by the virus in other parts of the world. The development of the vaccine began in response to reports of COVID-19 infections in pets, and while it is not currently needed for cats and dogs, the company states that it could be quickly made available if needed.

@@ -1,0 +1,68 @@
+Below are 10 news articles from the past 7 days regarding COVID-19 to help guide you in making your decision. Using your best judgement, take into consideration only the articles that are most relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Articles that are from know reputable sources have been flagged with "Trusted: True".
+
+Article 1 of 10
+Title: When COVID-19 and environmental racism collide in Canada
+Publisher: The Narwhal
+Trusted: False
+Posted: 1 day ago
+The article discusses the impact of industrial projects on Indigenous communities in Canada, with a focus on the Wet'suwet'en territory in British Columbia. Despite the COVID-19 pandemic, many industrial projects have been allowed to continue operations, bringing hundreds of transient workers into remote communities and putting Indigenous people at higher risk of catching the virus. The construction of the Coastal GasLink pipeline, in particular, has led to confrontations between Indigenous land defenders and workers, with the latter often failing to follow basic safety protocols such as wearing masks and social distancing. Critics argue that allowing these projects to proceed during the pandemic is exposing and exacerbating environmental racism, as Indigenous people are already more vulnerable to the disease due to long-standing health inequities. The article also explores the health effects of environmental racism, including the local impacts of resource extraction industries on nearby communities. Studies have found higher rates of acute myeloid leukemia and other serious illnesses in areas close to industrial projects. Environmental racism has also been linked to a wide range of health-harming pollutants, including cancer-causing agents. Despite these concerns, governments have prioritized the economy over Indigenous lives, with work camps being referred to as "landlocked cruise ships" and "COVID-19 incubators". The Wet'suwet'en territory has already been damaged by industrial projects, including damming, mining, and logging, which have destroyed habitats and threatened food and water sources. The construction of the Coastal GasLink pipeline is opposed by the Wet'suwet'en Hereditary Chiefs, who argue that it violates their law and international human rights law. However, the project continues with the support of the government and the RCMP, putting the health and safety of Indigenous people at risk.
+
+Article 2 of 10
+Title: COVID-19 Vaccine Second-Dose Completion and Interval Between First and Second Doses Among Vaccinated Persons — United States, December 14, 2020February 14, 2021
+Publisher: CDC
+Trusted: True
+Posted: 1 day ago
+This report describes the completion status and timing of the second dose of a two-dose COVID-19 vaccine series among persons who received their first dose during December 14, 2020–February 14, 2021, and had vaccine administration data reported to CDC by February 20, 2021. Among persons who received a first dose and for whom sufficient time had elapsed to receive the second dose, 88.0% had completed the series; 8.6% had not received the second dose but were still within the allowable interval to receive it. Among all 2-dose recipients, 95.6% received the second dose within the recommended interval. Differences in missed doses or second doses administered outside the recommended interval were identified among jurisdictions and demographic groups. Public health officials should identify and address possible barriers to completing the COVID-19 vaccination series to ensure equitable coverage across communities and maximum health benefits for recipients. Among persons who received a first COVID-19 vaccine dose during December 14, 2020–February 14, 2021, and for whom sufficient time had elapsed to receive the second dose, 88.0% completed the series, 8.6% had not received the second dose but remained within the allowable interval to do so, and 3.4% missed the second dose. Among persons who received a second COVID-19 vaccine dose, 95.6% received it within the recommended interval; 1.5% received it early, 2.8% received it after the recommended interval but within the allowable interval, and 0.1% received it late. Differences in missed second doses and receipt of the second dose outside the recommended interval were identified among jurisdictions and demographic groups. Public health officials should identify and address possible barriers to completing the COVID-19 vaccination series to ensure equitable coverage across communities and maximum health benefits for recipients.
+
+Article 3 of 10
+Title: Ontario Newsroom
+Publisher: Government of Ontario News
+Trusted: False
+Posted: 2 days ago
+
+Article 4 of 10
+Title: Model-based projections for COVID-19 outbreak size and student-days lost to closure in Ontario childcare centres and primary schools
+Publisher: Nature.com
+Trusted: False
+Posted: 2 days ago
+The article discusses the results of simulations on COVID-19 spread in childcare centers and primary schools, with different class sizes, classroom assignment schemes, and school day durations. The results show that larger class sizes and higher transmission rates lead to more infections and longer outbreak durations. The 15:2 student-educator ratio is identified as the worst strategy, resulting in the highest number of infections and student-days missed due to classroom closures. The simulations also show that classroom assignment schemes that assign siblings to the same classroom (ST) can contain disease transfer to a limited number of households, reducing the overall impact of the outbreak. The effective reproduction number (Re) increases with larger class sizes and is higher in the high transmission scenarios. The number of infections and outbreak duration are also positively correlated with Re. The simulations suggest that reducing class sizes and implementing strategies to reduce within-classroom transmission, such as cohorting or alternating schedules, can help mitigate the spread of COVID-19 and reduce the impact on education. The article provides valuable insights into the dynamics of COVID-19 spread in educational settings and offers strategies to minimize disruptions to education while prioritizing the health and safety of students and staff. These findings can inform decision-making by school administrators and public health officials to effectively manage the risks associated with COVID-19 in schools.
+
+Article 5 of 10
+Title: Mobile On-Site COVID-19 Vaccination of Naturally Occurring Retirement Communities by Neighbourhood Risk in Toronto
+Publisher: Ontario COVID-19 Science Advisory Table
+Trusted: False
+Posted: 3 days ago
+
+Article 6 of 10
+Title: A Timeline of the Coronavirus Pandemic
+Publisher: The New York Times
+Trusted: False
+Posted: 3 days ago
+The COVID-19 pandemic, which began in Wuhan, China, in December 2019, has significantly impacted the world, causing over 1.6 million deaths and 76 million infections as of December 2020. The virus originated in a seafood and poultry market, and Chinese authorities first reported treating dozens of cases of pneumonia of unknown cause. The World Health Organization declared a global pandemic as the virus spread rapidly worldwide, upending daily life and economies. Several world leaders contracted the virus, highlighting its reach and severity. The development of vaccines began in December 2020, with Western countries prioritizing vulnerable populations for the shots to control the outbreak. This timeline highlights the key moments in the COVID-19 outbreak's first year, emphasizing the global impact and ongoing efforts to mitigate the virus's spread and protect populations.
+
+Article 7 of 10
+Title: The consumer demand recovery and lasting effects of COVID-19
+Publisher: McKinsey
+Trusted: False
+Posted: 3 days ago
+Consumer spending, a key economic driver, plummeted during the initial wave of the pandemic in 2020. The impact was uneven, with some losing jobs and income while others maintained financial stability. The report predicts an eventual recovery in consumer spending, driven by pent-up demand and accumulated savings. However, the recovery will be uneven, with variations among income and age groups. High-income households are expected to recover faster, while low-income households may struggle once stimulus measures end. The US recovery is projected to be stronger but more unequal than Europe's, where short-time work programs have protected employment. China's successful control of COVID-19 offers optimism for a robust spending recovery. Post-pandemic consumer demand will depend on high-income spending, low-income constraints, and savings behavior. The pandemic has interrupted, accelerated, or reversed long-standing habits, and six consumption shifts were examined for their likelihood of persisting. The report concludes that the recovery will be influenced by the interplay of consumer response, industry adaptation, and government policies.
+
+Article 8 of 10
+Title: What we heard: Indigenous Peoples and COVID-19: Public Health Agency of Canada’s companion report
+Publisher: Canada.ca
+Trusted: True
+Posted: 4 days ago
+The report summarizes the experiences and perspectives of Indigenous community members in Canada regarding the COVID-19 pandemic, with a focus on their responses, strengths, and challenges. The methodology involved virtual community engagements and discussions with Indigenous individuals and organizations. The key themes that emerged included sovereignty, community-led shutdowns, cultural safety, and the impact on mental health and well-being. Indigenous communities prioritized self-determination and took early preventive measures, such as locking down borders, to protect their residents. However, they faced challenges due to pre-existing social and economic inequalities, including inadequate housing and limited access to clean water, which hindered their ability to follow public health guidelines. The report emphasizes the need for equitable access to resources and true relationship-building between Indigenous communities and government officials to address these disparities. It also highlights the importance of cultural safety and the detrimental effects of the pandemic on mental health, particularly among youth. Overall, the report provides insights into the unique perspectives and experiences of Indigenous communities in Canada during the COVID-19 pandemic, showcasing their resilience and self-determination in the face of adversity.
+
+Article 9 of 10
+Title: Medical experimentation and the roots of COVID-19 vaccine hesitancy among Indigenous Peoples in Canada
+Publisher: CMAJ
+Trusted: False
+Posted: 5 days ago
+
+Article 10 of 10
+Title: A year of COVID-19: Milestones and moments in an unforgettable year
+Publisher: CBC.ca
+Trusted: False
+Posted: 6 days ago
+Here is a summary of the article, with important facts to help forecast COVID-19 hospitalizations: The first case of COVID-19 was reported in Newfoundland and Labrador on March 14, 2020, which led to a series of events, including the province going into lockdown within a week. The first death from COVID-19 in the province was reported on March 30, 2020, with a total of six deaths recorded as of the article's publication. The government announced closures of schools, daycare centers, gyms, theaters, bars, and arenas, with more businesses ordered to close in the following days. A notable cluster of cases was linked to Caul's Funeral Home, which was one of the first reported in Canada. Newfoundland and Labrador moved through different Alert Levels throughout 2020 and 2021, with restrictions easing and tightening based on case numbers. The "Atlantic Bubble" allowed travel between Atlantic provinces without self-isolation from July 3, 2020, until rising cases in New Brunswick caused Newfoundland and Labrador to pull out in November. The province began administering COVID-19 vaccines in December 2020, with the first doses given to a public health nurse and a physician. However, a dramatic increase in cases in February 2021, linked to the B117 variant, led to a province-wide lockdown and the postponement of in-person voting in the provincial election. As of March 2021, Newfoundland and Labrador had recorded over 1,000 cases of COVID-19, with the highest number of active cases reaching 434. The article also mentions the emotional impact of the pandemic, including a child's sign expressing her miss for a grocery store worker during the lockdown. To forecast COVID-19 hospitalizations, important facts to consider include the number of active cases, the transmission rate (Rt), vaccination rates, and the capacity of the healthcare system. By analyzing trends in case numbers, the effectiveness of public health measures, and the progress of vaccination campaigns, public health officials can make informed predictions about hospitalization rates and plan accordingly.

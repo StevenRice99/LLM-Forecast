@@ -1,0 +1,68 @@
+Below are 10 news articles from the past 7 days regarding COVID-19 to help guide you in making your decision. Using your best judgement, take into consideration only the articles that are most relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Articles that are from know reputable sources have been flagged with "Trusted: True".
+
+Article 1 of 10
+Title: Making sense of COVID-19 vaccine hesitancy in Russia: Lessons from the past and present
+Publisher: Queen's University
+Trusted: False
+Posted: 1 day ago
+The article discusses the low COVID-19 vaccination rate in Russia, currently at only 19%, and the resulting high death rates during a summer surge in infections. While other countries have struggled with vaccine supply, Russia has an excess supply due to low demand from a hesitant population. English-language coverage of the Russian rollout has focused on concerns about safety, conspiracy theories, and inconsistent public health messaging. However, Russian-language research highlights the historical and contemporary factors that contribute to vaccine hesitancy. During the former Soviet Union, the national immunization program was mandatory and successful in eradicating various diseases. However, reforms in the 1980s loosened the regime's control and allowed criticism of the healthcare system. In the 1990s, foreign vaccines became available, and new laws required citizen consent for medical procedures, including vaccination. Citizens went from being passive recipients to responsibilized consumers, and vaccine skepticism became a way to resist Soviet ideology. Sociologist Ekaterina Borozdina argues that hesitation towards the Sputnik vaccine arises from fraught relations between citizens and the state. Perceptions of an incompetent government bureaucracy influence parents' attitudes towards childhood vaccination. Educated and economically privileged citizens may postpone or refuse vaccination as a way to assert their independence from the state. Sociologist Anna Temkina adds that the educated middle classes, overlapping with activist classes opposed to the Putin regime, were among the first to get vaccinated, despite their usual resistance to government rules. The massive population of migrant workers in Russia who want protection has been largely denied access, even as Putin offers foreigners the opportunity to pay for the vaccine. The latest infection spike has slightly improved vaccine uptake, but mistrust remains an issue, and mandatory vaccination policies are being enforced by employers. Employees are finding creative ways to circumvent these policies, indicating a deep-rooted historical context that must be understood to address future challenges.
+
+Article 2 of 10
+Title: Study supports widespread use of better masks to curb COVID-19 indoors | Waterloo News
+Publisher: University of Waterloo
+Trusted: False
+Posted: 2 days ago
+The study found that higher-quality masks such as N95 and KN95 masks are much more effective at filtering out exhaled aerosol droplets compared to common cloth or surgical masks, which filtered about 10% of droplets. N95 and KN95 masks filtered more than 50% of droplets, providing a stronger case for their use in indoor settings like schools and workplaces. The study also highlighted the importance of proper ventilation in reducing the risk of COVID-19 transmission, as even modest ventilation rates were found to be as effective as the best masks in reducing transmission risk. The combination of high-quality masks and proper ventilation is ideal for mitigating the spread of COVID-19 indoors and reducing hospitalizations.
+
+Article 3 of 10
+Title: Nearly 95,000 COVID-19 cases reported among health-care workers in Canada
+Publisher: Global News
+Trusted: False
+Posted: 2 days ago
+The COVID-19 pandemic has had a significant impact on Canada's healthcare workers, with nearly 95,000 cases and 43 deaths reported as of June 15, 2021. The number of cases among healthcare staff has increased by 43% since January, but their share of total cases has declined to about 7% as vaccination coverage increases. Personal support workers are at the greatest risk of contracting the disease compared to physicians and nurses. Quebec and Ontario have reported the highest number of cases and deaths among healthcare workers. To address staffing shortages and increase pressure on the healthcare system, some provinces are making vaccinations mandatory for healthcare workers. Mental health support for healthcare workers is also crucial, as many have reported worsening mental health due to the pandemic.
+
+Article 4 of 10
+Title: Projected Financial Impact of the COVID-19 Pandemic on Canadian Universities for the 2020/21 Academic Year
+Publisher: Statistique Canada
+Trusted: True
+Posted: 3 days ago
+Canadian universities have become increasingly reliant on international students, who pay significantly higher tuition fees than domestic students. The COVID-19 pandemic and the resulting travel restrictions, campus closures, and shift to online learning have put this revenue stream at risk. This report develops projection scenarios to estimate the potential financial losses for Canadian universities in the 2020/21 academic year due to a drop in international student enrollments. The analysis uses data from Immigration, Refugee, and Citizenship Canada (IRCC) on international study permit holders as a proxy for enrollment, along with data from Statistics Canada on university finances and enrollments. The report finds that international student enrollment is expected to decline significantly, with provincial declines ranging from 35.3% in Manitoba to 62.9% in New Brunswick. The impact on domestic student enrollment is less clear, as there are conflicting factors at play, including reduced affordability due to job losses during the pandemic and increased demand for skills training. The analysis presents three assumptions for international student enrollment losses: low (-12.5% nationally), medium (-21.8% nationally), and high (-41.6% nationally). The financial impact of these enrollment declines is significant. Under the low loss assumption, Canadian universities could lose up to $647 million in tuition revenue, while the high loss assumption estimates losses of up to $1.6 billion. The report concludes that the COVID-19 pandemic has highlighted the financial risks associated with the reliance on international student tuition revenue and recommends that universities closely monitor the situation and develop contingency plans to mitigate the potential financial impacts.
+
+Article 5 of 10
+Title: Why it's now more likely you'll face coronavirus — even if you're vaccinated against COVID-19
+Publisher: CBC.ca
+Trusted: False
+Posted: 3 days ago
+Here is a summary of the article: The highly contagious Delta variant is driving Canada's fourth wave of the COVID-19 pandemic, increasing the likelihood that more Canadians, regardless of their vaccination status, will be exposed to the virus. While vaccines are still providing high levels of protection, breakthrough infections among fully vaccinated individuals are expected to occur as the Delta variant spreads. Experts emphasize that caution is still necessary, even for those who are vaccinated, as the Delta variant increases the risk of infection for everyone. The article provides several important facts and perspectives that could be useful for forecasting COVID-19 hospitalizations: The Delta variant is highly contagious and can lead to high viral loads, increasing the risk of transmission. Vaccinated individuals typically experience milder infections and are less likely to require hospitalization compared to unvaccinated individuals. Serious breakthrough cases among fully vaccinated and high-risk individuals, such as the elderly or immunocompromised, are rare but can have dire outcomes. The risk of falling seriously ill from the Delta variant remains low for young, healthy, and fully vaccinated individuals. Public health measures such as masking, distancing, and ventilation are effective tools to reduce infections and hospitalizations, especially with the return of students to schools. Canada's Chief Public Health Officer, Dr. Theresa Tam, reported a 12% increase in the number of people being treated for COVID-19 in hospitals, emphasizing the need for a combination of vaccine mandates and basic public health precautions. Overall, the article highlights the ongoing challenges posed by the Delta variant and the importance of maintaining precautions to protect both vaccinated and unvaccinated individuals, particularly as schools reopen.
+
+Article 6 of 10
+Title: Early Convalescent Plasma for High-Risk Outpatients with Covid-19
+Publisher: nejm.org
+Trusted: False
+Posted: 3 days ago
+
+Article 7 of 10
+Title: Ontario Newsroom
+Publisher: Government of Ontario News
+Trusted: False
+Posted: 4 days ago
+
+Article 8 of 10
+Title: The impact of COVID-19 has been lower in Africa. We explore the reasons
+Publisher: The Conversation Indonesia
+Trusted: False
+Posted: 4 days ago
+Here is a summary of the article: There has been an increase in COVID-19 deaths in Africa since July 2021, but the impact is still lower compared to other regions. The reasons are not clear, but factors such as younger demographics, lack of long-term care facilities, cross-protection from other coronaviruses, limited testing, and effective public health responses may contribute. The young population in sub-Saharan Africa may be a factor, as age is a risk factor for severe COVID-19, and most countries in the region have a median age under 20. Long-term care facilities, which have been associated with high COVID-19 death rates, are less common in sub-Saharan Africa, with most elderly cared for by families. Prior exposure to other coronaviruses may offer some protection, and human-bat interactions are common in some rural African areas. Limited testing and data collection in sub-Saharan Africa may have led to an undercounting of COVID-19 deaths. The rapid response of African governments and health organizations may have played a significant role in controlling the spread. South Africa is an outlier in the region, with higher COVID-19 hospitalization and death rates, possibly due to a higher median age, a long-term care sector, and a higher prevalence of HIV and TB. To improve health practices and reduce the impact of COVID-19 in sub-Saharan Africa: Reduce emphasis on lockdowns due to their negative economic and societal impacts. Improve communication with the public. Provide financial support for vulnerable sectors. Ensure availability of medical infrastructure. Prioritize developing vaccines effective against variants and ensuring equitable access. Monitor variants and study severe disease mechanisms in the African context. Overall, the lower COVID-19 death rates in sub-Saharan Africa may be influenced by a combination of demographic, societal, and public health response factors, but continued vigilance and tailored local responses are necessary to prevent a severe outbreak.
+
+Article 9 of 10
+Title: The association between COVID-19 vaccination and Bell's palsy
+Publisher: The Lancet
+Trusted: False
+Posted: 5 days ago
+
+Article 10 of 10
+Title: Rapid COVID-19 tests: Handout for pharmacies
+Publisher: Canada.ca
+Trusted: True
+Posted: 7 days ago
+The article is a handout for pharmacies in Canada, informing them about the availability of COVID-19 rapid tests for distribution to small and medium-sized businesses and non-profit organizations. The goal is to help these organizations implement workplace screening to prevent COVID-19 outbreaks and maintain safe working environments. Here are the key points: COVID-19 rapid tests are now accessible at participating pharmacies for distribution to eligible businesses and organizations. Workplace screening using rapid tests is easy to set up and requires few resources. The rapid tests are nasal swabs that are safe and simple to use, delivering results in 15 minutes. They should be administered twice weekly. Regular testing can help identify asymptomatic individuals infected with COVID-19, protecting workers, customers, and the wider community while also limiting the spread and keeping businesses operational. Small and medium-sized enterprises can obtain rapid tests by directly contacting participating pharmacies. This initiative is intended to support businesses in their efforts to maintain a safe working environment and contribute to the overall public health response to the COVID-19 pandemic. Regular testing, particularly for asymptomatic individuals, can help identify potential outbreaks early and prevent further transmission. This could be an effective tool in forecasting and managing COVID-19 hospitalizations by catching cases early and preventing them from becoming severe.

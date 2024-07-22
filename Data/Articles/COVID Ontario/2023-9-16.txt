@@ -1,0 +1,70 @@
+Below are 10 news articles from the past 7 days regarding COVID-19 to help guide you in making your decision. Using your best judgement, take into consideration only the articles that are most relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Articles that are from know reputable sources have been flagged with "Trusted: True".
+
+Article 1 of 10
+Title: New variants, new vaccines. Here’s what you should know about COVID-19 going into fall.
+Publisher: UBC News
+Trusted: False
+Posted: 2 days ago
+The article discusses the rise of COVID-19 cases in Canada due to new variants, particularly the Eris variant (Omicron EG.5) and the Pirola variant (Omicron BA.2.86). Dr. Horacio Bach, a clinical assistant professor at UBC, highlights that these variants have genetic changes affecting transmissibility and immune evasion. The symptoms of the new variants are similar to cold symptoms. Canada is introducing updated vaccines tailored to current strains, including mRNA vaccines from Pfizer-BioNTech and Moderna, and a protein-based vaccine from Novavax. These vaccines are designed to offer protection against the new variants. It is recommended that eligible individuals receive the new vaccine after six months from the last booster or COVID-19 infection. People can receive the COVID-19 vaccine and flu vaccine together. Rapid tests are still effective, but proper usage is crucial. Existing drug therapies like Paxlovid, Veklury, and Lagevrio are expected to remain effective against the new variants. To protect against COVID-19 this fall, individuals are advised to get vaccinated, stay home if sick, practice good hand hygiene, wear masks, and maintain physical distance, especially in crowded indoor spaces. Vulnerable individuals should seek treatment if infected and at high risk of severe illness.
+
+Article 2 of 10
+Title: Ontario Newsroom
+Publisher: Government of Ontario News
+Trusted: False
+Posted: 2 days ago
+
+Article 3 of 10
+Title: With flu season on the horizon, we answer your COVID-19 questions
+Publisher: CBC.ca
+Trusted: False
+Posted: 3 days ago
+Here is a summary of the article: Health Canada has approved a new COVID-19 vaccine from Moderna that targets the Omicron XBB.1.5 variant and is suitable for individuals aged six months and older. This vaccine is expected to be available by early October. Health Canada is also reviewing new vaccines from Pfizer-BioNTech and Novavax. It is recommended to test for COVID-19 if feeling unwell, particularly during the flu season, as symptoms can be similar. Testing is especially important for those at high risk of severe illness. Positive test results require self-isolation and monitoring for worsening symptoms. The shelf life of many rapid tests has been extended to 24 months by Health Canada. Expired tests may give false negatives but positives are still accurate. At-home tests can detect new variants as they target fundamental proteins in the virus. A six-month gap between infection and booster shot is recommended for most individuals, while those at high risk may consider an earlier dose. Protection against severe illness has been observed in the majority of the population due to multiple rounds of vaccination and/or infection.
+
+Article 4 of 10
+Title: How Many COVID Vaccines Are There?
+Publisher: IDSA
+Trusted: False
+Posted: 3 days ago
+As of September 2023, the CDC recommends that all US residents aged 6 months and older receive one dose of the updated COVID-19 vaccines from either Pfizer-BioNTech (Comirnaty) or Moderna (Spikevax). These vaccines have been modified to offer protection against the XBB.1.5 variant and its similar subvariants, which are currently widespread. This recommendation is for everyone, regardless of their previous COVID-19 vaccination history. Alternatively, the Novavax vaccine is still an option for those who are unable or unwilling to receive an mRNA vaccine. To help with access to updated vaccines, the CDC has provided a press release detailing regulatory actions and resources. This information is important for forecasting COVID-19 hospitalizations as the updated vaccines are designed to protect against the currently circulating variants, which could reduce the number of severe cases and hospitalizations.
+
+Article 5 of 10
+Title: Does COVID-19 spread in a hospital mean there's an outbreak? Not anymore, says B.C. health ministry
+Publisher: CBC News
+Trusted: False
+Posted: 3 days ago
+Several hospitals and long-term care facilities in British Columbia, Canada, have seen a recent spike in COVID-19 cases, but these cases are not being publicly reported or named. The provincial health ministry has confirmed that in some cases, even with a spike in cases due to spread, an outbreak is no longer reported, and instead, "enhanced measures" are put in place without public notification. There has been a rise in COVID-19 outbreaks in acute care facilities compared to the summer months, and the number of people hospitalized with COVID-19 in B.C. has also increased significantly since the start of August. The health ministry is working on updating outbreak guidance with the help of experts. With the approval of a new Moderna vaccine targeting the Omicron XBB.1.5 subvariant, the province's health minister announced a fall vaccine campaign to prioritize vulnerable individuals and healthcare workers. While a public mask mandate has not been reinstated, healthcare professionals advise taking precautions as respiratory viruses circulate.
+
+Article 6 of 10
+Title: Health Canada approves updated Moderna XBB.1.5 COVID vaccine
+Publisher: CTV News
+Trusted: False
+Posted: 4 days ago
+Health Canada has approved the Moderna Spikevax XBB.1.5 COVID-19 vaccine for Canadians over six months old. This decision was made after a thorough scientific review, and it is recommended that everyone aged five and above receive a dose, regardless of their previous COVID-19 vaccination history. This includes a single dose for those aged five and older, one dose for children under four, and two doses for unvaccinated children between six months and four years. Dr. Theresa Tam, Canada's chief public health officer, has stated that there will be enough supply of the updated COVID-19 vaccines for immunization programs across Canada. Health Canada is also reviewing similar submissions from Pfizer-BioNTech and Novavax for their Omicron XBB.1.5 vaccines. Looking ahead, it is difficult to predict what will happen this fall and winter regarding respiratory viruses like influenza, RSV, and COVID-19. However, Dr. Tam has urged eligible Canadians to stay up-to-date with their COVID-19 vaccinations, especially as COVID-19 hospitalizations have been rising in recent weeks. The preliminary data shows that the XBB.1.5 vaccine triggers an immune response against several Omicron subvariants, providing protection against potential surges. It is safe to receive both the flu and COVID-19 vaccines at the same time, and doing so is especially important this fall to prepare for potential respiratory virus surges.
+
+Article 7 of 10
+Title: Health Canada approves Moderna's updated COVID-19 vaccine
+Publisher: CBC News
+Trusted: False
+Posted: 4 days ago
+Health Canada has approved Moderna's updated COVID-19 vaccine for Canadians aged six months and older. The vaccine targets the Omicron XBB.1.5 subvariant and is recommended for all Canadians aged five and up, regardless of their previous COVID-19 vaccination history. The vaccine is not considered a booster, but rather an updated option similar to an annual flu shot. Health Canada expects deliveries of the vaccine to provinces to start in October. The push for new COVID-19 shots comes as cases and hospitalizations are rising across the country, with over 2,000 hospitalizations reported by early September. Health officials recommend that Canadians wait six months after their last dose before getting the updated vaccine, as protection against infection wanes over time. The updated vaccine is expected to provide improved immune responses against circulating strains, including EG.5 and BA.2.86, and there are no signals of increased disease severity from these subvariants. Canada's approval follows the US FDA's authorization of updated COVID-19 vaccines from Pfizer and Moderna, with a decision on broad recommendations expected soon. Rising infections and hospitalizations in the US, Europe, and Asia remain well below previous peaks due to widespread global immunity.
+
+Article 8 of 10
+Title: Moderna’s updated COVID vaccine targeting XBB.1.5 approved in Canada - National
+Publisher: Global News
+Trusted: False
+Posted: 4 days ago
+Health Canada has approved an updated Moderna COVID-19 vaccine for individuals aged six months and older. This vaccine targets the XBB.1.5 Omicron subvariant and other Omicron variants. The rollout is expected to begin in early October, coinciding with the influenza vaccination campaign. Dr. Supriya Sharma, a senior medical advisor at Health Canada, recommends that those aged five and older receive one dose, while children aged six months to four years should receive one or two doses depending on their previous vaccination status. This approval comes amid concerns about new COVID-19 variants, BA.2.86, and EG.5, and a recent uptick in reported cases in Canada. Health officials stress the importance of receiving the updated COVID-19 vaccine and the flu shot this fall, assuring that it is safe to do so. Health regulators are also considering standardizing the dosing schedule and simplifying the terminology, potentially using the term "updated COVID-19 vaccine" instead of "booster" to streamline communication.
+
+Article 9 of 10
+Title: It’s rhinovirus season. Can catching the common cold protect against COVID-19? - National
+Publisher: Global News Toronto
+Trusted: False
+Posted: 5 days ago
+Here is a summary of the article: The rhinovirus, which causes the common cold, can interfere with and reduce the infection of other viruses like COVID-19 through a phenomenon called "viral interference." The rhinovirus typically infects the upper respiratory tract and is highly contagious, especially in daycare and school settings. Viral interference occurs when the immune system's "innate immune response" is activated, which can temporarily prevent infection from another virus. Proper handwashing, staying home when unwell, and maintaining physical distance are important to prevent the spread of any virus, including the rhinovirus and COVID-19. Symptoms of the rhinovirus typically include a stuffy or runny nose, sneezing, and a sore throat, and only occasionally a fever. COVID-19 may present with similar mild symptoms, so it is important to be cautious and take preventative measures. The interaction between the rhinovirus and other viruses is not new and has been demonstrated in studies during the H1N1 influenza pandemic in 2009. The rhinovirus can interfere with the replication of influenza A and SARS-CoV-2, but SARS-CoV-2 does not seem to have a significant effect on the rhinovirus. Rest and moderate physical activity are recommended to help the immune system fight off viral infections. As for forecasting COVID-19 hospitalizations, the article does not provide specific data or models. However, the information about the rhinovirus and its potential interference with COVID-19 could be relevant. If the rhinovirus can reduce the spread of COVID-19, it could potentially lead to a decrease in hospitalizations. However, it is important to note that the impact of the rhinovirus on COVID-19 infections and hospitalizations may vary depending on various factors, such as vaccination rates, the prevalence of the rhinovirus, and the emergence of new COVID-19 variants.
+
+Article 10 of 10
+Title: COVID-19 numbers spike in B.C. but no more cases of new variant detected
+Publisher: Global News Toronto
+Trusted: False
+Posted: 6 days ago
+COVID-19 cases, hospitalizations, and deaths have increased in British Columbia recently. The BC Centre for Disease Control reported a tripling of cases and a doubling of test positivity from mid-August to early September. Hospital admissions have also spiked, and there have been outbreaks in acute and long-term care facilities. The provincial health officer, Dr. Bonnie Henry, warned that COVID-19, RSV, and influenza could hit the province hard this fall. The B.C. government plans to roll out a monovalent vaccine campaign against the XBB 1.5 subvariant soon, and the National Advisory Council on Immunization recommends a fall booster shot for vulnerable populations. Dr. Brian Conway, an infectious diseases expert, advised vaccination and keeping sick children at home as tools to handle the expected surge in cases.

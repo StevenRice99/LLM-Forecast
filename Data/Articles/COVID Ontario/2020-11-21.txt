@@ -1,0 +1,70 @@
+Below are 10 news articles from the past 7 days regarding COVID-19 to help guide you in making your decision. Using your best judgement, take into consideration only the articles that are most relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Articles that are from know reputable sources have been flagged with "Trusted: True".
+
+Article 1 of 10
+Title: Toronto, Peel move into COVID-19 lockdown Monday as Ontario tries to stop 'worst-case scenario'
+Publisher: CBC.ca
+Trusted: False
+Posted: Today
+Ontario, Canada, is experiencing a steep rise in COVID-19 cases, with Toronto and Peel Region moving into lockdown for a minimum of 28 days to curb the spread. The lockdown includes restrictions on gatherings, closures of non-essential businesses, and online instruction for post-secondary institutions. Hospitalizations have increased by 22%, and intensive care admissions by 50%. The province has reported 1,418 new cases and 8 additional deaths, bringing the official death toll to 3,451. To control the surge, the government has imposed fines for violating public health rules and provided relief funding for affected businesses. However, critics argue that the restrictions may not be sufficient, and more targeted measures are needed to strike at the sources of viral spread, such as weddings and religious services. The Elementary Teachers' Federation of Ontario has also criticized the decision to keep schools open, citing a lack of data to support the claim that schools are not contributing to the spread.
+
+Article 2 of 10
+Title: Maintaining surveillance of influenza and monitoring SARS-CoV-2 – adapting Global Influenza surveillance and Response System (GISRS) and sentinel systems during the COVID-19 pandemic
+Publisher: World Health Organization (WHO)
+Trusted: True
+Posted: 2 days ago
+This interim guidance is intended for countries seeking to monitor the relative prevalence of influenza and SARS-CoV-2. It offers practical advice on utilizing existing surveillance systems to maintain influenza surveillance and monitor SARS-CoV-2. The guidance includes considerations for mitigating disruptions in influenza sentinel surveillance and expanding it to include COVID-19. Testing algorithms for both viruses in a surveillance context have also been updated. This document is an update to previous operational considerations for COVID-19 and influenza surveillance. It provides a framework for countries to adapt their surveillance systems to capture data on both respiratory illnesses during the upcoming influenza seasons co-circulating with COVID-19.
+
+Article 3 of 10
+Title: Our COVID-19 Outbreak Response | AHS CEO
+Publisher: Alberta Health Services
+Trusted: False
+Posted: 2 days ago
+
+Article 4 of 10
+Title: Priority medical devices list for the COVID-19 response and associated technical specifications
+Publisher: World Health Organization (WHO)
+Trusted: True
+Posted: 2 days ago
+The article provides an overview of the medical devices deemed necessary for managing COVID-19 patients, as well as technical specifications to ensure quality and performance. The target audience includes policymakers, health ministry officials, procurement agencies, and medical device manufacturers. An update to previous lists of priority medical devices and technical specifications for ventilators used in COVID-19 treatment is included, along with a focus on personal protective equipment (PPE) specifications. The list of priority medical devices includes: Oxygen therapy equipment Pulse oximeters to measure blood oxygen levels Patient monitors for vital sign monitoring Thermometers Infusion and suction pumps X-ray, ultrasound, and CT scanners for imaging To forecast COVID-19 hospitalizations, some important considerations include: The availability and distribution of these medical devices impact the ability to effectively manage COVID-19 cases, particularly in areas with limited resources. Ensuring an adequate supply of PPE is crucial for protecting healthcare workers and preventing the spread of the virus within healthcare facilities. The performance characteristics and technical specifications provided in the guidance help ensure that the medical devices procured meet quality and safety standards. Regular updates and revisions to the list of priority medical devices may be necessary as new evidence emerges about the most effective treatments and as the pandemic evolves. Local context and infrastructure should be considered when planning and procuring medical devices to ensure they are appropriate and usable in the intended settings.
+
+Article 5 of 10
+Title: Fauci says Canada 'getting into trouble' as COVID-19 cases surge worldwide
+Publisher: CBC.ca
+Trusted: False
+Posted: 3 days ago
+Dr. Anthony Fauci, a top infectious disease expert, warns that Canada's COVID-19 situation will worsen until a vaccine is widely available and advises countries to "double down" on public health measures. He attributes the current surge in cases to community spread at the household level, emphasizing the need for widespread testing, including asymptomatic individuals. While promising vaccine results from Pfizer and Moderna show over 90% effectiveness, Fauci cautions against premature celebration. The focus now is on getting vaccines approved and distributed to priority groups by the end of December, with broader availability expected by mid-2021. However, he highlights the challenge of vaccine skepticism and the need to convince a majority of the population to take it. Fauci encourages strict local measures, such as limiting gatherings and shutting down high-risk businesses, to control the virus's spread without imposing nationwide lockdowns. He also acknowledges "COVID fatigue" but urges people to remain vigilant and follow simple public health practices to blunt the surges.
+
+Article 6 of 10
+Title: COVID-19 and the beef supply chain: An overview
+Publisher: Statistique Canada
+Trusted: True
+Posted: 4 days ago
+Here is a summary of the article: The article discusses the impact of the COVID-19 pandemic on the Canadian beef supply chain and how it led to panic-buying and price increases for consumers, while ranchers received lower prices for their cattle. The pandemic forced the shutdown of many slaughterhouses and meat processing plants, disrupting the supply chain and causing a backlog of livestock. This resulted in a decrease in slaughter rates and an increase in wholesale purchase prices, as suppliers tried to maintain their margins. Consumer spending shifted from food services to grocery shopping due to social distancing measures, increasing the demand for beef products in retail stores. This, combined with the reduced supply, led to significant increases in beef consumer prices, with a month-over-month increase of 21.6% in June 2020. The article also mentions the influence of other factors, such as climate change and the drop in the Canadian dollar, on meat prices. The article provides an overview of the complex interplay between slaughter rates, cattle prices, wholesale prices, and consumer prices within the beef supply chain. It highlights how disruptions at any point in the supply chain can have cascading effects on prices and availability for consumers. Overall, the pandemic revealed the vulnerabilities in the supply chain and led to concerns about food security and the stability of the industry. To forecast COVID-19 hospitalizations, several factors should be considered: Infection rates: The number of new cases and the rate of transmission in the community affect the likelihood of hospitalizations. Vaccination rates: Higher vaccination rates can reduce the severity of symptoms and the need for hospitalization. Hospital capacity: The availability of hospital beds, intensive care units, and medical staff can impact the ability to handle an influx of COVID-19 patients. Demographics: The age and health of the population can influence the risk of severe illness and hospitalization. Public health measures: The effectiveness of public health measures, such as social distancing and mask mandates, can impact infection rates and hospitalizations. By analyzing these factors and using data-driven models, public health officials can forecast COVID-19 hospitalizations and make informed decisions about resource allocation and public health strategies.
+
+Article 7 of 10
+Title: Interim report shows results of COVID-19 tests for arriving international travellers
+Publisher: Brighter World
+Trusted: False
+Posted: 4 days ago
+A recent study of international air travelers arriving in Toronto has yielded promising results that could inform COVID-19 safety policies. Conducted by McMaster HealthLabs (MHL) in partnership with the Canadian government, Air Canada, and the Greater Toronto Airports Authority, the study tested over 8,600 participants at three time points: upon arrival, and again on days 7 and 14. The interim results show that 99% of participants tested negative for COVID-19, with 1% testing positive. Furthermore, the study demonstrated the feasibility and effectiveness of airport-based testing with self-collected nasal/oral swabs, followed by home-based collection during quarantine. Experts suggest that this testing strategy, combined with a reduced quarantine approach, could help keep borders open and support economic recovery while maintaining public safety. The final report, anticipated to include over 16,000 participants, will provide additional insights into infection rates across different demographics and the psychological impact of quarantine.
+
+Article 8 of 10
+Title: U of T alumnus Derrick Rossi 'proud' to play role in promising COVID-19 vaccine: Toronto Star
+Publisher: University of Toronto
+Trusted: False
+Posted: 4 days ago
+The development of a potential COVID-19 vaccine by Moderna, a Cambridge, MA-based company, is attributed to the pioneering research of University of Toronto alumnus Derrick Rossi, who co-founded the company. Rossi's work focused on using modified messenger RNA (mRNA) to produce specific proteins, a technology central to Moderna's vaccine, which preliminary data suggests is 94.5% effective. Rossi, a former Harvard University professor, is no longer with Moderna but feels proud to have contributed to the vaccine's development, which he believes will positively impact human health. The success of the vaccine hinges on its ability to utilize modified mRNA to generate a specific protein, a key factor in protecting against COVID-19 infection and potentially reducing hospitalizations.
+
+Article 9 of 10
+Title: Understanding and Navigating the Challenges of Dementia during COVID-19
+Publisher: McGill University
+Trusted: False
+Posted: 5 days ago
+The article announces an upcoming Zoom event featuring an interview with Dr. Serge Gauthier and Dr. José Morais, who will provide advice and insights on caring for individuals with dementia during the COVID-19 pandemic. The event will be led by Claire Webster, a certified Alzheimer Care Consultant and founder of the McGill Dementia Education Program. While the session will be conducted in English, participants are encouraged to ask questions in either French or English. Dr. Serge Gauthier is an expert in Alzheimer's disease and related disorders, serving as the director of the research unit dedicated to these conditions at McGill University. He also holds academic appointments in the departments of Neurology & Neurosurgery, Psychiatry, and Medicine. Dr. José Morais is an academic lead for the McGill Dementia Education Program and has various leadership roles in geriatric medicine and research at McGill University and affiliated healthcare institutions. While the article does not contain specific forecasts or models for COVID-19 hospitalizations, the participation of these experts suggests that they may offer insights into the potential impact of COVID-19 on individuals with dementia and the healthcare system's capacity to manage these cases. Their expertise covers a wide range of topics, from clinical care to research and education, which could inform predictions and preparedness regarding hospitalizations.
+
+Article 10 of 10
+Title: Manitoba First Nations lock down, seek help as COVID-19 threatens communities
+Publisher: CBC.ca
+Trusted: False
+Posted: 7 days ago
+The article discusses the alarming increase in COVID-19 infections, hospitalizations, and deaths on Manitoba First Nations, leading many communities to implement lockdown measures to protect their vulnerable members. The situation is critical, with hospital intensive care units nearing capacity and healthcare workers warning of potential overload. First Nations people in Manitoba are disproportionately affected by the virus, accounting for a higher percentage of cases, hospitalizations, ICU patients, and deaths compared to their population size. Factors such as overcrowding, poverty, lack of clean water, and underlying health conditions contribute to their increased vulnerability. The federal government has allocated additional funding to support Manitoba First Nations and urban Indigenous communities in their pandemic response efforts. Rapid Response Teams are deployed to assist communities facing outbreaks, providing acute surge support and facilitating rapid testing and isolation to contain the virus spread. Despite efforts by local leaders and healthcare professionals, concerns remain about the effectiveness of current measures in curbing the virus's impact. The call for adherence to public health guidelines and support for Indigenous communities in managing the pandemic is emphasized throughout the article.

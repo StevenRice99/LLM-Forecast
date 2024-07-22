@@ -150,6 +150,8 @@ def get_article(result: dict, driver, trusted: list, forecasting: str = "COVID-1
                 summary.startswith("I apologize, ")):
             summary = None
     title = valid_encoding(title)
+    if title is None or title == "":
+        return None
     if summary is not None:
         summary = valid_encoding(summary)
     # Parse the date.
@@ -465,15 +467,8 @@ def prepare_articles(file: str, keywords: str or list or None = "COVID-19", max_
                      language: str = "en", country: str = "CA", location: str or None = "Ontario, Canada",
                      days: int = 7, exclude_websites: list or None = None, trusted: list or None = None,
                      model: str or None = None, delay: float = 0, summarize: bool = True,
-                     forecasting: str = "COVID-19 hospitalizations", folder: str = "COVID Ontario") -> None:
-    dates = parse_dates(file)
-    for i in range(len(dates)):
-        print(f"Preparing articles for time period {i + 1} of {len(dates)}.")
-        search_news(keywords, max_results, language, country, location, dates[i], days, exclude_websites, trusted,
-                    model, delay, summarize, forecasting, folder)
-
-
-def set_trusted(trusted: list, folder: str = "COVID Ontario") -> None:
+                     forecasting: str = "COVID-19 hospitalizations", max_length: int = 16000) -> None:
+    folder = os.path.splitext(os.path.basename(file))[0]
     path = os.path.join("Data", "Articles", folder)
     if not os.path.exists(path):
         return None
@@ -491,10 +486,60 @@ def set_trusted(trusted: list, folder: str = "COVID Ontario") -> None:
         f = open(file, "w")
         f.write(s)
         f.close()
+    dates = parse_dates(file)
+    for i in range(len(dates)):
+        print(f"Preparing articles for time period {i + 1} of {len(dates)}.")
+        search_news(keywords, max_results, language, country, location, dates[i], days, exclude_websites, trusted,
+                    model, delay, summarize, forecasting, folder)
+    files = os.listdir(path)
+    for file in files:
+        file = os.path.join(path, file)
+        if not os.path.isfile(file):
+            continue
+        f = open(file, "r")
+        s = f.read()
+        f.close()
+        if len(s) > max_length:
+            print(f"{file} is greater than {max_length}.")
+    for file in files:
+        file = os.path.join(path, file)
+        if not os.path.isfile(file):
+            continue
+        f = open(file, "r")
+        s = f.read()
+        f.close()
+        if s.__contains__("Title: \n"):
+            print(f"{file} has blank entries.")
+    untrusted = []
+    for file in files:
+        file = os.path.join(path, file)
+        if not os.path.isfile(file):
+            continue
+        f = open(file, "r")
+        s = f.read()
+        f.close()
+        lines = s.split("\n")
+        for i in range(len(lines)):
+            if not lines[i].startswith("Publisher: ") or i + 1 >= len(lines) or lines[i + 1] == "Trusted: True":
+                continue
+            publisher = lines[i].split()
+            if len(publisher) < 2:
+                continue
+            publisher = publisher[1]
+            if publisher in trusted or publisher in untrusted:
+                continue
+            untrusted.append(publisher)
+    untrusted.sort()
+    print("Untrusted publishers:")
+    for publisher in untrusted:
+        print(publisher)
 
 
 if __name__ == '__main__':
     t = ["CDC", "Canada.ca", "Statistique Canada", "AFP Factcheck", "World Health Organization (WHO)",
-         "Doctors Without Borders", "Government of Nova Scotia", "Middlesex-London Health Unit", "GOV.UK"]
-    set_trusted(t, folder="COVID Ontario")
+         "Doctors Without Borders", "Government of Nova Scotia", "Middlesex-London Health Unit", "GOV.UK",
+         "Government of B.C.", "McGill University", "Wilfrid Laurier University", "Government of Ontario News",
+         "Ontario COVID-19 Science Advisory Table", "CMAJ", "The White House", "University of Toronto",
+         "Instituts de recherche en santé du Canada", "National Institutes of Health (NIH) (.gov)",
+         "Mental Health Commission of Canada"]
     prepare_articles("Data/Dates/COVID Ontario.txt", trusted=t, delay=5)

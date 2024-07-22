@@ -1,0 +1,69 @@
+Below are 10 news articles from the past 7 days regarding COVID-19 to help guide you in making your decision. Using your best judgement, take into consideration only the articles that are most relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Articles that are from know reputable sources have been flagged with "Trusted: True".
+
+Article 1 of 10
+Title: Government of Canada invests in new research to address COVID-19 variants
+Publisher: Canada.ca
+Trusted: True
+Posted: 1 day ago
+The Canadian government is investing $14.3 million to support new research on COVID-19 virus variants and their impact on Canadians' health. This includes funding for 90 ongoing COVID-19 projects and the establishment of a new national network, the Coronavirus Variants Rapid Response Network (CoVaRR-Net), led by Dr. Marc-André Langlois from the University of Ottawa. CoVaRR-Net will collaborate with various organizations to rapidly assess the immune response to virus variants and their resistance to vaccines. The network's findings will inform public health measures, drug therapy, and vaccine effectiveness. This investment is part of Canada's Variants of Concern Strategy, a $53 million partnership that aims to scale up surveillance, sequencing, and research efforts to understand and respond to COVID-19 variants.
+
+Article 2 of 10
+Title: Vaccine-Induced Prothrombotic Immune Thrombocytopenia (VIPIT) Following AstraZeneca COVID-19 Vaccination
+Publisher: Ontario COVID-19 Science Advisory Table
+Trusted: False
+Posted: 1 day ago
+Here is a summary of the article: Background: There is a rare association between the AstraZeneca COVID-19 vaccine and autoimmune thrombosis, mimicking heparin-induced thrombocytopenia (HIT). Cases of cerebral sinus vein thrombosis (CSVT) and thrombocytopenia have been reported in vaccine recipients, mostly in women under 55, occurring 4-20 days post-vaccination. This phenomenon, named vaccine-induced prothrombotic immune thrombocytopenia (VIPIT), has been identified in Germany by the Paul Ehrlich Institute. Findings and Questions: Frequency of VIPIT: VIPIT is a rare occurrence, with an incidence of 1 in 125,000 to 1 in 1 million. There is growing evidence of a link to the AstraZeneca vaccine, but it doesn't increase the overall risk of thrombosis. Health agencies recommend continuing its use due to its effectiveness in preventing COVID-19. Patient Predisposition: It is unclear if specific patients are predisposed to VIPIT. Most cases are in younger women, but this may be due to demographic factors. Individuals with thrombophilia or a history of blood clots do not appear to be at increased risk. Suspecting and Diagnosing VIPIT: VIPIT suspicion arises when patients present with CSVT or other clots and unusual symptoms 4-20 days post-vaccination. Symptoms include severe headaches, neurological issues, shortness of breath, abdominal/chest pain, and limb swelling. Diagnosis involves blood tests (CBC, D-dimer, blood film) and, in some cases, diagnostic imaging for blood clots. Treating VIPIT: Patients with suspected or confirmed VIPIT should avoid heparin and platelet transfusions. Alternative anticoagulants, such as direct thrombin inhibitors and anti-Xa inhibitors, are recommended. Severe or life-threatening blood clots may require intravenous immunoglobulin (IVIG) treatment. Reporting and Second Dose: All suspected VIPIT cases must be reported as adverse events. The safety of subsequent vaccine doses for VIPIT patients is unclear and requires hematologist consultation. A second dose of a different COVID-19 vaccine may be safe. The article provides insights into the rare but serious adverse event of VIPIT associated with the AstraZeneca vaccine. It offers guidance for healthcare professionals on diagnosing, treating, and managing VIPIT, contributing to vaccine safety surveillance.
+
+Article 3 of 10
+Title: U of T researchers survey Indigenous communities about COVID-19 experiences
+Publisher: University of Toronto
+Trusted: False
+Posted: 1 day ago
+The article highlights the lack of consultation and representation of Indigenous people in Canada's COVID-19 response, particularly in Ontario and British Columbia. Despite border closures, individuals continued to enter Indigenous communities by water, putting residents at risk due to limited access to masks and clean water for handwashing. Angela Mashford-Pringle, an assistant professor and associate director, emphasizes that Indigenous communities were not consulted during lockdowns, and their unique challenges, such as lack of running water and housing, were not adequately addressed. This, along with a history of medical exploitation and mistrust, has led to vaccine hesitancy. The report, "Indigenous Peoples & COVID-19: What We Heard," was presented to Dr. Theresa Tam, Canada's chief public health officer, shedding light on the need for authentic relationship-building between governments and Indigenous communities. However, Mashford-Pringle expresses concern that the report, completed three months ago, may already be outdated, underscoring the urgency of addressing these issues. The lack of clean water and PPE, as well as the history of medical exploitation, could impact COVID-19 hospitalizations in these communities.
+
+Article 4 of 10
+Title: What it will take to vaccinate the world against COVID-19
+Publisher: Nature.com
+Trusted: False
+Posted: 2 days ago
+The article discusses the challenges of producing and distributing COVID-19 vaccines, especially in low-income countries. While pharmaceutical companies have produced hundreds of millions of doses, the demand is in the billions. The main challenges outlined include: 1. Production capacity: Companies claim they can produce enough vaccines for most of the world's population by the end of 2021, but this doesn't account for distribution delays or the concentration of doses in wealthier countries. 2. Distribution and equity: The overwhelming majority of doses are going to wealthier nations, leaving low-income countries behind. This has fueled debates about intellectual property rights and temporary waivers to allow local manufacturing in poorer nations. 3. Intellectual property rights: There is a campaign to temporarily waive intellectual-property rights so that manufacturers in low-income countries can produce the vaccines themselves, potentially speeding up distribution and improving equity. Overall, the article highlights the urgent need for a more equitable and efficient global distribution of COVID-19 vaccines, and the potential benefits of temporarily waiving intellectual-property rights to achieve this. This forecast suggests that people in low-income countries may not be vaccinated until the end of 2022, underscoring the significance of these challenges.
+
+Article 5 of 10
+Title: Changes in employment by businesses during the COVID-19 pandemic: New insights on the experimental series of monthly business openings and closures
+Publisher: Statistique Canada
+Trusted: True
+Posted: 3 days ago
+Here is a summary of the article: The article examines the impact of the COVID-19 pandemic on employment in the Canadian business sector, focusing on businesses that were active in February 2020. The key findings include: Employment declines in March and April 2020 were largely due to continuing businesses scaling down their workforce, contributing to 70% and 82% of the employment declines respectively. Small firms with fewer than 100 employees contributed the most to employment declines among both continuing businesses and business closures. A large proportion of continuing businesses significantly reduced their workforce, with the majority falling into the middle of the employment growth distribution. While small businesses saw greater employment declines at the onset of the pandemic, medium and large businesses also scaled back their workforce, with three-quarters of them decreasing employment from March to April 2020. The distribution of businesses across employment change bins shifted back towards positive growth in May and June 2020, indicating a recovery in hiring or rehiring of employees. To forecast COVID-19 hospitalizations, additional data on infection rates, vaccination rates, and the severity of cases would be necessary. However, the article provides insights into the impact of the pandemic on businesses and employment, which could be a factor in understanding hospitalizations.
+
+Article 6 of 10
+Title: Health care job vacancies in Canada are soaring despite COVID-19 demand. Here’s why - National
+Publisher: Global News
+Trusted: False
+Posted: 3 days ago
+Canada's healthcare system is facing significant challenges due to a shortage of healthcare professionals, particularly in hospitals and nursing homes. Despite the growing need, job vacancies in the sector are on the rise, with a record high of 100,300 vacancies in the fourth quarter of 2020. The reluctance of front-line workers to risk their mental and physical health, as well as retirement and turnover in rural and remote locations, have contributed to the shortage. Immigration also plays a key role, with immigrants comprising a significant portion of nurse aides and patient services in Canada. The pandemic's impact on immigration may further exacerbate the shortage. Additionally, there is a higher demand for specific healthcare roles, such as registered nurses, who are qualified to administer vaccines. The number of graduates from nursing programs has largely remained the same, creating a mismatch between demand and supply. Government programs and incentives have been implemented to address the shortage, but the demand for healthcare workers continues to outpace the number of qualified candidates. The prolonged pressure on healthcare systems and the increased demand for personal protective equipment have also impacted the productivity of the healthcare workforce, with more healthcare workers experiencing burnout and mental health issues.
+
+Article 7 of 10
+Title: BC Gov News
+Publisher: BC Gov News
+Trusted: False
+Posted: 4 days ago
+People with underlying medical conditions that put them at higher risk for severe COVID-19 illness, such as cancer, transplant recipients, and severe respiratory illnesses, will be eligible to receive their first dose of the COVID-19 vaccine starting March 29, 2021, in British Columbia (B.C.), Canada. This acceleration of B.C.'s COVID-19 immunization plan will protect approximately 200,000 clinically extremely vulnerable (CEV) individuals aged 16 and older. Those identified as CEV will receive a letter with instructions on how to book their vaccination appointment. The booking process for this group will run concurrently with the ongoing age-based booking schedule, which is also being accelerated. This expansion of vaccine eligibility is based on clinical evidence and expertise and aims to protect those most vulnerable to severe illness from COVID-19. The provincial health officer, Dr. Bonnie Henry, stated that this additional immunization effort will significantly relieve the burden on those at highest risk. The full list of CEV criteria is available on the B.C. government website, along with information on the province's COVID-19 immunization plan and technical details from the BC Centre for Disease Control.
+
+Article 8 of 10
+Title: Ontario Newsroom
+Publisher: Government of Ontario News
+Trusted: False
+Posted: 5 days ago
+
+Article 9 of 10
+Title: Get answers from Canada's doctors: CMA COVID-19 vaccine campaign tackles top questions from Canadians
+Publisher: Canadian Medical Association
+Trusted: False
+Posted: 5 days ago
+
+Article 10 of 10
+Title: Great COVID-19 bicycle boom expected to keep bike industry on its toes for years to come
+Publisher: CBC.ca
+Trusted: False
+Posted: 6 days ago
+While the COVID-19 pandemic has negatively impacted many businesses, bicycle shops in Canada have experienced a boom in sales. This surge in demand has led to a backlog of orders and a struggle to keep up with customer inquiries. The increase in bicycle sales can be attributed to health officials' recommendations to engage in outdoor activities like cycling, as well as warnings about the dangers of coronavirus transmission in gyms and on public transit. Market research firm NPD Group reports that bicycle sales in the United States increased by 75% in 2020 compared to the previous year, with a 130% increase in the first two months of 2021. The high demand has also been met with supply-side problems, including a shortage of shipping containers and understaffing along the supply chain due to physical distancing measures. This has resulted in an unprecedented situation for Canadian cycle shops, with some expecting simpler bikes to be sold out by May or June. Parts shortages have also impacted deliveries, with shops facing uncertainties and longer wait times for custom bikes. Industry professionals predict that the bicycle industry will not be able to catch up with the demand in the next 12 months, and consumers can expect a price hike of between five and 15 percent. The supply issues have left some shops vulnerable as they wait for inventory, with one shop owner in Toronto receiving only 20 percent of his ordered bicycles this year. It is anticipated that the industry and consumers will feel the turmoil caused by the pandemic for years to come, with a full return to normalcy not expected until the spring of 2023.

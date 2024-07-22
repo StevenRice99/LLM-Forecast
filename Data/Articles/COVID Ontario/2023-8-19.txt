@@ -1,0 +1,68 @@
+Below are 10 news articles from the past 7 days regarding COVID-19 to help guide you in making your decision. Using your best judgement, take into consideration only the articles that are most relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Articles that are from know reputable sources have been flagged with "Trusted: True".
+
+Article 1 of 10
+Title: Clinical management of COVID-19: Living guideline, 18 August 2023
+Publisher: World Health Organization (WHO)
+Trusted: True
+Posted: 1 day ago
+The WHO has published comprehensive guidelines for managing COVID-19 patients, offering holistic guidance to ensure optimal care. The guidelines, regularly updated as new evidence emerges, are accessible via PDF and an online platform. The 7th version includes a new conditional recommendation: awake prone positioning for severely ill COVID-19 patients requiring supplemental oxygen or non-invasive ventilation. This recommendation is based on moderate to low-certainty evidence. As of August 18, 2023, the WHO is utilizing these guidelines to help forecast COVID-19 hospitalizations and provide appropriate care.
+
+Article 2 of 10
+Title: Early signs suggest fall COVID-19 wave starting in Canada — before updated boosters are available
+Publisher: CBC News
+Trusted: False
+Posted: 1 day ago
+There are early indications that Canada is entering a fall COVID-19 wave, with wastewater signals rising and the percentage of positive COVID tests increasing. Hospitalizations also increased in August, with over 1,700 hospital beds occupied by COVID patients by mid-August. Experts attribute the rise to waning immunity and the spread of the contagious EG.5 subvariant. While hybrid immunity from vaccination and infection provides robust protection, the protection against infection wanes over time. The level of population immunity and the timing of fall booster shots will play a crucial role in determining the severity of Canada's fall surge. The booster shots are not yet approved in Canada or the U.S., and the delay in approval and distribution could impact Canada's ability to manage another wave. Experts recommend getting updated booster shots once they become available and taking basic precautions such as avoiding crowded indoor spaces and wearing masks. Canada's higher vaccine uptake compared to the U.S. may help mitigate the impact of the fall wave.
+
+Article 3 of 10
+Title: COVID-19 variant of interest hits Sask., but expert says ‘no need to panic’
+Publisher: Global News Toronto
+Trusted: False
+Posted: 1 day ago
+The Community Respiratory Illness Surveillance Program (CRISP) in Saskatchewan has detected the province's first cases of the EG.5 variant of COVID-19, a descendant of the XBB.1.9.2 variant. Out of the 21 clinical specimens tested, 21.4% were positive for EG.5. Monovalent vaccines targeting XBB sub-lineages will be available in the fall. Hospitalizations and ICU admissions due to COVID-19 have decreased in the province, with 27 hospitalizations and seven ICU admissions reported in the last four weeks. There were 32 patient-confirmed cases of COVID-19 between August 6 and 12, with 16 cases in individuals over 65. Dr. Nazeem Muhajarine, an epidemiologist, stated that EG.5 has become a variant of interest and is spreading across multiple countries, but there is no need to panic as we are in a different stage of the pandemic compared to previous years.
+
+Article 4 of 10
+Title: Saskatchewan detects COVID-19 subvariant EG. 5 for first time
+Publisher: Saskatoon Star-Phoenix
+Trusted: False
+Posted: 1 day ago
+
+Article 5 of 10
+Title: 75 per cent of Canadians were infected with COVID-19 by March 2023, study finds
+Publisher: CTV News
+Trusted: False
+Posted: 3 days ago
+Here is a summary of the article: A recent study by the COVID-19 Immunity Task Force (CITF) found that 75% of Canadians had detectable COVID-19 antibodies as of March 2023, indicating a high level of infection-acquired immunity. The study analyzed data from over 900,000 samples across 10 provinces and found that infection rates varied by geographical region and age group. Before the Omicron variant, seroprevalence from infection was low, with less than 0.3% of Canadians exposed to the virus in July 2020, increasing to 9% by November 2021. However, after the Omicron variant emerged, infection rates surged, with a monthly increase of 6.4% between December 2021 and July 2022. Despite high vaccine coverage, the Omicron variant spread rapidly, indicating that vaccine-acquired immunity alone may not be sufficient to prevent infections. By spring 2023, infection-acquired immunity was highest in younger age groups, with 80% of adults under 25 testing positive, and gradually decreasing with age, with 60% of those over 60 testing positive. The study concludes that while many Canadians have hybrid immunity, variations in immunity levels across age groups and geographical regions suggest that public health policies and clinical decisions need to be tailored to local patterns of population immunity. To forecast COVID-19 hospitalizations, it is important to consider that infection-acquired immunity wanes over time, and the protection offered by hybrid immunity may vary. Therefore, it is likely that COVID-19 hospitalizations will continue to fluctuate, with potential surges occurring in areas with lower immunity levels or new variants that can evade existing immunity.
+
+Article 6 of 10
+Title: Educational childcare services in the context of viral respiratory infections including COVID-19
+Publisher: Gouvernement du Québec
+Trusted: False
+Posted: 4 days ago
+The article provides guidelines for childcare centers and parents regarding managing fever and other symptoms of respiratory infections, including COVID-19. Here are the key points: Children with fevers should stay at home and not attend childcare. They can return to childcare when their fever has subsided and they are feeling well enough to participate in group activities. Childcare centers may request that parents pick up their children if they develop a fever while at the facility. Children who have other symptoms of a respiratory infection, such as cough, loss of taste or smell, sore throat, runny nose, or nasal congestion, but no fever, may still attend childcare if they are well enough to engage in group activities. Adults in contact with symptomatic children should wear masks and practice frequent hand hygiene with soap and water or hydroalcoholic solutions. Regarding forecasting COVID-19 hospitalizations, these guidelines can help identify and isolate potentially infectious individuals, which may contribute to slowing the spread of the virus and reducing hospitalizations. However, it is important to note that forecasting hospitalizations involves complex modeling and the consideration of various factors, including vaccination rates, viral variants, and adherence to public health measures.
+
+Article 7 of 10
+Title: The socioemotional impact of the COVID-19 pandemic on pregnant and postpartum people: a qualitative study
+Publisher: CMAJ Open
+Trusted: False
+Posted: 4 days ago
+
+Article 8 of 10
+Title: Nirmatrelvir-ritonavir use with COVID-19, CNISP, CCDR 49(7/8)
+Publisher: Canada.ca
+Trusted: True
+Posted: 5 days ago
+The article presents a descriptive analysis of the use and outcomes of nirmatrelvir-ritonavir among adults hospitalized with COVID-19 in Canadian acute care hospitals during the Omicron variant phase. Key findings include: From January to December 2022, 13% of adult patients hospitalized with COVID-19 in 40 hospitals received nirmatrelvir-ritonavir. Most patients who received the treatment were fully vaccinated (79%), had pre-existing comorbidities (97%), and were of advanced age (median 79 years). Few patients were admitted to the ICU (2.3%), and there were 13 deaths (2.7%) attributable to COVID-19 among the treated patients. Regional variation in the use of nirmatrelvir-ritonavir was observed, possibly due to differences in provincial policies, prescriber patterns, and drug availability. A subgroup analysis of healthcare-associated COVID-19 patients suggested that treated patients had lower ICU admissions and all-cause 30-day mortality compared to untreated patients. The findings suggest that nirmatrelvir-ritonavir is being used to treat adult COVID-19 patients at admission who are at risk of severe disease progression. The low proportion of severe outcomes among treated patients indicates a potential benefit of the treatment in this population. However, additional research is needed to establish the efficacy and indications for the use of nirmatrelvir-ritonavir in hospitalized patients to inform future policies and guidelines.
+
+Article 9 of 10
+Title: U of T researchers contribute to Canada-wide COVID-19 immunity study
+Publisher: University of Toronto
+Trusted: False
+Posted: 5 days ago
+A recent University of Toronto study found that 75% of Canadians had developed antibodies against COVID-19 by spring 2023, indicating a high level of infection and/or vaccination rates. The study used data from the Canadian Partnership for Tomorrow's Health (CanPath), which tracked COVID-19 infection and vaccination rates at three different time points: pre-vaccination, vaccine rollout, and during the Omicron waves. During the pre-vaccination and vaccine rollout phases, only 0.3% and 9% of people showed SARS-CoV-2 infection, respectively. However, by mid-June 2022, the infection rate had jumped to 47%, and by March 2023, it had increased to 75% as the Omicron variant spread. The study also found that infection rates continue to rise among older adults, highlighting the importance of continued monitoring and booster campaigns to safeguard against future variants. Overall, the high level of antibodies in the population is a positive sign, but the lingering risks of post-COVID conditions and the vulnerability of certain individuals mean that proactive measures, such as booster campaigns, remain essential to protect public health.
+
+Article 10 of 10
+Title: As a new variant takes hold, what's the COVID-19 situation in Quebec?
+Publisher: Montreal Gazette
+Trusted: False
+Posted: 6 days ago

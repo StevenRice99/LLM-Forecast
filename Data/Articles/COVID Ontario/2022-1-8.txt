@@ -1,0 +1,70 @@
+Below are 10 news articles from the past 7 days regarding COVID-19 to help guide you in making your decision. Using your best judgement, take into consideration only the articles that are most relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Articles that are from know reputable sources have been flagged with "Trusted: True".
+
+Article 1 of 10
+Title: Baricitinib for Hospitalized Patients with COVID-19
+Publisher: Ontario COVID-19 Science Advisory Table
+Trusted: False
+Posted: Today
+COVID-19 is a viral infection that can cause severe inflammation and complications such as acute respiratory distress syndrome (ARDS), thrombosis, and multi-organ failure. Anti-inflammatory agents like dexamethasone and IL-6 inhibitors have shown to improve mortality rates. Baricitinib, a small molecule JAK inhibitor, is being considered for its potential benefits in COVID-19 treatment. Three RCTs have been published comparing baricitinib with placebo alongside standard care. The studies included mild, moderate, and critically ill patients. The findings suggest that baricitinib reduces overall 28-day mortality, with an absolute risk reduction of 6%. This effect is more pronounced in patients requiring supplemental oxygen and those on non-invasive ventilation or high-flow oxygen, with an absolute risk reduction of 8% and 3%, respectively. For critically ill patients on invasive mechanical ventilation or ECMO, there is a trend towards reduced mortality but it is not statistically significant. Baricitinib also reduces the risk of progression to new invasive ventilation or ECMO and may reduce the combined outcome of high-flow oxygen, non-invasive ventilation, invasive mechanical ventilation, or death. Additionally, patients receiving baricitinib experienced fewer serious adverse events compared to placebo. However, there is uncertainty about the benefits and harms for pregnant and breastfeeding individuals, and those with renal impairment. Baricitinib is recommended at a daily dose of 4 mg for up to 14 days or until hospital discharge, with a reduced dose of 2 mg for patients with an eGFR of 30-60 mL/min/1.73m2. Concomitant therapies like dexamethasone and remdesivir are also considered standard care for COVID-19 patients. In summary, baricitinib can reduce mortality and improve outcomes in certain hospitalized COVID-19 patients, especially those requiring supplemental oxygen or non-invasive ventilation. More research is needed to fully understand the benefits and risks for specific patient populations.
+
+Article 2 of 10
+Title: Record high number of Ontarians in hospital with COVID-19 as Omicron wave continues
+Publisher: CBC.ca
+Trusted: False
+Posted: Today
+Ontario reported 2,472 people hospitalized with COVID-19 on Friday, a pandemic high surpassing the previous peak of 2,360 in April 2021. The number of patients in ICUs has also increased to 338, with 57 adults admitted in the last day alone. The province plans to differentiate between patients hospitalized due to COVID-19 and those testing positive while in hospital for unrelated reasons. The pressure on hospitals is expected to worsen as staff absences due to COVID-19 increase and case counts continue to rise. The Ontario Hospital Association predicts that hospitalization rates will climb, and numerous hospitals are already facing COVID-19-related staffing challenges. The government is offering $10,000 grants to small businesses forced to close due to restrictions, but businesses that had to reduce capacity are ineligible.
+
+Article 3 of 10
+Title: Clinical Practice Guideline Summary: Recommended Drugs and Biologics in Adult Patients with COVID-19
+Publisher: Ontario COVID-19 Science Advisory Table
+Trusted: False
+Posted: Today
+The Ontario COVID-19 Science Advisory Table has released version 7.0 of its Clinical Practice Guidelines for the management of COVID-19 in adults. This guideline provides recommendations for drugs and biologics used in the treatment of COVID-19, offering a valuable resource for healthcare professionals. By adhering to these guidelines, hospitalizations due to COVID-19 can be effectively managed and mitigated.
+
+Article 4 of 10
+Title: COVID-19 Self-Care Guide
+Publisher: Alberta Health Services
+Trusted: False
+Posted: 2 days ago
+Here is a summary of the article: The article provides guidance for individuals who are experiencing COVID-19 symptoms and recommends that they stay home and isolate themselves until they feel better and no longer have a fever without the use of fever-reducing medication. This is to prevent the potential spread of the virus to others. It is advised to call a healthcare provider or a health link if symptoms worsen. Most individuals with COVID-19 can recover at home without special treatment and can manage their mild symptoms through self-care.
+
+Article 5 of 10
+Title: How to treat yourself at home if you get COVID-19
+Publisher: CBC.ca
+Trusted: False
+Posted: 2 days ago
+The Omicron variant of COVID-19 is highly contagious and spreading rapidly, infecting many people, including those who are fully vaccinated. However, most vaccinated individuals will likely experience mild to moderate flu-like symptoms that can be managed at home. Here are some key facts and tips for dealing with COVID-19 after vaccination: Mild illness for the vaccinated: Dr. Katharine Smart, president of the Canadian Medical Association, reassures that fully vaccinated individuals with two doses and a booster are likely to experience only mild or moderate symptoms. Hospitalizations among this group are rare. Typical symptoms: Common Omicron symptoms include a runny nose, sore throat, cough, and sometimes diarrhea, vomiting, fatigue, and muscle aches. These symptoms typically last between two and ten days and are often shorter for vaccinated individuals. Self-care at home: Rest, hydration, and over-the-counter pain medications like Tylenol or Advil are recommended for symptom management. Have soothing foods like soup, and fluids readily available. Isolate from other family members if possible. Danger signs: Seek emergency care if you experience shortness of breath, difficulty breathing, fatigue with exertion, or trouble breathing while lying flat. Also, watch for a worsening of any underlying health conditions. No specific COVID-19 treatments at home: Currently, there are no widely available home treatments for COVID-19 in Canada. However, some treatments, such as monoclonal antibodies and dexamethasone, are showing promise for severe cases. For children: Focus on providing clear fluids to keep them hydrated. For younger children who can't blow their noses, saline sprays or rinses can help. Stay home: Even with mild symptoms, stay home and isolate for at least five days. Let others know you're isolating, and arrange for essential items to be delivered. Quick tips: Dr. Smart and another medical expert, Dr. Janine McCready, suggest having pain relievers, a thermometer, and enough food for the isolation period. They also emphasize the importance of staying home and testing if respiratory symptoms appear. While COVID-19 continues to spread, staying vigilant about symptoms, testing, and proper isolation will help manage the impact of the virus on individuals and the healthcare system.
+
+Article 6 of 10
+Title: Ontario Newsroom
+Publisher: Government of Ontario News
+Trusted: False
+Posted: 3 days ago
+
+Article 7 of 10
+Title: Babies admitted to hospital with COVID-19 had unvaccinated mothers, CHEO says
+Publisher: CBC.ca
+Trusted: False
+Posted: 3 days ago
+Pediatric hospitals in Ontario, Canada, are seeing an increase in hospitalizations of infants with COVID-19 and are urging pregnant people to get vaccinated to help protect their unborn children. Six babies under 12 months old have been admitted to two children's hospitals in the province since mid-December, whereas previously hospitalizations of infants with COVID-19 were rare. Infants are particularly vulnerable to the virus due to their underdeveloped immune systems. Vaccination of pregnant people can provide some level of protection for their infants during the first six months of life, as antibodies can be transferred to the unborn child during the third trimester. This also protects the pregnant individual, and it is recommended that those living with them get vaccinated as well. However, vaccine coverage among pregnant individuals in Ontario is lower than the general population, despite being prioritized. Research by BORN Ontario has shown no adverse effects from receiving a COVID-19 vaccine during pregnancy. The information provided in the article suggests that vaccination of pregnant individuals can help reduce the risk of COVID-19 hospitalizations in infants, as it can provide some protection to the unborn child and reduce the overall risk of severe illness and hospitalization in the pregnant person themselves.
+
+Article 8 of 10
+Title: Self-Isolation — Middlesex-London Health Unit
+Publisher: Middlesex-London Health Unit
+Trusted: True
+Posted: 4 days ago
+The article provides self-isolation instructions for individuals with respiratory symptoms, such as cough, sore throat, or stuffy nose, to help control the spread of COVID-19 and forecast hospitalizations. Here's a summary: If you have respiratory symptoms, stay home and take Ontario's self-assessment to determine your next steps. Consider ending your self-isolation when your symptoms have been improving for at least 24 hours (or 48 hours if you experienced nausea, vomiting, or diarrhea). Ensure you no longer have a fever before ending self-isolation. Be cautious and monitor yourself for any new or additional symptoms. Even after your symptoms improve, continue to exercise caution in public settings for approximately 10 days. These instructions aim to balance the need for social interaction and the resumption of daily activities while minimizing the risk of spreading the virus that causes COVID-19. By following these guidelines, individuals can contribute to the accurate forecasting of COVID-19 hospitalizations and protect vulnerable members of their community.
+
+Article 9 of 10
+Title: Health System News COVID-19 Hospital Capacity: Update
+Publisher: Ontario Hospital Association
+Trusted: False
+Posted: 7 days ago
+The Ontario Hospital Association (OHA) has developed a resource page to provide updates on hospital capacity in the context of COVID-19 hospitalizations, including a specific focus on COVID-related critical illness (CRCI) admissions to ICUs. The OHA offers a Hospital Capacity Slide Deck and a Paediatric Hospital Capacity Slide Deck, both of which are regularly updated. Even before the pandemic, Ontario's hospitals faced capacity pressures, including crowded emergency departments and high occupancy. COVID-19 has amplified these issues, and hospitals have had to adapt quickly to meet the complex and evolving demands of the pandemic. Understanding ICU capacity is crucial, considering the increased resources and healthcare providers needed to care for patients with COVID-related critical illnesses. These patients tend to have longer lengths of stay in the ICU and require more health human resources (HHR). Additionally, hospitals are facing challenges such as HHR shortages, workforce exhaustion, and disruptions due to illness and isolation requirements. Bed occupancy across Ontario is extremely high, exceeding 100% in some hospitals, despite the additional beds provided by the government. This is partly due to the over 5,000 patients designated as ALC, waiting for appropriate long-term care or home care. High bed occupancy limits the ability of hospitals to respond to sudden surges in COVID-19 cases, often resulting in delayed care and patient transfers. To help hospitals and healthcare providers, Ontarians are urged to get vaccinated and follow public health measures such as proper masking, working from home, and limiting gathering sizes.
+
+Article 10 of 10
+Title: Ontario to stop logging COVID-19 school cases, memo says; NDP calls it 'terrifying for parents'
+Publisher: CBC News
+Trusted: False
+Posted: 7 days ago
+Ontario's Ministry of Education has announced that it will stop reporting COVID-19 cases in schools and childcare settings, a decision that has been criticized by the opposition New Democratic Party. The NDP has called on the provincial government to reverse testing and tracing cuts, arguing that not tracking the virus will make it harder to fight it. The Toronto District School Board (TDSB) has confirmed that the Ministry of Education will no longer collect COVID-19 case numbers from school boards. The Ministry of Health will also suspend reporting COVID-19 cases in schools and childcare settings but will still accept reports of serious occurrences. Ontario's new metric for monitoring the spread of Omicron will be hospital admissions and ICU numbers, according to the province's Chief Medical Officer, Dr. Kieran Moore. Moore also advised the education and childcare sectors to prepare for potentially higher than normal absenteeism due to Omicron. Infection control epidemiologist Colin Furness has written a letter to Toronto Public Health and Peel Public Health requesting a 13-day delay in school openings to get through the Omicron wave and vaccinate more staff and children. Medical director of critical care at Michael Garron Hospital, Dr. Michael Warner, agrees with delaying the return to school to prioritize boosters for education staff. The Ministry of Education has announced it will provide higher-quality masks to children in schools and childcare settings and expand access to rapid antigen tests. The province advises that anyone with COVID-19 symptoms must self-isolate for five days, regardless of vaccination status. Schools and childcare programs are required to reinstate daily on-site confirmation of screening for students and staff.

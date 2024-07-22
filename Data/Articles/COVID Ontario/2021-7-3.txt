@@ -1,0 +1,70 @@
+Below are 10 news articles from the past 7 days regarding COVID-19 to help guide you in making your decision. Using your best judgement, take into consideration only the articles that are most relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Articles that are from know reputable sources have been flagged with "Trusted: True".
+
+Article 1 of 10
+Title: Policy considerations for implementing a risk-based approach to international travel in the context of COVID-19, 2 July 2021
+Publisher: World Health Organization (WHO)
+Trusted: True
+Posted: 1 day ago
+The World Health Organization (WHO) has issued updated guidance on international travel measures related to COVID-19, recommending a risk-based approach that respects the dignity, human rights, and freedoms of travelers. The key updates in this guidance include considering SARS-CoV-2 Variants of Concern (VOC) and Variants of Interest (VOI) in risk assessments and incorporating COVID-19 vaccination status in the risk management framework. The guidance aims to help countries calibrate their travel-related measures based on their specific epidemiological, health system, and socioeconomic contexts, ensuring these measures are proportionate to the public health risk. The technical considerations provided in the annex offer detailed guidance on implementing risk mitigation measures through a mixed-methods risk assessment. This includes previous versions of the guidance, now outdated, which were published on December 16, 2020, offering considerations for a risk-based approach to international travel during the COVID-19 pandemic.
+
+Article 2 of 10
+Title: Technical considerations for implementing a risk-based approach to international travel in the context of COVID-19: Interim guidance, 2 July 2021
+Publisher: World Health Organization (WHO)
+Trusted: True
+Posted: 1 day ago
+The World Health Organization (WHO) has issued guidance for national authorities on implementing a risk-based approach to international travel during the COVID-19 pandemic. The guidance, "Technical considerations for implementing a risk-based approach to international travel in the context of COVID-19," published on July 2, 2021, is an update to previous interim guidance and includes key updates related to SARS-CoV-2 variants and COVID-19 vaccination. The guidance aims to help countries implement and adjust travel-related measures proportionate to the public health risk. It covers three main areas: risk assessment, risk mitigation, and risk communication. The risk assessment section includes considerations for incorporating VOCs and VOIs, while the risk management framework now includes COVID-19 vaccination. The guidance also provides updated evidence on the effectiveness and impact of various risk mitigation measures. This document is intended to support countries in making informed decisions about international travel measures while respecting the rights and freedoms of travelers.
+
+Article 3 of 10
+Title: Prevention and Attenuation of Covid-19 with the BNT162b2 and mRNA-1273 Vaccines
+Publisher: nejm.org
+Trusted: False
+Posted: 3 days ago
+
+Article 4 of 10
+Title: New Emergency Leave Provisions in NWT Employment Standards Act
+Publisher: Government of Northwest Territories
+Trusted: False
+Posted: 3 days ago
+The Government of the Northwest Territories has made changes to the Employment Standards Act and Regulations to protect workers and provide flexibility to employers during the COVID-19 pandemic. These changes include the introduction of Emergency Leave, which allows NWT workers to take unpaid leave if they are unable to work due to an emergency like the COVID-19 public health crisis. This leave is retroactive to March 18, 2020, when the territory-wide public health emergency was declared. Employees terminated due to COVID-19 between this date and June 30, 2021, may file a complaint with the Employment Standards Office by January 2, 2022. These amendments are important for encouraging compliance with public health orders and allowing workers to access federal recovery benefits. Additionally, the amendments provide flexibility to employers by exempting them from the requirement to provide notice of group termination if they can demonstrate that an unforeseeable event or circumstance beyond their control prevented them from doing so. However, employers must still provide notice as soon as possible, and employees are still entitled to individual termination notice or pay in lieu. These changes aim to support both NWT workers and employers during the pandemic and future emergencies.
+
+Article 5 of 10
+Title: Untangling introductions and persistence in COVID-19 resurgence in Europe
+Publisher: Nature.com
+Trusted: False
+Posted: 3 days ago
+The article discusses a Bayesian evolutionary reconstruction of the timed phylogeographical history of the COVID-19 pandemic in Europe, incorporating genome sequences, their country and date of sampling, and epidemiological and mobility/connectivity data. The analysis focuses on simple model specifications and informing parameters with additional non-genetic data sources. The effective population size trajectory is modeled as a piecewise constant function that changes values at pre-specified times, with log-transformed population sizes as a deterministic function of log-transformed COVID-19 case counts. The process of transitioning through discrete location states is also modeled according to a continuous-time Markov chain, with log-transformed transition rates as a log-linear function of mobility and connectivity covariates. The article also mentions the use of data augmentation through online BEAST to update the dataset and reduce burn-in for subsequent analyses. Finally, the authors accommodate the time variability of mobility measures by constructing epoch model extensions that allow for the specification of arbitrary intervals and associated model parameterizations.
+
+Article 6 of 10
+Title: Temporary clinic brings COVID-19 vaccine to the community of Crofton
+Publisher: Island Health
+Trusted: False
+Posted: 4 days ago
+The article announces a temporary walk-in clinic for COVID-19 vaccinations in Crofton, open to residents aged 12 and up, from June 29 to July 3 and additionally on July 6 and 7. This clinic is for first doses only, while second doses can be booked through the provincial system. Island Health also offers a limited number of first-dose walk-in appointments daily at mass immunization clinics like the Cowichan Community Centre in Duncan. While the article does not provide specific forecasts for COVID-19 hospitalizations, increasing vaccination rates through these clinics could help reduce hospitalizations by protecting more individuals from severe illness.
+
+Article 7 of 10
+Title: The state of virtual care in Canada as of wave three of the COVID-19 pandemic: An early diagnostic and policy recommendations
+Publisher: Canada.ca
+Trusted: True
+Posted: 4 days ago
+The article offers a summary of virtual care in Canada as of May 2021, relying on key informant interviews, grey literature, and scientific publications. Four competing perspectives on the shift to virtual care due to the COVID-19 pandemic are presented, highlighting the interpretation and conclusions drawn by patients, clinicians, system administrators, and policymakers. The article also recaps provincial, territorial, and private sector responses, discusses policy pillars, and makes recommendations. It emphasizes the need for virtual care to be a core part of health care delivery, evaluated against the Quadruple Aim for effectiveness. The article also addresses rules and regulations, privacy and security, data standards, technology, and user experience. Lastly, it recommends keeping the positive culture change that emerged during the pandemic.
+
+Article 8 of 10
+Title: COVID-19 deaths in Canada may be 2 times higher than reported, study finds
+Publisher: CBC News
+Trusted: False
+Posted: 4 days ago
+A recent study suggests that Canada may have underestimated the number of COVID-19 deaths, with the true number potentially being twice as high as reported. The study found that a significant number of COVID-19 deaths may have occurred outside of long-term care homes, particularly in lower-income and racialized communities. The researchers adjusted the data to account for factors such as increased deaths due to drug toxicity and reduced traffic accident rates during the pandemic. They found that between February and November 2020, about 6,000 COVID-19 deaths in people aged 45 and older may have gone undetected or unreported. The study also highlighted the impact of COVID-19 on racialized communities, with a high proportion of essential workers from these communities contracting the virus and dying from it. The researchers made several recommendations, including improved reporting of deaths to Statistics Canada and increased COVID-19 testing for all individuals who die. The findings suggest that the true burden of COVID-19 in Canada may be much higher than previously thought, which could have implications for forecasting hospitalizations and planning healthcare resources.
+
+Article 9 of 10
+Title: Why reports of COVID-19 infections after 2 vaccine doses aren't cause for alarm
+Publisher: CBC News
+Trusted: False
+Posted: 5 days ago
+The article discusses the rare cases of COVID-19 infections in fully vaccinated individuals and provides important context for understanding their impact on the overall effectiveness of vaccination efforts. Here's a summary along with key facts to help forecast COVID-19 hospitalizations: Summary: While it may be concerning to hear about people getting infected with COVID-19 despite full vaccination, these "breakthrough infections" are rare and typically mild. In Canada and the US, data shows that breakthrough infections make up a very small percentage of reported COVID-19 cases and hospitalizations. Experts emphasize that no vaccine offers 100% protection, but the dramatic drop in cases, hospitalizations, and deaths demonstrates the vaccines' success in preventing severe illness. Mild breakthrough infections do not strain the healthcare system, and vaccinated individuals are far less likely to require hospitalization, oxygen, or mechanical ventilation. While rare, some vaccinated individuals may still experience severe illness due to individual variations in immune response. Despite the overall effectiveness, there are concerns that reports of post-vaccination cases and deaths could fuel hesitancy among unvaccinated individuals. Important Facts for Forecasting COVID-19 Hospitalizations: In Canada, as of June 21, there were 2,731 cases of COVID-19 among fully vaccinated individuals out of nearly 34 million vaccine doses administered. Breakthrough infections among fully vaccinated individuals in Canada represent just 0.5% of reported COVID-19 cases since the vaccine rollout started in December. According to the Public Health Agency of Canada (PHAC), individuals who get COVID-19 after partial or full vaccination are less likely to die compared to unvaccinated individuals. The protective effect was significant among partially vaccinated people over 60 and fully vaccinated people over 80. In the US, an Associated Press analysis found that breakthrough infections accounted for about 0.1% of COVID-19 hospitalizations and 0.8% of deaths in May. Vaccinated individuals who experience breakthrough infections tend to have milder symptoms, reducing the strain on healthcare resources and hospitalizations. Primary care physicians, community outreach, and clear messaging about vaccine effectiveness are crucial for addressing hesitancy and reaching vulnerable communities. In conclusion, while breakthrough infections do occur, they are rare and generally result in milder illness. The data strongly indicates that vaccination significantly reduces the risk of severe COVID-19 illness and hospitalization, underscoring the importance of continuing vaccination efforts to protect individuals and communities.
+
+Article 10 of 10
+Title: 15 months, 3 waves: How COVID-19 coursed through the capital
+Publisher: CBC.ca
+Trusted: False
+Posted: 5 days ago
+The first wave of the COVID-19 pandemic in Ottawa, Canada, began in March 2020 and peaked in late April with 784 active cases and 95 deaths in the first six weeks. The high mortality rate during this wave pushed the city's older population to take precautions and reduce their exposure. The second wave was characterized by multiple ebbs and flows over five months, with a peak of 1,501 active cases in early October. Summer parties and increased community spread contributed to this spike. The reopening of schools did not lead to significant in-school transmission, and schools remained open through the end of 2020. However, the holiday break in December led to increased shopping and indoor gatherings, resulting in another spike in cases. The second wave was followed by a lockdown in late December, which helped reduce the number of active cases. The third wave of the pandemic in Ottawa was more severe than the previous two, with a peak of 3,789 active cases in mid-April 2021. The alpha variant contributed to the accelerated spread of the virus, leading to another school closure. The reopening of the city and province in late winter was premature and contributed to the spread of the alpha variant before the vaccine could make a significant impact. The path forward involves a slow reopening coupled with the vaccine rollout, with the delta variant expected to make a larger impact in Ottawa starting in July. As of Friday, 26% of Ottawa adults were fully vaccinated, and that number is expected to rise steadily in the coming weeks.
