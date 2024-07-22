@@ -23,7 +23,7 @@ On March 6, 2020, the Canadian government announced nearly $27 million in fundin
 Article 4 of 10
 Title: McGill professors part of federally-funded Covid-19 research initiative
 Publisher: McGill Reporter
-Trusted: False
+Trusted: True
 Posted: 1 day ago
 The Canadian Institutes of Health Research is investing $6.75 million into COVID-19 research to contribute to the global response to the outbreak and mitigate its negative consequences. 47 researchers across Canada have been chosen to participate, including David L. Buckeridge, Amine Kamen, and Denis Leclerc. Buckeridge will receive $500,000 for his project, "Using Online News Media to Assess Community and Public Health Responses to COVID-19," which aims to understand how communities and public health agencies are responding to the epidemic by analyzing online news media using artificial intelligence. Kamen and Leclerc will collaborate on developing a vaccine formulation with a long shelf life, receiving over $717k for their project. The COVID-19 research opportunity is funded by multiple organizations and focuses on medical and social countermeasures. The World Health Organization declared the COVID-19 outbreak a Public Health Emergency of International Concern on January 30, 2020, and as of March 3, 2020, there were over 90,000 confirmed cases and nearly 3,000 deaths worldwide. Global surveillance and digital disease surveillance systems are critical for monitoring and guiding public health efforts to control the spread of COVID-19. Buckeridge's project aims to enhance the capacity of DDS to improve global disease surveillance and generate evidence to guide effective strategies for controlling COVID-19.
 

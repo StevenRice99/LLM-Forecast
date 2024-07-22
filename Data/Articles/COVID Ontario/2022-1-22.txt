@@ -16,7 +16,7 @@ Posted: 2 days ago
 Article 3 of 10
 Title: How mRNA Vaccines Might Help Treat Cancer
 Publisher: National Cancer Institute (.gov)
-Trusted: False
+Trusted: True
 Posted: 2 days ago
 The article discusses the potential of messenger RNA (mRNA) vaccines in treating cancer, highlighting the success of mRNA COVID-19 vaccines. Here are the key points and important facts to help forecast COVID-19 hospitalizations: mRNA vaccines provide powerful protection against severe COVID-19 caused by SARS-CoV-2. Researchers have hoped to use mRNA vaccines for cancer treatment, with small trials showing promising early results. Dozens of clinical trials are testing mRNA cancer vaccines for various cancer types, including pancreatic, colorectal, and melanoma. No mRNA cancer vaccine has been approved by the US FDA yet, but the success of mRNA COVID-19 vaccines may accelerate research. mRNA vaccines work by instructing cells to produce proteins that stimulate an immune response against viruses or tumor cells. Dendritic cells present the proteins to immune cells like T cells, educating them to recognize and kill cancer or virus-infected cells. The speedy development of mRNA COVID-19 vaccines during the pandemic demonstrated the flexibility and scalability of mRNA vaccine technology. Personalized mRNA cancer vaccines are designed based on individual tumor characteristics, aiming to elicit an immune response against abnormal proteins (neoantigens) produced by cancer cells. Early results from a clinical trial combining a personalized mRNA vaccine with an immune checkpoint inhibitor showed positive outcomes for patients with head and neck cancer. Further research is needed to optimize the identification of neoantigens for personalized mRNA cancer vaccines and their combination with other treatments. Insights gained from the widespread use of mRNA COVID-19 vaccines may inform and accelerate the development of mRNA cancer vaccines.
 
@@ -51,7 +51,7 @@ The Women RISE initiative is a new funding opportunity that aims to support rese
 Article 8 of 10
 Title: Understanding COVID-19 PCR Testing
 Publisher: National Human Genome Research Institute
-Trusted: False
+Trusted: True
 Posted: 4 days ago
 The article explains the meaning of positive and negative results on a COVID-19 PCR test, which can be useful for forecasting hospitalizations. A positive result indicates the presence of the SARS-CoV-2 virus in the sample, suggesting the individual is infected. On the other hand, a negative result means that the virus was not detected in the sample. It is important to note that false negatives can occur if the amount of virus in the sample is too low, which is more likely early in the infection or if the test is not conducted properly. False positives, though unlikely, are also possible but less frequent. Understanding these test results is crucial for individuals to make informed decisions about isolation and treatment and for public health officials to forecast the impact on hospitalizations and plan accordingly.
 

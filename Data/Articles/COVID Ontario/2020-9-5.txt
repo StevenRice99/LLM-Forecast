@@ -3,7 +3,7 @@ Below are 10 news articles from the past 7 days regarding COVID-19 to help guide
 Article 1 of 10
 Title: When COVID-19 Symptoms Won't Go Away: The Long Road to Recovery
 Publisher: Yale Medicine
-Trusted: False
+Trusted: True
 Posted: 1 day ago
 Yale New Haven Hospital and Yale Medicine have launched a program to aid patients suffering from long-term effects of COVID-19. The program is primarily pulmonary-focused but also includes caregivers from various specialties, such as physical therapy, cardiology, neurology, and psychiatry. Interestingly, the majority of patients in the program were never hospitalized for COVID-19 and only experienced mild to moderate symptoms. However, these patients still suffer from lingering issues such as shortness of breath, fatigue, and decreased tolerance for normal activities. The program aims to improve patients' functionality and prevent further deconditioning through pulmonary rehabilitation, which includes exercise training and breathing techniques. The recovery process is highly individualized, and the typical two-week recovery period does not apply to many patients with long-term symptoms. The program also addresses the mental health aspect of recovery, providing support and maintaining a sense of hope for patients dealing with protracted symptoms. The terms "long haulers" and "long-termers" have emerged to describe these patients, but the implications of permanent symptoms are not always accurate or helpful. The Yale team plans to follow patients' progress for at least a year to gain a more comprehensive understanding of the long-term effects of COVID-19.
 
@@ -17,7 +17,7 @@ The COVID-19 pandemic has had far-reaching impacts on global society, and one co
 Article 3 of 10
 Title: Communication about COVID-19 from Canadian provincial chief medical officers of health: a qualitative study
 Publisher: CMAJ Open
-Trusted: False
+Trusted: True
 Posted: 1 day ago
 
 Article 4 of 10
@@ -29,7 +29,7 @@ Posted: 2 days ago
 Article 5 of 10
 Title: Keeping campus SeQure
 Publisher: Queen's University
-Trusted: False
+Trusted: True
 Posted: 2 days ago
 Queen's University has released a COVID-19 assessment tool as an addition to its mobile safety app, SeQure, to enhance the safety of its campus community. The app asks users about symptoms, travel history, and possible contact with positive COVID-19 cases. Based on the responses, it indicates if it is safe for the user to proceed with their visit to the campus. The app also collects information on the user's planned building visits and contact number to facilitate contact tracing if needed. The university strongly recommends that all individuals on campus use the SeQure app to help mitigate the potential spread of COVID-19. This tool is part of Queen's larger return-to-campus plan, which includes remote learning, reduced residence capacity, mandatory masks, physical distancing, and an on-campus COVID-19 testing center. The app can be downloaded on iOS or Android devices through the Campus Security website or app stores. By using the SeQure app and following the university's safety protocols, Queen's University aims to ensure a gradual and safe return to normal operations while prioritizing the health and well-being of its community.
 

@@ -540,10 +540,29 @@ def prepare_articles(file: str, keywords: str or list or None = "COVID-19", max_
 
 
 if __name__ == '__main__':
-    t = ["CDC", "Canada.ca", "Statistique Canada", "AFP Factcheck", "World Health Organization (WHO)",
-         "Doctors Without Borders", "Government of Nova Scotia", "Middlesex-London Health Unit", "GOV.UK",
+    t = ["CDC", "Canada.ca", "Statistique Canada", "AFP Factcheck", "World Health Organization (WHO)", "BC Gov News"
+         "Doctors Without Borders", "Government of Nova Scotia", "Middlesex-London Health Unit", "GOV.UK", "FDA.gov",
          "Government of B.C.", "McGill University", "Wilfrid Laurier University", "Government of Ontario News",
-         "Ontario COVID-19 Science Advisory Table", "CMAJ", "The White House", "University of Toronto",
-         "Instituts de recherche en santé du Canada", "National Institutes of Health (NIH) (.gov)",
-         "Mental Health Commission of Canada"]
-    prepare_articles("Data/Dates/COVID Ontario.txt", trusted=t, delay=5)
+         "Ontario COVID-19 Science Advisory Table", "CMAJ", "The White House", "University of Toronto", "Doctors of BC",
+         "Instituts de recherche en santé du Canada", "National Institutes of Health (NIH) (.gov)", "Boston.gov",
+         "Mental Health Commission of Canada", "Alberta Health Services", "Algonquin College", "Boston University",
+         "BC Centre for Disease Control", "Bureau of Labor Statistics", "CAMH", "CMAJ Open", "Carleton Newsroom",
+         "Canadian Medical Association", "Canadian Red Cross", "City of Calgary Newsroom", "Cornell Chronicle",
+         "Faculty of Health Sciences | Queen's University", "Federal Reserve", "Folio - University of Alberta",
+         "Gouvernement du Québec", "Government of Newfoundland and Labrador", "Government of Northwest Territories"
+         "Government of Saskatchewan", "Government of Yukon", "Hamilton Health Sciences", "Harvard Gazette",
+         "Harvard Health", "Heart and Stroke Foundation of Canada", "Institut national de santé publique du Québec",
+         "JEMS (Journal of Emergency Medical Services)", "Johns Hopkins Bloomberg School of Public Health", "MIT News",
+         "Johns Hopkins Medicine", "King's University College", "Liberal Party of Canada", "McGill Newsroom",
+         "McGill Reporter", "McGill University Health Centre", "McMaster COVID-19", "Niagara Health", "UBC News",
+         "McMaster Faculty of Health Sciences", "National Cancer Institute (.gov)", "Pan American Health Organization",
+         "National Heart, Lung, and Blood Institute", "National Human Genome Research Institute", "Science", "UC Davis",
+         "National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)", "Prime Minister of Canada",
+         "Queen's University", "Scientific American", "Senate of Canada", "Stanford Medical Center Report", "Statista",
+         "U.S. Census Bureau", "UBC Faculty of Medicine", "UBC Okanagan News", "UC Davis Health", "UC San Diego Health",
+         "UC San Francisco", "University of Alberta", "University of Calgary", "University of Guelph News", "The BMJ",
+         "University of Kansas Medical Center", "University of Minnesota Twin Cities", "University of Utah Health Care",
+         "University of Victoria", "University of Waterloo", "University of Winnipeg News", "Université de Montréal",
+         "Washington University School of Medicine in St. Louis", "Western News", "Yale Medicine", "news.gov.mb.ca",
+         "Wexner Medical Center - The Ohio State University", "Yale School of Medicine", "hss.gov.nt.ca"]
+    prepare_articles("Data/Dates/COVID Ontario.txt", trusted=t, delay=5, max_length=25000)

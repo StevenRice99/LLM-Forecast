@@ -30,7 +30,7 @@ Here is a summary of the article: According to new modelling, COVID-19 hospitali
 Article 5 of 10
 Title: UBCO researchers test alternate COVID-19 screening method
 Publisher: UBC Okanagan News
-Trusted: False
+Trusted: True
 Posted: 2 days ago
 Here is a summary of the article: Researchers at UBC Okanagan have developed a new method for COVID-19 testing using artificial intelligence and X-ray images, called CORONA-Net. The viral test and the antibody test are the two prevalent methods for COVID-19 testing, but they have limitations such as cost and availability, especially in countries without extensive PCR testing capacity. As a solution, CORONA-Net uses chest X-ray images and deep learning neural networks to detect COVID-19 infections quickly and accurately. According to the World Health Organization, chest imaging is an effective method for detecting COVID-19-related clinical symptoms. CORONA-Net can differentiate between X-ray images of individuals with COVID-19 and those without the disease, thanks to datasets of X-rays from individuals with COVID-19-induced pneumonia, pneumonia caused by other diseases, and healthy individuals. The system has achieved over 95% accuracy in classifying COVID-19 cases from digital chest X-ray images, and its accuracy will continue to improve as the dataset expands. CORONA-Net can also self-improve and learn over time, increasing its sensitivity and positive predictive value. The system has shown 100% sensitivity to the COVID-19 class, 95% sensitivity to the pneumonia class, and 95% sensitivity to the normal class in testing. CORONA-Net offers a valuable tool for diagnosing COVID-19 using chest X-rays, providing accurate and promising results for healthcare systems, especially in challenging-to-test individuals. The system has been published in the Journal of Imaging and cited several times, indicating its potential impact and usefulness in the ongoing pandemic.
 
@@ -51,7 +51,7 @@ The development of mRNA vaccines for COVID-19 was not rushed and is based on dec
 Article 8 of 10
 Title: Researchers confirm how to decontaminate and reuse masks during COVID-19 pandemic
 Publisher: University of Alberta
-Trusted: False
+Trusted: True
 Posted: 5 days ago
 The study reveals two effective methods for sterilizing disposable masks: heat treatment and methylene blue treatment with light. These methods can potentially allow healthcare workers to reuse masks, especially in areas with limited resources. Both methods effectively inactivated the SARS-CoV-2 virus on various types of masks, including N95 respirators and cotton masks. The heat treatment involved exposing masks to 65-75 degrees Celsius in humid air for 15 minutes, while the methylene blue treatment involved using the compound commonly used in blood banks along with bright light. The latter method may be slightly preferable as heat can damage mask elastic straps. This study provides valuable guidance for health authorities, ensuring that any treatment does not compromise the protective qualities of the masks. Ensuring effective sterilization of masks can help reduce the risk of COVID-19 transmission among healthcare workers and alleviate PPE shortages in some regions. While the focus is on mask sterilization, this does not provide a full picture of COVID-19 hospitalizations, which are influenced by various factors, including vaccination rates, public health measures, and the availability of intensive care resources.
 

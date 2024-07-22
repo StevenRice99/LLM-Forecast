@@ -24,7 +24,7 @@ The province of British Columbia is preparing to offer COVID-19 vaccinations to 
 Article 4 of 10
 Title: COVID-19 Antibodies From Eggs
 Publisher: UC Davis
-Trusted: False
+Trusted: True
 Posted: 3 days ago
 Researchers at the University of California, Davis, have discovered a method to produce antibodies to the SARS-CoV-2 spike protein using hen eggs. The antibodies, known as IgY, are comparable to IgG in humans and do not trigger allergic reactions when injected into the body. This discovery could lead to a low-cost and efficient way to treat and prevent COVID-19, especially in those at high risk of exposure. The team, led by Professor Rodrigo Gallardo, immunized hens with vaccines based on the SARS-CoV-2 spike protein and found antibodies in both the blood samples and egg yolks of the hens. While antibodies from the serum were more effective, the eggs still showed promise as a potential source of COVID-19 antibodies. This development could be a significant step forward in the fight against the virus and its variants, offering a new avenue for prevention and treatment.
 
@@ -51,7 +51,7 @@ Posted: 4 days ago
 Article 8 of 10
 Title: Covid-19 Shutdowns Disproportionately Harmed Women
 Publisher: Johns Hopkins Bloomberg School of Public Health
-Trusted: False
+Trusted: True
 Posted: 5 days ago
 The article discusses the secondary impacts of the COVID-19 pandemic response strategies on women, highlighting several key areas of concern. Here are the critical facts and findings: Lockdowns at the pandemic's start saved countless lives by slowing virus transmission. However, the effects of these measures disproportionately impacted women in various domains, including economic, social, health, and security. Infectious disease outbreaks historically increase the risk of domestic violence against women, as seen in Nigeria during its COVID-19 lockdowns. The pandemic also exacerbated mental health issues, particularly for female frontline workers struggling to balance work and caregiving. Reductions in maternal and reproductive health services led to increases in unintended pregnancies and maternal morbidity and mortality, especially in countries like Brazil. School closures pushed many girls into early marriage and limited their educational and career aspirations. Women in the workforce were disproportionately affected by job losses, especially in service industries, with slower employment rebounds compared to men. Canada's Gender-Based Analysis Plus policy approach considered gender issues and increased funding for relevant support. Gender experts offer recommendations for addressing gender-based violence before, during, and after health crises, emphasizing the need for funding, support, and community coordination. Looking forward, researchers are optimistic about the increased collaboration and data sharing, aiming to influence policymakers and advocacy organizations to incorporate gender considerations in future crisis responses. These findings underscore the critical importance of incorporating gender-responsive strategies into pandemic preparedness, response, and recovery plans to mitigate the disproportionate impacts on women and promote more effective and equitable crisis management.
 

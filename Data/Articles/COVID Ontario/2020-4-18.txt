@@ -3,13 +3,13 @@ Below are 10 news articles from the past 7 days regarding COVID-19 to help guide
 Article 1 of 10
 Title: How does coronavirus kill? Clinicians trace a ferocious rampage through the body, from brain to toes
 Publisher: Science
-Trusted: False
+Trusted: True
 Posted: 1 day ago
 
 Article 2 of 10
 Title: International consortium investigates overactive immune cells as cause of COVID-19 deaths
 Publisher: McGill Newsroom
-Trusted: False
+Trusted: True
 Posted: 1 day ago
 The article discusses how a group of international medical researchers is investigating the role of Neutrophil Extracellular Traps (NETs) in causing severe cases of COVID-19. NETs are web-like structures released by white blood cells called neutrophils to trap and kill bacteria, but they can also cause damage to the lungs and other organs in cases of Acute Respiratory Distress Syndrome (ARDS), which is a late and difficult-to-manage stage of COVID-19 infection. The consortium of researchers, called the NETwork, proposes that excess NETs may play a significant role in the severity of COVID-19 symptoms. If this hypothesis is confirmed through further studies, it could lead to new treatment avenues for COVID-19 patients using existing treatments for other NET and neutrophil-driven diseases. This may reduce the need for invasive mechanical ventilation and improve patient outcomes. The article also highlights the institutions involved in the NETwork and provides an overview of their respective contributions to biomedical research.
 
@@ -29,13 +29,13 @@ This article from Statistics Canada examines the potential impact of school clos
 Article 5 of 10
 Title: COVID-19: Infection prevention and control
 Publisher: Institut national de santé publique du Québec
-Trusted: False
+Trusted: True
 Posted: 4 days ago
 
 Article 6 of 10
 Title: Changing travel trends during COVID-19
 Publisher: City of Calgary Newsroom
-Trusted: False
+Trusted: True
 Posted: 4 days ago
 Here is a summary of the article: In response to the COVID-19 pandemic, Calgary activated its Municipal Emergency Plan and began collecting travel data to understand the impact of physical distancing and closures on transportation. The data reveals a decrease in traffic, particularly on roads leading to downtown Calgary, with a 60% decline. However, roads serving industrial areas have seen a lesser decrease, highlighting the continued operation of essential businesses. Interestingly, the number of heavy trucks has remained consistent, emphasizing the importance of supply chains. To accommodate Calgarians' outdoor activities while maintaining physical distance, The City's Transportation Department closed lanes on select roadways, creating "adaptive roadways." Ekke Kok, Manager of Transportation Data and Forecasting, emphasizes the importance of monitoring the transportation system to ensure its effectiveness and to identify future travel behavior trends post-pandemic. The City of Calgary will continue to collect and analyze travel data to support essential services and provide a safe transportation network. The historical traffic data is available through the CalTRACS online tool, with a detailed report on March travel trends accessible at Calgary.ca/transportationdata. To forecast COVID-19 hospitalizations, the consistent flow of heavy trucking traffic indicates that supply chains are intact, which can help ensure access to essential medical supplies and equipment. However, the increase in pathway network usage and "adaptive roadways" may impact hospitalization rates if physical distancing measures are not effectively maintained.
 

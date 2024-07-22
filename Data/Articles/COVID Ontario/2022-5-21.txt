@@ -44,7 +44,7 @@ The article profiles Dr. Pieter Cullis, a 75-year-old biochemist and founder of 
 Article 7 of 10
 Title: Hand Sanitizers and COVID-19
 Publisher: FDA.gov
-Trusted: False
+Trusted: True
 Posted: 4 days ago
 Here is a summary of the article: The article provides answers to frequently asked questions about hand sanitizer and COVID-19. Here are the key points: The best way to prevent COVID-19 is by getting vaccinated and following CDC guidelines, including handwashing with plain soap and water, covering your mouth and nose with a mask, and social distancing. Hand sanitizers that contain at least 60% alcohol are effective against COVID-19 when soap and water are not available. It is important to read and follow the Drug Facts label on hand sanitizer products, especially regarding use in children. Hand sanitizers are flammable and should be stored out of reach and sight of children. Ingesting hand sanitizer can cause alcohol poisoning in children, so it is crucial to keep it out of their reach and monitor their use. The FDA discourages the use of sanitation tunnels that spray disinfectant onto humans, as there is a lack of data on their effectiveness and they can cause skin, eye, and airway irritation. Only ethanol (ethyl alcohol) and isopropyl alcohol (isopropanol or 2-propanol) are permitted as active ingredients in hand sanitizers. Methanol and 1-propanol are toxic and should not be used. The FDA provides a list of hand sanitizers with potential methanol contamination, and it is important to check this list regularly and dispose of any affected products immediately. If you have been exposed to hand sanitizer containing methanol and experience symptoms, seek immediate medical treatment. Regarding forecasting COVID-19 hospitalizations, the article does not provide specific information. However, the CDC is a reliable source for COVID-19 data and trends, including hospitalization rates. You can visit the CDC website for the latest updates and resources on COVID-19.
 
@@ -64,6 +64,6 @@ Posted: 5 days ago
 Article 10 of 10
 Title: AI models identify COVID-19 patients at the greatest risk of death, injury | Waterloo News
 Publisher: University of Waterloo
-Trusted: False
+Trusted: True
 Posted: 5 days ago
 Researchers at the University of Waterloo have developed new AI models that can predict which COVID-19 patients are at the highest risk of dying or developing kidney injuries. By analyzing clinical and biochemical data, the models can identify vulnerable patients and help doctors prioritize care. The models have been designed using explainable AI technology, which means they explain the indicators used to make predictions, such as serum ferritin levels, heart rate, and blood pressure. This transparency is key to giving doctors confidence in acting on the models' findings. The research team plans to test the models in clinical settings to further improve their accuracy, and they have made their work openly available to the global scientific community. With hospitals overwhelmed by the pandemic, these AI models could help healthcare workers provide efficient and effective care, reducing both the burden on healthcare systems and costs. The AI models are expected to be transferable to other diseases and conditions as well, with researchers already exploring their use beyond COVID-19.

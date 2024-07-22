@@ -23,7 +23,7 @@ The article discusses the potential long-term effects of the COVID-19 pandemic, 
 Article 4 of 10
 Title: What will our cities look like after COVID-19?
 Publisher: UBC News
-Trusted: False
+Trusted: True
 Posted: 2 days ago
 The COVID-19 pandemic has had a significant impact on cities and urban life, and experts are analyzing the implications of these changes for city planning and space design. Some of the most striking immediate impacts of the pandemic on global cities include a decrease in pedestrian traffic, particularly in areas associated with commercial activity, and a transformation of city building, design, energy flows, mobility patterns, and transportation systems. These changes may be temporary or permanent, with some cities accelerating existing plans and others experimenting with new approaches. Over the longer term, cities may implement low-cost and temporary street calming and pedestrianization projects, re-design streets to accommodate increased demand for curbside parking due to online shopping and food delivery, and change the look and feel of tourist-reliant areas. The pandemic may also have a lasting impact on our sense of place and space, potentially making it more difficult for spontaneous social interactions and limiting the development of new relationships. However, it also presents an opportunity to examine the links between urban planning, public space, and wellbeing, and to make informed decisions about building healthier cities. Additionally, the standard social distancing protocols have influenced the transformation of cities, with creative and innovative adaptations being made to systems, behaviors, and built spaces.
 
@@ -37,14 +37,14 @@ Here is a summary of the article, along with important facts to help forecast CO
 Article 6 of 10
 Title: Redesigning Canada for Physical Distancing and COVID-19
 Publisher: Queen's University
-Trusted: False
+Trusted: True
 Posted: 3 days ago
 As Canada gradually reopens during the COVID-19 pandemic, urban planners and policymakers are modifying cities to accommodate physical distancing and curb the virus's spread. The article highlights Queen's Geography and Planning Professor John Meligrana's study to identify successful policies and protocols implemented by various cities. The research will be compiled into a report shared with urban planners and municipal leaders across Canada to aid in safe reopening. Key points from the article include: Public health officials emphasize physical distancing as a crucial measure against COVID-19, and urban planners play a vital role in designing spaces that facilitate this. Professor Meligrana's report aims to provide guidance on achieving physical distancing in densely populated Canadian cities, potentially saving lives during the pandemic. The project is funded by Rapid Response, a Queen's initiative supporting COVID-19 countermeasure research. The research team will examine issues related to public places, transportation, and vulnerable communities disproportionately affected by the pandemic. One emerging trend is the concept of "quiet streets," where cities close roads to create more space for pedestrians due to reduced traffic. However, this approach faced backlash in Kingston, underscoring the importance of understanding the lessons learned from such initiatives. This article underscores the ongoing efforts to adapt urban environments to the challenges posed by COVID-19, with a focus on physical distancing as a key strategy to mitigate the virus's spread. The research initiative aims to provide actionable insights to urban planners and policymakers, helping them make informed decisions to protect public health and safety during the pandemic.
 
 Article 7 of 10
 Title: PAHO Director warns of disruptions in regular health services due to COVID-19
 Publisher: Pan American Health Organization
-Trusted: False
+Trusted: True
 Posted: 4 days ago
 The COVID-19 pandemic has disrupted health services in the Americas, with over 9.7 million cases and 365,000 deaths as of August 2020, according to the Pan American Health Organization (PAHO). Health workers are being redirected to care for COVID-19 patients, and people are hesitant to seek routine care due to infection fears. There has been a halt in routine vaccination campaigns, diabetes and hypertension programs, and pregnancy-related visits, impacting maternal and child health. Countries need to adapt and ensure primary health services continue alongside the COVID-19 response, including telemedicine and community outreach. PAHO emphasizes that countries must balance reopening economies with protecting public health. An integrated approach that offers COVID-19 testing, contact tracing, and other essential services is crucial. Investments in primary health care improve efficiency, reduce costs, and expand hospital capacity.
 

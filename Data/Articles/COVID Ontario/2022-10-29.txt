@@ -38,7 +38,7 @@ Here is a summary of the article, including key facts that could help forecast C
 Article 6 of 10
 Title: Is the COVID-19 pandemic over, or not?
 Publisher: Harvard Health
-Trusted: False
+Trusted: True
 Posted: 3 days ago
 
 Article 7 of 10

@@ -10,7 +10,7 @@ COVID-19 and shingles are two separate viral infections with distinct causes. CO
 Article 2 of 10
 Title: Does COVID-19 damage the brain?
 Publisher: Harvard Health
-Trusted: False
+Trusted: True
 Posted: 3 days ago
 Here is a summary of the article: The article by Dr. Anthony L. Komaroff provides an overview of the factors that can help forecast COVID-19 hospitalizations. Here are the key points: Hospitalization rates: Komaroff mentions that the hospitalization rate for COVID-19 patients has decreased over time, likely due to improved treatments, the availability of vaccines, and the changing nature of the virus itself. Vaccination status: Vaccination against COVID-19 significantly reduces the risk of severe illness and hospitalization. The article emphasizes that unvaccinated individuals are at a much higher risk of hospitalization compared to those who are fully vaccinated or boosted. Age: Older individuals are at a higher risk of severe COVID-19 illness requiring hospitalization. The risk increases particularly after age 50, and more steeply after age 65. Pre-existing medical conditions: People with certain underlying medical conditions are more likely to experience severe COVID-19 illness and require hospitalization. These conditions include obesity, diabetes, heart disease, lung disease, kidney disease, and a weakened immune system. Regional differences: Hospitalization rates can vary by region due to factors such as vaccination rates, the prevalence of certain medical conditions, and the availability of healthcare resources. Healthcare system capacity: The capacity and strain on healthcare systems can impact hospitalization rates. Limited resources, such as ICU beds and ventilators, may affect the ability to admit and treat COVID-19 patients effectively. Virus variants: New variants of the COVID-19 virus may have different levels of severity and transmissibility. Komaroff highlights the importance of monitoring emerging variants and their potential impact on hospitalization rates. Public health measures: Adherence to public health measures, such as mask-wearing, social distancing, and hand hygiene, can influence hospitalization rates by affecting the spread of the virus. In conclusion, forecasting COVID-19 hospitalizations depends on various factors, including vaccination status, age, underlying health conditions, regional differences, healthcare system capacity, virus variants, and public health measures. By considering these factors, healthcare professionals and public health officials can better prepare for and manage the impact of COVID-19 on healthcare systems.
 
@@ -45,7 +45,7 @@ Unfortunately, the provided text could not be processed. Please try your request
 Article 7 of 10
 Title: Telemedicine perceptions and experiences of socially vulnerable households during the early stages of the COVID-19 pandemic: a qualitative study
 Publisher: CMAJ Open
-Trusted: False
+Trusted: True
 Posted: 3 days ago
 
 Article 8 of 10

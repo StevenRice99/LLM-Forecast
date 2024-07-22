@@ -17,7 +17,7 @@ The article introduces a portable testing technology, called a "lab-in-a-box," d
 Article 3 of 10
 Title: Resources for Health Care Workers During COVID-19
 Publisher: CAMH
-Trusted: False
+Trusted: True
 Posted: 3 days ago
 
 Article 4 of 10
@@ -51,7 +51,7 @@ Here is a summary of the article: The Guelph Police Service is working collabora
 Article 8 of 10
 Title: AHS partners with Spartan Bioscience to enable rapid testing for COVID-19
 Publisher: Alberta Health Services
-Trusted: False
+Trusted: True
 Posted: 5 days ago
 Here is a summary of the article: Alberta Health Services (AHS) has partnered with Canadian technology company Spartan Bioscience Inc. to bring faster and more convenient COVID-19 testing to Alberta, especially in rural and remote communities. As part of the $9.5 million contract, AHS will receive 250 handheld testing devices and 100,000 testing kits, which will be distributed to healthcare facilities outside of Calgary and Edmonton, with the first shipment arriving next month. The innovative handheld device can confirm COVID-19 test results in under an hour, eliminating the need for lab samples to travel, which is often a challenge in remote areas. This technology will supplement AHS' current lab testing and alleviate pressure on frontline workers and major labs. Health Canada is expected to approve the rapid test kits within weeks, and AHS will validate their accuracy before deployment. This partnership reflects Alberta's proactive response to the pandemic, with the province already boasting one of the highest rates of testing per capita in the world and the first online assessment tool for COVID-19 in Canada. This initiative aims to maintain Alberta's rapid testing pace, enhance contact tracing, guide appropriate care and isolation, and ultimately reduce the further spread of COVID-19.
 

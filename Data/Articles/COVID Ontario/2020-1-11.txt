@@ -3,7 +3,7 @@ Below are 10 news articles from the past 7 days regarding COVID-19 to help guide
 Article 1 of 10
 Title: China releases genetic data on new coronavirus, now deadly
 Publisher: University of Minnesota Twin Cities
-Trusted: False
+Trusted: True
 Posted: Today
 Here is a summary of the article, with important facts to help forecast COVID-19 hospitalizations:Health officials in Wuhan, China, reported an outbreak of a novel coronavirus (nCoV), reducing the number of cases to 41 and announcing the first death. Chinese researchers also released the virus's genetic sequence. The World Health Organization (WHO) released guidance documents, including travel and lab testing advice. Michael Osterholm, a public health expert, noted that there is currently no evidence of human-to-human spread, but the focus is on identifying the animal source and assessing the risk of further outbreaks.Chinese scientists found that nCoV is similar to the SARS-related bat coronavirus but cautioned that it may not originate from bats. The gene sequences may help determine the size of the animal source population. Researchers are also working on testing methods, with one expert suggesting that the nucleocapsid protein could be used to screen patient sera for exposure.The WHO provided preliminary guidance, urging international travelers to practice precautions but not restricting travel. They also released technical documents covering case definition, laboratory guidance, infection prevention, and other topics. The article includes links to additional information, such as the FluTrackers thread and the WHO's coronavirus page.This summary provides an overview of the emerging nCoV outbreak, the response from health officials, and the scientific efforts to understand and contain the virus. It highlights the key facts and guidance to help forecast and manage COVID-19 hospitalizations.
 
@@ -24,7 +24,7 @@ Here is a summary of the article:Advancing age remains a significant risk factor
 Article 4 of 10
 Title: As Taiwan’s president, alumna leads fight against COVID-19
 Publisher: Cornell Chronicle
-Trusted: False
+Trusted: True
 Posted: 5 days ago
 Taiwan has been one of the most successful countries in the world at containing the COVID-19 outbreak, with only 812 cases and seven deaths as of January 4, 2021. President Tsai Ing-wen attributes this success to several factors, including early and prudent action, rapid response, and the country's experience in disease prevention from previous outbreaks. Taiwan implemented a range of measures such as border quarantine, early diagnosis, contact tracing, and public education programs, which helped prevent the spread of the virus without the need for a full national lockdown.President Tsai highlights the importance of creating a shared sense of purpose and inspiring unity among the people of Taiwan. The government provided timely and transparent information, holding daily press conferences and utilizing social media to keep the public informed and build trust. Taiwan's existing national healthcare system and advanced digital capabilities also played a crucial role in tracking and monitoring the virus.The country also partnered with domestic manufacturers to become the world's second-largest producer of face masks, ensuring a sufficient supply for its citizens and donating to countries in need. President Tsai's legal background helped her make logical and analytical policy decisions while ensuring that pandemic-related policies respected personal privacy and human rights. She also emphasizes that effective leadership requires a range of character traits and skills that transcend gender, and credits the contributions of all Taiwanese people in the country's successful pandemic response.
 
@@ -52,7 +52,7 @@ Hot dog sales have increased significantly during the COVID-19 pandemic, with sa
 Article 8 of 10
 Title: Concerning 911 Trends for EMS Calls During COVID-19 Pandemic
 Publisher: JEMS (Journal of Emergency Medical Services)
-Trusted: False
+Trusted: True
 Posted: 6 days ago
 
 Article 9 of 10

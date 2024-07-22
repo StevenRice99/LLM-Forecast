@@ -24,7 +24,7 @@ The COVID-19 pandemic has had a significant impact on essential health services 
 Article 4 of 10
 Title: University of Victoria
 Publisher: University of Victoria
-Trusted: False
+Trusted: True
 Posted: 1 day ago
 The University of Victoria (UVic) has funded its first round of the Research Accelerator Fund (RAF) to support COVID-19 research and build more resilient communities. One project, led by Dr. Leigh Anne Swayne, focuses on understanding the adverse effects of SARS-CoV-2 infection on the brain, including loss of smell and "brain fog." Another project, led by statistician Xuekui Zhang, involves studying risk factors for COVID-19 and forecasting infection counts by modeling US infection data and applying it to Canadian infection rates. Brianna Turner and Theone Paterson are leading a nationwide study on the impact of COVID-19 and preventative measures on Canadians' well-being, in collaboration with researchers in the UK. Other UVic research projects explore the mental health needs of older people and the intersection of the COVID-19 pandemic with the overdose public health emergency in BC. Karen Urbanoski and Bernie Pauly are part of a team evaluating the rollout of "safer supply" prescribed alternatives to BC's toxic illicit drug supply, providing evidence to inform pandemic planning and emergency response. Karen Kobayashi leads a project on assisted living technologies (ALTs) for frail and vulnerable seniors to improve their health and quality of life. Claire Cutler's research identifies legal and political vulnerabilities in the supply chains for Personal Protective Equipment (PPE) in Canada and provides policy prescriptions for enhanced security.
 

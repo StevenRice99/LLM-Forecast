@@ -52,7 +52,7 @@ The article discusses a study that found a link between physical activity and re
 Article 8 of 9
 Title: COVID-19 Lung Damage
 Publisher: Johns Hopkins Medicine
-Trusted: False
+Trusted: True
 Posted: 5 days ago
 Here is a summary of the article: COVID-19 can cause a range of shortand long-term lung problems, including pneumonia, acute respiratory distress syndrome (ARDS), bronchitis, and sepsis. These complications can lead to breathing difficulties, lung failure, and even death. Older individuals and those with pre-existing health conditions, such as COPD or heart disease, are at a higher risk of severe disease and subsequent lung damage. Key points to help forecast COVID-19 hospitalizations include: Disease severity: Severe cases of COVID-19 are more likely to result in long-term lung damage. Health conditions: Individuals with pre-existing health problems, such as COPD or heart disease, are at an increased risk of severe disease and hospitalization. Treatment: Timely and appropriate treatment can minimize lung damage and improve long-term lung health. Superinfections: About one in four patients with severe COVID-19 also develop superinfections, which can lead to additional lung damage and prolonged healing times. Prevention: Proper nutrition, hydration, and vaccination can help reduce the risk of severe disease and lung damage. The article also emphasizes the importance of monitoring and managing chronic health conditions, as well as taking preventive measures to avoid infection, to reduce the likelihood of severe lung damage from COVID-19.
 

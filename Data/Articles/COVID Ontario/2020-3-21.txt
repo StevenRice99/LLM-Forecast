@@ -30,7 +30,7 @@ The article offers guidance for businesses on how to navigate the COVID-19 crisi
 Article 5 of 10
 Title: Malicious COVID-19 Android App is Ransomware
 Publisher: King's University College
-Trusted: False
+Trusted: True
 Posted: 3 days ago
 The article describes a malicious Android app that takes advantage of people's desire to track COVID-19 cases. The app, called "CovidLock," locks the user's phone and demands a ransom of $100 in bitcoin to unlock it, threatening to erase all data if the ransom is not paid within 48 hours. Fortunately, a decryption key has been obtained to unlock frozen devices. This incident highlights the fact that cybercriminals are exploiting the COVID-19 crisis for financial gain. Users should be cautious when installing mobile applications, especially from unofficial app stores, as similar malware may find its way onto legitimate app stores as well.
 

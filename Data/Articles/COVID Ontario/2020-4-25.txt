@@ -51,7 +51,7 @@ Here is a summary of the article: The article discusses a research project led b
 Article 8 of 10
 Title: Making a difference: UBC students help frontline medical workers during COVID-19
 Publisher: UBC Faculty of Medicine
-Trusted: False
+Trusted: True
 Posted: 5 days ago
 
 Article 9 of 10

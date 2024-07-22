@@ -30,7 +30,7 @@ Here is a summary of the article: Ontario's healthcare system faced significant 
 Article 5 of 10
 Title: AI technology identifies viable COVID-19 medication prototypes
 Publisher: UBC Faculty of Medicine
-Trusted: False
+Trusted: True
 Posted: 4 days ago
 
 Article 6 of 10
@@ -49,7 +49,7 @@ The article discusses the potential long-term health impacts and rehabilitation 
 Article 8 of 10
 Title: Colleagues step up to support COVID-19 care units
 Publisher: Alberta Health Services
-Trusted: False
+Trusted: True
 Posted: 5 days ago
 Here is a summary of the article: During the fourth wave of the COVID-19 pandemic, healthcare systems were overwhelmed, leading to a urgent need for more resources, including staff, to increase ICU capacity. Dr. Debakanta Jena, an orthopedic surgeon at Medicine Hat Regional Hospital, volunteered to assist in the COVID-19 acute care unit, despite it being outside his usual area of expertise. He was motivated by a sense of duty and respect for his colleagues in acute care. Registered Nurse Michele Welford, with 30 years of OR and ambulatory care experience, also joined the COVID-19 unit, describing the experience as heartbreaking due to the severity of patients' illnesses. Dr. Carl Nohr, associate zone medical director in the south zone, expressed gratitude for the support of volunteers like Jena, which helped lower the pressure on the healthcare team. This article highlights the dedication and selflessness of healthcare professionals who stepped up during a challenging time, adapting their skills to meet the needs of COVID-19 patients and support their colleagues. Their contributions were crucial in managing the surge of hospitalizations and providing care to those in need.
 

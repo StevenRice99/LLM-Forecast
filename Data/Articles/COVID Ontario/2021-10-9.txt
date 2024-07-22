@@ -38,7 +38,7 @@ The article discusses the potential impact of the COVID-19 pandemic on global in
 Article 6 of 10
 Title: The Long History of mRNA Vaccines
 Publisher: Johns Hopkins Bloomberg School of Public Health
-Trusted: False
+Trusted: True
 Posted: 3 days ago
 The history of mRNA vaccines dates back to the 1960s when mRNA was first discovered, and research began on how to deliver it into cells in the 1970s. However, it wasn't until the COVID-19 pandemic in 2020 that the first mRNA vaccine was brought to market. The early years of mRNA research faced challenges due to the quick degradation of mRNA before it could be translated into proteins in cells. This challenge was overcome through the development of nanotechnology, creating fatty droplets (lipid nanoparticles) that protected the mRNA and allowed it to enter cells effectively. The first mRNA vaccines were developed against Ebola, but the virus's limited presence hindered commercial development in the US. With the COVID-19 pandemic, mRNA vaccine technology finally had its moment, proving safe and effective, with Pfizer's COVID-19 vaccine becoming the first mRNA product fully approved by the FDA. Now, vaccine manufacturers are exploring mRNA vaccines for other respiratory viruses and even HIV, marking a new era for vaccine technology and production.
 

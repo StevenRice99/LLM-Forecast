@@ -24,14 +24,14 @@ Canada has recently updated its guidelines on COVID-19 transmission to include t
 Article 4 of 10
 Title: UCalgary lab helps support timely COVID-19 test results for international travellers
 Publisher: University of Calgary
-Trusted: False
+Trusted: True
 Posted: 3 days ago
 The Governments of Canada and Alberta have launched a pilot project to test international travellers for COVID-19 at the Coutts border crossing and Calgary International Airport. The project, led by Alberta Health Services, Alberta Precision Laboratories, and the University of Calgary (UCalgary), aims to provide an alternative to the current 14-day quarantine requirement for international travellers while maintaining health and safety protocols. Those who test negative for COVID-19 will be allowed to leave quarantine early, provided they follow public health measures and undergo a second test 6-7 days after arrival. The University of Calgary's Hematology Translational Lab (HTL), which has expertise in molecular testing and sequencing, will analyze the samples. The lab has the capacity to process 600 samples per day using two different testing methods, with the potential to scale up if needed. The data collected will not only help identify positive cases but also provide valuable information on viral genomics, aiding in the understanding and management of different virus strains. This project is a collaborative effort to balance public health measures and travel while also generating critical data to combat COVID-19 and support Alberta's recovery plan.
 
 Article 5 of 10
 Title: UCalgary facility to further research into COVID-19 vaccine and treatments
 Publisher: University of Calgary
-Trusted: False
+Trusted: True
 Posted: 4 days ago
 The University of Calgary is establishing a Biosafety Level 3 (BSL-3) lab to enhance research capabilities and commercialization opportunities for COVID-19 vaccines and treatments. The lab will enable researchers to study the complete life cycle of the virus and its impact on the body, advancing our understanding and potentially leading to new medications and treatments. The BSL-3 lab is funded by the Government of Canada and supported by various community partners. It features specialized equipment, including high-powered microscopes, and a unique ventilation system to contain pathogens. While a COVID-19 vaccine is likely over a year away, the lab could help discover approved drugs to aid in surviving the infection. The lab will also be useful in researching other infectious diseases such as tuberculosis. The University of Calgary's research strategy for Infections, Inflammation, and Chronic Diseases in the Changing Environment (IICD) aims to address key global challenges and improve health outcomes.
 

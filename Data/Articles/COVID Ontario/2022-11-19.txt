@@ -38,14 +38,14 @@ Here is a summary of the article: The article discusses the factors that have co
 Article 6 of 9
 Title: Countries must be vigilant of “triple threat” of COVID-19, influenza and RSV as holidays approach, PAHO Director says
 Publisher: Pan American Health Organization
-Trusted: False
+Trusted: True
 Posted: 3 days ago
 The article highlights the increase in COVID-19 infections, seasonal influenza, and Respiratory Syncytial Virus (RSV) cases in the Washington D.C. region as of November 16, 2022. PAHO Director, Carissa F. Etienne, urges the implementation of preventive measures such as vaccines, surveillance, mask-wearing, and social distancing to curb the spread of these respiratory illnesses, especially with the upcoming festive period. COVID-19 cases in the region have risen by 17% in the past week, and deaths have increased in South and Central America. The reduction in testing may be hiding the true number of infections, and the rise in influenza and RSV cases is also burdening health systems. Dr. Etienne emphasizes the effectiveness of mask-wearing and social distancing in limiting the spread of respiratory diseases, including RSV, for which there is no vaccine. Genomic surveillance and vaccination campaigns against COVID-19 and influenza must be strengthened. PAHO has provided COVID-19 and influenza vaccines to Member States, and Dr. Etienne urges their utilization. Additionally, the cholera outbreak in Haiti is worsening, and vigilance against monkeypox and polio is still necessary, with polio vaccination rates remaining low. As the holiday season approaches, individuals must remain cautious and apply the lessons learned from the COVID-19 pandemic to limit the impact of severe respiratory diseases.
 
 Article 7 of 9
 Title: Provincial Government to Distribute COVID-19 Rapid Antigen Tests to Newfoundland and Labrador Residents
 Publisher: Government of Newfoundland and Labrador
-Trusted: False
+Trusted: True
 Posted: 4 days ago
 The Department of Health and Community Services will provide free COVID-19 rapid antigen tests to households in the province through Canada Post, with each household receiving two kits containing five tests in two separate shipments in November and December. These tests are intended for individuals who are exhibiting COVID-19 symptoms and should be conducted on the first day of symptoms, followed by a second test 48 hours later if the initial test is negative. Rapid antigen tests will also be made available at public libraries and MHA constituency offices. While testing is not recommended for asymptomatic individuals, including close contacts, PCR testing will still be used for outbreak management and acute care settings. Public Health urges individuals with positive rapid antigen test results to report them to aid in public health decision-making. This initiative aims to empower residents to make informed choices about their health and contribute to curbing the spread of COVID-19.
 

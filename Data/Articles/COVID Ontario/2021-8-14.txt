@@ -17,7 +17,7 @@ The University of Saskatchewan (USask) is implementing stronger vaccination and 
 Article 3 of 9
 Title: The Medical Mission and Critical Care meet the challenges of COVID-19
 Publisher: McGill University Health Centre
-Trusted: False
+Trusted: True
 Posted: 2 days ago
 The article summarizes the healthcare community's experience in Quebec, specifically at the MUHC, during the early stages of the COVID-19 pandemic. It mentions the rapid mobilization of healthcare workers to address the challenges posed by the health crisis and the need to reflect on the creative solutions and adaptations made by the teams. The article also emphasizes the opportunity for growth and learning during crises and introduces a video series exploring the lessons learned by the MUHC Medical Mission and Critical Care in navigating the pandemic. The videos in the series focus on different aspects of healthcare, including surgical, cancer care, pediatric, and neuroscience missions.
 

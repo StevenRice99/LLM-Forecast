@@ -3,7 +3,7 @@ Below are 10 news articles from the past 7 days regarding COVID-19 to help guide
 Article 1 of 10
 Title: COVID-19 research initiatives at UBC among those funded by first-time partnership
 Publisher: UBC Faculty of Medicine
-Trusted: False
+Trusted: True
 Posted: 1 day ago
 The article announces a collaboration between the Canadian federal government and various institutions, including the University of British Columbia (UBC), to fund research initiatives aimed at addressing the COVID-19 pandemic. The partnership has committed $28 million to support 47 research projects across the country. Here is a summary of the key points: The funding is provided by the Canadian Institutes of Health Research (CIHR) through its rapid research funding opportunity, which aims to address immediate needs and knowledge gaps related to COVID-19. UBC researchers have received funding for nine projects that focus on various aspects of the pandemic, including understanding the virus, improving patient care, and developing tools for public health decision-making. One of the UBC projects aims to forecast COVID-19 hospitalizations by using machine learning and health data. This project, led by UBC professor Joseph Puyat, will use data from the BC Centre for Disease Control and other sources to develop a tool that can predict the number of hospitalizations due to COVID-19. This tool can help healthcare providers and policymakers make informed decisions about resource allocation and public health measures. Other UBC projects include developing a vaccine, improving personal protective equipment (PPE), and understanding the social and economic impacts of the pandemic. The article also mentions that the partnership includes other institutions such as the Natural Sciences and Engineering Research Council of Canada (NSERC) and the Social Sciences and Humanities Research Council (SSHRC), highlighting the multidisciplinary approach to tackling the pandemic. The overall goal of the partnership is to support research that will help address the current COVID-19 crisis and improve Canada's preparedness for future pandemics. In conclusion, the article highlights the important role of research in addressing the COVID-19 pandemic and UBC's contribution to these efforts through various research initiatives, including a project focused on forecasting COVID-19 hospitalizations.
 
@@ -24,7 +24,7 @@ Since the start of the COVID-19 pandemic, there has been a surge in violent atta
 Article 4 of 10
 Title: Peak Scholar helps chart route out of COVID-19 | News
 Publisher: University of Calgary
-Trusted: False
+Trusted: True
 Posted: 2 days ago
 
 Article 5 of 10

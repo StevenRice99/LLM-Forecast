@@ -10,7 +10,7 @@ A man is suing Health PEI for breach of privacy after his medical information, i
 Article 2 of 10
 Title: Why Do Some People Get Sicker Than Others from COVID?
 Publisher: Boston University
-Trusted: False
+Trusted: True
 Posted: 1 day ago
 Florian Douam, a professor of microbiology, and Devin Kenney, a PhD student, led a study investigating why some people experience milder COVID-19 symptoms than others. They found that the balance of immune cells called macrophages might be key. Most COVID-19 deaths are caused by a hyper-immune response, where macrophages attack the body, causing excessive inflammation. The study identified 11 "protection-defining genes" that determine whether immune cells respond effectively or turn rogue. These genes were upregulated in cases of effective virus resistance. The findings could inform the development of new drugs that prime the immune system to better fight the virus. Douam and Kenney's work provides valuable insights into the molecular processes driving lung protection from COVID-19 and offers potential targets for immunotherapy strategies.
 
@@ -24,14 +24,14 @@ Here is a summary of the article: This study examines the shift in Canadians' on
 Article 4 of 10
 Title: Heart Problems after COVID-19
 Publisher: Johns Hopkins Medicine
-Trusted: False
+Trusted: True
 Posted: 2 days ago
 The article discusses the potential long-term effects of COVID-19 on the heart, including temporary or permanent heart tissue damage. Cardiologists Wendy Post and Nisha Gilotra clarify which post-COVID symptoms may indicate heart issues and provide guidance on when to seek medical attention. While a diagnosis of heart failure post-COVID is rare, people may experience heart-related symptoms such as palpitations, dizziness, chest pain, and shortness of breath. These symptoms could be related to heart problems or the overall impact of the illness and prolonged inactivity during recovery. People with severe chest pain, persistent nausea, shortness of breath, or lightheadedness should seek immediate medical help as they could be experiencing a heart attack. COVID-19 can damage the heart in several ways: Lack of oxygen due to lung inflammation can cause the heart to work harder, potentially leading to heart failure or tissue damage. Myocarditis, an inflammation of the heart muscle, can be caused directly by the virus or indirectly by the body's immune response. Blood vessel inflammation and damage can compromise blood flow to the heart and other organs. Cytokine Storm, a severe immune response, can lead to overwhelming inflammation, damaging healthy tissues and organs, including the heart. Stress cardiomyopathy, caused by viral infections, can affect the heart's ability to pump blood effectively. The article also addresses the impact of COVID-19 on existing heart conditions, the possibility of heart problems surfacing long after recovery, and the unknown long-term effects of the disease on heart health. It emphasizes the need for further research and highlights the gradual nature of COVID-19 recovery, recommending physical therapy, breathing exercises, and patience during the healing process.
 
 Article 5 of 10
 Title: $6.7 million to study the impacts of COVID-19 on children
 Publisher: McGill University Health Centre
-Trusted: False
+Trusted: True
 Posted: 2 days ago
 Health Minister Jean-Yves Duclos visited Montreal to announce a $6.7 million investment to create a nationwide research platform called POPCORN to understand COVID-19's impact on youth. The platform will monitor infections, vaccinations, and the social effects of the disease on children and youth. The principal investigator of the POPCORN project is Dr. Jesse Papenburg, and it includes 16 research sites across Canada. Minister Duclos also visited the Research Institute of the MUHC to congratulate Jean-Jacques Lebrun and his team for their Quebec Science Award. Dr. Lebrun presented his research on triple-negative breast cancers and precision medicine in oncology. The visit highlighted the RI-MUHC's role in innovation, translational research, and training the next generation of health researchers.
 
@@ -51,7 +51,7 @@ Here is a summary of the article: Even though masks are most effective when ever
 Article 8 of 10
 Title: E-Commerce Sales Surged During the Pandemic
 Publisher: U.S. Census Bureau
-Trusted: False
+Trusted: True
 Posted: 3 days ago
 The COVID-19 pandemic has significantly impacted consumer behavior, with a shift towards online shopping, grocery delivery, and curbside pickup. E-commerce has grown, and brands are adjusting their strategies accordingly. Forecasting COVID-19 hospitalizations can be influenced by these behavioral changes, as indoor activities and close contact increase the risk of infection and transmission. Avoiding indoor venues and malls, opting for grocery delivery or pickup, and working from home can help reduce the strain on healthcare systems by lowering the infection rate and, consequently, hospitalizations. These behavioral adaptations may become crucial factors in managing and mitigating the impact of the pandemic on healthcare resources.
 

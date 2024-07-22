@@ -52,7 +52,7 @@ Here is a summary of the article: In 2021, there were over 2 million police-repo
 Article 8 of 10
 Title: Travel restrictions significantly reduced COVID-19 cases entering Canada — but insufficient to prevent new outbreaks
 Publisher: UBC Faculty of Medicine
-Trusted: False
+Trusted: True
 Posted: 4 days ago
 Here is a summary of the article: The article discusses the impact of travel restrictions on the spread of COVID-19 in Canada. It suggests that while travel restrictions implemented in the early stages of the pandemic significantly reduced the number of COVID-19 cases entering Canada, they were not enough to prevent new outbreaks. Here are some key facts from the article that could be useful for forecasting COVID-19 hospitalizations: Travel restrictions were most effective when combined with other public health measures such as testing, contact tracing, and quarantine. The number of COVID-19 cases in Canada dropped by 38% in the first week of travel restrictions and by 90% in the sixth week. However, despite these measures, new outbreaks occurred in Canada due to community spread. The study suggests that a combination of travel restrictions and robust public health measures, including rapid testing and contact tracing, are necessary to control the spread of the virus and prevent new outbreaks. The findings highlight the importance of timely and comprehensive public health measures to prevent the establishment and spread of new COVID-19 outbreaks. Overall, the article suggests that while travel restrictions can be an effective tool in reducing the spread of COVID-19, they should be combined with other public health strategies to effectively control the pandemic and forecast hospitalizations accurately.
 

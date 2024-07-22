@@ -10,7 +10,7 @@ Here is a summary of the article: Health care workers are vital to Canada's resp
 Article 2 of 9
 Title: How Red Cross is responding to COVID-19 in Manitoba
 Publisher: Canadian Red Cross
-Trusted: False
+Trusted: True
 Posted: 2 days ago
 Here is a summary of the article: The Canadian Red Cross has been actively supporting First Nation communities in Manitoba since the beginning of the COVID-19 pandemic in March 2020. They have provided various forms of assistance, often at the request of the First Nations communities or in collaboration with the Manitoba government. This includes: Vaccination support: providing vaccinators and site support for clinics in First Nation communities. Isolation supplies: distributing isolation kits and self-isolation centre supplies to communities. Outbreak support: sending teams to provide outbreak support and assistance to First Nation communities impacted by COVID-19. Lodging and essential items: helping community members who cannot self-isolate by providing lodging, transportation, food, and other essentials. Healthcare support: offering training on PPE use and disease transmission prevention to health responders and community leaders; providing teams of nurses to support hospital staff; and assisting long-term care homes with additional personnel and PPE organization and delivery. Contact tracing: working with the Manitoba government to conduct contact tracing and provide regular check-ins for those affected by COVID-19. Psychological support: offering free Psychological First Aid training to First Nations members to promote self-care and caring for others. To help forecast COVID-19 hospitalizations, the Red Cross's efforts in vaccination support and outbreak management within First Nation communities could contribute to important data and insights. Their work in contact tracing and hospital support also provides valuable information on infection rates and healthcare system capacity. Overall, the Canadian Red Cross's comprehensive support for First Nation communities in Manitoba strengthens the collective response to the pandemic and helps lay the foundation for effective COVID-19 hospitalization forecasting.
 
@@ -24,7 +24,7 @@ The article discusses the impact of school closures due to COVID-19 and the resu
 Article 4 of 9
 Title: Loss, grief and healing
 Publisher: CAMH
-Trusted: False
+Trusted: True
 Posted: 3 days ago
 
 Article 5 of 9

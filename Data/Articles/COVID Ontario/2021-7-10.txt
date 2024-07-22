@@ -17,7 +17,7 @@ Here is a summary of the article: Telehealth usage increased significantly durin
 Article 3 of 10
 Title: Five tips to avoid COVID-19 misinformation online
 Publisher: University of Calgary
-Trusted: False
+Trusted: True
 Posted: 1 day ago
 The COVID-19 pandemic has led to a rise in medical misinformation online, leading to the creation of the ScienceUpFirst movement, which aims to provide accurate and transparent information to the public. One of the members of this coalition, Dr. Jonathan N. Stea, offers five tips to help people navigate the information landscape: 1. Pause and reflect on the accuracy of content before sharing: Research shows that people often spread misinformation because they don't take the time to stop and think critically about what they're reading or hearing. 2. Improve scientific and media literacy: By understanding how science is conducted and communicated, people can better spot misinformation. This includes knowing the difference between correlation and causation and understanding the nature of clinical trials. 3. Be cautious of sensational language: Be wary of people or sources that use hype or pseudo-scientific language, such as claiming "breakthroughs" or "revolutionary treatments." This is often a red flag for misinformation. 4. Be suspicious of anecdotal evidence: Testimonials and personal stories are not a substitute for high-quality scientific evidence. Be especially cautious when encountering COVID-19 or vaccine information on social media platforms like YouTube or Facebook, which are rife with anecdotal evidence. 5. Consult trusted sources: ScienceUpFirst provides a list of credible sources on its website, including Health Canada, the CDC, and the World Health Organization. These sources provide transparent and accurate information that the public can rely on. By following these tips and improving media literacy, people can better navigate the flood of information about COVID-19 and make more informed decisions about their health.
 
@@ -44,14 +44,14 @@ Posted: 4 days ago
 Article 7 of 10
 Title: Tackling the science behind the long-term effects of COVID-19
 Publisher: UBC Faculty of Medicine
-Trusted: False
+Trusted: True
 Posted: 5 days ago
 Unfortunately, I cannot access the document you uploaded. However, based on the text included in your prompt, here is a summary: Researchers at UBC are studying the long-term effects of COVID-19, as thousands of Canadians suffer from lingering symptoms months after infection. Dr. Anita Palepu leads a national study, CANCOV, which investigates the multi-system impact of COVID-19, affecting organs such as the brain, heart, kidneys, liver, and gastrointestinal tract. Dr. Chris Carlsten's team tracks discharged patients, finding that 3/4 of hospitalized patients have symptoms for months, with lung scarring in 1/5 of cases. Dr. Teresa Liu-Ambrose examines COVID-19's impact on brain health, finding that it ranges from infection to stroke to delirium. Dr. Lakshmi Yatham explores the pandemic's psychological toll, with a 40% chance of mental disorder symptoms post-COVID-19, and works on early intervention strategies. These studies aim to improve patient care and understanding of COVID-19's long-term impacts.
 
 Article 8 of 10
 Title: Emergency Co-ordination Centre winds down as COVID-19 numbers fall
 Publisher: Alberta Health Services
-Trusted: False
+Trusted: True
 Posted: 5 days ago
 The article summarizes the transition of the Emergency Coordination Centre (ECC) in Alberta Health Services (AHS) as COVID-19 restrictions are lifted. The ECC has been a crucial part of AHS's COVID-19 response for 18 months, working with other organizations to provide an integrated response to the pandemic. Now, as the restrictions ease, the ECC is transitioning into the Readiness and Recovery Centre, managing over 3,000 COVID-19-related documents and anchoring innovative pandemic responses into the fabric of AHS. Dr. Laura McDougall, Senior Medical Officer of Health, notes that some documents will be archived and used for future communicable disease and pandemic responses. The ECC is not new to AHS and has supported responses to previous emergencies such as the H1N1 pandemic and the Fort McMurray wildfires. Looking ahead, the team remains cautious about the pandemic's global situation and is prepared to ramp up responses if needed. While there is hope and light at the end of the tunnel, the healthcare system needs to stay ready for any potential challenges.
 

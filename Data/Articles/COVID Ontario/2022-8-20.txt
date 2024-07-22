@@ -24,7 +24,7 @@ Researchers at the University of British Columbia (UBC) have discovered a "weak 
 Article 4 of 10
 Title: UBC researchers discover ‘weak spot’ across major COVID-19 variants
 Publisher: UBC Faculty of Medicine
-Trusted: False
+Trusted: True
 Posted: 2 days ago
 
 Article 5 of 10

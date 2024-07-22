@@ -23,7 +23,7 @@ From September 12 to October 20, 2020, an outbreak of COVID-19 occurred in Saska
 Article 4 of 10
 Title: COVID-19: Coughing without masks, distancing alone is not enough
 Publisher: McGill Newsroom
-Trusted: False
+Trusted: True
 Posted: 3 days ago
 The article highlights a study that found physical distancing alone is not enough to prevent the spread of COVID-19 indoors, and that mask-wearing is crucial to reducing the transmission of airborne particles. When people are unmasked, more than 70% of airborne particles can travel beyond two metres in 30 seconds, while less than 1% of particles cross this threshold when masks are worn. The study used a computer program to simulate coughing dynamics in indoor spaces, taking into account factors such as ventilation, posture, age, and gender. The results suggest that mask mandates and good ventilation are critical to curbing the spread of COVID-19, especially during the flu season and winter months when people tend to gather indoors more often. This research can inform public health guidelines and help policymakers make evidence-based decisions to protect public health.
 

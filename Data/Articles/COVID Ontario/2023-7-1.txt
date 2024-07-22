@@ -3,7 +3,7 @@ Below are 10 news articles from the past 7 days regarding COVID-19 to help guide
 Article 1 of 10
 Title: Patient-reported outcomes of neurologic and neuropsychiatric symptoms in mild COVID-19: a prospective cohort study
 Publisher: CMAJ Open
-Trusted: False
+Trusted: True
 Posted: Today
 
 Article 2 of 10
@@ -43,7 +43,7 @@ This article examines the relationship between markups, inflation, and supply an
 Article 7 of 10
 Title: Research on COVID-19 and Diabetes Sets the Stage for Care
 Publisher: National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)
-Trusted: False
+Trusted: True
 Posted: 3 days ago
 Here is a summary of the article, including key facts to aid in forecasting COVID-19 hospitalizations: Summary: The article discusses the link between diabetes and COVID-19, highlighting the increased risk of severe outcomes and complications for individuals with diabetes who contract COVID-19. It also explores the phenomenon of new-onset diabetes after COVID-19 and the potential mechanisms behind the COVID-19-diabetes relationship. The article further provides insights into the treatment and management of patients with diabetes and COVID-19, including the importance of physical activity, sleep, and nutrition. Additionally, it addresses the question of underlying mechanisms, possible drug interactions, and the risk factors for developing post-COVID diabetes. Key Facts for Forecasting COVID-19 Hospitalizations: People with diabetes who get COVID-19 are more likely to experience severe outcomes, including hospitalization, ICU admission, and premature death. Individuals with comorbidities such as heart disease, high blood pressure, or obesity are at an even higher risk of serious COVID-19 complications. COVID-19 affects the microvasculature, similar to diabetes, and can cause disrupted glucose and metabolic control in diabetic patients. Long COVID, characterized by new, ongoing, or returning symptoms at least 4 weeks after initial infection, may be more likely to develop in people with diabetes. Metformin decreased the likelihood of long COVID in adults with overweight or obesity. COVID-19 can impact the cardiovascular and microvascular systems, making physical activity, sleep management, and nutrition crucial for patients with diabetes post-COVID-19 infection. Paxlovid, a medication for acute COVID-19, has shown no clinically relevant drug interactions with common diabetes medications. The SARS-CoV-2 virus may infect pancreatic beta cells, reducing insulin secretion or causing cell death, leading to decreased insulin production. Inflammation caused by COVID-19 can also contribute to decreased insulin secretion and increased resistance to circulating insulin. The risk of new-onset diabetes increases by about 60% in individuals who have had COVID-19, and this risk is higher with more severe COVID-19 infections. COVID-19 vaccination lowers the risk of developing incident diabetes after COVID-19. Screening for diabetes in individuals who have had COVID-19, especially severe cases, is important to identify new-onset diabetes. These key facts can help forecast COVID-19 hospitalizations by identifying high-risk individuals and understanding the potential complications and treatment considerations for patients with diabetes and COVID-19.
 
@@ -64,6 +64,6 @@ COVID-19 has killed 16 more people in New Brunswick, bringing the total death to
 Article 10 of 10
 Title: Global Health Expert to Discuss COVID-19, Public Health at U of G
 Publisher: University of Guelph News
-Trusted: False
+Trusted: True
 Posted: 4 days ago
 The article discusses an upcoming public talk by Dr. Soumya Swaminathan, a renowned pediatrician and researcher, on the lessons learned from the COVID-19 pandemic for science and public health. Dr. Swaminathan, who was the inaugural chief scientist of the World Health Organization, will share insights from her extensive experience in health policy making and research, particularly in India and on tropical diseases. The talk, hosted by the University of Guelph's Canada India Research Centre for Learning and Engagement, aims to strengthen research ties between the university and India in areas such as health, nutrition, well-being, and sustainable development. The event is part of efforts to enhance collaboration through joint research, student internships, exchange programs, and other avenues. The University of Guelph is actively engaged in building relationships with India, including hosting the High Commissioner of India to Canada and the Consul General of India. The university has a significant number of international students from India and maintains various agreements with Indian higher education institutions for research and student exchange. Overall, the article highlights the importance of international collaboration in research and education, particularly in the context of global health challenges like the COVID-19 pandemic.

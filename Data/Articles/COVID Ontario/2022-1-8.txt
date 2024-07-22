@@ -24,7 +24,7 @@ The Ontario COVID-19 Science Advisory Table has released version 7.0 of its Clin
 Article 4 of 10
 Title: COVID-19 Self-Care Guide
 Publisher: Alberta Health Services
-Trusted: False
+Trusted: True
 Posted: 2 days ago
 Here is a summary of the article: The article provides guidance for individuals who are experiencing COVID-19 symptoms and recommends that they stay home and isolate themselves until they feel better and no longer have a fever without the use of fever-reducing medication. This is to prevent the potential spread of the virus to others. It is advised to call a healthcare provider or a health link if symptoms worsen. Most individuals with COVID-19 can recover at home without special treatment and can manage their mild symptoms through self-care.
 

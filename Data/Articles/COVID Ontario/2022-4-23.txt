@@ -57,7 +57,7 @@ This study investigates the link between epigenetic aging, telomere length, and 
 Article 9 of 10
 Title: University of Victoria
 Publisher: University of Victoria
-Trusted: False
+Trusted: True
 Posted: 4 days ago
 UVic researchers have developed a new test for COVID-19 that can detect and quantify the virus with high accuracy using only a small blood sample. The test measures the levels of the SARS-CoV-2 virus nucleoprotein, which is less prone to mutations compared to spike proteins, allowing the detection of new variants. This test provides valuable information on disease progression and severity, and can also be used with nasal swabs and saliva samples. The technology behind the test, called SISCAPA, can detect and quantify multiple protein biomarkers, making it applicable to other infectious and non-infectious diseases. The development of this test was a collaboration between UVic microbiologist Caroline Cameron and SISCAPA Assay Technologies Inc., with support from an NSERC COVID-19 Alliance Grant. The test has been shared with research partners in Europe and North America, and a commercial kit based on the assay is now available worldwide. This innovative test has the potential to revolutionize clinical laboratory testing and improve our understanding of COVID-19 and other diseases.
 

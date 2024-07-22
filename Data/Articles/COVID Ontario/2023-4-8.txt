@@ -24,14 +24,14 @@ The article examines the demographic characteristics of a cohort of Canadian adu
 Article 4 of 10
 Title: Vaccines and Related Biological Products Advisory Committee January 26, 2023 Meeting Announcement - 01/26/2023
 Publisher: FDA.gov
-Trusted: False
+Trusted: True
 Posted: 1 day ago
 The Vaccines and Related Biological Products Advisory Committee (VRBPAC) met virtually on January 26, 2023, to discuss future vaccination regimens for COVID-19. The meeting was open to the public, and FDA intended to provide background material at least 2 business days beforehand. The public could participate by submitting written or electronic comments before January 25, 2023, or by registering to make oral presentations. The discussion focused on the composition and schedule of primary series and booster vaccinations for COVID-19, with the goal of providing independent expert advice to the FDA. The meeting was webcast live, and FDA committed to providing accommodations for individuals with disabilities.
 
 Article 5 of 10
 Title: If You Have COVID-19
 Publisher: BC Centre for Disease Control
-Trusted: False
+Trusted: True
 Posted: 2 days ago
 Most people with COVID-19 can recover at home by staying hydrated, resting, and using over-the-counter medication for symptoms like cough and fever. A humidifier or hot shower can also help soothe symptoms. For more severe or persistent symptoms, individuals can call HealthLink BC at 8-1-1 to speak to a nurse in their language. This information is valuable for forecasting hospitalizations as it suggests that only those with worsening or persistent symptoms may require medical attention beyond home care, which could help predict the number of hospitalizations and the strain on healthcare resources.
 

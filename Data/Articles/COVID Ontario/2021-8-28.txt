@@ -3,14 +3,14 @@ Below are 10 news articles from the past 7 days regarding COVID-19 to help guide
 Article 1 of 10
 Title: Finishing the fight against COVID-19 and getting the job done on vaccines
 Publisher: Liberal Party of Canada
-Trusted: False
+Trusted: True
 Posted: 1 day ago
 The article discusses the importance of finishing the fight against COVID-19 and emphasizes the need for vaccination to achieve this goal. Canadians are eager to return to normalcy, including sending their kids back to school safely, visiting loved ones, and supporting small businesses without the fear of lockdowns. The Liberal team in Canada has been proactive in procuring vaccines to keep the population safe and healthy, leading to Canada being among the top countries in the world for COVID-19 vaccinations. To further combat the pandemic, the article outlines the following strategies: 1. Introducing a COVID-19 Proof of Vaccination Fund to support provinces and territories implementing proof-of-vaccine requirements for non-essential businesses and public spaces. 2. Ensuring enough vaccines are available for all Canadians to receive a free booster shot if needed. 3. Investing in research to study the long-term health impacts of COVID-19. The article stresses that vaccines are crucial in defeating the virus and safeguarding the health of all Canadians, especially vulnerable groups like children and seniors. Encouraging all eligible Canadians to get vaccinated is highlighted as a key step in moving forward to end the battle against COVID-19.
 
 Article 2 of 10
 Title: COVID-19: Transmission modes and measures to prevent and control risk, including the role of ventilation
 Publisher: Institut national de santé publique du Québec
-Trusted: False
+Trusted: True
 Posted: 2 days ago
 Here is a summary of the article, including some important facts to help forecast COVID-19 hospitalizations: COVID-19, caused by the SARS-CoV-2 virus, is primarily transmitted through close contact between individuals less than 2 meters apart for more than 15 minutes. Transmission occurs via aerosols, direct contact, or contaminated surfaces. The risk of transmission is higher in crowded and poorly ventilated spaces with prolonged exposure. The maximum infection distance is unclear but likely limited to a few meters. While there is no direct evidence of airborne transmission over long distances, the risk increases indoors with poor ventilation, crowding, and prolonged exposure. The viability of the virus is favored at 4°C and 20-40% relative humidity, and it can survive in the air and on surfaces for varying durations. To limit transmission, a combination of preventive measures is necessary, including limiting contacts, physical distancing, respiratory and hand hygiene, adequate indoor ventilation, mask-wearing, and cleaning. Proper ventilation and filtration systems can help reduce the concentration of viral particles indoors. Natural ventilation by opening windows or doors can also be effective, but its efficiency depends on various factors. Recommendations for aeration and ventilation in indoor public spaces emphasize the importance of proper ventilation to protect workers and occupants. In settings with outdated heating and ventilation systems, compliance with barrier measures and individual protection is crucial. Ventilation specialists should be involved to optimize existing systems to meet the required standards. To protect healthcare workers, it is crucial to respect all preventive measures, ensure proper ventilation, and wear N95 respirators in high-risk situations or during uncontrolled outbreaks. The Comité sur les infections nosocomiales du Québec (CINQ) continues to adapt its recommendations for personal protective equipment based on evolving scientific knowledge.
 
@@ -38,7 +38,7 @@ The study found a significant association between Body Mass Index (BMI) and hosp
 Article 6 of 10
 Title: Manitoba Will Require COVID-19 Vaccinations or Testing for Designated Government Employees
 Publisher: news.gov.mb.ca
-Trusted: False
+Trusted: True
 Posted: 4 days ago
 
 Article 7 of 10
@@ -50,7 +50,7 @@ Posted: 4 days ago
 Article 8 of 10
 Title: FDA Approves First COVID-19 Vaccine
 Publisher: FDA.gov
-Trusted: False
+Trusted: True
 Posted: 5 days ago
 The FDA has approved the Pfizer-BioNTech COVID-19 Vaccine for individuals 16 years of age and older, which will now be marketed as Comirnaty. The vaccine has been available under emergency use authorization (EUA) since December 2020 for individuals 16 and older, and expanded to those 12-15 in May 2021. The FDA's approval is based on updated data from the clinical trial, with longer follow-up and a larger population. The vaccine was found to be 91% effective in preventing COVID-19 disease, with common side effects including pain, redness, swelling at the injection site, fatigue, headache, muscle pain, chills, and fever. The FDA also found increased risks of myocarditis and pericarditis following the vaccine, particularly in males under 40 and highest in males 12-17. The FDA and CDC will continue monitoring the vaccine's safety, and the company is required to conduct post-marketing studies on these risks. This approval is expected to instill additional confidence in the vaccine and help alter the course of the pandemic in the US.
 

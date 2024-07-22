@@ -37,14 +37,14 @@ Here is a summary of the article: A recent study by the COVID-19 Immunity Task F
 Article 6 of 10
 Title: Educational childcare services in the context of viral respiratory infections including COVID-19
 Publisher: Gouvernement du Québec
-Trusted: False
+Trusted: True
 Posted: 4 days ago
 The article provides guidelines for childcare centers and parents regarding managing fever and other symptoms of respiratory infections, including COVID-19. Here are the key points: Children with fevers should stay at home and not attend childcare. They can return to childcare when their fever has subsided and they are feeling well enough to participate in group activities. Childcare centers may request that parents pick up their children if they develop a fever while at the facility. Children who have other symptoms of a respiratory infection, such as cough, loss of taste or smell, sore throat, runny nose, or nasal congestion, but no fever, may still attend childcare if they are well enough to engage in group activities. Adults in contact with symptomatic children should wear masks and practice frequent hand hygiene with soap and water or hydroalcoholic solutions. Regarding forecasting COVID-19 hospitalizations, these guidelines can help identify and isolate potentially infectious individuals, which may contribute to slowing the spread of the virus and reducing hospitalizations. However, it is important to note that forecasting hospitalizations involves complex modeling and the consideration of various factors, including vaccination rates, viral variants, and adherence to public health measures.
 
 Article 7 of 10
 Title: The socioemotional impact of the COVID-19 pandemic on pregnant and postpartum people: a qualitative study
 Publisher: CMAJ Open
-Trusted: False
+Trusted: True
 Posted: 4 days ago
 
 Article 8 of 10

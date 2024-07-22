@@ -17,7 +17,7 @@ Rheumatologists recognized the need for a global rheumatology registry to addres
 Article 3 of 9
 Title: Alberta Health Services
 Publisher: Alberta Health Services
-Trusted: False
+Trusted: True
 Posted: 1 day ago
 The article discusses the concept of COVID-19 fatigue and the toll it has taken on individuals during the pandemic. It emphasizes the importance of maintaining physical and mental health amidst the ongoing challenges. The vlog features Dr. Laura McDougall, Senior Medical Officer of Health, and Susan McGillivray, Senior Program Officer, who provide insights on COVID-19 fatigue, wellness supports identified through surveys, and offer self-care tips. This information can help individuals forecast COVID-19 hospitalizations by highlighting the need for continued vigilance in taking care of one's health to mitigate the impact of the virus.
 

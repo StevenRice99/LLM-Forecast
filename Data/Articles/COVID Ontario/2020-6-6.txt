@@ -52,7 +52,7 @@ Simon Fraser University (SFU) researchers and Providence Health Care (PHC) are w
 Article 8 of 10
 Title: Ventilators and COVID-19: What You Need to Know
 Publisher: Yale Medicine
-Trusted: False
+Trusted: True
 Posted: 4 days ago
 The article discusses the role of ventilators in the context of the COVID-19 pandemic. Ventilators are machines that pump air, often with extra oxygen, into patients' airways when they are unable to breathe effectively on their own. They are crucial for patients with severely impaired lung function, such as those with COVID-19, to support breathing. While ventilators do not cure illnesses, they can help keep patients alive while they fight infections or recover from injuries. The article features insights from Dr. Lauren Ferrante, a pulmonary and critical care specialist at Yale Medicine, who explains how ventilators work and why they are essential in treating COVID-19 infections.
 
@@ -66,5 +66,5 @@ The COVID-19 pandemic has highlighted the issue of homelessness and affordable h
 Article 10 of 10
 Title: Stigma and prejudice
 Publisher: CAMH
-Trusted: False
+Trusted: True
 Posted: 5 days ago

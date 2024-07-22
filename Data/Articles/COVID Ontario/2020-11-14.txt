@@ -52,7 +52,7 @@ Unfortunately, I cannot summarize the article as there seems to be an error in t
 Article 8 of 10
 Title: Federal government announces funding for COVID-19 research projects
 Publisher: University of Calgary
-Trusted: False
+Trusted: True
 Posted: 5 days ago
 Three University of Calgary research projects aimed at improving detection, diagnosis, and treatment of COVID-19 have received federal funding. The first project focuses on tracking COVID-19 in Calgary's wastewater, as SARS-CoV-2 genetic material is excreted in the feces of infected individuals, even before symptoms start. By testing wastewater samples from different areas of the city, researchers can identify areas with increasing COVID-19 cases and target active case-finding. The second project involves using state-of-the-art imaging to study sepsis caused by SARS-CoV-2 and its effects on the lungs, which could lead to more effective treatments for severe COVID-19 patients. The third project aims to evaluate different patient and environmental samples to determine the influence of viral load on clinical outcomes and transmission rates and to assess the effectiveness of clinical tests in identifying asymptomatic and low-level COVID-19 cases. These projects will improve the understanding of COVID-19 and lead to advancements in detection, diagnosis, and treatment, which could ultimately help forecast hospitalizations by identifying areas with increasing cases and understanding the factors influencing clinical outcomes.
 

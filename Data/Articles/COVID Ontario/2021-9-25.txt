@@ -24,7 +24,7 @@ Alberta's government has requested federal assistance to alleviate the strain on
 Article 4 of 10
 Title: Reduced human activity during COVID-19 alters avian land use across North America
 Publisher: Science
-Trusted: False
+Trusted: True
 Posted: 3 days ago
 
 Article 5 of 10
@@ -37,7 +37,7 @@ The article discusses the question of what percentage of a population needs to b
 Article 6 of 10
 Title: Undergraduate research results in COVID-19 provincial report
 Publisher: University of Winnipeg News
-Trusted: False
+Trusted: True
 Posted: 4 days ago
 Sidney Leggett, a Métis computer science student at the University of Winnipeg, made a significant contribution to COVID-19 research by automating the COVID-19 Unintended Outcomes Report for the Government of Manitoba. This report focuses on the unintentional outcomes of the pandemic and the public health measures put in place to contain the virus. By automating the data cleaning, analysis, formatting, and report writing processes, Leggett improved the efficiency and accuracy of the report, making it easier to reproduce regular, useful reports that can inform public health decision-making and ameliorate public health measures. Leggett's work is crucial for understanding the broader impacts of COVID-19 and could help forecast hospitalizations by identifying trends and patterns in the data. Her work with the Epidemiology and Surveillance Unit of the provincial government, where they monitor and analyze communicable and non-communicable diseases, further underscores the importance of her contributions to public health decision-making during the pandemic.
 

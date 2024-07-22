@@ -17,7 +17,7 @@ Here is a summary of the article: Health Canada has approved Medicago's plant-ba
 Article 3 of 10
 Title: COVID-19 vaccination clinics at the Glen site and at the Montreal General Hospital will close
 Publisher: McGill University Health Centre
-Trusted: False
+Trusted: True
 Posted: 2 days ago
 The MUHC vaccination clinics in Montreal, which administered over 205,000 COVID-19 vaccines, will be closing on February 27, 2022, due to a significant decrease in bookings over the past three weeks. The decrease in bookings and the closure of these clinics could indicate a potential decline in COVID-19 hospitalizations in the region, as vaccinations help prevent severe illness and reduce the strain on healthcare resources. However, it's important to continue monitoring the situation and adhere to public health measures to ensure a sustained decrease in hospitalizations and the effective management of the pandemic.
 

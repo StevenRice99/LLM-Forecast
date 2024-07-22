@@ -30,13 +30,13 @@ Posted: 2 days ago
 Article 5 of 10
 Title: National Kids and Vaccines Day spotlights COVID-19 vaccination confidence
 Publisher: Government of Yukon
-Trusted: False
+Trusted: True
 Posted: 2 days ago
 
 Article 6 of 10
 Title: COVID Symptoms — Frequently Asked Questions
 Publisher: Johns Hopkins Medicine
-Trusted: False
+Trusted: True
 Posted: 2 days ago
 Here is a summary of the article: The article discusses the symptoms of COVID-19 and provides guidance on when to seek medical help. Here are the key points: Common COVID-19 symptoms include cough, fever or chills, shortness of breath, muscle aches, sore throat, loss of taste or smell, diarrhea, headache, fatigue, nausea, and congestion. In the case of emergency warning signs, such as difficulty breathing, chest pain or pressure, confusion, or bluish lips or face, call 911 immediately. Symptoms can appear 2-14 days after exposure to SARS-CoV-2, with a median time of around five days for the original virus and about three days for the Omicron variant. Early symptoms can vary but may include fatigue, headache, sore throat, fever, and loss of smell or taste. It is possible to have COVID-19 without a fever or a cough, and some individuals may be asymptomatic, experiencing no symptoms at all. COVID-19 symptoms can fluctuate, with periods of feeling better followed by a recurrence of symptoms. COVID-19 symptoms in children are similar to those in adults and can include fever, cough, sore throat, difficulty breathing, and diarrhea. Children are also at risk for multisystem inflammatory syndrome (MIS-C). COVID-19 shares some symptoms with allergies, flu, colds, and strep throat, so it may be difficult to differentiate without a test. The COVID-19 vaccine cannot give you COVID-19, but it can cause temporary and mild side effects as your immune system responds. To forecast COVID-19 hospitalizations, it is important to consider the following: The incubation period for COVID-19 is 2-14 days, with most symptoms appearing around day 5 for the original virus and day 3 for Omicron. The severity of symptoms can vary widely and some people may experience mild symptoms initially, which then worsen over 5-7 days. People with COVID-19 might experience recurring symptoms during the recovery process. Hospitalizations may depend on the availability of effective treatments, the vaccination rate in the area, and the overall health of the population. Keep up to date with the latest CDC guidelines for isolation and quarantine to help prevent the spread of COVID-19 and reduce the burden on hospitals.
 
@@ -56,7 +56,7 @@ Here is a summary of the article: Health Canada has approved Pfizer's COVID-19 t
 Article 9 of 10
 Title: Coronavirus Diagnosis: What Should I Expect?
 Publisher: Johns Hopkins Medicine
-Trusted: False
+Trusted: True
 Posted: 5 days ago
 There are three main phases of a COVID-19 infection: the incubation period, acute COVID-19, and COVID-19 recovery. During the incubation period, which typically lasts 2-14 days but can vary depending on the variant, an individual may not exhibit any symptoms but is still contagious. This stage is crucial for self-quarantine and monitoring to prevent the spread of the virus. The acute COVID-19 stage is when symptoms like fever and cough appear, and the illness can last from one to two weeks or even months in severe cases. Some individuals may be asymptomatic but still test positive for COVID-19. During the COVID-19 recovery stage, individuals may experience lingering symptoms such as cough, fever, weakness, and altered senses of smell or taste, known as long COVID-19, which can persist for weeks or months. It's important to note that positive test results don't necessarily indicate infectiousness, as most people are no longer contagious after the recommended isolation period. However, those with severe immunosuppression should consult their healthcare provider for personalized guidance on isolation and infectiousness.
 

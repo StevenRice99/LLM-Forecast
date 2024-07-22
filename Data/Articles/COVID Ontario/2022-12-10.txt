@@ -30,14 +30,14 @@ The review of 41 randomized controlled trials of 12 different COVID-19 vaccines 
 Article 5 of 10
 Title: What AI-generated COVID news tells us that journalists don’t
 Publisher: McGill Newsroom
-Trusted: False
+Trusted: True
 Posted: 4 days ago
 This article describes a research project conducted by McGill University researchers who used AI to analyze and compare simulated news coverage of COVID-19 with actual reporting by CBC. The findings suggest that the CBC's coverage differed significantly from the AI's perspective, with a greater focus on personalities and geo-politics, and a more positive tone despite the ongoing health crisis. This research highlights the potential for AI to identify biases in news reporting and provide insights that may be missed by human analysis alone. Furthermore, the team is optimistic about the potential for AI to be used not only to understand past human behavior but also to anticipate future actions, such as forecasting political or judicial outcomes, and even COVID-19 hospitalizations. The researchers acknowledge the presence of bias in AI but believe that understanding and interpreting this bias can provide valuable insights into human expression and decision-making processes.
 
 Article 6 of 10
 Title: New research-backed tools ready to support parents in navigating COVID-19 pandemic
 Publisher: University of Alberta
-Trusted: False
+Trusted: True
 Posted: 4 days ago
 The University of Alberta researchers, Lisa Hartling and Shannon Scott, have developed a series of information tools to assist parents with concerns about their children and COVID-19. These tools include videos and interactive infographics covering topics such as caring for a child with COVID-19, vaccinating children, and helping children re-socialize as activities resume. The tools are available on the ECHO website and Translating Emergency Knowledge for Kids. Hartling and Scott involve a parent advisory group in the development process, ensuring the tools are relevant and useful. They stay updated on the latest research as the understanding of COVID-19 evolves. The tools undergo review by healthcare providers and the parent advisory group before being tested for usability. The tools are widely shared online and in healthcare settings, reaching a large audience in Alberta. The release of these tools is seen as timely given the strain on the healthcare system due to the prolonged pandemic. The researchers received funding for this project from various sources, including the Canadian Institutes of Health Research and the Stollery Children's Hospital Foundation.
 

@@ -29,7 +29,7 @@ The article discusses the death of Dr. Li Wenliang, a Chinese doctor who tried t
 Article 5 of 10
 Title: Protect Yourself From COVID-19 and Other Viruses
 Publisher: University of Utah Health Care
-Trusted: False
+Trusted: True
 Posted: 3 days ago
 To prevent respiratory illnesses like COVID-19 and influenza, it is recommended to follow these three crucial steps: 1. Hand Hygiene: Wash your hands frequently and thoroughly with soap and water. Proper handwashing technique is essential to ensure effective cleaning. 2. Hand Sanitizer: When access to soap and water is limited, carry and use hand sanitizer. Choose a sanitizer that contains at least 60% alcohol for optimal effectiveness. 3. Prevent Spread: Adhere to measures that help stop the spread of viruses, such as covering your mouth and nose when coughing or sneezing, maintaining physical distance from individuals who are sick, and staying home if you exhibit any symptoms of respiratory illness. By following these precautions, you can contribute to reducing the transmission of viruses and protecting yourself and others from COVID-19 and flu-related hospitalizations.
 
@@ -43,7 +43,7 @@ The Africa Centres for Disease Control and Prevention (Africa CDC) formed the Af
 Article 7 of 10
 Title: First case of 2019 Novel Coronavirus confirmed in Boston
 Publisher: Boston.gov
-Trusted: False
+Trusted: True
 Posted: 4 days ago
 The first case of COVID-19 in Massachusetts was confirmed in a man in his 20s who returned from Wuhan, China. The Boston Public Health Commission and the Massachusetts Department of Public Health were notified, and the man was isolated with his close contacts monitored. This was the eighth case in the US, while thousands of cases were reported in over 20 countries, mostly in China. The novel coronavirus spreads through respiratory secretions, with symptoms including fever, cough, shortness of breath, and pneumonia. The risk to Massachusetts residents was considered low, but people were advised to take preventive measures such as handwashing, covering coughs, and staying home when sick. Health authorities worked to prevent the virus's spread, and additional guidance was provided by the CDC.
 

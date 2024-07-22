@@ -3,7 +3,7 @@ Below are 9 news articles from the past 7 days regarding COVID-19 to help guide 
 Article 1 of 9
 Title: A Change in Smell After COVID-19 Infection: What You Need to Know
 Publisher: University of Utah Health Care
-Trusted: False
+Trusted: True
 Posted: 1 day ago
 
 Article 2 of 9
@@ -37,7 +37,7 @@ Sure! Here is a summary of the article: Canada will lift all COVID-19 travel res
 Article 6 of 9
 Title: Rapid tests available to McMaster community ahead of reading week
 Publisher: McMaster COVID-19
-Trusted: False
+Trusted: True
 Posted: 3 days ago
 Here is a summary of the article: In an effort to promote the well-being of the McMaster community, COVID-19 rapid antigen test kits will be distributed before the fall reading week, with each kit containing five individual tests. The distribution will take place on a first-come, first-served basis at the McMaster University Student Centre on October 5, 2022, from 9 am to 4 pm, or until supplies last. The test kits are limited to one per person and are available to McMaster students, faculty, and staff. This initiative aims to help individuals monitor their health status and take necessary precautions to prevent the spread of COVID-19. Additionally, the article emphasizes the importance of staying home and using the Ontario COVID-19 self-assessment tool if one feels unwell or exhibits any COVID-19 symptoms. It also outlines the reporting protocols for positive cases among employees and students in health professional programs. Employees who test positive and have been on campus in the past 14 days are required to complete the COVID-19 Positive Case Reporting Tool in Mosaic. While students are no longer required to report cases, those in health professional programs may have separate instructions from their program offices for reporting to placement locations. By providing rapid tests and encouraging self-assessment and reporting, McMaster University is taking proactive measures to manage COVID-19 cases and support the health and safety of its community. These efforts can help identify potential outbreaks and inform forecasting models for COVID-19 hospitalizations, particularly as individuals return to campus after the reading week.
 

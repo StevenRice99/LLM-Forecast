@@ -3,14 +3,14 @@ Below are 10 news articles from the past 7 days regarding COVID-19 to help guide
 Article 1 of 10
 Title: Celebrating graduates during COVID-19
 Publisher: Queen's University
-Trusted: False
+Trusted: True
 Posted: 1 day ago
 The article announces that Queen's University is celebrating the Class of 2020's graduation with virtual messages and a new degree conferral webpage due to the COVID-19 pandemic. In-person ceremonies are postponed indefinitely, and degrees will be mailed to graduates. Planning for in-person celebrations will depend on the evolving pandemic response guidelines. The university administration, including Principal and Vice-Chancellor Patrick Deane, Chancellor Jim Leech, and Rector Sam Hiemstra, offered their congratulations and best wishes to the graduates. While the traditional convocation ceremonies are delayed, the university aims to ensure that the Spring 2020 graduates will receive their well-deserved celebration once conditions permit. The article does not provide any specific information or forecasts regarding COVID-19 hospitalizations. However, it reflects the ongoing impact of the pandemic on graduation ceremonies and the need to adapt to virtual alternatives and postponements.
 
 Article 2 of 10
 Title: UBC researchers develop biodegradable medical mask for COVID-19
 Publisher: UBC News
-Trusted: False
+Trusted: True
 Posted: 2 days ago
 Here is a summary of the article: Researchers from the University of British Columbia (UBC) have designed a new type of N95 mask, called the Canadian-Mask or Can-Mask, which is made entirely from local wood fibres sourced from British Columbia, such as pine, spruce, and cedar. The mask is designed to address the global shortage of medical-grade masks, which has impacted healthcare professionals' ability to respond to the COVID-19 pandemic. The Can-Mask is intended to be fully compostable and biodegradable, addressing the environmental concerns associated with the use of synthetic masks. It also aims to improve supply lines by using local materials and manufacturing, reducing reliance on international sources that can be disrupted during a pandemic. The mask has two prototypes: one using a commercial N95 filter and the other using a filter designed by the UBC team from wood-based products. Both are being tested to meet health industry standards, with plans to seek Health Canada certification. The development of the Can-Mask involved a multidisciplinary team from UBC's faculties of applied science, forestry, and science. The researchers believe that their mask is a promising solution not only for pandemic response but also for stimulating the local and Canadian economies and creating jobs. While the article does not provide specific data or models to forecast COVID-19 hospitalizations, the development of the Can-Mask and its potential to improve the supply of personal protective equipment (PPE) for healthcare professionals can indirectly impact hospitalization rates. Adequate PPE supplies can help ensure that healthcare facilities can safely treat COVID-19 patients and manage the pandemic more effectively, potentially reducing the strain on hospitals.
 
@@ -23,7 +23,7 @@ Posted: 2 days ago
 Article 4 of 10
 Title: New Carleton Study Finds COVID—19 Conspiracies and Misinformation Spreading Online
 Publisher: Carleton Newsroom
-Trusted: False
+Trusted: True
 Posted: 3 days ago
 A recent survey by Carleton University's School of Journalism and Communication reveals that nearly half of Canadians believe in at least one COVID-19 conspiracy theory, with 26% subscribing to the idea that COVID-19 is a bioweapon engineered in a Chinese lab, and 11% believing it is a cover-up for the harmful effects of 5G technology. Additionally, many Canadians overestimate their ability to discern conspiracy theories from facts, which experts warn can lead to misinformation spreading quickly and posing a significant risk to public health communication. Younger individuals are more susceptible to believing conspiracy theories, and those who do tend to spend more time on social media. To combat this, experts recommend that scientists and public health experts actively engage with the public and provide accessible, accurate, and shareable information about COVID-19. The first phase of the survey was conducted with 2,000 Canadian residents, with a margin of error of +/2.19%.
 

@@ -10,7 +10,7 @@ The study published in PLOS One highlights that people recently incarcerated in 
 Article 2 of 10
 Title: Researchers identify amino acid that may play a key role for predicting and treating long COVID
 Publisher: University of Alberta
-Trusted: False
+Trusted: True
 Posted: 2 days ago
 Researchers from the University of Alberta have developed a predictive model to forecast COVID-19 hospitalizations and identify patients at risk of developing long COVID. The model, composed of 20 molecules, predicted adverse clinical outcomes with 83% accuracy. The study involved analyzing blood samples from 117 hospitalized COVID-19 patients in Alberta, 55 of whom developed long COVID with three or more symptoms persisting for at least 18 months. The researchers identified lower plasma levels of the amino acid taurine as a key marker of more severe and prolonged symptoms, increased hospitalization, and higher mortality risk. Further clinical trials are needed to validate the effectiveness of taurine supplementation in reducing long COVID symptoms, but initial studies show promising results and no harmful side effects. The team is also working on validating their predictive test on a larger, more diverse population. This research could lead to better treatments and tests for long COVID patients in the future.
 

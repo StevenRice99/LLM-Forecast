@@ -17,7 +17,7 @@ This Aide Memoire provides guidance for policymakers, healthcare workers, and ot
 Article 3 of 9
 Title: Two studies confirm efficiency of saliva tests for COVID-19
 Publisher: McGill University Health Centre
-Trusted: False
+Trusted: True
 Posted: 1 day ago
 A new study published in JAMA Internal Medicine has confirmed the efficiency and accuracy of saliva testing for COVID-19. The study, led by researchers from the McGill University Health Centre, found that saliva tests are as effective as nasopharyngeal swabs in diagnosing COVID-19, especially in ambulatory settings. This discovery is significant because, unlike nasal swab tests, saliva tests can be self-administered, increasing testing options and accessibility for case identification in the community. The statistical methods employed in the study provide a more accurate assessment of saliva test diagnostic accuracy and highlight the importance of validating this sampling technique for potential implementation in communities with high case rates and limited access to specialized healthcare. This development in testing strategies has the potential to impact global public health policy and improve COVID-19 case detection and management.
 

@@ -24,7 +24,7 @@ Here is a summary of the article on small business expectations and realities du
 Article 4 of 10
 Title: Heart inflammation, COVID-19 and the rare side effects of the vaccine
 Publisher: UC Davis Health
-Trusted: False
+Trusted: True
 Posted: 2 days ago
 Here is a summary of the article: UC Davis Health Cardiologist, Nayereh Pezeshkian, discusses the impact of COVID-19 on heart health and addresses concerns about the rare risk of heart complications from the COVID-19 vaccine. Impact of COVID-19 on the Heart: 20-30% of hospitalized COVID-19 patients experience heart problems, leading to more severe symptoms and worse health outcomes. Heart issues can be due to direct viral damage or the indirect effect of inflammatory proteins (cytokines) released into the bloodstream. Heart muscle inflammation (myocarditis) can lead to heart failure or arrhythmia, potentially causing sudden death. COVID-19 is associated with an increased risk of blood clots and vascular inflammation, particularly in the heart and lungs, leading to poor oxygen levels. The right side of the heart may have to work harder due to inflamed lungs and blood clots, resulting in right heart enlargement and potential organ failure. Long-term impacts of COVID-19 on cardiovascular health can include heart failure and rhythm abnormalities due to myocarditis, scar formation, or heart attacks. Elderly individuals and those with heart disease, vascular disease, obesity, or diabetes are at higher risk of severe COVID-19 symptoms and death. COVID-19 Vaccine and Heart Health: Vaccination is crucial, especially for high-risk individuals, as it significantly reduces the risk of hospitalization and death by 90%. Rare cases of mild heart inflammation (myocarditis) have been reported in teenagers post-vaccination, but these cases resolve on their own. The risk of myocarditis from COVID-19 is much higher (2-10%) than the risk associated with the vaccine (about 1 in 6000). Most hospitalizations and deaths occur in unvaccinated individuals. Advice for Patients: Cardiologist Nayereh Pezeshkian advises patients to prioritize heart health by maintaining a healthy diet, staying active, and getting vaccinated to reduce the risk of severe COVID-19 complications. This article emphasizes the importance of vaccination, especially for individuals with cardiovascular risk factors, to prevent severe COVID-19 outcomes and reduce the strain on the heart.
 
@@ -44,7 +44,7 @@ The article discusses how technology and the internet have played a crucial role
 Article 7 of 10
 Title: Surgical masks reduce COVID-19 spread, large-scale study shows
 Publisher: Stanford Medical Center Report
-Trusted: False
+Trusted: True
 Posted: 3 days ago
 
 Article 8 of 10

@@ -9,7 +9,7 @@ Posted: Today
 Article 2 of 10
 Title: Rapid Testing At Home
 Publisher: BC Centre for Disease Control
-Trusted: False
+Trusted: True
 Posted: 1 day ago
 The article provides instructions on how to use rapid antigen tests for COVID-19, which are approved by Health Canada and can be performed at home. The tests detect proteins produced by the COVID-19 virus, with results available within minutes. The tests are done by collecting a sample from each nostril using a swab, which should only go a few centimeters inside the nose and should not be painful. It is important to follow the specific instructions provided with each test kit, and supervision is recommended for children 14 years and younger. The article also includes detailed step-by-step guides, with illustrations, for performing the tests, as well as information on expiration dates and proper disposal of used tests and components. Regarding forecasting COVID-19 hospitalizations, rapid antigen tests can play a role in identifying infections and helping to monitor the spread of the virus. Positive test results, especially if confirmed with additional testing, can indicate a need for hospitalization or further care. Additionally, the availability and accessibility of at-home testing can help reduce the burden on healthcare facilities by allowing individuals to self-test and take appropriate measures, such as self-isolation, to prevent further transmission. However, it is important to note that forecasting hospitalizations due to COVID-19 involves a range of factors, including vaccination rates, the prevalence of new variants, and the effectiveness of public health measures. Rapid antigen tests are just one tool among many used to inform public health decisions and policies.
 
@@ -23,7 +23,7 @@ Here is a summary of the article, focusing on the information relevant to foreca
 Article 4 of 10
 Title: PAHO Director statement on External Evaluation Report of Organization’s Response to COVID-19
 Publisher: Pan American Health Organization
-Trusted: False
+Trusted: True
 Posted: 2 days ago
 The Director of the Pan American Health Organization (PAHO) expresses a positive outlook in the External Evaluation Report of their COVID-19 response, showcasing a commitment to transparency and improvement. This evaluation is a milestone for PAHO and global health, with the organization quickly translating recommendations into strategies. A dedicated task force is established to implement the report's suggestions, demonstrating PAHO's commitment to health in the Americas. By following the report, PAHO aims to not only respond effectively to crises but also enhance their ability to anticipate challenges, innovate, and lead with resilience. This proactive approach is vital for forecasting and managing COVID-19 hospitalizations and other potential health emergencies.
 

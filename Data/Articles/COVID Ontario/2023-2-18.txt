@@ -51,7 +51,7 @@ The article discusses a study conducted at Cedars-Sinai's Smidt Heart Institute,
 Article 8 of 10
 Title: Common Questions About Bivalent COVID-19 Boosters
 Publisher: Johns Hopkins Bloomberg School of Public Health
-Trusted: False
+Trusted: True
 Posted: 5 days ago
 The article encourages eligible individuals to receive the bivalent COVID-19 booster dose, addressing common concerns and providing relevant information. Here are the key points summarized: The bivalent booster is important because it offers protection against the original strain of the virus and the more contagious Omicron variants. The booster helps individuals recover faster and reduces the likelihood of hospitalization, even with newer variants like BQ.1, BQ.1.1, and XBB.1.5. Side effects from the vaccine are normal and indicate a proper immune response. These side effects may be mitigated by switching vaccine brands or consulting a doctor for medication recommendations. Thousands are still hospitalized daily due to COVID-19, so getting the booster is important despite individual risk factors. The time investment for the booster is worth it to reduce potential sick days from COVID-19. The CDC provides guidelines and tools to help individuals determine their vaccination and booster status. Vaccination is not just about individual health but also about protecting vulnerable individuals in the community. For more information, individuals can refer to the CDC, local health departments, and their doctors for personalized advice.
 

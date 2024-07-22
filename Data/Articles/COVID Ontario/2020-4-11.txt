@@ -31,7 +31,7 @@ Here is a summary of the article: The COVID-19 pandemic has significantly altere
 Article 5 of 10
 Title: Changes to Canada Summer Jobs program to help businesses and young Canadians affected by COVID-19
 Publisher: Prime Minister of Canada
-Trusted: False
+Trusted: True
 Posted: 3 days ago
 The Canadian government is taking steps to support workers, businesses, and citizens affected by the COVID-19 pandemic, especially young people facing challenges in finding employment. To address this, the government has announced temporary changes to the Canada Summer Jobs program, which will help create 70,000 jobs for youth between 15 and 30. The changes include increasing the wage subsidy for employers, extending the end date for employment to February 28, 2021, allowing job activity adaptations, and permitting part-time hiring. These steps will help youth maintain connections to the job market and find safe, healthy work environments. This builds on previous actions taken by the government to support young Canadians during the crisis, including a moratorium on student loan interest and a wage subsidy for businesses. The government plans to further support students and young people as the pandemic continues. The Canada Summer Jobs program provides opportunities for youth to develop skills and support community services, and the government is adapting it to ensure resources are available to deal with the impacts of COVID-19.
 

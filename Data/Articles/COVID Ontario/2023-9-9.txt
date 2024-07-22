@@ -24,7 +24,7 @@ Here is a summary of the article: During the early days of the COVID-19 pandemic
 Article 4 of 10
 Title: COVID-19 Test Basics
 Publisher: FDA.gov
-Trusted: False
+Trusted: True
 Posted: 2 days ago
 This article provides an overview of COVID-19 testing, including the different types of tests available, the samples they use, and their authorized uses. Here's a summary: Types of COVID-19 Tests: Diagnostic Tests: These tests detect an active SARS-CoV-2 infection. Molecular Tests (PCR and NAATs): These highly accurate tests detect the virus's genetic material. Antigen Tests (Rapid Tests): These tests detect viral proteins and can be completed at home, providing results within minutes. Antibody Tests: These tests do not diagnose a current infection but detect antibodies in the blood produced in response to SARS-CoV-2. They are not currently recommended for checking immunity. Types of Samples: Swab Samples: Collected from the nose or throat, including anterior nares (nasal), mid-turbinate, nasopharyngeal, and oropharyngeal swabs. Saliva Samples: Collected by spitting into a tube, offering an alternative to nose or throat swabs. Blood Samples: Used exclusively for antibody testing and collected through finger sticks or venous blood draws. Authorized Uses and Test Locations: Diagnostic tests can be performed at laboratories, testing sites, medical offices, or at home. At-home tests offer convenience but may have expiration dates and generally provide less accuracy than laboratory-based molecular tests. Repeat testing improves accuracy for at-home antigen tests. Community testing sites and authorized at-home tests are available for those who need COVID-19 diagnostic testing. This information helps forecast COVID-19 hospitalizations by providing insights into testing accessibility, accuracy, and types of tests available. Understanding the testing landscape is crucial for effective disease monitoring and management.
 
@@ -38,7 +38,7 @@ The article is a research paper that investigates the genetic basis of COVID-19 
 Article 6 of 10
 Title: COVID infections in animals - a key to the ongoing trajectory of the pandemic?
 Publisher: McGill Newsroom
-Trusted: False
+Trusted: True
 Posted: 4 days ago
 The article discusses research conducted by a team led by McGill University that aims to track the transmission rates of the SARS-CoV-2 virus between humans and animals to understand its ongoing trajectory. The researchers found that humans transmitted the virus to cats, dogs, minks, and deer on numerous occasions, but transmission back to humans was rare except for minks. They identified mutations in the viral spike protein that may help the virus adapt to minks and deer, with a relatively large number of deer-associated mutations. The findings highlight the need for further sampling and lab experiments to determine the impact of these mutations on the virus's ability to infect humans. The study's results can provide valuable insights into the evolution of the virus and help forecast COVID-19 hospitalizations by identifying potential animal reservoirs and understanding the trajectory of the virus.
 

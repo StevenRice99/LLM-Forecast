@@ -31,7 +31,7 @@ As of January 2023, COVID-19 hospitalizations in the United States are once agai
 Article 5 of 10
 Title: A true ally in the time of COVID-19
 Publisher: Alberta Health Services
-Trusted: False
+Trusted: True
 Posted: 3 days ago
 During the COVID-19 pandemic, Alberta Precision Laboratories relied on Process Improvement teams to develop processes and manage public demand for COVID-19 testing. The teams partnered with various groups and utilized their expertise in problem-solving and change management to streamline COVID-19 testing and assessment centers, lab logistics, and contact tracing. They also played a crucial role in vaccine distribution. The team's outsider perspective and utilization of the Alberta Health Services (AHS) Improvement Way (AIW) methodology contributed to their success. AIW is a quality improvement approach that enhances staff engagement and promotes a culture of improvement. The team mapped and analyzed testing transportation logistics, schedules, routes, and frequencies to optimize sample pick-up and minimize turnaround times. Their involvement demonstrates the importance of collaboration and process evaluation in responding to the challenges posed by the COVID-19 pandemic.
 
@@ -52,7 +52,7 @@ The article discusses the challenges and risks facing businesses in the post-COV
 Article 8 of 10
 Title: Sound Mind podcast - Unprecedented: COVID-19 and its impact on physician wellness
 Publisher: Canadian Medical Association
-Trusted: False
+Trusted: True
 Posted: 4 days ago
 
 Article 9 of 10

@@ -17,21 +17,21 @@ The article discusses the importance of nuance in debates surrounding the COVID-
 Article 3 of 10
 Title: COVID-19-Fighting Tools
 Publisher: University of Alberta
-Trusted: False
+Trusted: True
 Posted: 2 days ago
 The COVID-19 pandemic has led to University of Alberta graduates refocusing their businesses and research efforts to help those affected by the crisis. Here are the key ways in which they are contributing: 1. Supporting the vulnerable: Morgan Allen, a nutrition graduate, leads Fresh Routes, a mobile grocery store providing affordable produce to underserved neighborhoods. During the pandemic, they delivered free food hampers to families in need. Haidong Liang, a gerontology and leisure graduate, created a fitness program to help seniors stay active while isolated. 2. Informing patients and parents: Shannon Scott, a pediatric nurse, and Lisa Hartling, a knowledge synthesis and translation expert, developed infographics and videos to prepare parents and children for the added stress and protocols of hospital visits during COVID-19. They aim to combat the spread of misinformation. 3. Protecting healthcare workers and the public: Warren Finlay, an aerosol mechanics expert, collaborated with ACAMP to design and manufacture protective masks in Alberta, similar in quality to N95 masks. Hyo-Jick Choi, a colleague of Finlay's, developed an approach to coating masks in sodium chloride, which kills viruses and bacteria, providing an extra layer of defense. 4. Innovating with artificial intelligence: Patrick Earl and his business partner created a free app that uses smartphone sensors to detect potential physical signs of COVID-19. The app is being developed to predict the presence of the virus with at least 90% accuracy. MEDO.ai, a company started by Dornoosh Zonoobi and Jacob Jaremko, utilizes artificial intelligence to analyze ultrasound images for COVID-19-associated complications, enabling faster and cheaper diagnosis. These initiatives demonstrate the innovative ways in which University of Alberta graduates are contributing to the fight against COVID-19 and its impact on vulnerable populations, healthcare workers, and the wider community.
 
 Article 4 of 10
 Title: COVID-19 office safety plan support grant for BC’s community physicians
 Publisher: Doctors of BC
-Trusted: False
+Trusted: True
 Posted: 2 days ago
 The article discusses a grant that was provided to doctors in British Columbia, Canada, to help offset the costs of implementing COVID-19 safety measures in their community practices. The grant, in the amount of $1,000, was available to eligible physicians who incurred expenses related to developing and implementing a COVID-19 Safety Plan, such as the time spent by the physician and staff to plan and implement the safety measures, as well as the cost of physical barriers and office renovations. The deadline for applications for this grant was January 31, 2021, for expenses incurred between March 15, 2020, and January 31, 2021. While the article does not directly provide information about forecasting COVID-19 hospitalizations, the fact that doctors were encouraged and supported in implementing safety measures in their community practices can be seen as a proactive step to help reduce the spread of COVID-19 and potentially decrease the burden on the healthcare system, including hospitalizations.
 
 Article 5 of 10
 Title: Powerful, double-decker bus-sized microscopes help scientists uncover possible COVID-19 treatment
 Publisher: UBC Faculty of Medicine
-Trusted: False
+Trusted: True
 Posted: 2 days ago
 Here is a summary of the article: Researchers at the University of British Columbia (UBC) are utilizing cryo-electron microscopy, a powerful imaging technique, to study COVID-19 and develop treatments. The team, led by Professor Sriram Subramaniam, aims to understand how antibody treatments bind to the virus and their effectiveness in blocking infection. Cryo-electron microscopy allows for near-atomic resolution imaging, helping to identify critical differences in antibodies' ability to prevent viral infection. This information is crucial for drug and vaccine design, and the team has already made significant progress in understanding how the antibody-based drug Ab8 prevents and neutralizes the virus. Cryo-electron microscopy is necessary because the SARS-CoV-2 virus is incredibly small and cannot be seen with regular microscopes. This technology uses beams of electrons and ultra-cooling techniques to visualize the detailed shapes of viruses and proteins. The UBC team is specifically focusing on the viral spike protein, which is crucial for the virus's entry into human cells. By understanding the "hotspots" on this protein, researchers can improve treatment potency and evaluate early vaccine candidates. The development of antibody-based therapies is vital because a widely available and effective vaccine is estimated to be almost a year away. These therapies can help stem the tide of the pandemic in the interim. Understanding antibody binding and neutralization is crucial for reducing drug side effects and evaluating the effectiveness of antibodies produced in vaccine trials. The research on Ab8 is particularly promising, as the drug is constructed from an antibody component ten times smaller than a full-sized antibody, increasing its potential for diffusion and allowing for administration through inhalation. Additionally, it specifically targets the virus without affecting human cells, suggesting a reduced risk of negative side effects. This research is supported by various organizations, including the Canada Excellence Research Chair Program and a philanthropic donor. The findings offer potential implications for both the prevention and treatment of COVID-19, providing valuable insights for the ongoing battle against the pandemic.
 
@@ -52,7 +52,7 @@ The article discusses the failures of the United States in its response to the C
 Article 8 of 10
 Title: Effect of COVID-19 on computed tomography usage and critical test results in the emergency department: an observational study
 Publisher: CMAJ Open
-Trusted: False
+Trusted: True
 Posted: 5 days ago
 
 Article 9 of 10

@@ -50,14 +50,14 @@ COVID-19 infection rates are rising in Canada, particularly among young people a
 Article 8 of 10
 Title: Some non-human primates bear similar risk as humans for COVID-19 infection
 Publisher: University of Calgary
-Trusted: False
+Trusted: True
 Posted: 3 days ago
 The article discusses a study that predicts non-human primates, such as apes and monkeys, are at high risk of contracting COVID-19, with a similar risk level to humans. The risk to lemurs is more variable but could also be high. This is a concern for primatologists working with captive and wild primates, as the transmission of SARS-CoV-2 between species could endanger already vulnerable primate populations. The study used comparative genomics and protein-protein interaction modeling to understand how the SARS-CoV-2 virus attaches to cell surfaces via the ACE2 receptor. Changes in amino acids that build the ACE2 protein can weaken the bonds and impede viral infection. Monkeys in the Americas have different amino acids, which may decrease their risk of infection. The study's authors recommend taking action to protect both non-human primates and humans who may come into contact with them, including increased distancing, mask-wearing, quarantining, health screening, and negative testing. The long-term restrictions on human access to wild primate populations may have negative consequences for local livelihoods and primate conservation efforts, so a careful balance must be considered.
 
 Article 9 of 10
 Title: COVID-19 vaccines: McGill researchers track the global race
 Publisher: McGill Newsroom
-Trusted: False
+Trusted: True
 Posted: 5 days ago
 McGill University professor Nicole Basta and her team have developed an interactive COVID-19 vaccine tracker that provides real-time updates on the progress of over 50 vaccines currently in human trials. The tracker includes details such as the phase of clinical trials, developers, countries involved, and vaccine type for each candidate. It also features a color-coded map showing vaccine trial information for each country. The goal of the tracker is to provide clear and unbiased information about the vaccine development process, manage expectations about vaccine availability, and improve public understanding. The tracker also includes a community immunity tool that allows users to simulate the spread of a disease and see the impact of different vaccination rates. Basta emphasizes the importance of transparency about the strengths and limitations of vaccine candidates to build public trust. The McGill University vaccine tracker is available online and includes experts from various fields.
 

@@ -3,7 +3,7 @@ Below are 10 news articles from the past 7 days regarding COVID-19 to help guide
 Article 1 of 10
 Title: Symptoms, transmission and treatment (COVID-19)
 Publisher: Gouvernement du Québec
-Trusted: False
+Trusted: True
 Posted: 1 day ago
 The article provides a list of symptoms that may indicate a COVID-19 infection and help with forecasting hospitalizations due to the virus. These symptoms can vary in severity and duration, lasting from less than 14 days to over a month, and in some cases, leading to long COVID-19 with persistent symptoms or complications. Fever, sudden loss of smell with or without taste, cough, shortness of breath, and difficulty breathing are all potential indicators of COVID-19 and reasons to seek medical advice. Other symptoms like sore throat, runny nose, headache, extreme fatigue, muscle pain, loss of appetite, nausea, vomiting, stomach ache, and diarrhea, when present in combination (two or more), could also be indicative of COVID-19 and warrant consultation with a healthcare professional. The presence and severity of these symptoms can help healthcare providers and public health officials forecast and manage COVID-19 hospitalizations. It is important to remain vigilant and consult with medical professionals when in doubt, especially for infants under 6 months old who may present with different or less specific symptoms.
 
@@ -37,7 +37,7 @@ New Brunswick's Department of Health has announced that residents can book appoi
 Article 6 of 10
 Title: Reinstated mask mandate and COVID-19 vaccination update: What doctors need to know
 Publisher: Doctors of BC
-Trusted: False
+Trusted: True
 Posted: 3 days ago
 Here is a summary of the article: In anticipation of a rise in respiratory illnesses like COVID-19 and the flu, the Ministry of Health has reintroduced a mask mandate in specific healthcare settings while also offering guidance on COVID-19 vaccinations. The key points include: Mask mandate: Masks are mandatory for healthcare workers, volunteers, contractors, and visitors in hospitals and certain medical facilities, including long-term care and seniors' assisted living centers. Patients in hospitals are not required to wear masks unless clinically necessary. PPE and critical supplies: Doctors' offices can continue to order PPE through the Health PPE Portal at no cost. Immunization requirements: Health care workers must still comply with COVID-19 immunization requirements per Provincial Health Officer orders and employer policies. Vaccination is also mandatory for new healthcare workers. Unvaccinated healthcare workers are prohibited from working in hospitals and long-term care homes. COVID-19 vaccinations in doctors' offices: Doctors can now offer COVID-19 vaccines to patients alongside flu shots. They are advised to contact their local Medical Health Officer for information on ordering vaccines and becoming a vaccine provider. To forecast COVID-19 hospitalizations, it is important to consider the impact of the mask mandate and vaccination requirements in healthcare settings. The measures aim to protect vulnerable populations and prevent the spread of respiratory illnesses, which could help reduce hospitalizations. Additionally, the availability of COVID-19 vaccines in doctors' offices may contribute to increased vaccination rates, which could further reduce the severity of COVID-19 cases and hospitalizations.
 

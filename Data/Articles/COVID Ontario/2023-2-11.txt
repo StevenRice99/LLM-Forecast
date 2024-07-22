@@ -58,7 +58,7 @@ Here is a summary of the article: The article provides a table with COVID-19 hos
 Article 9 of 10
 Title: GO-VAXX mobile COVID-19 clinic coming to McMaster’s campus Feb. 15th
 Publisher: McMaster COVID-19
-Trusted: False
+Trusted: True
 Posted: 5 days ago
 Here is a summary of the article: McMaster University is hosting a GO-VAXX mobile COVID-19 vaccine clinic on campus on February 15, 2023, from 10 am to 5 pm, located outside the Mary E. Keyes Residence. The clinic is open to McMaster students, staff, faculty, and Hamilton community members, offering Pfizer mRNA COVID-19 vaccines and booster shots for adults, youth, and children aged five and above. Appointments can be booked through the provincial portal or by calling, and walk-ins are also accepted. This initiative follows the successful response to previous vaccine clinics held at McMaster. The mobile clinic is a partnership between the Ontario Ministry of Health and Metrolinx, providing accessible vaccine services with all COVID-19 safety precautions in place. Regarding forecasting COVID-19 hospitalizations, it is important to note that keeping vaccinations up to date is crucial in managing the pandemic. The availability of vaccine clinics and the ongoing vaccination efforts can help reduce the severity of infections and, consequently, the number of hospitalizations. The article also emphasizes the importance of vaccine eligibility and accessibility for different age groups, which can impact hospitalization rates.
 

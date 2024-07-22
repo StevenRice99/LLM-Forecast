@@ -3,7 +3,7 @@ Below are 10 news articles from the past 7 days regarding COVID-19 to help guide
 Article 1 of 10
 Title: Accountability for Canada’s covid-19 response
 Publisher: The BMJ
-Trusted: False
+Trusted: True
 Posted: Today
 Here is a summary of the article, including key points that could be useful for forecasting COVID-19 hospitalizations: The Royal Society of Canada hosted a webinar and launched a new series in The BMJ to discuss accountabilities for Canada's COVID-19 response. With over 4.6 million cases and 52,750 deaths as of mid-2023, Canada's COVID-19 death rate exceeded the global average. The pandemic disproportionately affected marginalized communities and those in long-term care homes. Canada achieved high vaccination coverage domestically but was criticized for hoarding vaccine doses and not supporting global vaccine-sharing efforts enough. The article series in The BMJ critiques Canada's response and highlights areas for improvement. It argues that Canada's decentralized approach led to fragmented data access and decision-making, and that research was not effectively used to address health inequalities. The failure to learn from the SARS epidemic in 2003 left the country unprepared. An independent national inquiry is needed to ensure accountability and improve future pandemic preparedness. To forecast COVID-19 hospitalizations, it is important to consider Canada's previous response and the impact on vulnerable populations. The failure to protect long-term care home residents and staff highlights the need for coordinated efforts between federal and provincial governments. Canada's role in global vaccine equity is also crucial, as prioritizing public health over profits can help prevent future outbreaks and reduce hospitalization risks. First Nations communities in Manitoba are also highlighted for their effective COVID-19 response, emphasizing the importance of cultural safety and community-led solutions in improving access and equity for Indigenous peoples. Their successful strategies can provide valuable lessons for future pandemic planning and reducing hospitalizations.
 
@@ -63,5 +63,5 @@ The article provides a table with COVID-19 hospitalization risk levels for each 
 Article 10 of 10
 Title: Patient-reported outcomes of neurologic and neuropsychiatric symptoms in mild COVID-19: a prospective cohort study
 Publisher: CMAJ Open
-Trusted: False
+Trusted: True
 Posted: 7 days ago

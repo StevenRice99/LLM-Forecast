@@ -3,7 +3,7 @@ Below are 10 news articles from the past 7 days regarding COVID-19 to help guide
 Article 1 of 10
 Title: Photovoice Project: Youth perspective on COVID-19 vaccine
 Publisher: CAMH
-Trusted: False
+Trusted: True
 Posted: Today
 
 Article 2 of 10

@@ -50,7 +50,7 @@ Here is a summary of the article: The article examines the relationship between 
 Article 8 of 10
 Title: After COVID-19, Canadians need better financial literacy and teachers can help
 Publisher: Queen's University
-Trusted: False
+Trusted: True
 Posted: 4 days ago
 The article discusses the importance of financial literacy in helping people recover from the COVID-19 crisis and highlights the results of a survey of Ontario elementary school teachers' perceptions and practices regarding financial literacy education. Here's a summary: Financial literacy, including understanding concepts like compound interest and applying them to personal finances, can aid in financial recovery and stability. The survey found that teachers strongly favor teaching financial literacy in elementary school, citing benefits such as budgeting and future planning skills. Ontario has recently mandated financial literacy education in grades 1 to 8 and provides supporting resources. Teachers rely on free online resources, some sponsored by financial institutions, which may overlook social factors influencing financial circumstances. The authors recommend government investment in professional development for teachers to enhance their comfort and capacity for effective financial literacy instruction. Providing teachers with the right supports and access to professional development can help ensure students develop the financial literacy skills needed to manage future crises. The article emphasizes the role of financial literacy in personal financial recovery and highlights the need for proper teacher training to ensure effective financial literacy education in schools.
 

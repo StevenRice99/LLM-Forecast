@@ -52,7 +52,7 @@ The article discusses the findings of a research team led by Dr. Afshin Beheshti
 Article 8 of 10
 Title: COVID-19, pneumonia, and influenza deaths reported in the U.S. August 21, 2023
 Publisher: Statista
-Trusted: False
+Trusted: True
 Posted: 4 days ago
 
 Article 9 of 10

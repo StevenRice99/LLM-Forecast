@@ -3,7 +3,7 @@ Below are 10 news articles from the past 7 days regarding COVID-19 to help guide
 Article 1 of 10
 Title: How Canadians' lifestyle behaviours changed during the COVID-19 pandemic
 Publisher: McGill Newsroom
-Trusted: False
+Trusted: True
 Posted: 1 day ago
 The McGill University study reveals that 60% of Canadians maintained or improved their lifestyle habits during the COVID-19 pandemic, while 40% adopted unhealthier habits. The research, based on data from 18-89-year-old Canadians during the first wave, identified two patterns: healthy and less healthy habit groups. Factors such as body image dissatisfaction, depression, stress, and gender minority identification correlated with less healthy habits. This knowledge can help identify at-risk individuals during crises and develop strategies to support those with mental health challenges. These findings provide valuable insights for forecasting COVID-19 hospitalizations by considering the impact of lifestyle changes on overall health.
 
@@ -17,7 +17,7 @@ Here is a summary of the article: The article discusses a study conducted by the
 Article 3 of 10
 Title: COVID-19 Treatments: What We Know So Far
 Publisher: Yale Medicine
-Trusted: False
+Trusted: True
 Posted: 1 day ago
 Paxlovid is an antiviral oral medication created by Pfizer to treat mild-to-moderate COVID-19 infections in individuals ages 12 and older who are at high risk for severe disease. It combines two drugs, nirmatrelvir and ritonavir, with the former preventing SARS-CoV-2 virus replication and the latter boosting its levels in the body. Taken as three pills twice daily for five days, it has shown an 86% reduction in COVID-19-related hospitalization or death. Real-world studies by the CDC also showed a 51% lower hospitalization rate for adults who took Paxlovid within five days of diagnosis. However, it interacts with many medications, so an up-to-date medication list is crucial for healthcare providers. It is not recommended for pregnant or breastfeeding individuals and those with severe liver or kidney disease. Some patients have reported a "rebound" of COVID-19 symptoms a few days after completing the treatment, but the FDA stated there was no clear association between Paxlovid and rebound cases based on available data. Overall, Paxlovid is a promising treatment option for eligible high-risk individuals to reduce the severity of COVID-19 and prevent hospitalizations.
 
@@ -31,7 +31,7 @@ The National Institutes of Health (NIH)-funded study on long COVID provides valu
 Article 5 of 10
 Title: Do Not Use Certain SD Biosensor Pilot COVID-19 At-Home Tests: FDA Safety Communication
 Publisher: FDA.gov
-Trusted: False
+Trusted: True
 Posted: 2 days ago
 The FDA ha emitido una advertencia sobre ciertos lotes de las pruebas caseras para COVID-19 de SD Biosensor, Inc., distribuidas por Roche Diagnostics, debido a preocupaciones de contaminación bacteriana en la solución líquida de la prueba. Se aconseja a los consumidores y proveedores de atención médica que dejen de usar y desechen las pruebas caseras Pilot COVID-19 con los lotes afectados. Se han distribuido aproximadamente 500,000 pruebas a CVS Health y 16,000 a Amazon. No se han distribuido lotes afectados a través de los programas federales de pruebas de COVID.19. Los riesgos potenciales incluyen infección por contacto directo con la solución contaminada y resultados falsos de la prueba. La contaminación bacteriana incluye especies de Enterococcus, Enterobacter, Klebsiella y Serratia, que pueden causar infecciones en personas con sistemas inmunitarios debilitados o exposición directa a la solución líquida. Se aconseja a los consumidores que dejen de usar y desechen las pruebas con los siguientes números de lote: 53K38N1T1, 53K4221T1, 53K4292T1, 53K38N2T1, 53K4222T1, 53K42A1T1, 53K38N3T1, 53K4223T1, 53K42A2T1, 53K38N4T1, 53K4224T1, 53K42A3T1, 53K38N5T1, 53K4225T1, 53K42E1T1, 53K38P1T1, 53K4231T1, 53K42G1T1, 53K38P2T1, 53K4232T1, 53K42G2T1, 53K38P3T1, 53K4233T1, 53K42H1T1, 53K41T5T1, 53K4261T1, 53K42H2T1, 53K41X1T1, 53K4262T1, 53K42L1T1, 53K41X2T, 53K4271T1, 53K42L2T1, 53K41X3T1, 53K4272T1, 53K4361AC, 53K4211T1, 53K4273T1, 53K4362AC, 53K4212T1, 53K4274T1, 53K4392AC, 53K4213T1 y 53K4291T1. Se aconseja a los consumidores que no utilicen las pruebas con los números de lote afectados, que desechen el kit de prueba completo en la basura del hogar y que no viertan la solución líquida por el desagüe. Si la solución entra en contacto con la piel o los ojos, se deben enjuagar abundantemente con agua. Si la irritación persiste, se debe buscar atención médica. Los consumidores deben estar atentos a los signos de infección bacteriana, como fiebre, secreción o enrojecimiento de los ojos, y buscar atención médica si es necesario. Los proveedores de atención médica y los organizadores de programas de pruebas deben considerar la posibilidad de volver a realizar las pruebas a los pacientes si se sospecha de un resultado inexacto y si la prueba se realizó hace menos de dos semanas. Si se realizó una prueba hace más de dos semanas y no hay sospecha de infección actual por SARS-CoV-2, no es necesario volver a realizar la prueba. Hasta la fecha, la FDA no ha recibido informes de lesiones, consecuencias adversas para la salud o muertes relacionadas con el uso de estas pruebas caseras. La FDA está trabajando con SD Biosensor, Inc. para evaluar las acciones correctivas y prevenir futuros problemas de contaminación.
 
@@ -59,7 +59,7 @@ Here is a summary of the article: The Health Protection Act order, implemented a
 Article 9 of 10
 Title: COVID-19 vaccines may undergo major overhaul this fall
 Publisher: Science
-Trusted: False
+Trusted: True
 Posted: 4 days ago
 
 Article 10 of 10

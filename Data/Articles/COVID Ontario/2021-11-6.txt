@@ -24,7 +24,7 @@ This article provides guidance to governments and event organizers on holding ma
 Article 4 of 10
 Title: COVID-19 vaccines for children 5-11 are safe and effective
 Publisher: Hamilton Health Sciences
-Trusted: False
+Trusted: True
 Posted: 2 days ago
 Here is a summary of the article, including important facts to help forecast COVID-19 hospitalizations: Experts at McMaster Children's Hospital (MCH) recommend that children aged 5-11 receive the COVID-19 vaccine as it is safe and effective for this age group. The Pfizer vaccine, approved by Health Canada for children 5-11, is a lower dose (10 mg) than the adult formulation (30 mg) and is mixed with a slightly different liquid. Clinical trials show that the lower-dose pediatric vaccine generates similar levels of antibodies, providing protection against COVID-19. Dr. Jeffrey Pernica, an MCH infectious diseases specialist, answers frequently asked questions about child vaccine safety and efficacy. The vaccine is recommended for children aged 5-11 as a preventative measure, even though they are at low risk of severe COVID-19 outcomes. It can help protect them from infection and prevent the spread to others, especially with the Delta variant. Uptake of the vaccine for youth aged 12-17, available since August 2021, has resulted in over 70% of Ontario youth in this age group being fully vaccinated. MCH is actively involved in the Hamilton Public Health strategy by providing expertise, participating in vaccination clinics, working with pediatric healthcare professionals, and offering support for youth with special needs. This information can help forecast COVID-19 hospitalizations by encouraging vaccine uptake in the 5-11 age group, similar to the success seen in the 12-17 age group. The vaccine's effectiveness in preventing severe disease and reducing hospitalizations is crucial in managing the pandemic and ensuring adequate healthcare resources.
 
@@ -51,7 +51,7 @@ Here is a summary of the article: The BIO3 Lab at Simon Fraser University (SFU) 
 Article 8 of 10
 Title: Can inhaled corticosteroids alleviate early symptoms of COVID-19?
 Publisher: McGill University Health Centre
-Trusted: False
+Trusted: True
 Posted: 4 days ago
 Here is a summary of the article: A team of researchers from the Research Institute of the McGill University Health Centre (RI-MUHC) in Montreal, along with scientists from other institutions in Canada, conducted a placebo-controlled trial to investigate the effectiveness of ciclesonide, an inhaled and nasal steroid drug, in treating COVID-19 respiratory symptoms. The study, known as the CONTAIN study, included 215 symptomatic adults who were randomly assigned to receive either ciclesonide or a placebo for 14 days. The results showed no significant difference between the two groups, with similar percentages of participants in both groups experiencing resolution of fever and respiratory symptoms after seven and 14 days. Despite the disappointing outcome, the researchers believe that inhaled steroids may still hold potential for treating older, at-risk populations. The study highlights the importance of rigorous, placebo-controlled trials in evaluating the effectiveness of treatments for COVID-19 and other diseases.
 

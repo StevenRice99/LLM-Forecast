@@ -30,21 +30,21 @@ Here is a summary of the article: Following the rapid easing of COVID-19 restric
 Article 5 of 9
 Title: What Does Recovery From COVID-19 Look Like?
 Publisher: Yale Medicine
-Trusted: False
+Trusted: True
 Posted: 3 days ago
 As of December 2022, COVID-19 symptoms have evolved, but most cases remain mild. Vaccinated individuals especially tend to experience milder cases and often do not require hospitalization. However, there is a growing number of patients with "long COVID," or "long haulers," who experience lingering symptoms months after their initial infection, including "brain fog," fatigue, and pulmonary and cardiac issues. Researchers are still working to understand long COVID, which can affect patients regardless of their initial disease severity. Yale Medicine's Post-COVID-19 Recovery Program treats patients facing these ongoing challenges. For the latest information on COVID-19, it is recommended to refer to official sources such as the CDC and WHO, as well as local government websites.
 
 Article 6 of 9
 Title: PAHO makes COVID-19 therapeutic available to 16 countries
 Publisher: Pan American Health Organization
-Trusted: False
+Trusted: True
 Posted: 3 days ago
 PAHO delivered over 11,000 vials of the drug tocilizumab to 15 Latin American and Caribbean countries to improve treatment for severe and critical COVID-19 patients. Tocilizumab is a medication that has been shown to reduce mortality in hospitalized COVID-19 patients with severe or critical illness, rapid deterioration, increased oxygen requirements, and significant inflammatory response. The drug is an immunosuppressant that delivers monoclonal antibodies targeting and blocking Interleukin-6 (IL-6) receptors. High levels of IL-6 are found in critically ill COVID-19 patients, inducing an inflammatory response. The WHO added tocilizumab to its list of prequalified COVID-19 treatments in early 2022, and it has been shown to reduce mortality, complications, and hospital stay duration. The availability of this medication is important as COVID-19 continues to cause severe disease and hospitalizations, particularly in at-risk groups such as the elderly and those with underlying medical conditions. The purchase and distribution of tocilizumab by PAHO, supported by the US government, is a significant step towards ensuring equitable access to COVID-19 therapeutics in the region.
 
 Article 7 of 9
 Title: Coronavirus and Pregnancy: What You Should Know
 Publisher: Johns Hopkins Medicine
-Trusted: False
+Trusted: True
 Posted: 5 days ago
 Pregnant women are more vulnerable to respiratory viruses like the coronavirus due to changes in their immune systems. To protect themselves and their unborn children from COVID-19, pregnant women are advised to take extra precautions, including physical distancing, wearing masks, hand washing, and consulting their doctors regularly. Less frequent in-person appointments and the use of telemedicine are strategies obstetricians are employing to monitor pregnant patients while reducing potential exposure to the virus. COVID-19 vaccination is now authorized for pregnant women and has led to a significant increase in vaccination rates, offering the best protection against maternal and fetal complications from COVID-19 infection. To summarize, pregnant women should prioritize avoiding the coronavirus, take necessary precautions, utilize telemedicine options, and consider vaccination as the most effective way to ensure a healthy pregnancy during the pandemic.
 
@@ -58,6 +58,6 @@ The COVID-19 signal in Ottawa's wastewater data is 10 times higher than last Dec
 Article 9 of 9
 Title: NCI's COVID-19 Research Initiatives
 Publisher: National Cancer Institute (.gov)
-Trusted: False
+Trusted: True
 Posted: 5 days ago
 Here is a summary of the article: The National Cancer Institute (NCI) is actively contributing to the global fight against the COVID-19 pandemic by utilizing its scientific expertise and advanced resources. NCI's efforts are focused on conducting research and supporting clinical trials related to SARS-CoV-2, the virus causing COVID-19. This includes studying vaccine responses, severity factors, and the virus's impact on cancer patients. To understand the immune response to COVID-19, NCI has launched several initiatives, including the NCI COVID-19 Serology Program, funded through the Paycheck Protection Program and Health Care Enhancement Act. The largest component of this program is the Serological Sciences Network (SeroNet), which supports research projects at various institutions and centers of excellence. NCI also collaborates with the FDA, CDC, and NIH to validate antibody tests for emergency use authorization, ensuring their accuracy and reliability. NCI supports clinical trials for COVID-19 treatments and has initiated the NCI COVID-19 in Cancer Patients Study (NCCAPS) to understand the virus's effects on people with cancer. Additionally, they are studying the immune response to vaccination in young cancer patients undergoing immunosuppressive therapy. Genomic studies, such as COVIDcode and COVNET, aim to identify genetic variants associated with COVID-19 outcomes, which could lead to the development of novel therapies and risk identification. NCI has also studied other risk factors, such as smoking status, and its association with COVID-19 severity. Furthermore, NCI, along with the National Institute of Biomedical Imaging and Bioengineering (NIBIB), launched the Digital Health Solutions for COVID-19 initiative to develop digital tools for population health management during the pandemic. This includes smartphone apps and software for identifying infected individuals and tracking test results. Overall, NCI's efforts encompass a wide range of research areas, clinical trials, and digital solutions, all aimed at addressing the COVID-19 pandemic and improving patient care and outcomes. These initiatives provide valuable insights for forecasting COVID-19 hospitalizations by identifying high-risk individuals and developing effective treatments.

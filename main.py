@@ -599,10 +599,10 @@ def auto(path: str or list, start: int or list = 1, memory: int or list = 1, lea
          top: int or list = 1, arima: list or dict or None = None, svr: dict or list or None = None,
          verbose: bool = False, keywords: str or list or None = "COVID-19", max_results: int = 100,
          language: str = "en", country: str = "CA", location: str or None = "Ontario, Canada",
-         days: int = 7, exclude_websites: list or None = None, trusted: list or None = None, model: str or None = None,
-         delay: float = 0, summarize: bool = True, forecasting: str = "COVID-19 hospitalizations",
-         units: str = "weeks", periods: int = 1, previous: list or None = None, prediction: int or None = None,
-         output: str or None = None) -> None:
+         days: int = 7, exclude_websites: list or None = None, trusted: list or None = None,
+         model: str or None or list = None, delay: float = 0, summarize: bool = True,
+         forecasting: str = "COVID-19 hospitalizations", units: str = "weeks", periods: int = 1,
+         previous: list or None = None, prediction: int or None = None, output: str or None = None) -> None:
     """
     Automatically test multiple options.
     :param path: The path to the file.
@@ -659,6 +659,8 @@ def auto(path: str or list, start: int or list = 1, memory: int or list = 1, lea
         arima = [arima]
     if not isinstance(svr, list):
         svr = [svr]
+    if not isinstance(model, list):
+        model = [model]
     # Test all configurations.
     for p in path:
         for s in start:
@@ -671,7 +673,8 @@ def auto(path: str or list, start: int or list = 1, memory: int or list = 1, lea
                                     for t in top:
                                         for a in arima:
                                             for sv in svr:
-                                                test(p, s, m, le, f, b, c, po, t, a, sv, verbose, keywords, max_results,
-                                                     language, country, location, days, exclude_websites,
-                                                     trusted, model, delay, summarize, forecasting, units,
-                                                     periods, previous, prediction, output)
+                                                for mo in model:
+                                                    test(p, s, m, le, f, b, c, po, t, a, sv, verbose, keywords,
+                                                         max_results, language, country, location, days,
+                                                         exclude_websites, trusted, mo, delay, summarize, forecasting,
+                                                         units, periods, previous, prediction, output)

@@ -3,7 +3,7 @@ Below are 10 news articles from the past 7 days regarding COVID-19 to help guide
 Article 1 of 10
 Title: China releases genetic data on new coronavirus, now deadly
 Publisher: University of Minnesota Twin Cities
-Trusted: False
+Trusted: True
 Posted: 1 day ago
 Here is a summary of the article, with some important facts to help forecast COVID-19 hospitalizations:Health officials in Wuhan, China, reported an update on the novel coronavirus (nCoV) pneumonia outbreak, reducing the number of cases to 41 and announcing the first death, while researchers from China released the virus's genetic sequence. The World Health Organization (WHO) has released interim guidance documents, including advice on travel, lab testing, and medical evaluation. Michael Osterholm, a public health expert, noted that there is currently no evidence of human-to-human spread, but the focus now is on identifying the animal source and assessing the risk of outbreaks in other areas.Wuhan officials reported 41 cases of nCoV pneumonia, with two discharged, seven severe infections, and one death. Investigators found no clear evidence of human-to-human transmission, and no healthcare workers have been infected. The outbreak is linked to a seafood market that also sold live animals and wildlife. Chinese scientists released the gene sequencing data, revealing that the nCoV is similar to the SARS-related bat coronavirus. Experts are analyzing the data to understand the virus's origin, testing methods, and potential behavior.The WHO provided preliminary guidance, urging international travelers to follow precautions but not restricting travel. They also released technical documents covering case definition, laboratory guidance, infection prevention, risk communication, and readiness checklist. The article includes links to additional sources, such as the FluTrackers thread, official statements, and Twitter feeds of experts. These sources provide further details and ongoing updates on the nCoV outbreak and response.
 
@@ -31,7 +31,7 @@ Here is a summary of the article:Advancing age remains a significant risk factor
 Article 5 of 10
 Title: As Taiwan’s president, alumna leads fight against COVID-19
 Publisher: Cornell Chronicle
-Trusted: False
+Trusted: True
 Posted: 6 days ago
 Taiwan has been one of the most successful countries in the world at containing COVID-19, with only 812 cases and seven deaths as of January 4, 2021. President Tsai Ing-wen attributes this success to several factors, including early and prudent action, rapid response, and the mobilization of resources. Taiwan's experience in disease prevention from fighting SARS and other epidemics also played a significant role. The country implemented border quarantine, early diagnosis, contact tracing, and public education programs, while also partnering with domestic manufacturers to become the world's second-largest producer of face masks. President Tsai emphasizes the importance of creating a shared sense of purpose and inspiring unity among the people. Taiwan's existing national healthcare system and advanced digital capabilities helped create a comprehensive safety net to track and monitor the virus. The government also prioritized providing timely and transparent information to the public, holding daily press conferences and utilizing social media to build trust and clarify policies. Taiwan was able to avoid lockdown measures by acting quickly and deploying resources early on. The combination of their defensive strategies and the collaboration of the public and private sectors effectively prevented the spread of COVID-19. President Tsai also highlights the importance of effective leadership, which requires a range of character traits and skills that transcend gender. Her legal background has helped her approach policy choices logically and analytically, always ensuring that pandemic-related policies respect personal privacy and human rights.
 
@@ -59,7 +59,7 @@ Hot dog sales have increased significantly during the COVID-19 pandemic, with sa
 Article 9 of 10
 Title: Concerning 911 Trends for EMS Calls During COVID-19 Pandemic
 Publisher: JEMS (Journal of Emergency Medical Services)
-Trusted: False
+Trusted: True
 Posted: 7 days ago
 
 Article 10 of 10

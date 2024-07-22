@@ -9,7 +9,7 @@ Posted: 1 day ago
 Article 2 of 10
 Title: India, U.S. account for a quarter of COVID-19 misinformation: study
 Publisher: University of Alberta
-Trusted: False
+Trusted: True
 Posted: 1 day ago
 A University of Alberta master's student, Sayeed Al-Zaman, studied the prevalence of COVID-19 misinformation in 138 countries between January 2020 and March 2021. The results showed that India had the highest rate of misinformation, accounting for about 16% of the global output. The United States, Brazil, and Spain also had high rates of COVID-19 misinformation, with a correlation between misinformation and death rates in these countries. Social media, especially Facebook, was the largest source of misinformation, accounting for 85% of the total output. Asian and African countries generally had a lower prevalence of misinformation compared to South Asia and North and South America. Al-Zaman's study highlights the global reach and impact of COVID-19 misinformation, with consumers worldwide accepting and believing religious misinformation the most.
 
@@ -30,7 +30,7 @@ Here is a summary of the article: As of December 8, 2021, 85.8% of eligible peop
 Article 5 of 10
 Title: MIS-C and COVID-19: Uncommon but Serious Inflammatory Syndrome in Kids and Teens
 Publisher: Johns Hopkins Medicine
-Trusted: False
+Trusted: True
 Posted: 3 days ago
 Multisystem inflammatory syndrome in children (MIS-C) is a rare but severe condition that can occur following a COVID-19 infection. First identified in April 2020, MIS-C shares similarities with toxic shock syndrome and Kawasaki disease, causing body-wide inflammation. The syndrome typically affects school-age children, with 8 and 9-year-olds being the most susceptible, although it has also been observed in infants and young adults. Symptoms of MIS-C include fever, rashes, red eyes, diarrhea, vomiting, and abdominal pain, often requiring urgent medical attention. Left untreated, it can lead to organ damage, particularly to the heart. However, with prompt medical care, the condition is treatable, and full recovery is possible through the use of medications such as intravenous immunoglobulin, steroids, and anti-inflammatory drugs. Parents are advised to seek medical assistance if their child exhibits any of the mentioned symptoms, especially if they are aware of a previous COVID-19 exposure or infection.
 

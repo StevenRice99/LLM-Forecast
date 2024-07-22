@@ -17,7 +17,7 @@ This interim guidance is intended for countries seeking to monitor the relative 
 Article 3 of 10
 Title: Our COVID-19 Outbreak Response | AHS CEO
 Publisher: Alberta Health Services
-Trusted: False
+Trusted: True
 Posted: 2 days ago
 
 Article 4 of 10

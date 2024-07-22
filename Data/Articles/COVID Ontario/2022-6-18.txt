@@ -3,7 +3,7 @@ Below are 10 news articles from the past 7 days regarding COVID-19 to help guide
 Article 1 of 10
 Title: Suspension of Senate COVID-19 vaccination requirement
 Publisher: Senate of Canada
-Trusted: False
+Trusted: True
 Posted: 1 day ago
 The Steering Committee of the Standing Committee on Internal Economy, Budgets, and Administration (CIBA) has decided to suspend the COVID-19 vaccination requirement for Senate workplaces, with the change taking effect on June 20, 2022. This decision was made due to high vaccination rates among Senate staff (around 97-98%), a decrease in COVID-19 cases, and the relaxation of vaccine mandates in Ontario and Quebec. While the vaccination requirement is being lifted, preventive measures such as masking, physical distancing, and contact tracing for confirmed cases will remain in place in the Senate, which will continue to adhere to public health guidance. This decision suggests that COVID-19 hospitalizations are expected to remain manageable, given the high vaccination rates and decreasing case numbers.
 
@@ -24,7 +24,7 @@ The article discusses Long COVID, also known as post COVID-19 condition, which r
 Article 4 of 10
 Title: Long COVID: Long-Term Effects of COVID-19
 Publisher: Johns Hopkins Medicine
-Trusted: False
+Trusted: True
 Posted: 4 days ago
 The article discusses the long-term effects of COVID-19, which can last for months and cause various health problems. While mild or moderate COVID-19 cases usually resolve within two weeks, some individuals experience lingering symptoms even after the initial illness has subsided. The World Health Organization (WHO) defines post-COVID-19 condition or long COVID as the persistence or recurrence of symptoms three months after the initial infection. These symptoms can include fatigue, shortness of breath, and cognitive issues. The article highlights that while certain risk factors increase the likelihood of a severe COVID-19 bout, there is no clear link between these factors and long-term complications. Long COVID can affect individuals who had mild symptoms, although those with more severe initial illness tend to have more long-term impairments. SARS-CoV-2 can cause damage to multiple organs, including the lungs, heart, nervous system, kidneys, and liver. Mental health issues, such as anxiety, depression, and PTSD, may also arise due to the impact of the illness and intensive care treatment. Vaccination against COVID-19 reduces the risk of infection, hospitalization, and death. While breakthrough infections can occur, research suggests that vaccination likely lowers the risk of long COVID. The article also discusses various long-term symptoms, such as breathing issues, heart problems, kidney damage, loss of taste and smell, neurologic problems, cognitive impairment, and mental health issues. These symptoms can have a significant impact on daily functioning and may require ongoing medical care. Additionally, the article mentions the challenges faced by healthcare systems in managing the large number of patients with long-term COVID-19 symptoms, especially when compounded by the social and economic impacts of the pandemic. Overall, the article provides an overview of the diverse and lasting effects of COVID-19, highlighting the need for ongoing research and medical support for those affected.
 

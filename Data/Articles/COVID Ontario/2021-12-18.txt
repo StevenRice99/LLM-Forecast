@@ -57,7 +57,7 @@ Health officials in Kingston, Ontario, Canada, are tightening gathering restrict
 Article 9 of 10
 Title: Impact of COVID-19 on hospital hand hygiene performance: a multicentre observational study using group electronic monitoring
 Publisher: CMAJ Open
-Trusted: False
+Trusted: True
 Posted: 4 days ago
 
 Article 10 of 10

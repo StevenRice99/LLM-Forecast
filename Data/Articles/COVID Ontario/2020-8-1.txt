@@ -17,7 +17,7 @@ Sure! Here is a summary of the article: The National Research Council (NRC) of C
 Article 3 of 10
 Title: COVID-19: Social media users more likely to believe false information
 Publisher: McGill Newsroom
-Trusted: False
+Trusted: True
 Posted: 2 days ago
 The study by McGill University researchers found that people who rely on social media for news are more likely to have misperceptions about COVID-19 and are less likely to follow public health recommendations like social distancing. Those who get their information from traditional news media are more likely to accurately understand the risk of COVID-19 and to take appropriate actions. The results also showed that misinformation about COVID-19 is more prevalent on social media platforms like Twitter compared to traditional news media. This study highlights the potential impact of misinformation on social media on public health during a crisis like the COVID-19 pandemic. Understanding the sources of information that people rely on and correcting misperceptions can be crucial in forecasting and managing COVID-19 hospitalizations and the overall public health response.
 
@@ -45,7 +45,7 @@ The article discusses the impact of the COVID-19 pandemic on consumer behavior a
 Article 7 of 10
 Title: Is DNA key to whether you get COVID-19?
 Publisher: Queen's University
-Trusted: False
+Trusted: True
 Posted: 3 days ago
 There is emerging evidence that suggests men may be more susceptible to contracting COVID-19 than women, which has sparked an international effort to identify the genetic factors that influence vulnerability and resistance to the virus. The Canadian government, in collaboration with the United Kingdom and the United States, aims to contribute 10,000 fully decoded genomes of COVID-19 patients to this effort, which is part of a larger global initiative to collect 100,000 genomes. Dr. David Maslove, a Clinician Scientist with the Department of Medicine and Critical Care Program at Queen's University, is coordinating the Canadian arm of the project. Previous studies have shown that susceptibility to infections can be partially influenced by genetics, and that the likelihood of dying from an infection is more heritable than dying from cancer. Early studies on COVID-19 have identified risk factors such as age, hypertension, and diabetes, but there are additional factors that influence the severity of the illness. There is also a higher mortality rate among men, which may be partially explained by genetic differences in sex chromosomes. The GenOMICC study aims to identify the genetic determinants of COVID-19 by sequencing the genomes of a large number of patients. Researchers hope that by identifying specific genes and molecular pathways, they can gain insights into how the coronavirus infects cells and how the body responds, leading to more effective treatments. Canada is playing a key role in this international initiative due to its expertise in genomics and its strong track record in collaborative critical care research.
 

@@ -24,7 +24,7 @@ The World Health Organization (WHO) has downgraded COVID-19 and no longer consid
 Article 4 of 10
 Title: ‘It’s still killing and it’s still changing.’ Ending COVID-19 states of emergency sparks debate
 Publisher: Science
-Trusted: False
+Trusted: True
 Posted: 1 day ago
 
 Article 5 of 10
@@ -44,14 +44,14 @@ WHO has released an updated Strategic Preparedness and Response plan for 2023-20
 Article 7 of 10
 Title: Your vascular system and COVID
 Publisher: Heart and Stroke Foundation of Canada
-Trusted: False
+Trusted: True
 Posted: 3 days ago
 The endothelium, the lining of blood vessels, can become damaged and cause a domino effect of problems throughout the vascular system. This damage can lead to high blood pressure and reduced blood flow to vital organs. Inflammation and injury can also cause the vascular system to clog or leak. Atherosclerosis, for example, is when the endothelium builds up plaque, which can lead to a clot and cause a heart attack or stroke. Peripheral artery disease (PAD) is another condition that affects the arteries in the legs and arms. Diseases of the vascular system, such as atherosclerosis and PAD, can lead to heart attacks and strokes, making the blood vessels a critical factor in cardiovascular health. Understanding the role of the endothelium and the vascular system is crucial for preventing and treating cardiovascular diseases.
 
 Article 8 of 10
 Title: What contributes to COVID-19 online disinformation among Black Canadians: a qualitative study
 Publisher: CMAJ Open
-Trusted: False
+Trusted: True
 Posted: 5 days ago
 
 Article 9 of 10

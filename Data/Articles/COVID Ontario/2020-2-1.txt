@@ -35,7 +35,7 @@ Posted: 2 days ago
 Article 6 of 10
 Title: WHO declares Public Health Emergency on novel coronavirus
 Publisher: Pan American Health Organization
-Trusted: False
+Trusted: True
 Posted: 2 days ago
 On January 30, 2020, the Director-General of the World Health Organization (WHO), Dr. Tedros Adhanom Ghebreyesus, declared the 2019-nCoV novel coronavirus outbreak a Public Health Emergency of International Concern (PHEIC). At that time, there were over 7,700 confirmed cases in China and 170 deaths, with an additional 82 cases in 18 other countries. The WHO's Emergency Committee advised the global community to support lowand middle-income countries and facilitate access to diagnostics, vaccines, and therapeutics. Dr. Tedros emphasized the importance of preparedness and response measures, including active surveillance, early detection, isolation, case management, and contact tracing. The committee also heard updates from the Chinese Ministry of Health, which reported 7,711 confirmed and 12,167 suspected cases, with 1,370 severe cases and 170 deaths, and 124 recoveries. The WHO noted 82 cases outside China, with human-to-human transmission in 3 countries and no deaths. Dr. Jarbas Barbosa of the Pan American Health Organization highlighted that the PHEIC declaration aimed to mobilize more international resources to support China in interrupting the transmission.
 

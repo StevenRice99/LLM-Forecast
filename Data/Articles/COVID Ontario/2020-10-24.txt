@@ -45,7 +45,7 @@ The COVID-19 pandemic has exposed and exacerbated existing social and economic i
 Article 7 of 10
 Title: Some vaccines should be mandatory but not COVID-19, says U of A expert
 Publisher: Folio - University of Alberta
-Trusted: False
+Trusted: True
 Posted: 3 days ago
 While Canada should have a mandatory vaccination policy for childhood infectious diseases with available vaccines, this approach may not be as effective for COVID-19 due to potential objections and complexities. Readiness and willingness for COVID-19 vaccination are influenced by factors such as disease presence and impact, with countries severely affected by the pandemic likely to be more accepting of measures to control it. Policy makers should address readiness concerns and provide clear information about vaccine production, safety, and efficacy to increase vaccination uptake. However, mandatory COVID-19 vaccination may face challenges due to genuine fears about accelerated vaccine development and distribution, especially among racialized populations and communities of color. Ensuring equitable access to the vaccine globally and within Canada is crucial, considering the disproportionate impact on certain communities.
 

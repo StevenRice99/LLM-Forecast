@@ -24,7 +24,7 @@ The article reports that the community risk index for COVID-19 in the Peterborou
 Article 4 of 10
 Title: COVID-19 Vaccine: What You Need to Know
 Publisher: Johns Hopkins Medicine
-Trusted: False
+Trusted: True
 Posted: 3 days ago
 The article discusses the importance of the COVID-19 vaccine in preventing serious illness, hospitalization, and death. It highlights that vaccines are updated to combat the evolving virus strains, with the 2023-2024 vaccine targeting the XBB.1.5 variant. The updated vaccine is effective against current variants causing COVID-19 cases in the U.S. Recommendations include one shot for most individuals, with exceptions for certain groups like immunocompromised individuals and young children. Side effects are typically mild and short-lived. The vaccine is recommended for pregnant individuals and children, with guidance on timing for those previously infected or vaccinated. Natural immunity is not superior to vaccine-induced immunity. The article emphasizes the safety and effectiveness of COVID-19 vaccines approved by the FDA and encourages getting vaccinated at pharmacies or other convenient locations.
 

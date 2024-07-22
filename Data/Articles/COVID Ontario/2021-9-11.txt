@@ -10,7 +10,7 @@ Here is a summary of the article: British Columbia health officials reported 820
 Article 2 of 10
 Title: Wastewater Surveillance for Covid-19 Virus
 Publisher: Government of Newfoundland and Labrador
-Trusted: False
+Trusted: True
 Posted: 2 days ago
 Here is a summary of the article: Title: COVID-19 Wastewater Surveillance in Newfoundland and Labrador Objective: To provide an overview of COVID-19 wastewater surveillance efforts in Newfoundland and Labrador and its potential impact on forecasting COVID-19 hospitalizations. Background: SARS-CoV-2, the virus that causes COVID-19, can be shed in the stool of infected individuals regardless of symptom presentation or diagnosis. Monitoring municipal wastewater for this virus offers a way to detect its presence in a large population, providing an early warning of potential outbreaks, including asymptomatic cases. Wastewater monitoring is a valuable tool for mass public health surveillance. Methodology: Wastewater samples are collected from treatment plants and shipped to laboratories for analysis. The virus RNA is then quantified using PCR analysis, and the results are reported as gene copies/mL to the relevant department. The data is made publicly available through a web mapping application, offering insights into sampling locations, sewersheds, and historical COVID-19 levels in wastewater. Results and Impact on Hospitalization Forecasting: The article provides a summary of sample dates, statuses, numbers analyzed, and testing frequencies. While specific data is not included, the mapping application allows for the tracking of COVID-19 prevalence over time and across different areas. This information can help public health officials identify emerging hotspots and potential outbreak locations, enabling them to allocate resources effectively and provide early warnings to the community. By detecting asymptomatic cases through wastewater surveillance, there is a higher chance of catching most COVID-19 cases, which can inform more accurate hospitalization forecasts and public health guidance. Resources: The article includes links to the COVID-19 Wastewater Mapping Application and relevant provincial COVID-19 resources, as well as contact information for the Community Water and Wastewater Section. Overall, this article highlights the value of wastewater surveillance as a tool for COVID-19 public health management and its potential to provide early warnings of outbreaks, helping to forecast and prepare for hospitalizations.
 
@@ -24,7 +24,7 @@ The article presents insights from the Canadian Survey on Business Conditions, c
 Article 4 of 10
 Title: New study will assess impact of COVID-19 vaccination on Canadians with immune-mediated inflammatory disease
 Publisher: McGill University Health Centre
-Trusted: False
+Trusted: True
 Posted: 2 days ago
 Here is a summary of the article: In Canada, over 7 million people suffer from immune-mediated inflammatory diseases (IMID) such as rheumatoid arthritis and inflammatory bowel disease. As these conditions require immunosuppressive drugs, there are concerns about the effectiveness and safety of COVID-19 vaccines for this vulnerable group. Led by Dr. Sasha Bernatsky, a nationwide study is being conducted to assess vaccine effectiveness, safety, and hesitancy among 2,500 IMID patients. The research team, including experts from multiple universities, will collect and analyze blood samples to study antibody levels, post-vaccine reactions, and COVID infections in this population. The study aims to address knowledge gaps, alleviate safety concerns, and inform public health recommendations for COVID-19 vaccination in vulnerable patient groups. The Vaccine Surveillance Reference Group (VSRG) and the COVID-19 Immunity Task Force (CITF) are supporting this important research to protect Canadians with IMID from COVID-19 and ensure evidence-based decisions.
 
@@ -37,14 +37,14 @@ Posted: 3 days ago
 Article 6 of 10
 Title: Screen yourself for COVID-19
 Publisher: Queen's University
-Trusted: False
+Trusted: True
 Posted: 3 days ago
 Queen's University is encouraging its community to download the SeQure app, a mobile safety application, as the fall term begins to aid in COVID-19 self-assessment and help keep the campus safe. The app includes a COVID assessment feature that focuses on symptoms, travel history, and potential virus exposure. If users are cleared, a green badge with a QR code will appear, which is valid for 24 hours and grants them access to athletics and recreation facilities and programs. The app also offers quick access to campus security and emergency services. Regular health screening through SeQure can help identify potential COVID-19 cases and reduce the risk of spreading the virus on campus. This measure is expected to assist in forecasting COVID-19 hospitalizations by identifying potential cases early and preventing outbreaks.
 
 Article 7 of 10
 Title: PAHO Director urges countries to prioritize pregnant and lactating women for COVID-19 vaccinations
 Publisher: Pan American Health Organization
-Trusted: False
+Trusted: True
 Posted: 3 days ago
 Here is a summary of the article: COVID-19 poses a severe risk to pregnant women in Latin America and the Caribbean, with more than 270,000 infections and 2,600 deaths among pregnant women in the region. In Mexico and Colombia, COVID-19 was the leading cause of maternal deaths in 2021, and Mexico, Argentina, and Brazil account for half of all COVID-19 deaths among pregnant women in the area. The Pan American Health Organization (PAHO) recommends prioritizing pregnant and lactating women for vaccination and ensuring their access to health services. PAHO also emphasizes the continued importance of public health measures such as mask-wearing, social distancing, and avoiding indoor gatherings for pregnant women. The organization reports nearly 1.5 million cases and 22,000 deaths in the Americas in the last week, with varying trends across countries. Vaccination campaigns face supply challenges, with only 28% of people in Latin America and the Caribbean fully vaccinated. PAHO is working to increase vaccine access through various initiatives. To forecast COVID-19 hospitalizations, the following facts could be useful: Pregnant women infected with COVID-19 are more likely to develop severe symptoms and require ventilation and intensive care. They also have a higher risk of pre-term delivery. Ensuring vaccine access and prioritizing pregnant women for vaccination can help reduce hospitalizations. Disruptions to maternal and newborn care due to the pandemic can impact pregnancy-related health outcomes and increase the risk of complications. The overall vaccination rate in the region is low, with limited supplies impacting the progress of vaccination campaigns. Therefore, to forecast COVID-19 hospitalizations, it is crucial to consider the vulnerability of pregnant women, the availability of vaccines, and the potential impact of disrupted healthcare services. Increasing vaccine access and prioritizing the vaccination of pregnant women can help mitigate the risk of severe COVID-19 cases and hospitalizations in this high-risk group.
 
@@ -57,7 +57,7 @@ Posted: 3 days ago
 Article 9 of 10
 Title: Immunization of Workers for COVID-19 Policy
 Publisher: Alberta Health Services
-Trusted: False
+Trusted: True
 Posted: 3 days ago
 The article announces a policy on the immunization of workers for COVID-19 to prevent the spread of the virus and protect patients, visitors, and staff in AHS facilities. The policy was developed in consultation with unions and stakeholders to ensure the safety of healthcare facilities. To address questions about the policy, three experts were invited to provide clarification: Dr. Mircea Fagarasanu, Dr. Braden Manns, and Dr. Stephen Tsekrekos. Workers can book their COVID-19 immunization appointments through the provided link, with more information and an FAQ to be released soon. This policy emphasizes the importance of immunization in maintaining safe healthcare environments and managing COVID-19 hospitalizations.
 

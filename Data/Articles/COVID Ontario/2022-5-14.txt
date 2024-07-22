@@ -38,14 +38,14 @@ The article discusses a new study from the University of Toronto Mississauga tha
 Article 6 of 9
 Title: COVID-19 has negatively impacted how auditors work | Waterloo News
 Publisher: University of Waterloo
-Trusted: False
+Trusted: True
 Posted: 4 days ago
 The COVID-19 pandemic has had a significant impact on financial statement auditing, with the shift to remote work and virtual meetings potentially disrupting group dynamics and trust within audit teams. While the use of virtual meeting platforms has enabled teams to continue their work, the researchers raise concerns about the potential breakdown of coaching and review processes in a virtual setting, particularly when trust and physical distance are factors. This could have negative consequences for cost, efficiency, and work quality, as well as the accuracy of financial information, which is crucial for maintaining public trust and a healthy economy. As the pandemic recedes, it will be important to study and address these challenges to ensure the effectiveness of group work and interactions in the post-pandemic world.
 
 Article 7 of 9
 Title: Quebec using McGill lab to test wastewater for COVID-19
 Publisher: McGill Reporter
-Trusted: False
+Trusted: True
 Posted: 4 days ago
 Here is a summary of the article: McGill University's McConnell Engineering Building has been at the forefront of COVID-19 wastewater testing since the pandemic's onset. Led by Professor Dominic Frigon, the lab has been analyzing sewage water for traces of the coronavirus, providing a cost-effective way to detect infected individuals, including asymptomatic ones. The Quebec government has recognized the value of this initiative and will utilize the laboratory to conduct widespread wastewater testing in several regions over the next year. Wastewater testing for COVID-19 offers a rapid snapshot of viral circulation among the population, including those with intestinal problems associated with the virus. The project received initial funding from McGill and later secured additional support from the FRQNT and family foundations. The data provided valuable insights into the trajectory of the Omicron variant, influencing McGill's COVID-19 strategy. The demand for PCR tests during the Omicron wave overwhelmed testing centers, and daily case counts skyrocketed. As a result, the Health Ministry restricted PCR tests to priority populations, rendering daily case numbers less reliable. Journalists advocated for wastewater testing as a solution, and the Ministry partnered with Frigon's lab and l'Institut national de santé publique du Québec (INSPQ) to enhance their testing capabilities. Federal Health Minister Jean-Yves Duclos visited the lab, acknowledging the importance of their "lifesaving work" in the ongoing battle against COVID-19 and future pandemics. The Public Health Agency of Canada is also establishing a pan-Canadian wastewater testing network, creating committees to discuss sampling, analysis, variant detection, and epidemiology. Frigon's lab aims to expand wastewater testing for other purposes, such as antimicrobial resistance surveillance and seasonal flu monitoring.
 

@@ -10,7 +10,7 @@ This article provides guidance on using behavioral science principles to increas
 Article 2 of 9
 Title: Calgarians can now track traces of COVID-19 in their wastewater
 Publisher: University of Calgary
-Trusted: False
+Trusted: True
 Posted: 1 day ago
 The Centre for Health Informatics (CHI) COVID-19 Data Tracker now provides Calgarians with real-time data on SARS-CoV-2 levels in Calgary's wastewater. This data is collected by a team from various institutions, including the Cumming School of Medicine (CSM) and is accessible through an interactive map on the CHI website. The data reveals that high traces of SARS-CoV-2 in wastewater precede an increase in clinically diagnosed COVID-19 cases, offering an early warning system for outbreaks. The City of Calgary has supported this initiative, recognizing its potential to protect public health. The tracker also provides insights into case transmission sources, with unknown sources accounting for around 35% in recent weeks. The CHI plans to introduce more detailed data for specific areas within Calgary in the coming weeks, enhancing the tool's ability to identify outbreak locations and inform reopening decisions. Location-specific sampling is also in development, further improving the accuracy of COVID-19 hospitalization forecasts and community safety.
 
@@ -23,14 +23,14 @@ Posted: 2 days ago
 Article 4 of 9
 Title: The hidden long-term cognitive effects of COVID-19
 Publisher: Harvard Health
-Trusted: False
+Trusted: True
 Posted: 2 days ago
 Here is a summary of the article: The article discusses the impact of COVID-19 on the brain and how it can affect cognitive function, including concentration and memory. The virus can enter the brain through the nose, affecting the brain's blood vessels and causing inflammation and cognitive issues. People with severe COVID-19 cases are more likely to experience these issues, but even mild cases can result in cognitive problems. Long COVID, or prolonged symptoms months after infection, may also involve brain-related symptoms. The article also mentions the study that found that 81% of hospitalized COVID-19 patients experienced some form of cognitive dysfunction, most commonly confusion and altered consciousness. Additionally, the article highlights the higher risk of cognitive issues in older COVID-19 patients and those with pre-existing neurological conditions. To help forecast COVID-19 hospitalizations, the article suggests that understanding the neurological effects of the virus is crucial. The impact on cognitive function can affect a person's ability to perform daily tasks and may require rehabilitation services. Additionally, the article emphasizes the need for further research to fully understand the long-term brain-related consequences of COVID-19. In terms of important forecasting factors, the article suggests that the incidence of cognitive dysfunction in COVID-19 patients could result in a higher demand for hospital resources, including neurological and rehabilitation services. The potential long-term effects on the brain may also lead to an increased need for outpatient care and rehabilitation services, impacting healthcare systems. Additionally, the higher risk of cognitive issues in older adults and those with neurological conditions may contribute to hospitalization rates.
 
 Article 5 of 9
 Title: On the hunt for COVID-19 mutants
 Publisher: Alberta Health Services
-Trusted: False
+Trusted: True
 Posted: 2 days ago
 Alberta Precision Laboratories (APL) has been at the forefront of tracking and understanding the evolution of the COVID-19 virus in Alberta, Canada, since the beginning of the pandemic. APL's team of lab scientists and technologists, including Sandy Shokoples and Kanti Pabbaraju, have been crucial in detecting and monitoring variants of concern. On December 24, Shokoples discovered Alberta's first case of the U.K. variant, which sparked an "all-hands-on-deck" situation as the team worked tirelessly to test all positive COVID-19 samples for mutations. This proactive approach has provided valuable data for health authorities and policymakers in their efforts to slow the spread of the virus and prepare for potential future waves. APL has developed its own tests to screen for variants of concern, and they have screened over 7,000 COVID-19 positive samples, as well as conducting full genome sequencing on hundreds of selected samples weekly. This ongoing surveillance of the virus's genetic code is vital for identifying and tracking variations that may impact the diagnosis and treatment of COVID-19 in the community. The work of APL's lab team has been instrumental in Alberta's response to the pandemic and has helped inform public health measures to protect the population.
 

@@ -3,7 +3,7 @@ Below are 10 news articles from the past 7 days regarding COVID-19 to help guide
 Article 1 of 10
 Title: Initial health care costs for COVID-19 in British Columbia and Ontario, Canada: an interprovincial population-based cohort study
 Publisher: CMAJ Open
-Trusted: False
+Trusted: True
 Posted: 2 days ago
 
 Article 2 of 10
@@ -36,7 +36,7 @@ A B.C. dad is "over the moon" after his photo of a unique cloud formation was fe
 Article 6 of 10
 Title: Engineering grads put time and money into COVID-19 vaccine solutions | Waterloo News
 Publisher: University of Waterloo
-Trusted: False
+Trusted: True
 Posted: 3 days ago
 Here is a summary of the article: Refana, a startup with ties to Waterloo Engineering, is developing a new vaccine technology called RefanaVax-MV to address the evolving nature of SARS-CoV-2, the virus that causes COVID-19. The vaccine is designed as a tri-valent vaccine, offering protection against three variants of the virus, including Delta and Omicron. This multi-valent approach is an improvement over previous mono-valent vaccines that only protect against a single variant. The RefanaVax-MV vaccine is created using a Whole Inactivated Virus (WIV)-based approach, providing better overall coverage by targeting the full genetic structure of the virus. This technology has several advantages, including lower costs, easier distribution, and a strong safety profile based on established vaccine design principles. Refana has also designed a modular manufacturing system that reduces capital and operating costs, making localized manufacturing more feasible, especially in less-developed countries. The development of the RefanaVax-MV vaccine is a result of the collaboration between Refana and the Illinois Institute of Technology Research Institute (ITTRI) in Chicago. The vaccine technology is significant because, according to Mark Turchan, one of the early investors in Refana, there are still over three billion people worldwide who are not fully vaccinated against SARS-CoV-2. The article also highlights the involvement of two brothers, Mark and Glenn Turchan, graduates of Waterloo Engineering, who are using their engineering problem-solving skills to help shape the future of the company and contribute to the fight against the virus.
 

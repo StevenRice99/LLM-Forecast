@@ -10,7 +10,7 @@ The COVID-19 pandemic has significantly impacted the global supply chain, causin
 Article 2 of 10
 Title: Protective gene variant against COVID-19 identified
 Publisher: McGill Newsroom
-Trusted: False
+Trusted: True
 Posted: 1 day ago
 Here is a summary of the article: The article discusses research that suggests genetics may play a role in the severity of COVID-19 infections, with individuals carrying a specific DNA segment having a 20% lower risk of developing critical illness. This DNA segment is inherited from Neanderthals and is present in about half of all people outside of Africa. However, it is challenging to identify the exact protective genetic variant within this DNA segment that could be targeted for medical treatment. To overcome this challenge, researchers studied individuals with African ancestry who lack Neanderthal heritage and therefore most of this DNA segment. They found that individuals of African descent had the same protection as those of European descent, which helped pinpoint a specific gene variant (rs10774671-G) that provides protection from severe COVID-19 infection. This variant determines the length of the protein encoded by the gene OAS1, with the longer variant being more effective at breaking down the SARS-CoV-2 virus. The discovery highlights the importance of including diverse populations in genetic studies, as the protective variant was identified by studying individuals of both African and European ancestry. Understanding these genetic risk factors is key to developing new treatments for COVID-19. The specific gene variant identified in this study could be a potential target for future medical treatments to reduce the severity of COVID-19 infections.
 

@@ -10,14 +10,14 @@ Here is a summary of the article: A recent Mayo Clinic study published in Mayo C
 Article 2 of 10
 Title: Easing of certain COVID-19 preventive measures in Senate workplaces
 Publisher: Senate of Canada
-Trusted: False
+Trusted: True
 Posted: 1 day ago
 The Steering Committee of the Standing Committee on Internal Economy, Budgets, and Administration (CIBA) has announced the relaxation of some COVID-19 preventive measures in Senate workplaces, while still maintaining many precautions. The most significant changes include allowing senators and staff to remove masks at their desks if two-meter physical distancing is possible and the reopening of the cafeteria with full capacity and warm food options. Shuttle services have also returned to full capacity, with mandatory mask-wearing. The vaccination requirement for staff and visitors remains in effect, and increased cleaning and contact tracing will continue. These decisions are made with the health and safety of senators and staff as the top priority, following guidance from public health authorities. This gradual easing of restrictions suggests that COVID-19 hospitalizations are expected to remain manageable, allowing for a cautious return to normalcy in Senate workplaces.
 
 Article 3 of 10
 Title: COVID-19 Assessment Centre and Clinic moving to Niagara Falls Site
 Publisher: Niagara Health
-Trusted: False
+Trusted: True
 Posted: 1 day ago
 Niagara Health is consolidating its COVID-19 services into one location at the Niagara Falls Site, closing the St. Catharines Site. This change will increase parking and clinic space for Outpatient Mental Health Services. The COVID-19 Assessment Centre in St. Catharines is closing on March 27, while the Clinical Assessment Centre will move to Niagara Falls on April 11. Both centers require appointments and do not accept walk-ins. The hours of operation are Monday to Friday from 8 a.m. to 4 p.m., excluding statutory holidays. These changes will help streamline COVID-19 services and free up resources for other important healthcare services.
 

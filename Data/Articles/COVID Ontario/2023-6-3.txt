@@ -23,7 +23,7 @@ Posted: 1 day ago
 Article 4 of 10
 Title: Healthcare service disruptions during COVID-19 in Latin America and the Caribbean
 Publisher: Pan American Health Organization
-Trusted: False
+Trusted: True
 Posted: 1 day ago
 The article discusses the findings from a series of surveys conducted by the Pan American Health Organization/World Health Organization (PAHO/WHO) on the impact of COVID-19 on healthcare services in 14 Latin American and Caribbean countries. The surveys revealed that an average of 27% of essential health services were disrupted in the fourth round conducted in Q4 2022. The disruptions were mainly seen in primary care services, elective surgeries, and rehabilitation services. Factors contributing to the disruptions included low levels of care-seeking by individuals due to fear of infection, limited access to transportation, and lack of awareness. On the supply side, shortages of health workforce, medicines, and health products also played a role in the ongoing disruptions. Despite the challenges, most countries had plans in place to ensure continuity of services during the pandemic and had implemented recovery actions. Many countries allocated additional funding towards long-term system recovery, resilience, and preparedness, with a focus on investing in digital health technologies and infrastructure. Critical areas such as surveillance, laboratories, diagnostics, logistics, and infection prevention and control were strengthened to better respond to the challenges posed by COVID-19.
 

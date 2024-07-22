@@ -52,7 +52,7 @@ Here is a summary of the article: Title: COVID-19: Children and Families in the 
 Article 8 of 9
 Title: Coping with COVID-19
 Publisher: CAMH
-Trusted: False
+Trusted: True
 Posted: 5 days ago
 
 Article 9 of 9

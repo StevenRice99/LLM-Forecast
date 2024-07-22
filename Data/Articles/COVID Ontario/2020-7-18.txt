@@ -31,7 +31,7 @@ Here is a summary of the article, including important facts to help forecast COV
 Article 5 of 10
 Title: Coronavirus, Social and Physical Distancing and Self-Quarantine
 Publisher: Johns Hopkins Medicine
-Trusted: False
+Trusted: True
 Posted: 3 days ago
 Here is a summary of the article: To prevent the spread of COVID-19 and "flatten the curve," the article recommends social and physical distancing, self-quarantine, and isolation for those infected. Social distancing means staying home and avoiding in-person contact as much as possible, while physical distancing refers to maintaining a distance of at least 6 feet from others and wearing face masks when outside the home. Self-quarantine is recommended for those exposed to the virus for 14 days to monitor for symptoms and prevent spreading the virus to others. Isolation is for those confirmed infected, and it involves separating the infected from the uninfected, either at home or in a healthcare facility. "Flattening the curve" aims to slow the infection rate so hospitals can manage patient numbers, beds, equipment, and healthcare providers. These practices, along with proper hygiene, can help slow the spread of COVID-19 and reduce the impact on healthcare facilities. Regarding forecasting hospitalizations, the article emphasizes that physical distancing, self-quarantine, and proper hygiene can help lower the number of severe cases that require hospitalization. By reducing the rate of infection, hospitals can better manage patient numbers and resources, preventing a sudden surge that could overwhelm their capacity. Thus, these preventive measures are crucial in forecasting and managing COVID-19 hospitalizations.
 

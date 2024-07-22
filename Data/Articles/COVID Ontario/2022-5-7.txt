@@ -3,7 +3,7 @@ Below are 10 news articles from the past 7 days regarding COVID-19 to help guide
 Article 1 of 10
 Title: PAHO Establishes High-Level Commission on Mental Health and COVID-19
 Publisher: Pan American Health Organization
-Trusted: False
+Trusted: True
 Posted: 1 day ago
 The COVID-19 pandemic has had a significant impact on mental health, with a 25% increase in global anxiety and depression rates in the first year. The PAHO analysis found neurological or mental disorders in one-third of COVID-19 patients in the Region, and depression symptoms in 14.7-22% of health personnel. The new High-level Commission on Mental Health and COVID-19 aims to address these issues with a focus on recovery, vulnerable populations, integration, financing, and prevention. The commission consists of various experts in the field, including leaders from health organizations, academics, and civil society members. They will prepare evidence-based recommendations to improve mental health services and transform mental health systems, with a report expected by the end of 2022. This initiative is particularly important given the historically low priority of mental health in the Americas, which has hindered the ability to respond adequately during the pandemic.
 

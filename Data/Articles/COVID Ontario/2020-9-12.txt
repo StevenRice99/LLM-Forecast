@@ -10,7 +10,7 @@ Here is a summary of the article: A recent study from Laval University in Quebec
 Article 2 of 10
 Title: On trend: Modelling the future in a COVID-19 world
 Publisher: University of Alberta
-Trusted: False
+Trusted: True
 Posted: 1 day ago
 Marie Betsy Varughese, a senior modeller with Alberta Health in Canada, has been working tirelessly with an interdisciplinary team to understand and curb the spread of COVID-19. Varughese, with a background in mathematical biology, builds mathematical models to predict disease spread, a skill she honed during her PhD studies on tuberculosis in Indigenous communities. In January 2020, Varughese and her former supervisor, Michael Li, started modelling COVID-19 using data from Wuhan, China. This proactive approach prepared them for when COVID-19 reached Canada. Varughese's work now involves analyzing data, contributing to briefings, and providing insights for policy decisions. Math modelling helps analyze interventions like physical distancing and predict potential outcomes, aiding in Alberta's relaunch strategy and preparation for a potential second wave. Li highlights Varughese's leadership role and their focus on understanding risk factors for larger outbreaks in Calgary and care facilities.
 
@@ -38,7 +38,7 @@ The article introduces the ACT-Accelerator, a global initiative to address the C
 Article 6 of 10
 Title: Nurses pen light-hearted poem on COVID-19 safety
 Publisher: Alberta Health Services
-Trusted: False
+Trusted: True
 Posted: 3 days ago
 
 Article 7 of 10
@@ -51,7 +51,7 @@ The article discusses the global race to develop a vaccine against the SARS-CoV-
 Article 8 of 10
 Title: Why COVID-19 is more deadly in people with obesity—even if they're young
 Publisher: Science
-Trusted: False
+Trusted: True
 Posted: 4 days ago
 
 Article 9 of 10

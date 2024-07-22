@@ -10,20 +10,20 @@ COVID-19 cases are on the rise again in Quebec, Canada, and experts are advising
 Article 2 of 10
 Title: Omicron and its Subvariants: A Guide to What We Know
 Publisher: Yale Medicine
-Trusted: False
+Trusted: True
 Posted: 1 day ago
 Here is a summary of the article, incorporating important facts to aid in forecasting COVID-19 hospitalizations: As of September 2023, the battle against COVID-19 continues with the Omicron variant and its subvariants driving most cases in the United States. The article highlights two recent Omicron strains: EG.5 ("Eris") and BA.2.86 ("Pirola"). Eris arrived in the US over the summer and quickly became the dominant strain, possibly contributing to a summer surge in cases and hospitalizations. Scientists are still studying its transmissibility and severity. Pirola, on the other hand, has a relatively low number of reported cases but has been detected in multiple countries, including the US. It exhibits over 30 mutations in its spike protein, which may indicate increased transmissibility and severity, but this is yet to be confirmed. To stay updated, the article recommends following organizations like Yale Medicine and referring to the CDC's weekly updates on tracking COVID-19 variants. The dynamic nature of the virus and its rapid evolution emphasize the importance of staying informed through official channels to help forecast hospitalizations and make informed decisions regarding COVID-19.
 
 Article 3 of 10
 Title: Physician and administrator experience of preparing to implement Ontario’s intensive care unit Triage Emergency Standard of Care during the COVID-19 pandemic: a qualitative study
 Publisher: CMAJ Open
-Trusted: False
+Trusted: True
 Posted: 1 day ago
 
 Article 4 of 10
 Title: Omicron, Delta, Alpha, and More: What To Know About the Coronavirus Variants > News > Yale Medicine
 Publisher: Yale Medicine
-Trusted: False
+Trusted: True
 Posted: 1 day ago
 Omicron and its subvariants have been the dominant strains of SARS-CoV-2 in the US for almost two years, with the original Omicron strain (BA.1) being replaced by new subvariants. Omicron was first detected in late 2021 and caused a surge in cases in the US, and new strains are being monitored in 2023, such as EG.5 ("Eris") and BA.2.86 ("Pirola"). Omicron subvariants are highly contagious, with mutations in the spike protein increasing the probability of infection. While the original Omicron strain was generally less severe than previous variants, surges in cases can still lead to increased hospitalizations and deaths. Vaccinations remain the best protection against Omicron, and the CDC expects the updated 2023 COVID-19 booster to reduce severe disease and hospitalization from the recent subvariants. To forecast COVID-19 hospitalizations, it is important to monitor the spread of Omicron subvariants, vaccination rates, and the effectiveness of the updated booster.
 
@@ -44,7 +44,7 @@ Health officials in British Columbia, Canada, have detected the first known case
 Article 7 of 10
 Title: Coronavirus (COVID-19) cases by country worldwide 2023
 Publisher: Statista
-Trusted: False
+Trusted: True
 Posted: 4 days ago
 As of May 2, 2023, the number of COVID-19 cases worldwide exceeded 725 million, with the United States, India, and France being the top three countries with the highest number of cases. The number of COVID-19 cases is an important indicator for forecasting hospitalizations. However, it's important to consider other factors as well, such as the severity of infections, the availability of effective treatments, and the capacity and preparedness of healthcare systems. Here are some additional key facts from the article that can help in forecasting COVID-19 hospitalizations: The United States had the highest number of COVID-19 cases, with over 82 million, followed by India with nearly 44 million and France with over 35 million. These countries have experienced multiple waves of infections, indicating a higher risk of hospitalizations. The top 20 countries with the highest number of cases accounted for more than 500 million cases, representing a significant proportion of the global caseload. Healthcare systems in these countries may face challenges in managing COVID-19 hospitalizations. The data suggests a general downward trend in daily new cases globally since early 2022. However, this trend doesn't necessarily reflect the true picture, as testing rates and reporting practices may vary across countries and over time. The article provides a snapshot of COVID-19 cases as of May 2, 2023, and doesn't capture subsequent developments. The situation can change rapidly due to factors such as new variants, changes in public health measures, and vaccine coverage. In summary, the article presents a global overview of COVID-19 cases by country as of May 2, 2023. While the number of cases is a crucial factor in forecasting hospitalizations, it should be considered alongside other variables that influence the severity and impact of the disease.
 

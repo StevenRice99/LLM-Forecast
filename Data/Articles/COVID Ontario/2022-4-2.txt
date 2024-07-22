@@ -17,7 +17,7 @@ The article discusses the Conservative Party's efforts to pressure the Canadian 
 Article 3 of 10
 Title: Organ dysfunction and death in patients admitted to hospital with COVID-19 in pandemic waves 1 to 3 in British Columbia, Ontario and Quebec, Canada: a cohort study
 Publisher: CMAJ Open
-Trusted: False
+Trusted: True
 Posted: 1 day ago
 
 Article 4 of 10

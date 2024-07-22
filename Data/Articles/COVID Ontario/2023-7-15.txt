@@ -9,7 +9,7 @@ Posted: Today
 Article 2 of 10
 Title: Low muscle mass could make people more vulnerable to COVID, study suggests
 Publisher: University of Alberta
-Trusted: False
+Trusted: True
 Posted: 2 days ago
 Researchers from the University of Alberta have found that body composition, specifically muscle mass and body fat levels, plays a significant role in the prognosis and recovery of COVID-19 patients. The analysis of 62 studies involving 1.3 million COVID-19 patients revealed that those with low muscle mass and high visceral fat at the time of diagnosis were more likely to develop complications and have poorer outcomes, including a higher risk of death. This information can help healthcare providers better manage and treat COVID-19 patients, especially those with long COVID, by considering body composition assessments during hospital admission to minimize the impact of the disease and improve patient outcomes.
 
@@ -50,7 +50,7 @@ The National Advisory Committee on Immunization (NACI) in Canada has recommended
 Article 8 of 10
 Title: COVID-19 and the Blood
 Publisher: National Heart, Lung, and Blood Institute
-Trusted: False
+Trusted: True
 Posted: 4 days ago
 The article highlights a potential complication of COVID-19 where abnormal blood clots form in small blood vessels, which can lead to organ damage, heart attack, and stroke. This complication is thought to be triggered by the high levels of inflammation caused by the SARS-CoV-2 infection. Forecasting COVID-19 hospitalizations may require considering this aspect, as the inflammation can lead to severe disease and multisystem inflammatory syndrome (MIS-C) in children and teens, particularly affecting the heart. Therefore, monitoring and managing inflammation, especially in high-risk groups, could be crucial in reducing hospitalizations and severe outcomes.
 
