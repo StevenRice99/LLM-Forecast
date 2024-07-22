@@ -398,7 +398,7 @@ def test(path: str, start: int = 1, memory: int = 1, lead: int = 1, forecast: in
         name += "None Model="
     else:
         name += f"[C-{svr['C']}_Gamma-{svr['gamma']}]_Epsilon-{svr['epsilon']}] Model="
-    if model is not None:
+    if model is None:
         name += "None"
     else:
         name += model

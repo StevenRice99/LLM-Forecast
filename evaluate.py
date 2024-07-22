@@ -151,8 +151,3 @@ def evaluate(root: str = "Results", keys: list or None = None, sort: bool = True
         f = open(os.path.join(root, f"{dataset_item}.csv"), "w")
         f.write(s)
         f.close()
-
-
-if __name__ == '__main__':
-    evaluate("Results/FIRST", ["Available", "Needed", "Arrived"], True, 10, 5, False)
-    evaluate("Results/SECOND", ["Available", "Needed", "Arrived"], True, 10, 5, False)
