@@ -23,7 +23,7 @@ Posted: 2 days ago
 Article 4 of 10
 Title: Protocols for students with COVID-19 symptoms
 Publisher: Wilfrid Laurier University
-Trusted: False
+Trusted: True
 Posted: 3 days ago
 As of August 2, 2023, the university has implemented protocols for students living on or near campuses with COVID-19 symptoms to ensure the safety of the wider community. These protocols provide guidelines for students accessing classrooms, residential buildings, athletic and study spaces, and other approved areas. Adherence to these protocols is vital to safeguard the well-being of students, faculty, staff, and the surrounding communities. The specific actions to be taken by individuals exhibiting COVID-19 symptoms are detailed in the protocol section of the document. These measures are essential to mitigate the spread and forecast hospitalizations effectively.
 

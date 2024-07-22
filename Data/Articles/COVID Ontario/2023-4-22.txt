@@ -24,7 +24,7 @@ The CDC has updated its COVID-19 vaccine recommendations to allow more flexibili
 Article 4 of 10
 Title: U of T researcher examines how COVID-19 progressed differently in different parts of Toronto
 Publisher: University of Toronto
-Trusted: False
+Trusted: True
 Posted: 4 days ago
 The article highlights the research of Afia Amoako, a PhD student at the University of Toronto, who is studying how people in Toronto experienced COVID-19 with a focus on the first two years of the pandemic when PCR testing was widely available. Amoako combines spatial and mathematical modeling with contact tracing, laboratory testing, and census data to understand the pandemic's dynamics in the city. Early findings show that COVID-19 cases were initially concentrated in lower-income areas on the outskirts of Toronto but shifted towards the downtown core during the Omicron wave. Amoako aims to incorporate sociodemographic data from the census and the Ontario Marginalization Index to develop a person-centered approach to understanding the pandemic's progression in different areas. This research can provide valuable insights into the diverse experiences of people affected by COVID-19 and help inform strategies to mitigate the pandemic's unequal impact. By including race-based and socio-economic data, Amoako's work has the potential to deepen our understanding of COVID-19 hospitalizations and contribute to more effective public health measures.
 
@@ -45,7 +45,7 @@ The case fatality rate (CFR) of COVID-19, which is approximately 1%, is a statis
 Article 7 of 10
 Title: COVID-19 lockdown revisionism
 Publisher: CMAJ
-Trusted: False
+Trusted: True
 Posted: 5 days ago
 
 Article 8 of 10

@@ -66,5 +66,5 @@ President Joe Biden announced that he will end the national emergencies for addr
 Article 10 of 10
 Title: Booster vaccination with inactivated whole-virus or mRNA vaccines and COVID-19–related deaths among people with multimorbidity: a cohort study
 Publisher: CMAJ
-Trusted: False
+Trusted: True
 Posted: 5 days ago

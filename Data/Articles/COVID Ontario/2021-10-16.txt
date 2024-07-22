@@ -10,7 +10,7 @@ The article discusses the upcoming federal COVID-19 vaccine mandates in Canada a
 Article 2 of 10
 Title: Ontario Newsroom
 Publisher: Government of Ontario News
-Trusted: False
+Trusted: True
 Posted: 1 day ago
 
 Article 3 of 10

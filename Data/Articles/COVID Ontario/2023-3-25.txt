@@ -3,7 +3,7 @@ Below are 10 news articles from the past 7 days regarding COVID-19 to help guide
 Article 1 of 10
 Title: Ontario Newsroom
 Publisher: Government of Ontario News
-Trusted: False
+Trusted: True
 Posted: 3 days ago
 
 Article 2 of 10
@@ -50,7 +50,7 @@ Posted: 5 days ago
 Article 8 of 10
 Title: SARS-CoV-2 infection weakens immune-cell response to vaccination
 Publisher: National Institutes of Health (NIH) (.gov)
-Trusted: False
+Trusted: True
 Posted: 5 days ago
 Here is a summary of the article: Title: SARS-CoV-2 infection weakens immune-cell response to vaccination Study Findings: A study funded by the National Institute of Allergy and Infectious Diseases (NIAID) has found that prior SARS-CoV-2 infection can weaken the immune response to the Pfizer-BioNTech COVID-19 vaccine. The study focused on the response of CD4+ and CD8+ T cells, which are crucial for coordinating the immune system's fight against the virus. People who had never been infected and received two doses of the vaccine had a robust CD4+ and CD8+ T-cell response, with these cells producing multiple types of cytokines to fight the virus. However, those who were infected before vaccination had lower levels of CD8+ T cells that targeted the SARS-CoV-2 spike protein, and these cells had reduced functionality. Unvaccinated individuals with COVID-19 had substantially lower levels of these key immune cells compared to vaccinated individuals without prior infection. The findings suggest that SARS-CoV-2 infection can damage the CD8+ T cell response, similar to long-term immune system damage observed after infections like hepatitis C or HIV. Implications: The study highlights the need to boost CD8+ T cell responses in individuals with prior SARS-CoV-2 infections, even if they have been vaccinated. Developing vaccination strategies to enhance antiviral CD8+ T cell responses in this population could be crucial for improving protection and reducing hospitalizations due to COVID-19. Key Facts: Led by Dr. Mark M. Davis from Stanford University School of Medicine, the study used a sensitive tool to analyze T-cell responses to SARS-CoV-2 infection and vaccination. The Pfizer-BioNTech vaccine triggers an immune response by using parts of the SARS-CoV-2 spike protein. The study analyzed blood samples from three groups: unvaccinated individuals without prior infection, unvaccinated individuals with prior infection, and vaccinated individuals with prior infection. For media inquiries, Dr. Dan Rotrosen, director of the NIAID Division of Allergy, Immunology, and Transplantation, is available for interviews.
 

@@ -468,6 +468,7 @@ def prepare_articles(file: str, keywords: str or list or None = "COVID-19", max_
                      days: int = 7, exclude_websites: list or None = None, trusted: list or None = None,
                      model: str or None = None, delay: float = 0, summarize: bool = True,
                      forecasting: str = "COVID-19 hospitalizations", max_length: int = 16000) -> None:
+    dates = parse_dates(file)
     folder = os.path.splitext(os.path.basename(file))[0]
     path = os.path.join("Data", "Articles", folder)
     if not os.path.exists(path):
@@ -486,7 +487,6 @@ def prepare_articles(file: str, keywords: str or list or None = "COVID-19", max_
         f = open(file, "w")
         f.write(s)
         f.close()
-    dates = parse_dates(file)
     for i in range(len(dates)):
         print(f"Preparing articles for time period {i + 1} of {len(dates)}.")
         search_news(keywords, max_results, language, country, location, dates[i], days, exclude_websites, trusted,
@@ -499,8 +499,9 @@ def prepare_articles(file: str, keywords: str or list or None = "COVID-19", max_
         f = open(file, "r")
         s = f.read()
         f.close()
-        if len(s) > max_length:
-            print(f"{file} is greater than {max_length}.")
+        if s.__contains__("Title: \n"):
+            file = os.path.splitext(os.path.basename(file))[0]
+            print(f"{file} has blank entries.")
     for file in files:
         file = os.path.join(path, file)
         if not os.path.isfile(file):
@@ -508,8 +509,9 @@ def prepare_articles(file: str, keywords: str or list or None = "COVID-19", max_
         f = open(file, "r")
         s = f.read()
         f.close()
-        if s.__contains__("Title: \n"):
-            print(f"{file} has blank entries.")
+        if len(s) > max_length:
+            file = os.path.splitext(os.path.basename(file))[0]
+            print(f"{file} --> {len(s)} > {max_length}.")
     untrusted = []
     for file in files:
         file = os.path.join(path, file)
@@ -525,10 +527,12 @@ def prepare_articles(file: str, keywords: str or list or None = "COVID-19", max_
             publisher = lines[i].split()
             if len(publisher) < 2:
                 continue
-            publisher = publisher[1]
-            if publisher in trusted or publisher in untrusted:
+            trimmed = publisher[1]
+            for j in range(2, len(publisher)):
+                trimmed += f" {publisher[j]}"
+            if trimmed in trusted or trimmed in untrusted:
                 continue
-            untrusted.append(publisher)
+            untrusted.append(trimmed)
     untrusted.sort()
     print("Untrusted publishers:")
     for publisher in untrusted:

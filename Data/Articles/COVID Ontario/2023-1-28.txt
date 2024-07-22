@@ -59,7 +59,7 @@ As of Monday, over 50,000 Canadians have died from COVID-19 since the pandemic b
 Article 9 of 10
 Title: Association between virtual primary care and emergency department use during the first year of the COVID-19 pandemic in Ontario, Canada
 Publisher: CMAJ
-Trusted: False
+Trusted: True
 Posted: 5 days ago
 
 Article 10 of 10

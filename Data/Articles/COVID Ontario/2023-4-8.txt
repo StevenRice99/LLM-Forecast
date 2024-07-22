@@ -38,7 +38,7 @@ Most people with COVID-19 can recover at home by staying hydrated, resting, and 
 Article 6 of 10
 Title: Ontario Newsroom
 Publisher: Government of Ontario News
-Trusted: False
+Trusted: True
 Posted: 2 days ago
 
 Article 7 of 10

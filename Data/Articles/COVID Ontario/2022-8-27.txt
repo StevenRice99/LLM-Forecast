@@ -44,7 +44,7 @@ In December 2021, the Food and Drug Administration (FDA) in the United States au
 Article 7 of 10
 Title: COVID-19 updates for a healthy fall term
 Publisher: Wilfrid Laurier University
-Trusted: False
+Trusted: True
 Posted: 5 days ago
 Laurier University is preparing for the fall term while prioritizing the health and safety of its community. From September 8, face coverings will be mandatory in instructional spaces, including indoor gatherings related to academic courses. This measure aims to limit the spread of COVID-19, especially in close-proximity and higher-capacity settings. Mask-wearing is optional elsewhere, but designated mask-only study spaces will be available. The university's COVID-19 vaccination policy is currently paused, but boosters are encouraged to prevent disruptions. Daily symptom screening is no longer required, but self-monitoring is advised, and those who are ill should stay away from campus. The university plans to provide free masks and is reviewing opportunities for on-campus vaccination clinics. While the current pandemic wave may have plateaued, an increase in cases is expected in the fall as people gather indoors. Implementing measures like masking, enhanced ventilation, and vaccinations can reduce transmission and severe illness, ensuring a safe and healthy environment for all.
 

@@ -10,7 +10,7 @@ An inaccurate Canadian study claiming an inflated rate of heart inflammation as 
 Article 2 of 10
 Title: Student-built dashboard aims to more accurately track global COVID-19 infections
 Publisher: University of Toronto
-Trusted: False
+Trusted: True
 Posted: 1 day ago
 Tingting Yan, a University of Toronto master's student, and Rahul Arora, a PhD candidate at the University of Oxford, co-created SeroTracker, an online tool that tracks serology test data to estimate global COVID-19 infections more accurately. Serology tests identify COVID-19 antibodies in an individual's blood, indicating prior infection or vaccination. SeroTracker addresses the limitation of confirmed cases, which only represent a fraction of total infections. The dashboard visualizes and compares antibody prevalence across countries, demographic groups, and occupations, utilizing data from governments and research organizations. With a diverse team, SeroTracker has analyzed nearly 3,000 serosurveys from 116 countries, aiding organizations like the Public Health Agency of Canada and the World Health Organization in modeling disease spread and guiding pandemic responses. The tool has also shed light on disproportionately affected communities and informed investment decisions in serosurveys in lowand middle-income countries. Yan and her team plan to expand the platform's utility beyond COVID-19, utilizing machine learning to predict abstract inclusion for efficient data analysis in various disease scenarios. SeroTracker is funded by multiple organizations, including the Public Health Agency of Canada and the World Health Organization.
 
@@ -58,7 +58,7 @@ As of the time of writing, the COVID-19 pandemic has become the deadliest diseas
 Article 9 of 10
 Title: Mental Health and Substance Use During COVID-19: Spotlight on Income, Employment, Access
 Publisher: Mental Health Commission of Canada
-Trusted: False
+Trusted: True
 Posted: 5 days ago
 The Leger poll conducted by the Mental Health Commission of Canada and the Canadian Centre on Substance Use and Addiction reveals that COVID-19 has negatively affected the mental health and substance use levels of Canadians, particularly those with low incomes or who are unemployed. People in these vulnerable groups have reported increased substance use and higher rates of anxiety, depression, and suicidal thoughts. The survey also found that one in four individuals in these groups cited finances as a significant pandemic stressor and that they faced more barriers in accessing treatment services for their mental health and substance use. These barriers include financial constraints, a lack of accessible or available help, and long wait lists. These findings suggest that the pandemic has disproportionately affected vulnerable Canadians, and highlights the need for accessible and affordable mental health and substance use treatment services. It also indicates that financial stress is a significant factor in the mental health of individuals during the pandemic. This information can be used to forecast COVID-19 hospitalizations by identifying at-risk groups and the potential long-term impacts on their physical and mental health.
 

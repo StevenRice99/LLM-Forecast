@@ -24,7 +24,7 @@ The article discusses the use of predictive modeling to forecast the impact of n
 Article 4 of 10
 Title: Educate, engage, empower: Helping Canadians navigate the COVID-19 infodemic
 Publisher: Instituts de recherche en santé du Canada
-Trusted: False
+Trusted: True
 Posted: 3 days ago
 The article discusses the infodemic of COVID-19 information and how it can be overwhelming and misleading for people. Dr. Jeanna Parsons Leigh, a medical sociologist at Dalhousie University, is leading a research project to understand how Canadians receive, interpret, and act on COVID-19 information. The project includes a national survey, follow-up surveys, and focus groups to track public perceptions over time. The goal is to develop a "knowledge translation" campaign that provides evidence-based strategies to address knowledge gaps and misinformation. The campaign will include videos, resources, and customizable components to meet local needs and will be translated into multiple languages. The research aims to educate, engage, and empower Canadians to make informed health decisions during the COVID-19 pandemic and to ensure that public health responses resonate with and are meaningful to people's lives.
 

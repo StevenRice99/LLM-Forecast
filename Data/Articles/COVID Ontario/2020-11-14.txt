@@ -10,7 +10,7 @@ The article provides an overview of the different types of vaccines being develo
 Article 2 of 10
 Title: Starting with why: Explaining the science behind COVID-19 to enhance public health
 Publisher: Instituts de recherche en santé du Canada
-Trusted: False
+Trusted: True
 Posted: 2 days ago
 The article discusses the ongoing COVID-19 pandemic and the importance of effective communication and messaging to promote public health measures and behavior change. Dr. Holly Witteman, a researcher and Canada Research Chair in Human-Centred Digital Health, emphasizes the need to build trust and provide clear explanations of the science behind public health guidelines. Her team is creating adaptable digital health materials, such as an interactive demonstration explaining social distancing, to address confusion and concerns about COVID-19. These materials will be made publicly available in multiple languages and will cover topics like changing public health advice and the effectiveness of different prevention measures. Additionally, Dr. Witteman's team plans to develop a "patient decision aid" to address questions and emotions related to the SARS-CoV-2 vaccine when it becomes available. This tool will help individuals make informed decisions about vaccination by connecting research evidence with personal values and emotions. Effective communication about the 'why' behind public health measures is crucial to gaining public trust and adherence to recommendations, ultimately helping to forecast and manage COVID-19 hospitalizations.
 
@@ -59,7 +59,7 @@ Three University of Calgary research projects aimed at improving detection, diag
 Article 9 of 10
 Title: Hydroxychloroquine does not benefit adults hospitalized with COVID-19
 Publisher: National Institutes of Health (NIH) (.gov)
-Trusted: False
+Trusted: True
 Posted: 5 days ago
 The Outcomes Related to COVID-19 Treated with Hydroxychloroquine among Inpatients with symptomatic Disease (ORCHID) trial was a National Institutes of Health (NIH) clinical trial that evaluated the safety and effectiveness of hydroxychloroquine for the treatment of adults hospitalized with COVID-19. The trial began in April 2020 and enrolled 479 patients at 34 hospitals across the United States. The results of the trial showed that hydroxychloroquine does not provide any clinical benefit to hospitalized patients with COVID-19 and does not improve clinical outcomes. The finding was consistent across patient subgroups and for all evaluated outcomes, including clinical status, mortality, organ failures, duration of oxygen use, and hospital length of stay. The careful design, implementation, and oversight of the study were key to its success, and the recommendation by a data and safety monitoring board to stop the trial early was also important. As of November 2, 2020, the Centers for Disease Control and Prevention (CDC) has reported more than 9.1 million cases of COVID-19 and more than 230,000 deaths in the United States. The ORCHID trial provides important information for healthcare practitioners and researchers working to find effective treatments for COVID-19. Many other randomized clinical trials are also underway to evaluate the effectiveness and safety of other agents versus a placebo in the urgent race for effective therapies.
 

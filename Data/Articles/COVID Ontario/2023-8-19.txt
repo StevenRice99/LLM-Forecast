@@ -57,7 +57,7 @@ The article presents a descriptive analysis of the use and outcomes of nirmatrel
 Article 9 of 10
 Title: U of T researchers contribute to Canada-wide COVID-19 immunity study
 Publisher: University of Toronto
-Trusted: False
+Trusted: True
 Posted: 5 days ago
 A recent University of Toronto study found that 75% of Canadians had developed antibodies against COVID-19 by spring 2023, indicating a high level of infection and/or vaccination rates. The study used data from the Canadian Partnership for Tomorrow's Health (CanPath), which tracked COVID-19 infection and vaccination rates at three different time points: pre-vaccination, vaccine rollout, and during the Omicron waves. During the pre-vaccination and vaccine rollout phases, only 0.3% and 9% of people showed SARS-CoV-2 infection, respectively. However, by mid-June 2022, the infection rate had jumped to 47%, and by March 2023, it had increased to 75% as the Omicron variant spread. The study also found that infection rates continue to rise among older adults, highlighting the importance of continued monitoring and booster campaigns to safeguard against future variants. Overall, the high level of antibodies in the population is a positive sign, but the lingering risks of post-COVID conditions and the vulnerability of certain individuals mean that proactive measures, such as booster campaigns, remain essential to protect public health.
 

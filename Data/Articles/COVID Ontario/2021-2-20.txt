@@ -3,7 +3,7 @@ Below are 10 news articles from the past 7 days regarding COVID-19 to help guide
 Article 1 of 10
 Title: Ontario Newsroom
 Publisher: Government of Ontario News
-Trusted: False
+Trusted: True
 Posted: 1 day ago
 
 Article 2 of 10
@@ -57,7 +57,7 @@ This article provides interim guidance for blood services on how to manage the b
 Article 9 of 10
 Title: Interferon speeds recovery in some COVID-19 patients, U of T and UHN study finds
 Publisher: University of Toronto
-Trusted: False
+Trusted: True
 Posted: 4 days ago
 The article discusses a clinical study led by Jordan Feld, a researcher at the University of Toronto, which found that an experimental antiviral drug, peginterferon-lambda, can significantly speed up recovery for some COVID-19 patients. The treatment has the potential to become an important intervention for infected patients who do not require hospitalization and could help curb community spread while vaccines are being rolled out. The study, published in Lancet Respiratory Medicine, found that patients who received a single injection of peginterferon-lambda were over four times more likely to have cleared the infection within seven days compared to those who received a placebo. The treatment was especially effective in patients with high viral levels, who are associated with more severe disease and a higher risk of transmission to others. Interferon-lambda is a protein produced by the body in response to viral infections, and it can activate multiple cellular pathways to kill invading viruses. The coronavirus behind COVID-19 prevents the body from producing interferons, but treatment with interferon-lambda can activate those virus-killing pathways. Additionally, interferon-lambda has the advantage of acting on specific receptors in the body, leading to fewer side effects than other interferons. The clinical trial was conducted in Toronto with 60 participants and showed promising results. Additional studies are ongoing at the University of Toronto, Harvard University, and Johns Hopkins University to further evaluate the effectiveness of peginterferon-lambda in hospitalized patients and in preventing infection in those exposed to the virus. The development of effective treatments like peginterferon-lambda can play a crucial role in reducing the burden on healthcare systems by shortening the duration of infection and decreasing the risk of transmission, which in turn can help forecast and manage COVID-19 hospitalizations more effectively.
 

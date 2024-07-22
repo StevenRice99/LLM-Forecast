@@ -17,7 +17,7 @@ The article recounts the story of Dr. Neeja Bakshi, an Edmonton doctor who share
 Article 3 of 10
 Title: Clinical Practice Guideline Summary: Recommended Drugs and Biologics in Adult Patients with COVID-19
 Publisher: Ontario COVID-19 Science Advisory Table
-Trusted: False
+Trusted: True
 Posted: 2 days ago
 The Ontario COVID-19 Science Advisory Table, comprised of scientific experts and health system leaders, has released version 4.0 of its Clinical Practice Guidelines for drugs and biologics used in the treatment of adult COVID-19 patients. The guidelines are based on scientific evidence and are intended to inform public health and healthcare professionals in Ontario. The Drugs & Biologics Clinical Practice Guidelines Working Group, a subgroup of the Science Advisory Table, evaluates scientific data, disease epidemiology, drug availability, and implementation issues to develop these guidelines. The Working Group includes experts in academic and community medicine, critical care, family medicine, internal medicine, geriatrics, pediatrics, nursing, and pharmacy. They provide recommendations on the use of medications and biologics for the treatment of COVID-19 in adults, aiming to improve patient outcomes and manage the impact of the pandemic. This version of the guidelines (4.0) likely includes updated recommendations on drug and biologic treatments based on the evolving scientific understanding of COVID-19 and the availability of new treatments. It is crucial to refer to the actual guidelines for specific details and recommendations. These guidelines play a vital role in guiding healthcare professionals and public health policymakers in their response to the COVID-19 pandemic in Ontario.
 
@@ -30,7 +30,7 @@ Posted: 2 days ago
 Article 5 of 10
 Title: Ontario Newsroom
 Publisher: Government of Ontario News
-Trusted: False
+Trusted: True
 Posted: 3 days ago
 
 Article 6 of 10
@@ -43,7 +43,7 @@ Here is a summary of the article's key points and important facts to consider wh
 Article 7 of 10
 Title: Autoimmune response found in many with COVID-19
 Publisher: National Institutes of Health (NIH) (.gov)
-Trusted: False
+Trusted: True
 Posted: 4 days ago
 In a recent study, researchers examined the presence of autoantibodies in people hospitalized with COVID-19. Autoantibodies are immune system proteins that mistakenly target the body's own tissues, and they are commonly found in autoimmune diseases. The study found that about half of the hospitalized COVID-19 patients had autoantibodies in their bloodstream, compared to only 15% of healthy individuals. Interestingly, some patients developed these autoantibodies during their illness, even if they didn't have them upon admission. The levels of autoantibodies in some patients were comparable to those seen in autoimmune diseases, and common targets included immune system proteins. The production of autoantibodies may be linked to the excessive inflammation caused by COVID-19, and vaccination against COVID-19 does not appear to cause the development of autoantibodies. The findings raise questions about the potential long-term effects of COVID-19 on the development of autoimmune diseases and the role of autoantibodies in COVID-19 symptoms. This research contributes to our understanding of the varied responses to COVID-19 and may help in forecasting hospitalizations by identifying risk factors associated with severe cases.
 
@@ -64,5 +64,5 @@ The nursing shortage in Canada, exacerbated by the COVID-19 pandemic, has reache
 Article 10 of 10
 Title: Supporting youth going back to school during COVID-19
 Publisher: Mental Health Commission of Canada
-Trusted: False
+Trusted: True
 Posted: 5 days ago

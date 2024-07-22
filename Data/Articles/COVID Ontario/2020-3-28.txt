@@ -51,7 +51,7 @@ The article discusses the work of Dr. Julien Arino, a mathematician who received
 Article 8 of 10
 Title: Study suggests new coronavirus may remain on surfaces for days
 Publisher: National Institutes of Health (NIH) (.gov)
-Trusted: False
+Trusted: True
 Posted: 4 days ago
 Here is a summary of the article: A study published in the New England Journal of Medicine on March 17, 2020, reveals that the SARS-CoV-2 virus can remain active and infectious on various surfaces for extended periods. Led by Dr. Vincent Munster, the research team found that SARS-CoV-2 can survive in aerosols for up to three hours and remain on plastic and stainless steel surfaces for up to three days. The virus was also found to be infectious on cardboard for 24 hours and on copper for four hours. These findings emphasize the importance of hand hygiene and disinfecting frequently touched surfaces to prevent the spread of COVID-19. While respiratory droplets from coughing and sneezing are believed to be the primary mode of transmission, the study suggests that SARS-CoV-2 can also be contracted by touching contaminated surfaces and then touching one's face. The stability of SARS-CoV-2 on surfaces is similar to that of the previous SARS-CoV-1 virus, yet COVID-19 has resulted in a much larger outbreak. This indicates that the difference in epidemiology may be due to factors such as asymptomatic transmission. To prevent the spread of the virus and reduce hospitalizations, public health measures such as hand washing, disinfecting surfaces, avoiding touching the face, and maintaining social distance from those who are sick are crucial. These findings will also inform future epidemiological investigations to better understand the person-to-person spread of SARS-CoV-2.
 
@@ -65,5 +65,5 @@ The Canadian government is providing $275 million in funding for coronavirus res
 Article 10 of 10
 Title: What can early Canadian experience screening for COVID-19 teach us about how to prepare for a pandemic?
 Publisher: CMAJ
-Trusted: False
+Trusted: True
 Posted: 5 days ago

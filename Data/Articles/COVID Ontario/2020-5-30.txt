@@ -17,7 +17,7 @@ Here is a summary of the article: Three months into the COVID-19 pandemic, one o
 Article 3 of 10
 Title: Without more COVID-19 testing and tracing, Ontario should continue distancing as it reopens: U of T study
 Publisher: University of Toronto
-Trusted: False
+Trusted: True
 Posted: 2 days ago
 Researchers from the University of Toronto have found that physical distancing measures in Ontario have been effective in curbing the spread of COVID-19. However, their models suggest that an increase in physical contact to more than 50% of pre-COVID-19 levels could quickly overwhelm the province's ICU capacity. The research, published in the Annals of Internal Medicine, emphasizes the importance of physical distancing, hand hygiene, and masking in preventing the virus's spread. The authors, including lead author Ashleigh Tuite and professors David Fisman and Amy Greer, call for increased testing and contact tracing to allow for a safer relaxation of distancing measures and more effective identification of local hotspots. The model assumes that Ontario will continue with its current level of testing and tracing as services and businesses reopen. Tuite notes that public commitment to distancing, as seen in the outcry over crowding in Toronto's Trinity Bellwoods Park, is encouraging. The updated model incorporates the latest data on asymptomatic patients, pre-symptomatic duration, and testing rates.
 
@@ -65,5 +65,5 @@ The article presents the results of a crowdsourcing questionnaire completed by o
 Article 10 of 10
 Title: Confronting the COVID-19 surgery crisis: time for transformational change
 Publisher: CMAJ
-Trusted: False
+Trusted: True
 Posted: 5 days ago

@@ -56,7 +56,7 @@ Here is a summary of the article: While isolation guidelines for individuals inf
 Article 9 of 10
 Title: Ontario Newsroom
 Publisher: Government of Ontario News
-Trusted: False
+Trusted: True
 Posted: 5 days ago
 
 Article 10 of 10

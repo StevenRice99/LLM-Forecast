@@ -3,14 +3,14 @@ Below are 10 news articles from the past 7 days regarding COVID-19 to help guide
 Article 1 of 10
 Title: COVID-19, Mental Health, and Substance Use in Correctional Settings: Considerations for Addressing Systemic Vulnerabilities
 Publisher: Mental Health Commission of Canada
-Trusted: False
+Trusted: True
 Posted: 1 day ago
 The article discusses the impact of the COVID-19 pandemic on the mental health and substance use of correctional populations, who are at an increased risk of contracting and suffering severe outcomes from the virus due to pre-existing health conditions and health inequities. The purpose of the article is to inform decision-makers about these issues and provide guidance on improving mental health and substance use services and supports in correctional settings during and after the pandemic. Here is a summary of the important facts to help forecast COVID-19 hospitalizations: Incarcerated populations are at higher risk of contracting COVID-19 due to pre-existing health conditions and health inequities. People who are homeless, precariously housed, or living in poverty, as well as those who use drugs (especially injection drugs), are also at heightened risk of infection and death from COVID-19. These issues are exacerbated for Black and Indigenous individuals, both within correctional facilities and in the community. The pandemic's conditions and the loss of freedom of movement have adversely affected the mental health and substance use of incarcerated individuals, particularly those with pre-existing concerns. Inadequate custody facilities and challenges in recruiting and retaining healthcare professionals for correctional settings create complex layers of difficulty in meeting the mental health and substance use needs of incarcerated persons during the pandemic. Decarceration, when coupled with community resources and supports, is an effective measure to control infection and prevent the negative mental health and substance use impacts of COVID-19. These factors should be considered when forecasting COVID-19 hospitalizations, especially in relation to correctional populations and their unique mental health and substance use needs.
 
 Article 2 of 10
 Title: Heparin Anticoagulation for Hospitalized Patients with COVID-19
 Publisher: Ontario COVID-19 Science Advisory Table
-Trusted: False
+Trusted: True
 Posted: 1 day ago
 This article provides clinical guidance on the use of heparin anticoagulation for hospitalized patients with COVID-19, offering recommendations based on the severity of the illness. For critically ill patients, the recommendation is to administer prophylactic doses of low molecular weight or unfractionated heparin. Therapeutic dose anticoagulation is not advised unless there is a separate medical indication, as it does not reduce the need for organ support and may increase bleeding risks. For moderately ill patients, therapeutic dose anticoagulation may be considered for those deemed at low risk of bleeding. This treatment may reduce the need for organ support and appears to decrease thrombotic events, but its benefits on survival are unclear, and it may increase major bleeding events. Therefore, a strong recommendation cannot be made. All other patients should receive prophylactic dose anticoagulation. For mildly ill patients, there is insufficient evidence to make a recommendation regarding anticoagulation. The article also discusses the mechanisms of action of low molecular weight and unfractionated heparin, their side effects, and the clinical trials that informed the recommendations.
 
@@ -31,7 +31,7 @@ Here is a summary of the article: UC Davis Health Cardiologist, Nayereh Pezeshki
 Article 5 of 10
 Title: Ontario Newsroom
 Publisher: Government of Ontario News
-Trusted: False
+Trusted: True
 Posted: 3 days ago
 
 Article 6 of 10

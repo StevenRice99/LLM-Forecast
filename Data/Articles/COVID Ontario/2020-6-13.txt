@@ -52,7 +52,7 @@ The article argues that Canada needs to better understand the relationship betwe
 Article 8 of 10
 Title: Continuing care and COVID-19: a Canadian tragedy that must not be allowed to happen again
 Publisher: CMAJ
-Trusted: False
+Trusted: True
 Posted: 5 days ago
 
 Article 9 of 10

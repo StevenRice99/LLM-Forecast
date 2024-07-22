@@ -3,14 +3,14 @@ Below are 10 news articles from the past 7 days regarding COVID-19 to help guide
 Article 1 of 10
 Title: Therapeutic Management of Residents of Long-term Care Homes with COVID-19
 Publisher: Ontario COVID-19 Science Advisory Table
-Trusted: False
+Trusted: True
 Posted: 1 day ago
 This document appears to be a citation for a scientific paper titled "Therapeutic Management of Residents of Long-term Care Homes with COVID-19", produced by the Ontario COVID-19 Science Advisory Table and various working groups. Unfortunately, I do not have access to the full paper and can only provide information from the citation provided. The citation includes important metadata about the paper, such as the authors, affiliations, declarations of interest, and copyright information. It also provides a link to the paper, which can be accessed through the DOI (Digital Object Identifier). The paper seems to focus on the therapeutic management of COVID-19 residents in long-term care homes, which may include information on hospitalization rates and strategies to manage the virus within these homes.
 
 Article 2 of 10
 Title: Ontario Newsroom
 Publisher: Government of Ontario News
-Trusted: False
+Trusted: True
 Posted: 1 day ago
 
 Article 3 of 10

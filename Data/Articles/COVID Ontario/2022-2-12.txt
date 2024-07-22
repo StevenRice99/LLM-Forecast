@@ -17,7 +17,7 @@ The article discusses the effectiveness of COVID-19 vaccine mandates in Canada a
 Article 3 of 10
 Title: The Impact of COVID-19 on Corrections in Canada
 Publisher: Mental Health Commission of Canada
-Trusted: False
+Trusted: True
 Posted: 2 days ago
 The article is a summary of a 60-minute webinar that discussed the mental health impact of the COVID-19 pandemic on incarcerated individuals and correctional settings. It was moderated by Dr. Mary Bartram and included a panel of experts: AJ Grant-Nicholson, a lawyer and mental health advisor; Howard Sapers, the former Correctional Investigator of Canada; and Mo Korchinski, the Executive Director of Unlocking the Gates Services Society. The webinar focused on the pandemic's effects on the mental health of those in correctional settings and offered recommendations to improve services and support during and after the pandemic. The article also mentions a policy brief, "COVID-19, Mental Health, and Substance Use in Correctional Settings," which discusses the vulnerabilities of incarcerated individuals during the pandemic, providing insights that can help forecast and prepare for potential increases in COVID-19 hospitalizations among this population.
 
@@ -31,7 +31,7 @@ Defence Research and Development Canada (DRDC) scientist, Josée van den Hoogen, 
 Article 5 of 10
 Title: Use of Rapid Antigen Tests during the Omicron Wave
 Publisher: Ontario COVID-19 Science Advisory Table
-Trusted: False
+Trusted: True
 Posted: 2 days ago
 The emergence of the Omicron variant has reduced the effectiveness of rapid antigen tests in detecting SARS-CoV-2 infections, especially in the first 1-2 days after infection. The pooled sensitivity of rapid antigen tests for Omicron infections is only 37.1%, compared to 81.0% for Delta infections. The sensitivity of rapid antigen tests also varies depending on the commercial test used and the stage of disease progression. Combined oral-nasal sampling improves the sensitivity of rapid antigen tests for Omicron, with a sensitivity of 81.6% compared to 68.4% for nasal samples alone. However, even with combined sampling, a single negative rapid antigen test result cannot reliably rule out infection due to the high pre-test probability of disease during the Omicron wave. Conversely, a positive rapid test result should be considered as a confirmed case of COVID-19, and the individual should immediately isolate. When using asymptomatic testing strategies, such as 'Test-to-Stay' or 'Voluntary Asymptomatic Screen Testing', rapid antigen tests need to be performed frequently to be effective. This includes daily testing for asymptomatic close contacts and 3-5 times per week for asymptomatic individuals.
 
@@ -44,7 +44,7 @@ Posted: 4 days ago
 Article 7 of 10
 Title: Ontario Newsroom
 Publisher: Government of Ontario News
-Trusted: False
+Trusted: True
 Posted: 4 days ago
 
 Article 8 of 10

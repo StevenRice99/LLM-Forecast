@@ -3,7 +3,7 @@ Below are 10 news articles from the past 7 days regarding COVID-19 to help guide
 Article 1 of 10
 Title: Baricitinib for Hospitalized Patients with COVID-19
 Publisher: Ontario COVID-19 Science Advisory Table
-Trusted: False
+Trusted: True
 Posted: Today
 COVID-19 is a viral infection that can cause severe inflammation and complications such as acute respiratory distress syndrome (ARDS), thrombosis, and multi-organ failure. Anti-inflammatory agents like dexamethasone and IL-6 inhibitors have shown to improve mortality rates. Baricitinib, a small molecule JAK inhibitor, is being considered for its potential benefits in COVID-19 treatment. Three RCTs have been published comparing baricitinib with placebo alongside standard care. The studies included mild, moderate, and critically ill patients. The findings suggest that baricitinib reduces overall 28-day mortality, with an absolute risk reduction of 6%. This effect is more pronounced in patients requiring supplemental oxygen and those on non-invasive ventilation or high-flow oxygen, with an absolute risk reduction of 8% and 3%, respectively. For critically ill patients on invasive mechanical ventilation or ECMO, there is a trend towards reduced mortality but it is not statistically significant. Baricitinib also reduces the risk of progression to new invasive ventilation or ECMO and may reduce the combined outcome of high-flow oxygen, non-invasive ventilation, invasive mechanical ventilation, or death. Additionally, patients receiving baricitinib experienced fewer serious adverse events compared to placebo. However, there is uncertainty about the benefits and harms for pregnant and breastfeeding individuals, and those with renal impairment. Baricitinib is recommended at a daily dose of 4 mg for up to 14 days or until hospital discharge, with a reduced dose of 2 mg for patients with an eGFR of 30-60 mL/min/1.73m2. Concomitant therapies like dexamethasone and remdesivir are also considered standard care for COVID-19 patients. In summary, baricitinib can reduce mortality and improve outcomes in certain hospitalized COVID-19 patients, especially those requiring supplemental oxygen or non-invasive ventilation. More research is needed to fully understand the benefits and risks for specific patient populations.
 
@@ -17,7 +17,7 @@ Ontario reported 2,472 people hospitalized with COVID-19 on Friday, a pandemic h
 Article 3 of 10
 Title: Clinical Practice Guideline Summary: Recommended Drugs and Biologics in Adult Patients with COVID-19
 Publisher: Ontario COVID-19 Science Advisory Table
-Trusted: False
+Trusted: True
 Posted: Today
 The Ontario COVID-19 Science Advisory Table has released version 7.0 of its Clinical Practice Guidelines for the management of COVID-19 in adults. This guideline provides recommendations for drugs and biologics used in the treatment of COVID-19, offering a valuable resource for healthcare professionals. By adhering to these guidelines, hospitalizations due to COVID-19 can be effectively managed and mitigated.
 
@@ -38,7 +38,7 @@ The Omicron variant of COVID-19 is highly contagious and spreading rapidly, infe
 Article 6 of 10
 Title: Ontario Newsroom
 Publisher: Government of Ontario News
-Trusted: False
+Trusted: True
 Posted: 3 days ago
 
 Article 7 of 10

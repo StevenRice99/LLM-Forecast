@@ -10,7 +10,7 @@ The 2009 H1N1 influenza pandemic and the ongoing COVID-19 pandemic are both glob
 Article 2 of 10
 Title: Ontario Newsroom
 Publisher: Government of Ontario News
-Trusted: False
+Trusted: True
 Posted: 1 day ago
 
 Article 3 of 10
@@ -63,6 +63,6 @@ Posted: 4 days ago
 Article 10 of 10
 Title: Pandemic Prices: Assessing Inflation in the Months and Years Ahead
 Publisher: The White House
-Trusted: False
+Trusted: True
 Posted: 5 days ago
 The COVID-19 pandemic has caused an unusual recession, and the recovery is expected to be just as unique. While the main goals are to control the virus, achieve full employment, and make necessary investments for a more resilient and inclusive recovery, economic uncertainties and risks, such as inflation, must be closely monitored. Inflation can be challenging to measure and interpret, and persistently high inflation can harm households' well-being if wages don't increase accordingly. However, low inflation leaves less room for monetary policy to support the economy. The current inflation risks are set against a backdrop of weaker-than-target inflation in the decade preceding the pandemic. Pandemics on the scale of COVID-19 are rare, making it challenging to draw historical parallels for policymaking. However, periods of pandemics or significant economic reallocations, such as demobilization after World War I and II, have seen short bursts of inflation. In the coming months, inflation is expected to increase moderately due to three temporary factors: base effects, supply chain disruptions, and pent-up demand for services. These factors are likely to be transitory, and their impact should diminish as the economy recovers. Base effects refer to the comparison of prices with unusually low levels during the pandemic's onset. Supply chain disruptions and increased production costs may lead to temporary price increases. Pent-up demand for services sensitive to the pandemic, such as travel and dining out, could surge as more people get vaccinated, temporarily outstripping supply. Over the long term, inflation expectations play a crucial role in lasting price pressures. If expectations become untethered from the Federal Reserve's target, it could lead to an inflationary spiral and a "hard landing" for the economy. However, economic "heat" does not necessarily equate to overheating, and an increase in inflation expectations from abnormally low levels is expected and welcome. Market data and surveys suggest that inflation expectations are higher but still within historical levels. The most likely outlook is for inflation to rise moderately due to temporary factors and then ease as actual inflation aligns with longer-run expectations. This transitory inflation aligns with previous episodes in American history following pandemics or rapid labor market shifts.

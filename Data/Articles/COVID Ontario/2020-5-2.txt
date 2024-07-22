@@ -31,7 +31,7 @@ The article examines the level of social support available to Canadian seniors l
 Article 5 of 10
 Title: Launch – Knowledge Synthesis: COVID-19 in Mental Health and Substance Use
 Publisher: Instituts de recherche en santé du Canada
-Trusted: False
+Trusted: True
 Posted: 2 days ago
 The article announces a $115 million investment in Canada's rapid research response to COVID-19, with a focus on mental health and substance use. The first funding opportunity, "Knowledge Synthesis: COVID-19 in Mental Health and Substance Use," aims to address the immediate health service needs related to mental health and substance use services during the COVID-19 pandemic. The application deadline for this opportunity is May 7, reflecting the urgent need for action. This initiative highlights the importance of understanding and addressing the mental health and substance use implications of the COVID-19 crisis. While the article does not directly mention forecasting COVID-19 hospitalizations, the focus on mental health and substance use services could potentially impact hospitalization rates, as effective interventions in these areas may reduce the burden on healthcare systems.
 
@@ -51,7 +51,7 @@ Here is a summary of the article, including important facts that could help fore
 Article 8 of 10
 Title: Mitigating the psychological effects of COVID-19 on health care workers
 Publisher: CMAJ
-Trusted: False
+Trusted: True
 Posted: 5 days ago
 
 Article 9 of 10

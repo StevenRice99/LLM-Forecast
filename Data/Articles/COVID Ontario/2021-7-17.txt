@@ -3,7 +3,7 @@ Below are 10 news articles from the past 7 days regarding COVID-19 to help guide
 Article 1 of 10
 Title: Ontario’s Community-Dwelling Older Adults Who Remain Unvaccinated Against COVID-19
 Publisher: Ontario COVID-19 Science Advisory Table
-Trusted: False
+Trusted: True
 Posted: 1 day ago
 Here is a summary of the article: The article discusses COVID-19 vaccination rates among community-dwelling older adults in Ontario, Canada, as of June 7, 2021. It finds that 83% of community-dwelling older adults had received their first dose of a COVID-19 vaccine, but rates were lower for those aged 80 and above, with only a 4% improvement in this age group during the study period. The majority of unvaccinated older adults were women. Vaccination rates were also lower in neighborhoods with a higher risk of SARS-CoV-2 infection, more material deprivation, and greater ethnic diversity. Older adults without a primary care physician had lower vaccination rates, with only 45.9% receiving one dose compared to 76.8% with an assigned physician and 86.5% rostered to a primary care practice. Inequities in vaccination were most pronounced among the 6% of older adults without a regular primary care physician. Access may be a major reason for low vaccination rates, especially for older women who are more likely to live alone. The findings suggest that making the vaccine more accessible could increase vaccination rates among older adults. The majority of unvaccinated older adults (65.8%) are cared for within a rostered primary care practice, highlighting the need to target this group with tailored strategies.
 
@@ -44,7 +44,7 @@ The article provides interim guidance on infection prevention and control (IPC) 
 Article 7 of 10
 Title: COVID-19 and patient engagement in health research: What have we learned?
 Publisher: CMAJ
-Trusted: False
+Trusted: True
 Posted: 5 days ago
 
 Article 8 of 10

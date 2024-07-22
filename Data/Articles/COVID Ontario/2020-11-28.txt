@@ -45,7 +45,7 @@ As of Friday, Alberta had recorded 1,155 new daily COVID-19 cases, with 10,655 a
 Article 7 of 10
 Title: COVID-19 in long-term care homes in Ontario and British Columbia
 Publisher: CMAJ
-Trusted: False
+Trusted: True
 Posted: 5 days ago
 
 Article 8 of 10

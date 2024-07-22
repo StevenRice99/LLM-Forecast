@@ -10,7 +10,7 @@ Researchers at McMaster University have developed an inhaled COVID-19 vaccine th
 Article 2 of 10
 Title: Hybrid immunity provides better protection from COVID-19 than prior infection or vaccination alone: Study
 Publisher: University of Toronto
-Trusted: False
+Trusted: True
 Posted: 1 day ago
 The article highlights a new international study that found people with a combination of COVID-19 vaccination and previous infection (hybrid immunity) have the strongest and most long-lasting protection against future infections compared to those who only have one or the other. The study, published in Lancet Infectious Diseases, found that hybrid immunity provided a substantial level of protection against reinfection and an even higher level of protection against hospitalization or severe disease for at least nine months. Importantly, the protection against severe disease resulting in hospitalization lasted for at least 12 months. The study has implications for forecasting COVID-19 hospitalizations as it suggests that hybrid immunity offers robust and long-lasting protection against severe disease. This information can be used to inform planning and policies for future booster campaigns and to encourage individuals who have recovered from COVID-19 to still get vaccinated to maximize their protection. The research also highlights the unpredictable nature of COVID-19 infections, emphasizing that deliberately getting infected is not worth the risk of severe health consequences. The study's findings may also provide insights into managing other infectious disease outbreaks.
 

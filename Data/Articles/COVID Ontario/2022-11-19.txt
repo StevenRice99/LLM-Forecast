@@ -1,68 +1,62 @@
-Below are 10 news articles from the past 7 days regarding COVID-19 to help guide you in making your decision. Using your best judgement, take into consideration only the articles that are most relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Articles that are from know reputable sources have been flagged with "Trusted: True".
+Below are 9 news articles from the past 7 days regarding COVID-19 to help guide you in making your decision. Using your best judgement, take into consideration only the articles that are most relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Articles that are from know reputable sources have been flagged with "Trusted: True".
 
-Article 1 of 10
+Article 1 of 9
 Title: B.C. drops self-isolation requirements for COVID-19
 Publisher: Times Colonist
 Trusted: False
 Posted: Today
 As of November 17, 2022, British Columbians with COVID-19 are no longer required to self-isolate, according to updated guidelines from the B.C. Centre for Disease Control. This change was not announced formally, in contrast to previous modifications to COVID-19 protocols. Dr. Bonnie Henry briefly mentioned the change, attributing it to the difficulty in distinguishing between COVID-19, influenza, and respiratory syncytial virus (RSV) symptoms. The new guidance does not differentiate between vaccinated and unvaccinated individuals. This shift in isolation protocol means there are effectively no formal COVID-19 restrictions for the public in B.C., even as other jurisdictions consider reinstating mask mandates due to rising respiratory illnesses. Experts like Sally Otto, the Canada Research Chair in Theoretical and Experimental Evolution at UBC, recommend staying home if you test positive for COVID-19 to prevent infecting others. Currently, there are 328 COVID-19 hospitalizations in B.C., with 26 in critical care. The B.C. CDC has reported a significant increase in influenza and RSV cases, particularly among children. The Health Ministry spokesperson advised individuals with symptoms or a positive test to isolate until symptom-free.
 
-Article 2 of 10
+Article 2 of 9
 Title: B.C. drops self-isolation requirement for people with COVID-19
 Publisher: Global News Toronto
 Trusted: False
 Posted: 1 day ago
 British Columbia has lifted the requirement for individuals with COVID-19 to self-isolate for five days, with the change appearing on the BCCDC website. The new guidance recommends that people with symptoms stay home to reduce the potential spread of illness until their symptoms improve. This change in protocol removes the last formal COVID-19 restriction on the general public. The number of hospitalizations in BC has climbed to 328, and test positivity is increasing in all health regions except Vancouver Island. The province is not considering a mask mandate, and health officials advise symptomatic individuals to stay home and limit close contact with others.
 
-Article 3 of 10
+Article 3 of 9
 Title: Arctic Winter Games drops Covid-19 vaccine requirement
 Publisher: Cabin Radio
 Trusted: False
 Posted: 1 day ago
 The article discusses the decision to remove the Covid-19 vaccination mandate for participants at the Arctic Winter Games, an international sporting event. The Games were canceled in 2020 due to the pandemic and have been postponed from 2022 to 2023. The organizing committee's decision to remove the mandate comes as public health advice and circumstances have evolved, and it will respect the autonomy of any jurisdiction that wishes to enforce its own Covid-19-related health measures. This change in policy may impact the selection process for teams, as some athletes may have been previously deterred from participating due to the vaccine requirement. The Games are set to take place in January 2023, and organizers will encourage participants to adopt recommended health measures, though it is unclear what these measures will be. This decision suggests a shift away from strict Covid-19 mandates and could indicate a lower risk of severe illness and hospitalizations from Covid-19 in the near future, as public health advice evolves and vaccination rates increase.
 
-Article 4 of 10
+Article 4 of 9
 Title: ImPaKT Facility receives $16M to fight future pandemics, expand COVID-19 research
 Publisher: Schulich School of Medicine & Dentistry
 Trusted: False
 Posted: 2 days ago
 The Schulich School of Medicine & Dentistry at Western University has received $16 million from the Canadian government's Biosciences Research Infrastructure Fund (BRIF) to expand its Imaging Pathogens for Knowledge Translation (ImPaKT) facility, which aims to fight future pandemics and expand COVID-19 research. The funding will facilitate the development of a vaccine bank with ready-to-use vaccines for rapid delivery during future epidemics and pandemics. The ImPaKT facility is a unique, state-of-the-art biocontainment level 3 (CL3) facility that combines advanced imaging equipment with containment level standards certified by the Public Health Agency of Canada (PHAC). During the COVID-19 pandemic, the facility was among the first to respond by supporting research into virus spread and partnering with industries to test vaccines and therapeutics. The expansion of the facility will include a focus on testing new antimicrobial strategies and producing antimicrobial therapies and vaccines for human use. The facility will also house a clinical-grade drug manufacturing facility, fostering industry partnerships and enabling the production of pharmaceutical-grade drugs. This investment in biocontainment facilities across Canada aims to prepare for future pandemics and strengthen Canada's pandemic response capacity. Western University's expertise in pathogen research and public policy, including its wastewater surveillance program, has been crucial in addressing the current pandemic and positioning the ImPaKT facility for future growth.
 
-Article 5 of 10
+Article 5 of 9
 Title: Behind the Numbers: What’s Causing Growth in Food Prices
 Publisher: Statistique Canada
 Trusted: True
 Posted: 3 days ago
 Here is a summary of the article: The article discusses the factors that have contributed to the increase in food prices in Canada since late 2021, with price increases outpacing headline consumer inflation. It highlights the impact of the COVID-19 pandemic, supply chain disruptions, labour shortages, and other factors on food prices. The article also mentions that food is a significant component of the Consumer Price Index (CPI) and that increases in food prices have a notable impact on consumers. One of the key factors contributing to rising food prices is the COVID-19 pandemic, which caused disruptions at various stages of the supply chain, such as processing and transportation. The pandemic also led to shifts in consumer spending patterns, with consumers purchasing more food from grocery stores and less from restaurants. COVID-19 outbreaks in food processing facilities resulted in temporary closures, supply constraints, and processing bottlenecks, all of which contributed to price increases. In addition to the pandemic, poor weather conditions in production regions, such as the severe heatwave and drought in the Prairie provinces in 2021, have impacted the supply of meat and grain products, leading to higher prices. Similar weather conditions in other parts of the world have also contributed to reduced supplies and increased prices for imported food in Canada. The article also mentions the impact of the Russian invasion of Ukraine on global food prices, particularly due to their role in agricultural and oil production. Sanctions against Russia and reduced supplies of agricultural inputs, wheat, and seafood have contributed to upward pressure on food prices. Other factors mentioned include input price rises, such as energy and fertilizer costs, and higher retail operating costs due to the pandemic. The article also discusses product substitution and how consumers may change their purchasing behaviors when prices rise, which can further impact prices for substitute goods. Overall, the article provides an overview of the complex interplay of factors that have contributed to rising food prices in Canada and highlights the potential impact on consumers. To forecast COVID-19 hospitalizations, some important facts to consider include: The impact of COVID-19 outbreaks on food processing facilities and supply chain disruptions. This can affect the availability of food products and potentially lead to temporary shortages, impacting consumer behavior and demand. The shift in consumer spending patterns during the pandemic, with an increase in at-home dining and grocery purchases, may impact the demand for certain food items and put pressure on specific parts of the supply chain. The COVID-19 pandemic's ongoing global impact on health and the economy, which may continue to disrupt supply chains and production processes, potentially affecting the availability and pricing of food products. The potential for future COVID-19 variants and waves, and their impact on hospitalizations, may influence consumer behavior and demand for food products, particularly if restrictions are implemented or consumers choose to self-isolate. The availability and effectiveness of COVID-19 treatments and vaccines can impact hospitalization rates and have downstream effects on economic activity and consumer behavior, including food purchases.
 
-Article 6 of 10
+Article 6 of 9
 Title: Countries must be vigilant of “triple threat” of COVID-19, influenza and RSV as holidays approach, PAHO Director says
 Publisher: Pan American Health Organization
 Trusted: False
 Posted: 3 days ago
 The article highlights the increase in COVID-19 infections, seasonal influenza, and Respiratory Syncytial Virus (RSV) cases in the Washington D.C. region as of November 16, 2022. PAHO Director, Carissa F. Etienne, urges the implementation of preventive measures such as vaccines, surveillance, mask-wearing, and social distancing to curb the spread of these respiratory illnesses, especially with the upcoming festive period. COVID-19 cases in the region have risen by 17% in the past week, and deaths have increased in South and Central America. The reduction in testing may be hiding the true number of infections, and the rise in influenza and RSV cases is also burdening health systems. Dr. Etienne emphasizes the effectiveness of mask-wearing and social distancing in limiting the spread of respiratory diseases, including RSV, for which there is no vaccine. Genomic surveillance and vaccination campaigns against COVID-19 and influenza must be strengthened. PAHO has provided COVID-19 and influenza vaccines to Member States, and Dr. Etienne urges their utilization. Additionally, the cholera outbreak in Haiti is worsening, and vigilance against monkeypox and polio is still necessary, with polio vaccination rates remaining low. As the holiday season approaches, individuals must remain cautious and apply the lessons learned from the COVID-19 pandemic to limit the impact of severe respiratory diseases.
 
-Article 7 of 10
-Title: 
-Publisher: APA Psychology News
-Trusted: False
-Posted: 4 days ago
-
-Article 8 of 10
+Article 7 of 9
 Title: Provincial Government to Distribute COVID-19 Rapid Antigen Tests to Newfoundland and Labrador Residents
 Publisher: Government of Newfoundland and Labrador
 Trusted: False
 Posted: 4 days ago
 The Department of Health and Community Services will provide free COVID-19 rapid antigen tests to households in the province through Canada Post, with each household receiving two kits containing five tests in two separate shipments in November and December. These tests are intended for individuals who are exhibiting COVID-19 symptoms and should be conducted on the first day of symptoms, followed by a second test 48 hours later if the initial test is negative. Rapid antigen tests will also be made available at public libraries and MHA constituency offices. While testing is not recommended for asymptomatic individuals, including close contacts, PCR testing will still be used for outbreak management and acute care settings. Public Health urges individuals with positive rapid antigen test results to report them to aid in public health decision-making. This initiative aims to empower residents to make informed choices about their health and contribute to curbing the spread of COVID-19.
 
-Article 9 of 10
+Article 8 of 9
 Title: Protected? Unprotected? COVID-19 experts warn of definition dangers as N.B. reviews policy
 Publisher: CBC.ca
 Trusted: False
 Posted: 4 days ago
 Three months after New Brunswick announced its intention to revise the definition of vaccine protection against COVID-19, the Department of Health is still working on it. Experts believe that defining vaccine protection is challenging, both scientifically and politically. The current approach, which lumps individuals with two vaccine doses and a booster received more than six months ago together with the unvaccinated, can be misleading and may fuel anti-vaccine sentiment. It also fails to account for protection from previous infections. The data presented by New Brunswick shows higher hospitalization and death rates from COVID-19 among those considered "protected" compared to the "unprotected." Experts warn that this creates misconceptions about vaccine effectiveness and can lead to a false sense of security, potentially driving a surge in COVID-19 cases during the fall and winter seasons. They argue that an individual's immune status cannot be accurately determined solely based on the number of vaccine doses received, as it varies depending on factors such as immune response, severity of infection, and number of infections. The goal of COVID-19 vaccines has shifted from preventing transmission to focusing on preventing severe illness and death. While two doses provide good protection against severe illness, the protection against symptomatic infection wanes over time. A third dose boosts protection against severe illness and provides temporary protection against infection. Experts suggest that either a three-dose vaccine schedule should be adopted, or frequent boosters, such as every three months, should be recommended to maintain maximum protection. However, compelling frequent boosters without implementing additional measures to stop transmission may be politically unpalatable and could lead to health harm as people believe they are fully protected.
 
-Article 10 of 10
+Article 9 of 9
 Title: More adverse reactions following bivalent COVID-19 mRNA booster vaccine
 Publisher: News-Medical.Net
 Trusted: False

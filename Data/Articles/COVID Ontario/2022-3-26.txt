@@ -58,7 +58,7 @@ During the Omicron surge, there was an observed increase in croup cases among in
 Article 9 of 10
 Title: Impact of cancer surgery slowdowns on patient survival during the COVID-19 pandemic: a microsimulation modelling study
 Publisher: CMAJ
-Trusted: False
+Trusted: True
 Posted: 5 days ago
 
 Article 10 of 10

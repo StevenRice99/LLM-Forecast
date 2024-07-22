@@ -16,7 +16,7 @@ Posted: 3 days ago
 Article 3 of 10
 Title: Clinical Practice Guideline Summary: Recommended Drugs and Biologics in Adult Patients with COVID-19
 Publisher: Ontario COVID-19 Science Advisory Table
-Trusted: False
+Trusted: True
 Posted: 3 days ago
 This document is a clinical practice guideline summary from the Ontario COVID-19 Science Advisory Table, providing recommendations for drugs and biologics for the treatment of adult patients with COVID-19. It was published in 2021 (Version 6.0) by the Ontario COVID-19 Drugs and Biologics Clinical Practice Guidelines Working Group. While the document does not contain specific information for forecasting COVID-19 hospitalizations, it offers insights into the recommended treatments for adult COVID-19 patients, which could indirectly impact hospitalization rates and durations. The recommendations are likely based on clinical evidence available at the time of publication, contributing to the medical community's understanding of effective COVID-19 management.
 
@@ -30,7 +30,7 @@ Here is a summary of the article, including some important facts to help forecas
 Article 5 of 10
 Title: Ontario Newsroom
 Publisher: Government of Ontario News
-Trusted: False
+Trusted: True
 Posted: 3 days ago
 
 Article 6 of 10

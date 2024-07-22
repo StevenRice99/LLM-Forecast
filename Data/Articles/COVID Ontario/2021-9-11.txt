@@ -31,7 +31,7 @@ Here is a summary of the article: In Canada, over 7 million people suffer from i
 Article 5 of 10
 Title: The Impact of the COVID-19 Pandemic on Opioid-Related Harm in Ontario
 Publisher: Ontario COVID-19 Science Advisory Table
-Trusted: False
+Trusted: True
 Posted: 3 days ago
 
 Article 6 of 10

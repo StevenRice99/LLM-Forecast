@@ -52,7 +52,7 @@ Hospital emergency departments across Canada are overcrowded and overwhelmed eve
 Article 8 of 10
 Title: Post-acute health care burden after SARS-CoV-2 infection: a retrospective cohort study
 Publisher: CMAJ
-Trusted: False
+Trusted: True
 Posted: 5 days ago
 
 Article 9 of 10

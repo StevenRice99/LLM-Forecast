@@ -45,7 +45,7 @@ Here is a summary of the article: With the upcoming respiratory virus season, Ma
 Article 7 of 10
 Title: Emergency department visits and hospital admissions for suicidal ideation, self-poisoning and self-harm among adolescents in Canada during the COVID-19 pandemic
 Publisher: CMAJ
-Trusted: False
+Trusted: True
 Posted: 5 days ago
 
 Article 8 of 10

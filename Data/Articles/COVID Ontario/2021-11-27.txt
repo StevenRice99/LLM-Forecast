@@ -50,13 +50,13 @@ The WHO has released its latest COVID-19 clinical management guidelines, offerin
 Article 8 of 10
 Title: Ontario Newsroom
 Publisher: Government of Ontario News
-Trusted: False
+Trusted: True
 Posted: 5 days ago
 
 Article 9 of 10
 Title: Dentists at lower risk of getting COVID-19: Study
 Publisher: University of Toronto
-Trusted: False
+Trusted: True
 Posted: 5 days ago
 The study, published in The Journal of the American Dental Association, found that dentists may be less likely to contract COVID-19 compared to the general population. The incidence rate of COVID-19 among dentists was estimated to be lower than that of the general public during the same period. The results suggest that the risk of COVID-19 infection for dentists may be relatively low, potentially due to factors such as personal protective equipment, increased awareness, and extra caution outside of work. However, the study also notes that the risk of COVID-19 infection may vary in different parts of the world, with a slightly higher rate of infection observed in European jurisdictions. The study's findings can be used to evaluate the appropriateness of current safety measures and determine if any adjustments are necessary to ensure the continued safety of dentists, staff, and patients. Overall, the study adds to the evidence that dental care is safe and that the dental profession has been successful in adapting to the challenges posed by the COVID-19 pandemic.
 

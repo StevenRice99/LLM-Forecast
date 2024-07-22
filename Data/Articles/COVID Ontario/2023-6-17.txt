@@ -50,7 +50,7 @@ The WHO Regional Office for Europe is transitioning from the acute phase of the 
 Article 8 of 10
 Title: U of T researchers find vulnerability in COVID-19 variants that reduces transmissibility
 Publisher: University of Toronto
-Trusted: False
+Trusted: True
 Posted: 5 days ago
 Researchers at the University of Toronto have discovered a potential weakness in the Omicron variant of COVID-19 that could help prevent its spread and lead to new treatment methods. They found that mutations in the spike protein of the Omicron variant can hinder its ability to bind to and enter host cells, a process necessary for the virus to infect people. Specifically, Omicron-specific mutations in the spike protein reduce its binding ability to the ACE2 receptor in host cells. This discovery highlights a potential target for therapeutic interventions. The team also found that the Omicron variant is particularly sensitive to chemical reduction, a process that can prevent the virus from spreading. Through aerosol therapy, reducing agents can be delivered directly to the lungs to take advantage of this vulnerability without causing harm to non-target proteins or the body at large. Additionally, the researchers identified an antioxidant called bucillamine, currently in clinical trials, to which Omicron variants are especially sensitive. Understanding the transmission mechanism of Omicron variants is crucial for developing effective treatments and preparedness. While the variant generally causes milder symptoms, it has an increased transmissibility rate and can still pose a threat to vulnerable populations. The research highlights the potential for targeting disulfide cleavage in Omicron infections and provides valuable insights for forecasting COVID-19 hospitalizations by helping identify those at higher risk and developing targeted treatments.
 
@@ -64,5 +64,5 @@ Here is a summary of the article: The article reflects on the successes and chal
 Article 10 of 10
 Title: Impact of the COVID-19 pandemic on cancer diagnoses, stage and survival in Alberta
 Publisher: CMAJ
-Trusted: False
+Trusted: True
 Posted: 5 days ago

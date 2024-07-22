@@ -45,20 +45,20 @@ Australia's two largest states, New South Wales (NSW) and Victoria, reported sha
 Article 7 of 10
 Title: School Operation for the 2021-2022 Academic Year in the Context of the COVID-19 Pandemic
 Publisher: Ontario COVID-19 Science Advisory Table
-Trusted: False
+Trusted: True
 Posted: 5 days ago
 This article offers guidance to policymakers on COVID-19 measures for schools in Ontario for September 2021. It emphasizes the importance of in-person learning for the well-being and development of children and recommends that schools remain open unless there are catastrophic circumstances. The level of COVID-19 burden in the community should dictate the degree of school-based measures, with permanent measures such as vaccination, excluding sick individuals, hand hygiene, ventilation, and cleaning in place regardless of the pandemic situation. Temporary measures like masking and physical distancing should be adjusted according to COVID-19 disease burden and consider student age, grade, and vaccination status. To forecast COVID-19 hospitalizations, the article defines three scenarios: low-risk, moderate-risk, and high-risk. In a low-risk scenario, temporary measures in schools include contact tracing, low-barrier testing, and a permissive approach to masking. In moderate and high-risk scenarios, more temporary measures are warranted, with a focus on cohorting and masking requirements for students based on their age and grade level. The article also acknowledges the negative impact of school closures and remote learning on children's mental and physical health, learning losses, and the disruption of essential services provided by schools. It emphasizes that community-based public health measures should be the preferred mechanism for pandemic control, and school closures should only be considered under catastrophic circumstances or when recommended by the Chief Medical Officer of Health.
 
 Article 8 of 10
 Title: Link between obesity and COVID-19 may not be what it seems
 Publisher: CMAJ
-Trusted: False
+Trusted: True
 Posted: 5 days ago
 
 Article 9 of 10
 Title: Ontario Newsroom
 Publisher: Government of Ontario News
-Trusted: False
+Trusted: True
 Posted: 5 days ago
 
 Article 10 of 10

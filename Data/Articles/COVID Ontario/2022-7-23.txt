@@ -24,7 +24,7 @@ Here is a summary of the article: The article discusses how the COVID-19 pandemi
 Article 4 of 10
 Title: Ontario Newsroom
 Publisher: Government of Ontario News
-Trusted: False
+Trusted: True
 Posted: 2 days ago
 
 Article 5 of 10

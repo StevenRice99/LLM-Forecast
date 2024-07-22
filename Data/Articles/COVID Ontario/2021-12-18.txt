@@ -17,7 +17,7 @@ The article discusses the growing number of Canadians who are opposed to the COV
 Article 3 of 10
 Title: Ontario Newsroom
 Publisher: Government of Ontario News
-Trusted: False
+Trusted: True
 Posted: 1 day ago
 
 Article 4 of 10
@@ -37,7 +37,7 @@ Here is a summary of the article: Alberta's Health Minister, Jason Copping, expr
 Article 6 of 10
 Title: Ontario Newsroom
 Publisher: Government of Ontario News
-Trusted: False
+Trusted: True
 Posted: 3 days ago
 
 Article 7 of 10
@@ -63,6 +63,6 @@ Posted: 4 days ago
 Article 10 of 10
 Title: Mental Health and Substance Use During COVID-19: Spotlight on Youth, Older Adults & Stigma
 Publisher: Mental Health Commission of Canada
-Trusted: False
+Trusted: True
 Posted: 5 days ago
 The article highlights the ongoing impact of the COVID-19 pandemic on mental health and substance use, particularly among youth in Canada. Here's a summary along with some important facts to help forecast COVID-19 hospitalizations: Mental Health and Substance Use Concerns: The Leger poll commissioned by the Mental Health Commission of Canada and the Canadian Centre on Substance Use and Addiction reveals high levels of mental health and substance use concerns across the country. This indicates a continued need for support and resources in these areas. Youth (16-24) are disproportionately affected, with 45% reporting moderate to severe anxiety symptoms. Additionally, around 40% of youth who use alcohol and/or cannabis have increased their consumption in the past month and struggle more with managing pandemic-related stress. This suggests that young people are at a higher risk of experiencing mental health issues and may require targeted interventions. Older adults (65+), on the other hand, demonstrate better mental health, less problematic substance use, and stronger coping skills. This highlights the resilience of this age group in dealing with the challenges posed by the pandemic. Stigma remains a prevalent issue, particularly for alcohol use disorders, which are often more stigmatized than depression. Addressing stigma is crucial to ensuring that people feel comfortable seeking help without fear of judgment or discrimination. The survey also underscores the impact of COVID-19 on individuals with pre-existing substance use disorders or mental illness, who may be more vulnerable to the negative effects of the pandemic. To effectively address these concerns, continued investments in youth mental health and substance use supports are necessary. Additionally, recognizing the resilience of older adults and further reducing stigma associated with mental health issues and substance use disorders are essential components of a comprehensive response. These findings provide valuable insights into the mental health and substance use landscape in Canada during the COVID-19 pandemic. They can help inform policies, programs, and interventions aimed at supporting individuals struggling with these issues. Additionally, this information can be useful in forecasting COVID-19 hospitalizations by identifying high-risk groups, such as those with severe mental health concerns or substance use disorders, who may be more likely to require hospitalization if infected with COVID-19.

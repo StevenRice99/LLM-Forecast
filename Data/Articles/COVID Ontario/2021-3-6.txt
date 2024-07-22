@@ -1,67 +1,61 @@
-Below are 10 news articles from the past 7 days regarding COVID-19 to help guide you in making your decision. Using your best judgement, take into consideration only the articles that are most relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Articles that are from know reputable sources have been flagged with "Trusted: True".
+Below are 9 news articles from the past 7 days regarding COVID-19 to help guide you in making your decision. Using your best judgement, take into consideration only the articles that are most relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Articles that are from know reputable sources have been flagged with "Trusted: True".
 
-Article 1 of 10
+Article 1 of 9
 Title: Behavioural Science Principles for Supporting COVID-19 Vaccine Confidence and Uptake Among Ontario Health Care Workers
 Publisher: Ontario COVID-19 Science Advisory Table
-Trusted: False
+Trusted: True
 Posted: 1 day ago
 This article provides guidance on using behavioral science principles to increase COVID-19 vaccine confidence and uptake among healthcare workers (HCWs) in Ontario, Canada. HCWs are a key priority group for vaccination, and effective communication strategies are crucial to address their concerns and encourage vaccination. The article summarizes nine principles to support vaccine confidence and uptake. Here is a summary of the key points: Tailoring: Customize messages and approaches to address specific barriers and enablers to vaccination among HCWs, considering factors such as gender, age, ethnicity, work location, and profession. Distinguish messenger, channel, and message: Choose trusted messengers such as hospitals, unions, and health professionals who share similar backgrounds with the target HCW population. Use multiple channels and formats to deliver consistent messaging. Beyond information/education: Recognize that vaccination decisions are influenced by various factors beyond just information and education. Address concerns about vaccine side effects and emphasize the greater risk of contracting COVID-19 compared to the low risk of vaccine side effects. Understand and validate emotions: Normalize feelings of anxiety and uncertainty, and provide actions to address these emotions, such as promoting vaccine safety and its role in protecting loved ones. Build positive social norms: Identify peers or colleagues with similar experiences who have decided to get vaccinated and showcase their decisions. Provide data on HCW vaccination rates and highlight increases over time. Support motivated HCWs: Establish a central registry for proactive registration and provide regular updates on vaccine eligibility and timing. Make it easy to get vaccinated: Communicate practical information clearly, including location, eligibility, defaults, appointment scheduling, reminders, and financial supports. Address intention-action gap: Help HCWs create concrete plans for vaccination by providing options for location and timing, and encourage them to record their implementation intentions. Leverage behavioral science: Organizations involved in communication and vaccination logistics can apply these principles to develop effective campaigns that consider vaccination decision-making, behavior, and underlying beliefs. By following these principles, organizations can effectively address vaccine hesitancy and improve vaccine confidence and uptake among HCWs, contributing to a stronger pandemic response in Ontario.
 
-Article 2 of 10
+Article 2 of 9
 Title: Calgarians can now track traces of COVID-19 in their wastewater
 Publisher: University of Calgary
 Trusted: False
 Posted: 1 day ago
 The Centre for Health Informatics (CHI) COVID-19 Data Tracker now provides Calgarians with real-time data on SARS-CoV-2 levels in Calgary's wastewater. This data is collected by a team from various institutions, including the Cumming School of Medicine (CSM) and is accessible through an interactive map on the CHI website. The data reveals that high traces of SARS-CoV-2 in wastewater precede an increase in clinically diagnosed COVID-19 cases, offering an early warning system for outbreaks. The City of Calgary has supported this initiative, recognizing its potential to protect public health. The tracker also provides insights into case transmission sources, with unknown sources accounting for around 35% in recent weeks. The CHI plans to introduce more detailed data for specific areas within Calgary in the coming weeks, enhancing the tool's ability to identify outbreak locations and inform reopening decisions. Location-specific sampling is also in development, further improving the accuracy of COVID-19 hospitalization forecasts and community safety.
 
-Article 3 of 10
+Article 3 of 9
 Title: Ontario Newsroom
 Publisher: Government of Ontario News
-Trusted: False
+Trusted: True
 Posted: 2 days ago
 
-Article 4 of 10
+Article 4 of 9
 Title: The hidden long-term cognitive effects of COVID-19
 Publisher: Harvard Health
 Trusted: False
 Posted: 2 days ago
 Here is a summary of the article: The article discusses the impact of COVID-19 on the brain and how it can affect cognitive function, including concentration and memory. The virus can enter the brain through the nose, affecting the brain's blood vessels and causing inflammation and cognitive issues. People with severe COVID-19 cases are more likely to experience these issues, but even mild cases can result in cognitive problems. Long COVID, or prolonged symptoms months after infection, may also involve brain-related symptoms. The article also mentions the study that found that 81% of hospitalized COVID-19 patients experienced some form of cognitive dysfunction, most commonly confusion and altered consciousness. Additionally, the article highlights the higher risk of cognitive issues in older COVID-19 patients and those with pre-existing neurological conditions. To help forecast COVID-19 hospitalizations, the article suggests that understanding the neurological effects of the virus is crucial. The impact on cognitive function can affect a person's ability to perform daily tasks and may require rehabilitation services. Additionally, the article emphasizes the need for further research to fully understand the long-term brain-related consequences of COVID-19. In terms of important forecasting factors, the article suggests that the incidence of cognitive dysfunction in COVID-19 patients could result in a higher demand for hospital resources, including neurological and rehabilitation services. The potential long-term effects on the brain may also lead to an increased need for outpatient care and rehabilitation services, impacting healthcare systems. Additionally, the higher risk of cognitive issues in older adults and those with neurological conditions may contribute to hospitalization rates.
 
-Article 5 of 10
-Title: 
-Publisher: Brock University
-Trusted: False
-Posted: 2 days ago
-
-Article 6 of 10
+Article 5 of 9
 Title: On the hunt for COVID-19 mutants
 Publisher: Alberta Health Services
 Trusted: False
 Posted: 2 days ago
 Alberta Precision Laboratories (APL) has been at the forefront of tracking and understanding the evolution of the COVID-19 virus in Alberta, Canada, since the beginning of the pandemic. APL's team of lab scientists and technologists, including Sandy Shokoples and Kanti Pabbaraju, have been crucial in detecting and monitoring variants of concern. On December 24, Shokoples discovered Alberta's first case of the U.K. variant, which sparked an "all-hands-on-deck" situation as the team worked tirelessly to test all positive COVID-19 samples for mutations. This proactive approach has provided valuable data for health authorities and policymakers in their efforts to slow the spread of the virus and prepare for potential future waves. APL has developed its own tests to screen for variants of concern, and they have screened over 7,000 COVID-19 positive samples, as well as conducting full genome sequencing on hundreds of selected samples weekly. This ongoing surveillance of the virus's genetic code is vital for identifying and tracking variations that may impact the diagnosis and treatment of COVID-19 in the community. The work of APL's lab team has been instrumental in Alberta's response to the pandemic and has helped inform public health measures to protect the population.
 
-Article 7 of 10
+Article 6 of 9
 Title: With an eye on COVID-19 variants, U of T, Sinai Health researchers design next-gen sequencing platform
 Publisher: University of Toronto
-Trusted: False
+Trusted: True
 Posted: 3 days ago
 Researchers from Sinai Health and the University of Toronto have developed a robotics platform, C19-SPAR-Seq, which can rapidly and accurately screen COVID-19 samples with a sensitivity rate of over 95% during peak virus transmissibility. This technology has the potential to revolutionize how labs track viruses and pathogens, helping to identify positive samples and detect new variants. With a quick turnaround time of 24 hours and a low cost of US$8 per test when processing large batches, this platform offers an efficient and cost-effective solution for COVID-19 testing and variant identification. The system is currently being used to screen positive samples and monitor the frequency and expansion of known and novel variants, which is crucial for understanding SARS-CoV-2's evolution and its ability to evade immune responses. This technology could play a significant role in forecasting COVID-19 hospitalizations by providing real-time data on the spread of the virus and the emergence of new variants.
 
-Article 8 of 10
+Article 7 of 9
 Title: A joint effort: Supporting COVID-19 mitigation efforts in Garden Hill First Nation
 Publisher: Canada.ca
 Trusted: True
 Posted: 4 days ago
 Here is a summary of the article: In March 2021, the Garden Hill First Nation in Manitoba, Canada, received support from the Government of Canada, including the Canadian Armed Forces (CAF), to mitigate the impacts of a COVID-19 outbreak. The community faced significant challenges due to its remote location and limited access during the winter season. A formal request for assistance was made to Indigenous Services Canada (ISC), which then engaged the CAF under Operation LASER. Key facts and efforts to forecast COVID-19 hospitalizations include: Over one-quarter of the population contracted COVID-19 within a few weeks, putting a strain on the local Nursing Station. The CAF deployed a Multi-Purpose Medical Assistance Team, including members of the 2nd Battalion, Princess Patricia’s Canadian Light Infantry, and the Royal Canadian Army Medical Service. The team worked with the community to implement critical solutions, such as door-to-door wellness visits, establishing an Alternate Isolation Accommodation site, providing surge capacity at the Nursing Station, and supporting the delivery of food and water to residents isolating. The timely and comprehensive assistance helped the community isolate and limit the spread of COVID-19, allowing people to recover and reducing the need for CAF surge capacity. Federal representatives maintained close contact with the Garden Hill First Nation to support their emergency response even after the final group on the ground was redeployed on February 9. The joint effort between the CAF, ISC, and the Royal Canadian Mounted Police, along with the cooperation of the Garden Hill First Nation community, successfully addressed the COVID-19 outbreak and helped prevent further hospitalizations.
 
-Article 9 of 10
+Article 8 of 9
 Title: Health Canada approves AstraZeneca's COVID-19 vaccine
 Publisher: CBC.ca
 Trusted: False
 Posted: 6 days ago
 Health Canada has approved the Oxford-AstraZeneca COVID-19 vaccine, adding to the Moderna and Pfizer vaccines already in use. This increases the availability of vaccines in Canada, with about 6.5 million doses expected by the end of March, enough to fully vaccinate 3.2 million people. Canada has secured 22 million doses of the AstraZeneca vaccine, with most arriving between April and September. The vaccine has an efficacy rate of 62%, lower than Pfizer and Moderna, but it has shown 100% efficacy in preventing severe outcomes of COVID-19, including hospitalizations and death. The vaccine is safe and well-tolerated, and its benefits outweigh the risks. The vaccine uses a conventional viral vector load platform and does not require special cold storage, making it easier to store, transport, and administer. Health Canada is still reviewing vaccines from Johnson & Johnson and Novavax, with 10 million doses ordered from Johnson & Johnson. Canada aims to provide vaccines to everyone who wants them by the end of September.
 
-Article 10 of 10
+Article 9 of 9
 Title: Trump Was Sicker Than Acknowledged With Covid-19
 Publisher: The New York Times
 Trusted: False

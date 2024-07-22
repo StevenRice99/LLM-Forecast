@@ -31,7 +31,7 @@ The COVID-19 pandemic has disrupted the education of over 90% of students worldw
 Article 5 of 10
 Title: Lasting immunity found after recovery from COVID-19
 Publisher: National Institutes of Health (NIH) (.gov)
-Trusted: False
+Trusted: True
 Posted: 4 days ago
 Here is a summary of the article: Researchers from the La Jolla Institute for Immunology, led by Drs. Daniela Weiskopf, Alessandro Sette, and Shane Crotty, conducted a study to better understand the immune memory of SARS-CoV-2, the virus that causes COVID-19. The study included almost 200 participants who had been exposed to the virus and recovered. The researchers found that the immune systems of more than 95% of people who recovered from COVID-19 had a durable memory of the virus up to eight months after infection. The study focused on analyzing immune cells and antibodies in the participants, with time since infection ranging from six days to eight months. The results showed that the majority of people developed durable immune responses, with high levels of antibodies, B cells, and T cells that recognized and fought the virus. Antibodies against the spike protein of SARS-CoV-2 were found in 98% of participants one month after symptoms, and their levels remained stable over time. B cells, which produce new antibodies, increased over time, and T cells that recognized and fought the virus remained high, with 92% of participants having CD4+ T cells six months after symptoms. The findings provide hope that people receiving SARS-CoV-2 vaccines will also develop lasting immune memories after vaccination. The research suggests that natural infection induces a strong and long-lasting immune response, which is encouraging for the development of vaccine-induced immunity. These results can help in forecasting COVID-19 hospitalizations by providing insight into the duration of immunity after infection and the potential for long-lasting protection through vaccination.
 
@@ -59,7 +59,7 @@ The article is a timeline of the key developments in the COVID-19 pandemic in Ca
 Article 9 of 10
 Title: The case for relaxing no-visitor policies in hospitals during the ongoing COVID-19 pandemic
 Publisher: CMAJ
-Trusted: False
+Trusted: True
 Posted: 5 days ago
 
 Article 10 of 10

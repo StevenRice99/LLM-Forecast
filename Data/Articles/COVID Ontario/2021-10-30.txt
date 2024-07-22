@@ -3,7 +3,7 @@ Below are 10 news articles from the past 7 days regarding COVID-19 to help guide
 Article 1 of 10
 Title: Ontario Newsroom
 Publisher: Government of Ontario News
-Trusted: False
+Trusted: True
 Posted: 1 day ago
 
 Article 2 of 10
@@ -44,7 +44,7 @@ Here is a summary of the article: The WHO Global Advisory Committee on Vaccine S
 Article 7 of 10
 Title: The long road to mRNA vaccines
 Publisher: Instituts de recherche en santé du Canada
-Trusted: False
+Trusted: True
 Posted: 4 days ago
 The development of mRNA vaccines for COVID-19 was not rushed and is based on decades of scientific research. Advances in understanding mRNA and its medicinal applications, along with technological innovations over the last 30 years, laid the foundation for these vaccines. Additionally, recent studies on coronaviruses contributed to the effectiveness of the vaccines. This collaborative effort involved scientists worldwide, showcasing the significance of fundamental and applied research. As a result, the COVID-19 vaccines were efficiently developed, providing a successful tool to help curb the pandemic.
 

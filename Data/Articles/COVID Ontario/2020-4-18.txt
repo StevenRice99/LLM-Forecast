@@ -42,7 +42,7 @@ Here is a summary of the article: In response to the COVID-19 pandemic, Calgary 
 Article 7 of 10
 Title: Lung ultrasound findings in a 64-year-old woman with COVID-19
 Publisher: CMAJ
-Trusted: False
+Trusted: True
 Posted: 4 days ago
 
 Article 8 of 10

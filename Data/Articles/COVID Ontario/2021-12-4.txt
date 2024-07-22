@@ -23,7 +23,7 @@ Posted: 3 days ago
 Article 4 of 10
 Title: Critical Care Capacity During the COVID-19 Pandemic
 Publisher: Ontario COVID-19 Science Advisory Table
-Trusted: False
+Trusted: True
 Posted: 4 days ago
 Here is a summary of the article: Ontario's healthcare system faced significant challenges due to the COVID-19 pandemic, particularly in intensive care units (ICUs) treating patients with COVID-19-related critical illness (CRCI). From March 20, 2020, to October 31, 2021, over 9,000 individuals were admitted to Ontario ICUs with CRCI, with peaks during waves 2 and 3. The pandemic's impact on ICU census was mitigated by reducing non-emergent surgical procedures and increasing ICU capacity through investments in new beds and the use of non-traditional spaces. As of October 31, 2021, the adult critical care bed baseline had increased to 2,343, reflecting a permanent expansion of ICU capacity. The Ontario critical care system adapted through collaboration and coordination between various stakeholders, ensuring that resources were available for the unprecedented number of patients requiring critical care. The system faces ongoing pressure, with the number of ventilated patients remaining higher than the historical average since October 25, 2020. Forecasting COVID-19 hospitalizations is complex and depends on various factors, including vaccination rates, public health measures, and the emergence of new variants. The impact of public health measures on non-COVID conditions and their contribution to reduced hospital and ICU volumes during the pandemic requires further research. To forecast COVID-19 hospitalizations accurately, it is essential to consider factors such as vaccination rates, the implementation and adherence to public health measures, and the emergence of new variants. Additionally, understanding the impact of public health measures on non-COVID conditions will provide valuable insights into their indirect effects on the healthcare system.
 
@@ -36,7 +36,7 @@ Posted: 4 days ago
 Article 6 of 10
 Title: Incidence of childhood cancer in Canada during the COVID-19 pandemic
 Publisher: CMAJ
-Trusted: False
+Trusted: True
 Posted: 5 days ago
 
 Article 7 of 10
@@ -56,7 +56,7 @@ Here is a summary of the article: During the fourth wave of the COVID-19 pandemi
 Article 9 of 10
 Title: Ontario Newsroom
 Publisher: Government of Ontario News
-Trusted: False
+Trusted: True
 Posted: 6 days ago
 
 Article 10 of 10

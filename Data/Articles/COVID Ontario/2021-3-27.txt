@@ -10,14 +10,14 @@ The Canadian government is investing $14.3 million to support new research on CO
 Article 2 of 10
 Title: Vaccine-Induced Prothrombotic Immune Thrombocytopenia (VIPIT) Following AstraZeneca COVID-19 Vaccination
 Publisher: Ontario COVID-19 Science Advisory Table
-Trusted: False
+Trusted: True
 Posted: 1 day ago
 Here is a summary of the article: Background: There is a rare association between the AstraZeneca COVID-19 vaccine and autoimmune thrombosis, mimicking heparin-induced thrombocytopenia (HIT). Cases of cerebral sinus vein thrombosis (CSVT) and thrombocytopenia have been reported in vaccine recipients, mostly in women under 55, occurring 4-20 days post-vaccination. This phenomenon, named vaccine-induced prothrombotic immune thrombocytopenia (VIPIT), has been identified in Germany by the Paul Ehrlich Institute. Findings and Questions: Frequency of VIPIT: VIPIT is a rare occurrence, with an incidence of 1 in 125,000 to 1 in 1 million. There is growing evidence of a link to the AstraZeneca vaccine, but it doesn't increase the overall risk of thrombosis. Health agencies recommend continuing its use due to its effectiveness in preventing COVID-19. Patient Predisposition: It is unclear if specific patients are predisposed to VIPIT. Most cases are in younger women, but this may be due to demographic factors. Individuals with thrombophilia or a history of blood clots do not appear to be at increased risk. Suspecting and Diagnosing VIPIT: VIPIT suspicion arises when patients present with CSVT or other clots and unusual symptoms 4-20 days post-vaccination. Symptoms include severe headaches, neurological issues, shortness of breath, abdominal/chest pain, and limb swelling. Diagnosis involves blood tests (CBC, D-dimer, blood film) and, in some cases, diagnostic imaging for blood clots. Treating VIPIT: Patients with suspected or confirmed VIPIT should avoid heparin and platelet transfusions. Alternative anticoagulants, such as direct thrombin inhibitors and anti-Xa inhibitors, are recommended. Severe or life-threatening blood clots may require intravenous immunoglobulin (IVIG) treatment. Reporting and Second Dose: All suspected VIPIT cases must be reported as adverse events. The safety of subsequent vaccine doses for VIPIT patients is unclear and requires hematologist consultation. A second dose of a different COVID-19 vaccine may be safe. The article provides insights into the rare but serious adverse event of VIPIT associated with the AstraZeneca vaccine. It offers guidance for healthcare professionals on diagnosing, treating, and managing VIPIT, contributing to vaccine safety surveillance.
 
 Article 3 of 10
 Title: U of T researchers survey Indigenous communities about COVID-19 experiences
 Publisher: University of Toronto
-Trusted: False
+Trusted: True
 Posted: 1 day ago
 The article highlights the lack of consultation and representation of Indigenous people in Canada's COVID-19 response, particularly in Ontario and British Columbia. Despite border closures, individuals continued to enter Indigenous communities by water, putting residents at risk due to limited access to masks and clean water for handwashing. Angela Mashford-Pringle, an assistant professor and associate director, emphasizes that Indigenous communities were not consulted during lockdowns, and their unique challenges, such as lack of running water and housing, were not adequately addressed. This, along with a history of medical exploitation and mistrust, has led to vaccine hesitancy. The report, "Indigenous Peoples & COVID-19: What We Heard," was presented to Dr. Theresa Tam, Canada's chief public health officer, shedding light on the need for authentic relationship-building between governments and Indigenous communities. However, Mashford-Pringle expresses concern that the report, completed three months ago, may already be outdated, underscoring the urgency of addressing these issues. The lack of clean water and PPE, as well as the history of medical exploitation, could impact COVID-19 hospitalizations in these communities.
 
@@ -52,7 +52,7 @@ People with underlying medical conditions that put them at higher risk for sever
 Article 8 of 10
 Title: Ontario Newsroom
 Publisher: Government of Ontario News
-Trusted: False
+Trusted: True
 Posted: 5 days ago
 
 Article 9 of 10

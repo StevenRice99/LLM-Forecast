@@ -50,7 +50,7 @@ The World Health Organization (WHO) has stated that while the COVID-19 coronavir
 Article 8 of 10
 Title: NIH clinical trial of remdesivir to treat COVID-19 begins
 Publisher: National Institutes of Health (NIH) (.gov)
-Trusted: False
+Trusted: True
 Posted: 4 days ago
 The National Institute of Health (NIH) has begun a clinical trial to evaluate the effectiveness of the drug remdesivir in treating COVID-19. This is the first clinical trial in the US to test a potential treatment for COVID-19, which was first detected in December 2019 in China. As of February 24, 2020, there were over 77,000 confirmed cases of COVID-19 globally, with 2,595 deaths in China and 23 deaths in other countries. Remdesivir, developed by Gilead Sciences Inc., is an experimental broad-spectrum antiviral drug that has shown promise in treating other coronaviruses, such as MERS and SARS. The trial will enroll hospitalized adults in Nebraska who have COVID-19 and will compare the effectiveness of remdesivir to a placebo in improving clinical outcomes. This trial is designed to be adaptable and may include additional investigative treatments or enroll participants from other sites worldwide. The study will monitor participants' clinical outcomes and SARS-CoV-2 levels, with the initial results expected after 15 days of treatment. This clinical trial is a crucial step in the search for an effective treatment for COVID-19 and will provide valuable data on the safety and efficacy of remdesivir.
 

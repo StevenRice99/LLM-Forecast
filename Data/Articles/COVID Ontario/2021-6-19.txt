@@ -3,20 +3,20 @@ Below are 10 news articles from the past 7 days regarding COVID-19 to help guide
 Article 1 of 10
 Title: Why the Pandemic Has Disrupted Supply Chains
 Publisher: The White House
-Trusted: False
+Trusted: True
 Posted: 2 days ago
 The article discusses the challenges faced by the U.S. economy as it transitions out of the pandemic. While businesses have been adding jobs and consumers are spending their savings, there are also significant shortages and supply chain disruptions. These issues are particularly noticeable in the retail and motor vehicle sectors, with low inventories and supply chain issues causing price increases. The article suggests that the current disruptions are likely to be transitory, as markets adjust to the increase in demand and resolve supply chain issues. Historical examples, such as the coffee price spikes after frost damage to coffee harvests, suggest that supply disruptions in specific industries can be resolved relatively quickly. The toilet paper shortage at the beginning of the pandemic was resolved within a few months as manufacturers increased production and supply chains adapted. To facilitate the adjustment process and address vulnerabilities in U.S. supply chains, the public sector has a role to play. The Biden-Harris Administration has established a Supply Chain Disruptions Task Force to monitor and address short-term supply issues and propose actions to strengthen the country's industrial base for the long term. The administration also plans to work with international partners to build resilience into supply chains and reduce dependence on geopolitical competitors for key products. While the resolution of transitory shortages and supply chain disruptions may take time, the administration is working to speed up the process and build more resilient supply chains for the future. Regarding COVID-19 hospitalizations, the article does not provide specific forecasts or data. However, it mentions that the pandemic has caused significant disruptions to businesses and supply chains, and the Biden-Harris Administration is working to address the ongoing impact of the pandemic on the economy.
 
 Article 2 of 10
 Title: Ontario Newsroom
 Publisher: Government of Ontario News
-Trusted: False
+Trusted: True
 Posted: 2 days ago
 
 Article 3 of 10
 Title: Researchers develop quantum dot smartphone device to diagnose and track COVID-19
 Publisher: University of Toronto
-Trusted: False
+Trusted: True
 Posted: 2 days ago
 Researchers at the University of Toronto have developed a new COVID-19 antibody test that uses a smartphone camera, with the goal of improving accessibility and turnaround time for infectious disease diagnosis. The test detects antibodies in a patient's blood using quantum dot-barcoded microbeads and a laser, with the results interpreted remotely. The system is portable and integrated into one unit, and can also detect multiple antibodies from different sample types. The test was evaluated with 49 patient blood samples, achieving 84-88% sensitivity, which is lower than traditional tests but still higher than current portable antibody tests. This new technology could improve the efficiency of COVID-19 diagnosis and monitoring, allowing for real-time surveillance of infected patients and their response to vaccines. This collaboration between the University of Toronto and hospitals has the potential to revolutionize the way infectious diseases are tracked and treated.
 
@@ -37,7 +37,7 @@ The article discusses a new study led by Professor Hasina Samji that aims to com
 Article 6 of 10
 Title: COVID-19 Vaccination for People with Disabilities
 Publisher: Ontario COVID-19 Science Advisory Table
-Trusted: False
+Trusted: True
 Posted: 4 days ago
 The article discusses the impact of COVID-19 on people with disabilities and the efforts made by Ontario to prioritize their vaccination. Here is a summary: People with disabilities have been disproportionately affected by COVID-19 internationally, accounting for nearly 60% of COVID-19 deaths in the UK and higher mortality rates due to social, clinical, and demographic factors. Ontario has prioritized people with disabilities across the three phases of its COVID-19 vaccination program, but there is a difference between vaccine availability and accessibility. A review of Ontario's public health unit websites found limited information on key accessibility features such as communication accessibility, physical accessibility, and accessible social and sensory environments. To improve accessibility, Ontario needs a multi-pronged strategy that includes enhancing information about accessibility and monitoring COVID-19 vaccination rates among people with disabilities. International data suggest people with specific disabilities, such as intellectual disabilities or Down syndrome, face a higher risk of COVID-19 mortality. People with disabilities often have poorer social determinants of health, reside in congregate settings, and have higher rates of chronic health conditions, increasing their susceptibility to SARS-CoV-2 infection and COVID-19 mortality. The pandemic has also negatively impacted the social and economic well-being of people with disabilities, leading to increased unemployment and reduced access to necessary social and health services. Ontario's vaccination plan categorized people with disabilities into three phases, but eligibility criteria and vaccine accessibility varied across phases and settings. Key considerations for making vaccinations accessible include communication methods, physical accessibility, and creating a comfortable social and sensory environment. Barriers to vaccination for people with disabilities include difficulty accessing information, lack of transportation, and the need for accommodations or support during the vaccination process. Monitoring vaccination rates and outcomes among people with disabilities is essential for evaluating the effectiveness of accessibility initiatives and identifying areas for improvement.
 
@@ -65,6 +65,6 @@ Canada has recently become the world leader in the share of its population that 
 Article 10 of 10
 Title: Dr. Anna Gagliardi: Supporting the mental health of patients waiting for procedures delayed by COVID-19
 Publisher: Instituts de recherche en santé du Canada
-Trusted: False
+Trusted: True
 Posted: 5 days ago
 Dr. Anna Gagliardi, a senior scientist at the Toronto General Hospital Research Institute, has shifted her research focus during the COVID-19 pandemic to address the mental health needs of patients waiting for procedures delayed by the crisis. Her work was funded by the Canadian Institutes of Health Research's COVID-19 and Mental Health (CMH) Initiative. Through her knowledge synthesis, Dr. Gagliardi found that patients on waitlists experience heightened anxiety and concern and want periodic updates and potential timelines for their procedures. These findings influenced the development of strategies within her organization to better support patients and families facing delays. As the pandemic highlighted inequities and gaps in healthcare services, Dr. Gagliardi's work contributes to improving the healthcare experience, especially for women. Her research has attracted interest from young people eager to contribute to the field of women's health research. Overall, Dr. Gagliardi's work during the pandemic has important implications for supporting the mental health and well-being of patients navigating delays in their medical care.

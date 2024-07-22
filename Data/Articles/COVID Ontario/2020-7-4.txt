@@ -1,67 +1,61 @@
-Below are 10 news articles from the past 7 days regarding COVID-19 to help guide you in making your decision. Using your best judgement, take into consideration only the articles that are most relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Articles that are from know reputable sources have been flagged with "Trusted: True".
+Below are 9 news articles from the past 7 days regarding COVID-19 to help guide you in making your decision. Using your best judgement, take into consideration only the articles that are most relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Articles that are from know reputable sources have been flagged with "Trusted: True".
 
-Article 1 of 10
+Article 1 of 9
 Title: The Weeknd donates $500,000 to COVID-19 relief efforts in Scarborough
 Publisher: CBC.ca
 Trusted: False
 Posted: Today
 The Weeknd's donation of $500,000 to the Scarborough Health Network is newsworthy as it highlights the artist's commitment to supporting COVID-19 relief efforts in the community where he grew up. The SHN's COVID-19 Emergency Fund has received significant donations from other donors as well, totaling over $2.7 million. This fund is essential in providing frontline staff and doctors with necessary equipment such as ventilators, ICU beds, and personal protective equipment. This information suggests that the hospital is well-equipped to handle COVID-19 cases and has the resources to provide quality care. However, it is important to consider that the effectiveness of these donations in reducing hospitalizations depends on various factors, including the number of cases in the area and the overall capacity of the healthcare system.
 
-Article 2 of 10
+Article 2 of 9
 Title: The Shadow Pandemic: Violence against women during COVID-19
 Publisher: UN Women
 Trusted: False
 Posted: 2 days ago
 The COVID-19 pandemic has seen a concerning rise in domestic violence, particularly against women and girls, an issue that has been termed the 'Shadow Pandemic'. UN Women, a United Nations entity dedicated to gender equality and women's empowerment, has launched a public awareness campaign, narrated by actor Kate Winslet, to address this issue. The campaign aims to highlight the increase in domestic violence during the pandemic and encourage people to take action to support women experiencing violence. Even before COVID-19, one in three women worldwide experienced physical or sexual violence, mostly by an intimate partner. The pandemic has exacerbated this issue, with emerging data showing an increase in calls to domestic violence helplines and a strain on essential services. The pandemic has also limited the information and access to support services available to survivors. UN Women's COVID-19 response focuses on six key areas: prevention of violence, access to essential health services, justice and policing, social services, helplines, and coordination of these services. The organization provides up-to-date information and supports vital programs to fight the Shadow Pandemic of violence against women during the pandemic. To forecast COVID-19 hospitalizations related to this issue, it is important to consider the potential impact of increased domestic violence. The strain on essential services, such as domestic violence shelters and helplines, could lead to a lack of support and resources for survivors, potentially resulting in more severe cases of abuse and violence, requiring hospitalization. Additionally, the limited access to health services and justice systems during the pandemic could further exacerbate the issue.
 
-Article 3 of 10
+Article 3 of 9
 Title: A retrospective analysis of the start of the COVID-19 epidemic in Canada and worldwide, CCDR 46(7/8)
 Publisher: Canada.ca
 Trusted: True
 Posted: 2 days ago
 This article provides a retrospective analysis of the early stages of the COVID-19 epidemic in Canada, from January 15 to March 12, 2020. During this period, 1,360 laboratory-confirmed COVID-19 cases were reported in Canada, with over half (57.8%) linked to international travel or close contact with a traveler. Community transmission, marked by cases with no identifiable source of infection, was first observed on February 20 and steadily increased thereafter. The delay between illness onset and case reporting varied by exposure category, with cases linked to international travel or known cases reported slightly faster than those with unknown sources. This delay decreased for cases with illness onset in early March, coinciding with the implementation of aggressive public health measures. By June 2, 2020, 92,151 cases had been reported across 12 provinces and territories, with daily case counts declining at the time of writing. The article emphasizes the importance of expanded surveillance systems, improved access to testing, and enhanced contact tracing to detect and isolate cases early and limit the impact of future waves.
 
-Article 4 of 10
+Article 4 of 9
 Title: What Is Known About COVID-19 and Abnormal Blood Clotting
 Publisher: Weill Cornell Medicine Newsroom
 Trusted: False
 Posted: 2 days ago
 Here is a summary of the article: Dr. Jeffrey Laurence and his colleagues from Weill Cornell Medicine have observed and studied the occurrence of abnormal blood clotting in severe COVID-19 cases, which can lead to severe health complications and even death. This clotting issue is prevalent in ICU patients, despite the standard practice of administering blood thinner drugs. The exact percentage of cases where clotting occurs is unclear, but it is more common in severe COVID-19 cases and certain risk factors, such as age, gender, obesity, and diabetes, make it more likely. The abnormal clotting is believed to be caused by the activation of complement proteins, which can lead to a hyper-inflamed state and the promotion of blood clot formation. Additionally, the spike proteins on the COVID-19 coronavirus are thought to bind to one of these complement proteins, potentially initiating the immune cascade resulting in clotting. Standard blood thinners like heparin have been found to often be ineffective in treating these clots, and doctors are now looking into alternative treatments, including argatroban and anti-complement drugs like eculizumab. The current standard practice is to put all hospitalized COVID-19 patients on blood thinners to prevent and treat clotting-related complications. The evidence suggests that many severe COVID-19 complications, including respiratory symptoms, kidney failure, and strokes, are driven by this abnormal blood clotting and the excessive activation of complement and inflammatory pathways. As such, understanding and effectively treating blood clotting is crucial in managing severe COVID-19 cases and improving patient outcomes.
 
-Article 5 of 10
+Article 5 of 9
 Title: Many Black and Asian Americans Say They Have Experienced Discrimination Amid the COVID-19 Outbreak
 Publisher: Pew Research Center
 Trusted: False
 Posted: 3 days ago
 The Pew Research Center conducted a study to explore Americans' experiences with racial and ethnic discrimination during the COVID-19 pandemic. The study surveyed 9,654 U.S. adults from June 4-10, 2020, revealing that Black and Asian Americans have faced increased discrimination since the outbreak began. About four-in-ten Black and Asian adults reported feeling uncomfortable due to their race or ethnicity, with Asian Americans experiencing more slurs or jokes. Additionally, a significant portion of U.S. adults believe that racist views towards Asian and Black Americans have become more common during the pandemic. The survey highlighted that Black and Asian Americans are more likely to encounter adverse experiences based on their race or ethnicity since the pandemic started. Both groups reported instances of feeling uncomfortable, being subject to slurs or jokes, and fearing threats or physical attacks. Younger Black adults were more likely to report such experiences compared to older Black adults. Black men were more likely than Black women to feel uncomfortable or fear threats due to their race. Furthermore, concerns about wearing masks in public due to potential suspicion based on race or ethnicity were prevalent among Black and Asian Americans. Despite these worries, a majority of adults from various racial groups reported wearing masks in public. The survey also indicated that a significant portion of U.S. adults believe that racist views towards Asian and Black Americans have increased since the pandemic began. The study also found that perceptions of increased racist views varied by age, education level, and political affiliation. Younger adults and those with higher education levels were more likely to perceive a rise in racist views towards Asian Americans. Democrats were more likely than Republicans to believe that racist views towards Asian Americans had increased, while Republicans were more likely to think that racially insensitive views towards white people had become more common.
 
-Article 6 of 10
+Article 6 of 9
 Title: ICAO Council agrees to the safeguard adjustment for CORSIA in light of COVID-19 pandemic
 Publisher: ICAO
 Trusted: False
 Posted: 4 days ago
 The article discusses the International Civil Aviation Organization's (ICAO) decision to provide a safeguard for the aviation industry in light of the COVID-19 pandemic. The Carbon Offsetting and Reduction Scheme for International Aviation (CORSIA) is a global market-based measure to reduce CO2 emissions from aviation. Due to the pandemic, there has been a significant decrease in aviation operations, traffic, and emissions in 2020, which would lead to a reduction in the CORSIA baseline. This could create an inappropriate economic burden on aircraft operators, as they would need to offset more emissions despite flying less. To address this issue, the ICAO Council decided that the value of 2019 emissions will be used for 2020 emissions during the pilot phase of CORSIA (2021-2023) to avoid placing an inappropriate economic burden on the aviation industry. This decision acknowledges that using the unexpected traffic and emissions results of 2020 due to COVID-19 would go against the original intention and objectives of CORSIA when it was adopted in 2016. The article also mentions that there could be implications for the subsequent phases of CORSIA depending on the sector's recovery, and more data and analysis will be needed. States are expected to review CORSIA for possible adjustments to be applied from the subsequent phases, beginning with the periodic review in 2022. Overall, ICAO is committed to supporting the aviation industry's recovery from COVID-19 and facilitating a green and resilient recovery for sustainable aviation, in line with the Paris Agreement and recent recommendations on sustainability.
 
-Article 7 of 10
+Article 7 of 9
 Title: Children and families in the time of COVID-19
 Publisher: Instituts de recherche en santé du Canada
-Trusted: False
+Trusted: True
 Posted: 4 days ago
 Here is a summary of the article: Title: COVID-19: Children and Families in the Time of COVID-19 Date: June 30, 2020 Author: Dr. David B. Nicholas, University of Calgary Summary: The COVID-19 outbreak has led to infection control measures in healthcare facilities, which can cause fear and anxiety for vulnerable patients and their families due to visitor restrictions and limited access to non-COVID healthcare services. Dr. Nicholas' team is conducting a qualitative study to understand the experiences of children with pre-existing health conditions, their caregivers, and healthcare providers during the pandemic, building on similar research from the 2003 SARS outbreak. The team is concerned about the impact of untreated or undertreated health conditions in children during the pandemic and aims to study how healthcare providers are adapting their care delivery, including the use of health technologies. Data collection is underway at four sites in Alberta and Ontario, including interviews with children, parents, and healthcare providers, to inform recommendations for pediatric care practices and policies during pandemics. The study's findings will provide insights into the psychosocial and health service consequences of the pandemic on children and their families, with potential long-lasting impacts on patient care and communication approaches. Key Facts for Forecasting COVID-19 Hospitalizations: Infection control measures and visitor restrictions in healthcare facilities can increase anxiety and uncertainty for patients and their families. The pandemic may lead to untreated or undertreated health conditions in children, potentially resulting in a future surge of hospitalizations. Healthcare providers' adaptation of care delivery methods, including the integration of health technologies, may impact hospitalization rates and patient care practices. The study's findings will provide valuable insights for forecasting and managing COVID-19 hospitalizations, particularly in pediatric cases and those with pre-existing health conditions.
 
-Article 8 of 10
+Article 8 of 9
 Title: Coping with COVID-19
 Publisher: CAMH
 Trusted: False
 Posted: 5 days ago
 
-Article 9 of 10
-Title: 
-Publisher: CMAJ
-Trusted: False
-Posted: 5 days ago
-
-Article 10 of 10
+Article 9 of 9
 Title: Toronto’s COVID-19 divide: The city’s northwest corner has been ‘failed by the system’
 Publisher: Toronto Star
 Trusted: False

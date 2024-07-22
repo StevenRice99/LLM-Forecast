@@ -38,7 +38,7 @@ Here is a summary of the article: The article discusses the economic impact of C
 Article 6 of 10
 Title: Supporting the Mental Health of Retail Workers During COVID-19
 Publisher: Mental Health Commission of Canada
-Trusted: False
+Trusted: True
 Posted: 3 days ago
 
 Article 7 of 10

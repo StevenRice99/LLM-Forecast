@@ -17,7 +17,7 @@ The article examines the impact of the COVID-19 pandemic on the demand for Perso
 Article 3 of 10
 Title: False claims about COVID-19 must be repeatedly debunked, study finds
 Publisher: University of Toronto
-Trusted: False
+Trusted: True
 Posted: 1 day ago
 Researchers from several universities conducted a study, published in Nature Human Behaviour, to assess the effectiveness of fact-checking in correcting misinformation about COVID-19. The study found that while fact-checking can immediately reduce misperceptions, these effects do not persist over time, and beliefs in misinformation can resurface. This suggests that repeated and frequent exposure to fact-checking is necessary to effectively address and dispel COVID-19 misinformation. The study has implications for forecasting COVID-19 hospitalizations as it highlights the need for a long-term strategy to convince people to adopt new understandings and prevent the re-emergence of harmful misperceptions that could influence their health decisions and behaviors.
 
@@ -59,7 +59,7 @@ The article highlights the challenges in managing healthcare waste, particularly
 Article 9 of 10
 Title: Outcomes in patients with and without disability admitted to hospital with COVID-19: a retrospective cohort study
 Publisher: CMAJ
-Trusted: False
+Trusted: True
 Posted: 5 days ago
 
 Article 10 of 10

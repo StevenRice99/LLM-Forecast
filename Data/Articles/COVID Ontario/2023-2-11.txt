@@ -37,7 +37,7 @@ The article offers guidance on what to do if someone has COVID-19 symptoms but t
 Article 6 of 10
 Title: Bivalent boosters provide better protection against severe COVID-19
 Publisher: National Institutes of Health (NIH) (.gov)
-Trusted: False
+Trusted: True
 Posted: 4 days ago
 Here is a summary of the article: The article discusses the results of a study that compared the effectiveness of the original COVID-19 booster shots to the new bivalent boosters in preventing severe COVID-19 illness, which is defined as hospitalization or death from the disease. The study found that the bivalent boosters provided significantly better protection against severe COVID-19 compared to the original boosters. During the first study period (May to August 2022), nearly 300,000 people in North Carolina received the original booster shot, and during the second period (September to December 2022), over 1 million received the bivalent booster. The researchers compared the incidence of severe COVID-19 in both groups and found that the bivalent boosters were 37% more effective in preventing severe illness compared to the original boosters. The increased protection provided by the bivalent boosters was consistent across different age groups and regardless of whether individuals had received previous booster doses. The protection from both types of boosters peaked at around 4 weeks after administration. The study's findings suggest that the bivalent boosters offer important additional protection against severe COVID-19 illness, including hospitalization and death, especially as new variants and subvariants emerge. This information can help inform public health strategies and individual decisions about vaccination and boosters to prevent severe outcomes from COVID-19.
 

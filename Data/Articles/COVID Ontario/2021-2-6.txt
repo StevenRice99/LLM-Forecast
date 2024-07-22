@@ -17,14 +17,14 @@ Here is a summary of the article, including some important facts that could be u
 Article 3 of 10
 Title: U of T researchers to study paramedics' COVID-19 risk
 Publisher: University of Toronto
-Trusted: False
+Trusted: True
 Posted: 1 day ago
 The study by the University of Toronto researchers aims to identify the risk factors associated with SARS-CoV-2 infection among paramedics, who are on the front lines of the COVID-19 pandemic. By recruiting 5,000 paramedics in British Columbia and Ontario and collecting data through online surveys and blood samples over one year, the researchers will measure antibodies and assess infection rates and immunity measures, including in vaccinated individuals. The data will be used to develop recommendations to protect paramedics' health and reduce their risk of infection. This is important not just for the well-being of paramedics but also for the overall emergency response of the healthcare system. The study has the support of various organizations in both provinces and is funded by the federal government's COVID-19 Immunity Task Force. By understanding the risk factors and the duration of immunity, the research will provide valuable insights to inform workplace health and safety guidelines for paramedics and enhance their protection against SARS-CoV-2 infection.
 
 Article 4 of 10
 Title: COVID-19 and Suicide: Prevention is Possible
 Publisher: Mental Health Commission of Canada
-Trusted: False
+Trusted: True
 Posted: 3 days ago
 The COVID-19 pandemic has disproportionately affected marginalized groups, including Indigenous people, people with disabilities, racialized communities, and the 2SLGBTQ+ community. The mental health of these individuals has been significantly impacted, with over 38% reporting a decline in mental health due to the pandemic. Key findings from the report include: Mental Health and Well-being: More than 38% of individuals reported a decline in mental health due to COVID-19. 1 in 5 individuals are experiencing moderate-to-severe anxiety, and loneliness is also prevalent, with 1 in 5 people feeling lonely. Worries and Concerns: People's primary concerns revolve around the financial implications of COVID-19 and the fear of themselves or their loved ones becoming ill or passing away due to the virus. Substance Use: The pandemic has led to an increase in substance use, with nearly 1 in 5 people drinking more alcohol, and 14% of individuals between 18 and 34 years old increasing their cannabis consumption. Self-Harm and Suicidal Thoughts: Concerning trends include 4% of individuals attempting self-harm and 10% experiencing suicidal ideation. These findings highlight the significant impact of COVID-19 on mental health and well-being, especially among vulnerable populations. The report emphasizes the need for targeted interventions and support for those at risk of self-harm or suicide.
 

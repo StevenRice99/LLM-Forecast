@@ -35,7 +35,7 @@ Posted: 3 days ago
 Article 6 of 10
 Title: From AIDS to COVID-19: The promise of RNA therapeutics
 Publisher: McGill University
-Trusted: False
+Trusted: True
 Posted: 4 days ago
 Professor Anne Gatignol is an internationally recognized virologist who has been studying RNA and RNA viruses for over 30 years. She is currently developing RNA therapies for HIV and SARS-CoV-2 (the virus that causes COVID-19) and working on the Zika virus. Prof. Gatignol believes that RNA therapeutics have tremendous potential not just against viruses but also for treating other diseases such as cancer and cardiovascular diseases. The success of mRNA COVID-19 vaccines has brought attention and investment to the field of RNA research, and Prof. Gatignol is optimistic about the potential for RNA to be used in many other therapies. Her lab's current projects include understanding the innate cell response to HIV infection and developing RNA-based technologies to stop HIV replication. With her extensive experience in HIV research, Prof. Gatignol was sought out as an expert during the COVID-19 pandemic. She believes that the pandemic has helped to demonstrate the value and potential of RNA technologies, and that this will lead to better preparedness for future diseases. Overall, Prof. Gatignol's research and the new McGill Centre for RNA Sciences have important implications for the development of RNA-based treatments and improved collaboration among researchers.
 

@@ -59,7 +59,7 @@ Here is a summary of the article: Small businesses have faced significant challe
 Article 9 of 10
 Title: U of T to require COVID-19 vaccinations for students living in residence
 Publisher: University of Toronto
-Trusted: False
+Trusted: True
 Posted: 4 days ago
 The University of Toronto will require students living in residence during the 2021-2022 academic year to be vaccinated against COVID-19, with the support of local public health authorities. Students are requested to receive their first dose prior to moving in, preferably 14 days beforehand. Those who are unable to get vaccinated before the move-in date will have a two-week grace period to receive their first dose, and the university will assist in facilitating vaccine access. This measure is essential to protect the health and safety of residence students who live in close quarters. Students who do not receive their first dose within two weeks of moving in may face additional public health restrictions. Exemptions are available for medical or other grounds recognized by the Ontario Human Rights Code. The university will also adhere to existing health and safety protocols, such as mask-wearing and capacity limits, depending on public health guidance. U of T encourages all community members to get vaccinated as soon as possible and will facilitate vaccine access for those in need. These measures are expected to contribute to a gradual and safe return to in-person activities on campuses in the fall, while helping to reduce the risk of COVID-19 hospitalizations among the student population.
 

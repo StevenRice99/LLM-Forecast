@@ -45,7 +45,7 @@ The article discusses a recent survey that revealed an increase in intimate part
 Article 7 of 10
 Title: Ontario Newsroom
 Publisher: Government of Ontario News
-Trusted: False
+Trusted: True
 Posted: 4 days ago
 
 Article 8 of 10

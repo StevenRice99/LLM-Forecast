@@ -37,14 +37,14 @@ The article provides a link to the Prince Edward Island government's website, wh
 Article 6 of 10
 Title: New study: Montreal researchers identify three drugs that could reduce mortality in severely ill COVID-19 patients
 Publisher: McGill University
-Trusted: False
+Trusted: True
 Posted: 3 days ago
 Researchers from the RI-MUHC and the McGill Genome Centre conducted a study to understand the biological responses of patients hospitalized with severe COVID-19 and identify potential drug treatments. They found that certain cellular pathways were overactivated in patients who succumbed to the disease compared to those who recovered. The researchers performed cellular and genomic analyses on ICU patients with severe COVID-19 and compared the data between deceased patients, survivors, and healthy individuals. They found significant differences in the composition of PBMCs (critical components of the immune system), with a reduction of T cells and an increase in myeloid cells in critically ill patients. Additionally, they detected overactivation of specific molecular pathways associated with epigenetic changes in monocytes, a type of white blood cell, in patients who died. To identify potential drug treatments, the team used transcriptomic and epigenomic analyses to look for existing drugs that could suppress the overactivated cellular pathways. They initially found 1,500 candidate drugs, which were narrowed down to 53 used for treating cancers and inflammatory conditions. Finally, they identified three promising candidate drugs: tacrolimus, zotatifin, and nintedanib. These drugs target the specific pathways that were overactivated in the monocytes of patients who died from COVID-19. The study provides preclinical data to support the testing of these drugs in controlled clinical trials, with the hope of reducing mortality in severely ill COVID-19 patients. This research helps to understand the physiology of immune cells in severe COVID-19 and identifies potential drug targets for treatment. By analyzing the differences in cellular pathways between patients who recovered and those who died, the researchers were able to identify specific drugs that can be repurposed to treat severe disease. This information can be used to forecast COVID-19 hospitalizations and improve patient outcomes by providing potential therapeutic options for severe cases.
 
 Article 7 of 10
 Title: Ontario Newsroom
 Publisher: Government of Ontario News
-Trusted: False
+Trusted: True
 Posted: 3 days ago
 
 Article 8 of 10

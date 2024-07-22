@@ -30,7 +30,7 @@ A Global News investigation has revealed that BTNX, a small rapid test supplier 
 Article 5 of 10
 Title: COVID-19 Treatment Guidelines
 Publisher: National Institutes of Health (NIH) (.gov)
-Trusted: False
+Trusted: True
 Posted: 3 days ago
 Vitamin D is important for bone health and has potential immune-modulating effects, which may protect against SARS-CoV-2 infection and reduce COVID-19 severity. Vitamin D deficiency is common, especially among groups disproportionately affected by COVID-19, such as Hispanic and non-Hispanic Black individuals, older adults, and those with obesity and hypertension. While observational studies suggest a link between low vitamin D levels and worse COVID-19 outcomes, there is insufficient evidence to recommend vitamin D supplementation for prevention or treatment. A Mexican trial found a lower risk of infection with vitamin D supplementation in unvaccinated healthcare workers, but it had a high dropout rate. Brazilian and Argentinian trials showed no significant improvement in hospital stay, ICU admission, ventilation needs, or mortality with vitamin D treatment in hospitalized patients with moderate to severe COVID-19. A French trial suggested a reduced mortality rate at 14 days with a high dose of vitamin D but not at 28 days. More well-designed, randomized, and controlled trials are needed to establish the role of vitamin D in COVID-19 prevention and treatment.
 

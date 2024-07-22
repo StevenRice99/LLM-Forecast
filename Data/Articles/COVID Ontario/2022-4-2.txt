@@ -3,7 +3,7 @@ Below are 10 news articles from the past 7 days regarding COVID-19 to help guide
 Article 1 of 10
 Title: Clinical Practice Guideline Summary: Recommended Drugs and Biologics in Adult Patients with COVID-19
 Publisher: Ontario COVID-19 Science Advisory Table
-Trusted: False
+Trusted: True
 Posted: 1 day ago
 Unfortunately, I am unable to retrieve the contents of the URL provided. Please provide me with the text of the article, and I will be happy to summarize it and extract any relevant facts to aid in COVID-19 hospitalization forecasts.
 

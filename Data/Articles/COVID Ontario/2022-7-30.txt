@@ -44,7 +44,7 @@ Here is a summary of the article: In March 2020, Statistics Canada began collect
 Article 7 of 10
 Title: Securing a healthy future for Canadian children after COVID-19
 Publisher: Instituts de recherche en santé du Canada
-Trusted: False
+Trusted: True
 Posted: 3 days ago
 The article discusses the impact of the COVID-19 pandemic on Canadian children's education and health, and presents research and initiatives aimed at mitigating these effects and securing a healthy future for this vulnerable population. Here are the key points: Learning Losses and Academic Impact: School closures and the switch to online learning during the pandemic disrupted children's education. OCEH researchers found that most children experienced learning losses of 2-3 months, while those from socioeconomically disadvantaged backgrounds experienced losses of 6-7 months. These learning delays may have long-term impacts on academic performance and future career prospects. The Quebec Ministry of Education's reading test for grade 4 students revealed that about 80% of participants experienced learning losses, which could negatively affect Canada's economy in the future. Mental Health Consequences: The pandemic negatively impacted the mental health of adolescents, with an increase in emergency room visits for issues like suicide, eating disorders, anxiety, and substance-related problems. Dr. Nicholas Chadi is analyzing the correlation between these mental health crises and socioeconomic backgrounds, age groups, and sex. Cardiovascular Health and COVID-19: Dr. Anne Monique Nuyt is studying the association between preterm birth and increased cardiovascular disease risks in children and adults, aiming to understand the pandemic's impact on their health and identify preventive measures. Research and Data Analysis: OCEH researchers analyze statistics and data from surveys, administrative databases, and research studies to understand the shortand long-term impacts of the pandemic on children's health, education, and development. By collaborating with policymakers and service providers, OCEH aims to develop strategies and interventions to mitigate the effects of the current and future pandemics on children and youth. Overall, the article highlights the negative consequences of the COVID-19 pandemic on Canadian children and presents ongoing research and initiatives to address these issues. The findings will help in developing strategies to support children's healthy development and mitigate the impact of future crises on their education, health, and well-being. While the article does not provide specific forecasts for COVID-19 hospitalizations, it emphasizes the need to address the learning losses, mental health issues, and health disparities exacerbated by the pandemic to secure a brighter future for Canadian children.
 
@@ -58,7 +58,7 @@ Here is a summary of the article, focusing on important facts that could help fo
 Article 9 of 10
 Title: Antiviral drug treatment for nonsevere COVID-19: a systematic review and network meta-analysis
 Publisher: CMAJ
-Trusted: False
+Trusted: True
 Posted: 5 days ago
 
 Article 10 of 10

@@ -56,7 +56,7 @@ Here is a summary of the article: The COVID-19 pandemic has significantly impact
 Article 9 of 10
 Title: Long-term study of children with COVID-19 begins
 Publisher: National Institutes of Health (NIH) (.gov)
-Trusted: False
+Trusted: True
 Posted: 5 days ago
 The National Institute of Allergy and Infectious Diseases (NIAID), part of the National Institutes of Health (NIH), has begun a large-long-term study to track the impacts of COVID-19 on children. The study will follow up to 1,000 children and young adults who previously tested positive for COVID-19, aiming to understand the long-term physical and mental health effects of the disease in this age group. This study is particularly important given the significant acute and long-term effects of COVID-19 that have been observed in some children, as well as the vulnerability of this age group due to their ineligibility for vaccination. The study will also look at the long-term immune responses to the disease, screen for genetic factors that may influence outcomes, and assess whether immunological factors impact long-term health. The study is expected to provide valuable insights into the overall health and development of children following COVID-19 infection and may help to identify risk factors for complications. This research is part of the NIH's RECOVER initiative to understand the long-term consequences of SARS-CoV-2 infection and is anticipated to take approximately six years to complete.
 

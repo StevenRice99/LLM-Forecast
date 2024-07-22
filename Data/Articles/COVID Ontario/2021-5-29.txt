@@ -3,7 +3,7 @@ Below are 10 news articles from the past 7 days regarding COVID-19 to help guide
 Article 1 of 10
 Title: Impact of Hospital Visitor Restrictions during the COVID-19 Pandemic
 Publisher: Ontario COVID-19 Science Advisory Table
-Trusted: False
+Trusted: True
 Posted: 1 day ago
 Here is a summary of the article, including important facts to help forecast COVID-19 hospitalizations: The article discusses the impact of strict hospital visitor policies during the COVID-19 pandemic and the rationale behind them. Visitor restrictions were implemented to prevent the spread of COVID-19 between the community and healthcare settings and to conserve personal protective equipment (PPE). Historical perspectives on restrictive visitor policies are discussed, highlighting the belief that liberal visiting policies could lead to increased stress and impair patient care. However, emerging evidence suggests that the presence of family/essential caregivers has benefits for patient care, including improved safety, communication, and outcomes. The risk posed by family/essential caregivers during the pandemic is low, especially with proper infection prevention and control (IPAC) measures in place. The benefits of family/essential caregiver presence include improved communication, reduced delirium, better surgical outcomes, improved end-of-life care, and favorable labor and delivery outcomes. The article recommends a clear process for appointing family/essential caregivers and identifying patient populations at high risk of harm from their absence. Dynamic and iterative visitor policies are necessary, considering the changing epidemiology of COVID-19 and PPE supplies. The risk of family/essential caregivers may be reduced with lower community transmission, vaccination, and training on IPAC policies and PPE use. The presence of highly transmissible variants of concern (VOCs) may increase the risk associated with visitors. Forecasting COVID-19 hospitalizations: The article does not directly provide information on forecasting COVID-19 hospitalizations. However, the presence of VOCs and the impact of visitor policies on transmission rates are relevant factors to consider. Overall, the article emphasizes the importance of balancing infection control measures with the benefits of family/essential caregiver presence for patient care and well-being. Dynamic and flexible visitor policies are recommended to adapt to the changing circumstances of the pandemic.
 
@@ -58,7 +58,7 @@ The COVID-19 pandemic, which began in Wuhan, China, in 2020, has had significant
 Article 9 of 10
 Title: A population-based analysis of the impact of the COVID-19 pandemic on common abdominal and gynecological emergency department visits
 Publisher: CMAJ
-Trusted: False
+Trusted: True
 Posted: 4 days ago
 
 Article 10 of 10

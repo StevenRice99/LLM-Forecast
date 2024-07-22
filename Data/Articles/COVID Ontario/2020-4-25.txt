@@ -37,14 +37,14 @@ Posted: 2 days ago
 Article 6 of 10
 Title: U of T to support high-impact coronavirus research projects through Toronto COVID-19 Action Fund
 Publisher: University of Toronto
-Trusted: False
+Trusted: True
 Posted: 5 days ago
 The University of Toronto has established a $9-million fund to support COVID-19 research by U of T and its hospital partners. The Toronto COVID-19 Action Fund will support over 30 research projects with a positive impact on individuals, communities, and public health systems within a year or less. The projects were chosen through a fast-tracked, peer-reviewed competition and include medical interventions, as well as measures to support vulnerable populations and the economy. One project aims to research the effects of the COVID-19 pandemic response on marginalized groups, while another will carry out a phase two drug trial for COVID-19 treatment. Other projects will address social, economic, and public policy issues, such as the impact of COVID-19 on work quality and economic life in Canada. The funding for these projects comes from various sources, including U of T, partner hospitals, and philanthropic donors. Additional projects may be funded as more funds are raised and partners contribute.
 
 Article 7 of 10
 Title: How are kids affected by COVID-19?
 Publisher: Instituts de recherche en santé du Canada
-Trusted: False
+Trusted: True
 Posted: 5 days ago
 Here is a summary of the article: The article discusses a research project led by Dr. Stephen Freedman, a pediatric emergency medicine physician, that aims to understand how the COVID-19 virus impacts children. The project is one of 99 Novel Coronavirus (COVID-19) Rapid Research projects funded by the CIHR (Canadian Institutes of Health Research). The study, "Clinical Characteristics and Outcomes of Children Potentially Infected by SARS-CoV-2 Presenting to Pediatric Emergency Departments," plans to enroll and follow 12,500 children over several months who present to 58 participating emergency departments in 14 countries. Recruitment has already started in Canada and worldwide. The study will include children who test positive and negative for COVID-19 to compare exposures, interventions, and collect outcome data from those with respiratory illnesses and SARS-CoV-2 infection. The research team will follow the children for 90 days after their visit to a pediatric emergency department to look at chronic symptoms that may develop due to the infection or related stress. One of the main goals of the project is to share data with policymakers in real time through an electronic database that can be accessed by the public, academics, and policymakers. The team is currently building the electronic data capture tool and expects to start analyzing the data within the next few weeks, hoping to identify high-risk periods for children, similar to what has been observed in adults.
 

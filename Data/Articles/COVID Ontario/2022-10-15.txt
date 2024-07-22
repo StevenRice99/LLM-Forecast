@@ -31,7 +31,7 @@ The article discusses a recent study by researchers at Lawson Health Research In
 Article 5 of 10
 Title: Ontario Newsroom
 Publisher: Government of Ontario News
-Trusted: False
+Trusted: True
 Posted: 2 days ago
 
 Article 6 of 10

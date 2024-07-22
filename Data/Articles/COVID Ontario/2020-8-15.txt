@@ -1,68 +1,62 @@
-Below are 10 news articles from the past 7 days regarding COVID-19 to help guide you in making your decision. Using your best judgement, take into consideration only the articles that are most relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Articles that are from know reputable sources have been flagged with "Trusted: True".
+Below are 9 news articles from the past 7 days regarding COVID-19 to help guide you in making your decision. Using your best judgement, take into consideration only the articles that are most relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Articles that are from know reputable sources have been flagged with "Trusted: True".
 
-Article 1 of 10
+Article 1 of 9
 Title: Health officials warn of potential 'fall peak' in COVID-19 cases in Canada
 Publisher: CBC.ca
 Trusted: False
 Posted: 1 day ago
 Canada's Public Health Agency has released new modeling that predicts a significant spike in COVID-19 cases this fall if testing, contact tracing, and personal protection measures are not improved as schools and businesses reopen. The country's top doctors are preparing for a worst-case scenario, known as the "fall peak," which could overwhelm the public healthcare system. Chief Public Health Officer Dr. Theresa Tam and Deputy Public Health Officer Dr. Howard Njoo presented the new modeling, which suggests that the number of cases could be several times worse than what Canada has experienced so far. The Public Health Agency of Canada (PHAC) is aiming for a "slow burn" scenario to minimize the impact on the healthcare system but is also planning for the worst-case scenario. Dr. Tam noted that the surge in cases will coincide with the flu season, putting additional strain on hospitals. While she did not provide a specific figure for the expected caseload, she advised health authorities to prepare for a significant increase. The number of new cases has already been increasing, with the highest infection rate among those aged 20-39. To limit outbreaks, Tam stressed the importance of detecting and isolating cases, contact tracing and quarantining, physical distancing, handwashing, staying home when possible, and using exposure notification apps. PHAC predicts that the case load could grow to between 121,650 and 127,740 by August 23, with the majority of cases in Ontario and Quebec. The Canadian government is preparing for a potential second wave, ensuring a supply of PPE and medical supplies, and working on vaccine administration. Today's modeling provides a snapshot of potential scenarios and projects that the "peaks and valleys" of COVID-19 could continue through 2022.
 
-Article 2 of 10
+Article 2 of 9
 Title: Rheumatology Global Alliance – Our community’s unprecedented rapid response to the COVID-19 pandemic
 Publisher: Instituts de recherche en santé du Canada
-Trusted: False
+Trusted: True
 Posted: 1 day ago
 Rheumatologists recognized the need for a global rheumatology registry to address the lack of information on the outcomes, risks, and severity of COVID-19 infections in people with rheumatic diseases. Through social media and online platforms, they rapidly formed the Global Rheumatology Alliance (GRA), which now includes 336 organizations and nearly 2,000 cases in its dataset. The GRA's mission is to collect, analyze, and disseminate information about COVID-19 and rheumatology to improve patient care. This unprecedented global collaboration aims to address the urgent need for knowledge and advance rheumatology care during the pandemic.
 
-Article 3 of 10
+Article 3 of 9
 Title: Alberta Health Services
 Publisher: Alberta Health Services
 Trusted: False
 Posted: 1 day ago
 The article discusses the concept of COVID-19 fatigue and the toll it has taken on individuals during the pandemic. It emphasizes the importance of maintaining physical and mental health amidst the ongoing challenges. The vlog features Dr. Laura McDougall, Senior Medical Officer of Health, and Susan McGillivray, Senior Program Officer, who provide insights on COVID-19 fatigue, wellness supports identified through surveys, and offer self-care tips. This information can help individuals forecast COVID-19 hospitalizations by highlighting the need for continued vigilance in taking care of one's health to mitigate the impact of the virus.
 
-Article 4 of 10
+Article 4 of 9
 Title: Coming back from COVID-19: Jacob’s story
 Publisher: Canada.ca
 Trusted: True
 Posted: 3 days ago
 Here is a summary of the article: Jacob, a 21-year-old man, shares his experience of contracting COVID-19 along with his family. Initially, he had fever and body weakness, and he isolated himself as he was the first in his family to test positive. Despite his efforts, the rest of his family also caught the virus. Jacob's parents, especially his diabetic father, experienced severe symptoms and had to be hospitalized, which worried Jacob deeply. He felt guilty for potentially being the source of their infections. Jacob's mother was hospitalized for four days, and his father followed soon after, but fortunately, both recovered and returned home. Jacob's perspective changed after his experience; he realized that COVID-19 can affect young, healthy individuals like himself, and he emphasizes that no one is indestructible. This story highlights the impact of COVID-19 on individuals and families, the importance of taking precautions, and the emotional toll of the disease. While it does not provide specific data or forecasts for hospitalizations, it offers a personal account of the severity of the disease and the worry and guilt associated with potentially infecting loved ones.
 
-Article 5 of 10
-Title: 
-Publisher: Brock University
-Trusted: False
-Posted: 3 days ago
-
-Article 6 of 10
+Article 5 of 9
 Title: 'Hundreds dead' because of Covid-19 misinformation
 Publisher: BBC.com
 Trusted: False
 Posted: 3 days ago
 Here is a summary of the article: Social media platforms, including Facebook, Twitter, and WhatsApp, have been utilized to spread misinformation about COVID-19, leading to severe consequences. According to a study in the American Journal of Tropical Medicine and Hygiene, approximately 800 deaths and 5,800 hospitalizations worldwide occurred due to coronavirus-related misinformation in the initial three months of 2020. Many individuals followed false advice, such as consuming methanol, cleaning products, or unconventional remedies, believing them to be cures or prevention methods for COVID-19. The World Health Organization (WHO) termed this phenomenon an "infodemic," emphasizing the rapid spread of misinformation and its detrimental impact on public health. The responsibility to combat this infodemic lies with international agencies, governments, and social media platforms, but their responses have been criticized as slow and inadequate. Misinformation has led to social unrest, including mob attacks, arson, and assaults, as well as scams exploiting people's fears about the pandemic. With the development of COVID-19 vaccines, there is a concern that anti-vaccine campaigners will leverage social media to discourage people from getting vaccinated. Despite efforts by social media companies to address misleading information, a significant portion of the population still believes in conspiracy theories related to vaccines. To forecast COVID-19 hospitalizations accurately, it is crucial to address and mitigate the impact of misinformation. The following key points could be considered: Monitoring and addressing misinformation: Social media platforms, international agencies, and governments should continue to monitor and address COVID-19 misinformation proactively. This includes removing or flagging false information and promoting credible sources and scientific consensus. Public education and media literacy: Investing in public education campaigns to enhance media literacy can help individuals identify misleading or false information. Encouraging critical thinking and verifying information from trusted sources can reduce the impact of misinformation on public health decisions. Rapid response to emerging misinformation: Being vigilant and responsive to emerging trends in misinformation is essential. Fact-checking organizations and public health authorities should promptly address new conspiracy theories or false cures to prevent their spread and potential impact on hospitalizations. Collaboration between healthcare providers and community leaders: Healthcare providers and community leaders can work together to disseminate accurate information and build trust within their communities. This can help counter misinformation and encourage individuals to seek appropriate medical care when needed. Addressing vaccine hesitancy: As vaccines become available, addressing vaccine hesitancy and providing clear, accurate information about their safety and effectiveness will be crucial in ensuring widespread vaccination and reducing hospitalizations. By incorporating these strategies and prioritizing the fight against misinformation, public health officials and governments can improve the accuracy of COVID-19 hospitalization forecasts and ultimately save lives.
 
-Article 7 of 10
+Article 6 of 9
 Title: Long after the fire of a Covid-19 infection, mental and neurological effects can still smolder
 Publisher: STAT
 Trusted: False
 Posted: 3 days ago
 The article discusses the long-term neurological and psychological effects of COVID-19 on patients, even after they have recovered from the infection. It highlights cases where individuals experience symptoms such as confusion, dizziness, tremors, cognitive impairment, depression, anxiety, and PTSD post-recovery. Experts suggest that up to 1 in 3 patients could face such after-effects, indicating a lasting impact on the brain. The neurological complications range from headaches, dizziness, and loss of smell or taste to mood disorders and cognitive impairment. Patients may also suffer from lasting damage to their heart, kidneys, and liver due to inflammation and blood clotting caused by the disease. Researchers are still learning about these manifestations and how to prevent and treat them effectively. The article features the story of John Bonfiglio, who experienced post-ICU disorientation, muscle weakness, and tremors but eventually recovered. However, many patients face more serious problems, including delirium and nerve damage, leading to neurologic and mental health issues. The article emphasizes the need for early intervention, psychological help, and support for patients experiencing these long-term effects.
 
-Article 8 of 10
+Article 7 of 9
 Title: COVID-19: The 4 building blocks of the Great Reset
 Publisher: World Economic Forum
 Trusted: False
 Posted: 4 days ago
 The article discusses the World Economic Forum's Great Reset initiative, which aims to use the COVID-19 pandemic as a catalyst for transforming the way our societies are run. The article proposes four building blocks for this transformation: 1. Mindset: The article argues that our current outlook is based on wrong assumptions and that a change in mindset can lead to dramatic transformation. It highlights the work of Thomas Piketty and Rutger Bregman, who challenge assumptions about inequality and human nature, respectively. 2. Metrics: The article critiques Gross Domestic Product (GDP) as a measure of progress, arguing that it fails to account for the distribution of wealth and the human and environmental costs of capitalism. It calls for new metrics that focus on the well-being of people and the planet. 3. Incentives: The article argues that incentives need to be redesigned to align with the goal of a more inclusive and sustainable economy. It critiques the dominance of shareholder value as the primary indicator of company success and calls for incentives that prioritize social and environmental impact. 4. Connection: The article highlights the importance of genuine connection between leaders and people, and among people. It argues that digital technologies can create an illusion of connection and that anonymity can fuel polarization and detachment from the consequences of our actions. It calls for deeper, more meaningful connections with each other and the natural world. To forecast COVID-19 hospitalizations, several factors need to be considered, including vaccination rates, the prevalence of new variants, social distancing measures, and the availability of medical resources. The connection between leaders and the people, as mentioned in the article, can also play a role in encouraging responsible behavior and providing access to healthcare services.
 
-Article 9 of 10
+Article 8 of 9
 Title: Commuting to work during COVID-19
 Publisher: Statistique Canada
 Trusted: True
 Posted: 5 days ago
 Here is a summary of the article: Due to COVID-19 restrictions, there has been a significant decrease in the number of commuters, which has led to a decline in ridership on public transportation and traffic congestion in major Canadian cities. Statistics Canada's Canadian Perspectives Survey Series (CPSS) examined how Canadians' commuting habits changed during the pandemic. Before the pandemic, most commuters used personal motor vehicles (75%), followed by public transit (13%) and active transportation (7%). However, in June 2020, 22% of Canadians worked from home, a sharp increase from the pre-pandemic figure of 4%. As a result, there was a decline in the use of public transit and personal motor vehicles. The majority of those who switched from using a personal motor vehicle or active transportation before the pandemic continued using the same mode of transportation in June. However, there was a significant shift away from public transit, with only 24% of pre-pandemic public transit users still using it in June. About one-third switched to another mode of transportation, and 42% started teleworking. Workers in larger census metropolitan areas (CMAs) were more likely to switch to telework, as were those with higher levels of education. Immigrants were also more likely to switch to telework, possibly due to their higher likelihood of living in larger CMAs and having university degrees. The majority of public transit users before the pandemic expressed concerns about using it again, even if they felt safe returning to their physical workplace. This suggests that the shift away from public transit may continue even as the pandemic subsides. The article also mentions that Statistics Canada will continue to monitor the impacts of COVID-19 and that the 2021 Census will provide valuable data to evaluate the long-term effects on commuting patterns in Canada. Overall, the article highlights the significant changes in commuting habits during the pandemic and provides insights into the factors influencing those changes. The decrease in public transit usage and increase in telework may have lasting impacts on urban transportation and work cultures. To forecast COVID-19 hospitalizations, it is important to consider the impact of vaccination rates, the prevalence of new variants, and the relaxation or tightening of public health measures. Additionally, the availability of intensive care unit (ICU) beds and ventilators, as well as the capacity of the healthcare system to handle a surge in cases, are crucial factors in determining the hospitalization rate.
 
-Article 10 of 10
+Article 9 of 9
 Title: COVID-19: Financial future grim for Canadians with disabilities, health conditions
 Publisher: The Conversation Indonesia
 Trusted: False

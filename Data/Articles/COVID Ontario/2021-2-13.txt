@@ -3,7 +3,7 @@ Below are 10 news articles from the past 7 days regarding COVID-19 to help guide
 Article 1 of 10
 Title: Researchers propose that humidity from masks may lessen severity of COVID-19
 Publisher: National Institutes of Health (NIH) (.gov)
-Trusted: False
+Trusted: True
 Posted: 1 day ago
 Here is a summary of the article: Researchers from the National Institutes of Health (NIH) have found that wearing a face mask may have an additional benefit beyond protecting against SARS-CoV-2, the virus that causes COVID-19. The study, led by the National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK), discovered that face masks significantly increase the humidity of inhaled air, which could help to reduce the severity of respiratory diseases like COVID-19. The study tested four common types of masks and found that all of them increased the humidity level, with the thick cotton mask leading to the most significant increase. Higher humidity can improve the immune system's defense mechanisms against viruses and help prevent respiratory infections. The increased humidity inside the mask may be one reason why wearing masks has been associated with less severe COVID-19 infections. Earlier studies by the same group also showed that cloth masks effectively block saliva droplets released during speech, providing further evidence for the importance of mask-wearing in combating COVID-19. The research highlights that even with the rollout of vaccinations, mask-wearing remains a crucial measure to prevent the spread of the coronavirus, especially during winter when respiratory infections are more common.
 
@@ -38,7 +38,7 @@ Human Rights Watch reported that at least 83 governments worldwide have used the
 Article 6 of 10
 Title: Ontario Newsroom
 Publisher: Government of Ontario News
-Trusted: False
+Trusted: True
 Posted: 4 days ago
 
 Article 7 of 10
@@ -51,7 +51,7 @@ The article offers advice on foot care during the COVID-19 pandemic, as changes 
 Article 8 of 10
 Title: Shifts in office and virtual primary care during the early COVID-19 pandemic in Ontario, Canada
 Publisher: CMAJ
-Trusted: False
+Trusted: True
 Posted: 5 days ago
 
 Article 9 of 10

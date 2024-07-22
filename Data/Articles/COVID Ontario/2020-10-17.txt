@@ -37,7 +37,7 @@ Posted: 3 days ago
 Article 6 of 10
 Title: When it comes to COVID-19, not all tests are created equal: U of T’s Vivek Goel
 Publisher: University of Toronto
-Trusted: False
+Trusted: True
 Posted: 3 days ago
 The article emphasizes the importance of "smart testing" in the fight against the COVID-19 pandemic. Vivek Goel, a public health expert, highlights the need for a strategic approach to testing to avoid wasting resources and ensure accurate results. Three types of tests are discussed: the PCR test, the rapid antigen test, and the antibody test. The article provides examples of successful testing strategies, such as the NBA's approach to testing players daily with rapid tests followed by confirmatory PCR tests. Goel warns against inefficient testing of large populations at low risk and stresses the importance of conserving testing resources. Smart testing can provide crucial data to prevent prolonged lockdowns and monitor trends to avert outbreaks. The article also discusses the role of testing in enabling activities like travel and highlights ongoing efforts to develop innovative testing technologies. In conclusion, the article underscores the necessity of smart testing strategies alongside vaccine distribution to effectively manage COVID-19 and facilitate a safe return to normalcy.
 

@@ -17,14 +17,14 @@ Here is a summary of the article, including some important facts to help forecas
 Article 3 of 10
 Title: In wake of COVID-19, U of T researcher finds 'steep decline' in youth participation in sport
 Publisher: University of Toronto
-Trusted: False
+Trusted: True
 Posted: 2 days ago
 The article discusses the impact of COVID-19 shutdowns on youth engagement in sports and the findings of a research project conducted by Simon Darnell, an associate professor at the University of Toronto. The study, titled "Change the Game," evaluated youth access and engagement in sports during the pandemic. It found a significant decline in team and facility-based sports like soccer, basketball, hockey, swimming, and baseball, while there was a slight increase in individual sports and activities such as running and strength training. The research surveyed close to 7,000 youth from diverse backgrounds to understand barriers to sport participation post-pandemic and explore opportunities for more equitable access to sports. The study highlighted the challenges faced by youth, especially those who relied on school systems for sports opportunities. The report includes suggestions for rebuilding the sports sector positively, such as expanding access to free or low-cost sports, promoting representation and inclusion, and investing in community-building through sports. Overall, the research aims to provide valuable data and recommendations to improve the youth sports system in Canada and address the impact of the pandemic on youth engagement in sports.
 
 Article 4 of 10
 Title: The Role of Wastewater Testing for SARS-CoV-2 Surveillance
 Publisher: Ontario COVID-19 Science Advisory Table
-Trusted: False
+Trusted: True
 Posted: 2 days ago
 The article discusses the challenges of surveillance of SARS-CoV-2 due to transmission by symptomatic and pre-symptomatic individuals, which can lead to missed or delayed case detection. To address this, wastewater testing has been proposed as a complementary method for early detection and surveillance of SARS-CoV-2. Current applications of wastewater testing for SARS-CoV-2 include early detection of outbreaks and surges, population-wide surveillance, specific population surveillance (e.g. in high-risk residential settings), and surveillance of Variants of Concern (VOCs). Wastewater testing has been shown to detect SARS-CoV-2 RNA in advance of clinical confirmation of COVID-19 cases, as evidenced by studies in Northern Italy and the Netherlands. Wastewater testing can also be used for population-wide surveillance, with dashboards displaying wastewater test results alongside clinical data to inform the public about surges in cases. Specific population surveillance in high-risk settings, such as long-term care homes and correctional facilities, can help identify asymptomatic cases and prevent further transmission. The World Health Organization (WHO) and other public health organizations have identified areas for improvement to ensure the reliability and accuracy of wastewater testing. These include analytical methods, reporting, interpretation of tests, and program sustainability. Factors that can affect test results include variations between individuals, differences in wastewater infrastructure, and variations in sample collection and measurement methods. Overall, wastewater testing has the potential to provide early warning signs of COVID-19 outbreaks and surges, helping public health authorities make informed decisions about interventions and mitigation strategies. However, further development and standardization of analytical methods are needed to ensure the accuracy and reliability of wastewater testing data.
 
@@ -44,7 +44,7 @@ Posted: 4 days ago
 Article 7 of 10
 Title: Ontario Newsroom
 Publisher: Government of Ontario News
-Trusted: False
+Trusted: True
 Posted: 4 days ago
 
 Article 8 of 10

@@ -51,14 +51,14 @@ A recent study of international air travelers arriving in Toronto has yielded pr
 Article 8 of 10
 Title: U of T alumnus Derrick Rossi 'proud' to play role in promising COVID-19 vaccine: Toronto Star
 Publisher: University of Toronto
-Trusted: False
+Trusted: True
 Posted: 4 days ago
 The development of a potential COVID-19 vaccine by Moderna, a Cambridge, MA-based company, is attributed to the pioneering research of University of Toronto alumnus Derrick Rossi, who co-founded the company. Rossi's work focused on using modified messenger RNA (mRNA) to produce specific proteins, a technology central to Moderna's vaccine, which preliminary data suggests is 94.5% effective. Rossi, a former Harvard University professor, is no longer with Moderna but feels proud to have contributed to the vaccine's development, which he believes will positively impact human health. The success of the vaccine hinges on its ability to utilize modified mRNA to generate a specific protein, a key factor in protecting against COVID-19 infection and potentially reducing hospitalizations.
 
 Article 9 of 10
 Title: Understanding and Navigating the Challenges of Dementia during COVID-19
 Publisher: McGill University
-Trusted: False
+Trusted: True
 Posted: 5 days ago
 The article announces an upcoming Zoom event featuring an interview with Dr. Serge Gauthier and Dr. José Morais, who will provide advice and insights on caring for individuals with dementia during the COVID-19 pandemic. The event will be led by Claire Webster, a certified Alzheimer Care Consultant and founder of the McGill Dementia Education Program. While the session will be conducted in English, participants are encouraged to ask questions in either French or English. Dr. Serge Gauthier is an expert in Alzheimer's disease and related disorders, serving as the director of the research unit dedicated to these conditions at McGill University. He also holds academic appointments in the departments of Neurology & Neurosurgery, Psychiatry, and Medicine. Dr. José Morais is an academic lead for the McGill Dementia Education Program and has various leadership roles in geriatric medicine and research at McGill University and affiliated healthcare institutions. While the article does not contain specific forecasts or models for COVID-19 hospitalizations, the participation of these experts suggests that they may offer insights into the potential impact of COVID-19 on individuals with dementia and the healthcare system's capacity to manage these cases. Their expertise covers a wide range of topics, from clinical care to research and education, which could inform predictions and preparedness regarding hospitalizations.
 

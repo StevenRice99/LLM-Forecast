@@ -45,14 +45,14 @@ Here is a summary of the article, focusing on important facts that can help fore
 Article 7 of 10
 Title: How are cancer patients cared for during COVID-19? U of T's Fei-Fei Lu on the changes at Princess Margaret
 Publisher: University of Toronto
-Trusted: False
+Trusted: True
 Posted: 4 days ago
 During the COVID-19 pandemic, cancer care has been significantly impacted, and the way radiation therapy is delivered to patients has changed. To reduce patients' exposure to hospital settings, especially for older patients, radiation oncologists have shortened treatment regimens from the traditional five weeks to three weeks or even one week in some cases. This change has been made possible by emerging research indicating that shorter radiation regimens can be safe and effective. As a result, cancer centers like the Princess Margaret Cancer Centre have rapidly adapted to this new approach to ensure the safest and highest-quality radiation care for their patients. The pandemic has also led to the deferral of radiation and other treatments for cancer patients to limit their visits to the hospital. However, cancer care providers must carefully balance the need for deferral with the optimal timeframe for treatment to ensure the best clinical outcomes. Virtual care has been widely adopted, with approximately 50% of clinic activities being conducted virtually using platforms like the Ontario Telemedicine Network (OTN). While virtual care has benefits, it cannot replace all aspects of in-person care, especially for new patients who may struggle to build trust with their physicians without face-to-face interactions. The COVID-19 pandemic has highlighted health disparities, with data showing that specific populations, particularly those economically disadvantaged, are more affected by the virus. These disparities also extend to cancer care, where socially and economically disadvantaged patients may experience more distress due to a lack of access to necessary supports and resources. Additionally, the pandemic has brought to light the issue of racism, particularly anti-Asian racism, which has impacted Asian healthcare workers and leaders who have been at the forefront of the pandemic response.
 
 Article 8 of 10
 Title: For-profit long-term care homes and the risk of COVID-19 outbreaks and resident deaths
 Publisher: CMAJ
-Trusted: False
+Trusted: True
 Posted: 5 days ago
 
 Article 9 of 10

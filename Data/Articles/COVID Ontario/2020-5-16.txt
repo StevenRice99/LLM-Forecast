@@ -17,7 +17,7 @@ The article presents findings from a Statistics Canada survey on the impacts of 
 Article 3 of 10
 Title: Depression in pregnant women and health care providers during COVID-19
 Publisher: Instituts de recherche en santé du Canada
-Trusted: False
+Trusted: True
 Posted: 1 day ago
 This article discusses a research project that aims to study the impact of the COVID-19 pandemic on the mental health of pregnant women and healthcare providers in Anhui, China. The project is led by Dr. Shelby Yamamoto, an epidemiologist interested in environmental factors affecting vulnerable populations, and is based at the University of Alberta's School of Public Health. The research will assess the potential for depression among pregnant women and the impact of cognitive behavioral therapy (CBT) on their mental health. It will also examine potential adverse birth outcomes and measure anxiety among healthcare providers (HCPs) involved in perinatal healthcare during and after the pandemic. The study builds on an existing CIHR-funded project that started in 2018, implementing a perinatal depression screening and management program (PDSM) in four cities in Anhui. The PDSM program uses the Edinburgh Postnatal Depression Scale (EPDS) to screen for depression, offering internet-based CBT and individual counseling as needed. The COVID-19 study will capture changes in depression scores over time and conduct qualitative analyses to explore the impact of the pandemic on perinatal mental health. The research is currently recruiting women and HCPs, with plans to collect data longitudinally to assess changes in depression and anxiety trends and the impact of the Mom's Good Mood program. The team also aims to gather information about perinatal service use and birth outcomes during the pandemic, exploring links between adverse birth outcomes and depression. The project benefits from the diverse expertise of the Principal Investigators, including epidemiological analysis, psychological measurement, and global maternal and newborn care knowledge.
 
@@ -59,7 +59,7 @@ Toronto, Canada's largest city, has been significantly impacted by the COVID-19 
 Article 9 of 10
 Title: Projecting demand for critical care beds during COVID-19 outbreaks in Canada
 Publisher: CMAJ
-Trusted: False
+Trusted: True
 Posted: 5 days ago
 
 Article 10 of 10

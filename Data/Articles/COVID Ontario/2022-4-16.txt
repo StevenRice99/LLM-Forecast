@@ -38,14 +38,14 @@ The article discusses the potential long-term effects of COVID-19 on male fertil
 Article 6 of 10
 Title: Increased Screen Time for Children and Youth During the COVID-19 Pandemic
 Publisher: Ontario COVID-19 Science Advisory Table
-Trusted: False
+Trusted: True
 Posted: 4 days ago
 Here is a summary of the article, including important facts that could help forecast COVID-19 hospitalizations: Screen time for children and adolescents has significantly increased during the COVID-19 pandemic, with some studies reporting increases of up to 6.5 hours per day. This exceeds the recommended guidelines of no more than 1-2 hours of screen time per day for children and youth. The first wave of the pandemic in spring 2020 was associated with a sharp increase in screen time for all ages, and this trend has been observed in Ontario as well. Pandemic-related public health measures, such as quarantine, physical isolation, and the switch to online education, have likely contributed to the increase in screen time. Increased screen time is associated with detrimental physical, cognitive, and mental health outcomes. These include depression, unhealthy weight gain, sleep disruption, and increased sedentary behaviors. Demographic and household factors, such as the number of electronic devices in the home, extracurricular activities, bedtime routines, and adverse childhood experiences, can influence screen time and its effects. The nature of screen use, such as active vs passive engagement and the type of technology used, also plays a role in the health outcomes associated with screen time. There is a need for policy interventions and evidence-informed social supports to address the potential negative consequences of increased screen time during and after the pandemic. While the article focuses on the impacts of increased screen time on children and adolescents during the COVID-19 pandemic, it does not directly provide information on how these factors could help forecast COVID-19 hospitalizations. However, the information presented could be useful in understanding the overall health and well-being of this population during the pandemic, which may have indirect effects on healthcare utilization, including hospitalizations.
 
 Article 7 of 10
 Title: Ontario Newsroom
 Publisher: Government of Ontario News
-Trusted: False
+Trusted: True
 Posted: 5 days ago
 
 Article 8 of 10
@@ -57,7 +57,7 @@ Posted: 5 days ago
 Article 9 of 10
 Title: The Impact of COVID-19 on Rural and Remote Mental Health and Substance Use
 Publisher: Mental Health Commission of Canada
-Trusted: False
+Trusted: True
 Posted: 5 days ago
 The article discusses a webinar that focuses on the mental health and substance use challenges that the COVID-19 pandemic has posed for rural and remote communities. While it does not directly provide facts or data to forecast COVID-19 hospitalizations, it highlights the unique perspectives and experiences of these communities in dealing with the mental health impacts of the pandemic. The webinar is a collaboration between the University of British Columbia (UBC) Okanagan campus and the Rural Coordination Centre of British Columbia (BC). One important aspect mentioned is the case study from Princeton, BC, which brings to life the analysis and recommendations from an October 2021 policy brief on mental health and substance use in rural communities during COVID-19. By presenting real-world experiences and on-the-ground insights, the case study enhances the understanding of the challenges and potential solutions for these vulnerable communities. Overall, the article emphasizes the need to address the mental health and substance use issues that have been exacerbated by the pandemic in rural and remote areas. It highlights the value of community perspectives and the importance of collaboration between academic institutions and local organizations, such as the partnership between UBC and the Rural Coordination Centre of BC, in developing effective responses to these challenges.
 

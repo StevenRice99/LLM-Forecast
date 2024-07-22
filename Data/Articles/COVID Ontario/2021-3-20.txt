@@ -17,7 +17,7 @@ This report describes the completion status and timing of the second dose of a t
 Article 3 of 10
 Title: Ontario Newsroom
 Publisher: Government of Ontario News
-Trusted: False
+Trusted: True
 Posted: 2 days ago
 
 Article 4 of 10
@@ -30,7 +30,7 @@ The article discusses the results of simulations on COVID-19 spread in childcare
 Article 5 of 10
 Title: Mobile On-Site COVID-19 Vaccination of Naturally Occurring Retirement Communities by Neighbourhood Risk in Toronto
 Publisher: Ontario COVID-19 Science Advisory Table
-Trusted: False
+Trusted: True
 Posted: 3 days ago
 
 Article 6 of 10
@@ -57,7 +57,7 @@ The report summarizes the experiences and perspectives of Indigenous community m
 Article 9 of 10
 Title: Medical experimentation and the roots of COVID-19 vaccine hesitancy among Indigenous Peoples in Canada
 Publisher: CMAJ
-Trusted: False
+Trusted: True
 Posted: 5 days ago
 
 Article 10 of 10

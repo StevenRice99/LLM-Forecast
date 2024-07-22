@@ -38,7 +38,7 @@ The article discusses the genetic basis of COVID-19 severity and identifies a sp
 Article 6 of 10
 Title: Strange dreams during COVID-19? You're not alone, U of T researchers say
 Publisher: University of Toronto
-Trusted: False
+Trusted: True
 Posted: 3 days ago
 The article discusses research conducted by graduate students from the University of Toronto, who investigated the relationship between dreams and waking life during the COVID-19 pandemic. The researchers collected data from 84 students from 22 countries, focusing on the content and themes of their dreams during the early lockdown phase. The analysis revealed that anxiety, fear, and confusion were the most commonly reported emotions in dreams, with respondents also reporting more vivid dreams and an increase in nightmares. Interestingly, about a third of the students had dreams specifically related to COVID-19, such as personal protective equipment and social distancing. The researchers interpreted these findings as evidence that dreams may reflect and help process external stressors. Additionally, the study explored the influence of culture on dream content and interpretation, with nearly a quarter of respondents reporting that their cultural background shaped their dream interpretations. The researchers suggested that dreams may prime individuals for next-day behavior and could have played a role in our ancestors' survival and reproduction. Overall, the study provides insights into the relationship between dreams and waking life during a global crisis and highlights the potential function of dreams in processing and preparing for real-life threats.
 
@@ -52,7 +52,7 @@ Elon Musk, the CEO of Tesla and SpaceX, has once more made controversial stateme
 Article 8 of 10
 Title: Misdiagnosis related to premature diagnostic closure during the COVID-19 pandemic
 Publisher: CMAJ
-Trusted: False
+Trusted: True
 Posted: 5 days ago
 
 Article 9 of 10

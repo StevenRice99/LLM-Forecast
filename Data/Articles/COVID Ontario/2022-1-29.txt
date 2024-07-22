@@ -24,7 +24,7 @@ The Yukon Territory in Canada experienced a late wave of COVID-19 in June and Ju
 Article 4 of 10
 Title: Ontario Newsroom
 Publisher: Government of Ontario News
-Trusted: False
+Trusted: True
 Posted: 2 days ago
 
 Article 5 of 10
@@ -63,6 +63,6 @@ There are three main phases of a COVID-19 infection: the incubation period, acut
 Article 10 of 10
 Title: Social connectedness, sleep, and physical activity associated with better mental health among youth during the COVID-19 pandemic
 Publisher: National Institutes of Health (NIH) (.gov)
-Trusted: False
+Trusted: True
 Posted: 5 days ago
 The research, published in the Journal of Adolescent Health and supported by the National Institute on Drug Abuse and other NIH entities, analyzed data from over 3,000 adolescents aged 11-14 before and during the early months of the COVID-19 pandemic. It found that supportive relationships and healthy behaviors like physical activity and better sleep were associated with better mental health outcomes during the pandemic. Positive relationships with family and friends were among the top predictors of high positive affect and protected against stress, anxiety, and depression. Conversely, more screen time and witnessing racism or discrimination related to the pandemic were predictors of negative affect. The study also found that girls and those with pre-existing mental health or sleep problems were more vulnerable to the negative impacts of the pandemic. The sample, however, was not representative of the US population, limiting the generalizability of the results. The ABCD Study is a longitudinal study of brain development and child health, providing valuable insights into the impact of the pandemic on youth mental health.

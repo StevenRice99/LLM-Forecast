@@ -30,7 +30,7 @@ Here is a summary of the article, including important facts for forecasting COVI
 Article 5 of 10
 Title: Lingering symptoms common after COVID hospitalization
 Publisher: National Institutes of Health (NIH) (.gov)
-Trusted: False
+Trusted: True
 Posted: 4 days ago
 The article presents the results of a study conducted by the National Institutes of Health and published in JAMA Network Open, which found that many adults hospitalized with COVID-19 experience lingering symptoms, financial difficulties, and physical limitations months after being discharged. The study followed 825 adults who received treatment for COVID-19 at 44 medical centers in the United States between August 2020 and July 2021 and were surveyed at one, three, and six months after leaving the hospital. Key findings from the study include: Six months after hospitalization, 75% of patients reported at least one cardiopulmonary issue such as coughing, rapid heartbeat, or breathlessness. Fatigue was also common, with 51% of patients feeling tired compared to 41% at one month. 56% of patients experienced financial difficulties such as being unable to pay bills. 47% of patients reported limitations in everyday activities. Symptoms waxed and waned, with some patients experiencing intervals of recovery and relapse. The study highlights the long-term impact of COVID-19 on hospitalized patients and suggests that many may experience symptoms and challenges for up to six months or longer. This information is important for forecasting COVID-19 hospitalizations as it indicates that the impact of the disease extends far beyond the initial infection and treatment, and highlights the need for ongoing support and care for COVID-19 patients even after they are discharged from the hospital.
 

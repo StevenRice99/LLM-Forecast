@@ -24,7 +24,7 @@ Here is a summary of the article, including important facts to help forecast COV
 Article 4 of 10
 Title: Immune modulator drugs improved survival for people hospitalized with COVID-19
 Publisher: National Institutes of Health (NIH) (.gov)
-Trusted: False
+Trusted: True
 Posted: 2 days ago
 The National Institutes of Health (NIH) conducted a large clinical trial to investigate the effectiveness of immune modulator drugs infliximab and abatacept in treating adults hospitalized with COVID-19. The trial found that while these drugs did not significantly reduce the time to recovery, they substantially improved clinical status and reduced mortality rates. Participants receiving infliximab had a death rate of 10.0%, compared to 14.5% in the placebo group, while those receiving abatacept had a death rate of 11.0% compared to 15.0% in the placebo group. These results suggest that infliximab and abatacept could be promising treatments for reducing mortality in hospitalized COVID-19 patients, particularly when used in addition to standard care such as remdesivir and dexamethasone. The trial enrolled nearly 2,000 participants across medical facilities in the United States and Latin America. The National Center for Advancing Translational Sciences (NCATS) coordinated the trial and emphasized the importance of public-private partnerships in accelerating therapeutic solutions during the COVID-19 crisis.
 
@@ -59,7 +59,7 @@ Here is a summary of the article: Researchers from the University of Milan have 
 Article 9 of 10
 Title: Excess mortality, COVID-19 and health care systems in Canada
 Publisher: CMAJ
-Trusted: False
+Trusted: True
 Posted: 5 days ago
 
 Article 10 of 10

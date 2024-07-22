@@ -10,7 +10,7 @@ The article discusses the ongoing debate about the effectiveness of different me
 Article 2 of 10
 Title: U of T researchers lead effort to understand short- and long-term effects of COVID-19 on patients, caregivers
 Publisher: University of Toronto
-Trusted: False
+Trusted: True
 Posted: 1 day ago
 The article discusses the research conducted by a team of over 100 researchers at the University of Toronto, led by Angela Cheung and Margaret Herridge, on the shortand long-term outcomes for COVID-19 patients. The Canadian COVID-19 Prospective Cohort study (CanCOV) investigates the factors influencing disease progression and severity, including genomics, demographics, and social factors. Several factors, such as age, general health, and pre-existing conditions, influence patient recovery. Mechanical ventilation and other ICU interventions can be life-saving but may also have consequences, including muscle breakdown, immobility, and profound weakness. These issues can result in functional dependency and life-long disabilities, cognitive and mood disorders, and challenges in daily activities and returning to work. The study aims to recruit 2,000 patients and 500 family caregivers from the four hardest-hit provinces in Canada. The research team includes experts from various fields, recognizing the impact of caregiving on patient recovery. The early pandemic data shows that there were over 42,000 hospital stays for COVID-19 patients in Canada, with an average length of two weeks, and approximately 8,400 admissions to intensive care. Additionally, an estimated 78,000 people in Ontario may have experienced "long COVID," with symptoms such as fatigue, joint pain, brain fog, and shortness of breath. Kelly O'Brien, a U of T associate professor, draws parallels between long COVID and disability related to HIV/AIDS, emphasizing the episodic nature of the condition. O'Brien's research contributes to understanding the nature and extent of episodic disability in long COVID, guiding rehabilitation access and workplace policies. Jill Cameron, another associate professor, studies caregiving and its impact on family members, highlighting the increased stress, mental health challenges, and reduced support faced by caregivers during the pandemic. The research provides valuable insights into the ongoing pandemic's impact on patients and caregivers, with potential implications for patient care, rehabilitation, and policy development.
 
@@ -31,7 +31,7 @@ Here is a summary of the article, including important facts to help forecast COV
 Article 5 of 10
 Title: Ontario Newsroom
 Publisher: Government of Ontario News
-Trusted: False
+Trusted: True
 Posted: 3 days ago
 
 Article 6 of 10
@@ -58,7 +58,7 @@ Here is a summary of the article: A team of researchers from the Research Instit
 Article 9 of 10
 Title: Teenage Pregnancy in Times of COVID-19: A Survey of Students’ Knowledge in Northern Namibia
 Publisher: McGill University
-Trusted: False
+Trusted: True
 Posted: 4 days ago
 Here is a summary of the article: During the COVID-19 lockdown in Namibia from March to September 2020, there was a significant increase in teenage pregnancies, with an estimated 3,600 cases compared to an annual average of 1,400. This issue was particularly prominent in the Kavango East and West regions, and the actual numbers may be higher as many students dropped out of school during this period. In response, the Ombetja Yehinga Organisation (OYO) conducted a survey to assess students' sexual and reproductive health knowledge, which will inform a school-based intervention to promote safe sexual behaviors. The survey was completed by 794 students aged 13-25 from 13 schools, and it assessed demographic characteristics, knowledge of key program objectives, and program content. The results indicated limited knowledge about contraceptive access and safe use, highlighting the need for school-based interventions to disseminate crucial information on sexual and reproductive health. This information is particularly relevant for forecasting COVID-19 hospitalizations, as unplanned pregnancies and a lack of access to contraceptives can contribute to population growth and increased pressure on healthcare systems.
 

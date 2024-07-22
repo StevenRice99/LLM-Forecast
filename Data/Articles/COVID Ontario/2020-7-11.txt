@@ -52,7 +52,7 @@ The article discusses the results of a survey conducted in Canada to understand 
 Article 8 of 10
 Title: Efficacy and safety of convalescent plasma for severe COVID-19 based on evidence in other severe respiratory viral infections: a systematic review and meta-analysis
 Publisher: CMAJ
-Trusted: False
+Trusted: True
 Posted: 5 days ago
 
 Article 9 of 10

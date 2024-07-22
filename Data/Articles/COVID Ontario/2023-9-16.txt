@@ -10,7 +10,7 @@ The article discusses the rise of COVID-19 cases in Canada due to new variants, 
 Article 2 of 10
 Title: Ontario Newsroom
 Publisher: Government of Ontario News
-Trusted: False
+Trusted: True
 Posted: 2 days ago
 
 Article 3 of 10

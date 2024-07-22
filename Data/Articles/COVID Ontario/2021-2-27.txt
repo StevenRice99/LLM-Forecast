@@ -3,7 +3,7 @@ Below are 10 news articles from the past 7 days regarding COVID-19 to help guide
 Article 1 of 10
 Title: A Strategy for the Mass Distribution of COVID-19 Vaccines in Ontario Based on Age and Neighbourhood
 Publisher: Ontario COVID-19 Science Advisory Table
-Trusted: False
+Trusted: True
 Posted: 1 day ago
 COVID-19 has disproportionately affected older adults and residents of disadvantaged urban neighborhoods in Ontario, Canada. The article examines the impact of age and neighborhood on SARS-CoV-2 infections, hospitalizations, ICU admissions, and deaths in Ontario. It also proposes a vaccination strategy that considers both age and neighborhood to minimize deaths and hospitalizations. Key findings include: Ontario neighborhoods with the highest SARS-CoV-2 infection rates are in Toronto, Peel, York, and Windsor-Essex regions. COVID-19 deaths and hospitalizations are strongly associated with age and neighborhood, with 50% of deaths occurring in just 4% of the population aged 16+ and living in high-incidence neighborhoods. A mass vaccination strategy that prioritizes based on both age and neighborhood can prevent more deaths and hospitalizations than a strategy based on age alone. The proposed strategy identifies individuals with the highest priority for vaccination, preventing the largest number of deaths and hospitalizations. The article includes projections for SARS-CoV-2 infections, hospitalizations, ICU admissions, and deaths in Ontario from December 7, 2020, to May 31, 2021. It assumes a return to lockdown with a stay-at-home order on March 10 due to the emergence of the B.1.1.7 variant. Three vaccine distribution scenarios are compared: no additional vaccination, mass distribution based on age alone, and mass distribution based on age and neighborhood. The proposed vaccination strategy based on age and neighborhood is projected to prevent an additional 3,767 SARS-CoV-2 infections, 702 hospitalizations, 145 ICU admissions, and 168 deaths compared to the age-only strategy. The strategy ensures that Ontarians at the highest risk of infection, hospitalization, or death receive vaccines first. In conclusion, a mass vaccination strategy that considers both age and neighborhood of residence can effectively minimize deaths and hospitalizations due to COVID-19 in Ontario. This approach identifies individuals with the highest priority for vaccination, targeting those at the greatest risk.
 
@@ -58,7 +58,7 @@ COVID-19 has impacted federal prisons in Canada much harder during the second wa
 Article 9 of 10
 Title: COVID-19 in patients undergoing long-term dialysis in Ontario
 Publisher: CMAJ
-Trusted: False
+Trusted: True
 Posted: 5 days ago
 
 Article 10 of 10

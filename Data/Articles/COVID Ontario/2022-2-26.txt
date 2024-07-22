@@ -24,14 +24,14 @@ The MUHC vaccination clinics in Montreal, which administered over 205,000 COVID-
 Article 4 of 10
 Title: People from racial, ethnic, and other groups report frequent COVID-19–related discrimination
 Publisher: National Institutes of Health (NIH) (.gov)
-Trusted: False
+Trusted: True
 Posted: 2 days ago
 The article discusses a study led by Paula D. Strassle, Ph.D., from the National Institute on Minority Health and Health Disparities, which highlights the prevalence of COVID-19-related discrimination among various racial and ethnic groups in the United States. The study, published in the American Journal of Public Health, found that people from marginalized groups, including those with limited English proficiency and lower education levels, reported experiencing more discrimination related to COVID-19 compared to white adults. The study surveyed 5,500 adults from different racial and ethnic backgrounds and found that 22.1% of participants had experienced COVID-19-related discriminatory behaviors, with 42.7% reporting that people acted afraid of them. Participants from Asian or American Indian/Alaska Native backgrounds were most likely to experience discrimination, followed by Hawaiian or Pacific Islander and Latino participants. The study also noted higher rates of discrimination in big cities and certain states. The findings suggest that the pandemic has exacerbated existing biases against racial and ethnic minorities and other marginalized populations. The study underscores the importance of addressing discrimination through responsible public health messaging during crises. The study acknowledges limitations such as online survey administration and self-reported data. The study emphasizes the need for public health messaging strategies that combat biases against marginalized groups and promote inclusivity during public health crises.
 
 Article 5 of 10
 Title: Nirmatrelvir/Ritonavir (Paxlovid): What Prescribers and Pharmacists Need to Know
 Publisher: Ontario COVID-19 Science Advisory Table
-Trusted: False
+Trusted: True
 Posted: 3 days ago
 The article "Nirmatrelvir/Ritonavir (Paxlovid): What Prescribers and Pharmacists Need to Know" by the Ontario COVID-19 Drugs and Biologics Clinical Practice Guidelines Working Group provides information and guidelines for healthcare professionals regarding the use of Nirmatrelvir/Ritonavir (Paxlovid) in the treatment of COVID-19. Here is a summary of the article: Purpose: The article aims to provide prescribers and pharmacists with the latest information and guidelines on the use of Nirmatrelvir/Ritonavir (Paxlovid) for the treatment of mild to moderate COVID-19 in adults and pediatric patients. Key Points: Nirmatrelvir/Ritonavir (Paxlovid) is a combination of two antiviral drugs that can reduce the risk of hospitalization and severe illness from COVID-19. It is authorized for use within 5 days of symptom onset in patients with mild to moderate COVID-19 who are at high risk of progressing to severe disease. Prescribers should assess patient eligibility and potential benefits and risks, especially drug interactions and adverse effects. Pharmacists play a crucial role in verifying prescriptions, educating patients about the medication, and monitoring and reporting any adverse events. The article provides detailed information on dosage, administration, storage, and handling of Nirmatrelvir/Ritonavir (Paxlovid). It also includes eligibility criteria and considerations for special populations, such as pediatric patients, elderly individuals, and those with renal or hepatic impairment. Forecasting COVID-19 Hospitalizations: While the article does not directly provide forecasts or models for COVID-19 hospitalizations, the widespread and proper use of Nirmatrelvir/Ritonavir (Paxlovid) in high-risk patients is expected to reduce the number of COVID-19 hospitalizations. By preventing severe illness and the need for hospitalization in eligible patients, this treatment option can help alleviate the burden on healthcare systems. This article offers important insights and guidelines for healthcare professionals to make informed decisions regarding the use of Nirmatrelvir/Ritonavir (Paxlovid) in the ongoing management and treatment of COVID-19.
 
@@ -58,7 +58,7 @@ Posted: 3 days ago
 Article 9 of 10
 Title: Remdesivir for the treatment of patients in hospital with COVID-19 in Canada: a randomized controlled trial
 Publisher: CMAJ
-Trusted: False
+Trusted: True
 Posted: 4 days ago
 
 Article 10 of 10

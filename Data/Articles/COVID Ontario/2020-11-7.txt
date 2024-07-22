@@ -45,7 +45,7 @@ Here is a summary of the article: Ontario's hospitals are reaching full capacity
 Article 7 of 10
 Title: Clearing the surgical backlog caused by COVID-19 in Ontario: a time series modelling study
 Publisher: CMAJ
-Trusted: False
+Trusted: True
 Posted: 5 days ago
 
 Article 8 of 10

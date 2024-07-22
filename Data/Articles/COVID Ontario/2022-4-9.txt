@@ -24,7 +24,7 @@ A recent study published in the journal Nature has revealed a potential explanat
 Article 4 of 10
 Title: Ontario Newsroom
 Publisher: Government of Ontario News
-Trusted: False
+Trusted: True
 Posted: 3 days ago
 
 Article 5 of 10
@@ -44,7 +44,7 @@ The World Health Organization (WHO) initially stated that SARS-CoV-2, the virus 
 Article 7 of 10
 Title: The Impact of COVID-19 on Campus Mental Health
 Publisher: Mental Health Commission of Canada
-Trusted: False
+Trusted: True
 Posted: 3 days ago
 The article discusses the impact of the COVID-19 pandemic on the mental health of post-secondary students in Canada and the subsequent challenges for campus mental health services. A representative survey of 69 Canadian post-secondary institutions was conducted by the Campus Mental Health Community of Practice (CoP) to understand the experiences of student affairs leaders in mental health services during the 2020-21 academic year and the planning period for the fall 2022 term. The survey focused on four key areas: student mental health concerns, the transition to remote mental health services, the impact on staff, and support planning in the context of the ongoing pandemic. The survey results are being analyzed by Drs. Tayyab Rashid and Lina Di Genova, and a report on the in-depth findings will be published and made available soon.
 

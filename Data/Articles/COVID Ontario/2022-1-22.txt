@@ -3,14 +3,14 @@ Below are 10 news articles from the past 7 days regarding COVID-19 to help guide
 Article 1 of 10
 Title: Clinical Practice Guideline Summary: Recommended Drugs and Biologics in Adult Patients with COVID-19
 Publisher: Ontario COVID-19 Science Advisory Table
-Trusted: False
+Trusted: True
 Posted: 1 day ago
 This document is a clinical practice guideline summary from the Ontario COVID-19 Science Advisory Table, providing recommendations for drugs and biologics used in the treatment of adult patients with COVID-19. It is intended to provide guidance to healthcare professionals in Ontario, Canada, and is cited as "Ontario COVID-19 Drugs and Biologics Clinical Practice Guidelines Working Group, 2022, Version 9.0". The guidelines are developed by a working group with relevant expertise, and their declarations of interest can be found on the Ontario COVID-19 Science Table website. The summary is distributed under a Creative Commons license, allowing for unrestricted use with proper citation. Unfortunately, the specific drug recommendations and guidelines for treating COVID-19 are not provided in the supplied text. More context would be needed to forecast COVID-19 hospitalizations based on this document.
 
 Article 2 of 10
 Title: Ontario Newsroom
 Publisher: Government of Ontario News
-Trusted: False
+Trusted: True
 Posted: 2 days ago
 
 Article 3 of 10
@@ -30,7 +30,7 @@ Here is a summary of the article: With the rollout of vaccines and the emergence
 Article 5 of 10
 Title: Researchers highlight COVID-19 neurological symptoms and need for rigorous studies
 Publisher: National Institutes of Health (NIH) (.gov)
-Trusted: False
+Trusted: True
 Posted: 2 days ago
 In their Viewpoint article published in Science, Avindra Nath, M.D., and Serena Spudich, M.D., emphasize the importance of understanding the neurological impacts of COVID-19 and the need for comprehensive research on Long Covid. They outline the current knowledge about SARS-CoV-2's effects on the brain and nervous system, including acute symptoms like loss of taste and smell, headaches, stroke, delirium, and brain inflammation. These symptoms can sometimes persist and develop into Long Covid, along with other issues like impaired concentration, fatigue, pain, sleep disorders, and psychological effects. Given the variability of symptoms and the fact that many Long Covid patients were previously healthy, the authors stress the urgency of extensive research to identify the full scope of Long Covid complications and their causes. This research is vital for developing diagnostic and treatment tools to address the growing public health concern of Long Covid. The NIH RECOVER COVID initiative is one such ambitious program aimed at achieving these research goals.
 

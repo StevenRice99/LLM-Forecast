@@ -1,67 +1,61 @@
-Below are 10 news articles from the past 7 days regarding COVID-19 to help guide you in making your decision. Using your best judgement, take into consideration only the articles that are most relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Articles that are from know reputable sources have been flagged with "Trusted: True".
+Below are 9 news articles from the past 7 days regarding COVID-19 to help guide you in making your decision. Using your best judgement, take into consideration only the articles that are most relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Articles that are from know reputable sources have been flagged with "Trusted: True".
 
-Article 1 of 10
+Article 1 of 9
 Title: Ontario to stop logging COVID-19 school cases, memo says; NDP calls it 'terrifying for parents'
 Publisher: CBC News
 Trusted: False
 Posted: Today
 Ontario has decided to stop reporting COVID-19 cases in schools and childcare settings, which has sparked criticism from the NDP, who claim that this move will make it difficult for parents to make informed decisions about their children's safety. The province's new focus will be on monitoring hospital admissions and ICU numbers to prepare for a surge in cases. The NDP also highlights the lack of vaccination options for children under five and the reliance on negative PCR tests for children to return to school. Infection control epidemiologist Colin Furness and Medical Director of Critical Care at Michael Garron Hospital, Dr. Michael Warner, have expressed their concerns about the decision to reopen schools and childcare settings, suggesting that a delay of one to two weeks would allow for more staff and children to be vaccinated and for the Omicron wave to pass. They believe that the province has made a conscious decision not to increase testing capacity, despite having the necessary technology. The Ministry of Education has stated that it will provide children with higher-quality masks and offer N95 masks to staff, but the opposition criticizes the lack of transparency and the potential risks to children and educators.
 
-Article 2 of 10
-Title: 
-Publisher: APA Monitor on Psychology
-Trusted: False
-Posted: Today
-
-Article 3 of 10
+Article 2 of 9
 Title: Ontario reports 18,445 new COVID-19 cases on New Year's Day, a pandemic high
 Publisher: CBC News
 Trusted: False
 Posted: Today
 Public Health Ontario reported 18,445 new COVID-19 cases and 12 deaths on Saturday, with more comprehensive figures expected on Tuesday following the holiday. The latest case count sets a new daily high, surpassing the previous record of 16,713 on New Year's Eve. However, Public Health Ontario warns that the numbers are likely an underestimate due to recent changes in testing eligibility. The rapid increase in hospitalizations has led to concerns, with Dr. Kevin Smith, a Toronto health official, urging Health Canada to approve Pfizer's antiviral COVID-19 pills for emergency use.
 
-Article 4 of 10
+Article 3 of 9
 Title: COVID-19 outbreaks now reported at 7 federal prisons, more staff than inmates infected - National
 Publisher: Global News
 Trusted: False
 Posted: 1 day ago
 There has been a recent surge in COVID-19 infections in federal prisons across Canada, affecting both inmates and staff. As of Friday, 248 staff members and 107 inmates had tested positive for COVID-19, with the Drumheller Institution in Alberta and the Kent Institution in British Columbia being particularly affected. Correctional Services is reviewing staff levels to ensure safe operations and has contingency plans in place to address staffing shortages. While correctional officers are not returning to work until fully recovered, asymptomatic staff who have completed most of their isolation period may return with ongoing rapid testing and work-isolation measures. The Union of Canadian Correctional Officers is pushing for hazard pay for officers and is generally satisfied with the protective measures in place. Staffing shortages may be addressed by bringing in staff from nearby institutions without outbreaks. The surge in cases within federal prisons is part of a larger wave of COVID-19 infections across Canada driven by the highly contagious Omicron variant.
 
-Article 5 of 10
+Article 4 of 9
 Title: Ontario to stop collecting COVID-19 numbers from school boards, suspend reporting of cases in schools
 Publisher: CP24
 Trusted: False
 Posted: 1 day ago
 The Ontario government will stop collecting and reporting COVID-19 case numbers in schools starting in January 2022, a change that was announced in a memo from the Ministry of Education. While case counts won't be posted, the ministry will still report school and childcare closures due to COVID-19. The new policy was not included in the back-to-school announcement made by Ontario's chief medical officer, Dr. Kieran Moore, who also announced a 2-day delay to the opening of schools. The Toronto District School Board confirmed the change and stated that they are reviewing how reporting and notification may happen in the future. This move has been criticized by the Opposition, who called it "terrifying" and accused Premier Doug Ford of trying to hide the impact of his decisions. Ontario has been reporting COVID-19 cases in schools for 18 months, with 12,062 school-related cases reported between August and December 2021. The ministry also outlined steps to minimize school closures due to staffing shortages, such as combining classes and introducing rotating remote learning days. Education Minister Stephen Lecce defended the government's approach, highlighting their focus on improved ventilation and masking. The forecasting of COVID-19 hospitalizations related to this change is not directly mentioned in the article, but the impact of the Omicron variant and the importance of improved ventilation and masking to keep students safe and in school are discussed.
 
-Article 6 of 10
+Article 5 of 9
 Title: Some things to know about COVID rapid tests
 Publisher: Office for Science and Society
 Trusted: False
 Posted: 2 days ago
 Here is a summary of the article: Quebec residents can now obtain rapid test kits from pharmacies to perform self-testing at home, which is more convenient and faster than waiting in long lines at testing centers. These rapid tests are less expensive and quicker than PCR tests, but their rollout in Quebec has been slower compared to other countries. The main concern with rapid tests is their sensitivity; some individuals with COVID-19 may test negative. This can occur if the test is administered too early or too late during the infection, or if the swab sample is inadequate. Technique is important, and explanatory videos can help improve accuracy. The tests are more likely to detect the virus in symptomatic individuals, with a sensitivity of 78% compared to 58% in asymptomatic people. The accuracy of rapid tests also depends on the epidemiological situation and the prevalence of COVID-19 in the community. With a test positivity rate of 7.4% as of Monday, the likelihood of a false negative is relatively low but not impossible. While a negative result does not guarantee freedom from infection, proper use of rapid tests alongside public health measures can help reduce viral spread.
 
-Article 7 of 10
+Article 6 of 9
 Title: Unequal impact of the COVID-19 pandemic on paediatric cancer care: a population-based cohort study in China
 Publisher: The Lancet
 Trusted: False
 Posted: 2 days ago
 
-Article 8 of 10
+Article 7 of 9
 Title: New Study Finds That the Best Time for COVID-19 Vaccination During Your Pregnancy May Be Now
 Publisher: Weill Cornell Medicine Newsroom
 Trusted: False
 Posted: 4 days ago
 A study by researchers at Weill Cornell Medicine and NewYork-Presbyterian has found that COVID-19 vaccination during pregnancy elicits high levels of antibodies to the SARS-CoV-2 spike protein, offering protection for both mother and baby. The study, published in Obstetrics & Gynecology, analyzed nearly 1,400 women and their babies, finding that antibody levels were highest after third-trimester vaccination but still comparably high and likely protective when vaccination occurred earlier in pregnancy or even pre-pregnancy. A booster shot late in pregnancy further increased antibody levels. The findings suggest that pregnant women should not delay vaccination, as it can provide benefits at the time of birth and protect both mother and baby throughout pregnancy. Prior studies have also indicated that COVID-19 can be more severe for pregnant women and increase risks for preterm birth and other adverse outcomes. The researchers plan to further examine vaccine and booster effects in different maternal contexts and in light of the Omicron variant.
 
-Article 9 of 10
+Article 8 of 9
 Title: Waning protection from 2 doses shows need for COVID-19 boosters, says head of Ontario's science table
 Publisher: CBC News
 Trusted: False
 Posted: 5 days ago
 Here is a summary of the article: The protection offered by COVID-19 vaccines against infection by the Omicron variant has significantly decreased in Ontario, according to data from the province's Science Advisory Table. While two doses still protect against severe illness, the ability to prevent infection has dropped to 14.9%. Dr. Peter Jüni, the group's scientific director, emphasizes that vaccine protection against infection is diminishing rapidly. Data from the U.K. suggests that a third dose can decrease the risk of infection by up to five times, highlighting the importance of accelerating booster campaigns. Despite the reduced protection against infection, two doses of the vaccine continue to provide over 90% protection against hospitalization and ICU admission in Ontario. However, Dr. Jüni warns that this could change as Omicron becomes the dominant variant, with a potential uptick in hospitalizations expected in the coming days. Ontario reported 9,418 new cases on Monday, with a seven-day average of 7,550 cases, indicating a rapid increase in infections. The province also reported five additional deaths and an increase in hospitalizations. To forecast COVID-19 hospitalizations, it is important to consider the following: 1. Vaccine effectiveness: While two doses still offer protection against severe illness, the reduced protection against infection could lead to more hospitalizations, especially as Omicron spreads rapidly. 2. Booster campaigns: The acceleration of booster campaigns and the administration of third doses can significantly decrease the risk of infection and, consequently, hospitalizations. 3. Hospital capacity: The increase in cases and hospitalizations may strain the healthcare system, impacting the availability of resources and affecting patient care. 4. Public health measures: The implementation or relaxation of public health measures, such as social distancing and mask mandates, can influence the transmission rate and, subsequently, hospitalizations. 5. Variant monitoring: The emergence of new variants, such as Omicron, with higher transmissibility and immune evasion capabilities, can impact hospitalization forecasts. By considering these factors and closely monitoring the situation, public health officials can make informed decisions and forecasts regarding COVID-19 hospitalizations.
 
-Article 10 of 10
+Article 9 of 9
 Title: N.B. COVID-19 roundup: Public Health reports record number of cases on Christmas Day
 Publisher: CBC News
 Trusted: False

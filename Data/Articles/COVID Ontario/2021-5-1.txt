@@ -10,7 +10,7 @@ Ontario plans to expand COVID-19 vaccine eligibility to all adults by the end of
 Article 2 of 10
 Title: Benefits of Paid Sick Leave During the COVID-19 Pandemic
 Publisher: Ontario COVID-19 Science Advisory Table
-Trusted: False
+Trusted: True
 Posted: 3 days ago
 Here is a summary of the article: Background: SARS-CoV-2 transmission in workplaces has caused a significant burden on essential workers and their families, contributing to community spread in Ontario. Workplace outbreaks have economic impacts and disrupt essential services. Paid sick leave is a public health measure that can reduce transmission, prevent outbreaks, and minimize financial losses. However, many essential workers in Ontario lack access to paid sick leave, putting them at risk. Impact of COVID-19 on Essential Workers: Workplaces, especially those with high concentrations of essential workers, have been significant sites of SARS-CoV-2 transmission. In Ontario's Peel Region, workplaces accounted for 66% of community outbreaks from September to December 2020. Essential workers often work in multiple settings and have limited income supports. Overview of Paid Sick Leave Policies: The federal CRSB program provides $450 per week for up to four weeks for workers who miss work due to COVID-19, but it has limitations. Several provinces introduced unpaid sick leave, and Yukon is the only province offering a paid sick leave benefit. Internationally, some countries implemented or expanded paid sick leave during the pandemic. Evidence for Effectiveness: Paid sick leave reduces mobility and is associated with decreased SARS-CoV-2 transmission and COVID-19 cases. In the US, a paid sick leave program was associated with a 50% decrease in confirmed COVID-19 cases per state per day. Lack of paid sick leave increases the risk of influenza-like illness, and paid sick leave policies have been effective in reducing respiratory infection transmission. Paid Sick Leave and COVID-19 Vaccination: Paid sick leave is associated with increased influenza vaccination rates, as workers are guaranteed paid time off to get immunized. Providing paid leave for COVID-19 vaccination can improve vaccination rates among essential workers. Economic Impact: Paid sick leave is crucial for public health containment and economic stability. It increases productivity, reduces absenteeism, and prevents outbreaks and workplace closures. Job losses have been higher in US states without paid sick leave during the pandemic. Ethical Principles: Paid sick leave aligns with public health ethics principles. It protects the public from harm, demonstrates reciprocity by supporting those facing a disproportionate burden, promotes equity by addressing social inequities, ensures proportionality in responding to health and economic threats, fosters solidarity, and enhances systemic resilience. Paid sick leave is a crucial public health intervention to support essential workers during the COVID-19 pandemic. It reduces transmission, prevents outbreaks, and mitigates economic impacts. Implementing effective paid sick leave policies is essential to protect the health and well-being of essential workers and their communities.
 
@@ -45,7 +45,7 @@ COVID-19 outbreaks have been reported in 20 homeless shelters in Toronto, with o
 Article 7 of 10
 Title: Informing COVID-19 vaccination priorities based on the prevalence of risk factors among adults in Canada
 Publisher: CMAJ
-Trusted: False
+Trusted: True
 Posted: 5 days ago
 
 Article 8 of 10
@@ -58,7 +58,7 @@ Doctors and scientists are still puzzled by the long-term effects of COVID-19, i
 Article 9 of 10
 Title: Virtual 'spotting' could help keep drug users safe during COVID-19, U of T researchers say
 Publisher: University of Toronto
-Trusted: False
+Trusted: True
 Posted: 5 days ago
 A group of researchers at the University of Toronto is studying a remote supervised-consumption model called "spotting" to understand its benefits for people who use drugs during the COVID-19 pandemic. The model involves a "spottee" consuming drugs while being monitored virtually by a "spotter," who is often a friend, family member, or acquaintance. The researchers have found that both spotters and spottees view the model as a way to enhance safety and privacy during the pandemic, especially with the added challenge of accessing safe injection sites. Participants in the study reported increased safety and a reduction in stigma, while spotters reported improved community connections and a sense of accomplishment. However, concerns about the model include fears of delayed emergency response and police intervention, especially for racialized individuals. The research team has provided recommendations to improve spotting programs, such as developing guidelines and awareness campaigns, and they plan to create educational materials with additional funding. The study aims to improve overdose prevention options and make spotting accessible to those without supervised consumption site access. This research is vital in addressing the rising number of fatal opioid overdoses in Canada during the pandemic.
 

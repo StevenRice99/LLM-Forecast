@@ -58,7 +58,7 @@ Here is a summary of the article: Canada's fertility rate has been steadily decl
 Article 9 of 10
 Title: The risk of death or unplanned readmission after discharge from a COVID-19 hospitalization in Alberta and Ontario
 Publisher: CMAJ
-Trusted: False
+Trusted: True
 Posted: 5 days ago
 
 Article 10 of 10
