@@ -14,6 +14,11 @@ from selenium.webdriver.firefox.service import Service
 from webdriver_manager.firefox import GeckoDriverManager
 
 
+def valid_encoding(message: str) -> str:
+    message = message.replace("\u2011", '-')
+    return message
+
+
 def hugging_face() -> hugchat.ChatBot or None:
     """
     Try to use HuggingChat.
@@ -63,9 +68,6 @@ def chat(prompt: str, hugging_chat: hugchat.ChatBot or None = None, model: str =
             message = None
     if message is None:
         return ""
-    message = ''.join(c for c in message if unicodedata.category(c) in {"Lu", "Ll", "Lt", "Lm", "Lo", "Nd", "Nl", "No",
-                                                                        "Zs", "Zl", "Zp", "Pc", "Pd", "Ps", "Pe", "Pi",
-                                                                        "Pf", "Po", "Sm", "Sc", "Sk", "So"})
     message = message.replace("\r", " ")
     message = message.replace("\n", " ")
     message = message.replace("\t", " ")
@@ -74,6 +76,10 @@ def chat(prompt: str, hugging_chat: hugchat.ChatBot or None = None, model: str =
     message = message.replace("- ", "")
     message = message.replace("> ", "")
     message = message.replace("`", "")
+    message = ''.join(c for c in message if unicodedata.category(c) in {"Lu", "Ll", "Lt", "Lm", "Lo", "Nd", "Nl", "No",
+                                                                        "Zs", "Zl", "Zp", "Pc", "Pd", "Ps", "Pe", "Pi",
+                                                                        "Pf", "Po", "Sm", "Sc", "Sk", "So"})
+    message = valid_encoding(message)
     while message.__contains__("  "):
         message = message.replace("  ", " ")
     return message.strip()
@@ -129,7 +135,7 @@ def get_article(result: dict, driver, trusted: list, forecasting: str = "COVID-1
         if delay > 0:
             time.sleep(delay)
         # Summarize the summary with an LLM if requested to.
-        if summarize:
+        if summarize and summary != "":
             summary = chat(f"Summarize this article, including any important facts to help forecast "
                            f"{forecasting}: {summary}", hugging_chat, model)
             if delay > 0:
@@ -140,8 +146,12 @@ def get_article(result: dict, driver, trusted: list, forecasting: str = "COVID-1
         summary = result["description"].replace(publisher, "").strip().strip("-").strip()
     # No point in having the summary if it is just equal to the title.
     if summary is not None:
-        if title == summary or summary == "" or summary.isspace() or summary.startswith("I'm sorry, "):
+        if (title == summary or summary == "" or summary.isspace() or summary.startswith("I'm sorry, ") or
+                summary.startswith("I apologize, ")):
             summary = None
+    title = valid_encoding(title)
+    if summary is not None:
+        summary = valid_encoding(summary)
     # Parse the date.
     published_date = result["published date"].split(" ")
     if published_date[2] == "Jan":
@@ -323,9 +333,18 @@ def search_news(keywords: str or list or None = "COVID-19", max_results: int = 1
             if not os.path.exists(path):
                 os.mkdir(path)
             if os.path.exists(path):
-                f = open(os.path.join(path, filename), "w")
-                f.write(s)
-                f.close()
+                f = open(os.path.join(path, filename), "w", errors="ignore")
+                # noinspection PyBroadException
+                try:
+                    f.write(valid_encoding(s))
+                    f.close()
+                except:
+                    # noinspection PyBroadException
+                    try:
+                        f.close()
+                    except:
+                        pass
+                    os.remove(os.path.join(path, filename))
     return s
 
 
@@ -475,4 +494,7 @@ def set_trusted(trusted: list, folder: str = "COVID Ontario") -> None:
 
 
 if __name__ == '__main__':
-    prepare_articles("Data/Dates/COVID Ontario.txt", trusted=["CDC", "Canada.ca", "Statistique Canada", "AFP Factcheck"], delay=5)
+    t = ["CDC", "Canada.ca", "Statistique Canada", "AFP Factcheck", "World Health Organization (WHO)",
+         "Doctors Without Borders", "Government of Nova Scotia", "Middlesex-London Health Unit", "GOV.UK"]
+    set_trusted(t, folder="COVID Ontario")
+    prepare_articles("Data/Dates/COVID Ontario.txt", trusted=t, delay=5)

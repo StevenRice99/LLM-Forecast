@@ -1,0 +1,69 @@
+Below are 10 news articles from the past 7 days regarding COVID-19 to help guide you in making your decision. Using your best judgement, take into consideration only the articles that are most relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Articles that are from know reputable sources have been flagged with "Trusted: True".
+
+Article 1 of 10
+Title: Epidemiology of Covid-19 in a Long-Term Care Facility in King County, Washington
+Publisher: nejm.org
+Trusted: False
+Posted: 1 day ago
+
+Article 2 of 10
+Title: How to support seniors during the COVID-19 outbreak
+Publisher: UBC Faculty of Medicine
+Trusted: False
+Posted: 1 day ago
+Here is a summary of the article: During the COVID-19 outbreak, it is crucial to take extra precautions to protect seniors, as they are more vulnerable to the virus due to their weakened immune systems and underlying health conditions. Dr. Roger Wong, a clinical professor of geriatric medicine, offers guidance on how to protect and support older adults: Seniors should follow public health recommendations such as regular handwashing, maintaining good personal hygiene, and physical distancing by minimizing outings and avoiding peak hours for essential tasks like grocery shopping. They can also utilize delivery services or seek support from programs like Safe Seniors, Strong Communities, which connects seniors with volunteers for non-medical essentials. Family and caregivers play a vital role in protecting seniors by minimizing in-person visits and practicing good hygiene if visits are essential. They can also support seniors by running errands, providing necessities, and using technology to stay connected while preventing social isolation. Regarding medical appointments, seniors should consult their healthcare providers to assess if rescheduling or virtual appointments are feasible. While seniors often provide valuable support to families, including babysitting, they should consider limiting their exposure to children during the outbreak, as asymptomatic children can still spread the virus. Additionally, here are some key facts to consider when forecasting COVID-19 hospitalizations, especially regarding seniors: Seniors, particularly those over 65, are at increased risk of severe illness and hospitalization from COVID-19 due to their higher likelihood of having underlying medical conditions. The presence of underlying health conditions, such as heart disease, lung disease, diabetes, or a weakened immune system, further increases the risk of hospitalization and severe outcomes in seniors. The transmission of COVID-19 to seniors can occur through various means, including outings to public places, community interactions, and visits from loved ones, even if they are asymptomatic. The impact of COVID-19 on seniors can be severe, leading to respiratory complications, organ failure, and, in some cases, death. The availability and utilization of preventive measures, such as vaccination and booster shots, can significantly influence hospitalization rates among seniors. By considering these factors and following the advice of public health officials and medical experts, we can better protect seniors from the impacts of COVID-19 and help forecast and manage hospitalization rates.
+
+Article 3 of 10
+Title: How is the COVID-19 Virus Detected using Real Time RT-PCR?
+Publisher: International Atomic Energy Agency
+Trusted: False
+Posted: 1 day ago
+The article describes the process of using RT-PCR to detect the COVID-19 virus in a sample and provides some insights that can help forecast COVID-19 hospitalizations. Here's a summary: RT-PCR (Reverse Transcription-Polymerase Chain Reaction) is a technique used to detect the presence of the COVID-19 virus in a person's body. The process starts by collecting samples from the parts of the body where the virus gathers, such as the nose or throat. The sample then undergoes treatment with chemical solutions to extract only the RNA present, which includes the person's genetic material and potentially the virus's RNA. The extracted RNA is reverse transcribed into DNA using a specific enzyme. Scientists add short fragments of DNA that are complementary to specific parts of the viral DNA. These fragments attach to the target sections of the viral DNA, and some are used for building and amplifying the DNA strands. The mixture is then placed in an RT-PCR machine, which cycles through temperatures to heat and cool the mixture. This triggers chemical reactions that create new, identical copies of the target sections of viral DNA. Each cycle doubles the number of copies, and a standard real-time RT-PCR setup typically goes through 35 cycles, resulting in around 35 billion new copies of the viral DNA sections. Marker labels are used during the process, which attach to the newly built DNA strands and release a fluorescent dye. The machine's computer measures the fluorescence and presents the data in real time. Scientists can confirm the presence of the virus when a certain level of fluorescence is surpassed. Additionally, the number of cycles it takes to reach this level indicates the severity of the infection—fewer cycles indicate a more severe viral load. This technique is highly sensitive and specific for detecting the COVID-19 virus and can help in forecasting hospitalizations. A rapid increase in confirmed cases, especially with severe infections, could indicate a potential surge in hospitalizations. This information can help healthcare facilities prepare their resources and plan accordingly.
+
+Article 4 of 10
+Title: COVID-19: Tax and other incentive measures
+Publisher: Deloitte
+Trusted: False
+Posted: 2 days ago
+The Canadian government and provincial governments have implemented measures to support citizens and stimulate the economy during the COVID-19 pandemic, with more support expected to be announced as the situation evolves. The Canadian Tax Alert series aims to inform individuals and companies about the various support programs available, helping them navigate the complex landscape of government assistance. The Tax and Legal team is closely following government announcements and will provide updates on new developments, ensuring that Canadians have access to the latest information on support measures and how to access them.
+
+Article 5 of 10
+Title: BC Gov News
+Publisher: BC Gov News
+Trusted: False
+Posted: 3 days ago
+Here is a summary of the article: To support people and prevent the spread of COVID-19, the Province of British Columbia is introducing several measures to help renters and landlords during the pandemic. These measures include: A new temporary rental supplement of up to $500 per month, paid directly to landlords, for households facing financial hardship due to COVID-19. Halting evictions by preventing landlords from issuing new notices to end tenancy, except in extreme cases to protect health and safety or prevent property damage. Freezing rent increases during the state of emergency. Restricting landlords from accessing rental units without tenant consent, except in cases of health, safety, or property damage concerns. Allowing landlords to restrict the use of common areas to prevent COVID-19 transmission. These measures aim to provide financial relief and security for renters, ensure landlords continue to receive rental income, and ultimately keep people housed and protect their health during the COVID-19 pandemic. As for forecasting COVID-19 hospitalizations, the article does not provide any specific data or models that could be used for such predictions. However, the measures introduced by the Province are likely to have a positive impact on hospitalizations by reducing financial stress, providing stability for individuals and families, and encouraging people to stay at home, which could help slow the spread of the virus and reduce the burden on the healthcare system.
+
+Article 6 of 10
+Title: Parliament passes Ottawa's $107 billion COVID-19 aid package
+Publisher: CBC.ca
+Trusted: False
+Posted: 3 days ago
+The Canadian government has passed a $107 billion aid package to assist Canadians struggling during the COVID-19 pandemic, which includes increased access to employment insurance and other programs providing financial support to workers and businesses. The bill passed with all-party support in the House of Commons, following tense negotiations to limit the government's spending powers. The legislation includes a temporary boost to Canada Child Benefit payments, an Emergency Care Benefit, an Emergency Support Benefit, a reprieve on student loan payments, increased funding for the homeless care program, and an extension of the tax filing deadline. The bill's passage is expected to provide much-needed financial relief to Canadians facing unemployment and economic challenges due to the pandemic.
+
+Article 7 of 10
+Title: Tracking the spread of COVID-19 across the globe
+Publisher: UM Today
+Trusted: False
+Posted: 3 days ago
+The article discusses the work of Dr. Julien Arino, a mathematician who received funding to study the spread of COVID-19 and model community transmission accurately. Dr. Arino is part of a larger task force that aims to use mathematical modeling to inform public health policy and develop effective treatment strategies for COVID-19. He is evaluating the effectiveness of interventions such as closing borders and travel restrictions in stopping the spread of the virus. Dr. Arino uses mathematical models called metapopulations to understand how countries are connected by travel and how diseases spread between them. He ranked countries based on the risk of virus importation and is now defining the catchment areas of airports and borders to understand ground transportation's impact. The larger study is led by the Fields Institute for Research in Mathematical Sciences and includes collaborations with various institutions in Canada and China. The team aims to assess transmission risk, project outbreak trajectories, and evaluate public health interventions to inform policy and develop effective treatments. This network previously provided real-time advice to public health officials during the SARS outbreak.
+
+Article 8 of 10
+Title: Study suggests new coronavirus may remain on surfaces for days
+Publisher: National Institutes of Health (NIH) (.gov)
+Trusted: False
+Posted: 4 days ago
+Here is a summary of the article: A study published in the New England Journal of Medicine on March 17, 2020, reveals that the SARS-CoV-2 virus can remain active and infectious on various surfaces for extended periods. Led by Dr. Vincent Munster, the research team found that SARS-CoV-2 can survive in aerosols for up to three hours and remain on plastic and stainless steel surfaces for up to three days. The virus was also found to be infectious on cardboard for 24 hours and on copper for four hours. These findings emphasize the importance of hand hygiene and disinfecting frequently touched surfaces to prevent the spread of COVID-19. While respiratory droplets from coughing and sneezing are believed to be the primary mode of transmission, the study suggests that SARS-CoV-2 can also be contracted by touching contaminated surfaces and then touching one's face. The stability of SARS-CoV-2 on surfaces is similar to that of the previous SARS-CoV-1 virus, yet COVID-19 has resulted in a much larger outbreak. This indicates that the difference in epidemiology may be due to factors such as asymptomatic transmission. To prevent the spread of the virus and reduce hospitalizations, public health measures such as hand washing, disinfecting surfaces, avoiding touching the face, and maintaining social distance from those who are sick are crucial. These findings will also inform future epidemiological investigations to better understand the person-to-person spread of SARS-CoV-2.
+
+Article 9 of 10
+Title: Canada’s plan to mobilize science to fight COVID-19
+Publisher: Prime Minister of Canada
+Trusted: False
+Posted: 5 days ago
+The Canadian government is providing $275 million in funding for coronavirus research and medical countermeasures as part of its COVID-19 Response Fund. This funding will support Canadian researchers and life sciences companies in developing potential vaccines, treatments, and diagnostics for COVID-19. The government is also providing support to universities and research organizations to strengthen their expertise and infrastructure in coronavirus research. These measures are part of a larger strategy to protect Canadians and prevent the spread of the virus, which includes ensuring the capacity of the healthcare system and mitigating economic impacts. The government is also working with Canadian businesses to help them scale up production or re-tool their manufacturing lines to produce critical health and safety equipment, including personal protective equipment, sanitization products, and diagnostic tools.
+
+Article 10 of 10
+Title: What can early Canadian experience screening for COVID-19 teach us about how to prepare for a pandemic?
+Publisher: CMAJ
+Trusted: False
+Posted: 5 days ago

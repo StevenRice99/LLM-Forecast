@@ -1,0 +1,68 @@
+Below are 10 news articles from the past 7 days regarding COVID-19 to help guide you in making your decision. Using your best judgement, take into consideration only the articles that are most relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Articles that are from know reputable sources have been flagged with "Trusted: True".
+
+Article 1 of 10
+Title: Young and middle-aged people, barely sick with covid-19, are dying of strokes
+Publisher: The Washington Post
+Trusted: False
+Posted: Today
+The article discusses the link between COVID-19 and stroke, particularly in young and middle-aged adults. Several cases are presented where individuals in their 30s and 40s with no underlying health conditions or risk factors experienced severe strokes while infected with COVID-19. This is unusual as the median age for this type of stroke is typically 74. The article also highlights the observations of medical professionals, such as Thomas Oxley, an interventional neurologist, who noticed the formation of new clots in real time around an existing clot during a procedure. The article mentions that COVID-19 is not just a respiratory pathogen but can impact almost every major organ system in the body. It is suspected that strokes in COVID-19 patients may be a consequence of blood clotting problems, which can also lead to pulmonary embolisms and heart attacks. This is supported by observations from Thomas Jefferson University Hospitals and NYU Langone Health in New York City, where 12 patients with COVID-19 treated for large blood blockages in their brains were found to have the virus, with 40% being under 50 and presenting few or no risk factors. The article also includes a statement from J. Mocco, a physician-researcher at Mount Sinai, who noted that during the three weeks of the COVID-19 surge, the number of patients with large blood blockages in their brains doubled, with more than half testing positive for COVID-19. These patients were also significantly younger than typical stroke patients, with an average age difference of 15 years. The article concludes by emphasizing the importance of seeking urgent medical attention if individuals experience stroke symptoms, as large strokes are very treatable if addressed quickly, ideally within six hours. Key points to help forecast COVID-19 hospitalizations related to strokes: COVID-19 has been linked to an increased risk of strokes, even in young and otherwise healthy individuals. The formation of blood clots is a significant complication of COVID-19 and can lead to severe and deadly strokes. There has been an observed increase in hospitalizations for large blood blockages in the brain during the COVID-19 surge. The average age of COVID-19 stroke patients is significantly lower than typical stroke patients. Seeking immediate medical attention for stroke symptoms is crucial, as early treatment significantly improves outcomes.
+
+Article 2 of 10
+Title: Canadians report lower self-perceived mental health during the COVID-19 pandemic
+Publisher: Statistique Canada
+Trusted: True
+Posted: 1 day ago
+The article examines the self-perceived mental and physical health of Canadians during the COVID-19 pandemic, with a focus on comparing the mental health of women and men and different age groups. The data was drawn from two sources: the Canadian Perspectives Survey Series 1: Impacts of COVID-19 (CPSS), and the Canadian Community Health Survey (CCHS) 2018. Key findings include: 54% of Canadians aged 15 and older reported excellent or very good mental health during the COVID-19 period, compared to 68% in 2018. Women were more likely to report poorer mental health compared to men, with 49% of women rating their mental health as excellent or very good compared to 60% of men. All age groups, except individuals aged 65 and older, were less likely to report excellent or very good mental health during the COVID-19 period. The difference was more pronounced among younger adults. 69% of Canadians reported excellent or very good physical health during the COVID-19 period, compared to 60% in 2018. The results suggest that the COVID-19 pandemic has negatively impacted the mental health of Canadians, particularly women and young people. Researchers suggest that mental health interventions, including digital and tele-mental health resources, may be needed to address the mental health needs of the population during the pandemic.
+
+Article 3 of 10
+Title: A timeline of COVID-19 in Ontario
+Publisher: Global News Toronto
+Trusted: False
+Posted: 1 day ago
+Here is a summary of the article: This article provides a detailed timeline of the key events related to the COVID-19 pandemic in Ontario, Canada, from the first reported case in January 2020 to September 2023. It outlines the provincial government's response, significant milestones, and the impact on businesses, schools, and healthcare facilities. Important facts to help forecast COVID-19 hospitalizations: The first case of COVID-19 in Ontario was reported on January 25, 2020. On March 11, 2020, Ontario reported its first death due to COVID-19. Ontario declared a state of emergency on March 17, 2020, ordering the closure of non-essential businesses and restricting gatherings. The province reported its first outbreak in a long-term care home on March 20, 2020, highlighting the vulnerability of elderly residents. On March 23, 2020, Premier Doug Ford ordered the closure of all non-essential businesses for 14 days. Ontario extended the state of emergency multiple times throughout April and May, gradually reopening businesses and outdoor amenities. On May 14, 2020, Ford announced the first stage of the province's reopening plan, allowing some businesses to resume operations with restrictions. By June 2020, Ontario started to enter Stage 2 of its recovery plan, with some regions progressing faster than others. On July 29, 2020, Toronto and Peel Region were allowed to move to Stage 3, the final stage of the reopening plan. On September 15, 2020, Ontario reported 251 new cases, a significant increase from previous days. The province continued to adjust gathering limits and restrictions based on case numbers and public health advice. The timeline also mentions the impact on schools, with the government announcing plans for the return to classrooms in September. These milestones and government responses provide a context for forecasting COVID-19 hospitalizations. The data on case numbers, outbreaks, and the impact on healthcare facilities can inform predictions and help public health officials make informed decisions to manage the pandemic.
+
+Article 4 of 10
+Title: Government of Canada's research response to COVID-19
+Publisher: Canada.ca
+Trusted: True
+Posted: 2 days ago
+Here is a summary of the article, including important facts to help forecast COVID-19 hospitalizations: The Government of Canada has mobilized its scientific and research communities to respond to the COVID-19 pandemic, focusing on medical and social countermeasures. They have invested $54.2 million to support 99 research teams across Canada through the Canadian Institutes of Health Research. The government has also allocated $1 billion for a COVID-19 Response Fund, which includes $100 million for public health measures such as surveillance and testing. Additionally, $275 million has been announced to support research and large-scale efforts toward countermeasures, including partnerships with industry and academia. The Natural Sciences and Engineering Research Council is providing up to $15 million to support academic researchers in addressing challenges related to the pandemic. The government is also supporting vaccine development, with investments in companies like Medicago and the University of Saskatchewan's Vaccine and Infectious Disease Organization. The National Research Council is upgrading its facility to produce clinical trial lots as soon as vaccine candidates become available. Health Canada is working to expedite the development and availability of vaccines and treatments, and streamline regulatory processes. AbCellera, a Vancouver-based biotech company, is developing antibody-based drugs, and Canadian Blood Services is collaborating on the production of safe blood products for clinical trials. The "SOLIDARITY" international clinical trial, including the Canadian arm CATCO, aims to find effective treatments. Canada is also leveraging existing research networks to understand the clinical characteristics of COVID-19 infection and advance guidelines for clinical care. The Canadian Immunization Research Network's Clinical Trials Network is prepared to conduct rapid clinical trials as candidate vaccines become available. The government is closely tracking the development of vaccines, drugs, antibodies, and diagnostics globally and will prioritize efforts to ensure domestic supply.
+
+Article 5 of 10
+Title: UN IANYD Statement on COVID-19 and Youth
+Publisher: Welcome to the United Nations
+Trusted: False
+Posted: 2 days ago
+
+Article 6 of 10
+Title: U of T to support high-impact coronavirus research projects through Toronto COVID-19 Action Fund
+Publisher: University of Toronto
+Trusted: False
+Posted: 5 days ago
+The University of Toronto has established a $9-million fund to support COVID-19 research by U of T and its hospital partners. The Toronto COVID-19 Action Fund will support over 30 research projects with a positive impact on individuals, communities, and public health systems within a year or less. The projects were chosen through a fast-tracked, peer-reviewed competition and include medical interventions, as well as measures to support vulnerable populations and the economy. One project aims to research the effects of the COVID-19 pandemic response on marginalized groups, while another will carry out a phase two drug trial for COVID-19 treatment. Other projects will address social, economic, and public policy issues, such as the impact of COVID-19 on work quality and economic life in Canada. The funding for these projects comes from various sources, including U of T, partner hospitals, and philanthropic donors. Additional projects may be funded as more funds are raised and partners contribute.
+
+Article 7 of 10
+Title: How are kids affected by COVID-19?
+Publisher: Instituts de recherche en santé du Canada
+Trusted: False
+Posted: 5 days ago
+Here is a summary of the article: The article discusses a research project led by Dr. Stephen Freedman, a pediatric emergency medicine physician, that aims to understand how the COVID-19 virus impacts children. The project is one of 99 Novel Coronavirus (COVID-19) Rapid Research projects funded by the CIHR (Canadian Institutes of Health Research). The study, "Clinical Characteristics and Outcomes of Children Potentially Infected by SARS-CoV-2 Presenting to Pediatric Emergency Departments," plans to enroll and follow 12,500 children over several months who present to 58 participating emergency departments in 14 countries. Recruitment has already started in Canada and worldwide. The study will include children who test positive and negative for COVID-19 to compare exposures, interventions, and collect outcome data from those with respiratory illnesses and SARS-CoV-2 infection. The research team will follow the children for 90 days after their visit to a pediatric emergency department to look at chronic symptoms that may develop due to the infection or related stress. One of the main goals of the project is to share data with policymakers in real time through an electronic database that can be accessed by the public, academics, and policymakers. The team is currently building the electronic data capture tool and expects to start analyzing the data within the next few weeks, hoping to identify high-risk periods for children, similar to what has been observed in adults.
+
+Article 8 of 10
+Title: Making a difference: UBC students help frontline medical workers during COVID-19
+Publisher: UBC Faculty of Medicine
+Trusted: False
+Posted: 5 days ago
+
+Article 9 of 10
+Title: Endothelial cell infection and endotheliitis in COVID-19
+Publisher: The Lancet
+Trusted: False
+Posted: 5 days ago
+
+Article 10 of 10
+Title: The impact of COVID-19 (Coronavirus) on global poverty: Why Sub-Saharan Africa might be the region hardest hit
+Publisher: World Bank
+Trusted: False
+Posted: 5 days ago
+The article estimates that COVID-19 will push an additional 40-60 million people into extreme poverty worldwide, with a best estimate of 49 million. Nowcasting global poverty is challenging due to the need to make assumptions about growth forecasts and their impact on the poor, as well as complications in calculating poverty for countries with limited or outdated data. The estimate of the impact of COVID-19 on global poverty is based on household survey data and growth projections for 166 countries, assuming that growth accrues equally to everyone within a country. The World Economic Outlook projects a 3% contraction in global output in 2020 due to the pandemic, which is used to extrapolate poverty data forward from the latest available estimates in PovcalNet, a World Bank tool for estimating global poverty.

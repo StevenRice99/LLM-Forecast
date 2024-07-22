@@ -1,0 +1,68 @@
+Below are 10 news articles from the past 7 days regarding COVID-19 to help guide you in making your decision. Using your best judgement, take into consideration only the articles that are most relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Articles that are from know reputable sources have been flagged with "Trusted: True".
+
+Article 1 of 10
+Title: Canadian with COVID-19 describes life under quarantine at Japanese hospital
+Publisher: CBC.ca
+Trusted: False
+Posted: 2 days ago
+Craig Lee, a 73-year-old retired teacher from Canada, shared his experience of contracting COVID-19 while on a cruise ship in Japan. He was initially quarantined on the Diamond Princess ship in Yokohama before being transferred to a hospital. Lee described the care he received and the precautions taken during the transfer, including a convoy of vehicles and medical personnel in hazmat suits. He is currently hospitalized and expects to be quarantined for another one to two weeks. Lee's story provides insight into the treatment and precautions surrounding COVID-19 cases in Japan. His experience also highlights the potential for prolonged quarantine periods, which can impact individuals' travel plans and freedom.
+
+Article 2 of 10
+Title: An interactive web-based dashboard to track COVID-19 in real time
+Publisher: The Lancet
+Trusted: False
+Posted: 3 days ago
+
+Article 3 of 10
+Title: COVID-19 and Blood Clotting
+Publisher: National Blood Clot Alliance
+Trusted: False
+Posted: 3 days ago
+Here is a summary of the article: The article discusses COVID-19 vaccines and their availability in the United States, with the first two vaccines (Pfizer and Moderna) receiving emergency use authorization in December 2020 and an additional vaccine (Johnson & Johnson) in February 2021. The National Blood Clot Alliance (NBCA) and its Medical & Scientific Advisory Board are monitoring information related to COVID-19 vaccines and their impact on people with clotting disorders or those on anticoagulant therapies. Studies show that the COVID-19 vaccines are safe and effective, and medical experts recommend that individuals get vaccinated as soon as possible to prevent infection. The article provides a link to the CDC website for more information about COVID-19 vaccines and frequently asked questions. COVID-19 vaccination is recommended for everyone aged 5 and older in the US, and three vaccines are currently approved or authorized by the FDA (Pfizer-BioNTech, Moderna, and Johnson & Johnson). Individuals can receive any of the authorized vaccines as a booster dose. NBCA has received numerous questions about clotting associated with COVID-19 and has compiled a list of Frequently Asked Questions (FAQs) with the most current information available. A global survey of more than 500 physicians from 41 countries found that most respondents recommended prophylactic anticoagulation therapy for hospitalized COVID-19 patients to prevent blood clots. However, there was variation in practice when increasing the dose of anticoagulation. The survey also found that bleeding, a potential side effect of anticoagulation therapy, was reported by a minority of respondents, with most reporting no bleeding or minor bleeding. The medical experts who conducted the survey emphasize the need for well-designed studies and randomized clinical trials to understand the incidence and risk factors for blood clots in COVID-19 patients and the effectiveness of anticoagulation therapies. The article provides resources for healthcare professionals to stay updated on COVID-19, including an interactive map by Johns Hopkins University and guidance from the Anticoagulation Forum and the American Society of Hematology. It is crucial for individuals to understand the risk factors for blood clots and the signs and symptoms that may indicate the need for medical attention. The article provides links to information about blood clot risk factors, signs, and symptoms, as well as a mini PEP Talk session discussing COVID-19 treatment options for blood clot patients on anticoagulants. Finally, the article emphasizes that the information provided is not a substitute for professional medical advice, and individuals should consult their healthcare providers for any questions or concerns about COVID-19 and clotting. To forecast COVID-19 hospitalizations based on the information in the article, it is important to consider the following: The effectiveness of COVID-19 vaccines in preventing severe disease and hospitalization. The vaccines have been shown to be highly effective in reducing the risk of severe illness and hospitalization due to COVID-19. The impact of vaccine booster doses on protection against severe disease. Booster doses have been shown to increase protection against severe disease and hospitalization, particularly against certain variants of the virus. The incidence of blood clots in COVID-19 patients and the effectiveness of prophylactic anticoagulation therapy. The global survey found that a majority of physicians recommended prophylactic anticoagulation therapy for hospitalized COVID-19 patients to prevent blood clots. This may help reduce the risk of complications and hospitalization. The availability and utilization of healthcare resources, including intensive care unit (ICU) capacity and access to medical treatments. The impact of COVID-19 on hospitalization rates can vary depending on the availability and utilization of healthcare resources in different regions. Adherence to public health measures such as mask-wearing, social distancing, and hand hygiene. These measures can help reduce the spread of the virus and decrease the number of hospitalizations. By considering these factors and monitoring local and regional data on COVID-19 cases, hospitalizations, and vaccine coverage, public health officials and healthcare providers can make informed forecasts and predictions about COVID-19 hospitalizations in their communities.
+
+Article 4 of 10
+Title: Grant awarded to develop whole genome sequencing for COVID-19
+Publisher: Sunnybrook Hospital
+Trusted: False
+Posted: 3 days ago
+A team of researchers, including Drs. Samira Mubareka, Robert Kozak, and Allison McGreer, has been granted $120,000 to develop genome sequencing for COVID-19 that could be utilized in hospitals. The funding, provided by the McLaughlin Centre, will enable the team to employ next-generation sequencing technologies to gather live COVID-19 patient data and create whole-genome sequences. This data will enhance diagnostics and aid in understanding the virus, including the amount of viral shedding and its relation to disease severity. The researchers aim to develop sensitive, real-time sequencing approaches to support hospital labs in detecting and characterizing the virus, and to share data for epidemiological studies and vaccine development. This project demonstrates the collaboration between microbiology, infectious disease, and genomics experts to enhance understanding and management of the novel coronavirus.
+
+Article 5 of 10
+Title: Defining the Epidemiology of Covid-19 — Studies Needed
+Publisher: nejm.org
+Trusted: False
+Posted: 3 days ago
+
+Article 6 of 10
+Title: COVID-19 hasn’t affected Canada’s drug supply yet, but experts are watching - National
+Publisher: Global News
+Trusted: False
+Posted: 3 days ago
+The COVID-19 outbreak has disrupted the Chinese economy and raised concerns about potential impacts on the global drug supply as China is a significant manufacturer of pharmaceuticals and active pharmaceutical ingredients (APIs). Experts warn that up to 80% of the world's supply of APIs comes from China, and disruptions could affect the availability of crucial drugs, particularly antibiotics. While Canada has over 2,000 ongoing drug shortages, none are currently related to COVID-19. However, the situation is being closely monitored, and there is concern about potential disruptions to the supply of raw ingredients and finished drugs manufactured in China. The Canadian Pharmacists' Association advises against panic-buying and hoarding of medications, as it could create unnecessary shortages of crucial drugs. Canada maintains a stockpile of essential pharmaceuticals for emergency situations, and warehouses also keep reserves of medications. The current COVID-19 crisis in Canada is considered more hype than reality, and pharmacists can recommend alternative medications if needed.
+
+Article 7 of 10
+Title: How epidemics like covid-19 end (and how to end them faster)
+Publisher: The Washington Post
+Trusted: False
+Posted: 3 days ago
+The article explains that not everyone will be infected by an epidemic, as it doesn't spread uniformly in a population. Some people have more contact with others and are at a higher risk of infection. A "final size" model can predict how many people will become ill by estimating the average number of contacts a person has. This model can be used to forecast COVID-19 hospitalizations by assuming that a certain percentage of infected people will require hospital care. However, the model's accuracy depends on various factors, including the effectiveness of public health measures and the emergence of new virus variants.
+
+Article 8 of 10
+Title: COVID-19
+Publisher: Gilead Sciences
+Trusted: False
+Posted: 4 days ago
+Gilead Sciences, a biotechnology company, has been actively involved in the fight against the COVID-19 pandemic by leveraging its resources and expertise in antiviral drug development. They developed the first approved antiviral drug for treating COVID-19 and continue to invest in research to tackle emerging pandemic threats. Gilead is collaborating with various organizations, including global health authorities and academic institutions, to share knowledge and contribute to pandemic relief efforts. The company is committed to enabling access to its COVID-19 treatment and has established partnerships to ensure responsible distribution. As of January 7, 2024, Gilead remains dedicated to helping patients and communities affected by the pandemic.
+
+Article 9 of 10
+Title: Communication, transparency key as Canada faces new coronavirus threat
+Publisher: CMAJ
+Trusted: False
+Posted: 4 days ago
+
+Article 10 of 10
+Title: The economic effects of the coronavirus around the world
+Publisher: World Economic Forum
+Trusted: False
+Posted: 5 days ago
+The COVID-19 pandemic has had a significant impact on the global economy, with businesses facing lost revenue and disrupted supply chains as a result of factory shutdowns and quarantine measures. Unemployment rates have skyrocketed, and policymakers have scrambled to implement fiscal and monetary measures to alleviate the financial burden on citizens and support struggling economies. In the United States, the unemployment rate climbed to 14.7% in April 2020, with over 20 million Americans losing their jobs. The US GDP also declined sharply in the first quarter of 2020, ending the country's longest economic expansion. The US Treasury Department announced plans to borrow nearly $3 trillion in the second quarter of 2020 to mitigate the impacts of the pandemic. The International Monetary Fund (IMF) has warned that the pandemic has instigated a global economic downturn not seen since the Great Depression. This view is supported by forecasts from the European Commission, which predicts a 7.5% contraction in the GDP of EU countries in 2020. Asia is also expected to see a slump, with the IMF forecasting zero growth for the region in 2020. China's economy contracted in the first quarter of 2020 for the first time since quarterly records began in 1992. Central banks, including the US Federal Reserve and the European Central Bank, have taken action to combat the economic fallout by cutting interest rates and launching stimulus programs. However, global investor sentiment remains fragile, with stock markets and oil prices continuing to come under steep pressure. The pandemic has also had a significant impact on employment worldwide. In India, the lockdown led to 122 million job losses in April 2020 alone, mostly among small traders and laborers. In the UK, the Office for Budget Responsibility warned that unemployment could rise by 2.1 million by the end of June 2020. The outbreak has disrupted commerce and trade worldwide, with initial shortages of products and parts from China affecting companies globally. Apple's manufacturing partner, Foxconn, faced production delays, and carmakers such as Nissan and Hyundai temporarily closed factories due to part shortages. Italy and other countries closed all but the most essential factories by March 2020. The travel and tourism industries have been particularly hard hit, with airlines facing significant losses due to reduced demand and travel restrictions. British Airways, for example, cut its flying capacity by at least 75% in April and May 2020. The UN's International Civil Aviation Organization forecast significant losses in tourism revenue for countries such as Japan and Thailand due to the drop in Chinese travelers. Overall, the COVID-19 pandemic has had far-reaching economic consequences, and the full extent of the impact remains to be seen as the situation continues to evolve. Forecasting COVID-19 hospitalizations is complex and depends on various factors, including the availability of healthcare resources, the effectiveness of public health measures, and the behavior of the virus itself. However, economic indicators such as unemployment rates and GDP forecasts can provide insights into the potential burden on healthcare systems.

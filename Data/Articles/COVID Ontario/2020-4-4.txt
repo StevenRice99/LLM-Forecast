@@ -1,0 +1,68 @@
+Below are 10 news articles from the past 7 days regarding COVID-19 to help guide you in making your decision. Using your best judgement, take into consideration only the articles that are most relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Articles that are from know reputable sources have been flagged with "Trusted: True".
+
+Article 1 of 10
+Title: Why COVID-19 testing varies so much across Canada
+Publisher: CBC.ca
+Trusted: False
+Posted: Today
+Here is a summary of the article: Across Canada, each province and territory has different testing rates and target groups for COVID-19, which can change from day to day. This variability in testing criteria and priority groups makes it challenging to accurately compare the number of confirmed infections between different regions. The testing strategies are largely influenced by the shortage of tests, materials, and personnel, which is a Canada-wide and worldwide issue. The primary goals of testing are to provide appropriate care and improve the government's response to the pandemic. As such, patients requiring hospitalization and healthcare workers are usually prioritized for testing. Provinces like New Brunswick are conducting relatively few tests, while others like Ontario have long backlogs. The article also highlights the dynamic nature of priority groups, with experts like Greta Bauer, a professor of epidemiology, acknowledging that testing criteria need to adapt quickly as the pandemic progresses and community transmission increases. Initially, travelers and their close contacts were prioritized, but with community transmission on the rise, some provinces like Alberta and Quebec are narrowing their testing criteria to focus on high-risk groups. The variability in testing strategies across Canada makes it challenging to accurately interpret the number of confirmed infections. Factors such as changes in testing criteria, delays in obtaining results, and the exponential nature of the disease's spread can significantly impact the reported numbers. To better understand the pandemic's severity, experts suggest focusing on hospitalizations and deaths rather than relying solely on test-based reporting of cases. This is because testing captures only a fraction of infected individuals, and the reported cases are influenced by the variability in testing strategies and delays in reporting. Overall, the article emphasizes the dynamic and varied nature of COVID-19 testing in Canada, highlighting the challenges in interpreting infection numbers and the need to prioritize resources and adapt testing strategies as the pandemic evolves.
+
+Article 2 of 10
+Title: U of T researcher's ‘lab-in-a-box’ promises to boost COVID-19 testing capacity
+Publisher: University of Toronto
+Trusted: False
+Posted: 2 days ago
+The article introduces a portable testing technology, called a "lab-in-a-box," designed by Keith Pardee and his team at the University of Toronto as a potential solution for COVID-19 diagnostics. This technology aims to address the challenges of conducting tests in areas with limited access to sophisticated medical facilities and the strain on PCR testing facilities in developed nations. The "lab-in-a-box" is highly portable, about the size of a couple of cardboard moving boxes, and can be easily transported to establish a diagnostics lab anywhere. Each box contains multi-well plates for testing, a reader called PLUM to analyze results, and pipettes for handling samples. The tests can be administered on-site, and the kit includes printed and online training materials. The concept originated during the Zika virus outbreak in Latin America in 2016 and proved to be highly sensitive and accurate while being more accessible and cost-effective than traditional PCR methods. With recent funding from the federal government, Pardee's portable lab is progressing to patient trials in Vietnam, Brazil, and Toronto, with the potential to revolutionize COVID-19 testing and help more people access diagnostics at a lower cost. This applied research showcases the global research community's response to the COVID-19 pandemic and is expected to yield impressive innovations in the near future. The portable testing technology can play a crucial role in expanding testing capabilities, especially in lowand medium-income countries and remote areas, and alleviating the strain on centralized testing facilities.
+
+Article 3 of 10
+Title: Resources for Health Care Workers During COVID-19
+Publisher: CAMH
+Trusted: False
+Posted: 3 days ago
+
+Article 4 of 10
+Title: Sustaining the Wellbeing of Military Healthcare Personnel during COVID-19 Pandemic
+Publisher: Canada.ca
+Trusted: True
+Posted: 3 days ago
+The COVID-19 pandemic has placed unprecedented strain on healthcare systems and staff worldwide. Healthcare workers and leaders face numerous challenges and stressors, whether screening, treating COVID-19 patients, or providing essential care for non-COVID patients. Self-care and support for one another are crucial to sustain the ability to provide care and maintain healthcare services. The article offers guidelines to help manage stress and maintain well-being during this demanding period.
+
+Article 5 of 10
+Title: What are maps really saying about COVID-19 in Canada ?
+Publisher: Canadian Geographic
+Trusted: False
+Posted: 3 days ago
+The article discusses the challenges of mapping the spread of COVID-19 due to the virus's localized nature and global reach. The scale of direct transmission is local, as individuals must come in close personal contact with the virus to acquire it, with a safe distance of two meters. However, the virus has quickly spread globally through local, regional, national, and international travel. While cartographers have created various maps to visualize the spread, the complex nature of the pandemic makes it challenging to represent all aspects on a single map. To address the question of an individual's risk of contracting COVID-19, more granular data is needed beyond global and provincial maps. Regional health authorities in Canada provide confirmed case numbers, offering a more detailed perspective. The article includes a map of regional health authority areas to help people understand the local impact and make informed decisions about their risk of exposure when venturing out.
+
+Article 6 of 10
+Title: COVID-19: Voice of Canadians and impact to retailers
+Publisher: Deloitte
+Trusted: False
+Posted: 4 days ago
+Here is a summary of the article, including key facts that could be useful for forecasting COVID-19 hospitalizations: Survey Results: 92% of Canadians are concerned or somewhat concerned about COVID-19. 78% believe that Canada will enter a recession in the next 12 months. 44% think their household finances will be negatively impacted in the next three months. 71% are limiting public activities and 44% are avoiding public spaces and social gatherings. 55% are spending more on food and beverages, and 42% are stockpiling non-perishable food items. Online shopping has increased, with 23% shopping online daily, and 44% expect to continue increased online shopping after the pandemic. 72% of Canadians are concerned about the availability of goods, and 63% are concerned about price increases. Forecasting COVID-19 Hospitalizations: The survey results indicate a high level of concern among Canadians about the pandemic, with many believing a recession is likely. This could suggest that a significant proportion of the population is willing to adhere to public health measures and social distancing, which may help reduce the spread of the virus and hospitalizations. The increase in online shopping and spending on food and beverages could be an indicator of people staying at home and avoiding public spaces. This behavior may help reduce the transmission of the virus and lower the burden on the healthcare system. However, the concern about the availability of goods and price increases could lead to continued stockpiling and panic buying, which may put pressure on supply chains and increase people's contact with others, potentially contributing to higher infection rates and hospitalizations. Additionally, the number of people limiting public activities and avoiding social gatherings could be a factor in reducing hospitalizations, as it may help decrease community transmission. Overall, these survey results provide insights into Canadians' behaviors and concerns during the early stages of the pandemic. While some behaviors may help reduce COVID-19 hospitalizations, the impact of others are more uncertain and may depend on various factors, including the effectiveness of public health measures and the duration of the pandemic.
+
+Article 7 of 10
+Title: COVID-19 Update
+Publisher: Guelph Police
+Trusted: False
+Posted: 4 days ago
+Here is a summary of the article: The Guelph Police Service is working collaboratively with other agencies to ensure the safety and well-being of the Guelph community during the COVID-19 pandemic. Non-essential businesses in Ontario were mandated to close from March 24th to April 13th, 2020, with the possibility of an extension. Outdoor recreational amenities were also closed until April 13th, and organized public events and social gatherings were limited to no more than five attendees (except for funerals, which could have up to ten). For inquiries or concerns regarding non-compliance with these measures, residents were advised to contact the City of Guelph Bylaw Compliance and Enforcement or the Guelph Police Service. The Guelph Police Service station at 15 Wyndham Street South was closed for non-emergency services, and residents were encouraged to use online services or call the non-emergency phone line instead. Residents could report concerns about price gouging online and direct questions about returning travelers failing to self-isolate to the local public health unit. Links to credible sources of information on COVID-19 were provided, including the Guelph Police Service website. As for forecasting COVID-19 hospitalizations, the article does not provide specific data or models. However, the measures implemented, such as the closure of non-essential businesses and restrictions on gatherings, are intended to slow the spread of the virus and reduce the strain on the healthcare system. By encouraging physical distancing and providing resources for self-isolation, the Guelph Police Service and its partners are contributing to the overall effort to manage the pandemic and prevent a surge in hospitalizations.
+
+Article 8 of 10
+Title: AHS partners with Spartan Bioscience to enable rapid testing for COVID-19
+Publisher: Alberta Health Services
+Trusted: False
+Posted: 5 days ago
+Here is a summary of the article: Alberta Health Services (AHS) has partnered with Canadian technology company Spartan Bioscience Inc. to bring faster and more convenient COVID-19 testing to Alberta, especially in rural and remote communities. As part of the $9.5 million contract, AHS will receive 250 handheld testing devices and 100,000 testing kits, which will be distributed to healthcare facilities outside of Calgary and Edmonton, with the first shipment arriving next month. The innovative handheld device can confirm COVID-19 test results in under an hour, eliminating the need for lab samples to travel, which is often a challenge in remote areas. This technology will supplement AHS' current lab testing and alleviate pressure on frontline workers and major labs. Health Canada is expected to approve the rapid test kits within weeks, and AHS will validate their accuracy before deployment. This partnership reflects Alberta's proactive response to the pandemic, with the province already boasting one of the highest rates of testing per capita in the world and the first online assessment tool for COVID-19 in Canada. This initiative aims to maintain Alberta's rapid testing pace, enhance contact tracing, guide appropriate care and isolation, and ultimately reduce the further spread of COVID-19.
+
+Article 9 of 10
+Title: Developing Covid-19 Vaccines at Pandemic Speed
+Publisher: nejm.org
+Trusted: False
+Posted: 5 days ago
+
+Article 10 of 10
+Title: Suspected, confirmed COVID-19 patients filling roughly 1 in 4 Ontario ICU beds
+Publisher: CBC.ca
+Trusted: False
+Posted: 5 days ago
