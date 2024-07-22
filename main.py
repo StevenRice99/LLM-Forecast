@@ -399,9 +399,9 @@ def test(path: str, start: int = 1, memory: int = 1, lead: int = 1, forecast: in
     else:
         name += f"[C-{svr['C']}_Gamma-{svr['gamma']}]_Epsilon-{svr['epsilon']}] Model="
     if model is None:
-        name += "None"
+        name += "False"
     else:
-        name += model
+        name += "True"
     # Get the directories to save in.
     if not os.path.exists("Results"):
         os.mkdir("Results")

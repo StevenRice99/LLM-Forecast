@@ -134,7 +134,7 @@ def evaluate(root: str = "Results", keys: list or None = None, sort: bool = True
                 val[0]
             )))
         # Format the results as a CSV file and save it.
-        s = "Start,Memory,Lead,Forecast,Buffer,Capacity,Top,Power,ARIMA,SVR"
+        s = "Start,Memory,Lead,Forecast,Buffer,Capacity,Top,Power,ARIMA,SVR,MODEL"
         for title in titles:
             s += f",{title}"
         for model in current:
