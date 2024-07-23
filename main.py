@@ -393,11 +393,11 @@ def test(path: str, start: int = 1, memory: int = 1, lead: int = 1, forecast: in
     if arima is None:
         name += "None SVR="
     else:
-        name += f"[P-{arima['p']}_D-{arima['d']}]_Q-{arima['q']}] SVR="
+        name += f"[P-{arima['p']}_D-{arima['d']}_Q-{arima['q']}] SVR="
     if svr is None:
         name += "None Model="
     else:
-        name += f"[C-{svr['C']}_Gamma-{svr['gamma']}]_Epsilon-{svr['epsilon']}] Model="
+        name += f"[C-{svr['C']}_Gamma-{svr['gamma']}_Epsilon-{svr['epsilon']}] Model="
     if model is None:
         name += "False"
     else:
@@ -435,9 +435,9 @@ def test(path: str, start: int = 1, memory: int = 1, lead: int = 1, forecast: in
     if power > 0:
         print(f"Fitting with polynomials up to {power}.")
     if arima is not None:
-        print(f"Using ARIMA with P={arima['p']}, D={arima['d']}] and Q={arima['q']}.")
+        print(f"Using ARIMA with P={arima['p']}, D={arima['d']} and Q={arima['q']}.")
     if svr is not None:
-        print(f"Using SVR with C={svr['C']}, Gamma={svr['gamma']}], and Epsilon={svr['epsilon']}.")
+        print(f"Using SVR with C={svr['C']}, Gamma={svr['gamma']}, and Epsilon={svr['epsilon']}.")
     if forecast > 0:
         print(f"Forecasting {forecast} periods.")
     if top > 0:
@@ -445,7 +445,7 @@ def test(path: str, start: int = 1, memory: int = 1, lead: int = 1, forecast: in
     else:
         print("Choosing prediction by the average of all predictions.")
     if model is not None:
-        print(f"Using {model} to forecast.")
+        print("Using LLM to forecast.")
     # Loop until the end of the data is reached.
     results = []
     start_time = time.time()
