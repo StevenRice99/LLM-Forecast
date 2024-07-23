@@ -1,6 +1,7 @@
 import datetime
 import math
 import os
+import re
 import time
 
 import unicodedata
@@ -77,15 +78,19 @@ def chat(prompt: str, hugging_chat: hugchat.ChatBot or None = None, model: str =
                                                                         "Zs", "Zl", "Zp", "Pc", "Pd", "Ps", "Pe", "Pi",
                                                                         "Pf", "Po", "Sm", "Sc", "Sk", "So"})
     message = valid_encoding(message)
+    message = re.sub(r"\s+", " ", message)
     while message.__contains__("  "):
         message = message.replace("  ", " ")
     return message.strip()
 
 
 def get_article(result: dict, driver, trusted: list, forecasting: str = "COVID-19 hospitalizations",
-                delay: float = 0, summarize: bool = True, model: str = "gpt-3.5",
+                location: str or None = "Ontario, Canada", delay: float = 0, model: str = "gpt-3.5",
                 hugging_chat: hugchat.ChatBot or None = None) -> dict or None:
     publisher = result["publisher"]["title"]
+    title = result["title"].replace(publisher, "").strip().strip("-").strip()
+    if title == "":
+        return None
     # Try to get the full article and then summarize it with an LLM.
     # noinspection PyBroadException
     try:
@@ -122,33 +127,31 @@ def get_article(result: dict, driver, trusted: list, forecasting: str = "COVID-1
         article.parse()
         title = article.title
         # Clean the summary.
-        summary = article.text.replace("\r", "\n")
-        summary = summary.replace("\t", " ")
-        while summary.__contains__("\n\n"):
-            summary = summary.replace("\n\n", "\n")
+        summary = re.sub(r"\s+", " ", article.text)
         while summary.__contains__("  "):
             summary = summary.replace("  ", " ")
         summary = summary.strip()
         if delay > 0:
             time.sleep(delay)
         # Summarize the summary with an LLM if requested to.
-        if summarize and summary != "":
-            summary = chat(f"Summarize this article, including any important facts to help forecast "
-                           f"{forecasting}: {summary}", hugging_chat, model)
+        if summary != "":
+            summary = chat(f"You are trying to help forecast {forecasting}{location}. Below is an article. If "
+                           f"the article is not relevant for forecasting {forecasting}{location}, respond with "
+                           f"\"FALSE\". Otherwise, if the article is relevant for forecasting {forecasting}{location}, "
+                           f"respond with a brief summary, highlighting values most important for forecasting "
+                           f"{forecasting}{location}:\n\n{summary}", hugging_chat, model)
             if delay > 0:
                 time.sleep(delay)
     # If the full article cannot be downloaded or the summarization fails, use the initial news info.
     except:
-        title = result["title"].replace(publisher, "").strip().strip("-").strip()
-        summary = result["description"].replace(publisher, "").strip().strip("-").strip()
+        return None
     # No point in having the summary if it is just equal to the title.
-    if summary is not None:
-        if (title == summary or summary == "" or summary.isspace() or summary.startswith("I'm sorry, ") or
-                summary.startswith("I apologize, ")):
-            summary = None
-    title = valid_encoding(title)
     if title is None or title == "":
         return None
+    if (summary is None or title == summary or summary == "" or summary.isspace() or summary.startswith("I'm sorry, ")
+            or summary.startswith("I apologize, ") or summary.strip().upper() == "FALSE"):
+        return None
+    title = valid_encoding(title)
     if summary is not None:
         summary = valid_encoding(summary)
     # Parse the date.
@@ -189,8 +192,7 @@ def search_news(keywords: str or list or None = "COVID-19", max_results: int = 1
                 country: str = "CA", location: str or None = "Ontario, Canada",
                 end_date: tuple or datetime.datetime or None = None, days: int = 7,
                 exclude_websites: list or None = None, trusted: list or None = None, model: str or None = None,
-                delay: float = 0, summarize: bool = True, forecasting: str = "COVID-19 hospitalizations",
-                folder: str = "COVID Ontario") -> str:
+                delay: float = 0, forecasting: str = "COVID-19 hospitalizations", folder: str = "COVID Ontario") -> str:
     """
     Search the web for news.
     :param keywords: The keywords to search for.
@@ -204,7 +206,6 @@ def search_news(keywords: str or list or None = "COVID-19", max_results: int = 1
     :param trusted: What websites should be labelled as trusted.
     :param model: Which model to use for LLM summaries.
     :param delay: How much to delay web queries by to ensure we do not hit limits.
-    :param summarize: Whether to summarize the results.
     :param forecasting: What is being forecast.
     :param folder: The name of the file to save the results.
     :return: The news articles.
@@ -234,16 +235,20 @@ def search_news(keywords: str or list or None = "COVID-19", max_results: int = 1
     driver = webdriver.Firefox(service=service)
     # Format all results.
     formatted = []
+    if isinstance(location, str):
+        location = f" in {location}"
+    else:
+        location = ""
     # If no keywords, get the top news or location news if the location was passed.
     if keywords is None:
         google_news = GNews(language=language, country=country, max_results=max_results,
                             exclude_websites=exclude_websites)
-        if isinstance(location, str):
+        if location != "":
             results = google_news.get_news(location)
         else:
             results = google_news.get_top_news()
         for result in results:
-            result = get_article(result, driver, trusted, forecasting, delay, summarize, model, hugging_chat)
+            result = get_article(result, driver, trusted, forecasting, location, delay, model, hugging_chat)
             if result is not None:
                 formatted.append(result)
         if delay > 0:
@@ -270,7 +275,7 @@ def search_news(keywords: str or list or None = "COVID-19", max_results: int = 1
                         break
                 # If this is a new result, format and append it.
                 if not match:
-                    result = get_article(result, driver, trusted, forecasting, delay, summarize, model, hugging_chat)
+                    result = get_article(result, driver, trusted, forecasting, location, delay, model, hugging_chat)
                     if result is not None:
                         formatted.append(result)
             if delay > 0:
@@ -299,10 +304,6 @@ def search_news(keywords: str or list or None = "COVID-19", max_results: int = 1
                 else:
                     words += f", {keywords[i]}"
         single = len(formatted) == 1
-        if isinstance(location, str):
-            location = f" in {location}"
-        else:
-            location = ""
         s += (f"Below {'is' if single else 'are'} {len(formatted)} news article{'' if single else 's'}{days}{words} to "
               f"help guide you in making your decision. Using your best judgement, take into consideration only the "
               f"articles that are most relevant for forecasting {forecasting}{location}. Articles that are from know "
@@ -351,7 +352,7 @@ def llm_predict(keywords: str or list or None = "COVID-19", max_results: int = 1
                 country: str = "CA", location: str or None = "Ontario, Canada",
                 end_date: tuple or datetime.datetime or None = None, days: int = 7,
                 exclude_websites: list or None = None, trusted: list or None = None, model: str or None = None,
-                delay: float = 0, summarize: bool = True, forecasting: str = "COVID-19 hospitalizations",
+                delay: float = 0, forecasting: str = "COVID-19 hospitalizations",
                 folder: str = "COVID Ontario", units: str = "weeks", periods: int = 1, previous: list or None = None,
                 prediction: int or None = None, hugging_chat: hugchat.ChatBot or None = None) -> int:
     """
@@ -367,7 +368,6 @@ def llm_predict(keywords: str or list or None = "COVID-19", max_results: int = 1
     :param trusted: What websites should be labelled as trusted.
     :param model: Which model to use for LLM summaries.
     :param delay: How much to delay web queries by to ensure we do not hit limits.
-    :param summarize: Whether to summarize the results.
     :param forecasting: What is being forecast.
     :param folder: The name of the file to save the results.
     :param units: The units of predictions.
@@ -378,7 +378,7 @@ def llm_predict(keywords: str or list or None = "COVID-19", max_results: int = 1
     :return: The news articles.
     """
     articles = search_news(keywords, max_results, language, country, location, end_date, days, exclude_websites,
-                           trusted, model, delay, summarize, forecasting, folder)
+                           trusted, model, delay, forecasting, folder)
     if isinstance(location, str):
         location = f" in {location}"
     else:
@@ -464,7 +464,7 @@ def parse_dates(file: str) -> list:
 def prepare_articles(file: str, keywords: str or list or None = "COVID-19", max_results: int = 10,
                      language: str = "en", country: str = "CA", location: str or None = "Ontario, Canada",
                      days: int = 7, exclude_websites: list or None = None, trusted: list or None = None,
-                     model: str or None = None, delay: float = 0, summarize: bool = True,
+                     model: str or None = None, delay: float = 0,
                      forecasting: str = "COVID-19 hospitalizations") -> None:
     dates = parse_dates(file)
     folder = os.path.splitext(os.path.basename(file))[0]
@@ -488,7 +488,7 @@ def prepare_articles(file: str, keywords: str or list or None = "COVID-19", max_
     for i in range(len(dates)):
         print(f"Preparing articles for time period {i + 1} of {len(dates)}.")
         search_news(keywords, max_results, language, country, location, dates[i], days, exclude_websites, trusted,
-                    model, delay, summarize, forecasting, folder)
+                    model, delay, forecasting, folder)
     files = os.listdir(path)
     for file in files:
         file = os.path.join(path, file)
@@ -553,4 +553,4 @@ if __name__ == '__main__':
          "University of Victoria", "University of Waterloo", "University of Winnipeg News", "Université de Montréal",
          "Washington University School of Medicine in St. Louis", "Western News", "Yale Medicine", "news.gov.mb.ca",
          "Wexner Medical Center - The Ohio State University", "Yale School of Medicine", "hss.gov.nt.ca"]
-    prepare_articles("Data/Dates/COVID Ontario.txt", trusted=t, delay=5)
+    prepare_articles("Data/Dates/COVID Ontario.txt", keywords=["COVID-19 Hospitalizations Ontario"], trusted=t, delay=5)

@@ -107,7 +107,7 @@ def predict(data: dict, forecast: int = 0, buffer: int = 0, power: int = 1, top:
             trusted: list or None = None, model: str or None = None, delay: float = 0, summarize: bool = True,
             forecasting: str = "COVID-19 hospitalizations", folder: str = "COVID Ontario", units: str = "weeks",
             periods: int = 1, previous: list or None = None, prediction: int or None = None,
-            hugging_chat: hugchat.ChatBot or None = None) -> dict:
+            hugging_chat: hugchat.ChatBot or None = None, max_order: int = 1000) -> dict:
     """
     Predict what to order for an inbound shipment.
     :param data: The data with inventory, past orders, and upcoming arrivals.
@@ -137,6 +137,7 @@ def predict(data: dict, forecast: int = 0, buffer: int = 0, power: int = 1, top:
     :param previous: Previous values to help predict.
     :param prediction: A guide to help predict.
     :param hugging_chat: HuggingChat instance to use.
+    :param max_order: How much at most can be ordered.
     :return: The order to place for an inbound shipment.
     """
     # Nothing to predict if there is no data.
@@ -274,6 +275,10 @@ def predict(data: dict, forecast: int = 0, buffer: int = 0, power: int = 1, top:
         # Cannot order a negative amount.
         if result < 0:
             result = 0
+        if 0 < max_order < result:
+            if verbose:
+                print(f"More than the maximum order amount of {result}.")
+            result = max_order
         if verbose:
             if result > 0:
                 print(f"Placing order of {result}.")
@@ -290,7 +295,7 @@ def test(path: str, start: int = 1, memory: int = 1, lead: int = 1, forecast: in
          days: int = 7, exclude_websites: list or None = None, trusted: list or None = None, model: str or None = None,
          delay: float = 0, summarize: bool = True, forecasting: str = "COVID-19 hospitalizations", units: str = "weeks",
          periods: int = 1, previous: list or None = None, prediction: int or None = None,
-         output: str or None = None) -> None:
+         output: str or None = None, max_order: int = 1000) -> None:
     """
     Test a forecasting model given a CSV file.
     :param path: The path to the file.
@@ -322,6 +327,7 @@ def test(path: str, start: int = 1, memory: int = 1, lead: int = 1, forecast: in
     :param previous: Previous values to help predict.
     :param prediction: A guide to help predict.
     :param output: Sub folder for results to output to.
+    :param max_order: How much at most can be ordered.
     :return: Nothing.
     """
     # Nothing to do if the dataset cannot be loaded.
@@ -610,7 +616,8 @@ def auto(path: str or list, start: int or list = 1, memory: int or list = 1, lea
          days: int = 7, exclude_websites: list or None = None, trusted: list or None = None,
          model: str or None or list = None, delay: float = 0, summarize: bool = True,
          forecasting: str = "COVID-19 hospitalizations", units: str = "weeks", periods: int = 1,
-         previous: list or None = None, prediction: int or None = None, output: str or None = None) -> None:
+         previous: list or None = None, prediction: int or None = None, output: str or None = None,
+         max_order: int = 1000) -> None:
     """
     Automatically test multiple options.
     :param path: The path to the file.
@@ -642,6 +649,7 @@ def auto(path: str or list, start: int or list = 1, memory: int or list = 1, lea
     :param previous: Previous values to help predict.
     :param prediction: A guide to help predict.
     :param output: Sub folder for results to output to.
+    :param max_order: How much at most can be ordered.
     :return: Nothing.
     """
     # Ensure values are all converted to lists.
