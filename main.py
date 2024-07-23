@@ -6,12 +6,15 @@ import warnings
 
 import numpy as np
 import pandas as pd
+from hugchat import hugchat
 from sklearn.linear_model import LinearRegression
 from sklearn.pipeline import make_pipeline
 from sklearn.preprocessing import PolynomialFeatures
 from sklearn.svm import SVR
 from statsmodels.tools.sm_exceptions import ConvergenceWarning
 from statsmodels.tsa.arima.model import ARIMA
+
+import scraping
 from scraping import parse_dates, llm_predict
 
 
@@ -103,7 +106,8 @@ def predict(data: dict, forecast: int = 0, buffer: int = 0, power: int = 1, top:
             end_date: tuple or datetime.datetime or None = None, days: int = 7, exclude_websites: list or None = None,
             trusted: list or None = None, model: str or None = None, delay: float = 0, summarize: bool = True,
             forecasting: str = "COVID-19 hospitalizations", folder: str = "COVID Ontario", units: str = "weeks",
-            periods: int = 1, previous: list or None = None, prediction: int or None = None) -> dict:
+            periods: int = 1, previous: list or None = None, prediction: int or None = None,
+            hugging_chat: hugchat.ChatBot or None = None) -> dict:
     """
     Predict what to order for an inbound shipment.
     :param data: The data with inventory, past orders, and upcoming arrivals.
@@ -132,6 +136,7 @@ def predict(data: dict, forecast: int = 0, buffer: int = 0, power: int = 1, top:
     :param periods: The number of periods to predict.
     :param previous: Previous values to help predict.
     :param prediction: A guide to help predict.
+    :param hugging_chat: HuggingChat instance to use.
     :return: The order to place for an inbound shipment.
     """
     # Nothing to predict if there is no data.
@@ -247,7 +252,7 @@ def predict(data: dict, forecast: int = 0, buffer: int = 0, power: int = 1, top:
                 model = "gpt-3.5"
             result = llm_predict(keywords, max_results, language, country, location, end_date, days, exclude_websites,
                                  trusted, model, delay, summarize, forecasting, folder, units, periods, previous,
-                                 prediction)
+                                 prediction, hugging_chat)
             if verbose:
                 print(f"{model} predicted demand over next {forecast + 1} periods is {result}.")
         # Use what is in inventory to contribute towards the predicted requirements.
@@ -446,6 +451,9 @@ def test(path: str, start: int = 1, memory: int = 1, lead: int = 1, forecast: in
         print("Choosing prediction by the average of all predictions.")
     if model is not None:
         print("Using LLM to forecast.")
+        hugging_chat = scraping.hugging_face()
+    else:
+        hugging_chat = None
     # Loop until the end of the data is reached.
     results = []
     start_time = time.time()
@@ -539,7 +547,7 @@ def test(path: str, start: int = 1, memory: int = 1, lead: int = 1, forecast: in
         # Get the order to be placed by the forecasting model.
         placed = predict(data, forecast, buffer, power, top, arima, svr, verbose, keywords, max_results, language,
                          country, location, dates[index - 1], days, exclude_websites, trusted, model, delay, summarize,
-                         forecasting, file_name, units, periods, previous, prediction)
+                         forecasting, file_name, units, periods, previous, prediction, hugging_chat)
         # Make the request for the order.
         if isinstance(placed, dict):
             # Ensure only valid items are ordered.

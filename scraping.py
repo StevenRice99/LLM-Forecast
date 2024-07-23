@@ -40,10 +40,7 @@ def hugging_face() -> hugchat.ChatBot or None:
     return None
 
 
-def chat(prompt: str, hugging_chat: hugchat.ChatBot or None = None, model: str = "gpt-3.5",
-         max_length: int = 16000) -> str:
-    if len(prompt) > max_length:
-        prompt = prompt[:max_length]
+def chat(prompt: str, hugging_chat: hugchat.ChatBot or None = None, model: str = "gpt-3.5") -> str:
     if hugging_chat is None:
         hugging_chat = hugging_face()
     message = None
@@ -356,7 +353,7 @@ def llm_predict(keywords: str or list or None = "COVID-19", max_results: int = 1
                 exclude_websites: list or None = None, trusted: list or None = None, model: str or None = None,
                 delay: float = 0, summarize: bool = True, forecasting: str = "COVID-19 hospitalizations",
                 folder: str = "COVID Ontario", units: str = "weeks", periods: int = 1, previous: list or None = None,
-                prediction: int or None = None) -> int:
+                prediction: int or None = None, hugging_chat: hugchat.ChatBot or None = None) -> int:
     """
     Make a prediction with a LLM.
     :param keywords: The keywords to search for.
@@ -377,6 +374,7 @@ def llm_predict(keywords: str or list or None = "COVID-19", max_results: int = 1
     :param periods: The number of periods to predict.
     :param previous: Previous values to help predict.
     :param prediction: A guide to help predict.
+    :param hugging_chat: HuggingChat instance to use.
     :return: The news articles.
     """
     articles = search_news(keywords, max_results, language, country, location, end_date, days, exclude_websites,
@@ -413,7 +411,7 @@ def llm_predict(keywords: str or list or None = "COVID-19", max_results: int = 1
         s += (f" An analytical forecasting model has predicted that over the next {forecast_units}, there will be "
               f"{prediction} {forecasting}{location}. Using your best judgement, you may choose to keep this value or "
               f"adjust it.")
-    s = chat(f"{s} {articles}", model=model)
+    s = chat(f"{s} {articles}", hugging_chat, model)
     s = s.split()
     predictions = []
     for p in s:
@@ -467,7 +465,7 @@ def prepare_articles(file: str, keywords: str or list or None = "COVID-19", max_
                      language: str = "en", country: str = "CA", location: str or None = "Ontario, Canada",
                      days: int = 7, exclude_websites: list or None = None, trusted: list or None = None,
                      model: str or None = None, delay: float = 0, summarize: bool = True,
-                     forecasting: str = "COVID-19 hospitalizations", max_length: int = 16000) -> None:
+                     forecasting: str = "COVID-19 hospitalizations") -> None:
     dates = parse_dates(file)
     folder = os.path.splitext(os.path.basename(file))[0]
     path = os.path.join("Data", "Articles", folder)
@@ -502,16 +500,6 @@ def prepare_articles(file: str, keywords: str or list or None = "COVID-19", max_
         if s.__contains__("Title: \n"):
             file = os.path.splitext(os.path.basename(file))[0]
             print(f"{file} has blank entries.")
-    for file in files:
-        file = os.path.join(path, file)
-        if not os.path.isfile(file):
-            continue
-        f = open(file, "r")
-        s = f.read()
-        f.close()
-        if len(s) > max_length:
-            file = os.path.splitext(os.path.basename(file))[0]
-            print(f"{file} --> {len(s)} > {max_length}.")
     untrusted = []
     for file in files:
         file = os.path.join(path, file)
@@ -565,4 +553,4 @@ if __name__ == '__main__':
          "University of Victoria", "University of Waterloo", "University of Winnipeg News", "Université de Montréal",
          "Washington University School of Medicine in St. Louis", "Western News", "Yale Medicine", "news.gov.mb.ca",
          "Wexner Medical Center - The Ohio State University", "Yale School of Medicine", "hss.gov.nt.ca"]
-    prepare_articles("Data/Dates/COVID Ontario.txt", trusted=t, delay=5, max_length=25000)
+    prepare_articles("Data/Dates/COVID Ontario.txt", trusted=t, delay=5)
