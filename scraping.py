@@ -76,7 +76,7 @@ def chat(prompt: str, hugging_chat: hugchat.ChatBot or None = None, model: str o
                 m = model[i]
                 break
         if m is None:
-            m = "Meta-Llama-3.1-405B"
+            m = "gpt-3.5"
         # noinspection PyBroadException
         try:
             message = DDGS().chat(prompt, model=m)
