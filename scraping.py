@@ -41,7 +41,9 @@ def hugging_face() -> hugchat.ChatBot or None:
     return None
 
 
-def chat(prompt: str, hugging_chat: hugchat.ChatBot or None = None, model: str = "gpt-3.5") -> str:
+def chat(prompt: str, hugging_chat: hugchat.ChatBot or None = None, model: str or list = "Meta-Llama-3.1-405B") -> str:
+    if isinstance(model, str):
+        model = [model]
     if hugging_chat is None:
         hugging_chat = hugging_face()
     message = None
@@ -50,6 +52,17 @@ def chat(prompt: str, hugging_chat: hugchat.ChatBot or None = None, model: str =
     if hugging_chat is not None:
         # noinspection PyBroadException
         try:
+            available = hugging_chat.get_available_llm_models()
+            selected = -1
+            for i in range(len(model)):
+                for j in range(len(available)):
+                    if model[i] in str(available[j]):
+                        selected = j
+                        break
+                if selected >= 0:
+                    break
+            if selected >= 0:
+                hugging_chat.switch_llm(selected)
             hugging_chat.new_conversation(switch_to=True)
             result = hugging_chat.chat(prompt)
             message = result.wait_until_done()
@@ -57,11 +70,16 @@ def chat(prompt: str, hugging_chat: hugchat.ChatBot or None = None, model: str =
         except:
             message = None
     if message is None:
-        if model is None or model not in ["gpt-3.5", "claude-3-haiku", "llama-3-70b", "mixtral-8x7b"]:
-            model = "gpt-3.5"
+        m = None
+        for i in range(len(model)):
+            if model[i] in ["gpt-3.5", "claude-3-haiku", "llama-3-70b", "mixtral-8x7b"]:
+                m = model[i]
+                break
+        if m is None:
+            m = "Meta-Llama-3.1-405B"
         # noinspection PyBroadException
         try:
-            message = DDGS().chat(prompt, model=model)
+            message = DDGS().chat(prompt, model=m)
         except:
             message = None
     if message is None:
@@ -85,7 +103,7 @@ def chat(prompt: str, hugging_chat: hugchat.ChatBot or None = None, model: str =
 
 
 def get_article(result: dict, driver, trusted: list, forecasting: str = "COVID-19 hospitalizations",
-                location: str or None = "Ontario, Canada", delay: float = 0, model: str = "gpt-3.5",
+                location: str or None = "Ontario, Canada", delay: float = 0, model: str or list = "Meta-Llama-3.1-405B",
                 hugging_chat: hugchat.ChatBot or None = None) -> dict or None:
     publisher = result["publisher"]["title"]
     title = result["title"].replace(publisher, "").strip().strip("-").strip()
@@ -191,7 +209,7 @@ def get_article(result: dict, driver, trusted: list, forecasting: str = "COVID-1
 def search_news(keywords: str or list or None = "COVID-19", max_results: int = 10, language: str = "en",
                 country: str = "CA", location: str or None = "Ontario, Canada",
                 end_date: tuple or datetime.datetime or None = None, days: int = 7,
-                exclude_websites: list or None = None, trusted: list or None = None, model: str or None = None,
+                exclude_websites: list or None = None, trusted: list or None = None, model: str or list or None = None,
                 delay: float = 0, forecasting: str = "COVID-19 hospitalizations", folder: str = "COVID Ontario") -> str:
     """
     Search the web for news.
@@ -351,7 +369,7 @@ def search_news(keywords: str or list or None = "COVID-19", max_results: int = 1
 def llm_predict(keywords: str or list or None = "COVID-19", max_results: int = 10, language: str = "en",
                 country: str = "CA", location: str or None = "Ontario, Canada",
                 end_date: tuple or datetime.datetime or None = None, days: int = 7,
-                exclude_websites: list or None = None, trusted: list or None = None, model: str or None = None,
+                exclude_websites: list or None = None, trusted: list or None = None, model: str or list or None = None,
                 delay: float = 0, forecasting: str = "COVID-19 hospitalizations",
                 folder: str = "COVID Ontario", units: str = "weeks", periods: int = 1, previous: list or None = None,
                 prediction: int or None = None, hugging_chat: hugchat.ChatBot or None = None) -> int:
@@ -464,7 +482,7 @@ def parse_dates(file: str) -> list:
 def prepare_articles(file: str, keywords: str or list or None = "COVID-19", max_results: int = 10,
                      language: str = "en", country: str = "CA", location: str or None = "Ontario, Canada",
                      days: int = 7, exclude_websites: list or None = None, trusted: list or None = None,
-                     model: str or None = None, delay: float = 0,
+                     model: str or list or None = None, delay: float = 0,
                      forecasting: str = "COVID-19 hospitalizations") -> None:
     dates = parse_dates(file)
     folder = os.path.splitext(os.path.basename(file))[0]

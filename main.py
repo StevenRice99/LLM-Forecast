@@ -104,7 +104,7 @@ def predict(data: dict, forecast: int = 0, buffer: int = 0, power: int = 1, top:
             keywords: str or list or None = "COVID-19", max_results: int = 100, language: str = "en",
             country: str = "CA", location: str or None = "Ontario, Canada",
             end_date: tuple or datetime.datetime or None = None, days: int = 7, exclude_websites: list or None = None,
-            trusted: list or None = None, model: str or None = None, delay: float = 0, summarize: bool = True,
+            trusted: list or None = None, model: str or list or None = None, delay: float = 0, summarize: bool = True,
             forecasting: str = "COVID-19 hospitalizations", folder: str = "COVID Ontario", units: str = "weeks",
             periods: int = 1, previous: list or None = None, prediction: int or None = None,
             hugging_chat: hugchat.ChatBot or None = None, max_order: int = 1000) -> dict:
@@ -249,8 +249,6 @@ def predict(data: dict, forecast: int = 0, buffer: int = 0, power: int = 1, top:
         if verbose:
             print(f"Predicted demand over next {forecast + 1} periods is {result}.")
         if model is not None:
-            if model not in ["gpt-3.5", "claude-3-haiku", "llama-3-70b", "mixtral-8x7b"]:
-                model = "gpt-3.5"
             result = llm_predict(keywords, max_results, language, country, location, end_date, days, exclude_websites,
                                  trusted, model, delay, summarize, forecasting, folder, units, periods, previous,
                                  prediction, hugging_chat)
@@ -292,8 +290,8 @@ def test(path: str, start: int = 1, memory: int = 1, lead: int = 1, forecast: in
          capacity: int = 0, power: int = 1, top: int = 1, arima: dict or None = None,
          svr: dict or None = None, verbose: bool = False, keywords: str or list or None = "COVID-19",
          max_results: int = 100, language: str = "en", country: str = "CA", location: str or None = "Ontario, Canada",
-         days: int = 7, exclude_websites: list or None = None, trusted: list or None = None, model: str or None = None,
-         delay: float = 0, summarize: bool = True, forecasting: str = "COVID-19 hospitalizations", units: str = "weeks",
+         days: int = 7, exclude_websites: list or None = None, trusted: list or None = None,
+         model: str or list or None = None, delay: float = 0, summarize: bool = True, forecasting: str = "COVID-19 hospitalizations", units: str = "weeks",
          periods: int = 1, previous: list or None = None, prediction: int or None = None,
          output: str or None = None, max_order: int = 1000) -> None:
     """
@@ -395,8 +393,8 @@ def test(path: str, start: int = 1, memory: int = 1, lead: int = 1, forecast: in
         forecast = 0
     if top < 0:
         top = 0
-    if model is not None and model not in ["gpt-3.5", "claude-3-haiku", "llama-3-70b", "mixtral-8x7b"]:
-        model = "gpt-3.5"
+    if model is not None and model not in ["Meta-Llama-3.1-405B", "claude-3-haiku", "llama-3-70b", "mixtral-8x7b"]:
+        model = "Meta-Llama-3.1-405B"
     # Build the name for the current test.
     name = (f"Start={start} Memory={original_memory if fixed_memory else 'All'} Lead={lead} "
             f"Forecast={forecast} Buffer={buffer} Capacity={capacity if capacity > 0 else 'None'} "
