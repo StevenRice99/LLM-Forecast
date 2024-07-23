@@ -1,4 +1,4 @@
-from scraping import chat, hugging_face
+from scraping import chat
 
 if __name__ == '__main__':
-    chat("Hello! How are you?", hugging_face())
+    print(chat("Write me a joke.", delay=5))

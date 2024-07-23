@@ -104,9 +104,9 @@ def predict(data: dict, forecast: int = 0, buffer: int = 0, power: int = 1, top:
             keywords: str or list or None = "COVID-19", max_results: int = 100, language: str = "en",
             country: str = "CA", location: str or None = "Ontario, Canada",
             end_date: tuple or datetime.datetime or None = None, days: int = 7, exclude_websites: list or None = None,
-            trusted: list or None = None, model: str or list or None = None, delay: float = 0, summarize: bool = True,
-            forecasting: str = "COVID-19 hospitalizations", folder: str = "COVID Ontario", units: str = "weeks",
-            periods: int = 1, previous: list or None = None, prediction: int or None = None,
+            trusted: list or None = None, model: str or list or None = None, attempts: int = 10, delay: float = 0,
+            forecasting: str = "COVID-19 hospitalizations", folder: str = "COVID Ontario",
+            units: str = "weeks", periods: int = 1, previous: list or None = None, prediction: int or None = None,
             hugging_chat: hugchat.ChatBot or None = None, max_order: int = 1000) -> dict:
     """
     Predict what to order for an inbound shipment.
@@ -128,8 +128,8 @@ def predict(data: dict, forecast: int = 0, buffer: int = 0, power: int = 1, top:
     :param exclude_websites: Websites to exclude.
     :param trusted: What websites should be labelled as trusted.
     :param model: Which model to use for LLM summaries.
+    :param attempts: The number of times to attempt LLM summarization.
     :param delay: How much to delay web queries by to ensure we do not hit limits.
-    :param summarize: Whether to summarize the results.
     :param forecasting: What is being forecast.
     :param folder: The name of the file to save the results.
     :param units: The units of predictions.
@@ -250,7 +250,7 @@ def predict(data: dict, forecast: int = 0, buffer: int = 0, power: int = 1, top:
             print(f"Predicted demand over next {forecast + 1} periods is {result}.")
         if model is not None:
             result = llm_predict(keywords, max_results, language, country, location, end_date, days, exclude_websites,
-                                 trusted, model, delay, summarize, forecasting, folder, units, periods, previous,
+                                 trusted, model, attempts, delay, forecasting, folder, units, periods, previous,
                                  prediction, hugging_chat)
             if verbose:
                 print(f"{model} predicted demand over next {forecast + 1} periods is {result}.")
@@ -291,9 +291,10 @@ def test(path: str, start: int = 1, memory: int = 1, lead: int = 1, forecast: in
          svr: dict or None = None, verbose: bool = False, keywords: str or list or None = "COVID-19",
          max_results: int = 100, language: str = "en", country: str = "CA", location: str or None = "Ontario, Canada",
          days: int = 7, exclude_websites: list or None = None, trusted: list or None = None,
-         model: str or list or None = None, delay: float = 0, summarize: bool = True, forecasting: str = "COVID-19 hospitalizations", units: str = "weeks",
-         periods: int = 1, previous: list or None = None, prediction: int or None = None,
-         output: str or None = None, max_order: int = 1000) -> None:
+         model: str or list or None = None, attempts: int = 10, delay: float = 0,
+         forecasting: str = "COVID-19 hospitalizations", units: str = "weeks", periods: int = 1,
+         previous: list or None = None, prediction: int or None = None, output: str or None = None,
+         max_order: int = 1000) -> None:
     """
     Test a forecasting model given a CSV file.
     :param path: The path to the file.
@@ -317,8 +318,8 @@ def test(path: str, start: int = 1, memory: int = 1, lead: int = 1, forecast: in
     :param exclude_websites: Websites to exclude.
     :param trusted: What websites should be labelled as trusted.
     :param model: Which model to use for LLM summaries.
+    :param attempts: The number of times to attempt LLM summarization.
     :param delay: How much to delay web queries by to ensure we do not hit limits.
-    :param summarize: Whether to summarize the results.
     :param forecasting: What is being forecast.
     :param units: The units of predictions.
     :param periods: The number of periods to predict.
@@ -550,8 +551,8 @@ def test(path: str, start: int = 1, memory: int = 1, lead: int = 1, forecast: in
                 i -= 1
         # Get the order to be placed by the forecasting model.
         placed = predict(data, forecast, buffer, power, top, arima, svr, verbose, keywords, max_results, language,
-                         country, location, dates[index - 1], days, exclude_websites, trusted, model, delay, summarize,
-                         forecasting, file_name, units, periods, previous, prediction, hugging_chat)
+                         country, location, dates[index - 1], days, exclude_websites, trusted, model, attempts, delay,
+                         forecasting, file_name, units, periods, previous, prediction, hugging_chat, max_order)
         # Make the request for the order.
         if isinstance(placed, dict):
             # Ensure only valid items are ordered.
@@ -612,7 +613,7 @@ def auto(path: str or list, start: int or list = 1, memory: int or list = 1, lea
          verbose: bool = False, keywords: str or list or None = "COVID-19", max_results: int = 100,
          language: str = "en", country: str = "CA", location: str or None = "Ontario, Canada",
          days: int = 7, exclude_websites: list or None = None, trusted: list or None = None,
-         model: str or None or list = None, delay: float = 0, summarize: bool = True,
+         model: str or None or list = None, attempts: int = 10, delay: float = 0,
          forecasting: str = "COVID-19 hospitalizations", units: str = "weeks", periods: int = 1,
          previous: list or None = None, prediction: int or None = None, output: str or None = None,
          max_order: int = 1000) -> None:
@@ -639,8 +640,8 @@ def auto(path: str or list, start: int or list = 1, memory: int or list = 1, lea
     :param exclude_websites: Websites to exclude.
     :param trusted: What websites should be labelled as trusted.
     :param model: Which model to use for LLM summaries.
+    :param attempts: The number of times to attempt LLM summarization.
     :param delay: How much to delay web queries by to ensure we do not hit limits.
-    :param summarize: Whether to summarize the results.
     :param forecasting: What is being forecast.
     :param units: The units of predictions.
     :param periods: The number of periods to predict.
@@ -690,5 +691,5 @@ def auto(path: str or list, start: int or list = 1, memory: int or list = 1, lea
                                                 for mo in model:
                                                     test(p, s, m, le, f, b, c, po, t, a, sv, verbose, keywords,
                                                          max_results, language, country, location, days,
-                                                         exclude_websites, trusted, mo, delay, summarize, forecasting,
-                                                         units, periods, previous, prediction, output)
+                                                         exclude_websites, trusted, mo, attempts, delay, forecasting,
+                                                         units, periods, previous, prediction, output, max_order)

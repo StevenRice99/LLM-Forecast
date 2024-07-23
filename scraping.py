@@ -41,7 +41,8 @@ def hugging_face() -> hugchat.ChatBot or None:
     return None
 
 
-def chat(prompt: str, hugging_chat: hugchat.ChatBot or None = None, model: str or list = "Meta-Llama-3.1-405B") -> str:
+def chat(prompt: str, hugging_chat: hugchat.ChatBot or None = None, model: str or list = "Meta-Llama-3.1-405B",
+         attempts: int = 10, delay: float = 0) -> str:
     if isinstance(model, str):
         model = [model]
     if hugging_chat is None:
@@ -61,12 +62,21 @@ def chat(prompt: str, hugging_chat: hugchat.ChatBot or None = None, model: str o
                         break
                 if selected >= 0:
                     break
-            if selected >= 0:
-                hugging_chat.switch_llm(selected)
-            hugging_chat.new_conversation(switch_to=True)
-            result = hugging_chat.chat(prompt)
-            message = result.wait_until_done()
-            hugging_chat.delete_all_conversations()
+            if selected < 0:
+                selected = 0
+            for i in range(attempts):
+                # noinspection PyBroadException
+                try:
+                    hugging_chat.delete_all_conversations()
+                    hugging_chat.new_conversation(modelIndex=selected, switch_to=True)
+                    result = hugging_chat.chat(prompt)
+                    message = result.wait_until_done()
+                    hugging_chat.delete_all_conversations()
+                except:
+                    if delay > 0:
+                        time.sleep(delay)
+                    continue
+                break
         except:
             message = None
     if message is None:
@@ -103,7 +113,8 @@ def chat(prompt: str, hugging_chat: hugchat.ChatBot or None = None, model: str o
 
 
 def get_article(result: dict, driver, trusted: list, forecasting: str = "COVID-19 hospitalizations",
-                location: str or None = "Ontario, Canada", delay: float = 0, model: str or list = "Meta-Llama-3.1-405B",
+                location: str or None = "Ontario, Canada", attempts: int = 10, delay: float = 0,
+                model: str or list = "Meta-Llama-3.1-405B",
                 hugging_chat: hugchat.ChatBot or None = None) -> dict or None:
     publisher = result["publisher"]["title"]
     title = result["title"].replace(publisher, "").strip().strip("-").strip()
@@ -157,7 +168,7 @@ def get_article(result: dict, driver, trusted: list, forecasting: str = "COVID-1
                            f"the article is not relevant for forecasting {forecasting}{location}, respond with "
                            f"\"FALSE\". Otherwise, if the article is relevant for forecasting {forecasting}{location}, "
                            f"respond with a brief summary, highlighting values most important for forecasting "
-                           f"{forecasting}{location}:\n\n{summary}", hugging_chat, model)
+                           f"{forecasting}{location}:\n\n{summary}", hugging_chat, model, attempts, delay)
             if delay > 0:
                 time.sleep(delay)
     # If the full article cannot be downloaded or the summarization fails, use the initial news info.
@@ -210,7 +221,8 @@ def search_news(keywords: str or list or None = "COVID-19", max_results: int = 1
                 country: str = "CA", location: str or None = "Ontario, Canada",
                 end_date: tuple or datetime.datetime or None = None, days: int = 7,
                 exclude_websites: list or None = None, trusted: list or None = None, model: str or list or None = None,
-                delay: float = 0, forecasting: str = "COVID-19 hospitalizations", folder: str = "COVID Ontario") -> str:
+                attempts: int = 10, delay: float = 0, forecasting: str = "COVID-19 hospitalizations",
+                folder: str = "COVID Ontario", driver=None) -> str:
     """
     Search the web for news.
     :param keywords: The keywords to search for.
@@ -223,9 +235,11 @@ def search_news(keywords: str or list or None = "COVID-19", max_results: int = 1
     :param exclude_websites: Websites to exclude.
     :param trusted: What websites should be labelled as trusted.
     :param model: Which model to use for LLM summaries.
+    :param attempts: The number of times to attempt LLM summarization.
     :param delay: How much to delay web queries by to ensure we do not hit limits.
     :param forecasting: What is being forecast.
     :param folder: The name of the file to save the results.
+    :param driver: Selenium Firefox driver.
     :return: The news articles.
     """
     # Configure the time period if one should be used.
@@ -249,8 +263,11 @@ def search_news(keywords: str or list or None = "COVID-19", max_results: int = 1
         trusted = []
     hugging_chat = hugging_face()
     # Set up Firefox web driver to handle Google News URL redirects.
-    service = Service(GeckoDriverManager().install())
-    driver = webdriver.Firefox(service=service)
+    if driver is None:
+        handle_driver = True
+        driver = webdriver.Firefox(service=Service(GeckoDriverManager().install()))
+    else:
+        handle_driver = False
     # Format all results.
     formatted = []
     if isinstance(location, str):
@@ -266,7 +283,7 @@ def search_news(keywords: str or list or None = "COVID-19", max_results: int = 1
         else:
             results = google_news.get_top_news()
         for result in results:
-            result = get_article(result, driver, trusted, forecasting, location, delay, model, hugging_chat)
+            result = get_article(result, driver, trusted, forecasting, location, attempts, delay, model, hugging_chat)
             if result is not None:
                 formatted.append(result)
         if delay > 0:
@@ -293,13 +310,15 @@ def search_news(keywords: str or list or None = "COVID-19", max_results: int = 1
                         break
                 # If this is a new result, format and append it.
                 if not match:
-                    result = get_article(result, driver, trusted, forecasting, location, delay, model, hugging_chat)
+                    result = get_article(result, driver, trusted, forecasting, location, attempts, delay, model,
+                                         hugging_chat)
                     if result is not None:
                         formatted.append(result)
             if delay > 0:
                 time.sleep(delay)
     # Close the web driver.
-    driver.quit()
+    if handle_driver:
+        driver.quit()
     # Sort results by newest to oldest.
     formatted = sorted(formatted, key=lambda val: (
             -val["Year"],
@@ -370,7 +389,7 @@ def llm_predict(keywords: str or list or None = "COVID-19", max_results: int = 1
                 country: str = "CA", location: str or None = "Ontario, Canada",
                 end_date: tuple or datetime.datetime or None = None, days: int = 7,
                 exclude_websites: list or None = None, trusted: list or None = None, model: str or list or None = None,
-                delay: float = 0, forecasting: str = "COVID-19 hospitalizations",
+                attempts: int = 10, delay: float = 0, forecasting: str = "COVID-19 hospitalizations",
                 folder: str = "COVID Ontario", units: str = "weeks", periods: int = 1, previous: list or None = None,
                 prediction: int or None = None, hugging_chat: hugchat.ChatBot or None = None) -> int:
     """
@@ -385,6 +404,7 @@ def llm_predict(keywords: str or list or None = "COVID-19", max_results: int = 1
     :param exclude_websites: Websites to exclude.
     :param trusted: What websites should be labelled as trusted.
     :param model: Which model to use for LLM summaries.
+    :param attempts: The number of times to attempt LLM summarization.
     :param delay: How much to delay web queries by to ensure we do not hit limits.
     :param forecasting: What is being forecast.
     :param folder: The name of the file to save the results.
@@ -396,7 +416,7 @@ def llm_predict(keywords: str or list or None = "COVID-19", max_results: int = 1
     :return: The news articles.
     """
     articles = search_news(keywords, max_results, language, country, location, end_date, days, exclude_websites,
-                           trusted, model, delay, forecasting, folder)
+                           trusted, model, attempts, delay, forecasting, folder)
     if isinstance(location, str):
         location = f" in {location}"
     else:
@@ -482,11 +502,22 @@ def parse_dates(file: str) -> list:
 def prepare_articles(file: str, keywords: str or list or None = "COVID-19", max_results: int = 10,
                      language: str = "en", country: str = "CA", location: str or None = "Ontario, Canada",
                      days: int = 7, exclude_websites: list or None = None, trusted: list or None = None,
-                     model: str or list or None = None, delay: float = 0,
+                     model: str or list or None = None, attempts: int = 10, delay: float = 0,
                      forecasting: str = "COVID-19 hospitalizations") -> None:
     dates = parse_dates(file)
     folder = os.path.splitext(os.path.basename(file))[0]
-    path = os.path.join("Data", "Articles", folder)
+    if not os.path.exists("Data"):
+        os.mkdir("Data")
+    if not os.path.exists("Data"):
+        return None
+    path = os.path.join("Data", "Articles")
+    if not os.path.exists(path):
+        os.mkdir(path)
+    if not os.path.exists(path):
+        return None
+    path = os.path.join(path, folder)
+    if not os.path.exists(path):
+        os.mkdir(path)
     if not os.path.exists(path):
         return None
     files = os.listdir(path)
@@ -503,10 +534,12 @@ def prepare_articles(file: str, keywords: str or list or None = "COVID-19", max_
         f = open(file, "w")
         f.write(s)
         f.close()
+    driver = webdriver.Firefox(service=Service(GeckoDriverManager().install()))
     for i in range(len(dates)):
         print(f"Preparing articles for time period {i + 1} of {len(dates)}.")
         search_news(keywords, max_results, language, country, location, dates[i], days, exclude_websites, trusted,
-                    model, delay, forecasting, folder)
+                    model, attempts, delay, forecasting, folder, driver)
+    driver.quit()
     files = os.listdir(path)
     for file in files:
         file = os.path.join(path, file)
