@@ -17,7 +17,7 @@ The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Ca
 Article 3 of 7
 Title: Study to assess COVID-19 vaccine effectiveness among people with HIV
 Publisher: Simon Fraser University News
-Trusted: False
+Trusted: True
 Posted: 3 days ago
 The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada, as it discusses a study that will track COVID-19 vaccine uptake and rates of SARS-CoV-2 infection and hospitalizations among 35,000 people living with HIV in B.C. and Ontario. The study aims to evaluate the effectiveness of COVID-19 vaccination in this population and investigate the impact of social determinants of health on vaccine effectiveness. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: 35,000 people living with HIV in B.C. and Ontario will be tracked for COVID-19 vaccine uptake and rates of SARS-CoV-2 infection and hospitalizations. The study will investigate the impact of social determinants of health on COVID-19 vaccine effectiveness. Earlier research has found that most existing vaccines require higher or additional doses to provide optimal protection for those living with HIV, which may inform forecasting models. The study's findings will help inform Canada's COVID-19 vaccine rollout and support the development of more effective immunization and public health strategies for vulnerable and diverse Canadians living with HIV.
 

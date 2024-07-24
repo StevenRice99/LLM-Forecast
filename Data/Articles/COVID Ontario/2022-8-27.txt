@@ -17,6 +17,6 @@ This article is relevant for forecasting COVID-19 hospitalizations in Ontario, C
 Article 3 of 3
 Title: Real-world study of the effectiveness of BBIBP-CorV (Sinopharm) COVID-19 vaccine in the Kingdom of Morocco - BMC Public Health
 Publisher: BMC Public Health
-Trusted: False
+Trusted: True
 Posted: 7 days ago
 This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada, as it provides real-world evidence of the effectiveness of the BBIBP-CorV vaccine in preventing severe or critical COVID-19 hospitalizations. The study found that: Primary series vaccination with BBIBP-CorV was 89% effective against serious or critical COVID-19 hospitalization among all age groups. Among working-age adults, 2-dose VE against serious/critical COVID-19 hospitalization was 96%. Among older adults, 2-dose VE was 53%. Adjusted VE was slightly higher among females than males. There were no serious/critical COVID-19 hospitalizations for any booster-dose recipients, regardless of age. These findings can inform forecasting models of COVID-19 hospitalizations in Ontario, Canada, particularly with regards to the effectiveness of vaccination in preventing severe outcomes. The study's results can also inform decision-making around vaccination strategies, including the importance of booster doses, especially for older adults.

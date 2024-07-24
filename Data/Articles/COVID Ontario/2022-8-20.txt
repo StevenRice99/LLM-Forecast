@@ -3,7 +3,7 @@ Below are 2 news articles from the past 7 days to help guide you in making your 
 Article 1 of 2
 Title: Real-world study of the effectiveness of BBIBP-CorV (Sinopharm) COVID-19 vaccine in the Kingdom of Morocco - BMC Public Health
 Publisher: BMC Public Health
-Trusted: False
+Trusted: True
 Posted: Today
 This article provides relevant information for forecasting COVID-19 hospitalizations in Ontario, Canada. The study evaluates the effectiveness of the BBIBP-CorV vaccine against severe or critical COVID-19 hospitalization in Morocco, which can inform vaccine effectiveness in other regions, including Ontario. Key values for forecasting COVID-19 hospitalizations in Ontario include: Vaccine effectiveness (VE) against severe or critical COVID-19 hospitalization: + 89% overall + 96% among working-age adults + 53% among older adults VE against hospital admission or death in Canada (using BNT162b2 vaccine): 98% Decreased effectiveness with older age, possibly due to comorbidities, slower vaccine-induced immune responses, and waning protection Importance of booster doses to sustain protection These findings can inform vaccine strategy and effectiveness in Ontario, which can, in turn, impact COVID-19 hospitalization forecasts.
 

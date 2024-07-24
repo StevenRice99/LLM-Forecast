@@ -3,7 +3,7 @@ Below are 4 news articles from the past 7 days to help guide you in making your 
 Article 1 of 4
 Title: Vaccines Remain Largely Effective Against Delta Variant, Counter to Claims From Fox News Guest
 Publisher: FactCheck.org
-Trusted: False
+Trusted: True
 Posted: 1 day ago
 This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. The article discusses the effectiveness of COVID-19 vaccines against the delta variant, which is crucial for understanding the potential impact on hospitalizations. Key points relevant to forecasting hospitalizations include: 1. Vaccine effectiveness: Studies suggest that vaccines are highly effective against severe disease and hospitalization, even against the delta variant. For example, Public Health England estimates that full vaccination lowers the risk of severe illness by 96% against the delta variant. 2. Breakthrough infections: While breakthrough infections can occur, they are relatively rare and often mild. The CDC notes that less than 3% of COVID-19 hospitalizations between January and May were in fully vaccinated people. 3. Age and immunocompromised individuals: The chance of having a breakthrough infection appears to go up with age and is more likely in people who are immunocompromised. 4. Booster shots: The CDC recommends an extra dose of the Pfizer/BioNTech and Moderna vaccines for certain people with weakened immune systems. These points suggest that vaccination is an effective tool in reducing hospitalizations due to COVID-19, even against the delta variant. However, it is essential to consider factors like age, immunocompromised individuals, and breakthrough infections when forecasting hospitalizations.
 

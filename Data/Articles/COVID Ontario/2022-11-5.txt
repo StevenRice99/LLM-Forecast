@@ -38,6 +38,6 @@ The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Ca
 Article 6 of 6
 Title: Flu Cases on the Rise in Thunder Bay District Health Unit
 Publisher: Thunder Bay District Health Unit
-Trusted: False
+Trusted: True
 Posted: 4 days ago
 The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: The Thunder Bay District Health Unit has reported a significant increase in flu cases over the past two weeks, indicating an early start to the flu season. This could potentially lead to an increase in hospitalizations due to the flu, which may also impact COVID-19 hospitalizations. The article emphasizes the importance of getting the flu shot, especially for high-risk individuals, to reduce the risk of hospitalizations and deaths from the flu. The article also mentions that COVID-19 is still circulating, and new sub-variants are expected, which could impact hospitalizations. The fact that individuals 5 years old or older can receive the COVID-19 and flu vaccines at the same time may also impact COVID-19 hospitalizations. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Early start to the flu season Increase in flu cases Emphasis on getting the flu shot, especially for high-risk individuals Continued circulation of COVID-19 and expected new sub-variants.

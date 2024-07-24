@@ -633,5 +633,7 @@ if __name__ == '__main__':
          "University of Kansas Medical Center", "University of Minnesota Twin Cities", "University of Utah Health Care",
          "University of Victoria", "University of Waterloo", "University of Winnipeg News", "Université de Montréal",
          "Washington University School of Medicine in St. Louis", "Western News", "Yale Medicine", "news.gov.mb.ca",
-         "Wexner Medical Center - The Ohio State University", "Yale School of Medicine", "hss.gov.nt.ca"]
+         "Wexner Medical Center - The Ohio State University", "Yale School of Medicine", "hss.gov.nt.ca",
+         "Thunder Bay District Health Unit", "FactCheck.org", "BMC Public Health", "CDC Emergency Preparedness",
+         "Simon Fraser University News"]
     prepare_articles("Data/Dates/COVID Ontario.txt", keywords=["COVID-19 Hospitalizations Ontario"], trusted=t, delay=5)

@@ -10,7 +10,7 @@ The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Ca
 Article 2 of 8
 Title: Mathematical modelling of vaccination rollout and NPIs lifting on COVID-19 transmission with VOC: a case study in Toronto, Canada - BMC Public Health
 Publisher: BMC Public Health
-Trusted: False
+Trusted: True
 Posted: 1 day ago
 This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. The article discusses the impact of vaccination coverage, non-pharmaceutical interventions (NPIs), and reopening strategies on COVID-19 cases, deaths, and hospitalizations in Ontario. The study uses a mathematical model to simulate different scenarios and estimate the effective reproduction number (Rc) under various conditions. The results suggest that vaccinating at least 50% of adults aged 20-59 is crucial to keep the reproduction number below 1, and that focusing on immunizing age groups 20-39 and 40-59 years can reduce deaths and hospitalizations after reopening. The study also highlights the importance of maintaining NPIs, such as social distancing and mask-wearing, to prevent the spread of the virus. Key values for forecasting COVID-19 hospitalizations in Ontario include: Vaccination coverage: 50% of adults aged 20-59 Effective reproduction number (Rc): below 1 Age groups: 20-39 and 40-59 years NPIs: maintaining social distancing and mask-wearing Reopening strategies: partial reopening in September, with a focus on vaccinating adults aged 20-59.
 
