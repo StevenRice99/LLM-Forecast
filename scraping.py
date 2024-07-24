@@ -74,10 +74,12 @@ def chat(prompt: str, hugging_chat: hugchat.ChatBot or None = None, model: str o
                     result = hugging_chat.chat(prompt)
                     message = result.wait_until_done()
                     hugging_chat.delete_all_conversations()
-                    break
+                    if message != "":
+                        break
                 except:
-                    if delay > 0:
-                        time.sleep(delay)
+                    pass
+                if delay > 0:
+                    time.sleep(delay)
         except:
             pass
     if message is None:
@@ -454,19 +456,19 @@ def llm_predict(keywords: str or list or None = "COVID-19", max_results: int = 1
         s += (f" An analytical forecasting model has predicted that over the next {forecast_units}, there will be "
               f"{prediction} {forecasting}{location}. Using your best judgement, you may choose to keep this value or "
               f"adjust it.")
-    s = chat(f"{s} {articles}", hugging_chat, model)
+    s = chat(f"{s} {articles}", hugging_chat, model, attempts, delay)
     s = s.split()
     predictions = []
     for p in s:
         # noinspection PyBroadException
         try:
-            p = int(p)
-            predictions.append(p)
+            parsed = int(p)
+            predictions.append(parsed)
         except:
             # noinspection PyBroadException
             try:
-                p = math.ceil(float(p))
-                predictions.append(p)
+                parsed= math.ceil(float(p))
+                predictions.append(parsed)
             except:
                 pass
     if len(predictions) < 1:
