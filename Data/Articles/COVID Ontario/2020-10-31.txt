@@ -1,4 +1,4 @@
-Below are 4 news articles from the past 7 days regarding COVID-19 Hospitalizations Ontario to help guide you in making your decision. Using your best judgement, take into consideration only the articles that are most relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Articles that are from know reputable sources have been flagged with "Trusted: True".
+Below are 4 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
 Article 1 of 4
 Title: Ontario reports more than 800 new cases of COVID-19, positivity rate at 2.8 per cent
@@ -12,7 +12,7 @@ Title: Sobering COVID-19 milestones reached by hardest hit Canadian provinces
 Publisher: Canada's National Observer
 Trusted: False
 Posted: 5 days ago
-TRUE. The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting the most important values: Ontario registered more than 1,000 single-day cases for the first time since the start of the pandemic, indicating a surge in cases. Quebec's COVID-19 reproduction number is slowly creeping lower, indicating people are following public health guidelines, but this is not the case in Ontario. Dr. Theresa Tam, Canada's top public health officer, expressed concern that Canada has not yet seen the full impact of the recent increase in COVID-19 cases, as hospitalizations and deaths generally lag behind case numbers. The week ahead will be crucial to bring Ontario's surging numbers back under control. These values suggest that Ontario's hospitalizations may increase in the near future due to the surge in cases, and that public health efforts are needed to bring the numbers back under control.
+The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting the most important values: Ontario registered more than 1,000 single-day cases for the first time since the start of the pandemic, indicating a surge in cases. Quebec's COVID-19 reproduction number is slowly creeping lower, indicating people are following public health guidelines, but this is not the case in Ontario. Dr. Theresa Tam, Canada's top public health officer, expressed concern that Canada has not yet seen the full impact of the recent increase in COVID-19 cases, as hospitalizations and deaths generally lag behind case numbers. The week ahead will be crucial to bring Ontario's surging numbers back under control. These values suggest that Ontario's hospitalizations may increase in the near future due to the surge in cases, and that public health efforts are needed to bring the numbers back under control.
 
 Article 3 of 4
 Title: 90 new cases of COVID-19 in Ottawa, Ontario sets one-day record for new cases

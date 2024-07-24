@@ -1,11 +1,11 @@
-Below are 5 news articles from the past 7 days regarding COVID-19 Hospitalizations Ontario to help guide you in making your decision. Using your best judgement, take into consideration only the articles that are most relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Articles that are from know reputable sources have been flagged with "Trusted: True".
+Below are 5 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
 Article 1 of 5
 Title: Grab your tissues: Canada’s flu season has officially begun, officials say
 Publisher: Global News Toronto
 Trusted: False
 Posted: 1 day ago
-TRUE. The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the values most important for forecasting: As of Nov. 25, the COVID-19 test positivity rate in Ontario was 20%, indicating a high level of circulating COVID-19 cases. Wastewater surveillance and hospitalizations also show climbing COVID-19 cases in Canada. Dr. Allison McGeer, an infectious diseases specialist, is concerned about the low uptake of the new COVID XBB-variant vaccine, which could lead to more hospitalizations and deaths from COVID-19 this year compared to last year. The article also mentions that the flu season has started in Canada, which could put additional pressure on hospitals and emergency departments, particularly in pediatrics. These values suggest that COVID-19 hospitalizations in Ontario, Canada may increase in the coming weeks and months, especially if vaccine uptake remains low.
+The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the values most important for forecasting: As of Nov. 25, the COVID-19 test positivity rate in Ontario was 20%, indicating a high level of circulating COVID-19 cases. Wastewater surveillance and hospitalizations also show climbing COVID-19 cases in Canada. Dr. Allison McGeer, an infectious diseases specialist, is concerned about the low uptake of the new COVID XBB-variant vaccine, which could lead to more hospitalizations and deaths from COVID-19 this year compared to last year. The article also mentions that the flu season has started in Canada, which could put additional pressure on hospitals and emergency departments, particularly in pediatrics. These values suggest that COVID-19 hospitalizations in Ontario, Canada may increase in the coming weeks and months, especially if vaccine uptake remains low.
 
 Article 2 of 5
 Title: Forget the ‘tripledemic.’ The U.S. is headed for a ‘syndemic’ this 2023 winter—and experts warn we’re not prepared

@@ -1,11 +1,11 @@
-Below are 4 news articles from the past 7 days regarding COVID-19 Hospitalizations Ontario to help guide you in making your decision. Using your best judgement, take into consideration only the articles that are most relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Articles that are from know reputable sources have been flagged with "Trusted: True".
+Below are 4 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
 Article 1 of 4
 Title: Ontario scraps mandatory five-day isolation rules for people with COVID-19
 Publisher: CTV News Toronto
 Trusted: False
 Posted: 3 days ago
-TRUE The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting values most important for forecasting: The Ontario government has scrapped the mandatory 5-day isolation rule for individuals who test positive for COVID-19, replacing it with a voluntary isolation period until symptoms end, followed by 24 hours before returning to work or school. Masks are recommended for 10 days after the end of the voluntary isolation period, but not mandatory. The approach is part of an "all respiratory virus approach" to address an expected rise in general illnesses in the fall. The government is relying on improved ventilation and cleaning policies in schools and workplaces to reduce the spread of the virus. The policy applies to everyone regardless of vaccination status. These changes may impact the spread of COVID-19 in Ontario, which could in turn affect hospitalization rates. The fact that individuals are only covered for three paid sick days under the temporary pandemic program, which is set to expire in March 2023, may also influence people's behavior and decision to stay home when ill, potentially affecting hospitalization rates.
+The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting values most important for forecasting: The Ontario government has scrapped the mandatory 5-day isolation rule for individuals who test positive for COVID-19, replacing it with a voluntary isolation period until symptoms end, followed by 24 hours before returning to work or school. Masks are recommended for 10 days after the end of the voluntary isolation period, but not mandatory. The approach is part of an "all respiratory virus approach" to address an expected rise in general illnesses in the fall. The government is relying on improved ventilation and cleaning policies in schools and workplaces to reduce the spread of the virus. The policy applies to everyone regardless of vaccination status. These changes may impact the spread of COVID-19 in Ontario, which could in turn affect hospitalization rates. The fact that individuals are only covered for three paid sick days under the temporary pandemic program, which is set to expire in March 2023, may also influence people's behavior and decision to stay home when ill, potentially affecting hospitalization rates.
 
 Article 2 of 4
 Title: Expert predicts 'massive eighth wave' after Ont. lifts COVID isolation rules
@@ -26,4 +26,3 @@ Title: N.B. reports 4 more COVID-19 deaths, rise in hospital admissions, active 
 Publisher: CBC.ca
 Trusted: False
 Posted: 4 days ago
-TRUE

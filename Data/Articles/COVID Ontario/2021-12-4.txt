@@ -1,11 +1,11 @@
-Below are 3 news articles from the past 7 days regarding COVID-19 Hospitalizations Ontario to help guide you in making your decision. Using your best judgement, take into consideration only the articles that are most relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Articles that are from know reputable sources have been flagged with "Trusted: True".
+Below are 3 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
 Article 1 of 3
 Title: Ottawa leading Ontario in vaccinating children ages 5-11
 Publisher: CTV News Ottawa
 Trusted: False
 Posted: 1 day ago
-TRUE. The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting values most important for forecasting: Vaccination rates among children aged 5-11 in Ottawa are higher than the province-wide average (25% vs 14.4%). Ottawa Public Health has the capacity to vaccinate 77,000 eligible children within four weeks. The health unit is increasing efforts to vaccinate children through pop-up clinics at 73 schools, which may lead to an increase in vaccination rates. These values are important for forecasting COVID-19 hospitalizations in Ontario, Canada, as they indicate a potential decrease in hospitalizations due to increased vaccination rates among children, which can help reduce the spread of the virus.
+The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting values most important for forecasting: Vaccination rates among children aged 5-11 in Ottawa are higher than the province-wide average (25% vs 14.4%). Ottawa Public Health has the capacity to vaccinate 77,000 eligible children within four weeks. The health unit is increasing efforts to vaccinate children through pop-up clinics at 73 schools, which may lead to an increase in vaccination rates. These values are important for forecasting COVID-19 hospitalizations in Ontario, Canada, as they indicate a potential decrease in hospitalizations due to increased vaccination rates among children, which can help reduce the spread of the virus.
 
 Article 2 of 3
 Title: Critical Care Capacity During the COVID-19 Pandemic

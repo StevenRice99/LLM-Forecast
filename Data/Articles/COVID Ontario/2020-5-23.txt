@@ -1,4 +1,4 @@
-Below are 4 news articles from the past 7 days regarding COVID-19 Hospitalizations Ontario to help guide you in making your decision. Using your best judgement, take into consideration only the articles that are most relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Articles that are from know reputable sources have been flagged with "Trusted: True".
+Below are 4 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
 Article 1 of 4
 Title: Ontario recommending masks for public transit riders as 390 new COVID-19 cases confirmed
@@ -12,14 +12,12 @@ Title: 'Culture shift' needed to accept wearing masks: Dr. Etches
 Publisher: CTV News Ottawa
 Trusted: False
 Posted: 3 days ago
-TRUE
 
 Article 3 of 4
 Title: Ottawa Public Health develops COVID-19 assessment tool for businesses
 Publisher: CTV News Ottawa
 Trusted: False
 Posted: 3 days ago
-TRUE
 
 Article 4 of 4
 Title: Ontario shuts schools until September because of COVID-19 pandemic

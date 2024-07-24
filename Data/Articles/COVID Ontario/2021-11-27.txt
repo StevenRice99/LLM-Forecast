@@ -1,4 +1,4 @@
-Below are 4 news articles from the past 7 days regarding COVID-19 Hospitalizations Ontario to help guide you in making your decision. Using your best judgement, take into consideration only the articles that are most relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Articles that are from know reputable sources have been flagged with "Trusted: True".
+Below are 4 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
 Article 1 of 4
 Title: Evidence-Based Recommendations on the Use of Anti-SARS-CoV-2 Monoclonal Antibodies (Casirivimab + Imdevimab, and Sotrovimab) for Adults in Ontario
@@ -19,7 +19,7 @@ Title: Tens of thousands of COVID-19 vaccine appointments for Ottawa kids 5 to 1
 Publisher: CTV News Ottawa
 Trusted: False
 Posted: 5 days ago
-TRUE This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada, as it provides information about the rollout of COVID-19 vaccines for children aged 5-11 in Ottawa. The article highlights the following values important for forecasting COVID-19 hospitalizations: Vaccination capacity: 2,000 appointments available initially, increasing to 60,000 appointments starting Friday, with plans to offer first doses to all 77,000 children in the city within four weeks. Vaccination locations: Multiple community clinics, neighbourhood vaccination hubs, after-school pop-up clinics, pharmacies, and doctors' offices will be offering vaccinations. Vaccine availability: Pfizer-BioNTech's paediatric formula has been authorized for use, with a recommended dosage schedule of two doses administered eight weeks apart. This information can be used to forecast a potential decrease in COVID-19 hospitalizations in Ontario, particularly among children, as vaccination rates increase.
+This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada, as it provides information about the rollout of COVID-19 vaccines for children aged 5-11 in Ottawa. The article highlights the following values important for forecasting COVID-19 hospitalizations: Vaccination capacity: 2,000 appointments available initially, increasing to 60,000 appointments starting Friday, with plans to offer first doses to all 77,000 children in the city within four weeks. Vaccination locations: Multiple community clinics, neighbourhood vaccination hubs, after-school pop-up clinics, pharmacies, and doctors' offices will be offering vaccinations. Vaccine availability: Pfizer-BioNTech's paediatric formula has been authorized for use, with a recommended dosage schedule of two doses administered eight weeks apart. This information can be used to forecast a potential decrease in COVID-19 hospitalizations in Ontario, particularly among children, as vaccination rates increase.
 
 Article 4 of 4
 Title: What you need to know about COVID-19 in Ottawa on Saturday, Nov. 20

@@ -335,20 +335,11 @@ def search_news(keywords: str or list or None = "COVID-19", max_results: int = 1
     s = ""
     if len(formatted) > 0:
         days = f" from the past {days} day{'s' if days > 1 else ''}" if days > 0 else ""
-        if keywords is None:
-            words = ""
-        else:
-            words = f" regarding {keywords[0]}"
-            for i in range(1, len(keywords)):
-                if i == len(keywords) - 1:
-                    words += f"{',' if len(keywords) > 2 else ''} or {keywords[i]}"
-                else:
-                    words += f", {keywords[i]}"
         single = len(formatted) == 1
-        s += (f"Below {'is' if single else 'are'} {len(formatted)} news article{'' if single else 's'}{days}{words} to "
-              f"help guide you in making your decision. Using your best judgement, take into consideration only the "
-              f"articles that are most relevant for forecasting {forecasting}{location}. Articles that are from know "
-              f"reputable sources have been flagged with \"Trusted: True\".")
+        s += (f"Below {'is' if single else 'are'} {len(formatted)} news article{'' if single else 's'}{days} to help "
+              f"guide you in making your decision. Using your best judgement, take into consideration only the articles"
+              f" that are most relevant for forecasting {forecasting}{location}. Articles that are from know reputable "
+              f"sources have been flagged with \"Trusted: True\".")
         # Add every result.
         for i in range(len(formatted)):
             result = formatted[i]
@@ -533,9 +524,22 @@ def prepare_articles(file: str, keywords: str or list or None = "COVID-19", max_
         f = open(file, "r")
         s = f.read()
         f.close()
+        s = s.replace("Article 1 of 1", "")
+        s = s.replace("Below is 1 news article from the past", "Below is a news article from the past")
         for publisher in trusted:
             core = f"Publisher: {publisher}\nTrusted: "
             s = s.replace(f"{core}False", f"{core}True")
+        s = s.replace("TRUE: ", "")
+        s = s.replace("TRUE. ", "")
+        s = s.replace("TRUE:", "")
+        s = s.replace("TRUE.", "")
+        s = s.replace("TRUE:", "")
+        s = s.replace("TRUE", "")
+        while s.__contains__("\n "):
+            s = s.replace("\n ", "\n")
+        while s.__contains__("\n\n\n"):
+            s = s.replace("\n\n\n", "\n\n")
+        s = s.replace("Articlesthat", "Articles that")
         f = open(file, "w")
         f.write(s)
         f.close()
@@ -567,6 +571,20 @@ def prepare_articles(file: str, keywords: str or list or None = "COVID-19", max_
         if len(s) > 16000:
             file = os.path.splitext(os.path.basename(file))[0]
             print(f"{file} too long.")
+    for file in files:
+        file = os.path.join(path, file)
+        if not os.path.isfile(file):
+            continue
+        f = open(file, "r")
+        s = f.read()
+        f.close()
+        file = os.path.splitext(os.path.basename(file))[0]
+        count = s.count("FALSE") - 1
+        if count > 0:
+            print(f"{file} has {count} FALSE entries.")
+        count = s.count("TRUE")
+        if count > 0:
+            print(f"{file} has {count} TRUE entries.")
     untrusted = []
     for file in files:
         file = os.path.join(path, file)

@@ -1,4 +1,4 @@
-Below are 4 news articles from the past 7 days regarding COVID-19 Hospitalizations Ontario to help guide you in making your decision. Using your best judgement, take into consideration only the articles that are most relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Articles that are from know reputable sources have been flagged with "Trusted: True".
+Below are 4 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
 Article 1 of 4
 Title: What you need to know about COVID-19 in Ottawa on Saturday, Nov. 20
@@ -12,7 +12,7 @@ Title: Eastern Ontario pharmacies to offer COVID-19 testing to symptomatic custo
 Publisher: CTV News Ottawa
 Trusted: False
 Posted: 1 day ago
-TRUE. The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting the values most important for forecasting: Hundreds of pharmacies across Ontario will now offer COVID-19 testing to people showing symptoms, increasing access to testing. Up to 1,300 pharmacies have expressed interest in participating, with on-boarding happening over the next couple of weeks. Symptomatic tests must be done by appointment, reducing the risk of transmission to other patrons. Pharmacists have the option to perform tests outdoors, further reducing transmission risk. These changes may lead to increased testing and detection of COVID-19 cases, potentially reducing hospitalizations. However, the impact on hospitalizations will depend on various factors, such as the effectiveness of testing, contact tracing, and isolation measures.
+The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting the values most important for forecasting: Hundreds of pharmacies across Ontario will now offer COVID-19 testing to people showing symptoms, increasing access to testing. Up to 1,300 pharmacies have expressed interest in participating, with on-boarding happening over the next couple of weeks. Symptomatic tests must be done by appointment, reducing the risk of transmission to other patrons. Pharmacists have the option to perform tests outdoors, further reducing transmission risk. These changes may lead to increased testing and detection of COVID-19 cases, potentially reducing hospitalizations. However, the impact on hospitalizations will depend on various factors, such as the effectiveness of testing, contact tracing, and isolation measures.
 
 Article 3 of 4
 Title: What you need to know about COVID-19 in Ottawa on Thursday, Nov. 18

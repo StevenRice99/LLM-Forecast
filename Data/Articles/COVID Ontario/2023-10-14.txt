@@ -1,4 +1,4 @@
-Below are 4 news articles from the past 7 days regarding COVID-19 Hospitalizations Ontario to help guide you in making your decision. Using your best judgement, take into consideration only the articles that are most relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Articles that are from know reputable sources have been flagged with "Trusted: True".
+Below are 4 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
 Article 1 of 4
 Title: Canadian cannabis legalization linked to increased and decreased hospitalization, depending on the province
@@ -12,7 +12,6 @@ Title: COVID-19 trends high and stable in and around Ottawa
 Publisher: CBC.ca
 Trusted: False
 Posted: 2 days ago
-TRUE
 
 Article 3 of 4
 Title: Here is when flu and COVID-19 vaccines will be available in Ottawa

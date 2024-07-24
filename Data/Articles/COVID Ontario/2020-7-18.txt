@@ -1,25 +1,24 @@
-Below are 4 news articles from the past 7 days regarding COVID-19 Hospitalizations Ontario to help guide you in making your decision. Using your best judgement, take into consideration only the articles that are most relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Articles that are from know reputable sources have been flagged with "Trusted: True".
+Below are 4 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
 Article 1 of 4
 Title: You don't need to wear a mask while exercising at the gym: Dr. Etches
 Publisher: CTV News Ottawa
 Trusted: False
 Posted: 4 days ago
-TRUE
 
 Article 2 of 4
 Title: Social bubbles will increase to 20-25 'at some point': Dr. Roumeliotis
 Publisher: CTV News Ottawa
 Trusted: False
 Posted: 4 days ago
-TRUE The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada, as it discusses changes in social gathering limits and the potential expansion of social bubbles, which could impact the spread of COVID-19. Key points relevant to forecasting hospitalizations include: Indoor gathering limits increasing from 10 to 50 people Outdoor gathering limits increasing to 100 people Social bubbles currently limited to 10 people, but expected to expand to 20-25 people, which could lead to increased transmission Potential for elementary schools to return to five-day-a-week schedules, with classrooms forming social circles of 20-25 students, which could also contribute to increased transmission. These changes could lead to increased social interactions and potentially higher transmission rates, which could impact hospitalization rates in Ontario.
+The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada, as it discusses changes in social gathering limits and the potential expansion of social bubbles, which could impact the spread of COVID-19. Key points relevant to forecasting hospitalizations include: Indoor gathering limits increasing from 10 to 50 people Outdoor gathering limits increasing to 100 people Social bubbles currently limited to 10 people, but expected to expand to 20-25 people, which could lead to increased transmission Potential for elementary schools to return to five-day-a-week schedules, with classrooms forming social circles of 20-25 students, which could also contribute to increased transmission. These changes could lead to increased social interactions and potentially higher transmission rates, which could impact hospitalization rates in Ontario.
 
 Article 3 of 4
 Title: Ottawa residents ‘need to do things a bit differently’ as we enter Stage 3: Dr. Etches
 Publisher: CTV News Ottawa
 Trusted: False
 Posted: 4 days ago
-TRUE This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada, as it discusses the reopening plan in Ottawa and the potential risks associated with increased gatherings and activities. Key points relevant to forecasting hospitalizations include: The medical officer of health, Dr. Vera Etches, emphasizes the need to continue physical distancing and wearing masks indoors to limit the risks of COVID-19 transmission. The article mentions that the number of cases and hospitalizations in Ottawa are currently stable, but the risk of outbreaks remains. The reopening plan allows for increased gathering limits, which could potentially lead to an increase in cases and hospitalizations if not managed properly. Certain high-risk businesses and activities, such as amusement parks and buffet-style food services, remain closed to mitigate the risk of transmission. Dr. Etches advises older adults and those at higher risk of severe disease to exercise caution and consider delaying participation in certain activities. These points highlight the ongoing need for caution and monitoring as Ontario reopens, which is crucial for forecasting COVID-19 hospitalizations.
+This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada, as it discusses the reopening plan in Ottawa and the potential risks associated with increased gatherings and activities. Key points relevant to forecasting hospitalizations include: The medical officer of health, Dr. Vera Etches, emphasizes the need to continue physical distancing and wearing masks indoors to limit the risks of COVID-19 transmission. The article mentions that the number of cases and hospitalizations in Ottawa are currently stable, but the risk of outbreaks remains. The reopening plan allows for increased gathering limits, which could potentially lead to an increase in cases and hospitalizations if not managed properly. Certain high-risk businesses and activities, such as amusement parks and buffet-style food services, remain closed to mitigate the risk of transmission. Dr. Etches advises older adults and those at higher risk of severe disease to exercise caution and consider delaying participation in certain activities. These points highlight the ongoing need for caution and monitoring as Ontario reopens, which is crucial for forecasting COVID-19 hospitalizations.
 
 Article 4 of 4
 Title: Ontario reports slight dip in new COVID-19 cases

@@ -1,4 +1,4 @@
-Below are 3 news articles from the past 7 days regarding COVID-19 Hospitalizations Ontario to help guide you in making your decision. Using your best judgement, take into consideration only the articles that are most relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Articles that are from know reputable sources have been flagged with "Trusted: True".
+Below are 3 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
 Article 1 of 3
 Title: The epidemiology of COVID-19 outbreaks in farms in Ontario, Canada, in the pre-vaccine year of the pandemic
@@ -12,11 +12,10 @@ Title: A Tale of 2 Countries: Uncovering COVID-19 Mortality Patterns in the US a
 Publisher: Contagionlive.com
 Trusted: False
 Posted: 3 days ago
-TRUE
 
 Article 3 of 3
 Title: Data shows COVID-19 hospitalizations, severe outcomes continue to decline, but we must remain vigilant: experts
 Publisher: CTV News
 Trusted: False
 Posted: 5 days ago
-TRUE. The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Key points relevant to forecasting COVID-19 hospitalizations in Ontario, Canada: Hospitalization numbers in Canada have been on a steady decline since winter and continue to trend downward as summer approaches. Ontario has moved to weekly reporting of COVID-19 cases, hospitalizations, and deaths. Wastewater testing has become a crucial part of COVID-19 surveillance, providing an effective and efficient way to measure the spread of the virus in the population. The latest numbers from PHAC show there are still more than 2,000 people in hospital and about 130 in ICU due to COVID-19. Experts caution that while the trend is downward, COVID-19 is still present and will continue to put pressure on the healthcare system. Vaccination rates and natural immunity from past infections are likely contributing to the decrease in hospitalizations. Booster shots for vulnerable populations are still necessary to improve protection. These points provide valuable information for forecasting COVID-19 hospitalizations in Ontario, Canada, highlighting the importance of continued surveillance and monitoring of the virus's spread.
+The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Key points relevant to forecasting COVID-19 hospitalizations in Ontario, Canada: Hospitalization numbers in Canada have been on a steady decline since winter and continue to trend downward as summer approaches. Ontario has moved to weekly reporting of COVID-19 cases, hospitalizations, and deaths. Wastewater testing has become a crucial part of COVID-19 surveillance, providing an effective and efficient way to measure the spread of the virus in the population. The latest numbers from PHAC show there are still more than 2,000 people in hospital and about 130 in ICU due to COVID-19. Experts caution that while the trend is downward, COVID-19 is still present and will continue to put pressure on the healthcare system. Vaccination rates and natural immunity from past infections are likely contributing to the decrease in hospitalizations. Booster shots for vulnerable populations are still necessary to improve protection. These points provide valuable information for forecasting COVID-19 hospitalizations in Ontario, Canada, highlighting the importance of continued surveillance and monitoring of the virus's spread.

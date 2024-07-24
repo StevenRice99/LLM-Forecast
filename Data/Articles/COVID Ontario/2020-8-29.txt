@@ -1,11 +1,10 @@
-Below are 5 news articles from the past 7 days regarding COVID-19 Hospitalizations Ontario to help guide you in making your decision. Using your best judgement, take into consideration only the articles that are most relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Articles that are from know reputable sources have been flagged with "Trusted: True".
+Below are 5 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
 Article 1 of 5
 Title: Twenty-two new cases of COVID-19 in Ottawa on Thursday
 Publisher: CTV News Ottawa
 Trusted: False
 Posted: 2 days ago
-TRUE
 
 Article 2 of 5
 Title: Back-to-school shopping amid COVID-19: What you need for September
@@ -19,7 +18,7 @@ Title: Ontario unveils detailed plan on dealing with COVID-19 outbreaks in schoo
 Publisher: CTV News Toronto
 Trusted: False
 Posted: 3 days ago
-TRUE This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada, as it outlines the plans for managing COVID-19 outbreaks in schools, which can impact the number of cases and hospitalizations in the province. Key points relevant to forecasting COVID-19 hospitalizations include: The definition of an outbreak as two or more cases in students or staff with an epidemiological link within a 14-day period, with at least one case transmitted within the school. The protocols for isolating students and staff who test positive for COVID-19, including a 14-day isolation period and the requirement for clearance from a local public health unit or healthcare provider before returning to school. The procedures for contact tracing, including the use of detailed records and the COVID-19 Alert app. The criteria for declaring an outbreak over, including a 14-day period with no evidence of ongoing transmission related to the school. The potential for school closures in the event of an outbreak, which could impact the number of cases and hospitalizations in the province. These details can inform forecasting models by providing insight into the potential spread of COVID-19 in schools and the measures in place to mitigate transmission.
+This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada, as it outlines the plans for managing COVID-19 outbreaks in schools, which can impact the number of cases and hospitalizations in the province. Key points relevant to forecasting COVID-19 hospitalizations include: The definition of an outbreak as two or more cases in students or staff with an epidemiological link within a 14-day period, with at least one case transmitted within the school. The protocols for isolating students and staff who test positive for COVID-19, including a 14-day isolation period and the requirement for clearance from a local public health unit or healthcare provider before returning to school. The procedures for contact tracing, including the use of detailed records and the COVID-19 Alert app. The criteria for declaring an outbreak over, including a 14-day period with no evidence of ongoing transmission related to the school. The potential for school closures in the event of an outbreak, which could impact the number of cases and hospitalizations in the province. These details can inform forecasting models by providing insight into the potential spread of COVID-19 in schools and the measures in place to mitigate transmission.
 
 Article 4 of 5
 Title: Hamilton's low income and racialized neighbourhoods have higher COVID-19 rates: study

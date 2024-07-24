@@ -1,4 +1,4 @@
-Below are 8 news articles from the past 7 days regarding COVID-19 Hospitalizations Ontario to help guide you in making your decision. Using your best judgement, take into consideration only the articles that are most relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Articles that are from know reputable sources have been flagged with "Trusted: True".
+Below are 8 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
 Article 1 of 8
 Title: Canada unlikely to follow U.S. approach to easing COVID-19 masking rules: doctor
@@ -33,21 +33,20 @@ Title: Ottawa residents 40 and older now eligible to book COVID-19 vaccine appoi
 Publisher: CTV News Ottawa
 Trusted: False
 Posted: 2 days ago
-TRUE. The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting values most important for forecasting: Approximately 51,000 appointments are available to receive the COVID-19 vaccine in Ottawa until mid-June, which could lead to an increase in vaccination rates and potentially reduce hospitalizations. Eligibility for vaccination has expanded to new age groups (40 and older) and at-risk groups, which could also lead to increased vaccination rates and reduced hospitalizations. As of Wednesday, 47% of residents aged 18 and older in Ottawa have received at least the first dose of the COVID-19 vaccine, which provides a baseline for vaccination rates in the region. The pause on administering the AstraZeneca COVID-19 vaccine may have a minor impact on Ottawa's vaccine rollout, but is not expected to significantly impact mass immunization clinics and pop-up clinics. These values can be used to inform forecasting models of COVID-19 hospitalizations in Ontario, Canada, particularly in the Ottawa region.
+The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting values most important for forecasting: Approximately 51,000 appointments are available to receive the COVID-19 vaccine in Ottawa until mid-June, which could lead to an increase in vaccination rates and potentially reduce hospitalizations. Eligibility for vaccination has expanded to new age groups (40 and older) and at-risk groups, which could also lead to increased vaccination rates and reduced hospitalizations. As of Wednesday, 47% of residents aged 18 and older in Ottawa have received at least the first dose of the COVID-19 vaccine, which provides a baseline for vaccination rates in the region. The pause on administering the AstraZeneca COVID-19 vaccine may have a minor impact on Ottawa's vaccine rollout, but is not expected to significantly impact mass immunization clinics and pop-up clinics. These values can be used to inform forecasting models of COVID-19 hospitalizations in Ontario, Canada, particularly in the Ottawa region.
 
 Article 6 of 8
 Title: Latest restrictions help bring down local COVID-19 hospitalizations, Cambridge doctor says
 Publisher: CTV News Kitchener
 Trusted: False
 Posted: 3 days ago
-TRUE. The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: The latest lockdown has helped reduce the number of people receiving hospital treatment for COVID-19, according to Dr. Asim Masood, Chief of Staff at Cambridge Memorial Hospital. The lockdown, combined with increased vaccination efforts, has eased the burden on the healthcare system. Vaccinated individuals are less likely to end up in ICU, which is a key factor in reducing hospitalizations. There is a backlog of 2,400 non-emergency surgeries that need to be rescheduled, indicating the impact of COVID-19 on hospital capacity. The Ontario Medical Association recommends extending current lockdown measures past May 20, suggesting that the province is not yet ready to lift restrictions. These points suggest that the lockdown and vaccination efforts are having a positive impact on reducing hospitalizations, but there is still a significant burden on the healthcare system, and caution should be exercised when considering lifting restrictions.
+The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: The latest lockdown has helped reduce the number of people receiving hospital treatment for COVID-19, according to Dr. Asim Masood, Chief of Staff at Cambridge Memorial Hospital. The lockdown, combined with increased vaccination efforts, has eased the burden on the healthcare system. Vaccinated individuals are less likely to end up in ICU, which is a key factor in reducing hospitalizations. There is a backlog of 2,400 non-emergency surgeries that need to be rescheduled, indicating the impact of COVID-19 on hospital capacity. The Ontario Medical Association recommends extending current lockdown measures past May 20, suggesting that the province is not yet ready to lift restrictions. These points suggest that the lockdown and vaccination efforts are having a positive impact on reducing hospitalizations, but there is still a significant burden on the healthcare system, and caution should be exercised when considering lifting restrictions.
 
 Article 7 of 8
 Title: Nearly 800 fines issued to returning travellers who refused to quarantine
 Publisher: CTV News
 Trusted: False
 Posted: 3 days ago
-TRUE
 
 Article 8 of 8
 Title: Ontario could reopen more outdoor spaces, science table adviser says
