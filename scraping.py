@@ -169,7 +169,14 @@ def get_article(result: dict, driver, trusted: list, forecasting: str = "COVID-1
                       f" not relevant for forecasting {forecasting}{location}, respond with \"FALSE\". Otherwise, if "
                       f"the article is relevant for forecasting {forecasting}{location}, respond with a brief summary, "
                       f"highlighting values most important for forecasting {forecasting}{location}:\n\n{summary}")
-            summary = chat(prompt, hugging_chat, model, attempts, delay).strip()
+            summary = chat(prompt, hugging_chat, model, attempts, delay)
+            summary = summary.replace("TRUE: ", "")
+            summary = summary.replace("TRUE. ", "")
+            summary = summary.replace("TRUE:", "")
+            summary = summary.replace("TRUE.", "")
+            summary = summary.replace("TRUE:", "")
+            summary = summary.replace("TRUE", "")
+            summary = summary.strip()
             if delay > 0:
                 time.sleep(delay)
     # If the full article cannot be downloaded or the summarization fails, use the initial news info.
@@ -182,8 +189,7 @@ def get_article(result: dict, driver, trusted: list, forecasting: str = "COVID-1
             or summary.startswith("I apologize, ") or summary.startswith("FALSE")):
         return None
     title = valid_encoding(title)
-    if summary is not None:
-        summary = valid_encoding(summary)
+    summary = valid_encoding(summary)
     # Parse the date.
     published_date = result["published date"].split(" ")
     if published_date[2] == "Jan":
@@ -336,10 +342,10 @@ def search_news(keywords: str or list or None = "COVID-19", max_results: int = 1
     if len(formatted) > 0:
         days = f" from the past {days} day{'s' if days > 1 else ''}" if days > 0 else ""
         single = len(formatted) == 1
-        s += (f"Below {'is' if single else 'are'} {len(formatted)} news article{'' if single else 's'}{days} to help "
-              f"guide you in making your decision. Using your best judgement, take into consideration only the articles"
-              f" that are most relevant for forecasting {forecasting}{location}. Articles that are from know reputable "
-              f"sources have been flagged with \"Trusted: True\".")
+        count = "a" if single else f"{len(formatted)}"
+        s += (f"Below {'is' if single else 'are'} {count} news article{'' if single else 's'}{days} to help guide you "
+              f"in making your decision. Articles that are from known reputable sources have been flagged with "
+              f"\"Trusted: True\".")
         # Add every result.
         for i in range(len(formatted)):
             result = formatted[i]
@@ -350,8 +356,11 @@ def search_news(keywords: str or list or None = "COVID-19", max_results: int = 1
                 posted = "Today"
             else:
                 posted = f"{days} day{'s' if days > 1 else ''} ago"
-            s += (f"\n\nArticle {i + 1} of {len(formatted)}\nTitle: {result['Title']}\nPublisher: {result['Publisher']}"
-                  f"\nTrusted: {result['Trusted']}\nPosted: {posted}")
+            s += "\n\n"
+            if len(formatted) > 1:
+                s += f"Article {i + 1} of {len(formatted)}\n"
+            s += (f"Title: {result['Title']}\nPublisher: {result['Publisher']}\nTrusted: {result['Trusted']}"
+                  f"\nPosted: {posted}")
             if result["Summary"] is not None:
                 s += f"\n{result['Summary']}"
     if not os.path.exists("Data"):
@@ -524,22 +533,9 @@ def prepare_articles(file: str, keywords: str or list or None = "COVID-19", max_
         f = open(file, "r")
         s = f.read()
         f.close()
-        s = s.replace("Article 1 of 1", "")
-        s = s.replace("Below is 1 news article from the past", "Below is a news article from the past")
         for publisher in trusted:
             core = f"Publisher: {publisher}\nTrusted: "
             s = s.replace(f"{core}False", f"{core}True")
-        s = s.replace("TRUE: ", "")
-        s = s.replace("TRUE. ", "")
-        s = s.replace("TRUE:", "")
-        s = s.replace("TRUE.", "")
-        s = s.replace("TRUE:", "")
-        s = s.replace("TRUE", "")
-        while s.__contains__("\n "):
-            s = s.replace("\n ", "\n")
-        while s.__contains__("\n\n\n"):
-            s = s.replace("\n\n\n", "\n\n")
-        s = s.replace("Articlesthat", "Articles that")
         f = open(file, "w")
         f.write(s)
         f.close()
