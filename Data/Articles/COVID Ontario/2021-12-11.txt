@@ -1,0 +1,36 @@
+Below are 5 news articles from the past 7 days regarding COVID-19 Hospitalizations Ontario to help guide you in making your decision. Using your best judgement, take into consideration only the articles that are most relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Articles that are from know reputable sources have been flagged with "Trusted: True".
+
+Article 1 of 5
+Title: COVID-19 outbreak forces Sudbury's Valley View Public School to close
+Publisher: CTV News Northern Ontario
+Trusted: False
+Posted: 3 days ago
+TRUE This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting the values most important for forecasting: 12 confirmed COVID-19 cases involving students at Valley View Public School in Sudbury as of Dec. 9 Widespread COVID-19 transmission at the school, leading to its closure 363 active COVID-19 infections in the Sudbury and Manitoulin districts as of Dec. 9 50 new cases and 1 COVID-related death reported in the Sudbury and Manitoulin districts These values indicate a significant outbreak in the Sudbury area, which could potentially lead to an increase in hospitalizations. The number of active cases and new cases reported can be used to forecast the potential demand on hospitals in the region.
+
+Article 2 of 5
+Title: Health System News A Shortcut to Immunity: St. Joe’s Clinic Saving Lives through Early-Stage COVID-19 Treatment
+Publisher: Ontario Hospital Association
+Trusted: False
+Posted: 4 days ago
+This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Summary: A new pilot program at St. Joseph's Healthcare Hamilton is offering monoclonal antibody (MAB) therapy to patients with early-stage COVID-19, which has shown a 71% reduction in hospitalizations and a 70% reduction in death. The therapy is particularly effective for unvaccinated individuals or those who are immune-compromised and have not built up COVID-19 antibodies. The program aims to reduce hospitalizations and alleviate strain on the healthcare system, especially during the winter months when hospitals are busiest. Initial feedback has been positive, but there are also considerations about allocating resources to unvaccinated patients during a pandemic. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: 71% reduction in hospitalizations and 70% reduction in death due to MAB therapy Target population: unvaccinated individuals or those who are immune-compromised Potential impact on reducing hospitalizations and alleviating strain on the healthcare system during peak winter months.
+
+Article 3 of 5
+Title: Ontario's COVID-19 paid sick days to extend into 2022
+Publisher: CBC.ca
+Trusted: False
+Posted: 4 days ago
+TRUE. The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: The Ontario government is extending its COVID-19 sick pay program until July 31, 2022, which may help reduce the spread of COVID-19 by allowing employees to take paid time off for vaccination, symptoms, or caring for a sick family member. The province is currently averaging more new daily cases of COVID-19 than at any point in the past six months, and the COVID-19 Science Advisory Table projects that infection numbers will continue to rise into January. The extension of the sick pay program may help mitigate the impact of the projected increase in cases on hospitalizations. Key values for forecasting COVID-19 hospitalizations in Ontario, Canada: Average daily cases of COVID-19: currently higher than at any point in the past six months Projected increase in infection numbers: expected to continue into January Number of paid sick days taken: over 235,000 employees have taken sick pay, with over $80 million reimbursed to employers.
+
+Article 4 of 5
+Title: Merck to make its COVID-19 antiviral pill in Canada, company announces
+Publisher: Global News
+Trusted: False
+Posted: 5 days ago
+This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Merck is partnering with Thermo Fisher Scientific in Whitby, Ontario to manufacture its oral COVID-19 antiviral pill, molnupiravir. The pill has been shown to reduce hospitalizations and deaths in high-risk individuals by around 30%. The facility in Whitby is "up and running" and ready to ship the treatment once it receives approval from Health Canada. The federal government has agreed to purchase 500,000 courses of molnupiravir, with an option to add 500,000 more pending approval. The availability of antiviral pills could potentially limit the strain of COVID-19 on Canada's healthcare system by reducing the effects of the virus, but they don't prevent the problem. These points are relevant for forecasting COVID-19 hospitalizations in Ontario, Canada because they suggest that: A new treatment option may soon be available to reduce hospitalizations and deaths from COVID-19. The treatment has shown some efficacy in reducing hospitalizations and deaths in high-risk individuals. The manufacturing facility is located in Ontario, which could potentially improve access to the treatment for Ontarians. The federal government is investing in the purchase and distribution of the treatment, which could impact hospitalization rates in Ontario. Overall, this article provides information on a new treatment option that could potentially impact COVID-19 hospitalizations in Ontario, Canada, and is therefore relevant for forecasting purposes.
+
+Article 5 of 5
+Title: On COVID restrictions, our governments keep firing up the gaslights and shifting the goalposts
+Publisher: CBC News
+Trusted: False
+Posted: 7 days ago
+This article is not directly relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. The article is an opinion piece discussing the author's concerns about government overreach, vaccine passports, and the shifting of goalposts in COVID-19 policies. While it mentions some data on COVID-19 cases and hospitalizations in Ontario, the focus is on critiquing government policies rather than providing information useful for forecasting hospitalizations. However, there are a few points that could be indirectly relevant: The article mentions that new case numbers in Ontario are essentially split evenly between the unvaccinated and fully vaccinated, which could suggest that vaccination status may not be a strong predictor of hospitalizations. The article also mentions that there had been zero hospitalizations in the 5-11 age group in the past two weeks at the time of Ontario's Chief Medical Officer of Health Kieran Moore's statement, which could indicate that hospitalizations in this age group are relatively rare. Overall, the article is more focused on critiquing government policies than providing data or insights directly relevant to forecasting COVID-19 hospitalizations in Ontario. Therefore, I would rate this article as FALSE in terms of its relevance for forecasting COVID-19 hospitalizations in Ontario, Canada.

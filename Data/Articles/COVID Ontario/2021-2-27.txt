@@ -1,0 +1,36 @@
+Below are 5 news articles from the past 7 days regarding COVID-19 Hospitalizations Ontario to help guide you in making your decision. Using your best judgement, take into consideration only the articles that are most relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Articles that are from know reputable sources have been flagged with "Trusted: True".
+
+Article 1 of 5
+Title: A Strategy for the Mass Distribution of COVID-19 Vaccines in Ontario Based on Age and Neighbourhood
+Publisher: Ontario COVID-19 Science Advisory Table
+Trusted: True
+Posted: 1 day ago
+This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. The article provides data on the incidence of SARS-CoV-2 infections, hospitalizations, ICU admissions, and deaths in Ontario, particularly among older adults and residents of disadvantaged urban neighborhoods. The study highlights the disproportionate impact of COVID-19 on these populations and suggests that a mass distribution strategy for COVID-19 vaccines that prioritizes both age and neighborhood of residence could prevent a significant number of deaths and hospitalizations. Key values for forecasting COVID-19 hospitalizations in Ontario, Canada, include: The incidence of SARS-CoV-2 infections, hospitalizations, ICU admissions, and deaths in Ontario, particularly among older adults and residents of disadvantaged urban neighborhoods. The cumulative incidence of SARS-CoV-2 infections in Ontario neighborhoods, with the highest incidence found in Toronto, Peel, York, and Windsor-Essex regions. The strong association between COVID-19 deaths and hospitalizations and an individual's age and neighborhood of residence. The potential impact of a mass distribution strategy for COVID-19 vaccines that prioritizes both age and neighborhood of residence, which could prevent a projected additional 3,767 cases of SARS-CoV-2 infections, 1,849 hospitalizations, 383 ICU admissions, and 702 deaths between March 1 and May 31, 2021. Overall, this article provides valuable insights into the epidemiology of COVID-19 in Ontario, Canada, and highlights the importance of considering both age and neighborhood of residence in vaccine distribution strategies to prevent COVID-19 hospitalizations and deaths.
+
+Article 2 of 5
+Title: Ontario records more than 1,200 new COVID-19 cases, marking fourth daily increase
+Publisher: CTV News Toronto
+Trusted: False
+Posted: 1 day ago
+TRUE. This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Key values for forecasting COVID-19 hospitalizations in Ontario, Canada: Daily case counts: 1,258 new infections (fourth straight day of increasing cases) Seven-day average: 1,114 cases (down from 1,206 one week ago) Test positivity rate: 2.3% Hospitalizations: 683 patients (284 in ICU, 193 on ventilators) Active cases: 10,294 (down from 10,550 one week ago) Variants of concern: 477 cases of UK variant (B.1.1.7), 14 cases of South African variant (B.1.351), and 2 cases of Brazilian variant (P.1) Vaccinations: 643,765 doses administered, 258,014 total vaccinations completed These values provide insight into the current trend of COVID-19 cases, hospitalizations, and vaccinations in Ontario, which can be used to forecast future hospitalizations.
+
+Article 3 of 5
+Title: COVID-19 variants likely to make up 40 per cent of Ontario cases by mid-March, hospitalizations expected to climb
+Publisher: CTV News Toronto
+Trusted: False
+Posted: 2 days ago
+This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Summary: COVID-19 variants are expected to make up 40% of all Ontario cases by the second week of March, leading to a likely increase in daily infections and hospitalizations. Modelling data suggests that in the worst-case scenario, Ontario could see 4,000 new infections daily by the end of March, with 2,500 cases per day in a more likely scenario, and 500 daily infections in the best-case scenario. The number of COVID-19 patients in the ICU could rise back up to 350 by the end of March in the worst-case scenario, making it "impossible" to handle non-COVID-19 needs in hospitals. Hospitalizations and ICU admissions are expected to increase as the COVID-19 variants spread across the province. The province has seen a significant decrease in daily COVID-19 infections over the last two months, but the decline has started to level off. Key values for forecasting COVID-19 hospitalizations in Ontario, Canada: 40%: expected proportion of COVID-19 variants in Ontario cases by the second week of March 4,000: daily infections in the worst-case scenario by the end of March 2,500: daily infections in a more likely scenario by the end of March 500: daily infections in the best-case scenario by the end of March 350: number of COVID-19 patients in the ICU in the worst-case scenario by the end of March 150: number of COVID-19 patients in the ICU that makes it harder to support non-COVID-19 needs in hospitals
+
+Article 4 of 5
+Title: Ontario records more than 1,100 new COVID-19 cases, 23 deaths
+Publisher: CTV News Toronto
+Trusted: False
+Posted: 2 days ago
+TRUE. The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the key points: New cases: 1,138 (up from 1,054 on Wednesday) 7-day average: 1,098 (up from 1,015 one week ago) Test positivity rate: 2% Hospitalizations: 687 (down from 758 one week ago) ICU patients: 283 (up from 277 one week ago) Ventilator patients: 182 (down from 192 one week ago) Active cases: 10,071 (down from 10,702 one week ago) Vaccinations: 621,960 doses administered (255,449 completed vaccinations) These values are important for forecasting COVID-19 hospitalizations in Ontario, Canada, as they provide information on the current trend of cases, hospitalizations, and vaccinations, which can help predict future hospitalization rates.
+
+Article 5 of 5
+Title: 'Total hell': PSW describes working through COVID-19 outbreak at Ont. long-term care home
+Publisher: CTV News
+Trusted: False
+Posted: 2 days ago
+TRUE The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada, as it provides information on a significant outbreak of the B.1.1.7 variant at a long-term care home in Barrie, Ontario. Key values for forecasting COVID-19 hospitalizations in Ontario, Canada, mentioned in the article include: 129 residents tested positive for COVID-19 at Roberta Place long-term care home 71 residents died from the virus 105 staff members, including the personal support worker interviewed, tested positive for the virus The B.1.1.7 variant played a significant role in the spread of the virus through the facility COVID-19 infections in Canadian health-care workers have tripled since the summer, totaling over 65,000 since the start of the pandemic. These values highlight the severity of the outbreak and the impact of the B.1.1.7 variant on long-term care homes and healthcare workers in Ontario, which can inform forecasting models for COVID-19 hospitalizations in the province.

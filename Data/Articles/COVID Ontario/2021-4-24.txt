@@ -1,0 +1,57 @@
+Below are 8 news articles from the past 7 days regarding COVID-19 Hospitalizations Ontario to help guide you in making your decision. Using your best judgement, take into consideration only the articles that are most relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Articles that are from know reputable sources have been flagged with "Trusted: True".
+
+Article 1 of 8
+Title: A Vaccination Strategy for Ontario COVID-19 Hotspots and Essential Workers
+Publisher: Ontario COVID-19 Science Advisory Table
+Trusted: True
+Posted: 1 day ago
+This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Summary: The article highlights the disparities in COVID-19 vaccination coverage across Ontario, with neighborhoods having the highest risk of SARS-CoV-2 infection having the lowest rates of vaccination. The study suggests that accelerating vaccination of essential workers, their families, and other residents living in COVID-19 hotspots could substantially reduce the overall incidence of SARS-CoV-2 infections, COVID-19 hospitalizations, ICU admissions, and deaths in both younger and older Ontarians. Key values for forecasting COVID-19 hospitalizations in Ontario, Canada: 14% reduction in COVID-19 hospitalizations with the hotspot-accelerated vaccination strategy compared to the initial strategy. 14% reduction in COVID-19 ICU admissions with the hotspot-accelerated vaccination strategy compared to the initial strategy. 11% reduction in COVID-19 deaths with the hotspot-accelerated vaccination strategy compared to the initial strategy. 3 million doses of COVID-19 vaccine administered over 30 days, with 50% allocated to hotspots and 50% distributed equally across the province. 37 vaccinations needed to prevent 1 confirmed SARS-CoV-2 infection with the initial strategy, compared to 22 with the hotspot-accelerated strategy. These values can be used to inform forecasting models and estimate the potential impact of different vaccination strategies on COVID-19 hospitalizations in Ontario, Canada.
+
+Article 2 of 8
+Title: Ontario reports 3,469 COVID-19 cases, 22 deaths as hospitalizations top 2,300
+Publisher: CHCH News
+Trusted: False
+Posted: 3 days ago
+This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: 3,469 new cases of COVID-19 reported on Tuesday 22 new deaths reported 10% positivity rate (based on test date) 2,360 COVID-19 patients currently hospitalized (up from 2,202 on Monday) 773 patients in intensive care (with 537 on ventilators) 7,757 total deaths reported 3,369 cases marked as resolved These values provide insight into the current state of COVID-19 spread and hospitalizations in Ontario, which can be used to inform forecasting models. Specifically, the increasing number of hospitalizations and intensive care patients suggests a worsening situation, while the positivity rate and number of new cases provide context for the current level of transmission.
+
+Article 3 of 8
+Title: New COVID-19 cases in Ontario drop below 3,500 as hospitalizations climb higher
+Publisher: CTV News Toronto
+Trusted: False
+Posted: 4 days ago
+This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: The number of new COVID-19 cases in Ontario has dropped to 3,469, but hospitalizations have reached a record high of 2,360 patients, with 773 in intensive care units (ICUs) and 537 on ventilators. The seven-day average for new cases is 4,318, up from 3,868 last week. The positivity rate is 10%, based on 40,596 tests processed in the last 24 hours. There are currently 42,941 active cases of COVID-19 in Ontario. The province has reported 424,911 lab-confirmed cases of COVID-19, including 374,213 recoveries and 7,757 deaths. The COVID-19 variant case total is nearing 40,000, with 2,697 new infections confirmed in the last 24 hours. Vaccination efforts have administered 3,995,187 shots, with 347,000 people fully vaccinated. These values are important for forecasting COVID-19 hospitalizations in Ontario, Canada, as they provide information on the current state of the pandemic, including the number of new cases, hospitalizations, and vaccinations. This information can be used to inform models and predict future hospitalization rates.
+
+Article 4 of 8
+Title: COVID-19 is 'not a joke': ICU staff at Cambridge Memorial Hospital brace for surge in patients
+Publisher: CBC.ca
+Trusted: False
+Posted: 4 days ago
+TRUE. The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting values most important for forecasting: As of Monday afternoon, 39 people were hospitalized with COVID-19 in Waterloo region, with 13 COVID-19 patients in the medicine unit and 8 in the ICU at Cambridge Memorial Hospital. The hospital has added new critical-care beds to cope with the influx of patients, but space is growing tighter by the day. Patients are showing up in the ICU sicker and in worse shape than ever before, and COVID-19 is affecting not just lungs but also hearts, kidneys, and livers. The ICU staff is worried about the lack of specially trained staff and the possibility of having to tell patients' families that there are no beds or ventilators available. The article mentions that over 600 patients are taking up ICU beds in Ontario, which is a huge number for one certain diagnosis. The ICU staff is urging people to take COVID-19 seriously, follow public health guidelines, get vaccinated, and stay home when sick. These values suggest an increasing trend in COVID-19 hospitalizations in Waterloo region, with a high demand for ICU beds and a shortage of specially trained staff. This information can be used to inform forecasting models and predict future hospitalization rates in Ontario, Canada.
+
+Article 5 of 8
+Title: Strategies to Manage Tocilizumab Supply During the COVID-19 Pandemic
+Publisher: Ontario COVID-19 Science Advisory Table
+Trusted: True
+Posted: 5 days ago
+TRUE The article discusses the use of tocilizumab, an interleukin-6 inhibitor, in treating COVID-19 patients in Ontario, Canada. The article highlights the challenges in allocating and distributing tocilizumab due to a worldwide shortage and the need for a risk-based approach to ensure equitable access to the medication. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: The increasing number of patients hospitalized with COVID-19 and eligible for treatment with tocilizumab during Ontario's third wave of COVID-19. The limited supply of tocilizumab and the need for a risk-based approach to allocation and distribution. The potential for tocilizumab demand to exceed supply in the coming weeks based on projected hospitalizations and ICU admissions. The variability in centre-to-centre use of tocilizumab and the potential for inequities in access due to geography. The need for an ethical, evidence-based framework to inform allocation and use of limited tocilizumab supply. These values can be used to inform forecasting models and predict the potential impact of tocilizumab shortages on COVID-19 hospitalizations in Ontario, Canada.
+
+Article 6 of 8
+Title: Manitoba offers ventilators, PPE to Ontario as hospitals overwhelmed with COVID-19 patients
+Publisher: CBC.ca
+Trusted: False
+Posted: 5 days ago
+This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Ontario reported 4,447 cases of COVID-19 and 19 more deaths on Monday. The number of people in hospital is 2,202, with 755 in intensive care units and 516 patients needing a ventilator to breathe. Manitoba is offering assistance to Ontario, including making medical equipment available and calling on retired health-care workers to assist in Ontario hospitals. Manitoba has a surplus of health-care equipment, including ventilators and personal protective equipment, which could be used to support Ontario's health-care system. The values most important for forecasting COVID-19 hospitalizations in Ontario, Canada, from this article are: The number of cases and deaths reported in Ontario (4,447 cases and 19 deaths) The number of people in hospital, ICU, and requiring ventilators in Ontario (2,202, 755, and 516, respectively) These values provide insight into the current state of the pandemic in Ontario and can be used to inform forecasting models.
+
+Article 7 of 8
+Title: More than 4,200 new COVID-19 cases reported in Ontario, hospitalizations reach 2,100
+Publisher: CTV News Toronto
+Trusted: False
+Posted: 6 days ago
+This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: New cases: 4,250 ( fifth straight day above 4,000) Hospitalizations: 2,107 (record high) ICU patients: 741 Ventilator patients: 506 Active cases: 41,588 7-day average cases: 4,341 (up from 3,573 a week ago) Positivity rate: 9.2% Vaccinations: 3,837,881 doses administered, 345,310 people fully vaccinated These values indicate a continued high level of COVID-19 activity in Ontario, with increasing hospitalizations and ICU admissions. The positivity rate and 7-day average cases are also increasing, suggesting a potential upward trend in cases. The vaccination numbers are also relevant, as they may impact future hospitalization rates.
+
+Article 8 of 8
+Title: Ontario records more than 4,300 new COVID-19 cases as hospitalizations cross 2,000
+Publisher: CTV News Toronto
+Trusted: False
+Posted: 7 days ago
+This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: New cases: 4,362 (a decrease from the previous day's record-breaking 4,812 cases) Hospitalizations: 2,065 (the highest number ever reported by the province) ICU admissions: 726 (a record high) Positivity rate: 6.9% (based on 56,852 tests processed in the last 24 hours) Active cases: 40,694 Seven-day average for new cases: 4,370 (up from 3,370 this time last week) Vaccinations: 3,751,316 administered, with 344,244 people fully vaccinated (having received both first and second shots) These values provide insight into the current state of the pandemic in Ontario, including the number of new cases, hospitalizations, and ICU admissions, which are all important indicators for forecasting COVID-19 hospitalizations. Additionally, the positivity rate and active cases provide context for the spread of the disease, while the vaccination numbers offer insight into the province's progress in vaccinating its population.

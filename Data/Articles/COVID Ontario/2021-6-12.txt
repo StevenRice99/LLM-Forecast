@@ -1,0 +1,43 @@
+Below are 6 news articles from the past 7 days regarding COVID-19 Hospitalizations Ontario to help guide you in making your decision. Using your best judgement, take into consideration only the articles that are most relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Articles that are from know reputable sources have been flagged with "Trusted: True".
+
+Article 1 of 6
+Title: Hospitals don't feel like they're out of 3rd COVID wave, says St. Mary's General president
+Publisher: CBC.ca
+Trusted: False
+Posted: 1 day ago
+TRUE This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting values most important for forecasting: Current hospitalization numbers: 34 people in hospitals, 20 in intensive care units (ICU) in Waterloo region. Trend: Despite daily case numbers trending downward, hospitalizations remain high, and periodic upward spikes are observed. Delta variant: Confirmed presence in the region, with concerns about its high transmissibility and potential to lead to a fourth wave. Vaccination rates: Increasing, but the slower drop in case counts suggests the delta variant may be more present in the community. Public health measures: Emphasis on following measures to curb the spread, such as limiting close contact, gathering outdoors, maintaining physical distance, wearing face coverings, and getting vaccinated. Hospital capacity: Increased hospitalizations will impact the ability to ramp up surgeries, with frontline workers reported to be very tired. Patient characteristics: Those admitted to hospital are "quite symptomatic and quite critically ill", with multiple family members requiring admissions. These values are important for forecasting COVID-19 hospitalizations in Ontario, Canada, as they provide insight into current trends, the presence of the delta variant, and the impact on hospital capacity.
+
+Article 2 of 6
+Title: Your guide to COVID-19 reopenings: what you can do — and when — in each province
+Publisher: CBC.ca
+Trusted: False
+Posted: 2 days ago
+This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. The article discusses the reopening plans for various provinces in Canada, including Ontario, and the criteria for moving to Phase 2 of these plans. For Ontario, the criteria include: 70% of adults vaccinated with one dose 20% of adults vaccinated with two doses Positive trends in public health and health system indicators The article also mentions that Ontario will remain in Phase 1 for at least 21 days before moving to Phase 2. The values most important for forecasting COVID-19 hospitalizations in Ontario, Canada, are: Vaccination rates (first and second doses) Public health and health system indicators (e.g. case counts, hospitalizations) Timeline for moving to Phase 2 (June 11 + 21 days) These values can inform forecasting models and help predict the potential impact of reopening on COVID-19 hospitalizations in Ontario.
+
+Article 3 of 6
+Title: Ontario reports 469 new COVID cases Tuesday
+Publisher: TimminsToday
+Trusted: False
+Posted: 4 days ago
+This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: 621 people are currently hospitalized with COVID-19 in Ontario, up from 547 yesterday. 36 new hospitalizations were reported since yesterday's update. 11 more COVID patients were admitted to intensive care units. 481 patients are in intensive care units because of COVID-19 (down from 497 yesterday). 305 COVID patients are on ventilators (down from 339 reported yesterday). The province reported a 2.7% positivity rate from 17,579 tests processed yesterday. The average weekly incidence rate in Ontario is 38.1 cases per 100,000 people, down by 27.2% from the prior seven-day period. These values provide insight into the current hospitalization numbers, new hospitalizations, ICU admissions, and positivity rates, which can be used to forecast future hospitalizations.
+
+Article 4 of 6
+Title: Ontario to enter Step 1 of reopening Friday, outdoor dining and non-essential retail to resume
+Publisher: CityNews
+Trusted: False
+Posted: 5 days ago
+This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: The Ontario government is reopening parts of the economy and entering Step 1 of its reopening plan, which will allow for outdoor gatherings, patio dining, and limited non-essential retail shopping. The province has reached a vaccination milestone, with nearly 70% of Ontarians over the age of 12 having received their first dose of a COVID-19 vaccine. Hospitalizations due to COVID-19 have fallen to 545, with 510 patients in the ICU. The rolling seven-day average of cases has fallen to below 800 for the first time since the fall. The province will remain in Step One for at least 21 days to assess impacts on key public health and health system indicators. These values suggest that COVID-19 hospitalizations in Ontario may continue to decline as vaccination rates increase and public health measures are gradually lifted. However, it is essential to monitor the situation closely to ensure that the reopening does not lead to a surge in cases and hospitalizations.
+
+Article 5 of 6
+Title: Cortellucci Vaughan Hospital opens as ‘full-service hospital’ after being exclusively for COVID
+Publisher: Global News
+Trusted: False
+Posted: 6 days ago
+TRUE The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting values most important for forecasting: The Cortellucci Vaughan Hospital, which was previously dedicated to COVID-19 response, is now open as a full-service hospital due to declining hospitalizations related to COVID-19. The hospital cared for the highest proportion of COVID-19 patients in Ontario, with 514 patients transferred since it opened on February 7. As of Sunday, Ontario reported 545 people hospitalized with COVID-19, with 510 patients in intensive care units, and 344 patients in ICUs on a ventilator. COVID-related hospitalizations have been on the decline since the third wave peak in April, which saw more than 2,300 patients in ICUs. These values suggest a decline in COVID-19 hospitalizations in Ontario, which is a positive trend for forecasting. However, it's essential to continue monitoring hospitalization rates and ICU capacity to ensure that the trend continues and to prepare for any potential future surges.
+
+Article 6 of 6
+Title: Ontario doc cares for patients from far away – Winnipeg Free Press
+Publisher: Winnipeg Free Press
+Trusted: False
+Posted: 7 days ago
+TRUE The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting the most important values for forecasting: 36 Manitobans are being treated for COVID-19 in Ontario hospitals, with 2 patients having died. 10 beds were added to the ICU in Markham Stouffville Hospital in Ontario's third wave, and they have room to accommodate more patients. Manitoba hospitals are carefully selecting middle-ground ICU patients to be transferred to Ontario, aiming to avoid transferring patients who are too sick or too close to recovery. The daily COVID-19 case count in Manitoba is down slightly to 276, and test positivity rates are at 12.7% in Winnipeg and 11.5% province-wide. As of Saturday, there were 333 Manitobans hospitalized with COVID-19 both in and out of province, including 102 in intensive care. These values provide insight into the current hospitalization situation in Manitoba and Ontario, which can inform forecasting models for COVID-19 hospitalizations in Ontario, Canada.

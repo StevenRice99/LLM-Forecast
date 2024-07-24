@@ -1,0 +1,29 @@
+Below are 4 news articles from the past 7 days regarding COVID-19 Hospitalizations Ontario to help guide you in making your decision. Using your best judgement, take into consideration only the articles that are most relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Articles that are from know reputable sources have been flagged with "Trusted: True".
+
+Article 1 of 4
+Title: A senior says she ended up in the ER after being denied the COVID treatment Paxlovid
+Publisher: CBC News
+Trusted: False
+Posted: 1 day ago
+TRUE The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Paxlovid, a COVID-19 treatment, has been shown to reduce hospitalization and death in high-risk patients, including seniors and the immunocompromised. Ontario has a relatively liberal policy for accessing Paxlovid, with any COVID patient over 60 qualifying for a prescription, as well as younger people who are immunocompromised or at high risk of severe COVID. Despite the availability of Paxlovid, many patients in Alberta and Saskatchewan have been unable to access the treatment due to restrictive guidelines and lack of awareness among healthcare providers. Data from Israel, the US, and Ontario has shown that Paxlovid can "markedly reduce hospitalization and reduce death in high-risk people". The federal government has ordered 1.5 million Paxlovid treatment courses and has budgeted $2 billion for COVID treatments, including Paxlovid. These points suggest that increased access to Paxlovid in Ontario could lead to a reduction in COVID-19 hospitalizations, particularly among high-risk populations. However, the article also highlights the need for increased awareness and education among healthcare providers and the public about the potential benefits of Paxlovid.
+
+Article 2 of 4
+Title: What flu strain is circulating now and why are so many kids getting sick?
+Publisher: CTV News
+Trusted: False
+Posted: 1 day ago
+TRUE This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada, as it provides information on the current flu season, which can impact hospitalization rates. Key points relevant to forecasting COVID-19 hospitalizations include: The flu season started early this year, which could lead to increased hospitalizations. The H3N2 strain is causing the majority of flu cases in Canada, which can cause more severe illness, especially among seniors. Children under five years old are most at risk of getting seriously ill with the flu, and their immune systems may be more vulnerable due to lack of exposure to the virus during the COVID-19 pandemic. Public health measures, such as masking in long-term care homes, may be offsetting the risk of hospitalization among seniors. The flu vaccine is estimated to be around 50% effective in reducing severe illness from the flu, based on data from Australia. These factors can inform forecasting models and help predict potential hospitalization rates due to COVID-19 and the flu.
+
+Article 3 of 4
+Title: Number hospitalized with COVID-19 in B.C. hits highest level since October
+Publisher: CTV News Vancouver
+Trusted: False
+Posted: 2 days ago
+TRUE
+
+Article 4 of 4
+Title: Why are children across Canada getting so sick this year?
+Publisher: CityNews Toronto
+Trusted: False
+Posted: 4 days ago
+TRUE

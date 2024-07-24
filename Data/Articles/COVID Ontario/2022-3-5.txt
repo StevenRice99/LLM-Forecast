@@ -1,0 +1,43 @@
+Below are 6 news articles from the past 7 days regarding COVID-19 Hospitalizations Ontario to help guide you in making your decision. Using your best judgement, take into consideration only the articles that are most relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Articles that are from know reputable sources have been flagged with "Trusted: True".
+
+Article 1 of 6
+Title: COVID-19 hospitalizations in Ontario drop below 800 for first time since December
+Publisher: CTV News Toronto
+Trusted: False
+Posted: Today
+TRUE. The article provides relevant information for forecasting COVID-19 hospitalizations in Ontario, Canada. Key values for forecasting include: Current hospitalizations: 795 patients, with 44% admitted due to COVID-19 and 56% testing positive after admission. ICU admissions: 253 patients, with 80% admitted for COVID-19 and 20% for other reasons. COVID-19 positivity rate: 10.8% based on 14,264 tests performed in the last 24 hours. New cases: 1,930 confirmed cases reported since Friday, with hotspots in Toronto, Ottawa, Simcoe Muskoka, Peel Region, and York Region. Vaccination rates: 92.7% of Ontarians over 12 have at least one dose, and 90.6% have two doses. Deaths: 24 net new deaths reported, with 18 occurring in the last month. These values provide insight into the current state of COVID-19 hospitalizations, transmission, and vaccination rates in Ontario, which can inform forecasting models.
+
+Article 2 of 6
+Title: Ontario reports 821 COVID-19 hospitalizations and 28 more deaths
+Publisher: CBC.ca
+Trusted: False
+Posted: 1 day ago
+This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: 821 people are currently hospitalized with COVID-19, a slight decrease from the previous day (834) and a larger decrease from the same time last week (1,003). 44% of hospitalized patients were admitted for COVID-19 symptoms, while 56% were admitted for other reasons and tested positive for the virus. 262 patients are in intensive care, a decrease from the previous day (267) and the same time last week (297). 80% of ICU patients were admitted specifically for COVID-19, while the rest were admitted for other reasons and tested positive for the virus. 28 additional deaths were reported, bringing the total death toll to 12,525. 2,085 new COVID-19 cases were reported, although the actual number is likely ten times higher due to limited testing. These values provide insight into the current state of COVID-19 hospitalizations in Ontario, including the number of patients hospitalized, the proportion of patients admitted for COVID-19 symptoms versus other reasons, and the number of patients in intensive care. This information can be used to inform forecasting models and predict future trends in COVID-19 hospitalizations in Ontario.
+
+Article 3 of 6
+Title: Ontario could drop its mask mandate by the end of March, top doctor says
+Publisher: CBC.ca
+Trusted: False
+Posted: 2 days ago
+TRUE. The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting values most important for forecasting: Current hospitalizations: 834 people in hospital with COVID-19, with 267 patients in intensive care. Deaths: 19 additional deaths reported, bringing the official death toll to 12,497. Case numbers: The actual number of COVID-19 cases is likely 10 times higher than reported, with an estimated 20,000 more Ontarians with COVID-19. Variant monitoring: The province is monitoring the BA.2 subvariant of Omicron, which is 30% more transmissible and expected to become the dominant strain by mid-March. Regional variations: Ontario is monitoring regional variations, particularly in the province's north. Mask mandate: The province may drop its mask mandate by the end of March. Testing strategy: The province is completing about 20,000 tests daily and may open up PCR testing to the public again in the future. These values are important for forecasting COVID-19 hospitalizations in Ontario, Canada, as they provide insight into current hospitalization numbers, case numbers, variant spread, and public health measures that may impact hospitalization rates.
+
+Article 4 of 6
+Title: Ontario reports 847 people hospitalized with COVID-19 and 27 more deaths
+Publisher: CBC.ca
+Trusted: False
+Posted: 3 days ago
+TRUE. The article reports on current COVID-19 hospitalizations in Ontario, Canada, which is directly relevant for forecasting future hospitalizations. Key values for forecasting include: 847 people currently hospitalized with COVID-19 273 ICU patients 44% of hospital admissions were for COVID-19 symptoms, while 56% were admitted for other reasons but tested positive 82% of ICU patients were admitted specifically for COVID-19 These numbers provide insight into the current state of COVID-19 hospitalizations in Ontario, which can be used to inform forecasting models and predict future trends.
+
+Article 5 of 6
+Title: Ontario lifts vaccine certificate system, remaining capacity limits in all indoor settings
+Publisher: CBC.ca
+Trusted: False
+Posted: 4 days ago
+This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Current hospitalizations: 914 people in hospital with COVID-19, with 278 ICU patients. Percentage of hospitalizations seeking treatment for COVID-19 symptoms: 45% Percentage of ICU patients admitted specifically for COVID-19: 80% Deaths: 18 additional deaths reported, bringing the total to 12,451. Vaccination system and capacity limits: lifted as of Tuesday, with some businesses choosing to maintain their own vaccination requirements. Wastewater data: suggests "early signs of a resurgence" of COVID-19 viral load across Ontario, with a slight upward trend in the concentration of viral prevalence in wastewater. These values provide insight into the current state of COVID-19 hospitalizations in Ontario, as well as potential factors that may influence future hospitalization rates, such as changes in public health measures and wastewater data indicating a potential resurgence of cases.
+
+Article 6 of 6
+Title: Ontario reports under 1,000 in hospital with COVID
+Publisher: The Globe and Mail
+Trusted: False
+Posted: 6 days ago
+This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the key points: 842 people are currently hospitalized with COVID-19, down from 1,056 one week ago. 281 people are in intensive care due to COVID-19, down from 324 one week ago. 9 new COVID-19 deaths are reported. 2,001 new COVID-19 cases are reported, but this number is likely an underestimate due to limited access to testing. Wastewater data suggests that COVID-19 activity in the province is starting to rise again after a decline since early January. The values most important for forecasting COVID-19 hospitalizations in Ontario, Canada are: Current hospitalization numbers (842) and ICU numbers (281) Trends in hospitalization and ICU numbers (decreasing over the past week) Wastewater data indicating a potential rise in COVID-19 activity These values can help inform forecasting models and provide insight into the current and potential future burden of COVID-19 on Ontario's healthcare system.

@@ -1,0 +1,22 @@
+Below are 3 news articles from the past 7 days regarding COVID-19 Hospitalizations Ontario to help guide you in making your decision. Using your best judgement, take into consideration only the articles that are most relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Articles that are from know reputable sources have been flagged with "Trusted: True".
+
+Article 1 of 3
+Title: Toronto, Peel move into COVID-19 lockdown Monday as Ontario tries to stop 'worst-case scenario'
+Publisher: CBC.ca
+Trusted: False
+Posted: Today
+TRUE. The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Hospitalizations have increased by 22% and intensive care admissions have risen by 50%. The province reports 1,418 new cases of COVID-19, with 393 in Toronto, 400 in Peel Region, and 168 in York Region. The seven-day average of new cases is 1,373. There are 12,623 confirmed, active COVID-19 infections provincewide. The number of people in Ontario hospitals with confirmed cases of the illness is 518, with 142 patients being treated in intensive care and 92 on ventilators. The test positivity rate is 3.6%, with 48,173 tests processed in a single day. The province is imposing new restrictions, including a 28-day lockdown in Toronto and Peel Region, to curb the spread of the virus. These values are important for forecasting COVID-19 hospitalizations in Ontario, Canada, as they provide information on the current trend of cases, hospitalizations, and intensive care admissions, as well as the government's response to the pandemic.
+
+Article 2 of 3
+Title: Code Yellow: Eastern Ontario Health Unit Region moving to 'protect' zone on Monday
+Publisher: CTV News Ottawa
+Trusted: False
+Posted: 1 day ago
+TRUE The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada, as it provides information on changes to COVID-19 restrictions in eastern Ontario, specifically the Eastern Ontario Health Unit region, which will move from the "orange-restrict" zone to the "yellow-protect" zone. This change may impact the number of COVID-19 cases and hospitalizations in the region. Key values for forecasting COVID-19 hospitalizations in Ontario, Canada, include: The relaxation of restrictions in eastern Ontario, which may lead to increased social interactions and potential transmission of COVID-19. The specific rules and guidelines for businesses and gatherings in the "yellow-protect" zone, such as capacity limits and mask requirements. The concern about people traveling from Ottawa or western Quebec to eastern Ontario, which may impact the spread of COVID-19 in the region. These factors may influence the number of COVID-19 cases and hospitalizations in eastern Ontario, which can inform forecasting models for the region.
+
+Article 3 of 3
+Title: Ontario reports more than 1,400 new COVID-19 cases
+Publisher: CTV News Toronto
+Trusted: False
+Posted: 5 days ago
+A brief summary of the article relevant for forecasting COVID-19 hospitalizations in Ontario, Canada: Ontario reported 1,487 new cases of COVID-19, with a majority of infections in people between the ages of 20 and 60. There are at least 500 people hospitalized for COVID-19, with 125 in the ICU and 70 on ventilators. The number of hospitalizations is likely an underestimation due to missing data from some hospitals. Once ICU COVID-19 patients exceed 150, non-COVID-19 care and surgeries may be impacted. The total number of lab-confirmed cases in Ontario is 95,496, with a seven-day rolling average of 1,443 cases. The majority of cases were in the Greater Toronto Area. The province has conducted over 5.6 million COVID-19 tests, with a positivity rate of 4.1 percent.

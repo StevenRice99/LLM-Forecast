@@ -1,0 +1,57 @@
+Below are 8 news articles from the past 7 days regarding COVID-19 Hospitalizations Ontario to help guide you in making your decision. Using your best judgement, take into consideration only the articles that are most relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Articles that are from know reputable sources have been flagged with "Trusted: True".
+
+Article 1 of 8
+Title: Ontario launches online COVID-19 test results portal, gives new staffing powers to public health units
+Publisher: CTV News Ottawa
+Trusted: False
+Posted: 1 day ago
+This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: As of April 2, there were 2,793 cases of COVID-19 in Ontario. 405 patients with COVID-19 in Ontario were hospitalized. 167 patients were in intensive care. 112 patients were on ventilators. 53 people have died from COVID-19 in Ontario. 831 people have recovered from COVID-19 in Ontario. Ontario has conducted 62,733 tests, with 2,052 results pending. Per capita testing in Ontario is 426.4 tests per 100,000 people, which is lower than all other provinces and territories. These values provide information on the current state of COVID-19 cases, hospitalizations, and testing in Ontario, which can be used to inform forecasting models and predict future hospitalization rates.
+
+Article 2 of 8
+Title: Canadian Tire Centre, Sensplex arenas offered to Ontario Government for COVID-19 care
+Publisher: CTV News Ottawa
+Trusted: False
+Posted: 1 day ago
+This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary: The Ottawa Senators' owner has offered Canadian Tire Centre and three Sensplex arenas as potential temporary care centers for COVID-19 patients. A new COVID-19 care clinic is set to open on Moodie Drive. These facilities could potentially increase the capacity to care for COVID-19 patients in Ottawa, which may impact hospitalization rates. Important values for forecasting COVID-19 hospitalizations in Ontario, Canada: Increased capacity for patient care in Ottawa Potential reduction in hospitalization rates due to additional care facilities Location-specific information (Ottawa) that may inform regional forecasting models.
+
+Article 3 of 8
+Title: Long-term care homes are worrisome COVID-19 hotspots
+Publisher: CBC.ca
+Trusted: False
+Posted: 3 days ago
+TRUE This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada, as it highlights the vulnerability of long-term care homes to COVID-19 outbreaks, which can lead to increased hospitalizations and deaths. Key points relevant for forecasting include: The article mentions that at least 29 deaths have occurred at seniors' residences throughout Ontario, indicating a significant impact on this population. Long-term care homes are high-risk environments for COVID-19 transmission due to shared living spaces, communal areas, and hands-on care. Staffing shortages and burnout are major concerns, which can increase the risk of transmission and impact the ability to provide adequate care. Measures being taken to prevent outbreaks include banning non-essential visitors, implementing infection control protocols, and increasing funding for screening, cleaning, and hiring. The article also mentions the importance of social isolation and the need for proper training for new hires. These factors can inform forecasting models by highlighting the potential for increased transmission and hospitalizations in long-term care settings, as well as the importance of considering staffing and resource availability in these settings.
+
+Article 4 of 8
+Title: 40 dead from COVID-19 in Ontario nursing and retirement homes
+Publisher: CBC.ca
+Trusted: False
+Posted: 3 days ago
+This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. The article highlights the following values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: 1. Number of deaths in long-term care homes: At least 40 deaths of residents in Ontario nursing and retirement homes have been linked to COVID-19, which is almost triple the number reported by provincial officials. 2. Number of outbreaks in long-term care homes: At least 41 facilities for seniors in the province are currently experiencing outbreaks of COVID-19, with an outbreak defined as one lab-confirmed positive test among a resident or staff member. 3. Vulnerability of long-term care home residents: People in long-term care homes are very vulnerable to COVID-19, and the virus can spread quickly and have devastating consequences in these settings. 4. Concerns about staff and visitor transmission: There is concern that the virus may have been spread by staff or visitors who weren't showing symptoms or by others before restrictions were enforced. 5. Recommendations for increased testing and mask use: Experts are urging the province to further ramp up testing of nursing home residents and recommending that long-term care staff wear masks at all times. 6. Lag in official tally: The Ontario Health Ministry's official tally lags behind CBC's own tracking of coronavirus data, which is based on Health Ministry numbers and calls to health authorities around the province. These values highlight the importance of considering the impact of COVID-19 on long-term care homes and their residents in forecasting hospitalizations in Ontario, Canada.
+
+Article 5 of 8
+Title: COVID-19 nursing home deaths 'devastating,' says physician
+Publisher: CBC.ca
+Trusted: False
+Posted: 3 days ago
+TRUE The article highlights the vulnerability of seniors facilities to COVID-19 outbreaks, citing the example of Pinecrest Nursing Home in Bobcaygeon, Ontario, where at least 12 residents and one volunteer worker have died from the disease. Key values relevant for forecasting COVID-19 hospitalizations in Ontario, Canada, include: The high mortality rate among seniors in nursing and retirement homes, with 30 out of 41 deaths in Ontario occurring in these settings. The rapid spread of the virus within these facilities, as evidenced by the fact that at least 24 out of 66 staff members at Pinecrest Nursing Home have tested positive. The potential for outbreaks in these settings to overwhelm local healthcare resources, as suggested by Dr. Oldridge's comment that the situation at Pinecrest is "unlike anything he has ever seen before". These values highlight the importance of considering the vulnerability of seniors facilities in forecasting COVID-19 hospitalizations in Ontario, Canada.
+
+Article 6 of 8
+Title: Temporary unit for COVID-19 patients being built on Burlington hospital grounds
+Publisher: CTV News Toronto
+Trusted: False
+Posted: 3 days ago
+TRUE The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada, as it highlights the construction of a temporary Pandemic Response Unit at Joseph Brant Hospital in Burlington, which will provide an additional 93 beds for COVID-19 patients. This information is important for forecasting hospitalizations as it indicates the expected surge in COVID-19 cases and the efforts being made to increase hospital capacity. Key values for forecasting COVID-19 hospitalizations in Ontario, Canada: Expected surge of COVID-19 patients Additional 93 beds for COVID-19 patients at Joseph Brant Hospital Temporary Pandemic Response Unit being built on hospital grounds Collaboration between hospital, community-based healthcare providers, City of Burlington, and Halton Region to address expected increase in COVID-19 hospitalizations.
+
+Article 7 of 8
+Title: Ontario COVID-19 cases near 2,000 as schools set to stay closed until at least May
+Publisher: CBC.ca
+Trusted: False
+Posted: 4 days ago
+TRUE. This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the key points: As of the article's publication, there were 1,966 confirmed cases of COVID-19 in Ontario, with 33 deaths and 534 resolved cases. 291 COVID-19 patients were hospitalized, including 125 in intensive care units, with 82 on ventilators. The median age of cases is 50, with a range of less than one to 100 years old. 10.9% of cases were hospitalized. The province's chief medical officer of health, Dr. David Williams, expects the number of hospitalizations and ventilators to increase in the coming days. The article also mentions outbreaks at long-term care facilities, with 10 facilities currently being monitored, and a volunteer who visited her husband at one of the facilities has died. The province is taking measures to slow the spread of the virus, including closing public schools until at least May and urging people over 70 to stay home except for essential trips. These values are most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Number of confirmed cases: 1,966 Number of hospitalized patients: 291 Number of patients in intensive care units: 125 Number of patients on ventilators: 82 Median age of cases: 50 Percentage of cases hospitalized: 10.9% Expected increase in hospitalizations and ventilators: yes, according to Dr. David Williams.
+
+Article 8 of 8
+Title: Suspected, confirmed COVID-19 patients filling roughly 1 in 4 Ontario ICU beds
+Publisher: CBC.ca
+Trusted: False
+Posted: 5 days ago
+TRUE. This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the key points: As of Saturday, there were 92 patients in critical care wards confirmed positive for COVID-19, and 342 ICU patients suspected of having the virus. Confirmed or suspected COVID-19 cases account for roughly one out of every four patients currently in Ontario's intensive care units. The number of confirmed cases has roughly doubled every two days over the past week. A group of Toronto-based health scientists predict that demand for ICU beds from COVID-19 patients will peak in early-to-mid-April at more than 700 patients. Ontario hospitals have a total of 2,053 adult critical-care beds, and officials say pandemic plans would allow the system to expand its ICU capacity. The province has faced criticism for delays in producing test results and for testing a far smaller segment of its population than other provinces. These values are important for forecasting COVID-19 hospitalizations in Ontario, Canada, as they provide information on the current number of cases, the rate of growth, and the predicted peak demand for ICU beds. This information can be used to inform models and predict future hospitalization rates.

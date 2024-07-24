@@ -1,0 +1,36 @@
+Below are 5 news articles from the past 7 days regarding COVID-19 Hospitalizations Ontario to help guide you in making your decision. Using your best judgement, take into consideration only the articles that are most relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Articles that are from know reputable sources have been flagged with "Trusted: True".
+
+Article 1 of 5
+Title: Ontario reports 121 new COVID-19 cases Saturday, lowest in more than a week
+Publisher: CBC.ca
+Trusted: False
+Posted: Today
+This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: New cases: 121 ( lowest daily case count in more than a week) Hospitalizations: 150 patients in Ontario hospitals with confirmed cases of COVID-19, 39 of whom are in intensive care, and 26 are on a ventilator. Resolved cases: 174 cases marked resolved yesterday, with a total of 31,083 cases (about 87% of total cases) resolved. Death toll: 2,733 (according to CBC News count) Testing: 21,425 tests completed the previous day, with 14,594 tests still waiting to be completed. Regional breakdown: + Windsor-Essex: 21 new cases + Toronto: 27 new cases + Peel: 23 new cases + York region: 20 new cases + Kingston area: 6 new cases + Waterloo region: 6 new cases These values provide insight into the current trend of COVID-19 cases, hospitalizations, and deaths in Ontario, which can be used to inform forecasting models. The regional breakdown can also help identify areas with higher case counts, which may require targeted interventions.
+
+Article 2 of 5
+Title: Ontario reports 121 new cases of COVID-19, the lowest number in more than a week
+Publisher: CP24
+Trusted: False
+Posted: Today
+This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: 121 new cases of COVID-19 were reported in Ontario on Friday, the lowest number in over a week. The five-day average of new cases is below 150 for the first time in months. 41% of new cases are in Toronto (27 cases) and Peel Region (23 cases). Hospitalizations are trending downwards, with 150 COVID-19 patients in Ontario hospitals and 39 in intensive care units. The number of active cases declined to 1,886. The positivity rate remains at all-time lows, with over 21,000 tests processed yesterday. These values suggest a decline in COVID-19 cases and hospitalizations in Ontario, which is a positive trend for forecasting COVID-19 hospitalizations in the province.
+
+Article 3 of 5
+Title: Advocates demand Ontario shut down farms as COVID-19 cases soar among workers
+Publisher: CTV News
+Trusted: False
+Posted: 5 days ago
+TRUE. The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: 257 new cases of COVID-19 were reported in Ontario, with 177 cases confirmed in Windsor-Essex, primarily among migrant farm workers. One farm in Windsor-Essex has been linked to 175 new cases of COVID-19. Over 1,000 agricultural workers have been diagnosed with COVID-19 in Ontario since the start of the pandemic. Three migrant workers have died from COVID-19 in the Windsor-Essex region. The article highlights concerns about the rapid spread of the virus among temporary foreign workers and the need for improved sanitation and safety measures on farms. The Ontario government has pledged to ramp up inspections and oversight at farms to fight the spread of COVID-19. These values are important for forecasting COVID-19 hospitalizations in Ontario, Canada, as they indicate a potential hotspot for COVID-19 transmission among migrant farm workers, which could lead to increased hospitalizations in the region.
+
+Article 4 of 5
+Title: 'Hotspots' linger, more young people getting COVID-19: new modelling
+Publisher: CTV News
+Trusted: False
+Posted: 5 days ago
+This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Summary: The article highlights that Ontario and Quebec remain hotspots for COVID-19 cases in Canada. The percentage of younger people (20-39 years old) contracting the virus has increased in proportion to a decrease in older patients in the last month. Federal health officials project that Canada could see between 103,940 and 108,130 cases, and between 8,545 and 8,865 deaths as of July 12. The daily numbers of hospitalized and critical care cases are steadily declining as recoveries increase. The effective reproduction number (Rt) in Canada has been less than one for eight weeks, indicating a slowing of the epidemic. Outbreaks have recently been linked to social gatherings, particularly in closed settings with close contacts. The article emphasizes the need for continued vigilance and adherence to public health guidelines to prevent a second wave of cases. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Rt rate: The effective reproduction number (Rt) in Canada has been less than one for eight weeks, indicating a slowing of the epidemic. Age distribution: The percentage of younger people (20-39 years old) contracting the virus has increased in proportion to a decrease in older patients in the last month. Hospitalization and critical care cases: The daily numbers of hospitalized and critical care cases are steadily declining as recoveries increase. Case projections: Federal health officials project that Canada could see between 103,940 and 108,130 cases, and between 8,545 and 8,865 deaths as of July 12.
+
+Article 5 of 5
+Title: Ontario records slight uptick in COVID-19 cases with 160 new infections
+Publisher: CTV News Toronto
+Trusted: False
+Posted: 7 days ago
+TRUE. This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting values most important for forecasting: New cases: 160 (a 0.5% increase from the previous day) Total lab-confirmed cases: 33,476 Positivity rate: at all-time lows Hospitalizations: 252 (a slight decline) ICU admissions: 53 (a decline) Vented patients: 35 (a decline) Deaths: 8 new deaths, bringing the total to 2,652 Testing: 33,492 tests conducted in the last 24 hours (a new record) Active cases: persistently declining These values provide insight into the current trend of COVID-19 cases, hospitalizations, and deaths in Ontario, which can inform forecasting models.

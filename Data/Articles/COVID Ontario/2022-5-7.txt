@@ -1,0 +1,29 @@
+Below are 4 news articles from the past 7 days regarding COVID-19 Hospitalizations Ontario to help guide you in making your decision. Using your best judgement, take into consideration only the articles that are most relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Articles that are from know reputable sources have been flagged with "Trusted: True".
+
+Article 1 of 4
+Title: Local medical officers of health pen letter to Ontario's top doctor asking for mask mandates back
+Publisher: CTV News Toronto
+Trusted: False
+Posted: 2 days ago
+TRUE. The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Key points for forecasting include: The current COVID-19 hospitalizations in some regions exceed figures from previous pandemic waves, with Niagara's main hospital ramping down surgeries to 70% and admitting 100 patients without a bed. The doctors' letter highlights the importance of masking in reducing COVID-19 infections and relieving hospital pressures. Ontario reported 32 more COVID-19 deaths and a day-over-day drop in hospitalizations, with a current total of 1,700 hospitalizations, which appears to be the peak according to Dr. Peter Juni. Dr. Juni expects a decline in wastewater indicators of COVID in the coming weeks, followed by a decrease in hospital admissions. These points suggest that COVID-19 hospitalizations in Ontario may have peaked and are expected to decline in the coming weeks, but masking and other public health measures are still crucial in reducing infections and hospitalizations, especially among vulnerable populations.
+
+Article 2 of 4
+Title: COVID-19: updates for Canada’s universities — University Affairs
+Publisher: University Affairs
+Trusted: False
+Posted: 3 days ago
+This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. The article discusses various universities in Ontario and their decisions regarding mask mandates and vaccination requirements. Some universities, such as the University of Waterloo, Wilfrid Laurier University, and the University of Guelph, have announced that they will no longer require proof of vaccination to enter or work on campus, while others, such as Brock University, have chosen to maintain their masking and vaccine measures. The article also mentions the current COVID-19 situation in Ontario, including the rising sixth wave and increased hospitalizations. It notes that Ontario has marked its highest COVID-19 test positivity rate since mid-January, with hospitalizations up 30 per cent. The most important values for forecasting COVID-19 hospitalizations in Ontario, Canada, from this article are: The lifting of mask mandates and vaccination requirements at some universities, which could lead to increased transmission and hospitalizations. The rising sixth wave of COVID-19 in Ontario, which has led to increased hospitalizations. The varying approaches to COVID-19 health measures at different universities, which could impact transmission and hospitalizations. Overall, this article suggests that the COVID-19 situation in Ontario is complex and evolving, and that forecasting hospitalizations will require careful consideration of various factors, including the decisions of universities and other organizations regarding mask mandates and vaccination requirements.
+
+Article 3 of 4
+Title: COVID-19 tied to adverse maternal outcomes, preterm birth
+Publisher: University of Minnesota Twin Cities
+Trusted: True
+Posted: 4 days ago
+TRUE The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada, as it provides information on the risk factors and outcomes of COVID-19 infection in pregnant women, who are a vulnerable population. The study found that infected pregnant women were at higher risk for hospitalization and ICU admission compared to non-pregnant women of childbearing age. Additionally, the study found that even mild COVID-19 infection was tied to a significantly higher risk of preterm birth. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: 7.8% of infected pregnant women were hospitalized 3.4% needed supplemental oxygen 2.0% were admitted to the ICU Median hospital stay was 6 days Median ICU stay was 4 days 34.2% of hospitalized patients needed extra oxygen 54.7% of patients who needed oxygen were later admitted to the ICU These values can be used to inform forecasting models of COVID-19 hospitalizations in Ontario, particularly among pregnant women.
+
+Article 4 of 4
+Title: Ontario reports no new COVID-19 deaths for first time in a month
+Publisher: CTV News Toronto
+Trusted: False
+Posted: 5 days ago
+This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Current hospitalizations: 1,423 people in hospital with COVID-19, including 211 people in intensive care. Positivity rate: 14% (based on 11,800 COVID-19 tests processed in the last 24 hours). New cases: 1,275 lab-confirmed cases (although this number is an underestimation due to lack of PCR testing). Wastewater data: Concentration of the novel coronavirus appears to be cresting in most regions, indicating a potential plateau or decline in cases. These values are important for forecasting COVID-19 hospitalizations in Ontario, Canada, as they provide insight into the current state of the pandemic, including the number of people currently hospitalized, the rate of new cases, and potential trends in case numbers based on wastewater data.

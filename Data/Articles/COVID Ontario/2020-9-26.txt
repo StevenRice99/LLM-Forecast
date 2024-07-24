@@ -1,0 +1,22 @@
+Below are 3 news articles from the past 7 days regarding COVID-19 Hospitalizations Ontario to help guide you in making your decision. Using your best judgement, take into consideration only the articles that are most relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Articles that are from know reputable sources have been flagged with "Trusted: True".
+
+Article 1 of 3
+Title: Ottawa bar owner 'shocked' as Ontario moves last call to 11 p.m. at bars, restaurants and nightclubs
+Publisher: CTV News Ottawa
+Trusted: False
+Posted: 1 day ago
+TRUE This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada, as it discusses new restrictions imposed by the Ontario Government on restaurants, bars, and nightclubs in an effort to reduce "outbreak clusters" of COVID-19 cases. The restrictions include: Prohibiting the sale of alcohol after 11 p.m. Banning alcohol consumption in all food and drink establishments after 12 a.m. until 9 a.m. Requiring all bars and restaurants to remain closed between 12 a.m. and 5 a.m., except for takeout and delivery. These measures may impact the spread of COVID-19 in Ontario, particularly in settings where people gather in close proximity. The article also mentions that the majority of cases in Ottawa are linked to private gatherings and close contacts, which may inform forecasting models. Important values for forecasting COVID-19 hospitalizations in Ontario, Canada, mentioned in the article include: The number of COVID-19 cases in Ottawa The impact of restrictions on businesses, particularly those in the food and drink industry The potential for people to gather in uncontrolled environments, such as house parties, when bars and restaurants close early The concern about a full lockdown and its potential impact on small businesses.
+
+Article 2 of 3
+Title: Case counts not the only measure of COVID-19 severity, say London doctors
+Publisher: CTV News London
+Trusted: False
+Posted: 2 days ago
+TRUE. The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting values most important for forecasting: As of Thursday, there were fewer than 100 COVID-19 hospitalizations in all of Ontario. In London, there have been no COVID-19 hospitalizations in the past week. Hospitalization rates and deaths are considered a more complete measure of COVID-19 severity than case counts alone. The article mentions that younger people (under 40) account for roughly two-thirds of recent cases, but their hospitalization rates are much lower than older demographics. The doctors stress that social distancing rules will play a significant role in determining how Ontario fares during the second wave of infections. These values can be used to inform forecasting models, particularly in understanding the relationship between case counts, hospitalization rates, and demographics.
+
+Article 3 of 3
+Title: Community case of COVID-19 linked to outbreak at Pembroke, Ont. high school
+Publisher: CTV News Ottawa
+Trusted: False
+Posted: 6 days ago
+TRUE Summary: A COVID-19 outbreak at Fellowes High School in Pembroke, Ontario has resulted in 5 positive cases (4 staff members and 1 student) and a community contact has also tested positive. The school has been closed since last Wednesday, and the health unit is conducting contact tracing. The Acting Medical Officer of Health will provide an update on Monday about when the school may reopen. Values important for forecasting COVID-19 hospitalizations in Ontario, Canada: Number of positive cases: 5 (4 staff members and 1 student) + 1 community contact Location: Pembroke, Ontario Setting: School (Fellowes High School) Closure of school: Yes, since last Wednesday Contact tracing: Ongoing Reopening of school: To be determined on Monday These values are important for forecasting COVID-19 hospitalizations in Ontario, Canada as they provide information on the spread of the virus in a specific setting (school) and the measures being taken to contain it (closure of school and contact tracing). This information can help inform models of potential future outbreaks and hospitalizations in Ontario.

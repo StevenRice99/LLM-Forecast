@@ -1,0 +1,22 @@
+Below are 3 news articles from the past 7 days regarding COVID-19 Hospitalizations Ontario to help guide you in making your decision. Using your best judgement, take into consideration only the articles that are most relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Articles that are from know reputable sources have been flagged with "Trusted: True".
+
+Article 1 of 3
+Title: Ontario reports 669 COVID-19 hospitalizations, 8 more deaths on Friday
+Publisher: CBC.ca
+Trusted: False
+Posted: 1 day ago
+This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Current hospitalizations: 669 (down from 670 on Thursday and 948 last week) Percentage of hospitalizations admitted specifically for COVID-19: 42% ICU admissions: 117 (down from 119 on Thursday and 154 last week) Percentage of ICU admissions due to COVID-19: 61% Ventilator usage: 55 patients New daily cases: at least 888 (likely underreported due to testing limitations) Test positivity rate: 7.3% Deaths: 8 new deaths reported, total pandemic death toll at 13,275 These values provide insight into the current state of COVID-19 hospitalizations in Ontario, including the number of hospitalizations, ICU admissions, and deaths. The test positivity rate and new daily cases can also inform forecasts of future hospitalizations.
+
+Article 2 of 3
+Title: Study finds long-term exposure to common air pollutants is associated with COVID-19 severity
+Publisher: News-Medical.Net
+Trusted: False
+Posted: 5 days ago
+TRUE. The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Summary: The study found an association between long-term exposure to ambient air pollution and COVID-19 severity in Ontario, Canada. The key findings include: Increased risk of hospital admission and ICU admission with higher levels of fine particulate matter (PM 2.5) and ground-level ozone (O 3) Odds ratios (ORs) of 1.06 and 1.09 for PM 2.5 were obtained for hospital admission and ICU admission, respectively ORs of 1.15, 1.30, and 1.18 for O 3 exposure were associated with elevated risk for hospital admission, ICU admission, and mortality, respectively Chronic air pollution exposure before SARS-CoV-2 infection may contribute to COVID-19 severity Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Levels of fine particulate matter (PM 2.5) and ground-level ozone (O 3) in different regions of Ontario Population density and demographics in areas with high levels of air pollution Number of COVID-19 cases and hospitalizations in areas with high levels of air pollution These values can be used to forecast COVID-19 hospitalizations in Ontario, Canada by identifying areas with high levels of air pollution and population density, and adjusting for individual and contextual confounding factors.
+
+Article 3 of 3
+Title: Ontario reports 865 COVID-19 hospitalizations and 12 more deaths
+Publisher: CBC.ca
+Trusted: False
+Posted: 7 days ago
+This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Current hospitalizations: 865 (down from 948 on Friday and 1,116 one week ago) Percentage of hospitalizations admitted specifically for COVID-19: 40% ICU admissions: 144 (with 65% admitted due to COVID-19) Ventilator usage: 69 patients New daily cases: at least 1,144 (with a test positivity rate of 8.5%) Testing limitations: actual number of daily new cases likely far higher than reported These values provide insight into the current state of COVID-19 hospitalizations in Ontario, including the number of hospitalizations, ICU admissions, and ventilator usage. The percentage of hospitalizations admitted specifically for COVID-19 and the test positivity rate can also inform forecasting models.

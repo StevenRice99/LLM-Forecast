@@ -1,0 +1,43 @@
+Below are 6 news articles from the past 7 days regarding COVID-19 Hospitalizations Ontario to help guide you in making your decision. Using your best judgement, take into consideration only the articles that are most relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Articles that are from know reputable sources have been flagged with "Trusted: True".
+
+Article 1 of 6
+Title: Ontario Enacts Provincial Emergency and Stay-at-Home Order
+Publisher: Bay Ward Bulletin
+Trusted: False
+Posted: 1 day ago
+This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary, highlighting values most important for forecasting: The article mentions that hospitalizations are at an all-time high in Ottawa since the beginning of the pandemic, with younger people being admitted to hospital. The COVID-19 situation in Ottawa is described as "extremely concerning" with a steep climb in wastewater signals and a high percentage of people testing positive. The article notes that surgeries are being cancelled for the first time since last March, indicating a high level of strain on the healthcare system. The Medical Officer of Health, Dr. Vera Etches, mentions that the probability of schools closing to in-person learning after the spring break is higher than the probability of the COVID-19 situation improving in time to keep schools open. The article highlights the importance of physical distancing and masking in reducing the spread of COVID-19, and notes that even people without symptoms can transmit the virus. These points suggest a high level of COVID-19 transmission and hospitalizations in Ottawa, which is likely to continue in the short term. This information can be used to inform forecasting models and predict future hospitalization rates in Ontario, Canada.
+
+Article 2 of 6
+Title: Ontario hospitals allowed to transfer patients without consent
+Publisher: CBC.ca
+Trusted: False
+Posted: 1 day ago
+TRUE. This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting values most important for forecasting: The Ontario government has issued emergency orders to help hospitals cope with a surge in COVID-19 hospitalizations and intensive care admissions, indicating a critical situation. The number of COVID-19 patients in ICUs has reached a record high of 552. The government is redeploying healthcare professionals and staff from community care agencies to work in hospitals, which could add some capacity. Hospitals are allowed to transfer patients without consent in extreme circumstances, which could help alleviate capacity pressures. The measures are expected to increase ICU capacity by up to 1,000 beds. Elective surgeries and non-urgent activities are being ramped down to preserve critical care and human resource capacity, which could lead to an increase in available hospital beds (estimated 700-1,000 more spaces). These values suggest a critical situation with a high and increasing number of COVID-19 hospitalizations, and efforts to increase capacity and alleviate pressures on hospitals. This information can be used to inform forecasting models and predict future hospitalization trends.
+
+Article 3 of 6
+Title: Why comparing COVID-19 hospitalization numbers between provinces isn't apple to apples
+Publisher: CBC.ca
+Trusted: False
+Posted: 2 days ago
+TRUE. The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Ontario recently started differentiating between the number of patients in ICU who are still testing positive for COVID-19 (infectious) and those who are testing negative (no longer infectious). As of Wednesday, there were 504 total COVID-19 patients in Ontario ICUs, with 476 still testing positive and considered infectious. The Ontario government's public-facing COVID-19 data website now shows both numbers: the higher number in the daily "overview of cases" and the lower numbers in a chart of past hospitalization data. This information is crucial for forecasting COVID-19 hospitalizations in Ontario, as it provides a more accurate picture of the number of patients in ICU and hospital, and allows for better tracking of the spread of the virus.
+
+Article 4 of 6
+Title: Ontario issues emergency alert on new stay-at-home order to curb COVID-19
+Publisher: CTV News Toronto
+Trusted: False
+Posted: 2 days ago
+This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: New cases: 3,295 Hospitalizations: 1,417 Intensive care: 525 Ventilator: 318 Vaccines administered: 108,563 (since Wednesday's report) Total vaccines administered: 2,834,784 These values provide insight into the current state of the pandemic in Ontario, including the number of new cases, hospitalizations, and vaccinations. This information can be used to inform forecasting models and predict future hospitalization rates.
+
+Article 5 of 6
+Title: COVID-19 outbreak in Kingston's University District involving residents aged 18 to 29
+Publisher: CTV News Ottawa
+Trusted: False
+Posted: 2 days ago
+This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: The article reports a COVID-19 outbreak in Kingston's University District, with 70 out of 95 active cases involving residents aged 18-29. The health unit notes that transmission is occurring through close, unprotected contact in social settings, including large gatherings, where physical distancing is limited and face coverings are not being worn. COVID-19 hospitalizations and ICU occupancy rates are on the rise in the Kingston Health Sciences Centre, with the ICU at 100% occupancy, including 17 patients with COVID-19 from across the Ontario Health East Region. The article mentions that daily case rates in Ontario are expected to be the highest since the pandemic started, with more young people being hospitalized. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Active cases: 95 in the Kingston region, with 70 involving residents aged 18-29. Hospitalizations: Increasing, with ICU occupancy rates on the rise. ICU occupancy: 100% in the Kingston Health Sciences Centre, with 17 patients with COVID-19 from across the Ontario Health East Region. Age group: 18-29 years old, accounting for the majority of active cases in the region. Transmission: Occurring through close, unprotected contact in social settings, including large gatherings.
+
+Article 6 of 6
+Title: Situation in Ontario ICUs like a never-ending 'fire' amid COVID-19 3rd wave, says nurse
+Publisher: CBC.ca
+Trusted: False
+Posted: 7 days ago
+TRUE. The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Ontario is experiencing a third wave of COVID-19 infections, largely driven by variants of concern, which lead to greater hospitalizations and ICU occupancy, and are affecting younger people more seriously. As of Saturday morning, 451 patients were being treated for COVID-19 in Ontario's ICU beds, and health experts predict that ICU admissions will likely top 800 this month. The Ontario government has announced a four-week "emergency brake" shutdown starting April 3, but some health professionals are concerned that this may not be enough to curb the pandemic. Critical care physicians are seeing an increase in patients needing to be admitted to hospital and subsequently needing to be sent to the ICU, with a significant proportion of these patients being younger (between 30 and 50 years old) with no previous medical issues. Health-care workers are burning out, with fewer staff willing to pick up overtime and not enough people being trained to fill gaps in the system, which could lead to triaging cases and reduced capacity to provide care. These values are important for forecasting COVID-19 hospitalizations in Ontario, Canada, as they indicate a rapidly increasing demand for ICU beds, a shift in the demographics of patients being hospitalized, and a potential shortage of healthcare workers to provide care.

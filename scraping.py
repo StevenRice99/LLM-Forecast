@@ -43,6 +43,8 @@ def hugging_face() -> hugchat.ChatBot or None:
 
 def chat(prompt: str, hugging_chat: hugchat.ChatBot or None = None, model: str or list = "Meta-Llama-3.1-405B",
          attempts: int = 10, delay: float = 0) -> str:
+    if len(prompt) > 16000:
+        prompt = prompt[:15997] + "..."
     if isinstance(model, str):
         model = [model]
     if hugging_chat is None:
@@ -72,13 +74,12 @@ def chat(prompt: str, hugging_chat: hugchat.ChatBot or None = None, model: str o
                     result = hugging_chat.chat(prompt)
                     message = result.wait_until_done()
                     hugging_chat.delete_all_conversations()
+                    break
                 except:
                     if delay > 0:
                         time.sleep(delay)
-                    continue
-                break
         except:
-            message = None
+            pass
     if message is None:
         m = None
         for i in range(len(model)):
@@ -164,11 +165,11 @@ def get_article(result: dict, driver, trusted: list, forecasting: str = "COVID-1
             time.sleep(delay)
         # Summarize the summary with an LLM if requested to.
         if summary != "":
-            summary = chat(f"You are trying to help forecast {forecasting}{location}. Below is an article. If "
-                           f"the article is not relevant for forecasting {forecasting}{location}, respond with "
-                           f"\"FALSE\". Otherwise, if the article is relevant for forecasting {forecasting}{location}, "
-                           f"respond with a brief summary, highlighting values most important for forecasting "
-                           f"{forecasting}{location}:\n\n{summary}", hugging_chat, model, attempts, delay)
+            prompt = (f"You are trying to help forecast {forecasting}{location}. Below is an article. If the article is"
+                      f" not relevant for forecasting {forecasting}{location}, respond with \"FALSE\". Otherwise, if "
+                      f"the article is relevant for forecasting {forecasting}{location}, respond with a brief summary, "
+                      f"highlighting values most important for forecasting {forecasting}{location}:\n\n{summary}")
+            summary = chat(prompt, hugging_chat, model, attempts, delay).strip()
             if delay > 0:
                 time.sleep(delay)
     # If the full article cannot be downloaded or the summarization fails, use the initial news info.
@@ -178,7 +179,7 @@ def get_article(result: dict, driver, trusted: list, forecasting: str = "COVID-1
     if title is None or title == "":
         return None
     if (summary is None or title == summary or summary == "" or summary.isspace() or summary.startswith("I'm sorry, ")
-            or summary.startswith("I apologize, ") or summary.strip().upper() == "FALSE"):
+            or summary.startswith("I apologize, ") or summary.startswith("FALSE")):
         return None
     title = valid_encoding(title)
     if summary is not None:
@@ -220,9 +221,10 @@ def get_article(result: dict, driver, trusted: list, forecasting: str = "COVID-1
 def search_news(keywords: str or list or None = "COVID-19", max_results: int = 10, language: str = "en",
                 country: str = "CA", location: str or None = "Ontario, Canada",
                 end_date: tuple or datetime.datetime or None = None, days: int = 7,
-                exclude_websites: list or None = None, trusted: list or None = None, model: str or list or None = None,
-                attempts: int = 10, delay: float = 0, forecasting: str = "COVID-19 hospitalizations",
-                folder: str = "COVID Ontario", driver=None) -> str:
+                exclude_websites: list or None = None, trusted: list or None = None,
+                model: str or list = "Meta-Llama-3.1-405B", attempts: int = 10, delay: float = 0,
+                forecasting: str = "COVID-19 hospitalizations", folder: str = "COVID Ontario", driver=None,
+                hugging_chat: hugchat.ChatBot or None = None) -> str:
     """
     Search the web for news.
     :param keywords: The keywords to search for.
@@ -240,6 +242,7 @@ def search_news(keywords: str or list or None = "COVID-19", max_results: int = 1
     :param forecasting: What is being forecast.
     :param folder: The name of the file to save the results.
     :param driver: Selenium Firefox driver.
+    :param hugging_chat: HuggingChat instance to use.
     :return: The news articles.
     """
     # Configure the time period if one should be used.
@@ -261,7 +264,8 @@ def search_news(keywords: str or list or None = "COVID-19", max_results: int = 1
     # If there are no trusted sites, make an empty list for comparisons.
     if trusted is None:
         trusted = []
-    hugging_chat = hugging_face()
+    if hugging_chat is None:
+        hugging_chat = hugging_face()
     # Set up Firefox web driver to handle Google News URL redirects.
     if driver is None:
         handle_driver = True
@@ -388,10 +392,11 @@ def search_news(keywords: str or list or None = "COVID-19", max_results: int = 1
 def llm_predict(keywords: str or list or None = "COVID-19", max_results: int = 10, language: str = "en",
                 country: str = "CA", location: str or None = "Ontario, Canada",
                 end_date: tuple or datetime.datetime or None = None, days: int = 7,
-                exclude_websites: list or None = None, trusted: list or None = None, model: str or list or None = None,
-                attempts: int = 10, delay: float = 0, forecasting: str = "COVID-19 hospitalizations",
-                folder: str = "COVID Ontario", units: str = "weeks", periods: int = 1, previous: list or None = None,
-                prediction: int or None = None, hugging_chat: hugchat.ChatBot or None = None) -> int:
+                exclude_websites: list or None = None, trusted: list or None = None,
+                model: str or list = "Meta-Llama-3.1-405B", attempts: int = 10, delay: float = 0,
+                forecasting: str = "COVID-19 hospitalizations", folder: str = "COVID Ontario", units: str = "weeks",
+                periods: int = 1, previous: list or None = None, prediction: int or None = None,
+                hugging_chat: hugchat.ChatBot or None = None) -> int:
     """
     Make a prediction with a LLM.
     :param keywords: The keywords to search for.
@@ -502,7 +507,7 @@ def parse_dates(file: str) -> list:
 def prepare_articles(file: str, keywords: str or list or None = "COVID-19", max_results: int = 10,
                      language: str = "en", country: str = "CA", location: str or None = "Ontario, Canada",
                      days: int = 7, exclude_websites: list or None = None, trusted: list or None = None,
-                     model: str or list or None = None, attempts: int = 10, delay: float = 0,
+                     model: str or list = "Meta-Llama-3.1-405B", attempts: int = 10, delay: float = 0,
                      forecasting: str = "COVID-19 hospitalizations") -> None:
     dates = parse_dates(file)
     folder = os.path.splitext(os.path.basename(file))[0]
@@ -534,11 +539,12 @@ def prepare_articles(file: str, keywords: str or list or None = "COVID-19", max_
         f = open(file, "w")
         f.write(s)
         f.close()
+    hugging_chat = hugging_face()
     driver = webdriver.Firefox(service=Service(GeckoDriverManager().install()))
     for i in range(len(dates)):
         print(f"Preparing articles for time period {i + 1} of {len(dates)}.")
         search_news(keywords, max_results, language, country, location, dates[i], days, exclude_websites, trusted,
-                    model, attempts, delay, forecasting, folder, driver)
+                    model, attempts, delay, forecasting, folder, driver, hugging_chat)
     driver.quit()
     files = os.listdir(path)
     for file in files:
@@ -551,6 +557,16 @@ def prepare_articles(file: str, keywords: str or list or None = "COVID-19", max_
         if s.__contains__("Title: \n"):
             file = os.path.splitext(os.path.basename(file))[0]
             print(f"{file} has blank entries.")
+    for file in files:
+        file = os.path.join(path, file)
+        if not os.path.isfile(file):
+            continue
+        f = open(file, "r")
+        s = f.read()
+        f.close()
+        if len(s) > 16000:
+            file = os.path.splitext(os.path.basename(file))[0]
+            print(f"{file} too long.")
     untrusted = []
     for file in files:
         file = os.path.join(path, file)

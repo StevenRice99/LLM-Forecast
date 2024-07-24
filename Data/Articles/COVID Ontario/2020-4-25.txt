@@ -1,0 +1,36 @@
+Below are 5 news articles from the past 7 days regarding COVID-19 Hospitalizations Ontario to help guide you in making your decision. Using your best judgement, take into consideration only the articles that are most relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Articles that are from know reputable sources have been flagged with "Trusted: True".
+
+Article 1 of 5
+Title: Ontario announces $4 an hour pandemic pay increase for front-line workers
+Publisher: CBC.ca
+Trusted: False
+Posted: Today
+This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting the values most important for forecasting: The province reported 476 new cases of COVID-19, bringing the total number of cases to 13,995. Hospitalizations from the virus rose to 925 from 910 on Friday. The number of patients in intensive care and on ventilators increased slightly, bringing the totals to 245 and 195, respectively. The growth rate of cases in the province has been reducing, with a positivity rate of 5% compared to 12.5-13% at the beginning of April. The province has reported 811 deaths from COVID-19, though CBC News has counted 901 deaths using data from local health units. Some 7,509 people have recovered. The province has extended the closure of Ontario's provincial parks and conservation reserves until May 31, but has allowed community gardens to reopen. These values provide insight into the current state of the pandemic in Ontario, including the number of new cases, hospitalizations, and deaths. The growth rate of cases and the positivity rate can help inform forecasting models, while the number of recoveries and deaths can provide context for the severity of the pandemic.
+
+Article 2 of 5
+Title: 'Bunch of yahoos': Ontario premier slams anti-lockdown protesters at Queen's Park
+Publisher: CBC.ca
+Trusted: False
+Posted: Today
+This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: The article reports on an anti-lockdown protest at Queen's Park in Ontario, where approximately 200 people gathered to call for an end to the shutdown of services, businesses, and public spaces. Ontario Premier Doug Ford criticized the protesters, calling them "selfish" and "irresponsible" for demonstrating against provincial emergency orders aimed at slowing the spread of COVID-19. The article mentions that Ontario has been under a state of emergency for 40 days, with many services and businesses closed, and that the number of COVID-19 deaths, hospitalizations, and cases continues to rise. The Ontario health ministry reported a total of 811 deaths from COVID-19, with 245 people in intensive care units, and a total of 13,995 cases in the province, representing a 3.5% increase over the previous day's report. The values most important for forecasting COVID-19 hospitalizations in Ontario, Canada, from this article are: The number of COVID-19 deaths (811) The number of people in intensive care units (245) The total number of cases in the province (13,995) The percentage increase in cases over the previous day's report (3.5%) These values provide insight into the current state of the pandemic in Ontario and can be used to inform forecasting models for COVID-19 hospitalizations.
+
+Article 3 of 5
+Title: 6 Ontario long-term care homes failed to follow COVID-19 public health advice, lawsuit alleges
+Publisher: CBC.ca
+Trusted: False
+Posted: 1 day ago
+TRUE. This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada, as it highlights the spread of COVID-19 in long-term care homes, which can lead to increased hospitalizations. Key values mentioned in the article that are important for forecasting COVID-19 hospitalizations in Ontario include: Over 570 elderly residents have died from COVID-19 in long-term care homes. More than 130 facilities are affected, housing some of the province's most vulnerable residents. Specific long-term care homes mentioned in the article have high numbers of COVID-19 cases and deaths, such as: + Hawthorne Place: 9 deaths, at least 47 cases of COVID-19. + Eatonville Care Centre: over 140 residents have officially tested positive for the virus, 37 of them have died from COVID-19-related complications. + Anson Place: a quarter of the 101 residents have died of complications related to COVID-19, with 27 residents succumbing to the disease. These numbers indicate a significant spread of COVID-19 in long-term care homes, which can lead to increased hospitalizations and strain on the healthcare system.
+
+Article 4 of 5
+Title: COVID-19 in Ontario: hospitalizations steady, premier's mother-in-law tests positive
+Publisher: CBC.ca
+Trusted: False
+Posted: 2 days ago
+This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting values most important for forecasting: New cases: 634 (total: 12,879) Hospitalizations: 887 (up from 878) ICU cases: 233 (down from 243) Patients on ventilators: 185 (down from 192) Deaths: 713 (official toll), 798 (reported by regional public health units) Long-term care facilities: + Outbreaks: 132 (out of 626 homes) + Deaths: 516 + Residents infected: 2,189 + Staff infected: 1,058 Testing: + Processed tests: 10,214 + Backlog: 6,757 samples waiting to be tested These values provide insight into the current state of COVID-19 in Ontario, including the number of new cases, hospitalizations, ICU cases, and deaths. The data on long-term care facilities is particularly important, as these settings have been hard hit by the pandemic. The testing data is also relevant, as it indicates the province's capacity to detect and track cases.
+
+Article 5 of 5
+Title: No evidence COVID-19 cases have peaked in Ottawa: Dr. Etches
+Publisher: CTV News Ottawa
+Trusted: False
+Posted: 5 days ago
+TRUE. The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting values most important for forecasting: Ottawa's Medical Officer of Health, Dr. Vera Etches, believes that while COVID-19 has not peaked in Ottawa yet, the "worst is over" for the general population in terms of hospitalizations during the first wave of the pandemic. Ontario health officials' new modeling data suggests that cases have peaked across Ontario, but the spread of COVID-19 in long-term care homes and other congregate settings is growing. Key metrics for forecasting hospitalizations: + Hospitalization rate: stable in Ottawa, with 37 people being treated in hospital for COVID-19, including 10 in the intensive care unit. + Case numbers: 54 new cases reported in Ottawa, bringing the total to 857 laboratory-confirmed cases. + Outbreaks in long-term care and retirement homes: 19 current outbreaks in Ottawa. + Physical distancing measures: still necessary to prevent a surge in infections, as 99% of the population is still not immune. These values suggest that while hospitalizations may have stabilized, there is still a risk of increased transmission in vulnerable settings, and continued physical distancing measures are necessary to prevent a surge in infections.

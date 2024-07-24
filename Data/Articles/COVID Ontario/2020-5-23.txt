@@ -1,0 +1,29 @@
+Below are 4 news articles from the past 7 days regarding COVID-19 Hospitalizations Ontario to help guide you in making your decision. Using your best judgement, take into consideration only the articles that are most relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Articles that are from know reputable sources have been flagged with "Trusted: True".
+
+Article 1 of 4
+Title: Ontario recommending masks for public transit riders as 390 new COVID-19 cases confirmed
+Publisher: CBC.ca
+Trusted: False
+Posted: 3 days ago
+This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: 390 new cases of COVID-19 were reported, a 1.7% jump in total cases. The province processed 7,382 tests, which is below the target of 16,000 tests per day. Hospitalizations increased by 4 to 991. COVID-19 patients in intensive care units fell by 7 to 160, and those on ventilators dropped by 3 to 120. The Greater Toronto Area accounts for 63.4% of all cases in the province. More than 76% of cases are resolved, and the official death toll is 1,962. The province is recommending the use of non-medical masks and plexiglass barriers on public transit. These values provide insight into the current state of COVID-19 in Ontario, including the number of new cases, hospitalizations, and deaths. They also highlight the province's efforts to control the spread of the virus, such as increased testing and public health measures. This information can be used to inform forecasting models and predict future trends in COVID-19 hospitalizations in Ontario.
+
+Article 2 of 4
+Title: 'Culture shift' needed to accept wearing masks: Dr. Etches
+Publisher: CTV News Ottawa
+Trusted: False
+Posted: 3 days ago
+TRUE
+
+Article 3 of 4
+Title: Ottawa Public Health develops COVID-19 assessment tool for businesses
+Publisher: CTV News Ottawa
+Trusted: False
+Posted: 3 days ago
+TRUE
+
+Article 4 of 4
+Title: Ontario shuts schools until September because of COVID-19 pandemic
+Publisher: CBC.ca
+Trusted: False
+Posted: 4 days ago
+This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: The Ontario government has announced that schools will remain closed for the rest of the school year due to the COVID-19 pandemic. The decision was made after consultation with the chief medical officer of health and medical experts. The province reported 427 new cases of COVID-19, a 1.9% increase, bringing the total to 23,384 cases. The growth rate in new daily cases is slightly higher than in recent weeks, which had hovered around 1.5%. The official death toll rose to 1,919, with more than 70% of deaths occurring in long-term care homes. The province's network of labs processed 5,813 tests on Victoria Day, below the target of 16,000 per day. An independent commission will be launched to review the long-term care system, which has been heavily impacted by the pandemic. The values most important for forecasting COVID-19 hospitalizations in Ontario, Canada, from this article are: The number of new cases (427) and the growth rate (1.9%) The total number of cases (23,384) The number of deaths (1,919) and the proportion of deaths in long-term care homes (more than 70%) The number of tests processed (5,813) and the target number of tests per day (16,000) These values can be used to inform forecasting models and predict future trends in COVID-19 hospitalizations in Ontario, Canada.

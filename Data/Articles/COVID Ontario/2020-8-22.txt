@@ -1,0 +1,36 @@
+Below are 5 news articles from the past 7 days regarding COVID-19 Hospitalizations Ontario to help guide you in making your decision. Using your best judgement, take into consideration only the articles that are most relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Articles that are from know reputable sources have been flagged with "Trusted: True".
+
+Article 1 of 5
+Title: Ontario records slightly more than 100 new cases of COVID-19
+Publisher: CTV News Toronto
+Trusted: False
+Posted: Today
+A brief summary of the article relevant for forecasting COVID-19 hospitalizations in Ontario, Canada: The article provides an update on COVID-19 in Ontario, reporting 108 new cases, bringing the total to 41,287 cases. The death toll stands at 2,797, with one additional death reported. Most new cases were in people aged 20-39, with Toronto, Peel Region, and Ottawa reporting the majority of new cases. Hospitalizations remain relatively low, with 40 patients in hospitals, 13 in intensive care, and seven on ventilators. The province conducted close to 29,000 tests in the last 24 hours, with a total of nearly 2,750,000 tests processed since the outbreak began.
+
+Article 2 of 5
+Title: Ontario sees hike in new COVID-19 cases following data glitch
+Publisher: CTV News Toronto
+Trusted: False
+Posted: 1 day ago
+TRUE. The article provides relevant information for forecasting COVID-19 hospitalizations in Ontario, Canada. Key values for forecasting include: 131 new cases reported on Friday (note: this is an overestimation due to a glitch) 35 people currently hospitalized with COVID-19 13 patients in the intensive care unit (ICU) 7 patients requiring a ventilator 28,000 COVID-19 tests conducted in the last 24 hours 19,941 test samples still under investigation Breakdown of new cases by region: Ottawa (37), Peel Region (21), Toronto (25), Niagara Region (8) Breakdown of new cases by age group: majority between 20-39 years old, 21 cases under 20 years old, 18 cases above 60 years old. These values provide insight into the current state of COVID-19 in Ontario, including the number of new cases, hospitalizations, and testing efforts, which can inform forecasting models.
+
+Article 3 of 5
+Title: Ontario records fewer than 100 new COVID-19 cases for second straight day
+Publisher: CTV News Toronto
+Trusted: False
+Posted: 5 days ago
+The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Key values important for forecasting hospitalizations include the number of new cases reported daily, the number of hospitalizations, the number of patients in intensive care units, and the number of patients on ventilators. Additionally, monitoring the testing capacity and the number of tests conducted can provide insights into the spread of the virus and potential future hospitalizations.
+
+Article 4 of 5
+Title: Ontario records fewer than 100 new COVID-19 cases after slight uptick
+Publisher: CTV News Toronto
+Trusted: False
+Posted: 6 days ago
+TRUE. This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting values most important for forecasting: New cases: 81 (a 0.2% increase) Hospitalizations: 37 people in hospital, 18 in ICU, and 9 on ventilators (continuing to decline) Deaths: 0 new deaths, total deaths remain at 2,789 Recoveries: 36,953 Testing: 23,000 tests conducted in the last 24 hours, 25,847 test samples still under investigation Regional breakdown: Peel Region (27 new cases), Toronto (10 new cases), and Hamilton (8 new cases) reported the most new cases. These values provide insight into the current trend of COVID-19 cases, hospitalizations, and deaths in Ontario, which can inform forecasting models.
+
+Article 5 of 5
+Title: Ontario reports highest number of new COVID-19 cases in four days
+Publisher: CTV News Toronto
+Trusted: False
+Posted: 7 days ago
+TRUE. The article provides relevant information for forecasting COVID-19 hospitalizations in Ontario, Canada. Key values for forecasting include: 106 new cases reported on Saturday, a slight uptick from previous days 39 people currently hospitalized due to COVID-19, with 17 in the intensive care unit and 10 on ventilators Hospitalizations continue to decline Majority of new cases are between 20-39 years old 27 of 34 public health units reported 5 or fewer new cases, with 18 reporting no new cases Testing: over 2.5 million tests conducted, with 30,000 tests in the last 24 hours and 33,852 test samples under investigation. These values provide insight into the current trend of COVID-19 cases, hospitalizations, and testing in Ontario, which can inform forecasting models.

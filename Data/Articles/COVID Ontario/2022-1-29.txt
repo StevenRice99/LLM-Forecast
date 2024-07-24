@@ -1,0 +1,64 @@
+Below are 9 news articles from the past 7 days regarding COVID-19 Hospitalizations Ontario to help guide you in making your decision. Using your best judgement, take into consideration only the articles that are most relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Articles that are from know reputable sources have been flagged with "Trusted: True".
+
+Article 1 of 9
+Title: Ontario reports 58 more COVID-19 deaths as hospitalizations continue to drop
+Publisher: CTV News Toronto
+Trusted: False
+Posted: Today
+This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Current hospitalizations: 3,439 (down from previous day) ICU admissions: 597 (with 82% admitted due to COVID-19) Deaths: 58 additional deaths reported, with 1,161 deaths reported this month Vaccination status of ICU patients: 231 (39%) were fully vaccinated with two doses Test positivity rate: 13.9% (based on 29,241 tests processed in the last 24 hours) New cases: 4,855 (with majority in Greater Toronto Area) Long-term care homes: 240 residents and 84 staff members have COVID-19 These values provide insight into the current state of COVID-19 hospitalizations, ICU admissions, deaths, vaccination effectiveness, and test positivity rates in Ontario, Canada, which can be used to inform forecasting models.
+
+Article 2 of 9
+Title: How Canada can avoid past mistakes as COVID-19 restrictions lift
+Publisher: CBC News
+Trusted: False
+Posted: Today
+TRUE. The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Ontario is easing restrictions, including limits on indoor gatherings, gyms, bars, restaurants, and other venues, despite record-high hospitalizations only beginning to show signs of peaking. A subvariant of Omicron, BA.2, has been detected in Canada, with over 100 cases, and is considered 1.5 times more infectious. Experts warn that reopening too quickly could lead to another surge, and that the virus is constantly mutating, making it challenging to predict its behavior. Hospitalization rates, ICU admissions, and deaths are important indicators to consider when deciding to lift restrictions. Wastewater surveillance is also mentioned as a leading indicator to track the spread of the virus. Experts emphasize the importance of transparency, caution, and preparedness in reopening plans, as well as considering the level of community immunity from vaccinations and prior infections. The article mentions that high population immunity may help fend off future waves, but it's uncertain whether it will be enough to prevent another surge. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Hospitalization rates ICU admissions Deaths Wastewater surveillance data Community immunity levels from vaccinations and prior infections Presence and spread of new variants, such as BA.2
+
+Article 3 of 9
+Title: Ontario doctors welcome decision to resume non-urgent surgeries as 'the right first step'
+Publisher: CBC.ca
+Trusted: False
+Posted: 1 day ago
+This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: The Ontario Ministry of Health is resuming some surgeries paused due to the Omicron surge, starting next Monday, which may impact hospital capacity. The number of COVID-19 hospitalizations in Ontario has dropped to 3,535, down from 3,645 the day before and 4,114 at the same time last week. However, the number of patients with COVID-19 in intensive care has increased slightly to 607, up from 599 the day before and 590 the same time last week. Roughly 82% of the people with COVID-19 in ICUs were admitted for reasons directly related to the virus. The Ontario Hospital Association believes that COVID-related critical illness ICU admissions and COVID-related hospitalizations are peaking. Dr. Chris Simpson, executive vice president of medical at Ontario Health, expects the bulk of surgeries and procedures to begin in the second phase of the resumption, which will be triggered when health officials have more reassurance that COVID hospitalizations are coming down and ICU numbers are stable. These values suggest that while COVID-19 hospitalizations may be peaking, the healthcare system is still under strain, and the resumption of surgeries may impact hospital capacity. The article provides valuable information for forecasting COVID-19 hospitalizations in Ontario, Canada, particularly with regards to the current trends in hospitalizations and ICU admissions.
+
+Article 4 of 9
+Title: Ontario to resume non-urgent surgeries on Monday when province lifts some COVID-19 restrictions
+Publisher: CBC.ca
+Trusted: False
+Posted: 2 days ago
+This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Hospitalizations: 3,645 people with COVID-19 in hospitals, down from 4,016 the day before and 4,061 at the same time last week. ICU admissions: 599 patients with COVID-19 who required intensive care, down from 608 the day before but up slightly from the same time last week. Deaths: 70 new deaths reported, bringing the official toll to 11,230. January 2022 is on track to be among the deadliest months of the pandemic in Ontario, with 1,036 deaths confirmed thus far. Vaccination: The province is prioritizing older, unvaccinated residents and immunocompromised individuals for a new antiviral COVID-19 treatment, Paxlovid. Public health measures: Some public health measures will be lifted on Monday, including the reopening of businesses, indoor social gathering limits increasing from 5 to 10, and restaurants reopening their dining rooms at 50% capacity. These values suggest that while hospitalizations and ICU admissions are decreasing, deaths remain high, and the province is taking steps to prioritize vaccination and treatment for high-risk individuals. The lifting of public health measures may impact future hospitalization rates, and it is essential to monitor the situation closely.
+
+Article 5 of 9
+Title: PM Trudeau in self-imposed lockdown after COVID exposure
+Publisher: Canada's National Observer
+Trusted: False
+Posted: 2 days ago
+This article is partially relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. The relevant information is: Ontario is tweaking some of its reopening rules, which may impact the spread of COVID-19 and subsequently hospitalizations. The article mentions that the Saskatchewan government is revising its public health order to treat the COVID-19 Omicron variant like other common respiratory viruses, which may indicate a shift in the province's approach to managing the pandemic. However, this is not directly relevant to Ontario. The article does not provide any direct data or metrics that can be used for forecasting COVID-19 hospitalizations in Ontario, such as case numbers, hospitalization rates, or vaccination rates. Therefore, its usefulness for forecasting is limited.
+
+Article 6 of 9
+Title: Let's all go to the lobby: Ontario to allow popcorn, snacks in movie theatres
+Publisher: Daily Hive
+Trusted: False
+Posted: 2 days ago
+This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Summary: Ontario is easing COVID-19 restrictions, allowing movie theatres to open at 50% capacity and permitting food and beverage services in cinemas and other venues starting January 31. Capacity limits will be lifted in indoor settings that require proof of vaccination on February 21. Social gathering limits will increase to 25 people indoors and 100 outdoors on February 21, and to 50 people indoors with no outdoor limits on March 14. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: January 31: 50% capacity limit for movie theatres and other venues February 21: lifting of capacity limits in indoor settings with proof of vaccination, increased social gathering limits March 14: lifting of capacity limits in all indoor public settings, increased social gathering limits These dates and capacity limits can inform forecasting models about potential changes in population mobility, contact rates, and transmission dynamics, which can impact COVID-19 hospitalizations in Ontario, Canada.
+
+Article 7 of 9
+Title: Quebec was among the first to test wastewater for COVID-19. Then it stopped funding the research
+Publisher: CBC.ca
+Trusted: False
+Posted: 2 days ago
+TRUE The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada, as it discusses the use of wastewater testing as a tool to track the spread of the virus and prepare for a potential rise in hospitalizations. Key points relevant to forecasting COVID-19 hospitalizations in Ontario include: Wastewater testing can serve as an "early detector" for a rise in cases and help understand the trajectory of the disease in a community when PCR testing is not available. Ontario's science table has begun making wastewater results public, showing a peak of virus concentration in wastewater around Jan. 4, then falling by about a quarter by Jan. 17. Experts emphasize the importance of complementing wastewater testing with other measures, such as improved ventilation in high-risk settings and preparing the healthcare system for a potential rise in hospitalizations. These points highlight the potential value of wastewater testing as a tool for forecasting COVID-19 hospitalizations in Ontario, and the need for a multi-faceted approach to pandemic management.
+
+Article 8 of 9
+Title: 'I feel forgotten': Patients in Ontario wait for surgeries postponed due to COVID-19
+Publisher: CBC.ca
+Trusted: False
+Posted: 3 days ago
+This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary, highlighting values most important for forecasting: The Ontario government has paused all non-urgent surgeries and procedures due to soaring COVID-19 cases, which has resulted in a backlog of nearly 20 million health-care services. The president of the Ontario Medical Association, Dr. Adam Kassam, states that the pandemic has created a significant backlog of health-care services, including surgeries, colonoscopies, and mental health services. Health Minister Christine Elliott mentions that the government will restart surgeries once hospital and ICU admissions start dropping, with an expected peak of ICU admissions in mid-February. The article highlights the frustration of patients who have had their surgeries postponed indefinitely, which could lead to worsening health outcomes. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: The current backlog of health-care services (20 million) The expected peak of ICU admissions (mid-February) The government's plan to restart surgeries once hospital and ICU admissions start dropping These values can be used to inform forecasting models and predict when COVID-19 hospitalizations may decrease, allowing for the restart of non-urgent surgeries and procedures.
+
+Article 9 of 9
+Title: Fully vaccinated should mean 3 doses, says head of Ontario's COVID-19 science table
+Publisher: CBC.ca
+Trusted: False
+Posted: 7 days ago
+TRUE. The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting values most important for forecasting: Dr. Peter Jüni, the scientific director of Ontario's COVID-19 science advisory table, is calling for a change in the definition of "fully vaccinated" from two to three doses, citing the reduced protection against infection with the Omicron variant. Three U.S. studies have shown that three shots are more effective against preventing hospitalization and infection due to the Omicron variant. The article mentions that two doses of the vaccine continue to protect well against hospital and ICU admissions, but there is little protection against infection. The reopening plan for Ontario is also mentioned, with capacity limits being lifted in stages, which could potentially impact hospitalization rates. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: The effectiveness of two versus three doses of the vaccine in preventing hospitalization and infection. The impact of the reopening plan on hospitalization rates. The spread of the Omicron variant and its potential to cause increased hospitalizations.

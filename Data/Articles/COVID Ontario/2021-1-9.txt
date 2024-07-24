@@ -1,0 +1,71 @@
+Below are 10 news articles from the past 7 days regarding COVID-19 Hospitalizations Ontario to help guide you in making your decision. Using your best judgement, take into consideration only the articles that are most relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Articles that are from know reputable sources have been flagged with "Trusted: True".
+
+Article 1 of 10
+Title: Little to no room in eastern Ontario for COVID-19 patients from other regions, say officials
+Publisher: CBC.ca
+Trusted: False
+Posted: Today
+TRUE. The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting values most important for forecasting: Eastern Ontario is experiencing a sharp surge in COVID-19 cases, with Cornwall leading the way in case count and hospitalizations. The Cornwall Community Hospital, designated as the regional COVID-19 ICU, is already under strain with three COVID-19 patients in the ICU. Hospitals in the region are being told to prepare to activate emergency plans and reserve one-third of ICU beds for transfers from hospitals with no more room. Kingston Health Sciences Centre is taking in patient transfers from southeastern Ontario and beyond, and is working to increase capacity, but the need is unclear. A field hospital is being developed to help with COVID-19 patients, but won't be ready for several weeks. Important values for forecasting COVID-19 hospitalizations in Ontario, Canada include: Case count and hospitalization rates in eastern Ontario, particularly in Cornwall. ICU capacity and occupancy rates in regional hospitals. Number of COVID-19 patients in ICU and non-ICU beds. Availability of emergency plans and reserve ICU beds for transfers. Timeline for the development of field hospitals and increased capacity. These values can inform forecasting models and help predict the trajectory of COVID-19 hospitalizations in Ontario, Canada.
+
+Article 2 of 10
+Title: 'Lockdown light' failed in Canada's hardest-hit regions. Here's what experts say should happen now
+Publisher: CBC News
+Trusted: False
+Posted: Today
+TRUE This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. The article discusses the current situation in Ontario, where lockdown measures have not been effective in containing the spread of COVID-19, and experts are warning of a looming disaster in hospitals. Key points relevant for forecasting hospitalizations include: The number of new daily cases has doubled since the lockdown was imposed on Boxing Day, from 2,123 to 4,249. Experts are warning that the current lockdown measures are not strict enough and that more drastic restrictions are needed to prevent the situation from getting out of control. The Ontario Hospital Association is warning of a shortage of beds and an unrelenting rise in COVID-19 levels in several hotspots. Dr. Susy Hota, an infectious disease specialist, is quoted as saying that the "critical pressures" on the healthcare system are even worse now than in the first wave, and that hospitals may not be able to accommodate the volumes of COVID patients coming in. The article mentions that Quebec has implemented a curfew and a four-week lockdown, which may be an indication of the types of measures that could be taken in Ontario. Overall, the article suggests that the current situation in Ontario is dire, and that more severe restrictions may be needed to prevent a catastrophic increase in hospitalizations.
+
+Article 3 of 10
+Title: Coronavirus: Kingston prepares to receive out-of-region COVID-19 patients - Kingston
+Publisher: Global News
+Trusted: False
+Posted: 1 day ago
+TRUE. The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the values most important for forecasting: Projected COVID-19-related critical illness patients in intensive care units (ICUs): over 500 by January 24 Projected COVID-19 hospitalizations: over 1,700 by January 24 Current number of people in ICUs across the province: 600 Current number of cases: record high of 4,249 Available ICU bed capacity in Kingston: 13 at Kingston General Hospital, 60 at Providence Care, and 45 at Hotel Dieu Hospital (once renovation is complete) Potential capacity of field hospital: around 90 patients Staffing challenges: increasing staff on short notice to open and staff new units. These values provide insight into the current and projected demand for hospital resources, including ICUs and hospital beds, as well as the challenges faced by hospitals in terms of staffing and capacity. This information can be used to inform forecasting models and predict future hospitalization rates in Ontario, Canada.
+
+Article 4 of 10
+Title: Ontario preparing to transfer hospital patients out of regions worst-hit by COVID-19
+Publisher: CBC.ca
+Trusted: False
+Posted: 2 days ago
+TRUE. The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the key points: Ontario hospitals are being told to prepare for transferring dozens to hundreds of patients across and out of regions due to unprecedented numbers of COVID-19 cases. The province has created a COVID-19 critical-care command centre to manage ICU patient transfers between hospitals. Hospitals with available ICU space are required to reserve one-third of those beds for transfers from hospitals that have reached maximum ICU capacity. Ontario's hospitals are projected to have over 500 COVID-19 patients in ICUs and over 1,700 COVID-19 hospitalizations by January 24. The situation is described as "extraordinarily serious" and "disastrous" by healthcare officials, with some hospitals already overflowing and local transfer options drying up. These points suggest a rapidly escalating situation, with hospital capacity being severely strained. This information is crucial for forecasting COVID-19 hospitalizations in Ontario, as it highlights the urgent need for increased capacity and resource allocation to manage the surge in cases.
+
+Article 5 of 10
+Title: Ontario reports more than 3,000 new COVID-19 cases for third day in a row, 37 deaths
+Publisher: CP24
+Trusted: False
+Posted: 3 days ago
+This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: New cases: 3,266 (up from 3,128 the previous day) 7-day rolling average: 3,113 (up from 2,309 a week ago) Hospitalizations: 1,463 (up from 1,347 the previous day) ICU patients: 361 (according to the Ministry of Health) or 374 (according to the Ontario Hospital Association) ICU patients on ventilators: 246 Deaths: 37 (down from 51 the previous day) Positivity rate: 8.5% (down from 9.4% the previous day) Vaccinations: 60,380 doses administered, with 860 vaccinations completed. These values suggest that COVID-19 hospitalizations in Ontario are increasing, with a rising 7-day rolling average and a high number of new cases. The number of ICU patients and patients on ventilators is also concerning. However, the positivity rate has dropped slightly, and vaccinations are ongoing, with a goal to inoculate all long-term care residents, staff, and essential workers in hard-hit regions by January 21.
+
+Article 6 of 10
+Title: Ontario surpasses 200,000 COVID-19 cases since beginning of pandemic as hospitalizations surge
+Publisher: CTV News Toronto
+Trusted: False
+Posted: 3 days ago
+TRUE. This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting values most important for forecasting: New cases: 3,266 ( fifth time since late December with over 3,000 new infections) Hospitalizations: 1,463 (record-breaking number of people in hospital due to COVID-19) ICU patients: 361 (including 246 on ventilators) Deaths: 37 new deaths, total death toll at 4,767 Test positivity rate: 8.5% Vaccinations: 60,380 doses administered, 860 total vaccinations completed Lockdown measures: Ontario-wide lockdown in place until Jan. 23 (south of Sudbury) and Jan. 9 (north of Sudbury) These values provide insight into the current spread of the virus, hospital capacity, and vaccination efforts, which are crucial for forecasting COVID-19 hospitalizations in Ontario, Canada.
+
+Article 7 of 10
+Title: Ontario reports another 3,100+ COVID-19 cases; hospitalizations hit all-time high
+Publisher: CP24
+Trusted: False
+Posted: 4 days ago
+TRUE This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting values most important for forecasting: New cases: 3,128 (Tuesday), 3,270 (Monday), 2,964 (Sunday), and a record 3,363 (Saturday) Hospitalizations: 1,347 people in hospital receiving treatment for COVID-19 symptoms (Tuesday), up from 1,322 (Monday) ICU admissions: 369 people in ICUs with COVID-19 across Ontario, with 45 new admissions in the past day Test positivity: 9.4% (Tuesday), slightly lower than Monday Active cases: 25,840 (Tuesday), up from 19,612 a week ago and 15,212 a month ago Long-term care homes in outbreak: 235 out of 626 (Tuesday), an increase of 19 in the past two days These values indicate a worsening trend in COVID-19 cases and hospitalizations in Ontario, with record-high hospitalizations and ICU admissions. The high test positivity rate and increasing number of long-term care homes in outbreak also suggest a concerning situation. These metrics can be used to inform forecasting models and predict future hospitalization trends.
+
+Article 8 of 10
+Title: Field hospitals and cancelled surgeries: health-care system under siege by rising COVID-19 cases
+Publisher: CTV News
+Trusted: False
+Posted: 4 days ago
+TRUE. The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting values most important for forecasting: The number of people experiencing severe illness due to COVID-19 has continued to rise in Ontario, putting a strain on hospital resources. Several regions in Ontario have been forced to utilize or set up field hospitals to manage the surge in COVID-19 patients. The Pandemic Response Unit at Joseph Brant Hospital in Burlington, Ont., has been activated to take patients, with 76 beds available. In the past seven days, there were an average of more than 4,000 individuals with COVID-19 being treated in Canadian hospitals, with 770 of them in critical care. Hospitals are trying to stay open for all other elective surgeries and emergencies, but it's becoming increasingly difficult with cases rising. Other regions in Ontario, such as Oakville and Windsor, are also experiencing capacity issues, with temporary morgues and refrigerated trailers being used to hold bodies. The Chief Public Health Officer of Canada, Dr. Theresa Tam, warns that the next few months will be "really difficult" in Canada, emphasizing the need to reduce the risk of importation and escalation of the pandemic. These values suggest a rising trend in COVID-19 hospitalizations in Ontario, with hospitals and healthcare systems under increasing strain. This information can be used to inform forecasting models and predict future hospitalization rates in the province.
+
+Article 9 of 10
+Title: ‘A bit of a nightmare:’ Health expert calls for stricter rules as COVID cases surge
+Publisher: vancouverislandfreedaily.com
+Trusted: False
+Posted: 4 days ago
+This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Ontario reported 3,270 new cases of COVID-19 and 29 more deaths on Monday. There are currently 1,190 people hospitalized with COVID-19 in Ontario, including 333 in intensive care. Public health experts are warning that stricter measures and adherence to guidelines are needed to control the spread of the virus and ease pressure on the healthcare system. Some experts are suggesting that a curfew, closure of the manufacturing sector, and other strict measures may be necessary to reduce the number of cases and hospitalizations. The article also mentions that many people are feeling "pandemic fatigue" and are not following public health directives, which is contributing to the high number of cases and hospitalizations. These values can be used to inform forecasting models of COVID-19 hospitalizations in Ontario, Canada, by taking into account the current number of cases and hospitalizations, as well as the potential impact of stricter measures and adherence to guidelines on the spread of the virus.
+
+Article 10 of 10
+Title: Ontario logs more than 3,100 new COVID-19 cases, confirms 51 more deaths as hospitalizations hit record high
+Publisher: CTV News Toronto
+Trusted: False
+Posted: 4 days ago
+TRUE. This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting the values most important for forecasting: New COVID-19 cases: 3,128 (fourth time this week above 3,000) Seven-day average: 2,646 (up from 2,236 one week ago) Test positivity rate: 9.4% (second highest ever reported in Ontario) Hospitalizations: 1,347 (highest occupancy recorded since the pandemic began) ICU patients: 352 (with 245 on a ventilator) Deaths: 51 new deaths, 22 of which were in long-term care homes Vaccinations: 50,030 doses administered, with 117 total vaccinations completed. These values indicate a continued surge in COVID-19 cases and hospitalizations in Ontario, which is likely to impact hospital capacity and medical care in the province. The vaccination efforts are ongoing, but the number of completed vaccinations is still relatively low.

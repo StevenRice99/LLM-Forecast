@@ -1,0 +1,8 @@
+Below is 1 news article from the past 7 days regarding COVID-19 Hospitalizations Ontario to help guide you in making your decision. Using your best judgement, take into consideration only the articles that are most relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Articles that are from know reputable sources have been flagged with "Trusted: True".
+
+Article 1 of 1
+Title: New COVID-19 'hazard index' launches for Canadian provinces
+Publisher: Business in Vancouver
+Trusted: False
+Posted: 2 days ago
+TRUE The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting the most important values: The Canadian COVID-19 Hazard Index provides a provincial risk assessment tool, including estimates of daily and cumulative hospitalization costs due to the virus. COVID-19 hospitalizations have cost Canada $4.6 billion, with an average hospitalization cost estimated to be three times that of a heart attack. The index notes that unvaccinated children under 11 have a higher risk of hospitalization and ICU admission from Omicron compared to vaccinated children. The website also tracks excess mortality, which has risen 22.3% in B.C. since February 2020. These values can be used to inform forecasting models of COVID-19 hospitalizations in Ontario, Canada, particularly in terms of estimating hospitalization costs and understanding the impact of vaccination on hospitalization rates.

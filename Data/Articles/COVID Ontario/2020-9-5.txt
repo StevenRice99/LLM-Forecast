@@ -1,0 +1,29 @@
+Below are 4 news articles from the past 7 days regarding COVID-19 Hospitalizations Ontario to help guide you in making your decision. Using your best judgement, take into consideration only the articles that are most relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Articles that are from know reputable sources have been flagged with "Trusted: True".
+
+Article 1 of 4
+Title: COVID-19 update: 13 new cases in Ottawa on Friday
+Publisher: CTV News Ottawa
+Trusted: False
+Posted: 1 day ago
+This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: 13 new cases of COVID-19 were reported in Ottawa on Friday, bringing the total number of laboratory-confirmed cases to 3,022. There are 11 people in hospital with COVID-19 complications, with one person in intensive care. The number of known active cases of COVID-19 fell slightly to 187. 2,568 cases of COVID-19 in the city are considered resolved, accounting for 85% of all known cases to date. Ottawa Public Health continues to say the number of actual infections in the city could be between five and 30 times greater than the number of confirmed infections. These values are important for forecasting COVID-19 hospitalizations in Ontario, Canada, as they provide information on the current number of cases, hospitalizations, and active cases, which can be used to predict future hospitalization rates. Additionally, the article provides information on the number of resolved cases and the potential underreporting of cases, which can also inform forecasting models.
+
+Article 2 of 4
+Title: Premier Ford urging Ontarians to keep Labour Day parties small this year
+Publisher: CTV News Ottawa
+Trusted: False
+Posted: 1 day ago
+TRUE This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here's a brief summary highlighting the most important values for forecasting: 148 new cases of COVID-19 were reported in Ontario on Friday, with 72 cases in the Peel Region, which is the highest single-day tally in that area since June 4. The rolling seven-day average of new cases in Peel Region is now at 36, indicating a steady increase in cases. The number of new cases reported in Ottawa each day has been hovering around the low double digits for much of the last month, with a rolling seven-day average of 16. Active cases in Ottawa have been around 200 for the past week. The article also mentions the upcoming flu season (September to November) as a concern for increased COVID-19 spread. The Premier is urging citizens to keep Labour Day parties small and safe to prevent the spread of COVID-19. These values can be used to inform forecasting models about the current trend of COVID-19 cases in Ontario, particularly in the Peel Region and Ottawa, and the potential impact of the upcoming flu season on hospitalizations.
+
+Article 3 of 4
+Title: 110 COVID-19 infections reported to COVID Alert App in first month: Health Canada
+Publisher: CTV News Ottawa
+Trusted: False
+Posted: 3 days ago
+TRUE The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the key points: Only 110 COVID-19 infection reports have been logged into Canada's new COVID Alert App, despite over 2.2 million downloads and 3,088 reported cases in Ontario since the app's launch. This low reporting rate may create a false sense of security for people, as it relies on users to report their positive diagnoses and notify others of possible exposure. The app's effectiveness depends on widespread adoption and compliance, which is currently lacking. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Low reporting rate of COVID-19 infections through the app (110 reports out of 3,088 cases) High number of app downloads (2.2 million) but low engagement Lack of compliance and accountability among users, which may lead to underreporting and inaccurate forecasting.
+
+Article 4 of 4
+Title: COVID-19 update: 16 new cases in Ottawa on Sunday; active cases fall slightly
+Publisher: CTV News Ottawa
+Trusted: False
+Posted: 6 days ago
+This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: 16 new cases of COVID-19 were reported in Ottawa on Sunday, with a total of 112 new cases reported across Ontario. There are currently 11 people in hospital with COVID-19 complications in Ottawa, with 2 people in intensive care. The number of known active cases in Ottawa is 200, down 9 from the previous day. The number of resolved cases is 2,480, accounting for 84.2% of all known cases to date. Ottawa Public Health reports that the number of actual infections in the city could be 5 to 30 times greater than the number of lab-confirmed cases. The age breakdown of new cases shows that half of the new infections were in people in their 20s. These values are important for forecasting COVID-19 hospitalizations in Ontario, Canada, as they provide information on the current number of cases, hospitalizations, and active cases, as well as the age demographics of new cases. This information can be used to inform models and predictions of future hospitalization rates.

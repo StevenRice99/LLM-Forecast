@@ -1,0 +1,22 @@
+Below are 3 news articles from the past 7 days regarding COVID-19 Hospitalizations Ontario to help guide you in making your decision. Using your best judgement, take into consideration only the articles that are most relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Articles that are from know reputable sources have been flagged with "Trusted: True".
+
+Article 1 of 3
+Title: Ontario records more than 2,400 new COVID-19 cases as hospitalizations jump
+Publisher: CTV News Toronto
+Trusted: False
+Posted: Today
+This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: New COVID-19 infections: 2,453 cases (up from 2,169 cases on Friday) 7-day average for number of cases reported: 1,944 (up from 1,532 a week ago and 1,337 two weeks ago) Hospitalizations: 985 patients (up from 913 on Friday), with 365 in ICU and 192 on ventilators Positivity rate: 4.5% (based on 61,005 tests processed in the last 24 hours) Regional case distribution: Toronto (814), Peel Region (411), York Region (263), Hamilton (156), Durham Region (139), and Ottawa (115) Variant cases: 35 new cases of COVID-19 variants of concern confirmed, with 1,523 cases of B.1.1.7, 63 cases of B.1.351, and 61 cases of P.1 Vaccination progress: 308,301 people fully vaccinated, with 1,916,332 doses administered and 77,740 doses administered in the last day. These values suggest an increasing trend in COVID-19 cases and hospitalizations in Ontario, with a rising positivity rate and a growing presence of variants of concern. The vaccination progress is a positive note, but the pace of vaccination may need to accelerate to counter the growing case numbers.
+
+Article 2 of 3
+Title: Ontario reports fewer than 1,600 new COVID-19 cases for second straight day
+Publisher: CTV News Toronto
+Trusted: False
+Posted: 3 days ago
+This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: New cases: 1,571 (second straight day with fewer than 1,600 new cases) Seven-day average: 1,676 (up from 1,361 one week ago) Positivity rate: 3.7% (down from over 5% on Monday and Tuesday) Hospitalizations: 893 (steadily increasing) ICU patients: 333 Ventilator patients: 210 Deaths: 10 new deaths, total of 7,263 since the start of the pandemic Vaccinations: 302,664 people fully vaccinated, 72,451 doses administered in the last 24 hours These values suggest that while new cases may be plateauing, hospitalizations and ICU admissions are increasing, which could lead to a rise in COVID-19 hospitalizations in Ontario, Canada. The positivity rate and vaccination numbers are also important factors to consider when forecasting hospitalizations.
+
+Article 3 of 3
+Title: Research doesn't back vaccine dose delay for seniors, Canada's chief science adviser says
+Publisher: CTV News
+Trusted: False
+Posted: 5 days ago
+TRUE The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Canada's chief science adviser, Dr. Mona Nemer, advises against extending the time between doses of COVID-19 vaccines to four months for seniors and those with pre-existing conditions, citing a lack of research to justify the delay. Studies have shown that extending the interval between doses has had a negative effect on vaccine efficacy, particularly in seniors. Preliminary research from the UK found that 95% of cancer patients produced an antibody response if they received the second dose of the Pfizer vaccine three weeks after the first, while only 43% showed the same response if they waited five weeks. The National Advisory Committee on Immunization (NACI) may revisit its recommendation to extend the interval between doses, which could impact vaccine rollout and hospitalization rates in Ontario. Canada is expecting a large shipment of vaccines, which could also impact hospitalization rates. These points are relevant for forecasting COVID-19 hospitalizations in Ontario, Canada, as they relate to vaccine efficacy, dosage intervals, and vaccine supply, all of which can impact hospitalization rates.

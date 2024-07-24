@@ -1,0 +1,29 @@
+Below are 4 news articles from the past 7 days regarding COVID-19 Hospitalizations Ontario to help guide you in making your decision. Using your best judgement, take into consideration only the articles that are most relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Articles that are from know reputable sources have been flagged with "Trusted: True".
+
+Article 1 of 4
+Title: Canadian cannabis legalization linked to increased and decreased hospitalization, depending on the province
+Publisher: Medical Xpress
+Trusted: False
+Posted: 1 day ago
+This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Summary: The article discusses a study that analyzed cannabis-related hospitalization rates in Canada before and after cannabis legalization. The study found a significant increase in hospitalizations due to cannabis-induced psychosis, particularly in provinces with rapid commercialization and increased access to cannabis products. Ontario, which is one of the provinces studied, showed a 20% increase in hospitalizations after complete legalization and commercialization compared to pre-legalization rates. Important values for forecasting COVID-19 hospitalizations in Ontario, Canada: 20% increase in hospitalizations due to cannabis in Ontario after complete legalization and commercialization Significant increase in hospitalizations due to cannabis-induced psychosis Rapid commercialization and increased access to cannabis products associated with increased hospitalizations Note: The study's findings are relevant to forecasting COVID-19 hospitalizations in Ontario, Canada, as they suggest that the COVID-19 pandemic may have contributed to an increase in cannabis-related hospitalizations, particularly in provinces with rapid commercialization and increased access to cannabis products. However, the study's limitations, including the confounding bias of the COVID-19 pandemic, should be taken into account when interpreting the results.
+
+Article 2 of 4
+Title: COVID-19 trends high and stable in and around Ottawa
+Publisher: CBC.ca
+Trusted: False
+Posted: 2 days ago
+TRUE
+
+Article 3 of 4
+Title: Here is when flu and COVID-19 vaccines will be available in Ottawa
+Publisher: CTV News Ottawa
+Trusted: False
+Posted: 4 days ago
+The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Key points for forecasting COVID-19 hospitalizations include: Distribution of flu and COVID-19 vaccines to high-risk groups such as health care workers, first responders, residents and staff of congregate living settings, pregnant individuals, older adults, Indigenous populations, children, individuals with underlying health conditions, and members of racialized communities. Expectation of atypical respiratory season with flu, RSV, and COVID-19 circulating simultaneously. Recommendation for everyone 6 months and older to get the annual flu vaccine and the updated COVID-19 vaccine. Ministry of Health recommendation for individuals to receive a dose of the updated COVID-19 vaccine if it has been six months since their last vaccine or known infection. Availability of COVID-19 vaccine appointments at OPH Community Clinics and flu vaccine appointments through the Ottawa Public Health website. Data showing moderate levels of RSV, high levels of COVID-19, and new hospitalizations and deaths related to COVID-19 in Ottawa.
+
+Article 4 of 4
+Title: How seniors can access 4 key vaccines this fall — for COVID, flu, pneumonia, and RSV
+Publisher: CBC.ca
+Trusted: False
+Posted: 7 days ago
+This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. The article highlights the following values important for forecasting COVID-19 hospitalizations in Ontario, Canada: 1. Availability of COVID-19 vaccines: Updated COVID-19 vaccines are rolling out in Ontario, targeting the XBB.1.5 Omicron subvariant. 2. Vaccine uptake: Physicians warn that staggered rollouts, patchwork approaches among provinces, and high costs for certain shots could hinder vaccine uptake among seniors. 3. Respiratory virus season: The article mentions that RSV and influenza vaccines will be available this fall, which could impact COVID-19 hospitalizations. 4. Vulnerable populations: Seniors, especially those with pre-existing health conditions, are more susceptible to severe illness from COVID-19, RSV, and influenza. 5. Hospitalization trends: The article cites US CDC data showing that adults aged 65 and up accounted for roughly 63% of all COVID-related hospitalizations in 2023. These values can inform forecasting models by considering the impact of vaccine availability, uptake, and effectiveness on COVID-19 hospitalizations in Ontario, particularly among vulnerable populations such as seniors.

@@ -1,0 +1,36 @@
+Below are 5 news articles from the past 7 days regarding COVID-19 Hospitalizations Ontario to help guide you in making your decision. Using your best judgement, take into consideration only the articles that are most relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Articles that are from know reputable sources have been flagged with "Trusted: True".
+
+Article 1 of 5
+Title: Ontario reports record-high 2,923 new COVID-19 cases as ICU admissions reach pandemic high
+Publisher: CBC.ca
+Trusted: False
+Posted: 3 days ago
+This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Summary: Ontario reported a record 2,923 new COVID-19 cases on Wednesday, with 1,177 patients in hospital, 323 in intensive care, and 204 requiring ventilators. Hospitalizations and intensive care admissions have reached all-time highs, with several hospitals over capacity. The province's seven-day average has reached a new record-high of 2,310 cases. The test positivity rate is 8.4%, with 39,210 test samples processed and 54,955 tests in the queue. The province has reported 19 additional deaths, bringing the official toll to 4,474. The COVID-19 vaccine task force has outlined an ethics framework for vaccine distribution, prioritizing those at greatest risk of serious illness. Important values for forecasting COVID-19 hospitalizations in Ontario, Canada: Daily case count: 2,923 Hospitalizations: 1,177 Intensive care admissions: 323 Ventilator usage: 204 Seven-day average: 2,310 Test positivity rate: 8.4% Deaths: 19 (bringing the total to 4,474)
+
+Article 2 of 5
+Title: Ontario reports more than 2,900 new cases of COVID-19 for first time ever
+Publisher: CTV News Toronto
+Trusted: False
+Posted: 3 days ago
+This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: New COVID-19 case numbers in Ontario have reached a new high of 2,923 cases. The COVID-19 positivity rate in Ontario is 8.4%, with 39,210 tests completed in the last 24 hours. There are currently 1,177 people in hospital with COVID-19 in Ontario, which is the highest number since the beginning of the pandemic. 323 patients are being treated in an intensive care unit (ICU), which is above the benchmark of 300 patients that makes non-COVID-19 medical care challenging to handle. COVID-19 modelling data suggests that in the worst-case scenario, COVID-19 patient occupancy in the ICU could surpass 1,500 by mid-January. These values are important for forecasting COVID-19 hospitalizations in Ontario, Canada, as they provide information on the current trend of increasing cases and hospitalizations, as well as the potential future burden on the healthcare system.
+
+Article 3 of 5
+Title: Ontario reports more than 2,900 new cases of COVID-19 for first time ever
+Publisher: CTV News Toronto
+Trusted: False
+Posted: 3 days ago
+This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: New COVID-19 case numbers in Ontario have reached a new high of 2,923 cases, with a positivity rate of 8.4% and 39,210 tests completed in the last 24 hours. COVID-19 hospitalizations have surpassed a grim milestone, with 1,177 people currently in hospital, including 323 patients in intensive care units (ICUs). The number of COVID-19 patients in ICUs has exceeded the benchmark of 300, which the province has indicated makes it challenging to handle non-COVID-19-related medical care. COVID-19 modelling data released by the province suggests that in the worst-case scenario, COVID-19 patient occupancy in ICUs could surpass 1,500 by mid-January. These values are important for forecasting COVID-19 hospitalizations in Ontario, Canada, as they provide insight into the current trend of increasing cases and hospitalizations, as well as the potential future burden on the healthcare system.
+
+Article 4 of 5
+Title: New COVID Death In Northwestern Ontario
+Publisher: ckdr.net
+Trusted: False
+Posted: 3 days ago
+TRUE. This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the key values: 2 hospitalizations in the Northwestern Health Unit 0 hospitalizations in the Thunder Bay District 19 new deaths province-wide 2,923 new confirmed cases province-wide These values provide insight into the current state of COVID-19 hospitalizations and cases in specific regions of Ontario, as well as the province as a whole, which can be used to inform forecasting models.
+
+Article 5 of 5
+Title: Ontario may need to extend lockdown to bring COVID-19 numbers down, Eastern Ontario top doctor says
+Publisher: CTV News Ottawa
+Trusted: False
+Posted: 3 days ago
+TRUE. The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the key points: Ontario reported a record 2,923 new cases of COVID-19, with 64 cases in Ottawa and 16 in Eastern Ontario. The province-wide lockdown, which started 5 days ago, may not be enough to bring down the numbers, and Eastern Ontario's Medical Officer of Health, Dr. Paul Roumeliotis, suggests that the lockdown may need to be extended beyond the initial 28 days. The factors to consider when deciding whether to extend the lockdown include rate of growth, hospitalization rates, and the ability to do contact tracing. Dr. Roumeliotis expects the numbers to continue to rise for at least another couple of weeks due to the Christmas season and the high volume of cases. Ottawa's COVID-19 wastewater levels are increasing, indicating activity in the area, and the city's percent positivity rate has jumped to 2.5% from 2% over the past week. Important values for forecasting COVID-19 hospitalizations in Ontario, Canada, mentioned in the article include: 2,923 new cases of COVID-19 reported in Ontario 64 cases in Ottawa 16 cases in Eastern Ontario 2.5% percent positivity rate in Ottawa (up from 2% over the past week) 40.1 cases per 100,000 in Ottawa over the past 7 days These values indicate a rising trend in COVID-19 cases in Ontario, particularly in Ottawa, and suggest that the lockdown may need to be extended to bring the numbers under control.

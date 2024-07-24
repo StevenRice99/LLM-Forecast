@@ -1,0 +1,22 @@
+Below are 3 news articles from the past 7 days regarding COVID-19 Hospitalizations Ontario to help guide you in making your decision. Using your best judgement, take into consideration only the articles that are most relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Articles that are from know reputable sources have been flagged with "Trusted: True".
+
+Article 1 of 3
+Title: Canada buying 140,000 blood tests to begin immunity testing of COVID-19
+Publisher: CTV News
+Trusted: False
+Posted: 3 days ago
+TRUE The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada, as it discusses the efforts to determine the number of people who have already contracted COVID-19 through serology testing, which can help guide public health measures and vaccination strategies. The article highlights the following values important for forecasting COVID-19 hospitalizations in Ontario, Canada: The number of people who have already contracted COVID-19, which can help estimate the potential number of hospitalizations in a second wave. The populations most vulnerable to new outbreaks, which can inform targeted public health measures and vaccination strategies. The duration of immunity after contracting COVID-19, which can impact the likelihood of re-infection and subsequent hospitalization. The accuracy of serology testing, with Abbott's test showing only one false positive in over 1,000 specimens tested. The timeline for the arrival of testing kits and the start of immunity testing, which can inform forecasting models. However, it's worth noting that the article does not provide specific data or projections for Ontario, Canada, but rather discusses the national efforts to track COVID-19 immunity.
+
+Article 2 of 3
+Title: Ontario reports small increase in new COVID-19 cases but downward trend continues
+Publisher: CTV News Toronto
+Trusted: False
+Posted: 3 days ago
+TRUE. This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the values most important for forecasting: New cases: 190 (a 0.6% increase from the previous day) Total cases: 32,744 Resolved cases: 27,784 Deaths: 2,550 (with 12 new deaths since Tuesday) Hospitalizations: 383 patients (with 92 in ICU and 65 on ventilators) Positivity rate: around 1% Testing: 24,205 tests completed in the last 24 hours, with 1,071,429 tests conducted to date. These values provide insight into the current trend of COVID-19 cases, hospitalizations, and deaths in Ontario, which can be used to inform forecasting models.
+
+Article 3 of 3
+Title: Ontario records fewer than 200 new cases of COVID-19 for third straight day
+Publisher: CTV News Toronto
+Trusted: False
+Posted: 4 days ago
+This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: 184 new cases of COVID-19 were reported in Ontario, representing a 0.6% increase from the previous day. The number of resolved cases (218) outpaced the number of new cases, resulting in 34 fewer active cases in the province. The total number of cases in Ontario is 32,554, with 27,431 resolved cases and 2,538 deaths. Hospitalizations for COVID-19 in Ontario continue to decline, with 413 patients currently being treated for the virus, down from 419 the previous day. 98 patients are currently in an intensive care unit, with 70 breathing with the assistance of a ventilator. The majority of new cases were reported in Toronto (79), Peel Region (23), and Windsor-Essex (16). These values are important for forecasting COVID-19 hospitalizations in Ontario, Canada, as they provide information on the current trend of cases, hospitalizations, and deaths, as well as the regions most affected by the virus.

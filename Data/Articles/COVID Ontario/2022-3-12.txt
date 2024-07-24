@@ -1,0 +1,64 @@
+Below are 9 news articles from the past 7 days regarding COVID-19 Hospitalizations Ontario to help guide you in making your decision. Using your best judgement, take into consideration only the articles that are most relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Articles that are from know reputable sources have been flagged with "Trusted: True".
+
+Article 1 of 9
+Title: Masks or no masks? Kids share thoughts on dropping mask restrictions
+Publisher: CBC.ca
+Trusted: False
+Posted: 1 day ago
+This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: The province of Ontario is dropping mandatory masks in schools on March 21, citing high vaccination rates, decreased hospitalizations, and availability of new treatments. The article mentions that hospitalizations are down, which is a key indicator for forecasting COVID-19 hospitalizations. The article also mentions that some experts say it's too soon to drop mask mandates, which could potentially lead to an increase in cases and hospitalizations. The article highlights the importance of vaccination rates, which is a crucial factor in forecasting COVID-19 hospitalizations. The article also mentions that new treatments are available, which could impact hospitalization rates. Overall, the article provides context on the current state of COVID-19 in Ontario, including vaccination rates, hospitalizations, and government policies, which are all important factors for forecasting COVID-19 hospitalizations in the province.
+
+Article 2 of 9
+Title: Ontario will lift most COVID-19 mask mandates on March 21, top doctor says
+Publisher: CTV News Toronto
+Trusted: False
+Posted: 2 days ago
+This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: The province is lifting mask requirements in most indoor settings on March 21, which could potentially lead to an increase in COVID-19 transmission and hospitalizations. Mandatory vaccination policies for employees in high-risk settings, such as hospitals and long-term care homes, will end on March 14, which could also impact hospitalization rates. The number of hospitalizations and ICU admissions related to COVID-19 in Ontario has been dropping since mid-January, and the province believes the peak of the Omicron variant is "behind us". The presence of COVID-19 in wastewater sites has started to decrease, which could indicate a decline in community transmission. Isolation rules for those exposed to COVID-19 are also changing, which could impact the spread of the virus and subsequent hospitalizations. These changes in public health measures and trends in COVID-19 transmission could impact hospitalization rates in Ontario, making this article relevant for forecasting COVID-19 hospitalizations in the province.
+
+Article 3 of 9
+Title: With mask mandates easing, experts say choosing to wear one may be seen as making a statement
+Publisher: CTV News
+Trusted: False
+Posted: 2 days ago
+This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. The article discusses the lifting of mask mandates in Ontario and other provinces, which could lead to increased COVID-19 transmission and hospitalizations. Experts quoted in the article express concerns that the removal of mask mandates is premature and that the pandemic is not over. They also highlight the importance of individual responsibility in protecting oneself and others from COVID-19. Key points relevant to forecasting COVID-19 hospitalizations in Ontario include: The lifting of mask mandates in Ontario and other provinces could lead to increased COVID-19 transmission and hospitalizations. Experts believe that the pandemic is not over and that another variant will likely arise. The removal of mask mandates is seen as a shift from collective responsibility to individual responsibility in protecting against COVID-19. Some experts believe that the removal of mask mandates is premature and that it is too early to see the impact of previous reopening steps on COVID-19 cases and hospitalizations. These points suggest that COVID-19 hospitalizations in Ontario may increase in the coming weeks and months, particularly if the lifting of mask mandates leads to increased transmission of the virus.
+
+Article 4 of 9
+Title: Ontario to drop most mask mandates on March 21, remaining pandemic rules to lift by end of April
+Publisher: CBC.ca
+Trusted: False
+Posted: 3 days ago
+This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Ontario is lifting most mask mandates on March 21, including in schools, restaurants, gyms, and stores, due to improving health indicators such as a stable COVID-19 test positivity rate and declining hospitalizations. The province's chief medical officer of health, Dr. Kieran Moore, notes that removing the mask mandate "does not mean the risk is gone" and that vulnerable people should continue to take precautions. As of March 21, there will be 751 people in hospital with COVID-19, with 241 patients in intensive care. The province is reporting 27 more deaths linked to the virus, bringing the official death toll to 12,618. The article also mentions that Ontario is updating the way it reports COVID-19 deaths, including classifying whether COVID-19 caused a death, contributed to a death, or if the cause of death is unknown or missing. The values most important for forecasting COVID-19 hospitalizations in Ontario, Canada, are: Current hospitalization numbers (751) ICU patient numbers (241) Death toll (12,618) Test positivity rate (stable) Vaccination rate (high) Availability of antiviral treatments These values can be used to inform forecasting models and predict future trends in COVID-19 hospitalizations in Ontario, Canada.
+
+Article 5 of 9
+Title: Goodbye to masks, symptom screening, self-isolation in most circumstances under new Ontario rules
+Publisher: CP24
+Trusted: False
+Posted: 3 days ago
+TRUE. The article discusses changes to Ontario's COVID-19 policies, including the end of mask mandates in most indoor public settings and schools on March 21, and the eventual end of all emergency pandemic requirements by the end of April. The article highlights concerns from some experts, such as Dr. Isaac Bogoch and Dr. Abdu Sharkawy, who believe it is too soon to lift mask mandates, citing the plateau in cases and hospitalizations in Ontario. The article also mentions that the province is still detecting dozens of COVID-19 deaths per week, and that the limited data available suggests the decline in cases has stopped recently. Important values for forecasting COVID-19 hospitalizations in Ontario, Canada include: The end of mask mandates in most indoor public settings and schools on March 21 The eventual end of all emergency pandemic requirements by the end of April The plateau in cases and hospitalizations in Ontario The continued detection of dozens of COVID-19 deaths per week The limited data available on overall spread, suggesting a plateau in cases and hospitalizations The concerns from experts, such as Dr. Isaac Bogoch and Dr. Abdu Sharkawy, who believe it is too soon to lift mask mandates.
+
+Article 6 of 9
+Title: Ontario's top doctor to speak about plan to 'live with' COVID-19 Wednesday morning
+Publisher: CBC.ca
+Trusted: False
+Posted: 4 days ago
+This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Current hospitalizations: 779 (up from 693 on Monday, but down from 914 last week) ICU patients: 246 (down from 249 on Monday and 278 last week) Percentage of hospitalizations seeking treatment for COVID-19 symptoms: 44% Percentage of ICU patients admitted specifically for the virus: 82% Actual number of new COVID-19 cases estimated to be 10 times higher than reported cases, with approximately 12,000 new cases per day (based on 1,208 reported cases) Deaths: 17 additional deaths reported, bringing the official death toll to 12,591 These values provide insight into the current state of COVID-19 hospitalizations in Ontario, including the number of hospitalizations, ICU patients, and deaths. The estimated actual number of new cases and the percentage of hospitalizations seeking treatment for COVID-19 symptoms can also inform forecasting models.
+
+Article 7 of 9
+Title: Who Killed Granny? Pandemic Death Protocols in Canada’s Long-term Care Facilities
+Publisher: C2C Journal
+Trusted: False
+Posted: 5 days ago
+This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. The article highlights the challenges faced by long-term care facilities (LTCFs) in Ontario and Quebec during the early stages of the pandemic, including lack of trained staff, misuse of narcotics, shortage of supplies, and inadequate nutrition and hydration of residents. The military reports and journalist investigations revealed grim conditions in these facilities, which may have contributed to the high death rate among elderly patients. Key points relevant to forecasting COVID-19 hospitalizations in Ontario, Canada: 1. LTCFs were under lockdown, and residents were not being properly cared for, leading to potential malnourishment and dehydration. 2. The lack of reliable data on cause of death in LTCFs hinders attempts to understand the true impact of the pandemic on this population. 3. The concept of population triage, or disaster triage, was employed to prioritize hospital capacity over individual patient outcomes, potentially leading to decisions that put vulnerable LTCF residents at risk. 4. Directives were issued in Quebec and other jurisdictions to discourage transferring sick patients from LTCFs to hospitals, which may have contributed to the high death rate in these facilities. These points highlight the need to consider the impact of LTCF conditions and population triage decisions on COVID-19 hospitalizations in Ontario, Canada, particularly among the elderly population.
+
+Article 8 of 9
+Title: 1 death, COVID-19 hospitalizations steady in London, Ont., on Friday
+Publisher: CBC.ca
+Trusted: False
+Posted: 6 days ago
+This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the key points: In Middlesex-London, there were 43 inpatients with COVID-19, with 6 in ICU beds. The number of hospitalizations with COVID-19 in the region has held steady. Ontario reported 821 people with COVID-19 in hospitals, down from 1,003 the previous week. ICU admissions in Ontario fell to 262 from 297 one week ago. There were 28 more COVID-19-related deaths in Ontario, bringing the death toll to 12,525. The values most important for forecasting COVID-19 hospitalizations in Ontario, Canada are: 821 (current number of people with COVID-19 in Ontario hospitals) 262 (current number of ICU admissions in Ontario) 43 (current number of inpatients with COVID-19 in Middlesex-London) 6 (current number of ICU beds occupied by COVID-19 patients in Middlesex-London) These numbers provide insight into the current state of COVID-19 hospitalizations in Ontario and Middlesex-London, which can be used to inform forecasting models.
+
+Article 9 of 9
+Title: COVID-19 hospitalizations in Ontario drop below 800 for first time since December
+Publisher: CTV News Toronto
+Trusted: False
+Posted: 7 days ago
+This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary, highlighting values most important for forecasting: Current hospitalizations: 795 patients, with 44% admitted due to COVID-19 and 56% testing positive after admission. ICU admissions: 253 patients, with 80% admitted for COVID-19 and 20% for other reasons. COVID-19 positivity rate: 10.8% (based on 14,264 tests performed in the last 24 hours). New cases: 1,930 confirmed cases reported since Friday, with most cases found in Toronto (368), Ottawa (127), Simcoe Muskoka (118), Peel Region (110), and York Region (96). Vaccination status: 92.7% of Ontarians over 12 have at least one dose, and 90.6% have two doses and are considered fully vaccinated. These values provide insight into the current state of COVID-19 hospitalizations, ICU admissions, and positivity rates in Ontario, which can be used to inform forecasting models. Additionally, the vaccination status and new case counts by region can help identify areas of high transmission and inform targeted public health interventions.
