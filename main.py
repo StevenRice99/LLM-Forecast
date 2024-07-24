@@ -254,6 +254,8 @@ def predict(data: dict, forecast: int = 0, buffer: int = 0, power: int = 1, top:
                                  prediction, hugging_chat)
             if verbose:
                 print(f"{model} predicted demand over next {forecast + 1} periods is {result}.")
+            if delay > 0:
+                time.sleep(delay)
         # Use what is in inventory to contribute towards the predicted requirements.
         result -= data["Inventory"][item]
         if verbose:
