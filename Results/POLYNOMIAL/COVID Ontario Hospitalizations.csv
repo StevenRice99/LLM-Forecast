@@ -2,5 +2,5 @@ Start,Memory,Lead,Forecast,Buffer,Capacity,Top,Power,ARIMA,SVR,MODEL,Succeeded,F
 1,8,2,2,100,None,5,5,None,None,False,72623,3993,0,75145,2522,0:09
 1,8,2,2,100,None,5,4,None,None,False,68846,7770,0,69625,779,0:08
 1,8,2,2,100,None,5,3,None,None,False,66400,10216,0,66748,348,0:07
-1,8,2,2,100,None,5,2,None,None,False,62833,13783,0,63138,305,0:05
+1,8,2,2,100,None,5,2,None,None,False,62833,13783,0,63138,305,0:06
 1,8,2,2,100,None,5,1,None,None,False,59236,17380,0,59473,237,0:04

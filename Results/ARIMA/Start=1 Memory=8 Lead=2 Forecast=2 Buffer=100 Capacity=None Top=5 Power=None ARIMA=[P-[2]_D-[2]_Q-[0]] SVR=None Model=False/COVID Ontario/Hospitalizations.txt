@@ -4,4 +4,4 @@ Lost: 0
 Arrived: 58677
 Required: 76616
 Remaining: 144
-Time: 1:10
+Time: 0:55
