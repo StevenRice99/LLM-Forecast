@@ -106,8 +106,8 @@ def predict(data: dict, forecast: int = 0, buffer: int = 0, power: int = 1, top:
             end_date: tuple or datetime.datetime or None = None, days: int = 7, exclude_websites: list or None = None,
             trusted: list or None = None, model: str or list or None = None, attempts: int = 10, delay: float = 0,
             forecasting: str = "COVID-19 hospitalizations", folder: str = "COVID Ontario",
-            units: str = "weeks", previous: list or None = None, prediction: int or None = None,
-            hugging_chat: hugchat.ChatBot or None = None, max_order: int = 1000) -> dict:
+            units: str = "weeks", previous: list or None = None, hugging_chat: hugchat.ChatBot or None = None,
+            max_order: int = 0) -> dict:
     """
     Predict what to order for an inbound shipment.
     :param data: The data with inventory, past orders, and upcoming arrivals.
@@ -134,7 +134,6 @@ def predict(data: dict, forecast: int = 0, buffer: int = 0, power: int = 1, top:
     :param folder: The name of the file to save the results.
     :param units: The units of predictions.
     :param previous: Previous values to help predict.
-    :param prediction: A guide to help predict.
     :param hugging_chat: HuggingChat instance to use.
     :param max_order: How much at most can be ordered.
     :return: The order to place for an inbound shipment.
@@ -250,11 +249,9 @@ def predict(data: dict, forecast: int = 0, buffer: int = 0, power: int = 1, top:
         if model is not None:
             result = llm_predict(keywords, max_results, language, country, location, end_date, days, exclude_websites,
                                  trusted, model, attempts, delay, forecasting, folder, units, forecast + 1, previous,
-                                 prediction, hugging_chat)
+                                 result, hugging_chat)
             if verbose:
                 print(f"{model} predicted demand over next {forecast + 1} periods is {result}.")
-            if delay > 0:
-                time.sleep(delay)
         # Use what is in inventory to contribute towards the predicted requirements.
         result -= data["Inventory"][item]
         if verbose:
@@ -276,7 +273,7 @@ def predict(data: dict, forecast: int = 0, buffer: int = 0, power: int = 1, top:
             result = 0
         if 0 < max_order < result:
             if verbose:
-                print(f"More than the maximum order amount of {result}.")
+                print(f"More than the maximum order amount of {max_order}.")
             result = max_order
         if verbose:
             if result > 0:
@@ -294,8 +291,7 @@ def test(path: str, start: int = 1, memory: int = 1, lead: int = 1, forecast: in
          days: int = 7, exclude_websites: list or None = None, trusted: list or None = None,
          model: str or list or None = None, attempts: int = 10, delay: float = 0,
          forecasting: str = "COVID-19 hospitalizations", units: str = "weeks",
-         previous: list or None = None, prediction: int or None = None, output: str or None = None,
-         max_order: int = 1000) -> None:
+         previous: list or None = None, output: str or None = None, max_order: int = 0) -> None:
     """
     Test a forecasting model given a CSV file.
     :param path: The path to the file.
@@ -324,7 +320,6 @@ def test(path: str, start: int = 1, memory: int = 1, lead: int = 1, forecast: in
     :param forecasting: What is being forecast.
     :param units: The units of predictions.
     :param previous: Previous values to help predict.
-    :param prediction: A guide to help predict.
     :param output: Sub folder for results to output to.
     :param max_order: How much at most can be ordered.
     :return: Nothing.
@@ -552,7 +547,7 @@ def test(path: str, start: int = 1, memory: int = 1, lead: int = 1, forecast: in
         # Get the order to be placed by the forecasting model.
         placed = predict(data, forecast, buffer, power, top, arima, svr, verbose, keywords, max_results, language,
                          country, location, dates[index - 1], days, exclude_websites, trusted, model, attempts, delay,
-                         forecasting, file_name, units, previous, prediction, hugging_chat, max_order)
+                         forecasting, file_name, units, previous, hugging_chat, max_order)
         # Make the request for the order.
         if isinstance(placed, dict):
             # Ensure only valid items are ordered.
@@ -615,8 +610,7 @@ def auto(path: str or list, start: int or list = 1, memory: int or list = 1, lea
          days: int = 7, exclude_websites: list or None = None, trusted: list or None = None,
          model: str or None or list = None, attempts: int = 10, delay: float = 0,
          forecasting: str = "COVID-19 hospitalizations", units: str = "weeks",
-         previous: list or None = None, prediction: int or None = None, output: str or None = None,
-         max_order: int = 1000) -> None:
+         previous: list or None = None, output: str or None = None, max_order: int = 0) -> None:
     """
     Automatically test multiple options.
     :param path: The path to the file.
@@ -645,7 +639,6 @@ def auto(path: str or list, start: int or list = 1, memory: int or list = 1, lea
     :param forecasting: What is being forecast.
     :param units: The units of predictions.
     :param previous: Previous values to help predict.
-    :param prediction: A guide to help predict.
     :param output: Sub folder for results to output to.
     :param max_order: How much at most can be ordered.
     :return: Nothing.
@@ -691,4 +684,4 @@ def auto(path: str or list, start: int or list = 1, memory: int or list = 1, lea
                                                     test(p, s, m, le, f, b, c, po, t, a, sv, verbose, keywords,
                                                          max_results, language, country, location, days,
                                                          exclude_websites, trusted, mo, attempts, delay, forecasting,
-                                                         units, previous, prediction, output, max_order)
+                                                         units, previous, output, max_order)

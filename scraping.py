@@ -457,6 +457,8 @@ def llm_predict(keywords: str or list or None = "COVID-19", max_results: int = 1
               f"{prediction} {forecasting}{location}. Using your best judgement, you may choose to keep this value or "
               f"adjust it.")
     s = chat(f"{s} {articles}", hugging_chat, model, attempts, delay)
+    if delay > 0:
+        time.sleep(delay)
     s = s.split()
     predictions = []
     for p in s:
@@ -467,7 +469,7 @@ def llm_predict(keywords: str or list or None = "COVID-19", max_results: int = 1
         except:
             # noinspection PyBroadException
             try:
-                parsed= math.ceil(float(p))
+                parsed = math.ceil(float(p))
                 predictions.append(parsed)
             except:
                 pass
