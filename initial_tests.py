@@ -17,4 +17,4 @@ if __name__ == '__main__':
         for gamma in ["auto", "scale"]:
             for epsilon in [0.01, 0.1, 0.5]:
                 auto("Data/COVID Ontario.csv", 1, 8, 0, 0, 100, 0, 0, 5, None, {"C": c, "gamma": gamma, "epsilon": epsilon}, False, output="SVR")
-    evaluate("Results/SVR", ["Available", "Needed", "Arrived"], True, 10, 5, False)
+    evaluate("Results/SVR", ["Available", "Needed"], True, 10, 5, False)
