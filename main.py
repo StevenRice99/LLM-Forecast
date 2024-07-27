@@ -246,6 +246,7 @@ def predict(data: dict, forecast: int = 0, buffer: int = 0, power: int = 1, top:
         result = math.ceil(sum(results) / len(results))
         if verbose:
             print(f"Predicted demand over next {forecast + 1} periods is {result}.")
+        # Run the LLM if one is selected.
         if model is not None:
             result = llm_predict(keywords, max_results, language, country, location, end_date, days, exclude_websites,
                                  trusted, model, attempts, delay, forecasting, folder, units, forecast + 1, previous,

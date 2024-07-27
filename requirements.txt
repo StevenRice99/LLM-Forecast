@@ -5,6 +5,7 @@ matplotlib
 newspaper3k
 numpy
 pandas
+requests
 scikit-learn
 selenium
 statsmodels

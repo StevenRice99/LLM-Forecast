@@ -16,8 +16,13 @@ from webdriver_manager.firefox import GeckoDriverManager
 
 
 def valid_encoding(message: str) -> str:
-    message = message.replace("\u2011", '-')
-    return message
+    """
+    Ensure certain illegal characters are replaced.
+    :param message: The message to ensure is valid.
+    :return: The string with illegal characters replaced.
+    """
+    # "\u2011" type of dash that cannot be encoded, so replace it with a "-"
+    return message.replace("\u2011", '-')
 
 
 def hugging_face() -> hugchat.ChatBot or None:
@@ -25,14 +30,18 @@ def hugging_face() -> hugchat.ChatBot or None:
     Try to use HuggingChat.
     :return: The hugging Chat interface, otherwise nothing.
     """
+    # Nothing to do if there is no login file.
     if os.path.exists("hugging_face.txt"):
         f = open("hugging_face.txt", "r")
         s = f.read()
         f.close()
+        # Split the contents as the username/email and password should each be on a line.
         s = s.split()
+        # If not enough lines, return.
         if len(s) > 1:
             # noinspection PyBroadException
             try:
+                # Login and create the HuggingChat instance.
                 sign = Login(s[0], s[1])
                 cookies = sign.login(cookie_dir_path="./cookies/", save_cookies=True)
                 return hugchat.ChatBot(cookies=cookies.get_dict())
@@ -43,46 +52,71 @@ def hugging_face() -> hugchat.ChatBot or None:
 
 def chat(prompt: str, hugging_chat: hugchat.ChatBot or None = None, model: str or list = "Meta-Llama-3.1-405B",
          attempts: int = 10, delay: float = 0) -> str:
+    """
+    Chat with a large language model.
+    :param prompt: The prompt to
+    :param hugging_chat: HuggingChat instance to use.
+    :param model: Which model to use for LLM summaries.
+    :param attempts: The number of times to attempt LLM summarization.
+    :param delay: How much to delay web queries by to ensure we do not hit limits.
+    :return: The response from the LLM.
+    """
+    # Both HuggingChat and DuckDuckGo AI Chat have an input limit of 16,000 characters.
     if len(prompt) > 16000:
+        # Using "..." may help the model know the input was intentionally cut off.
         prompt = prompt[:15997] + "..."
     if isinstance(model, str):
         model = [model]
     if hugging_chat is None:
         hugging_chat = hugging_face()
     message = None
+    # Try to create a HuggingChat instance if it was not passed as one.
     if hugging_chat is None:
         hugging_chat = hugging_face()
     if hugging_chat is not None:
         # noinspection PyBroadException
         try:
+            # Get all models on HuggingChat
             available = hugging_chat.get_available_llm_models()
             selected = -1
+            # Find a model which matches the ideal name.
             for i in range(len(model)):
                 for j in range(len(available)):
+                    # If one is found, select this index.
                     if model[i] in str(available[j]):
                         selected = j
                         break
                 if selected >= 0:
                     break
+            # If none was found, use the first model.
             if selected < 0:
                 selected = 0
+            # Try for the given number of attempts.
             for i in range(attempts):
                 # noinspection PyBroadException
                 try:
+                    # CLEAR ALL PAST CONVERSATION. You may wish to change this if you have ones you wish to save.
                     hugging_chat.delete_all_conversations()
+                    # Use the selected model.
                     hugging_chat.new_conversation(modelIndex=selected, switch_to=True)
+                    # Prompt and wait until done.
                     result = hugging_chat.chat(prompt)
                     message = result.wait_until_done()
+                    # CLEAR ALL PAST CONVERSATION. You may wish to change this if you have ones you wish to save.
                     hugging_chat.delete_all_conversations()
+                    # If a message was received, stop.
                     if message != "":
                         break
                 except:
                     pass
+                # Wait if a delay is given.
                 if delay > 0:
                     time.sleep(delay)
         except:
             pass
+    # If HuggingChat did not work, try DuckDuckGo AI Chat.
     if message is None:
+        # Find a model for DuckDuckGo AI Chat.
         m = None
         for i in range(len(model)):
             if model[i] in ["gpt-3.5", "claude-3-haiku", "llama-3-70b", "mixtral-8x7b"]:
@@ -92,26 +126,29 @@ def chat(prompt: str, hugging_chat: hugchat.ChatBot or None = None, model: str o
             m = "gpt-3.5"
         # noinspection PyBroadException
         try:
+            # Request a response from DuckDuckGo AI Chat.
             message = DDGS().chat(prompt, model=m)
         except:
             message = None
+    # If nothing succeeded, return an empty string.
     if message is None:
         return ""
-    message = message.replace("\r", " ")
-    message = message.replace("\n", " ")
-    message = message.replace("\t", " ")
-    message = message.replace("*", "")
+    # Replace all whitespace with spaces.
+    message = re.sub(r'\s+', ' ', message)
+    # Remove Markdown formatting.
     message = message.replace("#", "")
     message = message.replace("- ", "")
     message = message.replace("> ", "")
     message = message.replace("`", "")
+    # Remove characters with invalid encodings.
+    message = valid_encoding(message)
     message = ''.join(c for c in message if unicodedata.category(c) in {"Lu", "Ll", "Lt", "Lm", "Lo", "Nd", "Nl", "No",
                                                                         "Zs", "Zl", "Zp", "Pc", "Pd", "Ps", "Pe", "Pi",
                                                                         "Pf", "Po", "Sm", "Sc", "Sk", "So"})
-    message = valid_encoding(message)
-    message = re.sub(r"\s+", " ", message)
+    # Remove duplicate whitespaces.
     while message.__contains__("  "):
         message = message.replace("  ", " ")
+    # Strip and return the message.
     return message.strip()
 
 
@@ -119,8 +156,23 @@ def get_article(result: dict, driver, trusted: list, forecasting: str = "COVID-1
                 location: str or None = "Ontario, Canada", attempts: int = 10, delay: float = 0,
                 model: str or list = "Meta-Llama-3.1-405B",
                 hugging_chat: hugchat.ChatBot or None = None) -> dict or None:
+    """
+
+    :param result: The Google News result.
+    :param driver: The Selenium webdriver.
+    :param trusted: Publishers which are trusted.
+    :param forecasting: What is being forecast.
+    :param location: The location the forecasts are for.
+    :param attempts: The number of times to attempt LLM summarization.
+    :param delay: How much to delay web queries by to ensure we do not hit limits.
+    :param model: Which model to use for LLM summaries.
+    :param hugging_chat: HuggingChat instance to use.
+    :return: The details of the article if it was relevant, otherwise nothing.
+    """
+    # Get the publisher and title.
     publisher = result["publisher"]["title"]
     title = result["title"].replace(publisher, "").strip().strip("-").strip()
+    # If the article was broken to start, return.
     if title == "":
         return None
     # Try to get the full article and then summarize it with an LLM.
@@ -172,6 +224,7 @@ def get_article(result: dict, driver, trusted: list, forecasting: str = "COVID-1
                       f"the article is relevant for forecasting {forecasting}{location}, respond with a brief summary, "
                       f"highlighting values most important for forecasting {forecasting}{location}:\n\n{summary}")
             summary = chat(prompt, hugging_chat, model, attempts, delay)
+            # The LLM tends to respond with a variation of TRUE which is not needed so remove it.
             summary = summary.replace("TRUE: ", "")
             summary = summary.replace("TRUE. ", "")
             summary = summary.replace("TRUE:", "")
@@ -262,8 +315,10 @@ def search_news(keywords: str or list or None = "COVID-19", max_results: int = 1
         start_date = None
     else:
         start_date = end_date - datetime.timedelta(days=days)
+    # Get the filepath.
     filename = f"{end_date.year}-{end_date.month}-{end_date.day}.txt"
     full = os.path.join("Data", "Articles", folder, filename)
+    # If the file already exists, we can simply load it.
     if os.path.exists(full):
         f = open(full, "r")
         s = f.read()
@@ -341,6 +396,7 @@ def search_news(keywords: str or list or None = "COVID-19", max_results: int = 1
             -val["Second"]
         ))
     s = ""
+    # If there are results, format them.
     if len(formatted) > 0:
         days = f" from the past {days} day{'s' if days > 1 else ''}" if days > 0 else ""
         single = len(formatted) == 1
@@ -365,6 +421,7 @@ def search_news(keywords: str or list or None = "COVID-19", max_results: int = 1
                   f"\nPosted: {posted}")
             if result["Summary"] is not None:
                 s += f"\n{result['Summary']}"
+    # Save the data.
     if not os.path.exists("Data"):
         os.mkdir("Data")
     if os.path.exists("Data"):
@@ -376,6 +433,7 @@ def search_news(keywords: str or list or None = "COVID-19", max_results: int = 1
             if not os.path.exists(path):
                 os.mkdir(path)
             if os.path.exists(path):
+                # Ignore writing errors.
                 f = open(os.path.join(path, filename), "w", errors="ignore")
                 # noinspection PyBroadException
                 try:
@@ -422,14 +480,17 @@ def llm_predict(keywords: str or list or None = "COVID-19", max_results: int = 1
     :param hugging_chat: HuggingChat instance to use.
     :return: The news articles.
     """
+    # Get the articles for the given period.
     articles = search_news(keywords, max_results, language, country, location, end_date, days, exclude_websites,
                            trusted, model, attempts, delay, forecasting, folder)
+    # Format the location if one was given.
     if isinstance(location, str):
         location = f" in {location}"
     else:
         location = ""
     if periods < 1:
         periods = 1
+    # If only one period, ensure there is no plural.
     if periods == 1:
         if units.endswith("s"):
             forecast_units = units[:-1]
@@ -437,8 +498,10 @@ def llm_predict(keywords: str or list or None = "COVID-19", max_results: int = 1
             forecast_units = units
     else:
         forecast_units = f"{periods} {units}"
+    # Begin building the prompt.
     s = (f"You are tasked with forecasting {forecasting} you predict will occur over the next {forecast_units}"
          f"{location}. You are to respond with a single integer and nothing else.")
+    # Add previous values.
     if isinstance(previous, list) and len(previous) > 0:
         if len(previous) == 1:
             if units.endswith("s"):
@@ -452,15 +515,19 @@ def llm_predict(keywords: str or list or None = "COVID-19", max_results: int = 1
         for i in range(1, len(previous)):
             s += f", {previous[i]}"
         s += "."
+    # Add a prediction to help guide the LLM.
     if isinstance(prediction, int):
         s += (f" An analytical forecasting model has predicted that over the next {forecast_units}, there will be "
               f"{prediction} {forecasting}{location}. Using your best judgement, you may choose to keep this value or "
               f"adjust it.")
+    # Get the result from the LLM.
     s = chat(f"{s} {articles}", hugging_chat, model, attempts, delay)
     if delay > 0:
         time.sleep(delay)
+    # In case multiple values or non-numeric results were given, split and check all values.
     s = s.split()
     predictions = []
+    # Try and parse every value into an integer.
     for p in s:
         # noinspection PyBroadException
         try:
@@ -473,13 +540,17 @@ def llm_predict(keywords: str or list or None = "COVID-19", max_results: int = 1
                 predictions.append(parsed)
             except:
                 pass
+    # If no predictions were returned, determine what this method should return.
     if len(predictions) < 1:
+        # If there was no prediction, return the most recent past result if some were passed or zero otherwise.
         if prediction is None:
             if isinstance(previous, list) and len(previous) > 0:
                 return previous[-1]
             return 0
+        # Return the initial prediction if there was one.
         else:
             return prediction
+    # Return the greatest prediction if multiple were made.
     return max(predictions)
 
 
@@ -513,7 +584,26 @@ def prepare_articles(file: str, keywords: str or list or None = "COVID-19", max_
                      days: int = 7, exclude_websites: list or None = None, trusted: list or None = None,
                      model: str or list = "Meta-Llama-3.1-405B", attempts: int = 10, delay: float = 0,
                      forecasting: str = "COVID-19 hospitalizations") -> None:
+    """
+    Prepare all article summarizations ahead of time.
+    :param file: The file to get the dates from.
+    :param keywords: The keywords to search for.
+    :param max_results: The maximum number of results to return.
+    :param language: The language to search in.
+    :param country: The Country to search in.
+    :param location: Keyword location to search with.
+    :param days: How many days prior to the end date to search from.
+    :param exclude_websites: Websites to exclude.
+    :param trusted: What websites should be labelled as trusted.
+    :param model: Which model to use for LLM summaries.
+    :param attempts: The number of times to attempt LLM summarization.
+    :param delay: How much to delay web queries by to ensure we do not hit limits.
+    :param forecasting: What is being forecast.
+    :return: Nothing.
+    """
+    # Get the dates.
     dates = parse_dates(file)
+    # Determine the folder and ensure it exists.
     folder = os.path.splitext(os.path.basename(file))[0]
     if not os.path.exists("Data"):
         os.mkdir("Data")
@@ -529,6 +619,7 @@ def prepare_articles(file: str, keywords: str or list or None = "COVID-19", max_
         os.mkdir(path)
     if not os.path.exists(path):
         return None
+    # Apply any trusted publisher updates to existing results.
     files = os.listdir(path)
     for file in files:
         file = os.path.join(path, file)
@@ -543,13 +634,18 @@ def prepare_articles(file: str, keywords: str or list or None = "COVID-19", max_
         f = open(file, "w")
         f.write(s)
         f.close()
+    # Load a HuggingChat instance.
     hugging_chat = hugging_face()
+    # Load the Firefox webdriver.
     driver = webdriver.Firefox(service=Service(GeckoDriverManager().install()))
+    # Do all news summarizations.
     for i in range(len(dates)):
         print(f"Preparing articles for time period {i + 1} of {len(dates)}.")
         search_news(keywords, max_results, language, country, location, dates[i], days, exclude_websites, trusted,
                     model, attempts, delay, forecasting, folder, driver, hugging_chat)
+    # Clean up the webdriver.
     driver.quit()
+    # Clean all articles if anything was missed during the summarizing process.
     files = os.listdir(path)
     for file in files:
         file = os.path.join(path, file)
@@ -558,6 +654,7 @@ def prepare_articles(file: str, keywords: str or list or None = "COVID-19", max_
         f = open(file, "r")
         s = f.read()
         f.close()
+        # There should be no entries with blank titles.
         if s.__contains__("Title: \n"):
             file = os.path.splitext(os.path.basename(file))[0]
             print(f"{file} has blank entries.")
@@ -568,6 +665,7 @@ def prepare_articles(file: str, keywords: str or list or None = "COVID-19", max_
         f = open(file, "r")
         s = f.read()
         f.close()
+        # Give a warning if a file is too long.
         if len(s) > 16000:
             file = os.path.splitext(os.path.basename(file))[0]
             print(f"{file} too long.")
@@ -579,12 +677,15 @@ def prepare_articles(file: str, keywords: str or list or None = "COVID-19", max_
         s = f.read()
         f.close()
         file = os.path.splitext(os.path.basename(file))[0]
+        # Nothing should have any "FALSE" entries for articles that are not relevant.
         count = s.count("FALSE") - 1
         if count > 0:
             print(f"{file} has {count} FALSE entries.")
+        # Nothing should have "TRUE" written in the summaries.
         count = s.count("TRUE")
         if count > 0:
             print(f"{file} has {count} TRUE entries.")
+    # Get and output all untrusted sources in case any should be changed to trusted.
     untrusted = []
     for file in files:
         file = os.path.join(path, file)

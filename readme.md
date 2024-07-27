@@ -1,16 +1,21 @@
-# Pandemic Surge Forecasting utilizing Multiple Predictions for Improved Accuracy
-
-Testing methods to forecast orders for handling supply chain logistics focusing on COVID-19.
+# Hybridized Pandemic Forecasting utilizing Large Language Models and Analytical Methods
 
 ## Code
 
 - ``main.py`` contains the core forecasting logic. The ``predict`` method is the forecasting model itself, the ``test`` method performs the testing for the forecasting model, and the ``auto`` method is a helper method to test a lot of model configurations.
 - ``evaluate.py`` contains the method for generating tables and plots.
-- ``covid.py`` contains a method for downloading and parsing COVID-19 data for Ontario, Canada.
+- ``covid.py`` contains a method for downloading and parsing COVID-19 data for Ontario, Canada. The data is from [Covid Timeline Canada](https://github.com/ccodwg/CovidTimelineCanada/blob/main/data/pt/hosp_admissions_pt.csv "Covid Timeline Canada GitHub").
+- ``scraping.py`` includes methods for web scraping and interacting with large language models.
+- ``initial_tests.py`` contains the initial hyperparameter searching for polynomial regression, ARIMA, and SVR methods.
+- ``llm_tests.py`` contains the tests for trying the best hyperparameters with and without a large language model.
 
 ## Usage
 
 1. Install requirements by running ``pip install -r requirements.txt`` in the directory of this project.
-2. Before your first time running the remaining code for tests, run ``covid.py`` to download and convert Ontario COVID-19 data into a format for this repository.
-3. Running ``demo.py`` provides an easy way to run a single model and generate a chart and plot. After running it, the ``Results`` directory will contain a folder for the model which inside its sub folders will contain a plot of the run, along with a CSV file (which only has one entry, being this model if it is your first run) in the root of the ``Results`` folder with the results of the run.
-4. To duplicate our tests, run ``first.py`` or ``second.py`` respectfully. After either run, move the results into a subfolder of ``Results`` being either ``FIRST`` or ``SECOND`` respectfully. Then, run ``evaluate.py`` to generate the charts and plots for these tests.
+2. For web scraping, you need to have [Mozilla Firefox](https://www.mozilla.org/en-CA/firefox "Mozilla Firefox") installed.
+3. If you wish to use [HuggingFace](https://huggingface.co "HuggingFace") models, create a file named ``hugging_face.txt`` in the root of this project. On the first line, input your email/username and on the second line input your password. **This will not work if you have two-factor authentication enabled.** If you choose to not do this step, your large language models will be run through [DuckDuckGo AI Chat](https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat "DuckDuckGo AI Chat").
+4. Run ``covid.py`` to download and convert Ontario COVID-19 data into a format for this repository.
+5. To duplicate our tests, first delete the ``DATA`` and ``RESULTS`` folders.
+6. In this implementation, web scraping is preferably done ahead of time. Note that this process takes a long time due to needing to use [Selenium](https://www.selenium.dev "") and wait to query the free large language models to not get rate limited. To do this, run ``scraping.py``.
+7. Running ``initial_tests.py`` will perform the initial hyperparameter searching for polynomial regression, ARIMA, and SVR methods. The results for these tests can be found in the ``RESULTS`` folder under the ``ARIMA``, ``POLYNOMIAL``, and ``SVR`` subfolders.
+8. Running ``llm_tests.py`` will perform the tests for trying the best hyperparameters with and without a large language model. The results can be found under ``RESULTS/FINAL``.
