@@ -119,6 +119,8 @@ def chat(prompt: str, hugging_chat: hugchat.ChatBot or None = None, model: str o
         # Find a model for DuckDuckGo AI Chat.
         m = None
         for i in range(len(model)):
+            # All models that are available by the DuckDuckGo API. What models are available may change in the future.
+            # Check here for models: https://github.com/deedy5/duckduckgo_search?tab=readme-ov-file#1-chat---ai-chat
             if model[i] in ["gpt-3.5", "claude-3-haiku", "llama-3-70b", "mixtral-8x7b"]:
                 m = model[i]
                 break

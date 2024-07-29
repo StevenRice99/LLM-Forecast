@@ -1,4 +1,4 @@
-# Hybridized Pandemic Forecasting utilizing Large Language Models and Analytical Methods
+# Hybridized Pandemic Forecasting Utilizing Large Language Models and Analytical Methods
 
 ## Code
 
