@@ -180,35 +180,39 @@ def get_article(result: dict, driver, trusted: list, forecasting: str = "COVID-1
     # Try to get the full article and then summarize it with an LLM.
     # noinspection PyBroadException
     try:
-        # Get what the web driver is starting at.
-        driver_url = driver.current_url
-        # Store the starting URL.
-        redirect_url = result["url"]
-        # Go to the redirect URL.
-        driver.get(redirect_url)
-        # Wait until the web driver hits the page.
-        while True:
-            current_url = driver.current_url
-            # Failsafe in case the URL is none to start.
-            if current_url is None:
-                continue
-            # Failsafe in case the URL is empty to start.
-            if current_url == "":
-                continue
-            # Skip the default starting page.
-            if current_url == "about:blank":
-                continue
-            # Ensure we are not at the initial URL when loading the web driver.
-            if current_url == driver_url:
-                continue
-            # Ensure we are not still at the redirect URL.
-            if current_url == redirect_url:
-                continue
-            # Update the previously visited URL for future redirect handling.
-            driver_url = current_url
-            break
-        # Download the final article.
-        article = Article(driver_url)
+        # See if there is a redirect URL.
+        if result["url"].startswith("news.google") or result["url"].startswith("google"):
+            # Get what the web driver is starting at.
+            driver_url = driver.current_url
+            # Store the starting URL.
+            redirect_url = result["url"]
+            # Go to the redirect URL.
+            driver.get(redirect_url)
+            # Wait until the web driver hits the page.
+            while True:
+                current_url = driver.current_url
+                # Failsafe in case the URL is none to start.
+                if current_url is None:
+                    continue
+                # Failsafe in case the URL is empty to start.
+                if current_url == "":
+                    continue
+                # Skip the default starting page.
+                if current_url == "about:blank":
+                    continue
+                # Ensure we are not at the initial URL when loading the web driver.
+                if current_url == driver_url:
+                    continue
+                # Ensure we are not still at the redirect URL.
+                if current_url == redirect_url:
+                    continue
+                # Update the previously visited URL for future redirect handling.
+                driver_url = current_url
+                break
+            # Download the final article.
+            article = Article(driver_url)
+        else:
+            article = Article(result["url"])
         article.download()
         article.parse()
         title = article.title
