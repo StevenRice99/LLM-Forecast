@@ -12,9 +12,3 @@ venv
 
 # COVID Data
 COVID
-
-# Ignore HuggingFace cookies
-cookies
-
-# HuggingFace login details
-hugging_face.txt

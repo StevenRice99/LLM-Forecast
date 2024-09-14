@@ -1,15 +1,30 @@
-Below are 2 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
+Below are 3 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
-Article 1 of 2
+Article 1 of 3
+Title: N.L. staying the course for COVID-19 monitoring as WHO ends global emergency status
+Publisher: CBC.ca
+Trusted: False
+Posted: 2 days ago
+Key points:
+The World Health Organization has ended the public health emergency tied to COVID-19.
+Newfoundland and Labrador continues to monitor COVID-19 similarly to flu and other respiratory viruses.
+Recommendations include vaccination (especially for those 65+ or immunocompromised), hand washing, staying home if sick, and masking in public spaces after a recent COVID diagnosis.
+
+Article 2 of 3
 Title: COVID-19 'not going away' but something 'we're going to manage:' Dr. Hsiu-Li Wang
 Publisher: CBC.ca
 Trusted: False
 Posted: 3 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: The World Health Organization has declared that COVID-19 is no longer a health emergency, indicating a shift from emergency response to routine public health programs. In Waterloo region, COVID-19 continues to circulate, but its impact has decreased in recent weeks, with no patients in the ICU and 7 active outbreaks. The region's medical officer of health, Dr. Hsiu-Li Wang, notes that new variants will emerge and there will be seasonal resurgences, particularly affecting older people and those with serious medical conditions. Vaccination rates in Waterloo region are low, with only 10% of the population considered up-to-date on their COVID-19 vaccines, and 23.9% of the province's population having received the primary series and two boosters. Dr. Wang recommends that high-risk individuals (aged 65 and older, with severe medical conditions, or pregnant) get a spring booster, while others who have had a dose after September 1 and are not high-risk are likely good until the next respiratory season. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: COVID-19 circulation and impact in Waterloo region Vaccination rates in Waterloo region and Ontario Seasonal resurgences and emergence of new variants Recommendations for booster shots for high-risk individuals These values can inform forecasting models and help predict potential increases in COVID-19 hospitalizations in Ontario, Canada.
+Relevant.
+The article mentions that there were no patients in intensive care units at local hospitals as of last Friday, which is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. It also mentions the percentage of population with up-to-date COVID-19 vaccines (10% in Waterloo region, 23.9% across the province) and high-risk populations that require a spring booster, which could be useful for understanding potential future cases.
 
-Article 2 of 2
+Article 3 of 3
 Title: Study of Hospitalizations Shows COVID-19 Vaccine Benefit
 Publisher: Medscape
 Trusted: False
 Posted: 5 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. The study analyzed 1.513 million hospital admissions across Canada, including 51,679 adult admissions and 4035 pediatric admissions for COVID-19, from March 15, 2020, to May 28, 2022. The results show that: Unvaccinated patients were up to 15 times more likely to die from COVID-19 than fully vaccinated patients. The proportion of adults admitted to the ICU was significantly lower in waves 5 and 6 (8.7%) compared to the previous four waves (21.8%). The share of COVID-19 admissions increased in waves 5 and 6, but the demands on the healthcare system were much higher due to the higher disease prevalence in the community. The study highlights the benefit of vaccinations, particularly the boosting dose, in protecting against severe outcomes. These findings are relevant for forecasting COVID-19 hospitalizations in Ontario, Canada, as they provide insights into the impact of vaccination on hospitalization rates and severe outcomes. The study also highlights the importance of continued surveillance and monitoring of COVID-19 hospitalizations to inform public health policy and protect the public. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Vaccination rates and coverage Hospitalization rates and ICU admissions Disease prevalence in the community Demands on the healthcare system Severe outcomes and mortality rates These values can be used to inform forecasting models and predict future hospitalization rates and healthcare system demands in Ontario, Canada.
+The study analyzed 1.513 million hospital admissions in Canada over 2 years, including 51,679 adult and 4035 pediatric admissions for COVID-19.
+Unvaccinated patients were up to 15 times more likely to die from COVID-19 than fully vaccinated patients.
+Hospitalizations reached a peak of 14,461 during wave five (Dec 26, 2021 - March 19, 2022), with ICU admissions peaking at 2164 during wave four (July 1 - Dec 25, 2021).
+The proportion of adults admitted to the ICU was significantly lower during waves five and six, with an odds ratio of 0.35.
+The study highlights the benefit of vaccinations in protecting against severe COVID-19 outcomes, particularly in adults.

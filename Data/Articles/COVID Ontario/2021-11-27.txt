@@ -1,29 +1,74 @@
 Below are 4 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
 Article 1 of 4
+Title: Province reports 854 new COVID-19 cases Saturday
+Publisher: durhamradionews.com
+Trusted: False
+Posted: Today
+Key values for forecasting:
+Current hospitalization numbers: 254 patients currently hospitalized with COVID-19
+ICU admissions: 116 patients currently in ICU due to COVID-related critical illness
+Positivity rate: 3.0% (may indicate future hospitalization demands)
+Vaccination status of hospitalized patients: Unvaccinated (83), Partially Vaccinated (8), Fully Vaccinated (48) in non-ICU; Unvaccinated (60), Partially Vaccinated (3), Fully Vaccinated (11) in ICU
+Test data: 19,699,153 total tests completed and 31,444 tests completed in the previous day
+
+Article 2 of 4
 Title: Evidence-Based Recommendations on the Use of Anti-SARS-CoV-2 Monoclonal Antibodies (Casirivimab + Imdevimab, and Sotrovimab) for Adults in Ontario
 Publisher: Ontario COVID-19 Science Advisory Table
 Trusted: True
 Posted: 3 days ago
-This article provides evidence-based recommendations on the use of anti-SARS-CoV-2 monoclonal antibodies (casirivimab + imdevimab, and sotrovimab) for adults in Ontario, Canada. The recommendations are relevant for forecasting COVID-19 hospitalizations in Ontario, Canada, as they outline the criteria for using these treatments in various patient populations, including those who are critically and moderately ill, mildly ill, and those who have been exposed to COVID-19. Key values most important for forecasting COVID-19 hospitalizations in Ontario, Canada, include: The use of casirivimab + imdevimab at a dose of 2400 mg IV for critically and moderately ill patients who are within 9 days of onset of any COVID-19 symptom and have demonstrated rapid clinical deterioration. The use of casirivimab + imdevimab at a dose of 1200 mg IV or SC or sotrovimab at a dose of 500 mg IV for mildly ill patients who are within 7 days of onset of any COVID-19 symptom and have at least one underlying risk factor. The use of casirivimab + imdevimab at a dose of 1200 mg IV or SC or sotrovimab at a dose of 500 mg IV for post-exposure prophylaxis in patients who are at high-risk to progress to moderate or severe COVID-19. These recommendations can inform forecasting models by providing insight into the potential impact of these treatments on hospitalization rates and patient outcomes.
-
-Article 2 of 4
-Title: Ontario Health says healthcare impacts less likely during current COVID wave
-Publisher: Global News
-Trusted: False
-Posted: 3 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Modeling suggests Ontario intensive care units could be treating around 200 COVID-19 patients by January. The trigger point for hospitals to ramp down non-urgent procedures is now closer to 250 or 300 intensive care patients, up from 150 patients previously. Current intensive care occupancy is around 130 patients, with 137 people in critical care as of Wednesday. Vaccinations are expected to help prevent more people from getting severely ill with breakthrough infections. Health human resources is the largest "rate limiting step" for intensive care capacity, with low staff numbers, burnout, and distress among remaining staff. Variables to watch include booster doses for more people and vaccinations for younger children. Localized surgery cancellations are more likely than provincewide cancellations. These values can be used to inform forecasting models and provide context for understanding the potential impact of COVID-19 on hospitalizations in Ontario, Canada.
+Based on the provided text, I will summarize the key points related to managing AmAb (Antibody Monoclonal) shortages.
+Key Points: 
+1. Stage 3 Rationing: If Stage 1 and 2 efforts are insufficient to meet demand, Ontario should proceed to Stage 3 and use a fair procedure to choose between COVID-19 patients of equal need for secondary prioritization of casirivimab + imdevimab.
+2. Provincial Management: Stage 3 rationing should be managed provincially, ideally through an Inventory Management System (IMS).
+3. Fair Rationing: A logic-based mechanism should be used to fairly ration casirivimab + imdevimab among eligible COVID-19 patients.
+4. Eligibility Criteria: AmAbs should be given to COVID-19 patients with a reasonable chance of benefiting from it, based on consensus among those involved in assessing eligibility.
+5. Alternatives to First-Come, First-Served: A strictly first-come, first-served approach is not recommended, as it would favor patients presenting to centers with known AmAb supply and exacerbate health inequities.
+6. Options for Stage 3:
+A second-opinion or consensus model among those responsible for assessing eligibility should be considered to mitigate potential bias.
+An allocation lottery could be used as a fair default procedure for choosing among eligible COVID-19 patients where allocation based on maximizing benefits cannot be determined.
+Let me know if you'd like me to clarify any of these points!
 
 Article 3 of 4
-Title: Tens of thousands of COVID-19 vaccine appointments for Ottawa kids 5 to 11 on the way
-Publisher: CTV News Ottawa
+Title: How scientific evidence evolves: A case study on COVID-19 in pregnancy
+Publisher: Healthy Debate
 Trusted: False
 Posted: 5 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada, as it provides information about the rollout of COVID-19 vaccines for children aged 5-11 in Ottawa. The article highlights the following values important for forecasting COVID-19 hospitalizations: Vaccination capacity: 2,000 appointments available initially, increasing to 60,000 appointments starting Friday, with plans to offer first doses to all 77,000 children in the city within four weeks. Vaccination locations: Multiple community clinics, neighbourhood vaccination hubs, after-school pop-up clinics, pharmacies, and doctors' offices will be offering vaccinations. Vaccine availability: Pfizer-BioNTech's paediatric formula has been authorized for use, with a recommended dosage schedule of two doses administered eight weeks apart. This information can be used to forecast a potential decrease in COVID-19 hospitalizations in Ontario, particularly among children, as vaccination rates increase.
+Relevant.
+Pregnant individuals are at higher risk for developing severe COVID-19 illness. Risk of hospitalization is 4.7% (7% pregnant vs 1.5% non-pregnant). Pregnant individuals hospitalized with COVID-19 are almost three times as likely to be admitted to ICU.
 
 Article 4 of 4
 Title: What you need to know about COVID-19 in Ottawa on Saturday, Nov. 20
 Publisher: CBC.ca
 Trusted: False
 Posted: 7 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Ottawa reported 28 new cases of COVID-19 on Saturday, with 356 known active cases and 614 deaths. The Western Quebec School Board will hold vaccination clinics in some schools to provide at least one dose of the COVID-19 vaccine to every child between the ages of five and 11 before the winter holiday. Ski hills in the greater Ottawa-Gatineau area are selling out of season passes, indicating a surge in popularity of outdoor activities during the pandemic. As of Saturday, Ottawa has had 31,606 confirmed cases of COVID-19, with 30,636 cases considered resolved. Public health officials have reported more than 58,700 COVID-19 cases across eastern Ontario and western Quebec, including more than 56,800 cases now resolved. The province's vaccine passport is required for people of an eligible vaccine age in many public places, and people can show paper, PDF, or QR code proof. Private gathering limits are 25 people inside and 100 people outside in eastern Ontario, while in western Quebec, 10 people are allowed to gather inside private residences and 20 people outdoors. Vaccines curb the spread of all variants of COVID-19 and go a long way toward avoiding deaths and hospitalizations, without offering total protection. Four COVID-19 vaccines have been deemed safe and approved in Canada, with the two most common approved for youth as young as 12. Health Canada is expected to announce the approval of the first vaccine for children as young as five. Ontario and Quebec are giving certain groups third doses, with over 3.6 million COVID-19 first, second, and third vaccine doses administered in the wider Ottawa-Gatineau region. These values are important for forecasting COVID-19 hospitalizations in Ontario, Canada, as they provide information on the current number of cases, vaccination efforts, and public health measures in place to mitigate the spread of the virus.
+Here is a summary of the article:
+COVID-19 Vaccination and Testing Update 
+Four COVID-19 vaccines have been approved in Canada.
+Two vaccines are approved for youth as young as 12, with Health Canada expected to approve a vaccine for children as young as five tomorrow.
+It's safe and effective to mix doses between first and second shots.
+Ontario and Quebec are giving certain groups third doses.
+Over 3.6 million COVID-19 vaccine doses have been administered in the Ottawa-Gatineau region.
+Vaccination Plans 
+Ontario is vaccinating anyone age 12 or older.
+People can look for provincial appointments online or over the phone at 1-833-943-3900.
+Pharmacies and some family doctors offer vaccines through their own booking systems.
+Local health units have flexibility, so check their websites for details.
+Testing Update 
+COVID-19 symptoms include fever, cough, headache, vomiting, and loss of taste or smell.
+"Long-haul" symptoms can last for months.
+If you have severe symptoms, call 911.
+Mental health resources are available to help with pandemic-related stress.
+Testing is recommended for people with symptoms and their contacts.
+Regional Details 
+Ontario:
++ Make an appointment at a clinic if you fit certain criteria (symptoms, exposure, or certain job).
++ Rapid and take-home tests are available in some places.
++ Travellers who need a test have local options to pay for one.
+Western Quebec:
++ Tests are strongly recommended for people with symptoms and their contacts.
++ Gargle tests are being offered in some places instead of a swab.
++ Rapid COVID-19 tests are available in all Quebec preschools and elementary schools.
+Indigenous Communities 
+First Nations, Inuit, and Métis people can get tested or vaccinated in Ontario or at local health units (e.g., Akwesasne, Kitigan Zibi Anishinabeg, Pikwàkanagàn).
+Inuit in Ottawa can call the Akausivik Inuit Family Health Team for service, including testing and vaccines.

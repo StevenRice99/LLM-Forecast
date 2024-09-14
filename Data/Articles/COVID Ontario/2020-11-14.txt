@@ -1,22 +1,59 @@
-Below are 3 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
+Below are 5 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
-Article 1 of 3
-Title: Premier warns of harsher COVID-19 restrictions after data shows Ontario may get 6,500 cases per day
-Publisher: CTV News Toronto
+Article 1 of 5
+Title: How a national response could address an unprecedented COVID-19 surge across Canada
+Publisher: CBC News
+Trusted: False
+Posted: Today
+Averaging 4,000 cases and 50 deaths per day, with over 45,000 active cases across the country.
+Ontario projecting 6,500 new COVID-19 cases per day by mid-December if no further action is taken.
+Restrictions imposed on five major cities and regions in Ontario.
+
+Article 2 of 5
+Title: Morning Update: As COVID cases soar, schools consider extending winter breaks
+Publisher: The Globe and Mail
+Trusted: False
+Posted: 1 day ago
+6,500 COVID-19 cases a day in Ontario by mid-December (potential peak)
+European countries with similar growth rates are now in lockdown
+Hospitals in Alberta (Edmonton and Calgary) are running at overcapacity
+Note: These values highlight the potential for increased hospitalizations due to high case numbers and existing capacity constraints.
+
+Article 3 of 5
+Title: B.C. could see 1,000 COVID-19 cases per day unless people follow the rules, modelling suggests
+Publisher: CTV News Vancouver
 Trusted: False
 Posted: 2 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting the most important values: The Ontario government's new COVID-19 modelling data suggests that if cases grow at a rate of 3% per day, the province will record nearly 3,500 cases per day by December 13, and if cases grow at a 5% rate, Ontario could see 6,500 cases per day by that period. The current growth rate of COVID-19 cases in Ontario has been 3.895% per day on average over the past 14 days, and 6% over the last three days. At a growth rate of 5%, Ontario will have more cases per capita than France, Germany, and the United Kingdom in the coming weeks. The current measures in place to slow the spread of COVID-19 are not enough to curb the current trajectory. Under the 5% growth scenario, Ontario could have more than 400 patients in intensive care within the next six weeks, which would make it "impossible" to handle non-COVID-19 needs. Hospitalized COVID-19 patients in Ontario have increased by 61% in the past three weeks and 167% in the past six weeks. The situation in Ontario's long-term care homes is worsening, with resident mortality increasing each week, and 71 deaths occurring in the last seven days. These values suggest a rapidly increasing number of COVID-19 cases and hospitalizations in Ontario, which could lead to a significant strain on the healthcare system and potentially overwhelm hospital capacity.
+Relevant.
+Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada include:
+Number of new cases per day (in B.C., 544 per day on average over the last week)
+Reproductive rate (above 1.5 in B.C.)
+Demographics driving infection rates (young people aged 20-29 and spillover into other demographics including the elderly)
 
-Article 2 of 3
-Title: Trudeau hopeful Canada will have COVID-19 vaccine by early 2021
-Publisher: Canada's National Observer
+Article 4 of 5
+Title: 'Science is working': Canadian experts say evolving mask guidance to be expected
+Publisher: CTV News
 Trusted: False
-Posted: 5 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting values most important for forecasting: Ontario reported 1,328 new cases on Sunday and 1,242 new cases on Monday, indicating a high and potentially increasing number of cases in the province. The prime minister warned that vaccines will not bring an immediate resolution to the pandemic, emphasizing the need to control the spread of COVID-19 in the coming months. The article mentions that health officials in Quebec are seeing a worsening situation in some areas, including the Saguenay—Lac-St-Jean area, which has more than double the provincial rate of cases per 100,000 people. This could be a warning sign for Ontario, which shares a border with Quebec. The region of Saguenay—Lac-St-Jean has 312 active cases per 100,000 people, which is a high rate that could lead to increased hospitalizations. These values suggest that Ontario is experiencing a high number of cases, and the situation may worsen in the coming months before vaccines become available. This information can be used to inform forecasting models and predict potential hospitalization rates in Ontario.
+Posted: 2 days ago
+Key values:
+Health Canada and WHO have recommended face masks to protect both the wearer and others.
+Cloth masks with three layers and a polypropylene filter can reduce inhalation of droplets by the wearer.
+Public health messaging has evolved from discouraging mask-wearing to recommending universal masking policies due to growing realization that many people have COVID-19 without symptoms.
+Masks should be viewed as one component of the public health strategy, not a substitute for physical distancing or other measures.
 
-Article 3 of 3
+Article 5 of 5
 Title: Why COVID-19 cases are surging across Canada and what needs to be done
-Publisher: CBC.ca
+Publisher: CBC News
 Trusted: False
 Posted: 7 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. The article highlights the current situation in Ontario, where cases are spiking, and hospitalizations are increasing. Key points relevant to forecasting COVID-19 hospitalizations in Ontario include: The seven-day average of cases in Ontario has grown to nearly 1,000. There are currently almost 150 outbreaks in long-term care homes in Ontario. The largest number of COVID-19 deaths in a single day happened recently in Ontario. Experts say the province doesn't have a clear enough view of the situation, with over half of Ontario's cases having no known link to previous cases and community transmission running rampant. Ontario is moving to ease restrictions on much of the province, despite not hitting its full testing capacity and contact tracing and isolation of cases not functioning in hot spots like Toronto. Experts warn that if the number of cases is not brought down from 1,000 a day to something like 50 or 100 per day, the situation could worsen. These points suggest that the current situation in Ontario is highly unstable, and the province is at risk of experiencing a significant increase in COVID-19 hospitalizations.
+The article discusses the COVID-19 pandemic in Canada and Alberta, specifically, and highlights the need for a more effective strategy to control the spread of the virus.
+Key points:
+A "circuit breaker" model from the UK, which involves brief lockdowns to interrupt transmission and reverse rising case numbers quickly, is suggested as a possible approach.
+Premier Jason Kenney has urged Albertans to stop social gatherings at home and expanded restrictions on social gatherings in communities with high COVID-19 cases.
+Public health experts are concerned about the rising number of community transmission cases and inadequate contact tracing in Alberta.
+British Columbia has seen record-high COVID-19 case numbers, and experts there are worried that it may jeopardize their progress if they don't regain control over the surge.
+The Atlantic bubble model, which involves tight restrictions on points of entry, aggressive contact tracing, and isolating new cases, is highlighted as a success story for curbing COVID-19 spread.
+Expert opinions:
+Dr. Srinivas Murthy, an infectious disease specialist, suggests that new public health restrictions focused on limiting gathering sizes, mandating masks in healthcare facilities, and threatening businesses with closures may help drive down case numbers without the need for lockdowns.
+Susan Kirkland, epidemiologist at Dalhousie University, emphasizes the need for constant vigilance to avoid letting the guard down, especially as rising cases across Canada show that COVID-19 can spread quickly anywhere.
+Overall, the article suggests that a more effective strategy is needed to control the spread of COVID-19 in Alberta and other parts of Canada.

@@ -1,36 +1,65 @@
-Below are 5 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
+Below are 6 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
-Article 1 of 5
+Article 1 of 6
 Title: Early signs suggest race matters when it comes to COVID-19. So why isn't Canada collecting race-based data?
 Publisher: CBC.ca
 Trusted: False
 Posted: Today
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada, as it highlights the importance of collecting race-based data to understand the disproportionate impact of COVID-19 on marginalized populations, such as Indigenous communities, racialized populations, and those with low income. The article notes that these populations are more likely to have chronic diseases, which can increase their risk of severe illness and hospitalization due to COVID-19. Key points relevant to forecasting COVID-19 hospitalizations in Ontario, Canada: Marginalized populations, such as Indigenous communities, racialized populations, and those with low income, are more likely to have chronic diseases and be at higher risk of severe illness and hospitalization due to COVID-19. The lack of race-based data collection in Canada makes it difficult to understand the impact of COVID-19 on these populations and to develop targeted interventions. In the US, data has shown that black and Latino residents are disproportionately affected by COVID-19, with higher rates of hospitalization and death. Ontario's chief medical officer of health has stated that the province does not plan to collect race-based data, citing privacy concerns. Health-care advocates and professionals are calling for the collection of race-based data to better understand the impact of COVID-19 on marginalized populations and to develop targeted interventions. Overall, this article highlights the need for more nuanced data collection and analysis to understand the impact of COVID-19 on different populations in Ontario, Canada, and to develop effective strategies to mitigate these impacts.
+Summary: The article discusses the lack of race-based data collection in Canada's COVID-19 response, which makes it difficult to identify and target vulnerable populations.
+Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Age (elderly are at higher risk)
+Underlying medical conditions (people with chronic diseases may not receive intensive care due to resource constraints)
+Socio-demographic factors (low income, poverty, homelessness, Indigenous populations, and racialized communities are more likely to have chronic diseases)
+These values can help inform forecasting models, but the article highlights the need for more detailed data on race-based outcomes in Ontario.
 
-Article 2 of 5
-Title: Inside a Toronto ICU: What it takes to care for COVID-19's most critically ill
-Publisher: CTV News
-Trusted: False
-Posted: 1 day ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: The article reports on the experiences of doctors and nurses caring for critically ill COVID-19 patients at Humber River Hospital in Toronto, Ontario. The hospital's intensive care unit is caring for 13 COVID-19 patients on ventilators, with 45 people being treated for the virus in total. The article highlights the complexity and unpredictability of caring for severe COVID-19 cases, with the disease causing pneumonia, heart inflammation, kidney disease, blood clots, and liver problems. The article mentions that about 5% of all COVID-19 patients will require mechanical ventilation on an intensive care unit, according to a paper published by the Intensive Care Society. The article also notes that hospitals are reporting shortages of personal protective equipment and sedatives, which are critical for caring for COVID-19 patients. The article quotes healthcare workers expressing concerns about the virus's persistence and the lack of treatments, as well as the emotional toll of caring for patients with a deadly and unpredictable disease. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada, from this article include: The number of COVID-19 patients requiring mechanical ventilation on an intensive care unit (5% of all cases) The complexity and unpredictability of caring for severe COVID-19 cases The shortages of personal protective equipment and sedatives The emotional toll on healthcare workers caring for COVID-19 patients These values can inform forecasting models by highlighting the potential for increased hospitalizations and ICU admissions, as well as the need for adequate supplies of personal protective equipment and sedatives. Additionally, the emotional toll on healthcare workers may impact their ability to care for patients effectively, which could also impact hospitalization rates.
-
-Article 3 of 5
+Article 2 of 6
 Title: 'Loophole' in Ontario's COVID-19 long-term care plan allows temp workers in multiple homes
 Publisher: CBC.ca
 Trusted: False
 Posted: 2 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting values most important for forecasting: 933 long-term care residents have been infected with COVID-19 in Ontario. 162 long-term care residents have died from COVID-19 in Ontario. 104 out of 626 long-term care homes in Ontario are dealing with outbreaks. 530 staffers in long-term care homes have been infected with COVID-19. Hospital acute care capacity across Ontario is at 64.1% as of April 13. The province has issued a "temporary pause" on transitioning hospital patients to long-term care and retirement homes. These values provide insight into the current state of COVID-19 spread in long-term care homes in Ontario, which can inform forecasts of hospitalizations. The fact that hospital acute care capacity is at 64.1% suggests that there is still capacity to care for patients, but the outbreaks in long-term care homes and the number of infected residents and staffers indicate a high risk of increased hospitalizations in the near future.
+This article is RELEVANT.
+Key points for forecasting COVID-19 hospitalizations in Ontario, Canada:
+104 long-term care homes in Ontario are dealing with outbreaks (as of the time of the article).
+530 staffers have been infected with COVID-19.
+The province has implemented a "temporary pause" on transitioning hospital patients to long-term care and retirement homes due to high risk of COVID-19 in these settings.
 
-Article 4 of 5
+Article 3 of 6
+Title: Ontario scaled back comprehensive, annual inspections of nursing homes to only a handful last year
+Publisher: CBC.ca
+Trusted: False
+Posted: 3 days ago
+626 long-term care homes in Ontario had only 9 comprehensive inspections (RQIs) last year.
+RQIs are unannounced, proactive, and cover various aspects of home operations.
+Most homes received complaint or critical incident inspections instead.
+Ministry claims all homes receive an inspection at least once a year, but types of inspections vary.
+Homes with multiple COVID-19 deaths had not received recent comprehensive inspections (RQIs).
+
+Article 4 of 6
+Title: 'I was horrified': Family had to rush woman out of Toronto care home struck by COVID-19
+Publisher: CTV News
+Trusted: False
+Posted: 4 days ago
+27 COVID-19 deaths and 53 confirmed cases at Eatonville Care Centre in Toronto.
+Rapid outbreak within the care home, leaving families struggling to get final moments with their loved ones.
+Care home's communication has been insufficient, with some family members missing phone calls or receiving automated messages instead of personal updates.
+Residents and staff are being monitored for symptoms twice a day, with increased testing and awaiting test results on over 70 residents.
+
+Article 5 of 6
 Title: Behind the scenes in the fight against COVID-19
 Publisher: CBC.ca
 Trusted: False
 Posted: 4 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting values most important for forecasting: The article reports on the situation at Humber River Hospital in Toronto, where admissions are climbing gradually, but not spiking. The hospital is experiencing a shortage of personal protective equipment (PPE), which is being rationed and treated like narcotics. The article mentions that testing numbers are low in Ontario, which makes it difficult to determine the true extent of the outbreak. The hospital is preparing for a potential surge in cases, with construction sounds and the installation of Plexiglass barriers at nurses' stations. The article quotes Dr. Tasleem Nimjee, who expresses concerns about the fear and anxiety among healthcare workers, as well as the emotional toll of working with COVID-19 patients. The article also mentions that the Ontario government has announced a plan to increase COVID-19 testing capacity to 16,000 tests per day by May 6. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Gradual increase in admissions at Humber River Hospital Shortage of PPE Low testing numbers in Ontario Potential surge in cases Emotional toll on healthcare workers Government plan to increase testing capacity These values suggest that the situation in Ontario is still uncertain, and that healthcare workers are facing significant challenges in responding to the outbreak. The gradual increase in admissions and the shortage of PPE suggest that the healthcare system is under strain, and that there may be a risk of a surge in cases in the coming days or weeks. The low testing numbers and the government's plan to increase testing capacity suggest that there may be a need for increased vigilance and preparedness in the coming weeks.
+Relevant.
+This article provides insight into the challenges faced by healthcare workers at Humber River Hospital in Toronto during the COVID-19 pandemic. Key values for forecasting COVID-19 hospitalizations in Ontario, Canada include:
+Hospital admissions are climbing gradually, but not spiking.
+Testing numbers are low, which may lead to undiagnosed cases and increased risk of transmission among healthcare staff.
+PPE usage is high due to the need to assume all patients have COVID-19 until testing confirms otherwise.
+Staff anxiety and fear of contracting the virus are increasing.
+The hospital is rationing PPE and preparing for potential shortages.
 
-Article 5 of 5
-Title: Retired Ontario doctor returns to work to help with COVID-19
+Article 6 of 6
+Title: Doctor gambles on clot-busting drug to save virus patients
 Publisher: CTV News
 Trusted: False
 Posted: 7 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada, as it provides information on the following: The number of COVID-19 cases and deaths in Canada as of the article's date (23,318 cases and 653 deaths) The efforts of retired healthcare workers, such as Dr. Alan Konyer, who are returning to work to help alleviate pressure on hospitals and frontline medical staff The use of telephone consultations as a means of prevention to reduce unnecessary hospital visits The perceived effectiveness of physical distancing directives in reducing the spread of the virus These points can inform forecasting models by highlighting the potential impact of increased healthcare capacity, changes in public behavior, and the effectiveness of preventative measures on COVID-19 hospitalizations in Ontario, Canada.
+Blood clots may contribute to deterioration in severely ill COVID-19 patients. Doctors are experimenting with clot-fighting treatments like tPA to try and improve patient outcomes. This information could be useful for forecasting COVID-19 hospitalizations if it can be established that blood clotting is a common issue in Ontario, Canada.

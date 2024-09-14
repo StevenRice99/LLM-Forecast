@@ -1,50 +1,94 @@
 Below are 7 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
 Article 1 of 7
+Title: LCBO employee tests positive for COVID-19 as Ontario's tally climbs to 993
+Publisher: CBC.ca
+Trusted: False
+Posted: 1 day ago
+The article reports on various updates regarding COVID-19 in Ontario, Canada.
+Longo's Grocery Store Update 
+A store employee at Longo's Weston Road location in Woodbridge has tested positive for COVID-19.
+The store has been closed until Saturday, March 28, to allow for a full investigation and implementation of measures based on public health advice.
+Customers who may have had contact with the company's Grocery Gateway driver within the last 14 days have been notified via email.
+NDP Leader Calls for Help 
+NDP leader Andrea Horwath is calling on the Ontario government to provide direct financial support to households struggling to pay rent during the pandemic.
+She also wants Premier Doug Ford to make it illegal to evict tenants during this time.
+Toronto Health-Care Worker's Difficult Decision 
+Marci Halls, a cardiac technologist at a Toronto hospital, sent her young son to live with his grandparents in London, Ont., due to concerns about bringing the virus back home.
+She hopes that her story will help people understand the sacrifices health-care workers are making and encourage them to stay at home and take the outbreak seriously.
+Restaurant Industry's Plea for Help 
+The Canadian restaurant industry is calling on the federal government for financial relief, protection from being locked out of locations by landlords, and assistance with reopening and rehiring employees once measures are eased.
+A campaign called OneTable has been started to secure this support.
+Long-Term Care Home Deaths 
+Two residents at Pinecrest Nursing Home in Ontario have died after developing symptoms following a COVID-19 outbreak.
+Fourteen staff members have tested positive, while 16 others are still waiting for test results.
+
+Article 2 of 7
 Title: Cannabis labs eager to aid with COVID-19 testing with 10,000 backlog in Ontario
 Publisher: CBC.ca
 Trusted: False
 Posted: 1 day ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada, as it highlights the potential for cannabis analytical testing facilities to be repurposed for COVID-19 testing, which could help alleviate the current backlog of over 10,000 Ontarians waiting for their test results. The article mentions that High North's facility could potentially process up to 1,200 tests per day with additional equipment, which could significantly increase testing capacity in Ontario. Additionally, the article notes that other cannabis companies are donating personal protective equipment and supplies to local healthcare services, which could also impact hospitalization rates. Key values for forecasting COVID-19 hospitalizations in Ontario, Canada, mentioned in the article include: 10,000+ Ontarians waiting for COVID-19 test results Potential for cannabis analytical testing facilities to process up to 1,200 tests per day Donations of personal protective equipment and supplies from cannabis companies to local healthcare services.
-
-Article 2 of 7
-Title: Employee at Kingston General Hospital tests positive for COVID-19
-Publisher: CTV News Ottawa
-Trusted: False
-Posted: 1 day ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada, as it reports on a healthcare worker at Kingston General Hospital testing positive for COVID-19. Although the infection is believed to be non-work-related, this case could potentially lead to an increase in hospitalizations if the individual had close contacts within the hospital. Key points for forecasting include: One healthcare worker at Kingston General Hospital has tested positive for COVID-19 and is recovering in self-isolation. The infection is believed to be non-work-related, but an investigation is ongoing to determine the source of the infection and identify close contacts. The hospital has implemented measures to reduce the risk of transmission, including dedicated entrances and screening for staff, as well as advising recent travelers to self-isolate for 14 days. These details are important for forecasting COVID-19 hospitalizations in Ontario, Canada, as they highlight the potential for healthcare workers to contract the virus and the measures being taken to mitigate transmission within hospitals.
+Summary: The article mentions that:
+There is a backlog of COVID-19 test results in Ontario (10,000+ Ontarians waiting for results)
+Health Canada is seeking lab capacity to support COVID-19 testing
+Cannabis companies in Ontario and elsewhere are offering their facilities and equipment to help with testing
+Some cannabis companies have already donated personal protective equipment and other resources to local healthcare services
+These values are most important for forecasting COVID-19 hospitalizations in Ontario, Canada: 
+Number of pending test results (potential new cases)
+Availability of lab capacity to process tests
+Supply chain and resource availability for PPE and medical equipment
 
 Article 3 of 7
+Title: Ontario's COVID-19 death total jumps to 13, with 100 new cases confirmed
+Publisher: CBC.ca
+Trusted: False
+Posted: 3 days ago
+New cases in Ontario: 100
+Total cases: 688
+Total deaths: 13
+Number of patients in ICU: 17 (with 15 on ventilators)
+Community spread: at least 16%
+Hospitalsized cases: 5, including a woman in her 20s from Peel Region
+
+Article 4 of 7
 Title: When it comes to ventilators per capita, Ontario's near the bottom
 Publisher: CBC.ca
 Trusted: False
 Posted: 3 days ago
-The article provides relevant information for forecasting COVID-19 hospitalizations in Ontario, Canada. Key values for forecasting include: 12 ventilators per 100,000 people in Ontario, which is near the bottom of Canada's 10 provinces. 1,810 hospital beds equipped with ventilators in Ontario, with 80% typically occupied by non-COVID-19 patients, leaving approximately 2-3 ventilators per 100,000 people available for COVID-19 patients. 6% of confirmed COVID-19 cases in Canada require hospitalization, and 2% require intensive care. A recent study suggests Ontario may run out of intensive care beds and ventilators in late April, even with a 50% reduction in infection rates. As of the article's publication, Ontario had 688 confirmed cases of COVID-19, with 17 patients in intensive care units and 15 on ventilators. These values highlight the potential strain on Ontario's healthcare system, particularly with regards to ventilator capacity, and can inform forecasting models for COVID-19 hospitalizations in the province.
+Summary: The article highlights the following values important for forecasting:
+Ventilator capacity: 1,810 beds equipped with ventilators (approx. 12 ventilators per 100,000 people) and actual capacity for COVID-19 patients is closer to 2-3 ventilators for 100,000 people.
+Hospitalization rates: 6% of confirmed COVID cases in Canada have required hospitalization and 2% require intensive care.
+Projected ICU bed shortages: A recent study suggests Ontario will run out of intensive care beds and ventilators in late April even if infection rates are cut in half.
 
-Article 4 of 7
-Title: Unemployed Canadians anxiously awaiting federal COVID-19 help
+Article 5 of 7
+Title: No haircuts or manicures: How Ontario's beauty industry is coping with COVID-19
 Publisher: CTV News
 Trusted: False
 Posted: 3 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting values most important for forecasting: Ontario reported 100 new cases, its largest single-day jump, bringing the provincial total to 688. There are 9 deaths in Ontario out of 28 nationally. Close to one million new applications for employment insurance have been reported, indicating a significant impact on the workforce. A poll found that close to half of respondents reported they or someone in their household had lost work due to the outbreak, and 18% expected to lose work soon. The article highlights the importance of social distancing measures, such as shutting down non-essential businesses, to slow the spread of the virus. The World Health Organization emphasizes the need for widespread testing to curb the pandemic, but notes that global demand has outpaced the supply of essential chemicals. These values are important for forecasting COVID-19 hospitalizations in Ontario, Canada, as they indicate the rapid spread of the virus, the impact on the workforce and economy, and the efforts being made to slow the spread through social distancing measures. Additionally, the emphasis on testing highlights the need for accurate and timely data to inform forecasting models.
-
-Article 5 of 7
-Title: Ontario closes all non-essential businesses, as the province confirms 78 new COVID-19 cases
-Publisher: CBC.ca
-Trusted: False
-Posted: 4 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: The province of Ontario has confirmed 78 new cases of COVID-19, bringing the total to 503. Six of the new cases are hospitalized, including a woman in her 30s, a man in his 40s, two people in their 50s, and two people in their 70s. A total of 39 people have been hospitalized for COVID-19, including those who are no longer in hospital. 12 patients have been or still are in the intensive care unit. The number of people getting tested continues to climb, with 3,100 people tested yesterday, up from about 2,000 last week. The government aims to increase testing to 5,000 by the end of the week. There are 58 dedicated COVID-19 assessment centres running in Ontario. The province has committed $200 million in relief funding to municipalities to support key social services, including shelters, food banks, and emergency services. The government has ordered the closure of all non-essential businesses, effective Tuesday at 11:59 p.m., to slow the spread of COVID-19. These values are important for forecasting COVID-19 hospitalizations in Ontario, Canada, as they provide information on the current number of cases, hospitalizations, and testing capacity, as well as the government's response to the outbreak.
+Closure of non-essential businesses (including beauty salons) to prevent spread of COVID-19.
+Impact on hairstylists, barbers, lash technicians, and spa owners who must stop working.
+Concerns about spreading the virus at work due to social distancing measures.
 
 Article 6 of 7
 Title: Essential services: What's staying open when shutdowns expand in Ontario, Quebec
 Publisher: CTV News
 Trusted: False
 Posted: 4 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Summary: The article reports on the closure of non-essential businesses in Ontario and Quebec, Canada, due to the COVID-19 pandemic. The list of essential businesses and services provided by both provinces includes healthcare-related services, such as hospitals, pharmacies, and medical supply stores. The closure order in Quebec is in place for three weeks, until April 13. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: The list of essential businesses and services, particularly those related to healthcare, can help inform forecasting models about the potential impact on hospitalizations. The duration of the closure order in Quebec (three weeks) may indicate a similar timeframe for Ontario, which could influence forecasting models. The inclusion of healthcare-related services as essential businesses suggests that the healthcare system will continue to operate, but may face increased pressure due to the pandemic. Overall, this article provides valuable information about the measures being taken to mitigate the spread of COVID-19 in Ontario and Quebec, which can be used to inform forecasting models about potential hospitalization rates.
+Here is a brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+FALSE 
+This article does not provide information relevant to forecasting COVID-19 hospitalizations in Ontario, Canada. It lists essential businesses and services that are allowed to remain open during the pandemic, but it does not contain any data or statistics related to the number of cases, hospitalizations, or healthcare capacity.
 
 Article 7 of 7
-Title: Prescott declares state of emergency amid COVID-19 pandemic
-Publisher: CTV News Ottawa
+Title: Ontario closes all non-essential businesses, as the province confirms 78 new COVID-19 cases
+Publisher: CBC.ca
 Trusted: False
-Posted: 5 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Summary: The town of Prescott, located near the Canada-US border, has declared a state of emergency due to concerns about the spread of COVID-19. Despite no reported cases in Leeds-Grenville-Lanark, there are cases on the border and community spread is believed to be occurring. The town is encouraging residents to practice social distancing and follow public health measures. Values important for forecasting COVID-19 hospitalizations in Ontario, Canada: Proximity to the Canada-US border, which may increase the risk of transmission Presence of community spread in nearby areas Local government response, including declaration of a state of emergency and encouragement of social distancing measures. These factors could contribute to an increased risk of COVID-19 transmission and hospitalizations in the region, which is relevant for forecasting purposes.
+Posted: 4 days ago
+Here are the key points from the article:
+The province of Ontario is facing a potential shortage of personal protective equipment (PPE) due to COVID-19.
+Two medical associations have called on health staff to use expired masks in lower-risk areas due to concerns about supply.
+A Toronto hospital, Michael Garron Hospital, is accepting donations of face masks and other protective gear from the public.
+The province's online COVID-19 self-assessment tool has been revamped to provide more interactive questions and specific advice based on symptoms.
+Health Minister Christine Elliott says there are adequate supplies of PPE for frontline professionals.
+The Ontario NDP has called for emergency income cheques of $2,000 to households experiencing unemployment or lost income during the pandemic.
+The TTC is no longer accepting cash payments on buses and is asking riders to board and exit from rear doors, except when they require the kneeling ramp.
+A nurse has advised people to ask for no lid on their takeout coffee cups in order to reduce the risk of infection.

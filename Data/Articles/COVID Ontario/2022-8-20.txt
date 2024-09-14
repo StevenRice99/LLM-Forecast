@@ -5,11 +5,18 @@ Title: Real-world study of the effectiveness of BBIBP-CorV (Sinopharm) COVID-19 
 Publisher: BMC Public Health
 Trusted: True
 Posted: Today
-This article provides relevant information for forecasting COVID-19 hospitalizations in Ontario, Canada. The study evaluates the effectiveness of the BBIBP-CorV vaccine against severe or critical COVID-19 hospitalization in Morocco, which can inform vaccine effectiveness in other regions, including Ontario. Key values for forecasting COVID-19 hospitalizations in Ontario include: Vaccine effectiveness (VE) against severe or critical COVID-19 hospitalization: + 89% overall + 96% among working-age adults + 53% among older adults VE against hospital admission or death in Canada (using BNT162b2 vaccine): 98% Decreased effectiveness with older age, possibly due to comorbidities, slower vaccine-induced immune responses, and waning protection Importance of booster doses to sustain protection These findings can inform vaccine strategy and effectiveness in Ontario, which can, in turn, impact COVID-19 hospitalization forecasts.
+2-dose vaccine effectiveness (VE) against serious/critical COVID-19 hospitalization was 96% among working-age adults.
+VE was lower among older adults (53.3%) compared to working age adults.
+Pfizer-BioNTech's BNT162b2 mRNA vaccine and Moderna's mRNA-1273 vaccine have been shown to be highly effective against severe COVID-19 in various studies, with VE ranging from 70 to 90% among older adults.
+The study highlights the importance of a booster dose to sustain protection, especially for older adults.
 
 Article 2 of 2
 Title: Ontario to fund more private clinic surgeries, send patients to temporary LTCs to ease health-care pressures
 Publisher: CBC.ca
 Trusted: False
 Posted: 2 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: The Ontario government plans to increase publicly covered surgeries at private clinics, which could potentially reduce the number of patients in hospitals and alleviate pressure on the healthcare system. The government also plans to move patients waiting for long-term care beds to temporary homes, which could free up hospital beds and reduce the number of patients in hospitals. There are currently 181 long-term care homes in active COVID-19 outbreaks in Ontario, which could impact hospitalization rates. The province plans to invest up to $57.6 million over three years to increase the number of nurse practitioners working in long-term care homes, which could help reduce hospitalization rates. The Ontario Long Term Care Association faces an LTC wait list of nearly 40,000 people, which could impact hospitalization rates if not addressed. The province's plan outlines more of a role for privately delivered but publicly covered services, which could potentially increase the number of patients receiving care outside of hospitals. These points highlight the potential for changes in hospital capacity, long-term care, and healthcare staffing, which could all impact COVID-19 hospitalization rates in Ontario, Canada.
+The article highlights the following values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Current hospital capacity: The province is trying to free up hospital beds by moving patients waiting for long-term care beds to temporary homes and using 300 beds previously used for COVID-19 isolation.
+Nursing staff shortages: Emergency departments across the province have closed due to nursing staff shortages, which could impact COVID-19 hospitalizations.
+Long-term care home outbreaks: There are currently 181 long-term care homes in active COVID-19 outbreaks, which could lead to increased hospitalizations.
+COVID-19 seasonality: The article mentions that Ontario is moving into the anticipated fall flu/COVID season, which could impact COVID-19 hospitalizations.

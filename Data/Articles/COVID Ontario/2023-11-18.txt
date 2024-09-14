@@ -1,50 +1,116 @@
-Below are 7 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
+Below are 10 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
-Article 1 of 7
+Article 1 of 10
+Title: Q and A with the Experts: RSV prevention for vulnerable populations | Waterloo News
+Publisher: University of Waterloo
+Trusted: True
+Posted: 1 day ago
+RSV hospitalizations in Canada are relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. 
+Summary: 
+80% of children hospitalized with bronchitis have RSV
+20% of infants hospitalized with pneumonia have RSV
+Risk factors for severe RSV include premature birth and chronic lung illness
+No vaccine available for children and infants
+RSV hospitalizations among healthy infants are common
+
+Article 2 of 10
+Title: Total hospitalized with COVID-19 in B.C. climbs in latest weekly update
+Publisher: CTV News Vancouver
+Trusted: False
+Posted: 2 days ago
+The article highlights:
+A 7.7% increase in test-positive COVID patients in B.C. hospitals.
+A decrease in new lab-confirmed infections (475 vs 540) and test positivity rate (14.2% vs 15.9%) in the latest epidemiological week in B.C.
+Increasing virus concentrations in wastewater at multiple treatment plants across B.C., indicating potential ongoing transmission.
+These values may have some relevance for forecasting COVID-19 hospitalizations in Ontario, Canada, but the article is more specific to British Columbia and does not provide information on Ontario's situation.
+
+Article 3 of 10
+Title: Respiratory virus outbreaks surging again in Alberta care homes
+Publisher: CBC.ca
+Trusted: False
+Posted: 2 days ago
+Relevant.
+In Alberta, there are 358 respiratory virus outbreaks in long-term care and supportive living sites since Aug 27.
+Most facility-based outbreaks so far this season (including those at care homes, schools, and hospitals) have been due to COVID-19.
+In Ontario, a masking requirement has been implemented at long-term care homes due to rising outbreaks and resident hospitalizations.
+Elderly Albertans are disproportionately affected by COVID-19, with 1,120 people aged 70+ hospitalized since the end of August.
+
+Article 4 of 10
 Title: Rising COVID-19 numbers reported in Ottawa, eastern Ontario
 Publisher: CBC.ca
 Trusted: False
 Posted: 3 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Ottawa's COVID-19 numbers are mostly rising, with high or very high individual trends. The average number of Ottawa residents in local hospitals for COVID-19 has risen to 71, with one patient in an ICU. The city's weekly average test positivity rate is about 19%, which has remained stable and is categorized as high. There has been an increase to 37 active COVID outbreaks, with most outbreaks in retirement homes or hospitals. The Eastern Ontario Health Unit (EOHU) reports a high-risk time for COVID, with high wastewater readings and a high, rising test positivity of 23%. Hospitalizations have increased in the EOHU, with a threefold increase from the previous week to 25 COVID hospitalizations. These values suggest an increasing trend in COVID-19 cases and hospitalizations in Ottawa and surrounding areas, which is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada.
+Relevant article for forecasting COVID-19 hospitalizations in Ontario, Canada.
+Average number of Ottawa residents in local hospitals for COVID-19 has risen to 71 (highest since February 2022).
+Separate count of patients who tested positive or were admitted with lingering COVID complications also rose.
+54 new patients added from previous week, categorized as high.
+Hospitalization rates are high in other regions such as Kingston, EOHU, and HPE.
 
-Article 2 of 7
-Title: More women than men died in Canada during the first months of the COVID pandemic, StatCan finds
-Publisher: CTV News
+Article 5 of 10
+Title: Person 20 to 44 years old among N.B.'s latest COVID deaths, child under 4 hospitalized
+Publisher: CBC.ca
 Trusted: False
 Posted: 3 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Summary: The article highlights the demographic characteristics of COVID-19 deaths in Canada during the early months of the pandemic. Key findings include: + More women died of COVID-19 than men, particularly among non-immigrants aged 85 and older. + The majority of early COVID-19 deaths (over 80%) occurred in long-term care homes, where women made up two-thirds of residents. + COVID-19 risk factors, such as diabetes, cancer, and smoking, were higher among Canadian men. + The COVID-19 death rate among immigrant workers in healthcare and social assistance was higher among men. + The sex differences in COVID-19 deaths disappeared by summer 2021, likely due to high vaccination rates in long-term care homes. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Age distribution: The article highlights the disproportionate impact of COVID-19 on older adults, particularly those aged 85 and older. Long-term care homes: The high concentration of COVID-19 deaths in long-term care homes suggests that these settings may be a key driver of hospitalizations. Vaccination rates: The article notes that high vaccination rates in long-term care homes reduced infections and serious outcomes, including death, by over 90%. This suggests that vaccination rates may be an important factor in forecasting hospitalizations. These findings can inform forecasting models by highlighting the importance of considering age distribution, long-term care homes, and vaccination rates when predicting COVID-19 hospitalizations in Ontario, Canada.
+The province's "excess mortality" or "untimely mortality," will likely increase by an estimated 20 per cent per week in the coming weeks.
+Hospitalizations are costing the province an estimated $1 million a day.
+There were 52 people hospitalized for or with COVID-19, including a child under four and nine people aged 45 to 64 years old, and 42 people 65 or older.
+The number of people who required intensive care increased to four from one.
 
-Article 3 of 7
+Article 6 of 10
 Title: COVID-19 Vaccination During Pregnancy Is Safe, Has Multiple Benefits
 Publisher: FactCheck.org
 Trusted: True
 Posted: 3 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Summary: The article discusses the safety and effectiveness of COVID-19 vaccination during pregnancy, citing a study published in JAMA Pediatrics that used data from over 142,000 babies born in hospitals in Ontario, Canada. The study found that maternal mRNA COVID-19 vaccination during pregnancy was not associated with increased adverse newborn and early infant outcomes and may be protective against adverse newborn outcomes. The study also found that babies whose mothers had gotten the original primary vaccine series, including at least one dose during pregnancy, had a 45% lower risk of infection and 53% lower risk of hospitalization with omicron than babies of unvaccinated mothers. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: 45% lower risk of infection and 53% lower risk of hospitalization with omicron for babies whose mothers had gotten the original primary vaccine series, including at least one dose during pregnancy. Maternal mRNA COVID-19 vaccination during pregnancy was not associated with increased adverse newborn and early infant outcomes. The study used data from over 142,000 babies born in hospitals in Ontario, Canada, making it a relevant and reliable source for forecasting COVID-19 hospitalizations in the province. Overall, the article suggests that COVID-19 vaccination during pregnancy is safe and effective in reducing the risk of hospitalization and infection in babies, which is an important factor to consider when forecasting COVID-19 hospitalizations in Ontario, Canada.
+The article discusses the effectiveness of maternal COVID-19 vaccination in reducing the risk of infection and hospitalization from COVID-19 in infants, particularly during the first six months of life.
+According to multiple studies, including one published in JAMA Pediatrics by Jorgensen et al., babies whose mothers had received at least one dose of COVID-19 vaccine during pregnancy had a 45% lower risk of infection and 53% lower risk of hospitalization with omicron compared to babies of unvaccinated mothers. The protection was even better if the mothers got at least one dose during the third trimester, with a 73% lower risk of infection and an 80% lower risk of hospitalization with omicron.
+The article also notes that while maternal vaccination is associated with reduced risk of infection and hospitalization from COVID-19 in infants, it does not eliminate the need for infant vaccination. The CDC recommends that all children aged 6 months and older receive a COVID-19 vaccine.
+Overall, the article provides an accurate summary of the scientific evidence on the effectiveness of maternal COVID-19 vaccination in reducing the risk of infection and hospitalization from COVID-19 in infants.
+Sources:
+Multiple studies cited in the article, including Jorgensen et al. (2023) and Goh et al. (2023)
+CDC website
+FactCheck.org articles on COVID-19 vaccination during pregnancy
 
-Article 4 of 7
+Article 7 of 10
 Title: Ontario announced return of masking requirements in LTC homes
 Publisher: Canadian HR Reporter
 Trusted: False
 Posted: 4 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting important values: Recent trends show moderate to high community transmission of COVID-19 in Ontario. There has been an increase in COVID-19 outbreaks in Long-Term Care Homes (LTCHs), with a higher risk of hospitalization among residents. Between Aug. 27 and Oct. 28, 2023, there were 5,459 COVID-19 cases among Ontario LTC home residents, resulting in 181 hospitalizations and 106 deaths. These values are important for forecasting COVID-19 hospitalizations in Ontario, as they indicate a recent surge in cases and outbreaks in LTCHs, which could lead to increased hospitalizations.
+"COVID-19 hospitalizations in Ontario, Canada are relevant for forecasting.
+Key values for forecasting:
+- Total COVID-19 cases in Ontario LTC homes (5,459)
+- Hospitalization rate: 181/5459
+- Mortality rate: 106/5459"
 
-Article 5 of 7
+Article 8 of 10
 Title: Ontario Long-Term Care: Mask Mandates Return Amid COVID-19 Spike
 Publisher: Samfiru Tumarkin LLP
 Trusted: False
 Posted: 4 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the key points: COVID-19 cases are rising in long-term care facilities and retirement homes in Ontario, with thousands of cases among residents and staff, and numerous hospitalizations and fatalities. The overall positivity rate for COVID-19 in Ontario is 17%, higher than that of influenza and RSV. Wastewater surveillance data shows a gradual increase in virus levels as of early November. Mask mandates have been reinstated for staff, volunteers, and support workers in long-term care facilities, and Public Health Ontario is strongly encouraging caregivers and visitors to wear masks indoors. These points suggest an increasing trend in COVID-19 cases and hospitalizations in Ontario, particularly in long-term care facilities and retirement homes, which is relevant for forecasting COVID-19 hospitalizations in the province.
+A rise in COVID-19 cases within long-term care facilities in 2023 is reported by Public Health Ontario.
+Thousands of cases among residents and staff are detailed.
+Numerous hospitalizations and fatalities occurred.
+These values are most important for forecasting COVID-19 hospitalizations in Ontario, Canada: 
+Increase in COVID-19 cases within long-term care facilities
+Number of cases among residents and staff (potentially indicating high hospitalization risk)
+Wastewater surveillance data showing a gradual increase in virus levels as of early November
 
-Article 6 of 7
+Article 9 of 10
 Title: Ontario is bringing back mask mandates in long-term care. Here's what you should know
 Publisher: Yahoo Canada Shine On
 Trusted: False
 Posted: 4 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: As of Nov. 7, masking mandates are back in place for staff of Ontario's long-term care homes due to rising numbers of COVID-19 cases. Recent trends show a moderate to high level of community transmission of COVID-19 and an increase in COVID-19 outbreaks in long-term care homes, with an increased risk of hospitalization amongst residents. The virus is projected to possibly peak in the next few weeks, around the same time that the flu and respiratory syncytial virus (RSV) are expected to increase. Since Aug. 27, there have been: + 394 COVID-19 outbreaks in long-term care homes + 7,157 cases among residents and staff + 181 hospitalizations + 106 deaths among residents Since Aug. 27, there have been: + 302 COVID-19 outbreaks in retirement homes + 3,884 cases among residents and staff + 172 hospitalizations + 21 deaths among residents These values are important for forecasting COVID-19 hospitalizations in Ontario, Canada, as they provide information on the current situation with COVID-19 in the province, including the number of outbreaks, cases, hospitalizations, and deaths in long-term care homes and retirement homes. This information can be used to inform forecasting models and predict future hospitalization rates.
+COVID-19 hospitalizations in Ontario, Canada can be forecasted using information from this article.
+Relevant values include:
+394 COVID-19 outbreaks in long-term care homes
+7,157 cases among residents and staff in long-term care homes
+181 hospitalizations of residents and staff in long-term care homes
 
-Article 7 of 7
+Article 10 of 10
 Title: Mask mandates return to Ontario long-term care amid spike in COVID-19, respiratory illness cases
 Publisher: CP24
 Trusted: False
 Posted: 5 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: The article reports an uptick in COVID-19 cases and outbreaks in long-term care facilities in Ontario, with 7,157 cases among residents and staff so far in 2023. The positivity rate for COVID-19 in Ontario is currently around 17%, which is higher than the positivity rate for influenza or RSV. The number of cases per 100,000 people has increased from 12 in the first week of September to 20.5 in the last week of October. Wastewater surveillance data also shows a slow uptick in the virus as of November 9. There have been 181 resident hospitalizations and 106 deaths in long-term care facilities, and 172 hospitalizations and 21 deaths in retirement homes. A new COVID-19 vaccine targeting the XXB variant has been made available to anyone over the age of six months as of October 30. These values suggest an increasing trend in COVID-19 cases and hospitalizations in Ontario, particularly in long-term care facilities, which could indicate a potential surge in hospitalizations in the coming weeks.
+- 7,157 cases among residents and staff in long-term care so far in 2023.
+- High positivity rate at about 17%.
+- 181 resident hospitalizations and 106 deaths in long-term care reported.
+- Significant increase in respiratory virus outbreaks over September and October.

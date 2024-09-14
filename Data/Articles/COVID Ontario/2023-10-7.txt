@@ -1,22 +1,80 @@
-Below are 3 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
+Below are 7 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
-Article 1 of 3
+Article 1 of 7
 Title: How seniors can access 4 key vaccines this fall — for COVID, flu, pneumonia, and RSV
-Publisher: CBC.ca
+Publisher: CBC News
 Trusted: False
 Posted: Today
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada, as it discusses the availability and recommendations for various vaccines, including COVID-19, influenza, pneumococcal, and RSV vaccines, which can help prevent hospitalizations among seniors. The article highlights the following values important for forecasting COVID-19 hospitalizations in Ontario, Canada: 1. Vaccine availability and rollout: The article mentions the availability of updated COVID-19 vaccines, as well as the rollout of other vaccines such as RSV and pneumococcal vaccines, which can impact hospitalization rates. 2. Vaccine uptake: The article notes that patchwork approaches among provinces and high costs for certain shots could hinder vaccine uptake, which can affect hospitalization rates. 3. Timing of vaccinations: The article discusses the recommended timing for various vaccinations, including COVID-19 and influenza, which can impact hospitalization rates. 4. Age and vulnerability: The article highlights the importance of vaccinating seniors, who are more vulnerable to serious illness and hospitalization due to COVID-19 and other respiratory viruses. 5. Co-administration of vaccines: The article notes that co-administration of vaccines, such as COVID-19 and influenza, is generally safe, but there is limited data on co-administration with RSV vaccines, which could impact hospitalization rates. Overall, the article provides valuable information on vaccine availability, uptake, and recommendations, which can inform forecasting models for COVID-19 hospitalizations in Ontario, Canada.
+Here's a brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Current COVID-19 vaccines (Pfizer and Moderna) are effective against severe illness from COVID-19.
+Updated COVID-19 boosters will be available soon, offering better protection than current vaccines.
+Influenza hospitalization rates among seniors (65+) can reach 63% of all hospitalizations, making vaccination crucial for this age group.
+RSV hospitalizations are less frequent but often associated with more severe disease in adults 60+, requiring high-flow oxygen or ICU admission.
+Pneumococcal pneumonia case fatality rate is up to 7%, and even higher among seniors.
+These values can inform forecasting models by considering the effectiveness of current and upcoming COVID-19 vaccines, the impact of influenza on seniors, and the severity of RSV infections in older adults.
 
-Article 2 of 3
+Article 2 of 7
+Title: B.C. COVID-19 hospitalizations reach their highest level in 2023 so far
+Publisher: CTV News Vancouver
+Trusted: False
+Posted: 1 day ago
+Relevant.
+The article reports on COVID-19 hospitalizations in British Columbia (B.C.), Canada. Key values for forecasting COVID-19 hospitalizations in Ontario, Canada are:
+No data specific to Ontario is provided.
+However, the article shows a trend of increasing hospitalizations with COVID-19 in B.C., which can be useful for understanding broader Canadian trends.
+The number of new lab-confirmed cases and test positivity rates in B.C. may provide some insight into the spread of the virus in Canada.
+
+Article 3 of 7
+Title: Burden of RSV falls mainly on youngest children, study finds, stressing need for better prevention
+Publisher: CBC News
+Trusted: False
+Posted: 2 days ago
+Age distribution: Nearly half (5,488) of 11,000 pediatric hospitalizations in Canada due to RSV were under six months old.
+Hospitalization rate: Almost a quarter (23%) of children with RSV required ICU care.
+Seasonality: RSV infections peaked in late October and November, but peak levels varied across the country.
+Potential interventions:
++ Preventive treatments for high-risk infants
++ Long-acting monoclonal treatment injections for high-risk children
++ Vaccination during pregnancy to pass antibodies to newborns
+
+Article 4 of 7
 Title: High respiratory risk in some places, rising COVID hospitalizations elsewhere
 Publisher: CBC.ca
 Trusted: False
 Posted: 3 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the key points: Ottawa's COVID-19 numbers are mostly stable or dropping, but hospitalizations are rising in the Outaouais, Leeds-Grenville-Lanark. The city's health-care institutions remain at a high risk from respiratory illnesses, similar to the previous year when COVID-19, flu, and RSV surged at the same time. Wastewater data shows that the average coronavirus level has been generally rising for two-and-a-half months, but growth has been uneven this month and flat in recent days. The average number of Ottawa residents in local hospitals for COVID-19 is down to 21, with no patients in an ICU. The city's weekly average test positivity rate is about 18 per cent, rising again after dropping for two weeks. There are 26 active COVID outbreaks, mostly in care homes. The health unit reported 209 more COVID cases in the last week and four more COVID deaths. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Hospitalization numbers: 21 (Ottawa), 32 (Kingston area), 12 (EOHU), 8 (Leeds, Grenville and Lanark counties), 46 (Western Quebec) Test positivity rate: 18% (Ottawa), 15% (EOHU), 17% (Kingston area) Wastewater data: generally rising for two-and-a-half months, but growth has been uneven this month and flat in recent days Outbreaks: 26 active COVID outbreaks, mostly in care homes Deaths: 4 more COVID deaths reported in Ottawa, 2 more in Western Quebec.
+Here are the key values extracted:
+COVID-19 hospitalizations in Ottawa: 21 patients on average (down from previous weeks)
+COVID-19 hospitalizations in Kingston area: 32 active patients (very high and stable)
+COVID-19 hospitalizations in Leeds, Grenville and Lanark counties: 8 patients (up from 2 last week)
+COVID-19 hospitalizations in Western Quebec: 46 patients (jumping from 27 to 46 this week)
+Wastewater levels of novel coronavirus in Ottawa: high, but down from very high last week
+Test positivity rate in Ottawa: high (18%)
+Test positivity rate in Kingston area: high and rising (17%)
 
-Article 3 of 3
+Article 5 of 7
+Title: Damning report exposes Ontario government’s catastrophic pandemic policy in long-term care facilities
+Publisher: WSWS
+Trusted: False
+Posted: 3 days ago
+Pre-pandemic understaffing and poor ventilation in long-term care homes contributed to high infection rates.
+The Ontario government's failure to implement measures like screening tests and masking led to unnecessary deaths (90% preventable).
+Wastewater sampling and hospitalization data show current COVID-19 infection rates are higher than pre-Omicron periods, with roughly 1 in 29 people infected.
+Recent outbreaks in Quebec long-term care homes highlight ongoing issues.
+
+Article 6 of 7
+Title: Adolescents' Acute Care Use for Eating Disorders Has Risen
+Publisher: Medscape
+Trusted: False
+Posted: 3 days ago
+The article is a study that analyzed ED visits and hospital admissions for eating disorders among adolescents in Ontario from January 2017 to August 2022. Key findings:
+ED visits increased by 121% and hospital admissions by 54% above expected levels during the pandemic (2020-2022) among adolescents.
+The observed rate of ED visits among adolescents was 7.38 per 100,000 population, compared with 3.33 per 100,000 before the pandemic.
+The rate of hospital admissions among adolescents increased by 54% above the expected rate during the pandemic.
+These findings are relevant for forecasting COVID-19 hospitalizations in Ontario, Canada, as they highlight the impact of the pandemic on mental health and potentially related COVID-19 outcomes.
+
+Article 7 of 7
 Title: Where can I get a COVID-19 rapid test? CTV News looks at the rules in each province and territory
 Publisher: CTV News
 Trusted: False
 Posted: 5 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the values most important for forecasting: COVID-19 hospitalizations across Canada have increased from nearly 1,500 to more than 2,700 since August. The proportion of patients in intensive care has remained around 3%, which is below the peaks seen in previous waves. Ontario's rapid test distribution program for retailers ended in June, but local public health units may still have tests available. There are currently more than 90 million rapid tests in the federal inventory, with approximately 700,000 set to expire by the end of the year. These values suggest an increase in COVID-19 hospitalizations, but with a relatively stable intensive care rate. The availability of rapid tests in Ontario may impact the ability to track and forecast hospitalizations.
+The number of COVID-19 hospitalizations across Canada has increased since August, with over 2,700 cases reported this past week. However, the proportion of patients in intensive care remains around 3% and below previous wave peaks. This information is crucial for forecasting COVID-19 hospitalizations in Ontario, Canada.

@@ -1,7 +1,35 @@
-Below is a news article from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
+Below are 3 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
+Article 1 of 3
+Title: Ottawa's COVID trends stable, 1 more death in region
+Publisher: CBC.ca
+Trusted: False
+Posted: 1 day ago
+COVID-19 hospitalizations in Ontario, Canada are relevant for forecasting.
+Active local COVID-19 hospital patients in Ottawa dropped to 20 (down from 30).
+One patient is in intensive care.
+Total hospital patients who tested positive for COVID across all hospitals in Ottawa remains stable.
+Other regions in eastern Ontario report 39-57 COVID-19 hospitalizations, with 5-17 patients in intensive care.
+Hospitalization counts outside of Ottawa are mostly stable or slightly decreasing.
+
+Article 2 of 3
+Title: Paxlovid Reduced Hospitalizations, Deaths During Omicron
+Publisher: Medscape
+Trusted: False
+Posted: 4 days ago
+Summary of relevant information:
+Paxlovid reduces hospitalization or death among patients with COVID-19 at high risk of severe illness (2.1% vs 3.7%).
+Most patients treated with Paxlovid were older than age 70 years.
+The number needed to treat (NNT) ranged from 28 among unvaccinated people to 181 among those under age 70 years, indicating effectiveness varies by patient population.
+The benefit of using Paxlovid may change over time due to differences in circulating variants and population immunity.
+
+Article 3 of 3
 Title: Paxlovid medication lowers risk of COVID-19 death, hospitalization: study
 Publisher: CTV News
 Trusted: False
 Posted: 5 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting values most important for forecasting: Paxlovid (nirmatrelvir–ritonavir) is an antiviral medication that has been proven to lower the risk of COVID-19-related death and hospitalization among those likely to experience severe illness. The study found that for every 62 people treated with nirmatrelvir–ritonavir, one case of severe COVID-19 was prevented. The study focused on patients older than 70 years of age and vaccinated, which is a key demographic for forecasting hospitalizations in Ontario. The study's lead author, Dr. Kevin Schwartz, emphasizes the importance of testing for SARS-CoV-2 and access to Paxlovid for those at risk for severe COVID-19. The article also mentions that Paxlovid offers no benefit to people who were at much lower risk of serious illness, which is important to consider when forecasting hospitalizations. These findings can inform forecasting models by highlighting the effectiveness of Paxlovid in reducing hospitalizations and severe illness among high-risk populations, which can help predict the number of hospitalizations in Ontario.
+Key findings:
+Paxlovid (nirmatrelvir–ritonavir) reduced the risk of COVID-19-related death and hospitalization among those likely to experience severe illness.
+The study was conducted by Ontario researchers and published in a Canadian journal.
+For every 62 people treated with nirmatrelvir–ritonavir, one case of severe COVID-19 was prevented.
+The medication is most effective for patients over 70 years old who are vaccinated or have other risk factors for severe infection.

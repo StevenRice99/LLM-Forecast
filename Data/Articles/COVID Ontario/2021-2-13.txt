@@ -1,50 +1,64 @@
-Below are 7 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
+Below are 6 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
-Article 1 of 7
+Article 1 of 6
 Title: 'Our job to step in': Hospitals take on COVID-19 patients from other overwhelmed regions
 Publisher: CTV News
 Trusted: False
 Posted: Today
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. The article highlights the province's COVID-19 Incident Management System (IMS), which transfers patients from overwhelmed hospitals to those with available space. Key values for forecasting COVID-19 hospitalizations in Ontario include: 545 non-ICU COVID-19 patients were transferred between hospitals from Nov. 16 to Feb. 9. 320 non-COVID-19 patients were transferred to build capacity for COVID-19 patients. 70 patients were transferred from one intensive care unit to another since the new year. Halton Healthcare, which operates Oakville Trafalgar Memorial Hospital, has taken in 190 COVID-19 patients from other regions, the most of any Ontario health network. The region of Peel, with a population of 1.5 million, has logged nearly 59,000 cases since the start of the pandemic. The IMS system has helped prevent hospitals from becoming completely overwhelmed, with some hospitals taking in patients from other jurisdictions to "load level" and prevent capacity from being exceeded. The article also mentions that 25% of COVID-19 patients can quickly worsen, requiring hospitals to keep a certain number of ICU beds unoccupied as a contingency measure. These values provide insight into the province's hospital capacity, patient transfer systems, and regional case numbers, which can inform forecasting models for COVID-19 hospitalizations in Ontario.
+545 non-ICU COVID-19 patients were transferred from one hospital to another across the province between Nov 16 and Feb 9.
+An additional 320 non-COVID-19 patients were transferred to build capacity for COVID-19 patients during the same period.
+Hospitalization numbers grew in 2021 as projected by health officials, with some hospitals taking in up to 30 patients from other jurisdictions in a single week.
+The province's IMS Transfer system was used to manage patient transfers and prevent hospital overcapacity.
 
-Article 2 of 7
-Title: COVID-19 data puts Ottawa in 'orange-restrict' zone when lockdown ends next week, says Ottawa's top doctor
+Article 2 of 6
+Title: Here's what's allowed to open under the new COVID-19 restrictions in Ottawa
 Publisher: CTV News Ottawa
 Trusted: False
-Posted: 2 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the key points: Ottawa's top doctor, Dr. Vera Etches, is urging caution as the stay-at-home order ends and the economy reopens, citing the risk of new, more contagious variants of COVID-19. Ottawa is expected to transition to the "Orange-Restrict" zone, which allows for in-person shopping and dining with restrictions. Dr. Etches emphasizes the importance of continued mask-wearing, physical distancing, and proper hand hygiene to keep COVID-19 transmission low. There are concerns about a potential third wave in April, triggered by new variants, which could lead to another lockdown. Vaccination efforts are underway, but Dr. Etches notes that masking and physical distancing measures will need to remain in place for months. A decrease in hospitalizations is expected to start taking hold before the summer, but caution is still needed for the next couple of months. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: The expected transition to the "Orange-Restrict" zone and its associated restrictions The presence of new, more contagious variants of COVID-19 Continued emphasis on mask-wearing, physical distancing, and proper hand hygiene Vaccination efforts and their expected impact on hospitalizations The potential for a third wave in April and its implications for hospitalizations.
+Posted: Today
+Eastern Ontario is divided into color-coded restriction zones (Green-Prevent and Orange-Restrict) with specific rules for various businesses.
+In the Orange-Restrict zone, certain businesses are closed or have capacity limits, such as:
++ Retail stores: screening for patrons required
++ Personal care services: oxygen bars, steam rooms, saunas, and sensory deprivation pods closed
++ Cinemas: capacity limit per venue of 50 people indoors and 100 outdoors
++ Meeting and event spaces: capacity limit per venue of 50 people indoors and 100 outdoors
+These restrictions are likely to impact the number of COVID-19 cases and hospitalizations in the affected areas.
 
-Article 3 of 7
+Article 3 of 6
 Title: Definitely not the flu: risk of death from COVID-19 3.5 times higher than from flu
 Publisher: EurekAlert
 Trusted: False
 Posted: 3 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Summary: The study found that COVID-19 hospitalizations in Ontario had a 3.5 times higher risk of death, 1.5 times greater use of the ICU, and 1.5 times longer hospital stays compared to influenza hospitalizations. The study included 1027 hospitalizations for COVID-19 in 972 unique patients, representing 23.5% of all hospitalizations for COVID-19 in Ontario during the study period. Most patients hospitalized with COVID-19 had few other illnesses, and 21% were younger than 50 years of age. Adults under 50 accounted for 20% of all COVID-19 hospitalizations in the first wave of the pandemic. Nearly 1 in 3 adults younger than 50 hospitalized with COVID-19 required intensive care, and nearly 1 in 10 required an unplanned readmission to hospital after discharge. Important values for forecasting COVID-19 hospitalizations in Ontario, Canada: 3.5 times higher risk of death from COVID-19 compared to influenza 1.5 times greater use of the ICU for COVID-19 hospitalizations 1.5 times longer hospital stays for COVID-19 hospitalizations 21% of COVID-19 hospitalizations were in patients younger than 50 years of age 20% of all COVID-19 hospitalizations in the first wave of the pandemic were in adults under 50 These values can inform forecasting models to account for the severity of COVID-19 hospitalizations in Ontario, particularly in younger adults, and the potential impact on ICU usage and hospital stays.
+Summary: 
+In Ontario, Canada:
+- Patients hospitalized with COVID-19 had a 3.5 times greater risk of death compared to those hospitalized with influenza.
+- Adults under 50 accounted for nearly 20% of all COVID-19 hospitalizations in the first wave of the pandemic.
+- Younger adults (under 50) who were hospitalized with COVID-19 required intensive care nearly 1/3 and unplanned readmission after discharge nearly 1/10.
 
-Article 4 of 7
-Title: Ontario records fewer than 1,500 new COVID-19 cases for third straight day
-Publisher: CTV News Toronto
+Article 4 of 6
+Title: Canada's COVID-19 isolation hotels: complaints of secrecy, poor communication
+Publisher: CTV News
 Trusted: False
-Posted: 5 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: New cases: 1,265 (down from 1,670 on Friday) 7-day average: 1,327 (down from 1,888 one week ago) Test positivity rate: 4.4% Hospitalizations: 901 (down from 1,158 one week ago) ICU patients: 335 (down from 354 one week ago) Ventilator patients: 226 (down from 260 one week ago) Active cases: 14,331 (down from 19,017 one week ago) Vaccinations: 386,171 doses administered, 106,163 total vaccinations completed These values suggest a decline in new cases, hospitalizations, and ICU patients, which could indicate a decrease in COVID-19 hospitalizations in Ontario, Canada. However, the presence of variants of concern and the need for continued vaccination efforts may impact future hospitalization trends.
+Posted: 3 days ago
+Number of travelers staying at designated hotel quarantine sites: 5,030 (nationwide)
+Quarantine measures for international travelers entering Canada: PCR test on arrival and 3-night stay at a designated hotel
+Location of these sites: Not specified (but mentioned to be near major airports)
+Note: This article does not directly provide information on COVID-19 hospitalizations in Ontario, but rather related quarantine measures.
 
-Article 5 of 7
+Article 5 of 6
 Title: Brand-new hospital in Vaughan begins accepting COVID-19 patients
 Publisher: CP24
 Trusted: False
 Posted: 6 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting values important for forecasting: The Cortellucci Vaughan Hospital has opened with a focus on accepting COVID-19 patients to ease the burden on hospitals in York Region and Toronto. The hospital has an initial capacity of 35 intensive care patients and 150 acute care beds, with plans to expand to 342 beds. COVID-19-related hospitalizations in Ontario have declined from a high of over 1,700 in mid-January to around 1,000 as of Saturday. Important values for forecasting COVID-19 hospitalizations in Ontario, Canada: Current hospitalization numbers: around 1,000 as of Saturday Capacity increase: 35 intensive care patients and 150 acute care beds, with potential expansion to 342 beds Regional focus: York Region and Toronto This information can help inform forecasting models by providing insight into the current hospitalization numbers, capacity increases, and regional focus, which can impact future hospitalization trends.
+42 patients were expected on the first day, with staff already admitting 4 by hour 1.
+The hospital has capacity for 35 ICU and 150 acute care beds.
+COVID-19-related hospitalizations declined from ~1700 (mid-January) to ~1000 (as of Saturday).
 
-Article 6 of 7
-Title: MLHU reports 34 new COVID-19 cases and no new deaths
-Publisher: CTV News London
-Trusted: False
-Posted: 6 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: 1,489 new cases of COVID-19 were reported in Ontario on Sunday, with 22 more deaths. Hospitalizations related to COVID-19 are continuing to drop in Ontario. The Middlesex-London Health Unit reported 34 new cases of COVID-19, with no new deaths, and a total of 1,822 active cases. There are active outbreaks at eight area seniors' facilities, and multiple COVID-19 outbreaks were declared in Lambton Public Health, including one workplace, one institutional workplace, and one Long-term care home. The most important values for forecasting COVID-19 hospitalizations in Ontario, Canada are: The number of new cases reported in Ontario (1,489) The number of deaths reported in Ontario (22) The trend of hospitalizations related to COVID-19 (continuing to drop) The number of active cases in Middlesex-London (1,822) The number of active outbreaks in seniors' facilities and other settings. These values can be used to inform forecasting models and predict future trends in COVID-19 hospitalizations in Ontario, Canada.
-
-Article 7 of 7
+Article 6 of 6
 Title: Brand-new hospital in Vaughan, Ont. begins accepting COVID-19 patients
 Publisher: CTV News Toronto
 Trusted: False
 Posted: 6 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Summary: A new hospital, Cortellucci Vaughan Hospital, has opened in Ontario with a narrowed opening plan to target COVID-19 patients from other hospitals. The hospital has an initial capacity of 35 intensive care patients and 150 acute care beds, with a total planned capacity of 342 beds. The hospital accepted 42 patients on its first day, with four patients wheeled in within the first hour. Hospitalizations in Ontario have declined from a high of over 1,700 in mid-January to around 1,000 as of Saturday. Important values for forecasting COVID-19 hospitalizations in Ontario, Canada: Initial capacity of 35 intensive care patients and 150 acute care beds Total planned capacity of 342 beds Decline in hospitalizations from 1,700 to 1,000 Number of patients accepted on the first day (42) and within the first hour (4) These values provide insight into the current hospital capacity and the decline in hospitalizations, which can be used to inform forecasting models.
+Key values: 
+- Total hospital beds at Cortellucci Vaughan Hospital (342)
+- Intensive care patients capacity (35)
+- Acute care beds capacity (150)

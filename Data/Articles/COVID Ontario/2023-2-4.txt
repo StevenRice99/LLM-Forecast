@@ -1,7 +1,22 @@
-Below is a news article from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
+Below are 2 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
-Title: January 28, 2023 coronavirus update for Oakville
-Publisher: Oakville News
+Article 1 of 2
+Title: COVID-19 trends remain stable or dropping in Ottawa
+Publisher: CBC.ca
 Trusted: False
-Posted: 7 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: New cases of COVID-19 have risen in Oakville, but hospitalizations have remained stable with 3 people currently hospitalized. Ontario's Chief Medical Officer of Health Dr. Kieran Moore has identified a small but consistent decline in "respiratory syncytial virus (RSV), flu and COVID activity" in the province. Free PCR tests are now available again province-wide for an expanded group of individuals who exhibit at least one symptom of COVID-19. The number of active cases in Canada continues to rise, but hospitalizations (including critical care) are decreasing. Vaccination rates in Halton Region are slow, with 28% of eligible residents up to date on their booster shots. Provincial vaccinations: 91.17% of eligible Ontarians have at least one dose, 83.52% have received at least two doses, and 52.52% have received a third dose. Ontario COVID-19 Update: 1,262 people are in hospital with COVID-19 (-118 this week), and 105 people are in ICU (-10 this week). These values suggest that while cases are rising in some areas, hospitalizations are stable or decreasing, and vaccination rates are slow. These trends can inform forecasting models to predict future hospitalization rates in Ontario, Canada.
+Posted: 1 day ago
+Key values: 
+Stable or dropping COVID-19 trends in Ottawa
+27 active local COVID-19 hospital patients (down from 30)
+Hospitalization count generally stable in January (hovering in the 80s and 90s), with a slight decline to 77 in February
+COVID-19 test positivity rate at around 11% (moderate)
+16 active COVID outbreaks in Ottawa
+Wastewater data showing a recent drop in coronavirus levels, but still considered very high.
+
+Article 2 of 2
+Title: Alcohol-related health care visits spiked during pandemic in Ontario: study
+Publisher: Ponoka News
+Trusted: False
+Posted: 1 day ago
+Relevant.
+Summary: The article suggests a spike in health-care visits related to alcohol use during the pandemic in Ontario, Canada, with a 22% jump in physician visits and a 6% increase in hospitalizations. This is likely due to increased stress and isolation caused by the pandemic, as well as changes in purchasing habits. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: alcohol-related health problems, particularly among those without pre-existing issues or with limited access to addiction treatment services.

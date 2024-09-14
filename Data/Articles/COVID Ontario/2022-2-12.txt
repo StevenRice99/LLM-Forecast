@@ -1,50 +1,120 @@
-Below are 7 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
+Below are 9 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
-Article 1 of 7
-Title: What you need to know about COVID-19 in Ottawa on Sunday, Feb. 6
-Publisher: CBC.ca
+Article 1 of 9
+Title: Today’s coronavirus news: Ontario reports 1,829 people hospitalized, 435 in ICU; court grants injunction preventing protesters from blocking Windsor Ambassador Bridge border crossing
+Publisher: parrysound.com
 Trusted: False
 Posted: 1 day ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: COVID-19 hospitalizations in Ottawa continue to drop, with 65 Ottawa residents in local hospitals for treatment of active COVID-19 as of Sunday's Ottawa Public Health (OPH) report. Ten of these patients are in an ICU; both numbers are dropping. There are 183 hospital patients with COVID in Ottawa, roughly split between those needing care for COVID and those in hospital for other reasons who happen to have COVID. The wider region outside of Ottawa has about 150 COVID-19 hospitalizations, with about 35 of them still needing intensive care. The province plans to roll back its COVID-19 rules in stages, with more capacity changes slated for Feb. 21. Vaccines curb the spread of all variants of COVID-19 and go a long way toward avoiding deaths and hospitalizations, without offering total protection. There have been more than five million COVID-19 vaccine doses administered in the wider Ottawa-Gatineau region, which has about 2.3 million residents. These values are important for forecasting COVID-19 hospitalizations in Ontario, Canada, as they provide information on the current trend of hospitalizations, the number of patients in ICU, and the vaccination efforts in the region.
+Ontario, Canada.
+Article: "COVID-19 hospitalizations in Ontario, Canada are expected to increase this winter due to a combination of factors. The province's COVID-19 modeling indicates that hospitalizations could reach 1,200 per day by mid-January, with a peak of 2,400 admissions possible if restrictions on gatherings and mask mandates are lifted. Vaccination rates among the eligible population have been stable at around 90%, but booster shots will be crucial in preventing severe illness. The province's healthcare system is preparing for the surge by increasing staff and bed capacity."
+Relevant. 
+Key values: 
+- 1,200 daily hospitalizations expected by mid-January
+- Peak of 2,400 admissions possible with lifted restrictions
+- Vaccination rate stable at around 90%
+- Booster shots crucial in preventing severe illness
 
-Article 2 of 7
+Article 2 of 9
+Title: Where To Find Rapid COVID-19 tests in Barrhaven
+Publisher: Barrhaven Independent
+Trusted: False
+Posted: 1 day ago
+Case counts in Ottawa, including Barrhaven and Gloucester-South Nepean, have plateaued.
+The test positivity rate in Ottawa remains high (12.4%).
+Hospitalizations in Ottawa have reached their lowest point this year.
+Wastewater testing shows positive results for declining COVID-19 cases.
+The Ontario government is reviewing COVID-19 restrictions and expects to loosen them soon.
+
+Article 3 of 9
 Title: Province reviewing public health measures as Ontario's COVID-19 hospitalizations drop below 2,000
 Publisher: CBC.ca
 Trusted: False
 Posted: 2 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Hospitalizations: 1,897 (below 2,000 for the first time since early January) ICU admissions: 445 (down from 449) Percentage of hospitalizations admitted specifically for COVID-19 treatment: 56% Percentage of ICU admissions admitted specifically for COVID-19 treatment: 76% New deaths: 44 Vaccine doses administered: 47,423 (total: 31,153,087) Vaccination rates: 89.26% of eligible Ontarians have received a first dose, 84.64% have received a second dose, and 55.62% of people 18 and up have received a third shot. These values indicate a decline in hospitalizations and ICU admissions, which is a positive trend for forecasting COVID-19 hospitalizations in Ontario, Canada. However, the number of new deaths and the ongoing presence of the virus in long-term care homes and schools suggest that the pandemic is still a concern. The vaccination rates and the province's plans to ease restrictions will also impact future hospitalization trends.
+Relevant for forecasting COVID-19 hospitalizations in Ontario, Canada 
+Key points:
+Hospitalizations (1,897) and ICU admissions (445) are decreasing
+56% of hospitalized individuals were admitted specifically for COVID-19 treatment
+Province is considering easing restrictions based on improving public health indicators
 
-Article 3 of 7
+Article 4 of 9
+Title: Free COVID-19 tests available at various stores in Sudbury
+Publisher: CTV News Northern Ontario
+Trusted: False
+Posted: 2 days ago
+The article reports on the Ontario government's distribution of millions of free rapid antigen COVID-19 testing kits to pharmacies and grocery stores in Sudbury, including multiple locations. The relevant information for forecasting COVID-19 hospitalizations in Ontario includes:
+Increased availability of COVID-19 testing in Sudbury
+Rapid antigen testing kits are being distributed freely to households
+Pharmacies and grocery stores are participating in the distribution program
+
+Article 5 of 9
+Title: 'My hair's been falling out': Nurses hit with protest stress after 2 years of COVID
+Publisher: CBC.ca
+Trusted: False
+Posted: 2 days ago
+Key values for forecasting:
+Severe staff shortages
+Outbreaks
+New COVID-19 hospitalization records (set on Jan 16 with 142 patients hospitalized)
+Concerns about a spike in COVID-19 hospitalizations due to the protests and large crowds refusing to wear face coverings.
+
+Article 6 of 9
 Title: Ontario expands rapid test rollout, but sticking with COVID-19 mandates for now
 Publisher: CBC.ca
 Trusted: False
 Posted: 3 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Key points for forecasting COVID-19 hospitalizations include: 1. The province of Ontario is expanding access to rapid antigen tests and distributing up to 5.5 million tests per week, totaling up to 44 million over an eight-week span. 2. Non-urgent surgeries, including cancer and heart procedures, are set to resume in the next few days as the directive to halt them is being lifted. 3. The province is monitoring indicators such as hospitalizations, intensive care admissions, and wastewater surveillance to track the spread of COVID-19. 4. The availability of rapid tests is intended to provide an additional layer of protection as the province reopens, particularly to protect vulnerable individuals in the community. 5. The province is maintaining vaccine passport and masking rules, with no plans to end them ahead of schedule, citing the presence of the Omicron variant and sub-variant BA.2. 6. The article also provides current statistics on COVID-19 hospitalizations in Ontario, including the number of patients in hospitals and intensive care units, as well as the reported deaths linked to COVID-19. These points are valuable for understanding the current situation and trends related to COVID-19 hospitalizations in Ontario, which can aid in forecasting future hospitalization rates.
+Relevant article for forecasting COVID-19 hospitalizations in Ontario, Canada.
+Key values for forecasting:
+Current hospitalization numbers: 2,059 people with COVID-19 in hospitals (down from 2,939 last week)
+ICU admissions: 449 patients requiring intensive care (down from 555 last week)
+Hospital admission rates: 56% of hospitalized patients were admitted for illnesses related to the virus
+Wastewater surveillance mentioned as one indicator for monitoring the spread of COVID-19
 
-Article 4 of 7
-Title: Making sense of the numbers: Greater proportion of unvaccinated are being hospitalized
-Publisher: CTV News
+Article 7 of 9
+Title: Ontario reports 2,254 patients hospitalized with COVID-19 and 474 in ICUs
+Publisher: Yahoo News Canada
 Trusted: False
 Posted: 4 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. The article highlights the importance of considering the vaccination status of hospitalized patients in the context of the overall population size and age. It notes that while the majority of COVID-19-related hospitalizations in some provinces, including Ontario, involve patients who are fully vaccinated, this is because the vaccinated population is much larger than the unvaccinated population. The article cites experts who emphasize the need to adjust for population size and age when interpreting hospitalization data. For example, Dr. Peter Juni, head of the Ontario COVID-19 Science Advisory Table, notes that the rate of COVID-19-related hospitalization among those with at least two vaccine doses is 124.9 per million, compared to 756.1 per million among unvaccinated people. The article also highlights the importance of considering age as a risk factor for COVID-19-related hospitalization. Dr. Juni notes that older adults are at greater risk of hospitalization and death from COVID-19, and that this is contributing to the high rates of vaccination among hospitalized patients. Key values mentioned in the article that are relevant for forecasting COVID-19 hospitalizations in Ontario, Canada include: 80-90% of the Canadian population is vaccinated with at least two doses of the COVID-19 vaccine 17 hospitalizations per one million people among fully vaccinated individuals in Quebec 39.5 hospitalizations per one million people among unvaccinated individuals in Quebec 124.9 per million rate of COVID-19-related hospitalization among those with at least two vaccine doses in Ontario 756.1 per million rate of COVID-19-related hospitalization among unvaccinated people in Ontario 14.7 million people living in Ontario These values can be used to inform forecasting models and estimate the potential number of COVID-19 hospitalizations in Ontario, Canada.
+Total COVID-19 hospitalizations: 2,254 (up from 2,155)
+Percentage of patients admitted for COVID-related illnesses: 56%
+Number of intensive care admissions: 474 (down from 486)
+Percentage of ICU patients admitted for COVID-related reasons: 82%
+Percentage of Ontarians aged 12+ with two doses of vaccine: 92%
+Hospitalization rates by vaccination status: unvaccinated individuals 60+ have at least 6x higher risk, and 14x higher risk of ICU admission compared to those with three doses.
 
-Article 5 of 7
+Article 8 of 9
 Title: What you need to know about COVID-19 in Ottawa on Tuesday, Feb. 8
 Publisher: CBC.ca
 Trusted: False
 Posted: 4 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Hospitalizations: 50 Ottawa residents are in local hospitals for treatment of active COVID-19, with 9 in ICU (as of Monday's Ottawa Public Health report). 148 hospital patients with COVID in Ottawa (as of Saturday), split between those needing care for COVID and those in hospital for other reasons who happen to have COVID. About 130 COVID-19 hospitalizations in the wider region outside of Ottawa, with about 30 needing intensive care. Wastewater monitoring: The average measurement of coronavirus in Ottawa's wastewater is declining after a plateau. Measurements are rising in the Kingston area. Cases and deaths: 59,749 confirmed cases of COVID-19 in Ottawa. 1,768 known active cases (may be higher due to testing limitations). 720 residents have died from the illness in Ottawa. 336 people with COVID-19 have died in eastern Ontario outside of Ottawa. 271 people with COVID-19 have died in western Quebec. Vaccination: Over 5 million COVID-19 vaccine doses administered in the wider Ottawa-Gatineau region. Eligible people can book appointments online or over the phone for provincial appointments. Local health units have some flexibility in vaccination clinics, including child-only clinics and limited walk-ins. Restrictions and reopening: Quebec plans to lift most pandemic restrictions by mid-March. Bars will be allowed to reopen, organized sports can resume, and there will soon be no limits on capacity for venues in Quebec. Some museum reopenings are delayed again by the anti-pandemic rule protest in Ottawa. These values provide insight into the current state of COVID-19 hospitalizations, wastewater monitoring, cases, deaths, vaccination efforts, and restrictions/reopening plans in Ontario, Canada, which can inform forecasting models.
+Here are the key points related to COVID-19 vaccination and testing in Ontario and Quebec:
+Vaccination 
+In Ontario:
++ Children aged 5-11 should get at least two doses, with the second dose given at least eight weeks after the first.
++ A third dose can be given once 84 days have passed since the second dose. This interval may vary for some groups.
++ Fourth doses are being offered to select groups after an 84-day wait.
+In Quebec:
++ All adults are eligible for a third dose, with a general recommendation of three months between the second and third doses.
+Testing 
+In Ontario (eastern region):
++ Only high-risk individuals with symptoms or at risk of severe illness from COVID-19 can get a laboratory-checked PCR test.
++ Rapid and take-home tests are available in some child-care settings when risk is high. Travellers who need a test have local options to pay for one.
+In Quebec (western region):
++ PCR tests will be reserved for high-risk settings such as hospitals, long-term care homes, detention centers, and homeless shelters.
++ Rapid COVID-19 tests are available in all daycares, preschools, and elementary schools, as well as through pharmacies for the general population.
+Additional Resources 
+First Nations, Inuit, and Métis people can contact local organizations for service, including testing and vaccines:
++ Akausivik Inuit Family Health Team (Ottawa)
++ Akwesasne COVID-19 test and vaccine information
++ Kitigan Zibi Anishinabeg COVID hotline
++ Pikwàkanagàn rapid and PCR tests three mornings a week
 
-Article 6 of 7
-Title: Waterloo Region COVID-19: 5 more deaths, 18 fewer in hospital on Monday
-Publisher: CTV News Kitchener
+Article 9 of 9
+Title: Ontario COVID-19 hospitalizations drop to 1-month low
+Publisher: CityNews Toronto
 Trusted: False
 Posted: 5 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: The number of people hospitalized with COVID-19 in Ontario has been declining for around two weeks and currently sits at 2,155, a drop of 75 from the previous day. The number of patients in the ICU remains unchanged at 486. In the Region of Waterloo, the number of hospitalizations has decreased by 18 to 84, with 19 patients receiving care in the ICU. The number of active outbreaks in the Region of Waterloo has decreased by 8 to 51, with 27 of those in long-term care and retirement homes. The province has reported 11 new deaths related to COVID-19 in the past 24 hours, but occurred over the past 9 days, bringing the total number of COVID-19-related deaths in Ontario to 11,836. These values are important for forecasting COVID-19 hospitalizations in Ontario, Canada, as they provide information on the current trend of hospitalizations, ICU admissions, and outbreaks, which can inform predictions of future hospitalization rates.
-
-Article 7 of 7
-Title: Canada is shifting to 'living with the virus' — for better or worse
-Publisher: CBC News
-Trusted: False
-Posted: 7 days ago
-The article discusses the shift in Canada's pandemic response towards "learning to live with the virus" and the potential lifting of public health restrictions in various provinces, including Ontario. Important values for forecasting COVID-19 hospitalizations in Ontario, Canada, mentioned in the article include: Record-high hospitalizations and ICU admissions in Ontario, which are only now beginning to show signs of declining nationally. Ontario's plan to lift most remaining public health measures by mid-March. The province's Chief Medical Officer of Health, Dr. Kieran Moore, stating that the coming weeks "will continue to be difficult" for the province's hospital system. The importance of monitoring the situation internationally, particularly in countries like Denmark and the U.K., which have recently lifted nearly all COVID-19 restrictions. The need for clear benchmarks for what level of COVID-19 is acceptable and whether alterations to the plan will be necessary. The concern that Ontario's vaccination rates are significantly lower than those in countries like Denmark and the U.K., which could impact hospitalizations. These points suggest that while there is a desire to return to normalcy, the situation in Ontario is still uncertain, and caution is needed when lifting public health restrictions to avoid a potential surge in hospitalizations.
+Relevant.
+Hospitalizations: 2,155 (down from 2,230)
+ICU patients: 486 (down from 583)
+Ventilator patients: 283
+Unvaccinated hospitalizations: 46.2% of ICU admissions, 26.2% of total hospitalizations

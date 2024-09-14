@@ -1,29 +1,81 @@
-Below are 4 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
+Below are 7 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
-Article 1 of 4
+Article 1 of 7
 Title: COVID-19 hasn't gone anywhere in Canada — and we could still see another surge
 Publisher: CBC.ca
 Trusted: False
 Posted: Today
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: COVID-19 hospitalizations in Canada remain high, with over 4,000 Canadians currently hospitalized, which is the highest since April 2021. The Omicron variant, including the BA.2 subvariant, is still circulating widely and is expected to become the dominant strain in Canada in the coming weeks. Wastewater data in Ontario and other provinces is showing a slight uptick in concentrations of SARS-CoV-2, indicating a potential increase in cases. Experts are concerned about waning immunity, with studies showing protection from infection can decline within months even after a booster. Booster shots are still remarkably protective against severe illness, but less than half of Canadians have received one. Communities with lower vaccination rates, lower-income residents, and crowded housing or multi-generational homes are more at risk of household transmission and dire outcomes. These values are important for forecasting COVID-19 hospitalizations in Ontario, Canada, as they indicate a potential increase in cases and hospitalizations, particularly in vulnerable communities.
+The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. 
+Key values: 
+Current hospitalization rates (approximately 4,000 Canadians are currently hospitalized with COVID-19)
+Projected hospital occupancy based on wastewater surveillance data (expected to rise, though not to the same levels as earlier waves)
+Presence of BA.2 subvariant (accounts for 22% of cases in Canada and expected to become dominant strain in coming weeks)
+Estimated daily number of infections (15,000 to 20,000) based on wastewater data
+Risk factors: low vaccination rates, crowded housing or multi-generational homes, and lower-income residents
 
-Article 2 of 4
-Title: Ontario science table head Peter Juni resigns to take position oveseas
-Publisher: CityNews Toronto
+Article 2 of 7
+Title: Ontario reports 615 COVID-19 hospitalizations with 193 patients in ICU
+Publisher: CBC.ca
 Trusted: False
 Posted: 1 day ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the key points: Dr. Peter Juni, the head of Ontario's science advisory table, is resigning and has accepted a position at Oxford University. Juni warns that even as mask mandates are lifted, it would be a mistake to think the worst is behind us and that the province needs to plan for another mass vaccine rollout in November to boost immunity and get through the winter months. He estimates that 250,000 doses per day over a 4-5 week period will be needed. The science table predicts a bump in hospitalizations and ICU occupancy as public health measures are lifted, due to the spread of subvariant BA.2 and individual vaccination status. Juni suggests that masks may need to be used again in certain situations and that vaccine certificates may be needed. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Estimated vaccine doses needed per day (250,000) Duration of vaccine rollout (4-5 weeks) Predicted bump in hospitalizations and ICU occupancy Spread of subvariant BA.2 Individual vaccination status
+Here's a brief summary highlighting values most important for forecasting:
+Hospital admissions: 615 (with 193 patients in ICU)
+Daily change in hospitalizations: dip from 644 the day before and 717 exactly one week ago
+Percentage of hospitalizations due to COVID-19 symptoms: 44%
+Number of ICU patients: down from 199 reported Thursday and 238 at this time last week
 
-Article 3 of 4
+Article 3 of 7
+Title: City of Ottawa scrapping mandatory COVID-19 vaccination policy
+Publisher: CTV News Ottawa
+Trusted: False
+Posted: 1 day ago
+Relevant.
+COVID-19 hospitalizations in Ontario are not directly related to this article, but the city of Ottawa is easing COVID-19 restrictions, aligning with provincial timelines.
+Almost 98% of active city employees were vaccinated under a previous mandatory policy.
+Unvaccinated staff working in non-high-risk settings will return to work on April 4.
+High-risk setting workers (e.g., paramedics) still require vaccination.
+
+Article 4 of 7
 Title: Hospitalization of Infants and Children Aged 0–4 Years with Laboratory-Confirmed COVID-19 — COVID-NET, 14 States, March 2020–February 2022
 Publisher: CDC
 Trusted: True
 Posted: 1 day ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Summary: The article reports on the increased hospitalization rates among infants and children aged 0-4 years in the United States during the Omicron variant predominance (December 19, 2021-February 19, 2022). Key findings include: Hospitalization rates among infants and children aged 0-4 years peaked at 14.5 per 100,000 during the Omicron predominance, approximately five times the peak during the Delta variant predominance. Infants aged <6 months had the highest rates of hospitalization, but indicators of severity (e.g., respiratory support) did not differ by age group. 63% of hospitalized infants and children had no underlying medical conditions. Strategies to prevent COVID-19 among infants and young children are important, including vaccination among currently eligible populations. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Age-specific hospitalization rates (e.g., infants aged <6 months, 6-23 months, and 2-4 years) Proportion of hospitalized infants and children with underlying medical conditions Indicators of severity (e.g., respiratory support, ICU admission) Vaccination rates among eligible populations (e.g., pregnant women, family members, and caregivers of infants and young children) Note: While the article focuses on data from the United States, the findings can inform forecasting efforts in Ontario, Canada, particularly in terms of age-specific hospitalization rates and the importance of vaccination among eligible populations.
+This is a scientific article discussing the outcomes of COVID-19 hospitalizations in infants and young children during the Delta and Omicron variants of SARS-CoV-2.
+Here are some key findings from the study:
+1. Hospitalization rates: The peak weekly hospitalization rate among infants and children aged 0-4 years was approximately five times higher during the Omicron predominance (14.5 per 100,000) compared to Delta predominance (2.9 per 100,000).
+2. Age-specific hospitalization rates: Infants under 6 months had a peak hospitalization rate that was about six times higher during Omicron than Delta predominance.
+3. ICU admission rates: Monthly ICU admission rates were approximately three and a half times higher during the Omicron predominance peak (10.6 per 100,000) compared to the Delta predominance peak (3.0 per 100,000).
+4. Underlying medical conditions: During Omicron predominance, 37% of hospitalized infants and children had one or more underlying medical condition.
+5. RSV codetections: The proportion of infants and children with RSV codetections was significantly higher during Delta predominance (20%) compared to Omicron predominance (7%).
+6. Hospital length of stay and ICU admission: Hospital length of stay was shorter, and the proportion requiring ICU admission was lower during Omicron predominance compared to Delta predominance.
+7. Infants under 6 months: This age group accounted for a higher proportion of hospitalized infants and children, with 58% being under 2 months old.
+Some additional details that might be relevant:
+The study analyzed data from the COVID-19–Associated Hospitalization Surveillance Network (COVID-NET) during March 1, 2020-February 19, 2022.
+The authors used SAS software to analyze the data and performed statistical tests using Wilcoxon rank-sum tests and chi-square tests.
+A total of 2,562 infants and children with complete clinical data were included in the analysis, representing 97% of all hospitalized patients during the study period.
 
-Article 4 of 4
+Article 5 of 7
+Title: SARS-CoV-2 infection and COVID-19 vaccination in pregnancy
+Publisher: Nature.com
+Trusted: False
+Posted: 1 day ago
+Increased risk of needing intensive care (OR 2.13), invasive ventilation (OR 2.59) and extracorporeal membrane oxygenation (OR 2.02) for pregnant patients with COVID-19 compared to non-pregnant patients.
+Inflationary changes in the decidua and placenta associated with increased risk of pre-eclampsia (OR 1.6).
+Vertical transmission of SARS-CoV-2 to infants occurs at a rate of up to 7.7% as detected by Spike-specific IgM in cord blood.
+
+Article 6 of 7
+Title: Canada Eases Covid Test Rule For Vaccinated Travelers
+Publisher: The New York Times
+Trusted: False
+Posted: 2 days ago
+"FALSE"
+There is no mention of COVID-19 cases or hospitalization rates in Ontario, Canada, which makes this article irrelevant for forecasting COVID-19 hospitalizations in that region.
+
+Article 7 of 7
 Title: Parents with kids under age 5 feel 'left behind' with ending of mask mandates
 Publisher: CBC.ca
 Trusted: False
 Posted: 6 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Summary: The article discusses the Ontario government's plan to lift mask mandates in most settings, including schools and daycares, on March 21. Many parents of children under five, who are too young to be vaccinated, are concerned about the removal of this public health measure. The article highlights the frustration and worry of these parents, who feel that the government's decision puts their children at risk of contracting COVID-19. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: The article mentions "improving health indicators, such as a stable test positivity rate and declining hospitalizations" as a reason for the government's decision to lift mask mandates. This suggests that hospitalization rates have been declining, which is a relevant data point for forecasting COVID-19 hospitalizations. The article also mentions that children under five are too young to be vaccinated, which is a relevant demographic for forecasting COVID-19 hospitalizations. The article highlights the concerns of parents of children under five, which could indicate a potential increase in hospitalizations among this age group if mask mandates are lifted. Overall, the article provides insight into the concerns of parents of children under five and the potential impact of lifting mask mandates on COVID-19 hospitalizations in Ontario, Canada.
+Removing mask mandates on March 21 could lead to increased cases among children under five (too young to be vaccinated) and their caregivers.
+This population may not adhere to mitigation measures as strictly, potentially leading to more cases and hospitalizations.
+The province's decision is based on improving health indicators such as a stable test positivity rate and declining hospitalizations.

@@ -1,50 +1,71 @@
-Below are 7 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
+Below are 6 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
-Article 1 of 7
-Title: Mobility, test positivity prompts ‘cautious optimism’ on Ontario COVID situation: Juni
+Article 1 of 6
+Title: Ontario reports 43 more COVID-19 deaths, almost 4,000 hospitalizations
 Publisher: CityNews Toronto
 Trusted: False
-Posted: 1 day ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Dr. Peter Juni, scientific director of Ontario's expert pandemic advisory group, suggests that COVID-19 hospitalizations could peak in the next few weeks based on indicators such as: + Decreased mobility outside of homes, which is strongly correlated with the number of contacts. + Decreasing test positivity rates. Hospital occupancy needs to be monitored over the next week to confirm if the disease curve is flattening. Federal modelling predicts daily hospitalizations will surge in the coming weeks, with the current wave of COVID-19 driven by the Omicron variant expected to peak this month at between 170,000 and 300,000 actual daily cases. Ontario's top doctor, Dr. Kieran Moore, expects a difficult January followed by a "better February and March" as the current Omicron wave reaches a peak within the next few weeks. These values suggest that while there are encouraging signs, caution is still needed, and hospitalizations may peak in the next few weeks. The exact timing and magnitude of the peak are uncertain and will depend on various factors, including the effectiveness of public health measures and the behavior of the Omicron variant.
+Posted: Today
+Key values:
+Total hospitalized with COVID-19: 3,957
+ICU patients due to COVID-19: 588 (with 319 on ventilator)
+Seven-day rolling average of ICU patients: 475
+Hospital admission rate due to COVID-19: 52%
+Percentage of ICU patients due to COVID-19: 78%
 
-Article 2 of 7
+Article 2 of 6
+Title: Ontario COVID-19 update: January 15
+Publisher: durhamradionews.com
+Trusted: False
+Posted: Today
+Key values for forecasting:
+Current hospitalization count: 3,957
+Current ICU count: 558
+Ventilator usage: 319 patients on ventilators due to COVID-19
+Positivity rate: 24.8% (suggesting high transmission rates)
+Vaccination status of hospitalizations:
++ Unvaccinated: 739 in non-ICU, 195 in ICU
++ Partially vaccinated: 195 in non-ICU, 17 in ICU
++ Fully vaccinated: 2,050 in non-ICU, 196 in ICU
+
+Article 3 of 6
+Title: Ontario reports 3,957 hospitalizations of people with COVID-19, 558 in ICUs
+Publisher: CBC.ca
+Trusted: False
+Posted: Today
+3,957 new COVID-19 hospitalizations reported on Saturday.
+53% of hospitalized individuals were admitted due to COVID-19.
+558 people in ICUs as a result of COVID-19.
+Hospitalization numbers are likely more reliable than case counts for forecasting.
+
+Article 4 of 6
 Title: Ontario reports 3,220 patients in hospital with COVID-19, 477 ICU admissions
 Publisher: CTV News Toronto
 Trusted: False
 Posted: 4 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: The number of people in hospital with COVID-19 increased from 2,497 to 3,220, and ICU admissions rose from 438 to 477. 54% of hospitalizations are due to COVID-19, while 46% were admitted for other reasons but tested positive for the virus. 83% of ICU patients are there primarily due to COVID-19, while 17% are there for other reasons but also have the virus. Approximately 600 ICU beds remain available across Ontario, with nearly 500 additional beds that can be added if required. The median stay in intensive care for a COVID-19 patient is currently 7 days, compared to 20 days during the peak of the Delta wave. Fully vaccinated individuals are 77.4% less likely to end up in hospital and 90.5% less likely to end up in ICU compared to unvaccinated individuals. The province reported 7,951 new cases of COVID-19, with a positivity rate of 24.4%. The total number of lab-confirmed cases in Ontario is now 896,248, with 747,289 recovered patients. These values provide insight into the current state of COVID-19 hospitalizations in Ontario, including the number of hospitalizations, ICU admissions, and vaccination effectiveness. They can be used to inform forecasting models and predict future trends in hospitalizations.
+Here is a brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Number of people hospitalized due to COVID-19: 2,497 (Monday), 3,220 (Tuesday)
+ICU admissions due to COVID-19: 438 (Monday), 477 (Tuesday)
+Percentage of hospitalizations primarily due to COVID-19: 54%
+Percentage of ICU admissions primarily due to COVID-19: 83%
+Availability of ICU beds: approximately 600 available, with 500 additional beds that can be added if required
 
-Article 3 of 7
-Title: Hospitalizations top 100 in Waterloo region, medical officer urges people to get vaccinated
-Publisher: CBC.ca
-Trusted: False
-Posted: 4 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. The article provides valuable information for forecasting COVID-19 hospitalizations in Ontario, including: 1. Current hospitalization numbers: 107 people with COVID-19 are in Waterloo region's three hospitals, with 14 in the ICU. 2. Hospital capacity: Hospitals in Waterloo region and Guelph are near or past capacity. 3. Age and vaccination status of hospitalized patients: A quarter of patients in hospital care are under 60, and many are unvaccinated. 4. Staffing shortages: Over 500 staff across the hospitals have been impacted by COVID and cannot work. 5. Vaccination rates: 76.74% of all residents in the community have two vaccine doses. 6. Outbreaks: 60 outbreaks are reported, with 31 in long-term care and retirement homes. 7. Death toll: One new death was reported, bringing the total number of COVID-19-related deaths in the region to 320. This information can be used to inform forecasting models and predict future hospitalization trends in Ontario, Canada.
-
-Article 4 of 7
-Title: COVID-19 cases fill hospital beds in parts of Quebec, Ontario and New Brunswick
-Publisher: CP24
-Trusted: False
-Posted: 6 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Ontario reported 2,419 patients hospitalized due to COVID-19 on Sunday, down from Saturday's count of nearly 2,600. ICU admissions in Ontario surged past the 400 mark. Quebec hospital admissions reached an all-time high of 2,436 on Sunday, with a 140-patient increase. Dr. Bob Bell, former CEO of the University Health Network, noted that Canada has a lower tolerance for measures like death than places like the United States, which may lead to lockdowns and restrictions sooner. The article mentions that hospitals in several parts of Canada, including Ontario, are straining under the weight of the Omicron variant, with staffing shortages and delayed surgeries and medical appointments. The Canadian Medical Association reported a 68-94% decrease in in-person visits for chronic disease care visits in April 2020 compared to April 2019, and cancer screening remained 20-35% below pre-pandemic levels as of January 2021. Dr. Mike Haddad, Chief of Staff at Bluewater Health in Sarnia, Ont., mentioned that his hospital is currently seeing higher levels of COVID-19 admissions than at the peak of the first wave in April 2020. These values suggest that COVID-19 hospitalizations in Ontario, Canada are likely to continue to be high due to the spread of the Omicron variant, and that the healthcare system is facing significant strain. The article also highlights the importance of vaccination in reducing hospitalizations, with unvaccinated individuals being up to 7.4 times more likely to be hospitalized due to COVID-19.
-
-Article 5 of 7
-Title: Ontario exceeds 400 COVID patients in ICU, just under 2,500 hospitalized
-Publisher: CityNews Toronto
-Trusted: False
-Posted: 6 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: The number of COVID-19 patients in intensive care in Ontario has increased to 412, up 80% from one week ago. The seven-day rolling average of COVID-19 related patients in the ICU is 322. Hospitalizations in the province are now at 2,419. The positivity rate is 27.7%. There are currently 123 unvaccinated patients in the ICU, and 137 are fully vaccinated. 457 unvaccinated people are hospitalized with the virus, and 1,353 are fully vaccinated against COVID-19. These values suggest a significant increase in COVID-19 hospitalizations and ICU admissions in Ontario, which is likely driven by the Omicron variant. The high positivity rate and increasing hospitalizations suggest that the province's healthcare system is under strain, which may lead to further increases in hospitalizations and ICU admissions in the coming days.
-
-Article 6 of 7
-Title: Record high number of Ontarians in hospital with COVID-19 as Omicron wave continues
-Publisher: CBC.ca
-Trusted: False
-Posted: 7 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary, highlighting values most important for forecasting: The number of COVID-19 hospitalizations in Ontario has reached a pandemic high of 2,472, surpassing the previous high of 2,360 in April 2021. The number of patients in ICUs has increased to 338, up from 205 last Friday. The province has reported a 116% jump in hospitalizations over the past week. The positivity rate has remained above 25% for 10 consecutive days, with a current rate of 26.6%. The Ontario COVID-19 Science Advisory Table estimates that only one in five cases are being confirmed by the province's testing regime. Hospitalizations are expected to worsen in the coming weeks due to staff shortages and increasing admissions. As of December 31, Ontario Health reported an overall acute bed capacity of 20,000, with 18,000 occupied, including 2,000 in intensive care. These values suggest a rapid increase in COVID-19 hospitalizations in Ontario, with a high positivity rate and a strained healthcare system. This information can be used to inform forecasting models and predict future hospitalization trends.
-
-Article 7 of 7
+Article 5 of 6
 Title: COVID-19 hospitalizations look different in the Omicron wave, and vaccination status is playing a part
 Publisher: The Globe and Mail
 Trusted: False
 Posted: 7 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Summary: The article reports on the surge in COVID-19 hospitalizations in Ontario, with a record 2,472 people hospitalized as of January 6. The Omicron variant is leading to a wider spectrum of disease, with patients ranging from unvaccinated individuals to those with compromised immune systems or chronic health conditions. Despite the variant being less severe, its high contagiousness poses a major threat, with a smaller percentage of a larger number of infected individuals still resulting in a significant number of hospitalizations. The article highlights the importance of vaccination, with data showing that unvaccinated individuals are 15 times more likely to be hospitalized and 11 times more likely to be in the ICU compared to fully vaccinated individuals. The average length of stay for COVID-19 ICU patients has decreased from 13 days to 6 days, which is a positive trend. The hospital system is under stress due to staff shortages, with many health workers isolating or taking sick leaves due to COVID-19, and others experiencing pandemic fatigue and burnout. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: 2,472: The record number of people hospitalized with COVID-19 in Ontario as of January 6. 15: The multiplier by which unvaccinated individuals are more likely to be hospitalized compared to fully vaccinated individuals. 11: The multiplier by which unvaccinated individuals are more likely to be in the ICU compared to fully vaccinated individuals. 6: The average length of stay for COVID-19 ICU patients, down from 13 days. 70%: The percentage of patients in the ICU at Bluewater Health who are unvaccinated. 90%: The percentage of COVID-19 patients in the ICU at Bluewater Health who are unvaccinated. 20-30%: The proportion of patients in the ICU at Juravinski Hospital who have classic COVID-19 pneumonia.
+The article discusses the impact of unvaccinated Ontarians on ICUs during the Omicron wave of COVID-19. The data shows that despite the numbers appearing to narrow, when adjusted for population size and age, unvaccinated individuals are occupying ICUs at a rate almost 15 times higher than those who are fully vaccinated.
+The article also highlights that while the less severe nature of Omicron appears to be leading to fewer cases of severe COVID-19-related pneumonia, hospitalizations are still high due to factors such as frailty in elderly patients and flare-ups in chronic illnesses. The stress on the hospital system is being exacerbated by health workers isolating or taking sick leaves due to COVID-19, while many others are off the job due to pandemic fatigue and burnout.
+Key points from the article include:
+Unvaccinated individuals are occupying ICUs at a rate almost 15 times higher than those who are fully vaccinated.
+The less severe nature of Omicron appears to be leading to fewer cases of severe COVID-19-related pneumonia.
+Hospitalizations are still high due to factors such as frailty in elderly patients and flare-ups in chronic illnesses.
+Health workers are being impacted by COVID-19, with 20,000 absent due to illness and 50,000 on longer-term leave due to pandemic burnout.
+Overall, the article emphasizes the continued importance of vaccination and public health measures during the Omicron wave.
+
+Article 6 of 6
+Title: Omicron pummels Ontario as hospitalizations reach 2,594 — yet another record high
+Publisher: CBC.ca
+Trusted: False
+Posted: 7 days ago
+The current number of hospitalizations is still on an upward trend, reaching a new pandemic high of 2,594 patients. The intensive care units are treating a total of 385 patients, with 219 needing a ventilator to breathe.

@@ -1,15 +1,92 @@
-Below are 2 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
+Below are 7 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
-Article 1 of 2
-Title: Jason Kenney, Scott Moe face similar COVID-19 crises but different political pressure
-Publisher: CBC News
+Article 1 of 7
+Title: Some restaurants closing dining rooms in wake of vaccine passport
+Publisher: CTV News Northern Ontario
 Trusted: False
-Posted: Today
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. The article highlights the following values that are important for forecasting COVID-19 hospitalizations in Ontario, Canada: 1. Vaccination rates: The article mentions that Saskatchewan has the lowest vaccination rate in the country, with 72% of the population vaccinated. This is a key factor in forecasting hospitalizations, as lower vaccination rates can lead to higher hospitalization rates. 2. Case rates: The article mentions that Saskatchewan is averaging 279 new cases per 100,000 people over the past seven days, while Alberta is averaging 253 cases per 100,000 people. Ontario is averaging 32 cases per 100,000 people. These case rates can help forecast hospitalization rates. 3. Hospitalization rates: The article mentions that Saskatchewan has a record 276 people in hospital and 61 in intensive care units, while Alberta has a record 243 COVID-19 patients in ICU. These hospitalization rates can help forecast future hospitalization rates. 4. Public health measures: The article mentions that Saskatchewan and Alberta have implemented different public health measures, such as mandatory masking and proof-of-vaccination policies. These measures can impact hospitalization rates and are important to consider when forecasting. Overall, the article provides valuable information on the current state of COVID-19 in Saskatchewan and Alberta, which can be used to inform forecasting models for Ontario, Canada.
+Posted: 1 day ago
+The vaccine passport has been implemented in Ontario for 2 days.
+Some restaurants have closed their dining rooms and switched to take-out only due to staffing issues.
+Staffing levels are a challenge for restaurants across the city of Sudbury.
+There is no mention of actual COVID-19 hospitalization rates or numbers, but this article could be used as context for understanding how businesses are responding to public health measures.
 
-Article 2 of 2
+Article 2 of 7
+Title: N.B. COVID-19 roundup: State of emergency reinstated as 3 more deaths recorded
+Publisher: CBC.ca
+Trusted: False
+Posted: 1 day ago
+It appears that you've provided a list of possible COVID-19 exposures in different regions of New Brunswick, Canada. Here are the details:
+Campbellton region, Zone 5: 
+One specific location is listed: (68 Water St., Campbellton)
++ Exposure dates and times: Sept. 7 between 1 p.m. and 3:30 p.m.
+Bathurst region, Zone 6: 
+Multiple locations are listed:
++ House of Lee (315 Main St., Bathurst): Sept. 18 between 5:45 p.m. and 6:15 p.m.
++ Alcool NB Liquor (1125 St. Peter Ave., Bathurst): Sept. 18 between 3:30 p.m. and 5 p.m.
++ Sobeys (1125 St. Peter Ave., Bathurst): Sept. 18 between 3:30 p.m. and 5 p.m.
++ Joey's Pub (2050 St. Peter Ave., Bathurst): Sept. 17 between 6 p.m. and 18 p.m.
++ Atlantic Host (1450 Vanier Blvd., Bathurst): Sept. 17 between 10:30 a.m. and noon
++ Dollarama (930 St. Anne St., Bathurst): Sept. 16 between 8:30 p.m. and 9 p.m.
++ Dollarama (520 St. Peter Ave., Bathurst): Sept. 16 between 8:30 p.m. and 9 p.m.
++ Canadian Tire (520 St. Peter Ave., Bathurst): Sept. 16 between 7:45 p.m. and 8:15 p.m.
++ Kent Building Supplies (950 St. Anne St., Bathurst): Sept. 16 between 7:15 p.m. and 7:45 p.m.
++ CCNB-Bathurst Campus (75 Youghall Dr., Bathurst): Sept. 14 between 10 a.m. and 4 p.m. or Sept. 13 between 8 a.m. and 3 p.m.
++ Canadian Tire (520 St. Peter Ave., Bathurst): Sept. 12 and 13 between 8 a.m. and 5 p.m.
++ Cast & Crew (588 St. Anne St., Bathurst): Sept. 12 between 6:30 p.m. and 8:30 p.m.
++ Pur & Simple (930 St. Anne St., Bathurst): Sept. 10 between 11 a.m. and 1 p.m.
++ CCNB – Bathurst Campus, Main Building (725 Collège Rd., Bathurst): Sept. 8 between 8 a.m. and noon
+Miramichi region, Zone 7: 
+Multiple locations are listed:
++ Fundy Line Restaurant (869 King George Highway, Miramichi): Sept. 11 between noon and 1 p.m.
++ River Signs (2311 King George Highway, Miramichi): Sept. 10 between 11 a.m. and 3 p.m. or Sept. 8 and 9 between 9 a.m. and 3 p.m.
++ Jungle Jim's Restaurant (2441 King George Highway, Miramichi): Sept. 9 between 7:30 p.m. and 8:30 p.m.
++ Cali.Co. Café (1 Allan St., Miramichi): Sept. 8 between 3:30 p.m. and 5 p.m.
+If you or someone you know has been to any of these locations during the specified dates and times, it's recommended to take a self-assessment test online and follow instructions if symptoms are present.
+Let me know if you have any further questions!
+
+Article 3 of 7
+Title: Alberta COVID party sends several people to hospital with virus
+Publisher: CityNews Toronto
+Trusted: False
+Posted: 2 days ago
+This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada.
+The article highlights the risks of "COVID parties" where people intentionally contract COVID-19 without getting vaccinated.
+This behavior increases the risk of serious illness or death from COVID-19.
+The article notes that unvaccinated individuals are disproportionately contributing to rising COVID-19 cases and hospitalizations in Alberta, Canada.
+
+Article 4 of 7
+Title: Adult COVID-19 patients being treated in Sask. children's hospital, health authority says
+Publisher: CBC.ca
+Trusted: False
+Posted: 2 days ago
+Saskatchewan, a neighboring province, has reached record-breaking daily COVID-19 hospitalizations (262) and ICU admissions (54). 
+Capacity challenges are being addressed by using pediatric ICUs to treat adults.
+A 96% increase in ICU beds is planned due to projected COVID-19 cases (125 ICU patients).
+Considering lockdowns as a strategy to reduce daily case rates.
+
+Article 5 of 7
+Title: Woman, 20, dies from COVID in Idaho hospital
+Publisher: Daily Mail
+Trusted: False
+Posted: 2 days ago
+Hospitalized COVID-19 patients (686 as of September 18) are increasing.
+ICU beds and ventilators are being used at high rates.
+Vaccination rates are low in Idaho (51% fully vaccinated).
+New cases and hospitalizations are primarily among unvaccinated residents.
+
+Article 6 of 7
 Title: 'Exhausted, scared': Front line workers burnt out in fourth wave, says doctor
-Publisher: CBC News
+Publisher: CBC.ca
 Trusted: False
 Posted: 6 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario: As of the article's publication, Ontario has about 2.2 people in hospital per 100,000, which is a relatively low rate compared to Saskatchewan, which has 19.3 people hospitalized with COVID-19 per 100,000 people. The article mentions that about three in four hospitalizations in Saskatchewan are not fully vaccinated, which could be an important factor to consider when forecasting hospitalizations in Ontario. The article also mentions that Saskatchewan is expecting a surge in hospitalizations, with projections indicating a rolling seven-day average of 125 infected people in ICUs by September 30. The article highlights the strain on the healthcare system, particularly on frontline workers, which could impact the ability to provide care to both COVID-19 and non-COVID-19 patients. These values can be used to inform forecasting models for COVID-19 hospitalizations in Ontario, particularly in terms of understanding the potential impact of vaccination rates and the strain on the healthcare system.
+Key values:
+Number of hospitalizations per 100,000 people: 2.2 (Ontario), 19.3 (Saskatchewan)
+Proportion of unvaccinated patients: 3/4 (Saskatchewan), not specified (Ontario)
+
+Article 7 of 7
+Title: COVID-19 hospitalizations up for children at MU Women's and Children's
+Publisher: Columbia Missourian
+Trusted: False
+Posted: 6 days ago
+Ontario COVID-19 cases surge as province reports 3,957 new infections
+FALSE. This article does not provide relevant data for forecasting COVID-19 hospitalizations in Ontario, Canada.

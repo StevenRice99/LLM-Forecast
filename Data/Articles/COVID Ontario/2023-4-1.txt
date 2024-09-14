@@ -1,6 +1,14 @@
 Below is a news article from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
-Title: How many COVID-19 vaccine doses should you have by now?
-Publisher: CP24
+Title: Predicting COVID-19 positivity and hospitalization with multi-scale graph neural networks
+Publisher: Nature.com
 Trusted: False
 Posted: 1 day ago
+The text describes a study on various machine learning models' performances in predicting COVID-19 cases and hospitalization rates in France. The authors compare the results of different approaches, including AVG, ARIMA, Prophet, MPNN, MPNN-LSTM, Multi-scale MPNN, and LSTM.
+Here are the main points from the text:
+1. Multi-Scale MPNN outperforms other models: The study found that the proposed model, Multi-Scale MPNN, outperformed all other approaches in short- and mid-term forecasts when both features were utilized.
+2. Feature utilization improves performance: When the model utilizes two specific features, it achieves lower errors for all forecast horizons (short-, mid-, and long-term).
+3. Qualitative evaluation: The authors present a qualitative evaluation of the proposed model through a map of metropolitan France, where departments are colored based on their relative test error or ground truth number of positive cases.
+4. Relative error analysis: The study highlights that high values of relative error occur mainly in departments with low average numbers of cases, whereas regions heavily hit by the pandemic have relatively small relative errors.
+5. Long-term prediction performance: The authors illustrate the average error of different models for 14 days ahead hospitalization forecasts, showing that Multi-Scale MPNN achieves lower errors initially but increases over time, while LSTM variants perform poorly.
+Overall, the study demonstrates the effectiveness of the proposed model in predicting COVID-19 cases and hospitalization rates, particularly when utilizing specific features. The results also highlight the importance of considering regional differences in pandemic severity and the need for accurate predictions in heavily affected areas.

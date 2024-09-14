@@ -1,15 +1,34 @@
-Below are 2 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
+Below are 3 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
-Article 1 of 2
+Article 1 of 3
 Title: Myasthenia Gravis Tied to Elevated Risk for Severe COVID
 Publisher: Medpage Today
 Trusted: False
 Posted: 4 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. The study found that individuals with myasthenia gravis (MG) were at higher risk for severe cases of COVID-19, including hospitalizations and death, compared to the general population. Specifically, the study reported that: MG patients had a 25% greater risk for a positive COVID test compared to the general population. MG patients had a roughly twofold greater risk of emergency department (ED) visits, hospitalizations, and death compared to the general population. COVID-associated hospitalizations were reported in 30.5% of MG patients, compared to 15.1% of the general population. Deaths due to COVID-19 were reported in 14.6% of MG patients, compared to 8.5% of the general population. The study also found that vaccination was effective in reducing COVID-19 infection in MG patients, with a more pronounced reduction in COVID-19 infection compared to the control group. The study's findings suggest that individuals with MG should be prioritized for vaccination and considered for early therapeutics for COVID-19, such as antivirals. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada, from this article are: 30.5%: COVID-associated hospitalizations among MG patients 14.6%: Deaths due to COVID-19 among MG patients 25%: Greater risk for a positive COVID test among MG patients compared to the general population 2.48: Hazard ratio for hospitalizations among MG patients compared to the general population 2.11: Hazard ratio for death among MG patients compared to the general population
+Values most important for forecasting:
+Age (mean age of study participants is 68 years)
+Vaccination status (80% and 82% of myasthenia gravis group had received two doses, similar to the general population)
+Comorbidities (myasthenia gravis patients have higher Charlson Comorbidity Index scores and more comorbidities on average)
+COVID-19 hospitalization rates (30.5% of myasthenia gravis patients vs 15.1% of general population)
 
-Article 2 of 2
+Article 2 of 3
 Title: The burden of incidental SARS-CoV-2 infections in hospitalized patients across pandemic waves in Canada
 Publisher: Nature.com
 Trusted: False
 Posted: 5 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. The study found that the proportion of hospitalized patients with incidental SARS-CoV-2 infection increased over time, and these patients still experienced significant morbidity and mortality. The mean hospital length of stay (LOS) for patients with incidental SARS-CoV-2 infection was 12 days, compared to an average hospital LOS in Canada of 6.9 days pre-pandemic. The study suggests that excluding incidental COVID-19 hospitalizations from planning may lead to underestimating resource needs and potentially overwhelmed hospitals. Key values for forecasting COVID-19 hospitalizations in Ontario, Canada: Proportion of hospitalized patients with incidental SARS-CoV-2 infection: 26.0% (increased over time) Mean hospital LOS for patients with incidental SARS-CoV-2 infection: 12 days Average hospital LOS in Canada pre-pandemic: 6.9 days Morbidity and mortality rates for patients with incidental SARS-CoV-2 infection: substantial, but exact rates not specified These values can inform forecasting models to account for the resource needs of hospitals, including the potential impact of incidental SARS-CoV-2 infections on hospital capacity.
+Key points:
+Incidental SARS-CoV-2 infections are common and result in significant morbidity and mortality.
+Hospital length of stay is longer for patients with incidental SARS-CoV-2 infection (mean 12 days vs. pre-pandemic average 6.9 days).
+Ignoring incidental hospitalizations may lead to underestimation of resource needs and potential hospital overloading.
+The proportion of hospitalized patients with incidental SARS-CoV-2 infections increased across pandemic waves, suggesting a need to incorporate these cases into planning and resource allocation.
+
+Article 3 of 3
+Title: Drug to help prevent serious RSV illness in babies approved by Health Canada
+Publisher: CBC News
+Trusted: False
+Posted: 5 days ago
+Relevant.
+Summary: Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+- Data on pediatric hospitalizations due to influenza and other causes (mentioned as contributing factors to a surge in hospitalizations).
+- Information on hospitalization rates and seasonality of RSV infections in the province.
+- Demographics of high-risk populations, such as Inuit infants in Nunavut.

@@ -1,22 +1,82 @@
-Below are 3 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
+Below are 6 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
-Article 1 of 3
-Title: Ontario logs fewer than 900 new COVID-19 cases, lowest single-day tally since last October
-Publisher: CTV News Toronto
+Article 1 of 6
+Title: Stay-at-home order remains in effect for Toronto and Peel but restaurants, gyms will reopen in York Region
+Publisher: CP24
+Trusted: False
+Posted: 1 day ago
+Toronto and Peel Region will remain under lockdown until at least March 8.
+York Region will enter the red zone on Monday, allowing indoor dining to resume and gyms to reopen with reduced capacity.
+Case counts have been declining but the presence of more infectious variants is a concern for future surges.
+The province has an "emergency brake" that can lock down regions if cases begin to surge.
+
+Article 2 of 6
+Title: Everything you need to know about COVID-19 and your taxes, explained
+Publisher: CTV News
+Trusted: False
+Posted: 2 days ago
+This article provides information on various aspects of filing taxes related to COVID-19 benefits and expenses for Canadians who worked from home or had other employment-related income in 2020.
+Key Points: 
+1. Temporary Flat Rate Method: The Canada Revenue Agency (CRA) offers a temporary flat rate method for calculating work-from-home expenses, which does not require a signed T2200S form from an employer and a filled-out T777S form.
+2. Other Employment Expenses: Employees who claim other employment expenses or did not work from home in 2020 must get a completed and signed Form T2200 from their employer and fill out Form T777.
+3. Gig Economy Income: Canadians with self-employment income, such as driving for Uber or delivering for apps like Skip the Dishes, will need to file a special form when filing their return statement and business activities.
+4. COVID-19 Emergency Benefits: The COVID-19 emergency benefits administered by CRA (CERB, CESB, CRCB, CRSB, CEBA, and CEWS) are considered taxable income, meaning some recipients may owe tax when they file a return.
+5. Tax Interest Waiver: Prime Minister Justin Trudeau announced that the CRA won't charge people interest on overdue taxes from benefit programs for at least one year.
+6. Installment Payment Agreement: Canadians who are unable to pay their taxes owing on federal benefits can contact the CRA and ask for an installment payment agreement to spread their debt payments between now and April 2022.
+Additional Information: 
+1. Small business owners who took advantage of the Canada Emergency Wage Subsidy (CEWS) or the Canada Emergency Business Account (CEBA) interest-free loans should be vigilant when filing paperwork.
+2. Tax experts recommend watching out for credits and deductions Canadians may qualify for, even if they do not have anything to do with COVID-19.
+Tax Credits: 
+1. Home Buyer Credit: A credit is available in addition to being able to take $35,000 out of RRSPs to buy a home.
+2. Adoption Expenses Tax Credits: Canadians may qualify for this tax credit.
+3. Working Tax Benefits: Various working tax benefits are also available.
+4. Climate Action Incentive: A tax credit is available to help reduce carbon taxes in specific provinces.
+5. Digital News Subscription Credit: A 15% credit of up to $500 can be claimed for digital news subscriptions.
+Recommended Reading: 
+The article provides a detailed explanation of the tax implications and credits related to COVID-19 benefits and expenses, making it essential reading for Canadians who worked from home or had other employment-related income in 2020.
+
+Article 3 of 6
+Title: In your own words: Who were you before COVID-19 hit, and who are you now?
+Publisher: CTV News
 Trusted: False
 Posted: 3 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting values most important for forecasting: Daily case count: 847 new cases (lowest since October 2020) 7-day average case count: 1,002 (down from 1,357 one week ago) Hospitalizations: 719 people being treated for COVID-19 (declining) ICU patients: 298 (with 211 on ventilators) Vaccination progress: 195,366 people fully immunized Variant cases: 338 cases of B.1.1.7 (UK variant), 6 cases of B.1.351 (South African variant), and 1 case of P.1 (Brazilian variant) Positivity rate: around 3% Testing: 33,900 tests processed in the last 24 hours, with 33,700 tests under investigation These values provide insight into the current trend of COVID-19 cases, hospitalizations, and vaccination progress in Ontario, which can inform forecasting models.
+These stories capture the diverse and complex experiences of individuals during the COVID-19 pandemic. Here are some common themes and takeaways:
+1. The impact on mental health: Many people have struggled with anxiety, depression, and other mental health issues due to the isolation, uncertainty, and stress caused by the pandemic.
+2. Relationship changes: The pandemic has affected relationships in various ways, including the separation of couples (like Becca) or increased bonding between family members.
+3. Finding new purposes: Some individuals have found new passions or outlets for themselves during this time, such as starting a podcast (Becca's story).
+4. Increased stress and fear: The pandemic has caused significant stress and fear in many people, especially those who had to deal with health issues directly.
+5. Newfound appreciation for life: Despite the challenges, some individuals have developed a deeper appreciation for life and are looking forward to rebuilding and starting anew.
+6. Adapting to new norms: People have had to adapt to a new reality, learning to appreciate simple things and finding ways to stay positive despite difficult circumstances.
+7. The importance of human connection: Despite the physical distance, many people value human connection more than ever and are finding creative ways to maintain these connections.
 
-Article 2 of 3
-Title: Kingston health officials release local COVID-19 vaccination strategy
-Publisher: CTV News Ottawa
+Article 4 of 6
+Title: Meet Caleb Chung, a 12-year-old who signed up to receive a COVID-19 vaccine already
+Publisher: CTV News
 Trusted: False
 Posted: 3 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada, as it provides information on the vaccination strategy in Kingston, which can impact hospitalization rates. The key points relevant for forecasting are: The vaccination strategy is expected to ramp up in phase three, with larger venues and mass immunization clinics, which can lead to increased vaccination rates and potentially reduced hospitalizations. The plan aims to administer up to 3,000 immunizations per day, which can help reduce the number of susceptible individuals and subsequent hospitalizations. The vaccination clinics will also be set up in rural communities, which can help reduce hospitalizations in these areas. However, it is essential to note that the article does not provide direct data on hospitalization rates or forecasts but rather provides context on the vaccination strategy, which can indirectly impact hospitalization rates.
+Children make up at least 1 in 11 reported U.S. coronavirus cases.
+Data shows trends in new cases among children rise and fall with adult cases.
+Average weekly incidence of COVID-19 was twice as high among 12-17 year olds compared to 5-11 year olds between May and September.
+This information can be used to inform modeling of pediatric cases, which may indirectly affect hospitalization rates.
 
-Article 3 of 3
+Article 5 of 6
 Title: 'Our job to step in': Hospitals take on COVID-19 patients from other overwhelmed regions
 Publisher: CTV News
 Trusted: False
 Posted: 7 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: The article discusses the IMS Transfer system, which helps manage patient numbers across hospitals in Ontario and transfers patients from overwhelmed hospitals to those with available space. Between November 16 and February 9, 545 non-ICU COVID-19 patients and 320 non-COVID-19 patients were transferred to build capacity for COVID-19 patients. 70 patients were transferred from one intensive care unit to another since the new year. Halton Healthcare, which operates Oakville Trafalgar Memorial Hospital, has taken in 190 COVID-19 patients from other regions, with 80% of patients in the COVID-19 unit coming from outside the region. The hospital has created an indoor "field hospital" with 40 beds to provide full medical care for non-COVID-19 patients, freeing up space for COVID-19 patients. The article mentions that 25% of COVID-19 patients can quickly worsen, requiring hospitals to keep a certain number of ICU beds unoccupied as a contingency measure. The head of Ontario Health, Matthew Anderson, conveyed a message to hospital CEOs to reserve one-third of their ICU beds for transfers from overwhelmed hospitals in other regions. These values can be used to inform forecasting models, such as: The number of patients transferred between hospitals and regions The capacity of hospitals to take in additional patients The proportion of patients who require ICU care The impact of the IMS Transfer system on hospital capacity and patient outcomes By incorporating these values into forecasting models, it may be possible to better predict COVID-19 hospitalizations in Ontario, Canada, and inform decision-making for hospital capacity planning and resource allocation.
+545 non-ICU COVID-19 patients and 320 non-COVID-19 patients were transferred between hospitals under the IMS system.
+Halton Healthcare took in 190 COVID-19 patients from other regions.
+The IMS Transfer system helps prevent hospitals from being overwhelmed by shifting patients to areas with available space.
+ICU bed capacity is reserved for transfers, with a goal of keeping one-third of beds available for this purpose.
+
+Article 6 of 6
+Title: Here's what's allowed to open under the new COVID-19 restrictions in Ottawa
+Publisher: CTV News Ottawa
+Trusted: False
+Posted: 7 days ago
+Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Public health restrictions by region (e.g. "green-prevent" or "orange-restrict")
+Capacity limits for various businesses and venues (e.g. cinemas, meeting spaces)
+Screening requirements for patrons
+Contact information collection from patrons
+Safety plan availability upon request

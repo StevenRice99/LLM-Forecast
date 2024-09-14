@@ -1,21 +1,96 @@
-Below are 3 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
+Below are 9 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
-Article 1 of 3
+Article 1 of 9
+Title: B.C. enters third Omicron wave as COVID hospitalizations jump 35% over last week
+Publisher: CBC.ca
+Trusted: False
+Posted: 1 day ago
+This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada.
+- Province entering its third wave of the Omicron variant
+- Hospitalizations jumped 35% from last week, with 369 people in hospital and 36 in intensive care
+- Cases are trending upwards, but not as significantly as hospitalizations
+- Test positivity rates up slightly to an average 9.1%
+- Government recommending a fourth dose of vaccine for certain individuals
+
+Article 2 of 9
+Title: Epidemiologist warns of 'serious situation' by fall if COVID infections aren't brought under control
+Publisher: CBC.ca
+Trusted: False
+Posted: 1 day ago
+Key values:
+62 patients hospitalized with COVID as of Sunday morning
+BA.5 subvariant makes up about 60% of confirmed cases
+Wastewater levels of coronavirus are "high and increasing"
+Higher chance of reinfection due to latest subvariants
+
+Article 3 of 9
+Title: The BA.5 subvariant is fuelling another COVID wave
+Publisher: CBC News
+Trusted: False
+Posted: 1 day ago
+Here is a brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+The Omicron subvariant BA.5 is driving another wave of infections in Ontario.
+Despite being less severe than previous variants, the sheer number of people getting sick can lead to a higher total number of severe cases and hospitalizations, especially among vulnerable populations (aged 60+).
+Hospitalizations are climbing week over week in Ontario, with about 60% of confirmed COVID-19 cases attributed to BA.5.
+The effectiveness of vaccines waning over time means that booster doses are crucial for protection against severe disease.
+Approximately 40% of eligible Canadians have not yet received a third dose of vaccine.
+
+Article 4 of 9
 Title: Ontario's 7th wave of COVID-19 is here, top doctor confirms amid exponential growth
 Publisher: CBC.ca
 Trusted: False
 Posted: 2 days ago
-A brief summary of the article relevant for forecasting COVID-19 hospitalizations in Ontario, Canada: Ontario has entered its seventh wave of COVID-19 driven by the Omicron BA.5 subvariant. Approximately 60% of confirmed cases are due to the BA.5 subvariant. The province can expect another four to five weeks in this wave, with infections expected to increase over the next 10 days before slowing down. Test positivity is above 10% for the first time since May, with around 80% of public health units experiencing exponential growth in cases. Ontario is seeing its first increase in COVID-19 hospitalizations since May, with the number of people admitted higher than at any time last summer. The advisory table recommends getting third doses of COVID-19 vaccines now, especially for those over 60 or immunocompromised, and advises wearing high-quality masks in crowded indoor settings. The group notes that while BA.5 may not be more severe than previous strains, any surge could impact hospitals already dealing with staff shortages and record wait times. This information is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada.
+Key values highlighted:
+Test positivity above 10% (1st time since May)
+Approximately 80% of public health units see exponential growth in cases
+Number of people admitted to hospital with COVID-19 higher than at any time last summer
+605 people hospitalized with the virus as of June 29, an increase of 89 from the previous week
 
-Article 2 of 3
+Article 5 of 9
+Title: Ontario's COVID-19 test positivity climbs to 13.5% as new details of 7th wave emerge
+Publisher: CBC.ca
+Trusted: False
+Posted: 2 days ago
+Test positivity: 13.5% (highest since May)
+Hospitalizations: 712 people currently in hospital with COVID-19 (up from 585 last week)
+ICU admissions: 110 patients in intensive care due to COVID-19 (up from 95 last week)
+
+Article 6 of 9
+Title: N.S. reports 9 COVID-19 deaths, 17% increase in positive PCR tests in weekly update
+Publisher: CBC.ca
+Trusted: False
+Posted: 2 days ago
+Total lab-confirmed cases in Nova Scotia: 1,749 (average daily cases: 250)
+Hospitalizations due to COVID-19 in Nova Scotia: 26 people (7 in intensive care)
+COVID-19-related hospitalization rates and trends not directly applicable to forecasting in Ontario, Canada
+General information on vaccination strategies and public health measures may be useful for context.
+
+Article 7 of 9
+Title: As N.S. lifts COVID-19 restrictions, here's an inside look at its predictions for hospitalizations
+Publisher: CBC.ca
+Trusted: False
+Posted: 2 days ago
+Reproduction number of 1.8-2.0 was reached after phase 2 (Feb 15) and stayed at that level for 10 days.
+Model predicted an "extended plateau of hospitalization" with a peak of approximately 90 patients.
+Late May model showed reproduction number dropped below one in April, and continued to drop through May.
+August predictions: on average five patients in acute care and three in ICU.
+
+Article 8 of 9
+Title: Some Quebec overnight camps are being forced to close following COVID-19 outbreaks
+Publisher: Global News
+Trusted: False
+Posted: 4 days ago
+SUMMARY OF RELEVANT VALUES FOR FORECASTING COVID-19 HOSPITALIZATIONS IN ONTARIO, CANADA:
+147-patient rise in COVID-19 hospitalizations in Quebec reported on Tuesday.
+1,441 people hospitalized with COVID-19 in Quebec, after 378 patients were admitted and 231 discharged.
+No specific values for Ontario mentioned.
+
+Article 9 of 9
 Title: Ontario has entered another wave of COVID-19, experts say
 Publisher: CTV News Toronto
 Trusted: False
 Posted: 5 days ago
-A brief summary of the article relevant for forecasting COVID-19 hospitalizations in Ontario, Canada: The article discusses Ontario's entry into a summer wave of COVID-19, with hospitalizations and wastewater data showing an upward trend. Key points for forecasting COVID-19 hospitalizations include: Increase in COVID-19 wastewater data throughout June. Rise in the number of people testing positive for COVID-19, with a 34% increase in new cases detected through PCR testing week-over-week. Hospitalizations are increasing, with 585 people in Ontario hospitals testing positive for the virus, up from 486 a week earlier. The increase in hospitalizations is largely driven by the BA.5 sublineage of Omicron, which has the ability to evade some protective immunity from vaccination or prior infection. The article also mentions the anticipation of higher transmission in the fall due to increased indoor activities and the presence of other respiratory viruses like influenza and RSV. This information can be valuable for forecasting COVID-19 hospitalizations in Ontario, Canada.
-
-Article 3 of 3
-Title: Malheur County moves to 'high' category for COVID-19
-Publisher: KTVB.com
-Trusted: False
-Posted: 5 days ago
+Wastewater data has been ticking upward throughout June, indicating a potential summer wave of COVID-19.
+The seven-day average for new PCR-positive cases was up 34% week-over-week, with 585 people currently hospitalized with the virus (up from 486 a week earlier).
+The BA.5 sublineage of Omicron is thought to be the dominant variant and may contribute to higher hospitalization rates.
+Experts expect this wave to be less intense than previous ones, but still warn of potential issues in the fall due to increased indoor activities.

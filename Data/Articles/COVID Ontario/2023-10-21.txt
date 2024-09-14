@@ -5,32 +5,54 @@ Title: More than 1.3 M Canadians abandoned waits in emergency rooms in 2023
 Publisher: CTV News
 Trusted: False
 Posted: Today
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: The number of Canadians leaving hospital emergency rooms without being seen increased by 34% from 2021-2022 to 2022-2023, with 1.3 million Canadians leaving ERs without care in the 2022-2023 period. This represents 8.6% of the 15.1 million Canadians who sought care in emergency units, up from 6.8% in 2021-2022. The increase in patients leaving ERs without being seen may indicate overcrowding and long wait times in emergency departments, which could impact the ability of hospitals to handle COVID-19 cases. These values are important for forecasting COVID-19 hospitalizations in Ontario, Canada, as they suggest that hospitals may be facing capacity issues, which could impact their ability to handle an influx of COVID-19 cases. This information could be used to inform models of hospital capacity and COVID-19 hospitalizations.
+Summary: 
+The article reports an increase in Canadians leaving emergency rooms (ERs) without medical care due to long waiting times.
+Key values:
+- 1.3 million Canadians left ERs without being seen in 2022-2023.
+- 34% increase from the previous year.
+- 8.6% of patients who sought care in ERs left without medical attention.
 
 Article 2 of 5
-Title: COVID-19 infections rise sharply across Canada as hospitalizations reach highest level since last winter
-Publisher: WSWS
+Title: BC Children's Hospital shares respiratory illness season 'guidance' for parents
+Publisher: CTV News Vancouver
 Trusted: False
-Posted: 1 day ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the key points: COVID-19 infections are rising sharply across Canada, with tens of thousands being infected and over 100 people dying every week. Ontario is experiencing a sharp rise in COVID-19 activity, with wastewater testing showing levels not seen since March. Hospitalizations are increasing, with 3,797 hospital beds occupied by COVID-19 patients across the country as of October 10, the highest occupancy rate since last winter. In Ontario, anger among healthcare workers has led to the reinstatement of a mask mandate at several provincial hospitals, but the government refuses to require masks in schools. The article highlights the limitations of current testing methods, including the reduction of PCR testing and the limited coverage of wastewater monitoring. The dominant strain of COVID-19 has shifted from XBB.1.5 to EG.5 (Eris), which may have greater transmissibility and vaccine resistance. These points suggest that COVID-19 hospitalizations in Ontario are likely to continue to rise, driven by the increasing spread of the virus, particularly in schools and among vulnerable populations. The limitations of current testing methods and the shift in dominant strain may also contribute to the ongoing transmission of the virus.
+Posted: Today
+13,000 children were treated at BC Children's Hospital between Oct-Dec last year.
+4,795 (more than a third) of those visits were non-urgent and could have been treated elsewhere.
+Top non-urgents included fever, cough, congestion, nausea, vomiting, mild abdominal pain, and earache.
+Most urgent concerns at BC Children's Hospital were children with moderate to severe respiratory illness, including difficulty breathing.
+This information can be relevant for forecasting COVID-19 hospitalizations in Ontario, Canada by considering:
++ The number of non-urgent visits that could be avoided
++ The top presenting symptoms and their potential relation to COVID-19
++ The demand on hospitals during peak respiratory seasons
 
 Article 3 of 5
 Title: 2 new COVID-19 variants confirmed in N.B. as cases climb
 Publisher: CBC.ca
 Trusted: False
 Posted: 1 day ago
-The article discusses the detection of two new COVID-19 variants, Omicron BA.2.86 and FL.1.5.1, in New Brunswick, Canada. While the article does not specifically focus on Ontario, Canada, it provides relevant information for forecasting COVID-19 hospitalizations in Ontario. Key points relevant to forecasting COVID-19 hospitalizations in Ontario include: 1. The presence of new variants: The detection of Omicron BA.2.86 and FL.1.5.1 in New Brunswick suggests that these variants may also be present in Ontario, which could impact hospitalization rates. 2. Immune evasion: The article mentions that BA.2.86 appears to be more immune-evading than previous strains, which could lead to increased hospitalizations in Ontario. 3. Vaccine effectiveness: The article notes that the new COVID booster is expected to be effective against the new variants, which could help mitigate hospitalizations in Ontario. 4. Increasing COVID-19 cases: The article reports a nearly 63% week-over-week jump in hospitalizations in New Brunswick, which could be an indicator of a potential surge in Ontario. 5. Rapid testing: The article discusses the availability of free rapid test kits in New Brunswick and the importance of testing to determine if symptoms are COVID-19, which could help identify potential cases and prevent hospitalizations in Ontario. Overall, while the article is not specifically focused on Ontario, it provides relevant information on new variants, immune evasion, vaccine effectiveness, and rapid testing that could be useful for forecasting COVID-19 hospitalizations in Ontario.
+The article mentions an increase in COVID-19 hospitalizations in New Brunswick (63% week-over-week jump).
+This information is relevant to forecasting COVID-19 hospitalizations in Ontario, Canada, as it provides context on the current situation with COVID-19 cases in another Canadian province.
+However, it does not provide specific data or trends for Ontario.
 
 Article 4 of 5
 Title: TPH says it needs $5 million more for respiratory illness ahead of winter that could see 'high level' of virus activity
 Publisher: CP24
 Trusted: False
 Posted: 3 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting the most important values for forecasting: The number of people in hospital with COVID-19 in Ontario has been rising sharply since August, with 1,135 people in Ontario hospitals with active COVID-19 cases and 168 people hospitalized because of COVID-19 for the week of Oct. 1-7. The article mentions the potential for an early start to the respiratory season and a surge of COVID-19, influenza, and RSV activity, which could lead to increased hospitalizations. The article highlights the importance of vaccination, masking, hand washing, and physical distancing in preventing the spread of respiratory viruses. The article also mentions the role of Infection Prevention and Control (IPAC) hubs in preventing and mitigating the impacts of outbreaks, particularly in long-term care and retirement homes, and other congregate settings. The article notes that the province has invested over $100 million in IPAC hubs since 2020-21, but that additional funding may be needed to maintain these services. These values are important for forecasting COVID-19 hospitalizations in Ontario, Canada, as they provide information on current trends, potential risks, and the importance of prevention and control measures.
+Key values for forecasting:
+Hospitalization data: 1,135 people in Ontario hospitals with active COVID-19 cases and 168 hospitalizations due to COVID-19 in the week of Oct. 1-7.
+Potential early start to respiratory season and surge of COVID-19 activity.
+Funding request for Infection Prevention and Control (IPAC) hubs to maintain outbreak response capacity, particularly in long-term care and retirement homes.
+Mention of ongoing funding concerns for Toronto Public Health.
 
 Article 5 of 5
 Title: COVID-19 hospitalizations reach numbers not seen since last winter
 Publisher: CTV News
 Trusted: False
 Posted: 4 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: COVID-19 hospitalizations are increasing across Canada, with 3,797 hospital beds occupied by COVID-19 patients as of October 10, 2023, which is the highest occupancy rate since last winter. The majority of the increase in hospitalizations is due to patients in non-ICU beds, while the number of COVID-19 patients in ICU and those receiving mechanical ventilation rose modestly. Experts warn that hospitalization numbers need to be taken with a grain of salt and contextualized alongside other data, as testing practices, data sources, and reporting to PHAC are not consistent across provinces and public health units. The ratio of patients admitted to the ICU versus patients admitted to the wards is a helpful metric for understanding the severity of COVID-19 waves. Hospitalization data can be inflated by cases where a positive COVID-19 test is incidental to the primary reason a patient was hospitalized. Experts emphasize that even a small increase in hospitalizations can put pressure on an already stretched healthcare system, and that Canadians should continue to take precautions to limit the spread of COVID-19 and other respiratory viruses. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Current hospitalization numbers and trends ICU and non-ICU bed occupancy rates Ratio of patients admitted to the ICU versus patients admitted to the wards Testing practices and data sources Precautions taken by Canadians to limit the spread of COVID-19 and other respiratory viruses.
+Here is a brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Increase in cases: 10,218 new COVID-19 cases reported in Canada from Oct 1 to 7.
+Hospital bed occupancy: 3,797 hospital beds occupied by COVID-19 patients across Canada as of Oct 10, the highest since last winter.
+ICU and ventilation numbers: Modest increases in COVID-19 patients in ICU and on mechanical ventilation, indicating fewer severe cases.
+Ratio of ward to ICU admissions: Helps assess severity of current wave, with most new hospitalizations in non-ICU beds.

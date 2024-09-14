@@ -1,50 +1,92 @@
-Below are 7 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
+Below are 8 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
-Article 1 of 7
-Title: With ‘Eris’ rising and now ‘Fornax,’ when are COVID cases likely to peak again? A look at what may lie ahead for fall and winter
-Publisher: Fortune
+Article 1 of 8
+Title: COVID-19 activity risk calculator as a gamified public health intervention tool
+Publisher: Nature.com
 Trusted: False
 Posted: 1 day ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: New variants "Eris" (EG.5.1) and "Fornax" (FL.1.5.1) are emerging, with FL.1.5.1 currently dominant in New York, a bellwether state. Wastewater levels and hospitalizations are rising in New York, indicating a potential increase in COVID-19 cases. Experts predict a peak in cases in late November, shortly after the Thanksgiving holiday, due to holiday gatherings. The pandemic landscape has changed, with a shift from distinct, sharp waves to a high wall of cases sustained by mini-waves of multiple new variants overlapping each other. Vaccines updated to match the dominant strain of this past winter (XBB.1.5) will be available by the end of September and are expected to be effective in preventing severe outcomes like hospitalization and death. However, experts worry that many Americans will choose to forgo the new jabs, potentially leading to a higher peak in cases. The article also mentions the possibility of a "tripledemic" of COVID, flu, and RSV this fall, but experts say there is no reason to worry at the moment. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Emerging variants and their potential impact on case numbers and hospitalizations Predicted peak in cases in late November Effectiveness of updated vaccines in preventing severe outcomes Potential for a "tripledemic" of COVID, flu, and RSV this fall.
+Here is a brief summary highlighting values most important for forecasting COVID-19 risks:
+Community transmission levels: The number of active cases has a close correlation with the risk of infection, hospitalization, and death.
+Age: Older individuals (70+ years) have a significantly higher risk of hospitalization and death compared to younger individuals (30 years).
+Vaccination: Vaccination with the first dose of Pfizer vaccine reduces the risk of infection, with further reduction with the second dose and booster dosage. However, the omicron variant is not significantly decreased by vaccination.
+Mask type: Wearing a 2-layer woven nylon mask with a nose bridge reduces the risk of infection, while wearing an N95 respirator has a very high reduction in risk of infection.
+These factors can be used to estimate COVID-19 risks and inform mitigation strategies.
 
-Article 2 of 7
-Title: COVID-19 took a toll on heart health and doctors are still grappling with how to help
-Publisher: CTV News
+Article 2 of 8
+Title: COVID cases surging again in Florida. Here's what you need to know about new variant, Eris
+Publisher: Tallahassee Democrat
 Trusted: False
 Posted: 2 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. The article highlights the potential long-term cardiovascular effects of COVID-19, including increased risk of heart-related problems, blood clots, irregular heartbeats, and heart attacks, even in people who initially seem to recover fine. This is particularly concerning for young people, as there was a nearly 30% increase in heart attack deaths among 25to 44-year-olds in the pandemic's first two years. Key values for forecasting COVID-19 hospitalizations in Ontario, Canada include: Up to a year after a case of COVID-19, people may be at increased risk of developing a new heart-related problem. 4 of every 100 people need care for some kind of heart-related symptom in the year after recovering from COVID-19. High blood pressure is one of the biggest risks for heart disease, and people's blood pressure has actually measurably gone up over the course of the pandemic. Cardiovascular symptoms are part of what's known as long COVID, and patients and doctors alike need to know that sometimes, cardiovascular trouble is the first or main symptom of damage the coronavirus left behind. These values suggest that there may be an increased burden on the healthcare system due to cardiovascular complications related to COVID-19, which could impact hospitalization rates in Ontario, Canada.
+The article is somewhat relevant for forecasting COVID-19 hospitalizations in Ontario, Canada.
+Key points:
+A new COVID variant (Eris) has been spreading rapidly in the US and Florida, but experts attribute the current surge to summertime travel and relaxed precautions rather than a new variant.
+Hospital admissions have risen in some counties in Florida, but overall levels are considered low.
+The article mentions the importance of taking precautions, such as wearing masks and getting booster shots for those at higher risk for severe illness.
 
-Article 3 of 7
-Title: What to know about EG.5, the latest Omicron subvariant in Canada
-Publisher: CBC News
-Trusted: False
-Posted: 3 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the key points: A new Omicron subvariant, EG.5, has been designated a variant of interest by the World Health Organization (WHO) and is circulating in Canada and other countries. EG.5 appears to be more infectious and able to evade immune defenses, but there is no evidence to suggest it causes more severe illness. The subvariant has been found in municipal wastewater in Canada, including in Ontario, and its prevalence is increasing globally. Experts recommend getting a booster shot, wearing masks in crowded indoor areas, and taking at-home tests to protect against COVID-19. The article mentions that some parts of Canada, including Ontario, are seeing a slight increase in COVID-19 cases, and testing positivity has increased from about 5% to nearly 7% within one month. The values most important for forecasting COVID-19 hospitalizations in Ontario, Canada are: The increasing prevalence of EG.5 in Canada and globally The potential for EG.5 to cause a rise in case incidence and become dominant in some countries or globally The recommendation to get a booster shot and take other precautions to protect against COVID-19 The increasing testing positivity rate in Ontario These values suggest that there may be an increase in COVID-19 cases and hospitalizations in Ontario, Canada in the coming weeks or months, and that taking precautions such as getting a booster shot and wearing masks in crowded indoor areas may help mitigate this risk.
-
-Article 4 of 7
+Article 3 of 8
 Title: What to know about the new COVID-19 variant EG.5
 Publisher: The Globe and Mail
 Trusted: False
 Posted: 3 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the values most important for forecasting: EG.5 is a new COVID-19 variant that has become the dominant strain in the United States and is making its way to Canada. EG.5 is a descendent lineage of XBB.1.9.2, with one extra spike mutation, and is a part of the Omicron family of strains. Symptoms of EG.5 are consistent with general COVID-19 symptoms, and officials say that it does not seem to pose more of a threat to public health than other variants. EG.5 has been detected in Canada since May, and the Public Health Agency of Canada estimates that it made up 19% of cases in Canada between July 30 and August 5. The proportion of EG.5 is increasing in Ontario, with 12.7% of samples sequenced between July 9-15, and is expected to increase to 30.5% by August 5. Experts say that while EG.5 may have a transmission advantage over XBB subvariants, there is no data suggesting it causes more severe disease. The new boosters are expected to work against EG.5, as they target Omicron variants. COVID-19 has led to 52,750 deaths and 4.6 million reported cases in Canada since the beginning of the pandemic. Canada's COVID-19 death rate is worse than the global average, but better than the US and UK. Experts predict a bump in COVID-19 cases and hospitalizations in the fall, and recommend Canadians to get vaccinated, wear masks, and take other precautions to protect themselves.
+The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary:
+EG.5 variant has been detected in Canada since May 2023 and made up 19% of cases in the country between July 30 and August 5.
+Public Health Ontario estimated that EG.5 will account for 30.5% of sequenced samples by August 5, indicating an increase in prevalence.
+Dr. Angela Rasmussen stated that symptoms associated with EG.5 are similar to other Omicron subvariants, with a low public health risk and no reported changes in disease severity.
+There is no clear evidence yet on how dangerous EG.5 could be, but it's expected to lead to hospitalizations and deaths eventually.
+The new boosters will still provide protection against EG.5 since they target Omicron variants.
 
-Article 5 of 7
-Title: EG.5 subvariant may soon dominate COVID-19 cases in Canada. What to know - National
-Publisher: Global News Toronto
+Article 4 of 8
+Title: What to know about EG.5, the latest Omicron subvariant in Canada
+Publisher: CBC News
 Trusted: False
 Posted: 3 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the key points: EG.5, a subvariant of Omicron, is circulating in Canada and is predicted to become the dominant subvariant in Ontario over the next few weeks. EG.5 has a growth advantage of almost 2x compared to XBB.1.5, which may lead to increased transmissibility. However, there is no evidence yet of significant immune evasion or increased severity of illness or hospitalizations. The Public Health Agency of Canada (PHAC) has reported 36 detections of EG.5 in municipal wastewater between May 15 to July 21. The percentage of EG.5.1 has shown a rise in Ontario, climbing from 5.2% to 12.7% between July 2-8 and July 9-15, and is expected to further surge to 35% by August 2, 2023. Canadian health officials are actively monitoring and evaluating EG.5 lineages, and scientists are looking for signs that EG.5 lineages would change disease severity or spread, or impact the effectiveness of diagnostic tests, vaccines, or treatments for COVID-19. Experts recommend staying up to date with vaccinations, continuing regular testing, masking when possible, and practicing preventive measures such as washing hands frequently to keep COVID-19 infections, hospitalizations, and deaths at bay. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Growth rate of EG.5 compared to other variants Percentage of EG.5.1 in Ontario Number of detections of EG.5 in municipal wastewater Expected surge of EG.5.1 in Ontario Monitoring and evaluation of EG.5 lineages by Canadian health officials Recommendations for vaccination, testing, and preventive measures.
+Here is a brief summary of values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Values relevant for forecasting: 
+Increase in testing positivity from 5% to 7% within one month in Ontario.
+Presence of EG.5 subvariant in municipal wastewater and its increasing prevalence.
+Rapid growth advantage of EG.5, making it 8% more frequent every day.
+EG.5 cases and hospitalization metrics rising in some countries, though no associations made with hospitalization rates yet.
+These values indicate a potential increase in COVID-19 hospitalizations in Ontario, Canada due to the spread of the EG.5 subvariant.
 
-Article 6 of 7
+Article 5 of 8
+Title: WHO designates ‘Eris’ and related COVID strains as variants of interest as infections and hospitalizations tick upward
+Publisher: Fortune
+Trusted: False
+Posted: 3 days ago
+Here is a brief summary of values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+No changes in disease severity have been reported due to EG.5 variant
+EG.5 cases and hospitalizations are rising in Japan and Korea, but it's unknown if the trends are connected
+Ryan Gregory (University of Guelph) predicts a high baseline of cases may stay up, but not a huge wave
+COVID-19 hospitalizations have risen nearly 13% over the past two weeks in the U.S.
+
+Article 6 of 8
+Title: The new COVID-19 variant EG.5 is in Ontario. Here's what that means for you
+Publisher: CTV News Toronto
+Trusted: False
+Posted: 4 days ago
+The EG.5 variant has reached 5.2% of all reported cases in Ontario and is expected to reach 35% by August 2.
+Wastewater data shows a trend upwards over the last month, suggesting an increase in viral activity.
+Dr. Fahad Razak expects a rise in cases this fall due to cooler weather, but notes that advancements in immunization (RSV vaccine, updated COVID-19 booster) will help mitigate the impact on Ontario's healthcare system.
+
+Article 7 of 8
 Title: Study: Delirium incidence rose among geriatric patients during pandemic
 Publisher: University of Minnesota Twin Cities
 Trusted: True
 Posted: 4 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada, as it provides information on the impact of the pandemic on hospital capacity, staff shortages, and patient care, which can affect hospitalization rates. Key values for forecasting COVID-19 hospitalizations in Ontario, Canada, include: The absolute rates of delirium among hospitalized older adults increased from 35.9 per 1,000 admitted population pre-pandemic to 41.5 per 1,000 admitted population during the first 2 years of the pandemic. The median length of stay for hospitalizations was 5 days, and 6.3% of patients were discharged to an inpatient rehabilitation facility. The adjusted rate ratio (ARR) of delirium during the pandemic compared with the projected rate was 1.15 (95% CI, 1.11 to 1.19). Monthly rates of new antipsychotic prescriptions increased from 6.9 to 8.8 per 1,000 discharged population, and new benzodiazepine prescriptions increased from 4.4 to 6.0 per 1,000 discharged population during the pandemic. These values highlight the increased burden on hospitals and healthcare systems during the pandemic, which can inform forecasting models for COVID-19 hospitalizations in Ontario, Canada.
+Key values include:
+1,047,680 older adults (ages 66+) hospitalized before and during the pandemic, providing a large dataset to inform forecasts.
+Median length of stay: 5 days
+Increased rates of delirium and related medication prescriptions among hospitalized elderly adults during the pandemic.
+6.3% of patients were discharged to an inpatient rehabilitation facility, potentially impacting hospitalization forecasts.
 
-Article 7 of 7
+Article 8 of 8
 Title: What to know about COVID Eris: Variant spreading in the UK and US this summer
 Publisher: USA TODAY
 Trusted: False
 Posted: 5 days ago
-Summary: The article reports on a new COVID-19 variant, EG.5.1 (nicknamed Eris), which has been linked to a spike in hospitalizations in the UK and US. As of July 20, Eris accounts for 14.55% of cases in the UK and is growing at a rate of 20.51% per week. In the US, Eris has surpassed Arcturus as the most prevalent variant, with 17.3% of cases as of August 5. The variant has similar symptoms to Omicron, including runny or stuffy nose, headache, fatigue, sneezing, sore throat, coughing, and changes to sense of smell. The article also mentions an increase in COVID hospitalizations in the US (12.1% increase) and England (40.7% increase) over the summer months. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Growth rate of Eris variant (20.51% per week in the UK) Prevalence of Eris variant in the UK (14.55% of cases) and US (17.3% of cases) Increase in COVID hospitalizations in the US (12.1%) and England (40.7%) over the summer months Similar symptoms to Omicron, which may indicate similar hospitalization rates.
+The new variant Eris (EG.5.1) has been linked to a spike in hospitalizations overseas.
+In the U.K., Eris accounted for 14.55% of cases and grew at 20.51% per week as of July 20.
+In the U.S., Eris became the most prevalent variant, with 17.3% of cases in August.
+The U.S. and U.K. have seen increases in COVID hospitalizations over the summer months (12.1% increase in the U.S. and 40.7% increase in England).
+Symptoms of Eris are similar to Omicron, including runny or stuffy nose, headache, fatigue, etc.
+No specific information on Ontario, Canada is provided in the article, but it highlights the relevance of monitoring global trends for forecasting COVID-19 hospitalizations in Ontario.

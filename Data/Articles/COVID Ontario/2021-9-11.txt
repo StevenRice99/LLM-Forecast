@@ -1,29 +1,81 @@
-Below are 4 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
+Below are 6 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
-Article 1 of 4
+Article 1 of 6
 Title: Kingston, Ont., partygoers could now face $2K fine, public shaming
-Publisher: CBC.ca
+Publisher: CBC News
 Trusted: False
 Posted: 1 day ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada, as it highlights the following important values: Increasing cases in Kingston, Ont.: 29 cases reported over a week, up from 11 cases the previous week. Large gatherings without masks or distancing are contributing to the spread of COVID-19, particularly among young people in the university district. The potential for increased pressure on hospital staff and emergency response personnel due to these gatherings. The city's efforts to crack down on large parties with higher fines and public shaming may impact future gathering behavior and subsequently influence hospitalization rates. These values can be used to inform forecasting models, such as considering the impact of increased cases and gatherings on hospitalization rates, as well as the potential effects of policy interventions like increased fines and public shaming.
+Relevant values: 
+Case numbers in Kingston (29 new cases in one week)
+Increase in case numbers over time (up from 11 to 29 in one week)
+No reported COVID-19 hospitalizations in the Kingston area.
 
-Article 2 of 4
+Article 2 of 6
 Title: Meet the doctors walking Hamilton's streets offering COVID-19 vaccines to anyone who wants one
 Publisher: CBC.ca
 Trusted: False
 Posted: 1 day ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Vaccination rates: The article mentions that nearly 85% of eligible Canadians have received at least one dose of a COVID-19 vaccine, while in Hamilton, about 81% of the eligible population has been vaccinated with at least one shot. However, in one area of the city, only 59% of the total population, including those not eligible to receive the vaccine, received at least one shot. Delta variant: The article mentions the growth of the delta variant, which is highly contagious and may lead to increased hospitalizations. Underserved communities: The article highlights the efforts of two doctors who are taking to the streets to vaccinate underserved communities in Hamilton, particularly those experiencing homelessness. This suggests that there may be pockets of unvaccinated individuals in Ontario who are at higher risk of hospitalization. Trauma-informed approach: The article mentions that the doctors are using a trauma-informed approach to vaccinate individuals, which may help to increase vaccination rates in underserved communities. Vaccination targets: The article mentions that Ontario's COVID-19 science advisory table has suggested that more than 85% of the eligible population needs to be vaccinated to avoid a lockdown this fall due to the delta variant. Overall, this article suggests that while vaccination rates are high in Ontario, there may be pockets of unvaccinated individuals in underserved communities who are at higher risk of hospitalization. This information can be used to inform forecasting models of COVID-19 hospitalizations in Ontario.
+Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Delta variant growth
+Vaccination rate of at least 85% to prevent lockdown
+Current vaccination rates in Ontario (81% eligible population has been vaccinated with at least one shot)
+Hospitalization increases amid the fourth wave
 
-Article 3 of 4
+Article 3 of 6
 Title: Average cost for COVID-19 ICU patients estimated at more than $50,000: report
 Publisher: CBC News
 Trusted: False
 Posted: 2 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Summary: The average cost of treating a COVID-19 patient who needs intensive care in Canada is estimated at over $50,000. The average cost for patients being treated for COVID-19 is over $23,000, which is four times higher than a patient with influenza. COVID-19 patients remain in hospital for about 15 days, twice as long as the typical pneumonia patient. One out of every five COVID-19 patients dies in intensive care. The cost of COVID-19-related hospitalization in Canada, excluding Quebec, was estimated at nearly $1 billion between January 2020 and March 2021. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Length of stay in hospital (15 days) and ICU (21 days) High cost of treating COVID-19 patients, particularly those requiring intensive care Mortality rate in intensive care (1 in 5) Increasing costs over time (tripled between November 2020 and March 2021) These values can inform forecasting models by highlighting the resource-intensive nature of COVID-19 care, the potential for prolonged hospital stays, and the significant economic burden on the healthcare system.
+Key points:
+Average cost of treating a COVID-19 patient needing intensive care: $50,000
+Length of stay in ICU: 21 days on average
+Hospitalization duration: 15 days (twice as long as typical pneumonia patients)
+Mortality rate in ICU: 1 in 5 patients die
+Total estimated cost of COVID-19-related hospitalizations in Canada (excluding Quebec): nearly $1 billion between Jan 2020 and March 2021
 
-Article 4 of 4
+Article 4 of 6
+Title: The Impact of the COVID-19 Pandemic on Opioid-Related Harm in Ontario
+Publisher: Ontario COVID-19 Science Advisory Table
+Trusted: True
+Posted: 3 days ago
+The provided text appears to be a scientific brief on addressing the opioid crisis in Ontario, Canada, particularly during the COVID-19 pandemic. Here's a breakdown of the main points:
+Key Points: 
+1. Opioid-related harm: Rates of fatal overdose and other opioid-related harms have increased significantly during the COVID-19 pandemic.
+2. Targeted interventions: Strategies to minimize opioid-related harm include:
+Less restrictive OAT (opioid agonist treatment) regulations
+Increased access to harm reduction services, such as supervised consumption sites, in shelters and emergency settings
+Addressing stigma in healthcare systems
+Improving upstream social determinants of health (SDOH)
+3. Disproportionately affected populations: Rural and Northern communities, people experiencing poverty or homelessness, those incarcerated, and BIPOC (Black, Indigenous, People of Color) communities have been disproportionately impacted by opioid-related harm.
+4. Gaps in data capabilities: There are gaps in provincial data on opioid-related harms for specific subgroups, such as racialized or marginalized communities.
+5. Collaboration and coordination: A coordinated effort among service providers, researchers, and government is necessary to address the overdose crisis, prioritizing harm reduction during a time of disruption.
+Methods: 
+The brief cites various sources, including:
+1. Opioid-related mortality data from the Office of the Chief Coroner for Ontario
+2. Reports from the Ontario Drug Policy Research Network (2020) and Public Health Ontario (2021)
+3. Data on other opioid-related harms from the Canadian Institute for Health Information (2021) and Public Health Agency of Canada (2021)
+4. Search results from PubMed, Google Scholar, COVID-19 Rapid Evidence Reviews, and grey literature sources
+Overall, this brief highlights the urgent need to address the opioid crisis in Ontario, particularly during the pandemic, and emphasizes the importance of targeted interventions, collaboration, and data-driven decision-making to mitigate its impact.
+
+Article 5 of 6
+Title: Canadian hospitals spend $23,000 on typical COVID-19 patient, report finds
+Publisher: CTV News
+Trusted: False
+Posted: 3 days ago
+Relevant.
+Average cost per hospitalization: $23,000
+Average hospital stay: 15 days
+1 in 4 hospitalized patients are ICU-admitted
+1 in 5 die in facility (mortality rate)
+
+Article 6 of 6
 Title: Canada has opened up its borders to fully vaccinated foreign travellers. Are there risks?
 Publisher: CBC News
 Trusted: False
 Posted: 3 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Canada is currently in the midst of a fourth wave of COVID-19, fueled by the delta variant, with most cases and hospitalizations among the unvaccinated. Fully vaccinated foreign travelers are allowed to enter Canada without a 14-day quarantine requirement, but must have a negative COVID-19 test within 72 hours of their scheduled flight or arrival at a land border crossing. The border test positivity rate for COVID-19 has remained low, with a 0.19% positivity rate for fully vaccinated travelers randomly selected for testing at border crossings between Aug. 9 and 26. Experts express concern that the open border policy was formulated in early July, when the delta variant wasn't as prevalent in Canada, and that fully vaccinated people can still be infected and transmit the virus. The full rate of breakthrough cases is still unknown, and experts emphasize the importance of focusing on the domestic situation and getting more vulnerable Canadians vaccinated. These points highlight the ongoing risk of COVID-19 transmission in Ontario, Canada, particularly among the unvaccinated, and the potential risks associated with allowing fully vaccinated foreign travelers to enter the country. The article also emphasizes the importance of monitoring the situation and adjusting policies as needed to mitigate the spread of the virus.
+The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here's a brief summary:
+The province of Ontario is currently in the midst of a fourth wave of COVID-19.
+Most cases and hospitalizations are among the unvaccinated population.
+Low test positivity rate at border crossings (0.19% for fully vaccinated travellers between Aug 9-26).
+Fully vaccinated foreign travellers will still pose some risk, but it's considered low due to testing and vaccination requirements.
+The focus should be on eliminating domestic cases rather than worrying about imported variants.

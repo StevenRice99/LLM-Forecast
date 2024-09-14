@@ -1,29 +1,119 @@
-Below are 4 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
+Below are 9 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
-Article 1 of 4
-Title: Who is eligible for a COVID-19 vaccine in Ontario and how can they book a shot?
-Publisher: CTV News Toronto
+Article 1 of 9
+Title: Sturdier spike protein may explain coronavirus variants' faster spread: study
+Publisher: CTV News
+Trusted: False
+Posted: Today
+Relevant.
+The article is relevant because it discusses the D614G mutation, a fast-spreading coronavirus variant that originated in the UK, South Africa, and Brazil. The study found that this variant has a more stable spike protein that makes it more contagious, but also less binding with humans' ACE2 receptors. This information could be useful for forecasting COVID-19 hospitalizations in Ontario, Canada, as it provides insights into the transmissibility and virulence of new variants.
+
+Article 2 of 9
+Title: Sudbury hospital scaling back services as COVID patient numbers surge
+Publisher: CTV News Northern Ontario
 Trusted: False
 Posted: 1 day ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Starting Monday, residents aged 75 and older can schedule a COVID-19 vaccine appointment through the provincial booking portal. Pharmacies in certain regions will offer the Oxford-AstraZeneca shot by appointment to those 60 and older. The National Advisory Committee on Immunization has changed its guidelines to allow the Oxford-AstraZeneca shot to be used on those aged 65 and older, citing studies from the U.K. that found significant effectiveness against symptomatic COVID-19 and reduced hospitalizations due to COVID-19 among seniors. The province plans to expand the pharmacy program to more than 700 sites over the next two weeks and to 1,500 pharmacies across the province by the end of April. Certain family physicians in six regions will offer Oxford-AstraZeneca shots to patients aged 60 and up. These developments are likely to increase vaccine uptake among older adults, who are at higher risk of severe illness and hospitalization due to COVID-19. This could lead to a reduction in COVID-19 hospitalizations in Ontario, Canada in the coming weeks and months.
+Number of COVID-19 patients currently being treated at Health Sciences North: 21
+Number of patients waiting for test results: 40 (1 in ICU)
+Hospital's surge planning capacity:
++ Up to 92 critical care beds for an extreme situation
++ 65 COVID-19-positive patients in isolation
++ Remaining beds for non-COVID patients needing critical care
 
-Article 2 of 4
+Article 3 of 9
+Title: Doctors say getting COVID-19 poses much bigger risk of blood clots
+Publisher: CTV News
+Trusted: False
+Posted: 1 day ago
+RELEVANT.
+Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Incidence of blood clots (cerebral sinus vein thrombosis) in people hospitalized with COVID-19: about 1 in 20
+Incidence of blood clots in patients with COVID-19 not hospitalized: about 1 in 100
+
+Article 4 of 9
+Title: City says 20,000 Ottawa residents over 80 booked vaccinations this week
+Publisher: CTV News Ottawa
+Trusted: False
+Posted: 1 day ago
+20,000 Ottawa residents aged 80 and older have booked vaccine appointments.
+Over 3,700 people received their first dose of the vaccine at a community clinic in the last week.
+Vaccine doses administered in Ottawa: 87,737 as of Friday.
+
+Article 5 of 9
 Title: Mobile On-Site COVID-19 Vaccination of Naturally Occurring Retirement Communities by Neighbourhood Risk in Toronto
 Publisher: Ontario COVID-19 Science Advisory Table
 Trusted: True
 Posted: 3 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. The study focuses on identifying Naturally Occurring Retirement Communities (NORCs) in the City of Toronto, which are high-density residential settings with a high proportion of older adults. The analysis highlights that 58.5% of older adults living in NORCs reside in neighborhoods with high SARS-CoV-2 incidence, making them a priority for targeted vaccination efforts. The study suggests that mobile on-site vaccination in NORCs could be an efficient and equitable approach to protecting those at highest risk of COVID-19 hospitalization, morbidity, and mortality. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: 489 NORCs identified in the City of Toronto, home to 70,013 older adults (65 years and above) 256 NORCs (52.4%) located in Ontario's top 30% of neighborhoods with the highest cumulative SARS-CoV-2 incidence 40,955 older adults (58.5% of all older adults in NORCs) reside in high SARS-CoV-2 incidence neighborhoods 18,144 older adults (aged 80 years and above) reside in high SARS-CoV-2 incidence neighborhoods Targeted vaccination efforts in NORCs could prevent COVID-19 hospitalizations and deaths Mobile on-site vaccination in NORCs is a feasible and practical approach to reach high-risk populations.
+This text discusses a strategy for vaccinating residents in Neighborhoods of Risk (NORCs) during the COVID-19 pandemic. NORCs are high-density residential areas with a high concentration of older adults and other vulnerable populations. The approach involves mobile on-site vaccination teams, community outreach, and collaboration with healthcare providers.
+Key points:
+Mobile on-site vaccination has been demonstrated to be practical and feasible in certain settings.
+Outreach efforts are necessary to plan a vaccination initiative, as many NORCs have no existing relationship with the healthcare system.
+Door-to-door vaccination may be necessary due to physical infrastructure limitations in some NORCs.
+Collaboration with healthcare providers such as community paramedics who are familiar with the NORC environments will be beneficial.
+The mobile on-site vaccination team needs to be coordinated and divided into smaller units responsible for different floors, with each unit consisting of vaccinator(s) and volunteers/other staff.
+Potential barriers to vaccine uptake should be considered, including language barriers and support in completing consent forms.
+When vaccinating a NORC, the entire building should be considered for vaccination (not just older adults), since many are mix-aged communities where residents are heavily intertwined and interactions between people within buildings are high.
+The proposed approach could also be applied to other communities living in large tower blocks and buildings ("vertical" communities) or other high-density living environments situated in high SARS-CoV-2 risk neighborhoods, which would further advance uptake of COVID-19 vaccines in Ontario's hot spots.
+The approach may provide a roadmap for a broader re-imagining of service delivery that supports aging in place.
 
-Article 3 of 4
-Title: Ontario logs fewer than 1,100 new COVID-19 cases, positivity rate jumps above 4 per cent
-Publisher: CTV News Toronto
-Trusted: False
-Posted: 4 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: The daily case count in Ontario has been over 1,000 for 10 consecutive days, with a rolling seven-day average of 1,333 cases. The positivity rate has jumped to 4.5%, indicating an increase in the spread of the virus. Hospitalizations have increased from 699 to 761 in the last 24 hours, with 292 patients in the intensive care unit and 194 requiring a ventilator. The number of variant mutations has increased, with 501 new cases reported, bringing the total to 9,131 confirmed variants. The majority of new cases are from Toronto, Peel Region, and York Region, which are the province's biggest hotspots. Vaccination efforts continue, with over 51,500 doses administered in the last 24 hours, and a total of 1,243,123 doses administered to date. These values are important for forecasting COVID-19 hospitalizations in Ontario, Canada, as they indicate an increase in the spread of the virus, hospitalizations, and variant mutations, which can inform predictions about future hospitalization rates and healthcare system capacity.
-
-Article 4 of 4
+Article 6 of 9
 Title: Ontario reports 1,268 new COVID-19 cases, including 10 in greater Kawarthas region
 Publisher: kawarthaNOW.com
 Trusted: False
 Posted: 5 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the key points: Ontario reported 1,268 new COVID-19 cases, with a 7-day average of 1,350 cases, which is a decrease of 51 from the previous day. The R(t) value for variants of concern has increased by 0.12 to 1.41. Hospitalizations have increased by 98 to 699, with 298 patients in ICU and 187 on ventilators. The positivity rate has increased by 0.7% to 3.8%. There are 110 new cases in Ontario schools and 32 new cases in licensed child care settings. The number of active cases in the greater Kawarthas region has decreased by 9 to 99. The article also provides data on vaccination efforts, with 1,191,553 doses administered and 287,283 people fully vaccinated (1.95% of Ontario's population). The values most important for forecasting COVID-19 hospitalizations in Ontario, Canada are: The 7-day average of daily new cases (1,350) The R(t) value for variants of concern (1.41) Hospitalizations (699) ICU admissions (298) Ventilator usage (187) Positivity rate (3.8%) Vaccination efforts (1,191,553 doses administered and 287,283 people fully vaccinated)
+Here's a summary of the COVID-19 situation in the Kawartha Lakes and surrounding regions, based on the provided reports:
+Haliburton County: 
+7 confirmed cases (no change)
+1 probable case (no change)
+3 high-risk contacts (no change)
+3 hospitalizations (decrease of 1 from previous report, but this report mentions an increase of 1 in Kawartha Lakes; exact reason unclear)
+1 death (no change)
+Kawartha Lakes: 
+17 confirmed cases (increase of 2)
+1 probable case (no change)
+154 high-risk contacts (increase of 41)
+29 hospitalizations (increase of 1)
+55 deaths (no change)
+506 resolved cases (increase of 5)
+Northumberland County: 
+17 confirmed cases (decrease of 2)
+No probable cases reported
+41 high-risk contacts (no change)
+17 hospitalizations (no change)
+12 deaths (no change)
+439 resolved cases (increase of 3)
+
+Article 7 of 9
+Title: Kingston region residents over 80 can begin booking COVID-19 vaccine appointments on Monday
+Publisher: CTV News Ottawa
+Trusted: False
+Posted: 6 days ago
+Key values: 
+Vaccine rollout schedule (start date and duration) 
+Eligible age group (80+ years)
+Expected vaccine supply limitations
+Availability of mass immunization clinics and other vaccination sites
+
+Article 8 of 9
+Title: COVID-19 might have been in Canada earlier than when it was first identified: expert
+Publisher: CTV News
+Trusted: False
+Posted: 7 days ago
+Values most important for forecasting:
+Travel patterns of those carrying COVID-19
+Early warning systems for public health threats
+Timing and effectiveness of border restrictions
+Availability of personal protective equipment (PPE)
+Public messaging on physical distancing, hygiene, and mask-wearing
+
+Article 9 of 9
+Title: A new COVID-19 side effect? Some patients are developing sudden onset diabetes
+Publisher: CTV News
+Trusted: False
+Posted: 7 days ago
+14% of COVID-19 patients may develop sudden onset diabetes (approximate rate)
+COVID-19 hospitalization increases risk of developing diabetes
+Steroids used to treat COVID-19 (e.g., Dexamethasone) may contribute to increased sugar levels and diabetes
+The virus itself may damage pancreatic cells or affect glucose metabolism
+Sudden-onset diabetes after COVID-19 infection may be a novel condition featuring both Type 1 and Type 2 diabetes symptoms
+Relevance: RELEVANT

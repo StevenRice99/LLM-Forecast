@@ -1,7 +1,43 @@
-Below is a news article from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
+Below are 4 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
+Article 1 of 4
+Title: Fewer than 200 new COVID-19 cases in Ontario for first time in nearly 10 months
+Publisher: CityNews
+Trusted: False
+Posted: 3 days ago
+Here is a brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+There were 271 people in the ICU with COVID-19 complications and 181 ICU patients on a ventilator.
+The number of ICU patients has dropped to the lowest point since December.
+COVID-19 hospitalization metrics are critical for forecasting.
+
+Article 2 of 4
+Title: Province reports 299 new COVID-19 cases and 25 more deaths on Tuesday; some cases part of a data catch-up
+Publisher: durhamradionews.com
+Trusted: False
+Posted: 4 days ago
+Summary: The article reports on 299 new COVID-19 cases and 25 deaths in Ontario. Key values include:
+257 people are currently in hospitals due to COVID-19
+276 people are in the ICU
+28,306 tests were completed the previous day with a positivity rate of 1.6%
+There are 11,990 tests still under investigation
+
+Article 3 of 4
 Title: Why reports of COVID-19 infections after 2 vaccine doses aren't cause for alarm
 Publisher: CBC.ca
 Trusted: False
 Posted: 5 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Summary: Breakthrough infections (COVID-19 cases among fully vaccinated individuals) are rare, making up around 0.5% of reported COVID-19 cases in Canada since vaccination efforts began. When post-vaccination infections do occur, they tend to be mild. Experts stress that while no vaccine offers perfect protection, the relatively infrequent examples of serious infections after full vaccination show that vaccines are indeed doing their job. The article highlights the importance of vaccination in preventing severe illness and hospitalization, with data showing that fully vaccinated individuals are less likely to die from COVID-19. The article also notes that breakthrough infections are more likely to be mild and not put a strain on the healthcare system. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: 0.5%: The percentage of reported COVID-19 cases in Canada since vaccination efforts began that are breakthrough infections. 2,731: The number of cases of COVID-19 among fully vaccinated individuals reported in Canada's national data set as of June 21. 0.0027%: The percentage of partially vaccinated individuals who died from COVID-19. 0.0018%: The percentage of fully vaccinated individuals who died from COVID-19. 34 million: The number of vaccine doses administered in Canada to date.
+There are several points in this article relevant for forecasting COVID-19 hospitalizations in Ontario, Canada:
+The rate of breakthrough infections (0.5% of reported cases) among fully vaccinated individuals.
+The severity of breakthrough infections: most were mild, and only a small fraction led to hospitalization or death.
+The importance of vaccination rates on population-level protection from severe COVID-19 outcomes.
+The need for strong public health messaging to address vaccine hesitancy and ensure marginalized communities receive timely access to vaccinations.
+
+Article 4 of 4
+Title: Canadians set up support group for kids with long haul COVID-19, ask for more research
+Publisher: CTV News
+Trusted: False
+Posted: 6 days ago
+Key values highlighted:
+Prevalence of long-haul COVID-19 in children: 50,000 kids (0-19) experienced long COVID at 12 weeks out of 617,000 tested positive.
+Symptoms: shortness of breath, chest pain, fatigue, and other issues can lead to hospitalizations.
+Lack of understanding among doctors in Canada about this condition, with few specialists focused on it.

@@ -1,15 +1,66 @@
-Below are 2 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
+Below are 6 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
-Article 1 of 2
-Title: Anxious times for teachers as fall classroom return looms — without a plan
-Publisher: CBC.ca
+Article 1 of 6
+Title: Third straight day of double-digit COVID-19 cases in Ottawa
+Publisher: CTV News Ottawa
+Trusted: False
+Posted: Today
+Key values for forecasting: 
+64 active cases of COVID-19 in Ottawa
+3 people in Ottawa area hospitals with COVID-19 related illnesses (2 in ICU)
+Positivity rate in Ottawa (July 30 to Aug.5): 0.7 per cent
+Reproduction number (seven day average): 1.15
+
+Article 2 of 6
+Title: Active COVID-19 numbers in Quebec continue to rise, but hospitalizations and ICU cases drop
+Publisher: CTV News Montreal
+Trusted: False
+Posted: 1 day ago
+RELEVANT.
+No COVID-19 hospitalizations or deaths in Quebec.
+Hospitalizations in Ontario, Canada are not directly mentioned but could be influenced by neighboring provinces' trends.
+Quebec's vaccination campaign and vaccine uptake rates may have implications for COVID-19 transmission dynamics and hospitalization rates in Ontario, Canada.
+
+Article 3 of 6
+Title: Doug Ford's daughter shares anti-vax message on social media
+Publisher: Daily Hive
+Trusted: False
+Posted: 2 days ago
+Relevant.
+Total COVID-19 vaccine doses administered in Ontario: 19,710,224
+COVID-19 cases in Ontario: 551,338
+Deaths from COVID-19 in Ontario: 9,374
+
+Article 4 of 6
+Title: Major Ontario city has no COVID-19 patients in intensive care for first time during pandemic
+Publisher: CTV News Toronto
+Trusted: False
+Posted: 3 days ago
+Peel Region (Brampton) has:
+Zero ICU patients with COVID-19
+Approximately 59.5% of all COVID-19 cases in the region
+Nearly 112,000 lab-confirmed cases and 110,982 recoveries to date
+Over 3,200 patients treated for COVID-19 in hospitals and 478 admitted to ICUs since January 2020
+
+Article 5 of 6
+Title: Ontario releases 2021 school plan; field trips, assemblies and extracurriculars to resume
+Publisher: CP24
 Trusted: False
 Posted: 4 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada, as it discusses the upcoming school year and the potential risks associated with the return to in-person learning. Key points relevant to forecasting COVID-19 hospitalizations include: The Ontario government's goal to have 90% of students vaccinated, which could impact hospitalization rates. The potential for a fourth wave of COVID-19 cases in the fall, which could lead to increased hospitalizations. The importance of public health precautions, such as mask-wearing and social distancing, in preventing the spread of COVID-19 in schools. The need for improved ventilation systems in schools to reduce the risk of transmission. The potential for a "two-tiered education system" for students who are vaccinated and those who are not, which could impact hospitalization rates. These factors could all impact the number of COVID-19 hospitalizations in Ontario, particularly among children and young adults.
+Relevant article.
+Key points:
+Secondary students will return to school 5 days a week in September, marking the first time since the pandemic began.
+Students in Grades 1-12 will be required to wear masks indoors.
+Cohorting model will continue at elementary schools with "as much distancing as possible" between students.
+Inter-school sports and music programming will resume with some restrictions.
 
-Article 2 of 2
-Title: Alberta’s chief medical officer may be left to pay the COVID piper
-Publisher: Canada's National Observer
+Article 6 of 6
+Title: Banner Health leader warns about COVID trends in Valley hospitals
+Publisher: ABC15 Arizona in Phoenix
 Trusted: False
 Posted: 4 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Summary: The article discusses Alberta's decision to lift most COVID-19 restrictions, including isolation requirements for close contacts and masking mandates, despite having low vaccination rates and the presence of the Delta variant. In contrast, Ontario will continue with its current approach to keep citizens safe. The article highlights the concerns of experts, including the former Alberta chief medical officer of health, about the potential for a fourth wave in Alberta due to the low vaccination rates and the Delta variant. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Vaccination rates: The article highlights the low vaccination rates in Alberta, which could lead to a higher risk of hospitalizations. Presence of the Delta variant: The article mentions the Delta variant's high infectiousness and its potential to lead to more hospitalizations, especially in areas with low vaccination rates. Public health measures: The article discusses the importance of maintaining public health measures, such as isolation requirements and masking mandates, to prevent the spread of the virus and reduce hospitalizations. Government policies: The article highlights the differences in approach between Alberta and Ontario, with Ontario continuing to prioritize caution and Alberta lifting most restrictions. This could impact hospitalization rates in Ontario.
+Increase in COVID-19 hospitalizations by 95% since start of July
+Ventilator usage up by 300%
+Similar exponential growth to previous large surges (July and January)
+High percentage (46%) of unvaccinated population is relevant for forecasting COVID-19 hospitalizations
+Age distribution: pediatric patients make up 5% of hospital admissions in the past month

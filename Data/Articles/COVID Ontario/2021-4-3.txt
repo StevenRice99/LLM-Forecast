@@ -1,71 +1,102 @@
-Below are 10 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
+Below are 8 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
-0
-Title: Stay-at-home order will control third wave, Ontario science advisers say
-Publisher: Cranbrook Townsman
+Article 1 of 8
+Title: Situation in Ontario ICUs like a never-ending 'fire' amid COVID-19 3rd wave, says nurse
+Publisher: CBC.ca
 Trusted: False
-Posted: 2 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the key points: COVID-19 hospitalizations have increased by over 40% in the past two weeks. The Ontario Science Advisory Table suggests that stay-at-home orders can control the third wave of COVID-19, driven by rising rates of variants of concern. Short-term case projections depend on public health measures and vaccination rates. The province's vaccine rollout is not effectively reaching high-risk communities, delaying its impact. The spread of variants threatens the health system's ability to handle regular intensive care admissions and care for all patients. Important values for forecasting COVID-19 hospitalizations in Ontario, Canada: 40% increase in hospitalizations over the past two weeks Rising rates of variants of concern Vaccination rates Effectiveness of public health measures (e.g. stay-at-home orders) Vaccine rollout in high-risk communities
+Posted: Today
+Current ICU admissions: 451 patients
+Projected ICU admissions: likely to top 800 this month
+Variants lead to greater hospitalizations and ICU occupancy, particularly among younger people
+Provincewide "emergency brake" shutdown announced, with increased restrictions on gatherings and activities.
 
-Article 2 of 10
+Article 2 of 8
+Title: As Canadian Border Remains Closed, Ontario Enters COVID Shutdown
+Publisher: Spectrum News
+Trusted: False
+Posted: 1 day ago
+Starting Saturday, Ontario will enter a 4-week shutdown due to rising case numbers and hospitalizations from variants.
+COVID-19 hospitalizations are increasing across Western New York as well.
+Vaccine uptake is expected to continue in Ontario, with adults likely getting at least one dose by July.
+
+Article 3 of 8
 Title: Hospitals facing 'fragile situation' as COVID-19 cases climb
 Publisher: CBC.ca
 Trusted: False
 Posted: 2 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the key points: As of Wednesday, there were 40 COVID-19 hospitalizations in Ottawa, with 11 in ICU, up from 27 and 6 two weeks prior. Ottawa's hospitals are at 100% capacity, and health officials are concerned about the rising number of hospitalizations, particularly among younger people. The number of hospitalizations is expected to rise due to the spread of more contagious and serious coronavirus variants. 50% of Ottawa's current cases are variants of concern, and a smaller share are in hospital. Younger people are being hospitalized, with 30% of total hospitalizations being people under 60, including 123 people in their 50s, 54 people in their 40s, and 46 people in their 30s. The city is still in the process of vaccinating residents aged 70 and older, and it may take months to reach younger age groups. These values are important for forecasting COVID-19 hospitalizations in Ontario, Canada, as they indicate a rising trend in hospitalizations, particularly among younger people, and a potential strain on hospital capacity.
+Key points:
+As of Wednesday, there were 40 Ottawa residents hospitalized with COVID-19 (11 in ICU), up from 27 and 6 two weeks ago.
+Intensive care admissions hit an all-time high across Ontario this week.
+Younger people are being hospitalized, with 30% of hospitalizations under the age of 60.
+Variants of concern are now a high proportion of new infections (50% in Ottawa).
+Hospital capacity is at 100%.
+There are plans to transfer patients between hospitals or share staff.
 
-Article 3 of 10
-Title: Doctors urge Ontario to rethink ICU capacity as key lockdown indicator
-Publisher: CTV News
-Trusted: False
-Posted: 2 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. The article highlights the following key points: 1. ICU occupancy in Ontario has hit a record high, with 430 COVID-19 patients in ICU beds. 2. The variants of concern are driving the third wave of the pandemic, leading to more severe cases and increased hospitalizations. 3. The number of patients requiring ICU care is doubling with each individual infection, and the patients ending up in hospital and ICUs are younger. 4. The impact of the virus has been disproportionate, infecting those with highest exposure risk, commonly from lower-income and racialized communities. 5. The situation is untenable, even with unlimited ICU beds, as allowing the variants to spread exponentially is unethical. 6. The lack of properly trained nurses and doctors to staff ICU beds and tend to patients is a major concern. 7. Important supplies, such as tocilizumab, are beginning to run low, and rationing may be necessary. These points suggest that the current situation in Ontario is critical, and new public health measures are required to curb the spread of the virus and prevent further hospitalizations. The article provides valuable insights for forecasting COVID-19 hospitalizations in Ontario, Canada, and highlights the need for immediate action to address the crisis.
-
-Article 4 of 10
-Title: Quebec and Ontario in talks to standardize COVID-19 rules across Ottawa-Gatineau region
-Publisher: CTV News Montreal
-Trusted: False
-Posted: 4 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada, as it discusses the situation in the Ottawa-Gatineau region, which is located on the border of Ontario and Quebec. Key points relevant to forecasting COVID-19 hospitalizations in Ontario include: The Outaouais region, which includes Gatineau, has seen a significant increase in COVID-19 cases, with 84 new cases on Monday and 57 new cases on Tuesday. The region is currently under a 9:30 p.m. nightly curfew and has strict rules for restaurants, but the Quebec government is considering tighter rules, including an earlier curfew. The Outaouais region has low hospital capacity, which increases concerns about hospitalizations. The Quebec government is discussing standardizing COVID-19 rules with the Ontario government to address the situation in the Ottawa-Gatineau region. The article mentions that the most important number to the province is not new cases, but hospitalizations, and especially predicted hospitalizations. These points suggest that the situation in the Ottawa-Gatineau region could have implications for COVID-19 hospitalizations in Ontario, particularly if the Quebec government implements tighter rules or if there is increased transmission across the border.
-
-Article 5 of 10
-Title: Ontario reports more than 2,300 new COVID-19 cases as hospitalizations spike
+Article 4 of 8
+Title: Ontario reports more than 2300 new COVID-19 cases as ICU numbers reach record high
 Publisher: CTV News Toronto
 Trusted: False
-Posted: 4 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting the most important values: New cases: 2,336 (sixth consecutive day above 2,000) COVID-19 positivity rate: 6.2% (increase of 0.1% from the previous day) Hospitalizations: 1,090 patients (highest since February 4) ICU patients: 387 (with 249 on ventilators) Seven-day average cases: 2,207 (up from 1,667 a week ago) Variants of concern: 67% of lab-confirmed cases (with a higher likelihood of hospitalization and death) Vaccinations: 313,889 people fully vaccinated, with over 2.1 million doses administered These values indicate a concerning trend of increasing cases, hospitalizations, and ICU admissions, which may lead to a surge in COVID-19 hospitalizations in Ontario, Canada. The spread of variants of concern and the current vaccination rate are also important factors to consider in forecasting hospitalizations.
+Posted: 3 days ago
+Key values for forecasting:
+Current number of ICU patients with COVID-19: 421
+Daily admissions to ICUs: 32 (yesterday's record was 46)
+Seven-day average cases recorded: 2,316
+Province's positivity rate: 4.8%
 
-Article 6 of 10
-Title: Opposition slams Ford government for letting third COVID-19 wave 'spiral out of control'
-Publisher: CTV News Toronto
+Article 5 of 8
+Title: Ford government applying emergency brake to place Ontario in month-long shutdown: sources
+Publisher: CP24
+Trusted: False
+Posted: 3 days ago
+This article reports on the dire situation with COVID-19 cases in Ontario, Canada. The main points are:
+According to a report by the Central East Region of the Canadian Society of Intensive Care Medicine (CCSO), there are currently over 400 patients in intensive care units across the region, with many more expected.
+At Humber River Hospital's Wilson campus, 43 patients are being treated for COVID-19 in the ICU, with 24 of them having severe cases. Similarly, at Markham Stouffville Hospital, half of the 24 ICU patients have COVID-19.
+Cortellucci Vaughan Hospital is using its ICU to exclusively treat COVID patients and has 32 out of 35 available beds filled.
+Dr. Nathan Warner from Michael Garron Hospital warns that if new restrictions are not implemented soon, the number of COVID patients in ICUs could top 500.
+NDP Leader Andrea Horwath says another lockdown is inevitable at this point due to the government's failure to act on advice from science experts.
+The president of the Ontario Hospital Association (OHA), Anthony Dale, describes the situation as "the biggest health-care crisis" in modern Ontario history. He warns that if more than 2,000 ICU patients are reached, there would be a historic mobilization of healthcare workers to staff critical care beds, leading to widespread cancellations of elective or scheduled surgery.
+Dale also notes that hospitals may struggle to maintain quality care for critically ill patients due to staffing levels and other factors.
+
+Article 6 of 8
+Title: 'Don't make plans for Easter': Ford hints at restrictions as Ontario sees 2,336 new COVID-19 cases
+Publisher: CBC.ca
 Trusted: False
 Posted: 4 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting values most important for forecasting: New COVID-19 infections and hospitalizations are surging in Ontario, with 410 COVID ICU patients and 46 new patients since the previous day, a one-day record. Variants of concern are having a "substantial impact" on the healthcare system, driving a rise in hospitalizations involving younger people. The province reported its highest number of COVID-19-related hospitalizations since early February. 58 schools are currently closed due to COVID-19 outbreaks, with 518 new cases reported in schools in the previous 24-hour period. These values suggest an increasing trend in COVID-19 hospitalizations, particularly among younger people, and a growing impact on the healthcare system, which can inform forecasting models.
+46 new ICU admissions reported (total: 410)
+Peak ICU admissions at 420 in mid-January
+Average critical care duration: 2 weeks
+Variants account for 68% of all new cases
+Positivity rate: 6.2%
+7-day average daily cases: 2,207 (highest since January 26)
 
-Article 7 of 10
+Article 7 of 8
 Title: COVID-19 Hospitalizations, ICU Admissions and Deaths Associated with the New Variants of Concern
 Publisher: Ontario COVID-19 Science Advisory Table
 Trusted: True
 Posted: 5 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Summary: The article discusses the third wave of the COVID-19 pandemic in Ontario, Canada, which began around March 1, 2021. The dominant variant of concern (VOC) in Ontario is the B.1.1.7 variant, which is at least 40% more transmissible than early variants of SARS-CoV-2. The article presents data from a retrospective cohort study of 26,314 people in Ontario who were PCR-positive for SARS-CoV-2 between February 7 and March 11, 2021. The study found that infections due to VOCs were associated with a 62% relative increase in COVID-19 hospitalizations, a 114% relative increase in ICU admissions, and a 40% relative increase in COVID-19 deaths. The article also presents data from a meta-analysis of cohort studies in Ontario, the United Kingdom, and Denmark, which found that people infected with VOCs had a 63% higher risk of hospitalization, a doubling of the risk of ICU admission, and a 56% higher risk of all-cause death. The article notes that the risk increase is particularly pronounced 14 to 28 days after a diagnosis of SARS-CoV-2 infection, which will result in delays until the full burden to the health care system becomes apparent. As of March 28, 2021, hospital occupancy was 21% higher and ICU occupancy was 28% higher than at the start of the province-wide lockdown on December 26, 2020. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: 62% relative increase in COVID-19 hospitalizations associated with VOCs 114% relative increase in ICU admissions associated with VOCs 40% relative increase in COVID-19 deaths associated with VOCs 63% higher risk of hospitalization associated with VOCs (from meta-analysis) Doubling of the risk of ICU admission associated with VOCs (from meta-analysis) 56% higher risk of all-cause death associated with VOCs (from meta-analysis) 21% higher hospital occupancy as of March 28, 2021, compared to December 26, 2020 28% higher ICU occupancy as of March 28, 2021, compared to December 26, 2020
+This Science Brief discusses the impact of new Variants of Concern (VOCs) of SARS-CoV-2 on COVID-19 outcomes in Ontario, Canada. Here's a summary of the key findings:
+1. Increased risk of hospitalization: New VOCs are associated with a 103% increase in the risk of hospitalization due to COVID-19 compared to early variants.
+2. Increased risk of ICU admission: The new VOCs have led to a 63% increase in the risk of ICU admission, indicating more severe disease.
+3. Increased risk of death: The new VOCs are associated with a 56% increase in the risk of death due to COVID-19.
+4. Higher hospital and ICU occupancy: As of March 28, 2021, hospital occupancy was 21% higher and ICU occupancy 28% higher than at the start of the province-wide lockdown on December 26, 2020.
+5. Shift in age distribution: Patients aged 59 years and younger now account for 46% of new COVID-19 admissions to ICUs, up from 30% in the week prior to the lockdown.
+The analysis suggests that the new VOCs have led to a more severe disease course and increased burden on the healthcare system. The study used a retrospective cohort design, analyzing cases reported between February 7 and March 11, 2021, with a focus on individuals tested for VOCs. The findings are based on data from Ontario, Canada, but the implications may be relevant to other regions as well.
+The study's methods included:
+A retrospective cohort study using cases of SARS-CoV-2 infection reported in CCM/iPHIS
+Exclusion of long-term care residents due to high vaccination rates and low likelihood of severe disease
+Logistic regression models to evaluate associations between VOC SARS-CoV-2 infection and COVID-19 outcomes
+Inverse-variance fixed-effects meta-analysis to combine adjusted estimates from individual studies
+The study's findings highlight the importance of continued surveillance, preparedness, and adaptation in response to emerging variants of concern.
 
-Article 8 of 10
+Article 8 of 8
 Title: New data shows COVID-19 pandemic now 'completely out of control' in Ontario, key scientific adviser says
 Publisher: CBC.ca
 Trusted: False
 Posted: 5 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: New daily infections have reached the same number as at the height of the second wave. The number of people hospitalized is now 21% higher than at the start of the last province-wide lockdown. ICU occupancy is 28% higher. Variants of concern now account for 67% of all SARS-CoV-2 infections in Ontario, which are associated with a more than 60% increased risk of hospitalization, a doubled risk of admission to intensive care, and a 56% increased risk of death. The percentage of COVID-19 patients in ICUs who are younger than 60 is about 50% higher. Experts warn that a widespread lockdown, coupled with other measures such as paid sick leave and encouraging Ontarians to avoid movement between regions, is necessary to prevent a dire scenario from unfolding over the next few weeks. These values suggest a significant increase in COVID-19 hospitalizations in Ontario, Canada, and highlight the need for urgent action to prevent further spread of the virus.
-
-Article 9 of 10
-Title: COVID-19 variants already having 'substantial impact' on Ontario health-care system, report finds
-Publisher: CTV News Toronto
-Trusted: False
-Posted: 5 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting values most important for forecasting: Hospitalizations are 21% higher than when Ontario entered a province-wide lockdown in December. Variants of concern account for 67% of all cases in the province and are associated with: + 63% increased risk of hospitalization + 103% increased risk of ICU admission + 56% increased risk of death Younger people (under 50) are being hospitalized at a higher rate, with 46% of new ICU admissions involving people aged 59 or younger. There are currently 382 people receiving treatment for COVID-19 in intensive care in Ontario hospitals, approaching the second wave peak of 400. Case counts are surging, with the number of new cases, hospital and ICU occupancy surpassing prior thresholds seen at the start of the province-wide lockdown on December 26, 2020. The report warns that the new variants will result in a "considerably higher burden" to the health care system than was observed during the second wave, with significant delays until the full burden becomes apparent (14-28 days after diagnosis). These values can inform forecasting models to predict the potential increase in hospitalizations and ICU admissions in Ontario, particularly among younger populations, and the potential impact on the healthcare system.
-
-Article 10 of 10
-Title: Ontario records more than 2,400 new COVID-19 cases as hospitalizations jump
-Publisher: CTV News Toronto
-Trusted: False
-Posted: 7 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: New COVID-19 cases: 2,453 (an increase from 2,169 cases on Friday) Seven-day average of new cases: 1,944 (up from 1,532 a week ago and 1,337 two weeks ago) Hospitalizations: 985 patients (up from 913 on Friday and the highest level since February 6) ICU patients: 365 Ventilator patients: 192 Positivity rate: 4.5% (based on 61,005 tests processed in the last 24 hours) COVID-19 variant cases: 35 new cases confirmed, including 29 cases of the B.1.1.7 variant Vaccination update: 308,301 people fully vaccinated, 1,916,332 doses administered, and 77,740 doses administered in the last day. These values suggest an increasing trend in new cases and hospitalizations, which is a concern for forecasting COVID-19 hospitalizations in Ontario, Canada. The positivity rate and COVID-19 variant cases also provide important context for understanding the spread of the disease. The vaccination update provides a glimmer of hope, but the pace of vaccination may not be enough to offset the increasing case numbers.
+Relevant values for forecasting COVID-19 hospitalizations in Ontario, Canada:
+67% of SARS-CoV-2 infections in Ontario are caused by more severe variants (primarily B117).
+Variants associated with a 60% increased risk of hospitalization, doubled risk of ICU admission, and 56% increased risk of death.
+New daily infections reached the same number as at the height of the second wave.
+Number of people hospitalized with COVID-19 is 21% higher than at the start of the province-wide lockdown.
+ICU occupancy is 28% higher.
+Percentage of COVID-19 patients in ICUs who are younger than 60 is about 50% higher.

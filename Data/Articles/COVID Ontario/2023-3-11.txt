@@ -1,36 +1,35 @@
-Below are 5 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
+Below are 3 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
-Article 1 of 5
-Title: 3 more deaths as COVID numbers stable in Ottawa
-Publisher: CBC.ca
-Trusted: False
-Posted: 1 day ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: COVID-19 hospitalizations in Ottawa are stable at 16 patients, with 1 patient in intensive care. The COVID-19 test positivity rate in Ottawa has remained stable between 10-12% since February, which is considered moderate. There are 23 active COVID-19 outbreaks in Ottawa, which is considered high. Wastewater data shows stable coronavirus levels in Ottawa, Kingston, and Leeds, Grenville and Lanark (LGL) counties, but a rise in Hawkesbury. Vaccination rates in Ottawa and surrounding areas are reported, with 29% of Ottawans age 5 and older having had a COVID vaccine dose within the last 6 months. Hospitalizations and deaths are also reported for surrounding areas, including Eastern Ontario Health Unit (EOHU) and Western Quebec. These values can be used to inform forecasting models of COVID-19 hospitalizations in Ontario, Canada, particularly in the Ottawa region. The stable hospitalization numbers, moderate test positivity rate, and high number of active outbreaks suggest that COVID-19 transmission is ongoing in the community, but at a relatively stable level. The vaccination rates and wastewater data can also be used to inform models of COVID-19 transmission and hospitalization risk.
-
-Article 2 of 5
+Article 1 of 3
 Title: COVID-19 'steady' in Canada and hospitalizations have stabilized, Tam says
-Publisher: CTV News
+Publisher: CP24
 Trusted: False
 Posted: 1 day ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary, highlighting values most important for forecasting: COVID-19 has reached a relatively steady state in Canada, with no new variant-driven waves of infection in recent months. Hospitalizations, ICU admissions, and deaths have stabilized. Population immunity is high due to high vaccine uptake and immunity from infection. Officials are watching for new strains that can evade immune systems, but it's possible Canada may be spared new major waves in the coming months. Older or immunocompromised individuals continue to be disproportionately affected by the virus. The National Advisory Committee on Immunization recommends an additional bivalent booster dose this spring for adults at increased risk of severe illness from COVID-19. These points suggest that COVID-19 hospitalizations in Ontario, Canada may remain stable or decrease in the coming months, but vulnerable populations (e.g., older adults, immunocompromised individuals) may still be at risk. The recommendation for an additional booster dose for high-risk individuals may also impact hospitalization rates.
+Relevant values: 
+No new variant-driven waves of infection
+Stabilized hospitalizations and ICU admissions
+High population immunity due to vaccine uptake and past infections
+Possible reduced risk of major waves in the coming months
+Continued recommendation for vaccination and booster doses, especially for seniors, immunocompromised individuals, and long-term care home residents.
 
-Article 3 of 5
-Title: COVID numbers remain stable in Ottawa
-Publisher: CBC.ca
-Trusted: False
-Posted: 3 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: COVID-19 trends in Ottawa are stable, with moderate to very high levels of indicators. The number of patients with COVID-19 in local hospitals remains relatively stable at 18, with none in intensive care. The city's COVID-19 test positivity rate has remained stable at around 11 or 12 per cent since the start of February. 29% of Ottawans age five and older have had a COVID vaccine dose within the last six months. 85% of Ottawa residents have had at least one COVID vaccine dose, 82% have had at least two, 56% have had at least three, and 31% have had at least four. Eastern Ontario communities outside Ottawa report about 25 COVID-19 hospitalizations, with six patients in intensive care. Western Quebec has 83 COVID hospital patients, which is stable. The EOHU's COVID risk level remains moderate. These values suggest that COVID-19 hospitalizations in Ontario, Canada are currently stable, but the moderate to very high levels of indicators and the relatively low vaccination rates among certain age groups suggest that there is still a risk of increased hospitalizations in the future.
-
-Article 4 of 5
+Article 2 of 3
 Title: Effectiveness of mRNA COVID-19 vaccine booster doses against Omicron severe outcomes
 Publisher: Nature.com
 Trusted: False
 Posted: 4 days ago
-The article provides relevant information for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the key points: The study found that vaccine effectiveness (VE) against Omicron-associated severe outcomes increased with booster doses of monovalent mRNA COVID-19 vaccines, but protection waned over time after each dose. Third doses provided strong protection (85-87%) against severe outcomes among adults aged 50-69 years, but lower protection (76-79%) among those aged 70 years. Fourth doses restored waning protection from third doses and provided strong protection (86-89%) 4 months after vaccination for all age groups. VE was lower during the BA.4/BA.5-predominant period compared to the BA.1/BA.2-predominant period, suggesting increased immune evasion by BA.4/BA.5 sublineages. The study suggests that subsequent boosters and other measures may be needed to mitigate the impact of Omicron and future SARS-CoV-2 variants. The values most important for forecasting COVID-19 hospitalizations in Ontario, Canada, are: Vaccine effectiveness (VE) against severe outcomes: 85-87% (third dose, 50-69 years), 76-79% (third dose, 70 years), 86-89% (fourth dose, all age groups) Waning of protection over time: 8 months (third dose), 4 months (fourth dose) Difference in VE between BA.1/BA.2 and BA.4/BA.5 periods: lower VE during BA.4/BA.5 period These values can be used to inform forecasting models and predict the potential impact of COVID-19 on hospitalizations in Ontario, Canada.
+This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada.
+85-87% protection against severe outcomes among subjects aged 50-69 years even 8 months after third doses
+76-79% protection among those aged 70 years even 8 months after third doses
+Fourth doses restored waning of protection from third doses and continued to provide strong protection (86-89%) for all age groups 4 months after vaccination
+Lower VE in the BA.4/BA.5-predominant period compared to BA.1/BA.2-predominant period, likely due to increased immune evasion by BA.4/BA.5 sublineages
 
-Article 5 of 5
+Article 3 of 3
 Title: Don't let public health fall victim to boom and bust cycles: Ontario's top doctor
-Publisher: CP24
+Publisher: CTV News Toronto
 Trusted: False
 Posted: 4 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Summary: The article discusses the importance of maintaining public health preparedness in Ontario, Canada, even after the COVID-19 pandemic fades from memory. The chief medical officer of health, Dr. Kieran Moore, emphasizes the need for continued investment in workforce, testing, surveillance, and addressing socioeconomic inequities. The report highlights several priorities, including: 1. Strengthening testing, surveillance, and data systems, including integrating vaccination and case and contact management data. 2. Developing systems to automatically report hospitalizations and deaths of people with "diseases of public health significance." 3. Ensuring health equity by developing systems to support the collection, linkage, governance, and use of health outcome data to identify and address health inequities. 4. Building adequate surge capacity in the public health sector by cross-training workers in skills such as vaccination, case and contact management, and infection prevention and control. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: The need for continued investment in public health preparedness to mitigate the unintended and negative consequences of any infectious disease threat or pandemic. The importance of strengthening testing, surveillance, and data systems to improve responsiveness to emerging pathogens. The need to address socioeconomic inequities and develop systems to support health equity. The importance of building adequate surge capacity in the public health sector to respond to infectious disease threats. These values highlight the importance of maintaining a strong public health infrastructure to respond to emerging pathogens and mitigate the impact of COVID-19 hospitalizations in Ontario, Canada.
+Key values highlighted:
+Hospitalization data not available in real-time
+Manual processes used to assess hospitalized cases and deaths
+Need to develop systems to automatically report hospitalizations and deaths of people with "diseases of public health significance"
+Importance of integrating vaccination and case management data into a single system (e.g. COVAX)

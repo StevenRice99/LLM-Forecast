@@ -1,3 +1,5 @@
 Start,Memory,Lead,Forecast,Buffer,Capacity,Top,Power,ARIMA,SVR,MODEL,Succeeded,Failed,Lost,Arrived,Remaining,Time
-1,8,1,0,100,None,5,5,[P-[2]_D-[2]_Q-[1]],[C-[0.1]_Gamma-['auto']_Epsilon-[0.5]],True,63080,13536,0,63585,505,03:09:03
-1,8,1,0,100,None,5,5,[P-[2]_D-[2]_Q-[1]],[C-[0.1]_Gamma-['auto']_Epsilon-[0.5]],False,61398,15218,0,61785,387,1:33
+1,10,2,1,100,None,1,5,None,None,True,76616,0,0,78422,1806,4:08
+1,15,3,2,100,None,10,5,None,None,True,76336,280,0,78740,2409,4:49
+1,15,4,3,100,None,10,4,None,None,True,73175,3441,0,80503,7339,4:48
+1,15,1,0,100,None,1,5,None,None,True,67106,9510,0,68140,1034,4:27

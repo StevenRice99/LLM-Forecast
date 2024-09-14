@@ -1,22 +1,51 @@
-Below are 3 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
+Below are 5 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
-Article 1 of 3
+Article 1 of 5
+Title: Drive-in movies are making a comeback in the era of physical distancing
+Publisher: CTV News
+Trusted: False
+Posted: Today
+The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada because it mentions Ontario's current status on drive-ins: they remain closed. This information could be useful in predicting the potential impact of reopened or newly opened drive-ins on hospitalization rates if and when Ontario's restrictions are lifted, allowing drive-in operations to start.
+
+Article 2 of 5
+Title: Wearing gloves in public won't protect you from COVID-19, experts say
+Publisher: CTV News
+Trusted: False
+Posted: 1 day ago
+RELEVANT
+COVID-19 is mainly transmitted through respiratory droplets released from the mouth or nose (WHO).
+Contact with contaminated surfaces can also spread the virus if hands touch face, eyes, or nose.
+Wearing disposable gloves in public does not provide extra protection against COVID-19 and may lead to false sense of reassurance (Chakrabarti).
+Frequent hand washing is still the most important measure to prevent COVID-19 transmission (Kwong).
+Regularly washing hands with soap and water for at least 20 seconds or using hand sanitizer containing at least 60% alcohol is recommended by PHAC.
+
+Article 3 of 5
+Title: Over 450 Indigenous COVID-19 cases across Canada and 7 deaths, reports Yellowhead Institute
+Publisher: CBC.ca
+Trusted: False
+Posted: 3 days ago
+79 cases reported by Chiefs of Ontario as of May 12 (44 on-reserve, 35 off-reserve)
+ISC reported 41 on-reserve cases in Ontario as of May 11
+No agency reliably recording and releasing COVID-19 data indicating Indigenous status
+Data gap exists for Métis communities and First Nations populations off-reserve
+
+Article 4 of 5
 Title: Lower income people, new immigrants at higher COVID-19 risk in Toronto, data suggests
 Publisher: CBC.ca
 Trusted: False
 Posted: 4 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: The article provides data on COVID-19 cases and hospitalizations in Toronto, which can be used to inform forecasting models. The data suggests that lower-income individuals and newcomers to the city are disproportionately affected by COVID-19, with higher rates of cases and hospitalizations. The article mentions that the province of Ontario has not been collecting race-based data for COVID-19 infections, but Toronto is developing its own system to collect this data. The article also mentions that physical distancing will continue to be important in preventing the spread of COVID-19, even as public health measures are eased. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: 113 cases per 100,000 people in the lowest-income group, compared to 73 cases per 100,000 people in the highest-income group. 20 hospitalizations per 100,000 people in the lowest-income group, compared to 9 hospitalizations per 100,000 people in the highest-income group. 104 cases per 100,000 people in the group with the highest percentage of recent immigrants, compared to 69 cases per 100,000 people in the group with the lowest percentage of recent immigrants. 18 hospitalizations per 100,000 people in the group with the highest percentage of recent immigrants, compared to 8 hospitalizations per 100,000 people in the group with the lowest percentage of recent immigrants.
+Key Values: 
+The lowest-income group in Toronto has a higher rate of COVID-19 cases (113 per 100,000) and hospitalizations (20 per 100,000).
+Recent immigrants to Toronto also have a higher rate of COVID-19 cases (104 per 100,000) and hospitalizations (18 per 100,000).
+ICES data shows that those who tested positive for COVID-19 were more likely to live in lower-income neighborhoods with a "relatively greater concentration of immigrants and visible minorities".
+The elderly, people with underlying conditions, and those with compromised immune systems are also at higher risk.
 
-Article 2 of 3
-Title: Lowest number of new COVID-19 cases reported in Ontario since March
-Publisher: CTV News Toronto
-Trusted: False
-Posted: 6 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: New COVID-19 cases in Ontario have been trending downwards, with 294 new cases reported on Sunday, the lowest number since March 31. Hospitalizations for COVID-19 in Ontario continue to fall, with 961 patients in hospital being treated for the virus, down 55 patients since Saturday's report. The number of patients in intensive care units (ICUs) is 195, with 140 of them breathing with the assistance of a ventilator. The province has conducted 433,994 tests overall, with 14,816 tests currently under investigation. The percentage of positive tests is dropping significantly, and the number of new cases per day is also dropping significantly. These values suggest a decline in COVID-19 cases and hospitalizations in Ontario, which is a positive trend for forecasting COVID-19 hospitalizations in the province.
-
-Article 3 of 3
+Article 5 of 5
 Title: Ontario records lowest number of new COVID-19 cases in more than a month
 Publisher: CTV News Toronto
 Trusted: False
 Posted: 7 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the key points: The number of new COVID-19 cases in Ontario has dropped to 346, the lowest since April 6, with a 1.8% daily growth rate, the lowest since March. Hospitalizations for COVID-19 have decreased to 1,016, with 203 patients in intensive care units and 158 on ventilators. The number of deaths in Ontario has increased by 59, with a total of 1,599 deaths, mostly among people over 80 years old. The positivity rate for COVID-19 tests has decreased to below 4%, indicating a decline in the spread of the virus. The province has completed 416,376 COVID-19 tests, with 15,307 tests currently under investigation. Public health units in the Greater Toronto Area account for 61.5% of all cases, and 35% of all recorded deaths are in Toronto. These values are important for forecasting COVID-19 hospitalizations in Ontario, as they indicate a decline in the number of new cases, hospitalizations, and deaths, as well as a decrease in the positivity rate, which suggests a slowing of the virus's spread.
+346 new COVID-19 cases reported in Ontario (lowest number since April 6)
+1.8% daily growth rate, lowest since March
+Hospitalizations for COVID-19 have dropped significantly to 1,016 (a decrease of 72 patients over Friday)
+Of those hospitalized, 203 patients are being treated in an intensive care unit, with 158 breathing with a ventilator assistance

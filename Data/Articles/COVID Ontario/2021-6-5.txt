@@ -1,50 +1,91 @@
-Below are 7 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
+Below are 8 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
-Article 1 of 7
-Title: Provinces consider COVID-19 vaccine incentives to reach those not getting shots
-Publisher: Cranbrook Townsman
+Article 1 of 8
+Title: Ontario doc cares for patients from far away – Winnipeg Free Press
+Publisher: Winnipeg Free Press
+Trusted: False
+Posted: Today
+36 Manitobans being treated for COVID-19 are currently in Ontario hospitals (out of a total of 39 transferred out of province).
+Over 50 ICU patients have been airlifted from Manitoba to Ontario and other provinces over the past two weeks.
+Two patients have died in Ontario hospitals after being transferred from Manitoba.
+
+Article 2 of 8
+Title: Ontario hospitals brace for a wave of non-COVID-19 patients as pandemic caseloads ease
+Publisher: The Globe and Mail
+Trusted: False
+Posted: 1 day ago
+There has been a decline in COVID-19 hospitalizations in Ontario.
+However, hospitals are experiencing an increase in emergency cases unrelated to COVID-19.
+The number of non-urgent surgeries being performed will increase, potentially leading to more patients requiring hospitalization for post-operative care.
+Hospitals are starting to resume non-urgent surgeries and procedures, but will need to balance this with the ongoing COVID-19 pandemic.
+
+Article 3 of 8
+Title: When will the COVID-19 pandemic end? Canada's top doctor says COVID-19 'is not going to disappear anytime soon'
+Publisher: Yahoo News Canada
+Trusted: False
+Posted: 1 day ago
+Dr. Theresa Tam mentioned 4 indicators to track the pandemic: case rates, trajectory of cases, vaccination rates, and impact on hospitalizations, ICU admissions, and deaths.
+Key values for forecasting: case rates, vaccination rates, and hospitalization/ICU admission/death impacts.
+Delta variant discussed, but no specific Ontario data provided.
+
+Article 4 of 8
+Title: Ontario adjusts emergency orders that were put in place at height of province's third wave
+Publisher: CP24
 Trusted: False
 Posted: 2 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting values most important for forecasting: Ontario reported 870 new cases and 10 more deaths linked to the virus, indicating a decline in infections. Hospitalizations in Ontario are trending down, allowing some hospitals to resume surgeries requiring in-patient and critical care resources. The province is considering allowing people to book their second vaccine doses sooner than the current four-month interval to stay ahead of the Delta variant, which is responsible for nearly a quarter of COVID-19 infections in Ontario. The vaccination rate in Ontario is not explicitly stated, but the article mentions that about 70% of Quebecers over the age of 12 have received at least one dose, which could be used as a rough estimate for Ontario's vaccination rate. The article also mentions that Manitoba has seen a significant surge of COVID-19 infections, which has put pressure on its health-care system and overwhelmed its intensive care capacity, leading to patients being sent to hospitals in Ontario and Saskatchewan. This could potentially impact Ontario's hospitalization rates. These values can be used to inform forecasting models and predict future hospitalization rates in Ontario, taking into account the decline in infections, vaccination rates, and the potential impact of the Delta variant.
+• 729 patients with COVID-19 are currently hospitalized in Ontario.
+• This number has decreased from 1,925 at this time last month (May 3).
+• ICU occupancy due to COVID-19 has also been slowly declining since peaking at 900 last month and now stands at 546.
 
-Article 2 of 7
+Article 5 of 8
 Title: Vaughan hospital to open to the public for full service Sunday
 Publisher: CityNews Toronto
 Trusted: False
 Posted: 3 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting the values most important for forecasting: Current hospitalization numbers in Ontario: + 706 people in hospital + 576 in the ICU + 399 on a ventilator The opening of the Cortellucci Vaughan Hospital as a full-service hospital may impact hospitalization capacity and access to care in the western York Region area, potentially influencing future hospitalization numbers. These values provide a snapshot of the current hospitalization situation in Ontario and highlight the potential impact of the new hospital on future hospitalization capacity.
+Relevant article for forecasting COVID-19 hospitalizations in Ontario, Canada.
+Summary: The article mentions current COVID-19 hospitalization numbers (706 total in hospital) but does not provide any predictive data or trends useful for forecasting future hospitalizations.
 
-Article 3 of 7
+Article 6 of 8
 Title: Lessons Learned from Israel’s Reopening During a Nationwide COVID-19 Vaccination Campaign
 Publisher: Ontario COVID-19 Science Advisory Table
 Trusted: True
 Posted: 4 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. The article provides information on the stages of Israel's phased reopening, the impact of the reopening on SARS-CoV-2 cases and COVID-19 hospitalizations, ICU admissions, and deaths, and how Ontario's current SARS-CoV-2 infection rate and COVID-19 vaccination coverage compare to Israel's at the start of its phased reopening. The article highlights the following values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: The stages of Israel's phased reopening, including the reopening of outdoor spaces, schools, and businesses, and the introduction of a "Green Pass" system to allow fully vaccinated individuals to participate in indoor activities. The impact of Israel's phased reopening on SARS-CoV-2 cases and COVID-19 hospitalizations, ICU admissions, and deaths, including a decline in cases and hospitalizations as vaccination rates increased. The comparison of Ontario's current SARS-CoV-2 infection rate and COVID-19 vaccination coverage to Israel's at the start of its phased reopening, including the percentage of adults vaccinated with one dose and two doses. The importance of public health measures, such as mask mandates, social distancing, and capacity limits, in controlling the spread of SARS-CoV-2 during reopening. The potential for a "Green Pass" system to incentivize vaccination uptake and allow for safer indoor activities. These values can be used to inform forecasting models of COVID-19 hospitalizations in Ontario, Canada, and to guide public health decision-making during the reopening process.
+This text is a science brief discussing Israel's approach to reopening its economy and society during the COVID-19 pandemic. Here are the main points:
+Israel's Reopening Strategy 
+Israel used a phased reopening strategy, aligned with improving epidemiological indicators, increasing vaccine uptake, and maintaining key public health measures.
+The country lifted restrictions on June 1, 2021, after achieving low nationwide SARS-CoV-2 infection numbers (17 new cases) and high COVID-19 vaccine coverage.
+The only remaining public health measure was indoor masking.
+Key Initiatives 
+Green Pass: a digital certificate that required proof of vaccination or COVID-19 recovery to enter certain businesses, such as restaurants, hotels, gyms, and non-essential workplaces.
+Purple Badge standard: ensured safe operation in non-essential workplaces and retail stores without requiring customers to show proof of vaccination or COVID-19 recovery.
+Vaccine Uptake and Success Factors 
+Israel's simple prioritization process, effective communication, digital infrastructure, and small geographical area and population size contributed to its successful vaccine rollout and uptake.
+The country incentivized vaccines for hesitant groups through the Green Pass approach.
+Concerns and Limitations 
+Equity concerns: the Green Pass approach may have exacerbated existing social inequities by incentivizing vaccines for high-risk individuals but not addressing barriers to access for those who lacked confidence in vaccination.
+Privacy concerns: those checking credentials had access to private health information, albeit limited to vaccination status.
+Relevance to Ontario's Reopening Strategy 
+Examining Israel's reopening strategy is instructive for Ontario's own planning and implementation of its reopening strategy.
+Considerations should include the phased approach, short timeline, high vaccine coverage, and absence of a surge in SARS-CoV-2 cases following the lifting of restrictions.
+Other promising practices to consider include the Green Pass approach, emphasizing outdoor activities, supporting a safe return to social and communal events, and implementing public health measures.
+Overall, the text highlights Israel's successful reopening strategy, its key initiatives, and the lessons learned that can inform Ontario's own approach.
 
-Article 4 of 7
+Article 7 of 8
 Title: Ontario's stay-at-home order set to expire but most COVID-19 restrictions to remain in place
 Publisher: CBC.ca
 Trusted: False
 Posted: 4 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the key points: The province's stay-at-home order is set to expire on June 2, but most public health and workplace restrictions will remain in place until the province enters the first step of its reopening plan. The number of hospitalized patients, ICU admissions, and the base reproduction number (R rate) are being considered in determining when to reopen. As of Monday, there were 583 people with COVID-related illnesses being treated in intensive care, with 387 (66%) needing a ventilator to breathe. The seven-day average of new cases has fallen to 1,030, its lowest point since February 20. About 57.4% of Ontario's total population has now had at least one shot of a COVID-19 vaccine. These values are important for forecasting COVID-19 hospitalizations in Ontario, Canada, as they provide insight into the current state of the pandemic, the effectiveness of vaccination efforts, and the potential impact of reopening on hospitalization rates.
+Key values include:
+583 people are currently being treated in intensive care (ICU) for COVID-related illnesses
+66% of ICU patients need a ventilator to breathe (387 out of 583)
+9 additional deaths were reported, with a total toll of 8,766
+The province is considering the number of hospitalized patients and ICU admissions as key public health measures before reopening.
 
-Article 5 of 7
+Article 8 of 8
 Title: Canada won't rush reopening border with United States, Trudeau says
 Publisher: CTV News
 Trusted: False
 Posted: 5 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. The article provides the following valuable information for forecasting COVID-19 hospitalizations in Ontario: Ontario reported 916 new cases of COVID-19, which is its lowest daily total since February. The province's vaccine rollout is progressing, with many Ontarians aged 80 and up becoming eligible to move up their second doses of COVID-19 vaccine. The article mentions that Trudeau suggested 75% of Canadians need to be vaccinated and daily cases need to continue to decline across the country before his government would be willing to ease travel restrictions, which could impact hospitalization rates. The article also mentions that some health units in Ontario are facing supply challenges, which could impact the vaccine rollout and potentially influence hospitalization rates. Overall, the article provides information on the current state of COVID-19 cases and vaccine rollout in Ontario, which can be used to inform forecasts of hospitalizations in the province.
-
-Article 6 of 7
-Title: Ottawa surpasses 27,000 total COVID-19 cases
-Publisher: CTV News Ottawa
-Trusted: False
-Posted: 6 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the key points: Ottawa Public Health reported 52 new cases of COVID-19, bringing the total to 27,019 cases since the pandemic began. There were 2 new deaths due to COVID-19 in Ottawa, and 18 new deaths across the province. The COVID-19 dashboard shows a decrease in cases per 100,000 (42.7, down from 43.9) and a decrease in positivity rate (5.0%, down from 5.1%). The reproduction number (seven-day average) is 0.91, indicating a slowing spread of the virus. Vaccine numbers: 520,734 Ottawa residents have received 1 dose (12+), and 46,089 have received 2 doses (12+). Hospitalizations in Ottawa: 33 people are in hospital with COVID-19 related illnesses, down from 38. There are 10 people in intensive care units, down from 11. Active cases of COVID-19 in Ottawa: 709 active cases, down from 731. Variants of concern: Total B.1.1.7 (UK variant) cases: 5,370 (+18), Total B.1.351 (South Africa variant) cases: 283 (+1), Total P.1 (Brazil variant) cases: 26, Total B.1.617 (India variant): 3, Total B.1.617.2: 3 (+2). These values are important for forecasting COVID-19 hospitalizations in Ontario, Canada, as they provide information on the current trend of cases, hospitalizations, and vaccinations in Ottawa, which can be used to inform predictions about future hospitalization rates.
-
-Article 7 of 7
-Title: 71 tickets issued for illegal gatherings at private residences in Ottawa during current stay-at-home order
-Publisher: CTV News Ottawa
-Trusted: False
-Posted: 7 days ago
-This article is somewhat relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. The article provides information on the enforcement of COVID-19 restrictions in Ottawa, including the number of tickets issued for illegal gatherings, non-essential businesses staying open, and violations in parks. This data can be used to gauge the level of compliance with public health measures, which can in turn affect the spread of COVID-19 and hospitalization rates. Important values for forecasting COVID-19 hospitalizations in Ontario, Canada, mentioned in the article include: 163 tickets issued for contraventions of Provincial Orders and the Health Protection and Promotion Act since April 3 71 tickets issued for illegal gatherings at private residences since April 3 43 tickets issued in Ottawa parks since April 27 for Section 22 violations 17 charges issued for non-essential businesses remaining open despite the stay-at-home order However, it's worth noting that the article primarily focuses on enforcement and compliance, rather than providing direct data on COVID-19 cases, hospitalizations, or other epidemiological metrics. Therefore, while it may provide some indirect insights, it is not a primary source for forecasting COVID-19 hospitalizations in Ontario, Canada.
+Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Daily new cases: 916 (Ontario's lowest daily total since February)
+Vaccination rate: no specific target mentioned, but mentioned that the government would consider easing travel restrictions when 75% of Canadians are vaccinated

@@ -1,22 +1,75 @@
-Below are 3 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
+Below are 7 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
-Article 1 of 3
-Title: Ontario rolling out flu, COVID 19 shots, first to high priority groups
-Publisher: Global News Toronto
+Article 1 of 7
+Title: Ontario rolling out flu, COVID-19 shots, first to high-priority groups
+Publisher: CTV News Kitchener
 Trusted: False
 Posted: 2 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Public Health Ontario data shows levels of COVID-19 rising since mid-summer, though at much lower levels than at this time last year. The province is planning to roll out new COVID-19 vaccines, including Moderna's new vaccine formulated for the XBB.1.5 lineage of the Omicron variant, which is expected to be available later this month. The vaccine will be prioritized for at-risk people, including those over 65 years of age, long-term care residents and staff, and people with underlying medical illnesses. The province is also planning to allow pharmacists to administer more vaccines, including flu shots and RSV vaccines, and to prescribe flu medication. The Ministry of Health is expecting a longer flu season this year, with a mix of Influenza A H1N1 and Influenza B, which may extend into March. The Ontario College of Pharmacists is proposing new regulations to expand the scope of practice for pharmacists, including allowing them to prescribe Tamiflu and administer RSV vaccines. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada include: The expected timing and severity of the flu season The availability and distribution of new COVID-19 vaccines The prioritization of vaccines for at-risk populations The expansion of pharmacists' scope of practice to administer more vaccines and prescribe flu medication The expected impact of relaxed community-based public health measures, such as masking, on the spread of respiratory viruses.
+Key points:
+Ontario expects to start receiving doses of Moderna's new COVID-19 vaccine formulated for the XBB.1.5 lineage later this month.
+The initial doses will be prioritized for at-risk people, including those over 65 years old, pregnant women, First Nations, Inuit, Metis or racialized members of the community, and those with underlying medical illness.
+Public Health Ontario data shows levels of COVID-19 rising since mid-summer, though at much lower levels than at this time last year.
+The province expects a longer influenza season that may extend all the way through to March.
 
-Article 2 of 3
+Article 2 of 7
+Title: Ontario proposes letting pharmacists prescribe flu meds, give RSV vaccines
+Publisher: CBC.ca
+Trusted: False
+Posted: 2 days ago
+The article highlights that:
+A similar surge of COVID-19, RSV, and influenza cases are expected in Ontario this fall and winter season.
+The province's Chief Medical Officer expects a high hospitalization rate due to relaxed community-based public health measures.
+Pharmacists have already prescribed over 174,000 Paxlovid prescriptions for COVID-19 treatment.
+The Ministry of Health is proposing new regulations to allow pharmacists to prescribe flu medication and administer RSV vaccines, which may be relevant for forecasting COVID-19 hospitalizations in Ontario.
+
+Article 3 of 7
 Title: New COVID-19 plan set to be unveiled by Ontario Chief Medical Officer this week
 Publisher: CP24
 Trusted: False
 Posted: 3 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: The Ontario government is set to release a "COVID-19 Fall Preparedness Plan" in response to an uptick in infections in the province. COVID-19 indicators have dropped to historically low levels in Ontario and Canada, but health officials warn that infections and hospitalizations have been on the rise in recent months. The current positivity rate in Ontario is 12%, with 14,000 tests completed in the last week and 1,500 cases reported in the week prior. The Public Health Agency of Canada (PHAC) is urging residents to get a COVID-19 immunization or booster dose ahead of the fall and winter months to increase protection against the virus and avoid strain on the healthcare system. Health Canada has approved the use of Moderna's latest vaccine, which targets the Omicron subvariant XBB.1.5 and its predecessors, for all Canadians over the age of six months. The values most important for forecasting COVID-19 hospitalizations in Ontario, Canada are: Positivity rate (12%) Number of tests completed (14,000) Number of cases reported (1,500) Vaccine uptake and availability (Moderna's latest vaccine approved for all Canadians over six months) Seasonal factors (respiratory infection season approaching) These values can be used to inform forecasting models and predict potential increases in COVID-19 hospitalizations in Ontario, Canada.
+Key points: 
+12% positivity rate in Ontario (as of Sept 2)
+1,500 new cases reported in the previous week
+Public Health Agency warning about strain on healthcare system this fall and winter
 
-Article 3 of 3
-Title: What you should know about Omicron subvariants EG.5 and BA.2.86
-Publisher: CTV News
+Article 4 of 7
+Title: Does COVID-19 spread in a hospital mean there's an outbreak? Not anymore, says B.C. health ministry
+Publisher: CBC News
 Trusted: False
 Posted: 3 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the key points: COVID-19 infection and hospitalization numbers are rising in Canada as summer ends, partly due to new Omicron subvariants. The Omicron subvariant EG.5 is currently dominant in Canada, accounting for an estimated 34% of sequenced COVID-19 infections as of September 3. The BA.2.86 subvariant has been detected in Canada, but its transmissibility and severity are not yet well understood. The World Health Organization has assessed EG.5 as having moderate transmissibility, moderate vaccine resistance, and low symptom severity. The updated Moderna vaccine, Spikevax XBB.1.5, is expected to work well against EG.5 and BA.2.86. Health officials are monitoring the situation closely, but there is some cause for relief as the new variants do not appear to be more severe or virulent than previous ones. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Estimated dominance of EG.5 subvariant (34% as of September 3) Transmissibility and severity of BA.2.86 subvariant (not yet well understood) Effectiveness of updated Moderna vaccine against EG.5 and BA.2.86 Monitoring of the situation by health officials and potential for changes in the variants' behavior.
+Relevant.
+Cases of COVID-19 are rising in B.C., particularly among the elderly and in hospital settings (241 cases as of Sept 7).
+Enhanced measures, such as increased monitoring and infection control, are being implemented at facilities with unreported outbreaks.
+The number of publicly reported COVID-19 outbreaks is on the rise, but these do not include facilities with enhanced measures.
+Hospitalizations are nearly five times higher than in August, with a positivity rate of 17.9%.
+A fall vaccine campaign will prioritize vulnerable populations and target the Omicron XBB.1.5 subvariant.
+
+Article 5 of 7
+Title: N.B. changes definitions of COVID deaths and hospitalizations, launches Respiratory Watch
+Publisher: CBC.ca
+Trusted: False
+Posted: 4 days ago
+RELEVANT
+Key values for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Change in definition of COVID-19 hospitalization: now includes patients who have been hospitalized both "for" and "with" COVID-19
+Hospitalization rate: 44 people were hospitalized for or with COVID-19 during the latest reporting week (vs. 24 admitted to hospital because of the virus in the previous report)
+ICU admissions: one person was in intensive care, up from zero
+
+Article 6 of 7
+Title: Health Canada approves Moderna's updated COVID-19 vaccine
+Publisher: CBC News
+Trusted: False
+Posted: 4 days ago
+Case and hospitalization numbers are climbing in early September (2000+ hospitalizations).
+Officials expect a fall wave of COVID-19.
+A fall booster campaign is recommended to further suppress virus transmission during the expected busy respiratory virus season.
+The number of hospitalizations remains far lower than previous pandemic peaks.
+
+Article 7 of 7
+Title: U.S. latest country to approve updated COVID-19 vaccines as fall nears - National
+Publisher: Global News Toronto
+Trusted: False
+Posted: 5 days ago
+Here's a brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Rising COVID-19 hospitalizations have been reported in Ontario since late summer.
+The article mentions that vaccination remains critical to public health and continued protection against serious consequences of COVID-19, including hospitalization and death.

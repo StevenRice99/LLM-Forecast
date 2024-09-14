@@ -1,36 +1,105 @@
-Below are 5 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
+Below are 8 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
-Article 1 of 5
-Title: Ontario's COVID-19 sixth wave linked to lifting of mask mandates: PHO
+Article 1 of 8
+Title: Ontario reports 11 net new COVID-19 deaths, 1,188 hospitalizations
 Publisher: CP24
 Trusted: False
 Posted: Today
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the key points: The recent rise in COVID-19 cases and hospitalizations in Ontario is linked to the removal of mask mandates in most public settings on March 21, 2022. The province is currently in its sixth pandemic wave, driven by the more transmissible BA.2 Omicron sub-variant. Key statistics: + 40% week-over-week increase in hospitalizations. + 1,188 people in hospital with COVID-19 as of Saturday. + Estimated 100,000 to 120,000 new cases each day based on wastewater data. + Expected increase in COVID-19 infections among children, which could impact pediatric hospital and intensive care capacity. Public Health Ontario suggests reintroducing universal indoor masking in schools and other public settings, as well as extending masking in high-risk settings, to reduce transmission. The agency warns of the potential emergence of a new COVID-19 variant of concern that could drastically change the course of the pandemic. These points highlight the importance of considering the impact of public health measures, such as mask mandates, on COVID-19 transmission and hospitalizations in Ontario. The statistics provided can inform forecasting models, and the warnings about potential future developments can help inform scenario planning and risk assessment.
+Relevant article.
+1,188 people currently hospitalized with COVID-19 in Ontario.
+40% increase in hospitalizations week-over-week.
+55% of hospitalized patients were admitted for reasons other than COVID-19 but also tested positive.
+168 patients in ICU, up by 3 from 7 days ago.
+64% of ICU patients were admitted for virus-related reasons.
 
-Article 2 of 5
+Article 2 of 8
+Title: Learning to live with COVID doesn’t mean abandoning masks
+Publisher: Queen's Journal
+Trusted: False
+Posted: 1 day ago
+- COVID-19 hospitalizations increased after mask and vaccine mandates were removed.
+- The rise in cases is attributed to the Omicron subvariant BA.2.
+- Studies suggest that even mild infections can result in long-term symptoms, such as fatigue and organ damage, affecting daily functioning and healthcare system capacity.
+- Young, low-risk individuals may experience strokes and other debilitating health issues due to COVID-19.
+- Masking is an effective measure to protect not only the individual but also those around them, especially vulnerable groups.
+
+Article 3 of 8
+Title: 'No lid on the pot anymore': Sharp COVID-19 rise concerning health experts, leaders
+Publisher: CBC.ca
+Trusted: False
+Posted: 1 day ago
+Here's a brief summary highlighting the values most important for forecasting:
+Wastewater levels are high and setting records, indicating increased transmission.
+Hospitalization rates are rising, but still relatively low.
+The lag between wastewater peaks and hospitalization peaks is approximately one week.
+Vulnerable individuals are at risk of severe illness as transmission spreads.
+Existing immunity may blunt the effects of a sixth wave, keeping hospitalization rates lower than in previous waves.
+
+Article 4 of 8
 Title: Ontario's 6th wave of COVID-19: How bad will it get?
 Publisher: CBC.ca
 Trusted: False
 Posted: 2 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Summary: The highly contagious Omicron subvariant BA.2 is causing a surge in new COVID-19 infections across Ontario, with estimates suggesting 100,000 people are getting infected daily. Hospitalizations are increasing, with a 36% jump in a week, and health experts are concerned about the number of patients to come. The province's Chief Medical Officer of Health, Dr. Kieran Moore, has not declared the sixth wave officially, but experts agree that Ontario is in a sixth wave. The government's approach is to stay the course after lifting most COVID-19 public measures last month, but health experts are urging the province to reimpose mask mandates to prevent hospitals from getting overwhelmed. Key concerns include: + Exponential growth in hospitalizations, officially confirmed cases, and viral presence in sewage. + High infection rate, with 100,000 people getting infected daily. + Potential impact on vulnerable individuals and at-risk populations. + Staffing challenges in hospitals due to healthcare workers contracting COVID-19. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Daily infection rate (100,000 people) Hospitalization statistics (1,074 patients in hospital with COVID-19, a 36% jump in a week) Viral presence in sewage Vaccination rates Availability of antiviral medication Hospital bed capacity Staffing challenges in hospitals due to healthcare workers contracting COVID-19.
+Key values for forecasting:
+100,000 people getting infected daily (wastewater estimates)
+36% increase in hospitalizations with COVID-19 in a week
+Record high number of cases
+Hospitals facing staffing challenges due to health-care workers calling in sick with COVID-19
+Severity of the trend doesn't become apparent until a couple of weeks after infections happen
 
-Article 3 of 5
-Title: Ontario marks highest COVID-19 test positivity since mid-January, hospitalizations up by 30%
-Publisher: CBC.ca
+Article 5 of 8
+Title: Ottawa's top doctor urges employers to encourage mask-wearing
+Publisher: CTV News Ottawa
+Trusted: False
+Posted: 2 days ago
+Relevant values: 
+Wastewater data indicates a surge in COVID-19 community transmission.
+62% of Ottawa residents aged 12 and older have received a third dose.
+Fourth doses are now available to eligible individuals (60+ years old).
+Cases are rising despite immunity from previous vaccination and exposure.
+
+Article 6 of 8
+Title: COVID-19 wastewater signal in Ottawa reaches new height
+Publisher: CTV News Ottawa
 Trusted: False
 Posted: 5 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: 857 COVID-19 hospitalizations reported on Monday, a 30% increase from the previous week. 168 patients are in intensive care, up from 166 the previous day and 158 a week earlier. Test positivity rate has increased to 19%, the highest since mid-January. Estimated real number of daily cases provincewide is around 30,000 to 35,000, based on wastewater surveillance data (according to Dr. Peter Jüni). No new deaths were reported, with the total death toll in the province at 12,470. These values suggest an increasing trend in hospitalizations and cases, which is important to consider when forecasting future hospitalizations. The estimated real number of daily cases and test positivity rate provide additional context for understanding the spread of the virus in the province.
+The wastewater viral signal in Ottawa has reached a new height, indicating rapid virus spread.
+Hospitalization numbers are rising in Ottawa and across the province.
+857 people are currently in hospitals with COVID-19 across Ontario (168 in ICU).
+Case counts and positivity rates remain high in Ottawa.
+Hospitalizations typically lag behind wastewater peaks by up to 2 weeks.
 
-Article 4 of 5
+Article 7 of 8
 Title: New funding ensures Ontario Tech researchers will continue to monitor COVID-19 and other indicators of health in wastewater
 Publisher: News
 Trusted: False
 Posted: 5 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Ontario Tech University's Faculty of Science has been testing wastewater samples for COVID-19 since June 2020, providing data to help officials determine steps to limit or prevent further infection in the community. The program has been extended and expanded by the Province of Ontario, with $24.7 million in funding to ensure the Wastewater Surveillance Initiative (WSI) will continue through March 2023. The program has proven to be an extremely valuable tool to monitor trends in real-time and detect outbreaks as early as possible, especially since regular individual testing has become less frequent. Measuring fragments of COVID-19 virus in wastewater provides a close to real-time way to track the spread of the virus before people begin showing symptoms. The initiative produces reliable results for local public health units, covering 75 per cent of Ontario's population. The values most important for forecasting COVID-19 hospitalizations in Ontario, Canada, are: The frequency of the virus in wastewater samples, which can indicate the spread of the virus in the community. The reliability of the data produced by the Wastewater Surveillance Initiative, which can inform public health decisions. The ability to detect outbreaks early, which can help prevent further infection and hospitalizations. The coverage of the initiative, which includes 75 per cent of Ontario's population, providing a comprehensive understanding of the spread of the virus.
+Here is a brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+ONTARIO = 
+The wastewater surveillance initiative at Ontario Tech University has been predicting COVID-19 end-points such as hospitalizations.
+The program monitors trends in real-time and detects outbreaks early.
+The researchers have developed an analytical method that produces reliable data.
+Measuring fragments of COVID-19 virus in wastewater is a close to real-time way to track the spread of the virus before people begin showing symptoms.
 
-Article 5 of 5
+Article 8 of 8
 Title: Canada’s hospital capacity crisis will remain long after the pandemic is over
 Publisher: The Globe and Mail
 Trusted: False
 Posted: 7 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: The article discusses the strain on Canadian hospitals, particularly in Ontario, due to the COVID-19 pandemic and the underlying capacity issues in the healthcare system. The article mentions that Hamilton General Hospital's ICU was treating nearly twice as many patients as there were official beds during the Delta variant wave, and that the hospital's staff are burnt out. The article notes that waste-water surveillance in Ontario, Alberta, British Columbia, and Saskatchewan shows infections are climbing once again, indicating a potential sixth wave. The article highlights the importance of addressing the fundamental flaws in the Canadian healthcare system, including the lack of integration and coordination between different healthcare providers and the inefficient funding model. The article mentions that Canada has one of the lowest hospital capacity rates in the developed world, with only 1.97 acute care beds per 1,000 people. The article notes that the Commonwealth Fund ranked Canada's healthcare system second-to-last among 11 high-income countries in terms of overall performance, citing poor access to care, equity, and health outcomes. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Hospital capacity rates Staffing levels and burnout rates Infection rates and waste-water surveillance data Funding models and healthcare system integration Access to care and health outcomes These values can be used to inform forecasting models and predict the potential impact of future waves of COVID-19 on hospitalizations in Ontario, Canada.
+The article discusses potential solutions to address hospital capacity issues in Canada, particularly in relation to the COVID-19 pandemic. It highlights the concept of bundled payments, which involves paying hospitals and healthcare providers a fixed amount for each patient, regardless of the specific treatments they receive. This approach aims to incentivize more efficient care and reduce costs.
+The article also mentions Accountable Care Organizations (ACOs) in the US, which document and analyze patient outcomes to improve care and contain costs.
+Experts interviewed in the article suggest that Canada's healthcare system could benefit from a funding model that ties hospital budgets to patient outcomes. They point out that data-driven approaches can help identify areas for improvement and optimize resource allocation.
+The article also touches on the importance of performance indicators and data collection in Canadian healthcare, highlighting the lack of such metrics in many jurisdictions.
+Some specific ideas proposed by experts include:
+1. Implementing bundled payments at a national or provincial level to incentivize more efficient care.
+2. Tying hospital budgets to patient outcomes, allowing hospitals to focus on delivering high-quality care while managing costs.
+3. Improving data collection and analysis to identify areas for improvement and optimize resource allocation.
+4. Leveraging existing data, such as nationally available statistics on average length of hospital stay, to inform decision-making and improve patient outcomes.
+The article concludes by emphasizing the need for leaders in Canadian healthcare to take action and adopt more innovative approaches to addressing capacity issues and improving care quality.
+Some key quotes from experts include:
+"Money follows the needs of the patient. Where is the best place for the patient to receive this care, and in a system that is economically restrained?"
+— Kevin Smith
+"I push this all the time. It's whether I can get people to listen."
+— Jason Sutherland
+"I am very frustrated with the way that provincial ministries of health just act as a paymaster. You know, you are also responsible for all of your residents' health. You must measure it to improve it."
+— Elyse Berger Pelletier

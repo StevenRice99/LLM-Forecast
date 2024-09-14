@@ -5,46 +5,74 @@ Title: Wastewater now 'one of our only reliable tools' to detect COVID-19 preval
 Publisher: CTV News
 Trusted: False
 Posted: 1 day ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. The article discusses the use of wastewater testing to monitor COVID-19 transmission in communities, which can be a reliable tool to determine community prevalence. The data from wastewater analysis in Ontario shows a steady increase in COVID-19 concentration levels since mid-March, with a large driver being the rapid spread of the Omicron BA.2 sub-variant. Key values for forecasting COVID-19 hospitalizations in Ontario include: The weekly average of N-gene copies per millilitre in wastewater samples, which was around 415 in Waterloo as of April 2, representing a steady increase since mid-March. The rise in COVID-19 wastewater signals across all regions in Ontario, with concentrations well above what was surveyed in the Delta and Alpha waves. The expectation that hospital cases may rise as dramatically as infections have, based on wastewater surveillance. The trend of increasing COVID-19 levels in wastewater samples, which is concerning and indicates a widespread spread of COVID-19 in the community. Overall, the article suggests that wastewater testing can provide valuable insights into COVID-19 transmission in communities, which can inform forecasting models and help predict hospitalizations.
+The article discusses the utility of wastewater surveillance in detecting COVID-19 cases in a community. It highlights the challenges and complexities involved in interpreting these data, including factors such as water usage patterns, precipitation, and dilution effects.
+According to the experts interviewed, wastewater surveillance can provide valuable insights into the prevalence of COVID-19 in a community by detecting the presence of SARS-CoV-2 genetic material in wastewater samples. However, it's essential to focus on trends rather than absolute concentrations, as these data are subject to various variables and assumptions.
+The article mentions that some experts have attempted to estimate the number of active cases based on wastewater data, but this approach is not recommended due to the complexity and uncertainty involved. Instead, researchers should prioritize establishing trends in COVID-19 prevalence to inform public health decisions.
+The article also notes that different communities have unique wastewater systems, which can affect the accuracy and comparability of these data. Therefore, it's crucial to consider local factors and variables when interpreting wastewater surveillance results.
+Ultimately, the experts interviewed emphasize the importance of engaging with wastewater data as one tool among many for informing public health decisions and learning to live with COVID-19.
 
 Article 2 of 7
-Title: COVID-19: Here's the situation in the Sault this week
-Publisher: SooToday
-Trusted: False
-Posted: 2 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: 22 hospitalizations in the Algoma region as of April 14 409 active cases in the Algoma region as of April 14 New daily cases in the province ranged from 2,300 to 4,589 this week ICU admissions could reach 600 over the next several weeks, according to Dr. Kieran Moore, the province's chief medical officer 84.9% of the total population in Algoma has received at least one dose of the vaccine, and 81.6% has received at least two doses The province has lifted mask mandates in most settings, but may extend them in high-risk settings like long-term care homes, hospitals, and public transit These values provide information on the current state of COVID-19 hospitalizations, cases, and vaccination rates in Ontario, which can be used to inform forecasting models.
-
-Article 3 of 7
-Title: Ontario's 6th COVID-19 wave may have crested, but impact of long weekend to be seen: modelling
-Publisher: CBC.ca
-Trusted: False
-Posted: 2 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: The current plateau in wastewater indicators may not remain, and cases may increase after the Easter weekend. Ontario is "well into" the sixth wave of the pandemic, driven by the new BA.2 subvariant, waning immunity, and relaxation of public health measures. Hospital occupancy is likely to continue to rise for some time. Daily case counts may have reached a plateau at around 100,000 new daily infections. Virus-related infections among healthcare workers are as high as they were during the Omicron wave. Hospitalization numbers: + 1,392 people in hospital with COVID-19 (up from 1,332 on Wednesday and 1,126 last week) + 177 patients in intensive care (down from 182 on Wednesday but up from 159 last week) + 81 patients on ventilators due to the virus Test positivity rate: 18.1% (up from 17.5% on Wednesday) 23 additional deaths linked to the virus, bringing the total death toll to 12,606. These values suggest that while the current wave may be plateauing, there is still uncertainty about the direction of the pandemic, and hospitalizations are likely to continue to rise. The high infection rates among healthcare workers and the increasing hospitalization numbers are concerning and may impact healthcare capacity.
-
-Article 4 of 7
-Title: Hospitals in northeastern Ontario short-staffed due to high COVID-19 numbers
-Publisher: CBC.ca
-Trusted: False
-Posted: 3 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting values most important for forecasting: Hospital staffing shortages due to COVID-19 exposure are affecting hospitals across northeastern Ontario, with Sudbury's Health Sciences North (HSN) short 194 staff members (4.2% of the workforce) and Sault Area Hospital having 73 employees off the job. COVID-19 hospitalizations in Ontario have increased from 553 to 1,366 in the last 16 days. Sudbury hospital has had 528 COVID-19 patients since Jan. 18, with 34 patients currently admitted. Smaller hospitals, such as Mattawa Hospital and Temiskaming Hospital, are also experiencing staffing shortages and have had to hire temporary nurses to fill gaps. Health care workers are required to self-isolate for 10 days after possible exposure, which is affecting staffing levels. These values are important for forecasting COVID-19 hospitalizations in Ontario, as they indicate the current strain on hospitals, the rate of increase in hospitalizations, and the impact of staffing shortages on hospital capacity.
-
-Article 5 of 7
 Title: Ontario hospitals grapple with COVID-19 related absences
 Publisher: CityNews Toronto
 Trusted: False
 Posted: 3 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting values most important for forecasting: ICU admissions could reach 600 over the next several weeks (according to Dr. Kieran Moore, the province's chief medical officer) Current hospitalizations: 1,332 people in hospital with COVID-19, 182 in intensive care (as of Wednesday) New infections: 3,833 reported on Wednesday, with estimated 100,000-120,000 new cases per day based on wastewater surveillance Staffing pressures: hospitals are experiencing significant staff absences due to COVID-19 infections or exposures, with some reporting cancellations of surgeries Hospital capacity: some hospitals are operating at 80-90% of pre-pandemic services, but staffing levels are "precarious" due to workers isolating and other factors. These values provide insight into the current state of COVID-19 hospitalizations in Ontario and the potential for future increases, which is crucial for forecasting.
+This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada.
+The current wave of COVID-19 cases is putting pressure on hospitals due to staff absences.
+Staffing levels are precarious with 200 employees off sick at Kingston Health Sciences Centre and 85 staff absences across four hospitals overseen by Huron Perth Healthcare Alliance.
+Surgeries have been cancelled in some hospitals due to COVID-19 related staff absences, but efforts are being made to mitigate the disruption to services.
+The province has added hospital beds and antiviral drugs to treat COVID-19, which is expected to help manage the situation.
+ICU admissions could reach 600 over the next several weeks, according to Dr. Kieran Moore, the province's chief medical officer.
 
-Article 6 of 7
+Article 3 of 7
+Title: Paxlovid key in COVID fight, but easy access is important: doctors
+Publisher: NewmarketToday.ca
+Trusted: False
+Posted: 3 days ago
+Relevant article for forecasting COVID-19 hospitalizations in Ontario, Canada.
+Ontario has a centralized distribution system for Paxlovid (antiviral) through hospitals and assessment centres, which will now include select pharmacies.
+Eligibility criteria for Paxlovid have been expanded to anyone 70 and older, people 60 and older with fewer than three doses of COVID-19 vaccine, and people 18 and older with fewer than three vaccine doses and at least one risk factor such as a chronic medical condition.
+Hospitalizations are rising in Ontario due to the sixth wave driven by the lifting of public health measures.
+
+Article 4 of 7
+Title: Ontario sees rise in COVID-19 hospitalizations
+Publisher: CityNews Ottawa
+Trusted: False
+Posted: 4 days ago
+Current number of hospitalizations: 1,366 (April 12)
+Current number of ICU admissions: 190
+New infections reported: 2,300 (likely higher due to PCR testing restrictions)
+
+Article 5 of 7
 Title: Scientists, doctors try to fill gaps in COVID-19 risk information amid decrease in reliable data
 Publisher: CBC News
 Trusted: False
 Posted: 5 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting values most important for forecasting: Dr. Kieran Moore, Ontario's chief medical officer of health, has noted a sixth wave of COVID-19 cases and recommends wearing masks indoors, but does not plan to reinstate a mask mandate. PCR testing has dropped significantly, leading experts to believe official case counts are underestimations. COVID-19 Resources Canada is developing a metric to translate "science speak" into risk information for the general public, using data such as wastewater data, hospitalizations, COVID deaths, test positivity rate, and estimated daily cases. Peterborough's public health unit has launched a "local COVID-19 risk index" that incorporates local case rates, hospitalizations, deaths, wastewater surveillance, PCR test positivity, and rapid antigen test positivity. The risk index shows the current risk in the community is high, and preventative measures such as wearing masks are recommended. These points highlight the ongoing spread of COVID-19 in Ontario, the limitations of current data, and efforts to provide more accurate and actionable information to the public. This information can be used to inform forecasting models and predict potential hospitalization rates in Ontario.
+RELEVANT.
+Summary: The article discusses concerns about COVID-19 transmission in Ontario, Canada, amidst declining PCR testing rates. Key values for forecasting COVID-19 hospitalizations include:
+Wastewater data
+Hospitalizations
+COVID deaths
+Test positivity rate
+Estimated daily cases
+
+Article 6 of 7
+Title: 'People cannot assess their own risk': Ontario's top doctors say COVID-19 mask mandate is not coming back right now, but critics don't agree
+Publisher: Yahoo News Canada
+Trusted: False
+Posted: 5 days ago
+Values most important for forecasting:
+Estimated new daily COVID-19 cases: 100,000 to 120,000
+Increase in percent positivity and wastewater surveillance trends
+Rise in hospitalizations (no specific numbers mentioned)
+BA.2 variant driving the sixth wave of the pandemic
+Availability of antiviral treatments for certain higher-risk groups
 
 Article 7 of 7
-Title: Ontario's COVID-19 sixth wave linked to lifting of mask mandates: PHO
+Title: Ontario reports 11 net new COVID-19 deaths, 1,188 hospitalizations
 Publisher: CP24
 Trusted: False
 Posted: 7 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Summary: The recent rise in COVID-19 cases and hospitalizations in Ontario is linked to the lifting of mask mandates in most public settings. The province is currently in its sixth pandemic wave, driven by the more transmissible BA.2 Omicron sub-variant. Confirmed case counts and test positivity rates are increasing, with Ontario seeing a 40% week-over-week increase in hospitalizations. Wastewater data suggests 100,000-120,000 new cases per day. Hospitalizations have reached 1,188 people. The province may see an increase in COVID-19 infections among children, potentially impacting pediatric hospital and intensive care capacity. Reintroducing universal indoor masking in schools and other public settings could be effective at reducing transmission. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: 40% week-over-week increase in hospitalizations 1,188 people currently hospitalized with COVID-19 100,000-120,000 new cases per day (based on wastewater data) Increasing confirmed case counts and test positivity rates Potential increase in COVID-19 infections among children
+Key values for forecasting:
+- 1,188 current hospitalizations (up from 855 a week ago)
+- 40% week-over-week increase in hospitalizations
+- 45% of hospitalized patients admitted for COVID-19-related reasons

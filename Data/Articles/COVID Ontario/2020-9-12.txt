@@ -1,29 +1,66 @@
-Below are 4 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
+Below are 6 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
-Article 1 of 4
-Title: Ontario's COVID-19 case count surges to highest level since June
-Publisher: CTV News Toronto
-Trusted: False
-Posted: 1 day ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Daily COVID-19 case count: 213 new cases ( highest in almost two months) Regional breakdown: + Toronto: 71 cases + Peel Region: 38 cases + York Region: 14 cases + Durham Region: 9 cases + Hamilton and Halton Region: 6 cases each + Ottawa: 37 cases + Waterloo: 15 cases Total case count: 44,068 Active cases: 1,657 Hospitalizations: 49 COVID-19 patients in Ontario hospitals ICU patients: 18 Ventilator patients: 9 Testing: + 32,501 tests conducted in the last 24 hours + 3.2 million COVID-19 tests conducted since the start of the pandemic + 31,384 tests under investigation These values provide insight into the current spread of COVID-19 in Ontario, including regional hotspots, hospitalization rates, and testing efforts, which can inform forecasting models for COVID-19 hospitalizations in the province.
-
-Article 2 of 4
+Article 1 of 6
 Title: Young adults who are obese at greater risk of needing ventilator due to COVID-19: study
 Publisher: CTV News
 Trusted: False
 Posted: 3 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Young adults (18-34) with underlying conditions such as morbid obesity, diabetes, and hypertension are at high risk of severe COVID-19 outcomes (ventilation or death). Specific comorbidities associated with increased risk include: + Morbid obesity (BMI  40): 41% of patients who needed ventilation or died. + High blood pressure: 31% of patients who needed ventilation or died. + Diabetes: 27% of patients who needed ventilation or died. Males are at greater risk than females, representing 58% of hospitalized cases and 65% of patients who died or were placed on ventilators. Black and Hispanic populations are disproportionately affected, accounting for 57% of hospitalized young adults and 49% of those who died or needed ventilation. These findings can inform forecasting models by highlighting the importance of considering comorbidities, demographics, and socioeconomic factors when predicting COVID-19 hospitalizations in Ontario, Canada.
+Key points:
+Young adults (18-34) with underlying conditions such as morbid obesity, diabetes, and hypertension are at high risk of being placed on a ventilator or dying from COVID-19.
+Black and Hispanic people account for 57% of young adult hospitalizations and 49% of young adult deaths or intubations in the US.
+Males are at greater risk than females among young adults (58% vs 42% hospitalized, 65% vs 35% dead/intubated).
+Morbid obesity is a significant risk factor for COVID-19 complications, accounting for 41% of intubated and dead patients.
+A separate study found obese people are twice as likely to be hospitalized after contracting the coronavirus.
 
-Article 3 of 4
+Article 2 of 6
 Title: Thousands of students return to schools as new COVID-19 cases emerge
 Publisher: CTV News
 Trusted: False
 Posted: 4 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Multiple provinces, including Ontario, have reported COVID-19 cases linked to schools, with 22 schools in Alberta and 70 schools in Quebec recording at least one case. In Ontario, concerns over class sizes and physical distancing have been raised, with some schools having class sizes of over 30 students. The article highlights the importance of reducing community transmission to shield schools from infection, as emphasized by Canada's chief public health officer, Dr. Theresa Tam. The article also notes that experts say returning to class is important for children's social and academic development, but that following health guidelines is crucial for a safe and positive environment. The article provides some data on the number of cases in schools, including: + 118 confirmed COVID-19 cases among teachers and students in Quebec since classes resumed. + 20 COVID-19 cases in schools in Alberta, with 16 of those infections reported since Friday. + 193 students and seven staff in Ottawa told to stay home after being linked to novel coronavirus infections. These values are important for forecasting COVID-19 hospitalizations in Ontario, Canada, as they provide insight into the spread of the virus in schools and the potential for transmission in the community. By monitoring the number of cases in schools and the effectiveness of health guidelines, forecasters can better predict the potential for hospitalizations in the province.
+Here is a brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+118 confirmed cases among teachers and students in Quebec since classes resumed.
+Ontario reported concerns over class sizes with some classes exceeding 30 students.
+Ontario officials reported 193 students and 7 staff staying home due to novel coronavirus infections linked to French-language Catholic schools.
+The article does not provide direct information on COVID-19 hospitalizations in Ontario, but it suggests that the number of cases in Quebec could be a precursor to the situation in Ontario.
 
-Article 4 of 4
-Title: Ontario forced to pause reopening plan for four weeks as COVID-19 cases spike
-Publisher: CTV News Toronto
+Article 3 of 6
+Title: 'Teeth are taking a beating': Dentists say cracked teeth are more common post-lockdown
+Publisher: CTV News
 Trusted: False
 Posted: 4 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Summary: Ontario is pausing its reopening plan due to increasing daily COVID-19 case counts, which have surpassed 100 for 13 consecutive days. The province reported 375 new cases over the previous two-day period, with the majority of new patients between the ages of 20 and 39. The seven-day rolling average of new COVID-19 cases is now 159 per day, up from a low of 85 in August. More than half of the new cases were reported in the Greater Toronto Area, with significant numbers in Peel Region, Toronto, York Region, and Ottawa. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Daily COVID-19 case counts: 375 new cases over two days, with a seven-day rolling average of 159 per day. Age distribution of new cases: Majority between 20 and 39 years old. Geographic distribution of new cases: More than half in the Greater Toronto Area, with significant numbers in Peel Region, Toronto, York Region, and Ottawa. These values can be used to inform forecasting models and predict potential increases in hospitalizations due to the rising case counts and geographic hotspots.
+Stress and poor diet have led to an increase in jaw clenching and grinding among Canadians during the pandemic.
+This has resulted in a surge in patients with cracked or damaged teeth at dental clinics in Ontario (and possibly other provinces).
+Delayed or foregone dental care may contribute to this issue.
+Key values for forecasting COVID-19 hospitalizations in Ontario, Canada: stress levels and changes in diet.
+
+Article 4 of 6
+Title: Ottawa Public Health confirms COVID-19 cases at five schools
+Publisher: CTV News Ottawa
+Trusted: False
+Posted: 5 days ago
+Values most important for forecasting:
+Number of positive cases in schools
+Proportion of individuals who test positive but do not infect others within their school community (i.e., no outbreaks declared)
+Information on the process of case and contact management by OPH, including screening, testing, and isolation procedures
+The potential stress and awareness raised among parents and guardians about COVID-19 protocols in schools
+
+Article 5 of 6
+Title: Suspected COVID-related syndrome in children can cause severe heart damage, study finds
+Publisher: CTV News
+Trusted: False
+Posted: 6 days ago
+Almost half of patients who had MIS-C also had an underlying medical condition, and of those, half were obese or overweight.
+90% of children with MIS-C suffered cardiac involvement.
+High levels of troponin (50 times its normal level) indicate significant cardiac manifestation of the disease.
+71% of children with MIS-C were admitted to the ICU, and at least 60% presented with shock.
+These values highlight the severity of MIS-C in children and potential long-term implications for their heart health. However, it's essential to note that the article does not directly relate to forecasting COVID-19 hospitalizations in Ontario, Canada.
+
+Article 6 of 6
+Title: Ontario racetracks push province to remove 100-fan cap and allow more spectators
+Publisher: CTV News Ottawa
+Trusted: False
+Posted: 7 days ago
+Key points:
+The article does not mention hospitalization data or related information.
+It discusses motorsports events, attendees capacity, and government policies.
+No data is presented that would be useful for forecasting COVID-19 hospitalizations in Ontario.

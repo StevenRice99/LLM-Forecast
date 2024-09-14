@@ -1,0 +1,7 @@
+Succeeded: 55207
+Failed: 21409
+Lost: 0
+Arrived: 55207
+Required: 76616
+Remaining: 0
+Time: 0:06

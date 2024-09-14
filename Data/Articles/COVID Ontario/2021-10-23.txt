@@ -1,43 +1,79 @@
-Below are 6 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
+Below are 7 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
-Article 1 of 6
+Article 1 of 7
 Title: Why 'waning immunity' from COVID-19 vaccines isn't as bad as it sounds
 Publisher: CBC News
 Trusted: False
 Posted: Today
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. The article provides context on the concept of waning immunity from COVID-19 vaccines, highlighting that while antibody levels may decline, the immune system's other forms of protection, such as memory B cells, remain effective in fighting off the virus. It also notes that breakthrough infections and reports of waning immunity lack important context and data on who is seriously affected and why. Key points relevant to forecasting COVID-19 hospitalizations in Ontario, Canada include: 94.7% of all COVID-19 cases in Canada since December 14 have been among those not fully vaccinated, as well as 95.8% of hospitalizations and 94.3% of deaths. Fully vaccinated Canadians who do get COVID-19 are 79% less likely to be hospitalized and 64% less likely to die. Older, frailer Canadians living with comorbidities in congregate settings, such as long-term care facilities, are at increased risk of breakthrough infections. A recent preprint study found much lower levels of neutralizing antibodies in elderly patients in Ontario long-term care residents. New data from researchers at the Institute for Clinical Evaluative Sciences (ICES) in Toronto found fully vaccinated people over 16 in Ontario were highly protected against both infection and severe COVID-19 after eight months. These points suggest that forecasting COVID-19 hospitalizations in Ontario, Canada should take into account vaccination rates, age, underlying health conditions, and comorbidities, as well as the effectiveness of vaccines in preventing severe outcomes.
+The article discusses the issue of breakthrough infections and vaccine efficacy in Canada. Despite some reports of fully vaccinated individuals contracting COVID-19, data from Public Health Agency of Canada (PHAC) shows that vaccines remain highly effective against severe outcomes, with those who are fully vaccinated being 79% less likely to be hospitalized and 64% less likely to die.
+The article also highlights the importance of underlying conditions in determining the risk of breakthrough infections. Research has shown that older, frailer Canadians living with comorbidities, such as long-term care residents, are at increased risk of breakthrough infections due to declining antibody levels.
+Experts stress that there is an important difference between infections and disease, and that even healthy individuals can get infected when antibody levels decline. However, this does not necessarily mean they will experience severe symptoms or require hospitalization.
+The article also discusses the recent death of former US Secretary of State Colin Powell from COVID-19, which sparked debate about breakthrough infections and waning immunity. However, it notes that Powell was at heightened risk due to his underlying health condition, multiple myeloma.
+Regarding booster shots, the article quotes experts as saying that they are not yet necessary for the general population in Canada. A recent study from the Institute for Clinical Evaluative Sciences (ICES) found that protection against symptomatic infection does drop over time, but protection against severe outcomes remains high.
+The article concludes that while some individuals may require booster shots, particularly those with underlying health conditions or immunocompromised states, it would be premature to provide boosters to the general population at this time.
 
-Article 2 of 6
-Title: Ontario plans to lift all COVID-19 public health measures — masks included — by March
-Publisher: CBC.ca
-Trusted: False
-Posted: 1 day ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: The Ontario government plans to lift all pandemic restrictions by the end of March 2022, with a phased approach starting on October 25, 2021. The removal of restrictions will be guided by ongoing monitoring of key public health indicators, including: + The emergence of new COVID-19 variants + Hospital and ICU admissions + Rapid increases in transmission of the disease The province will lift capacity limits in various settings, including restaurants, gyms, and indoor event spaces, on October 25, 2021, for those who are fully vaccinated. Proof of vaccination requirements may be lifted for restaurants, bars, and sports facilities on January 17, 2022, and for high-risk settings on February 7, 2022. Mask-wearing requirements in indoor public spaces are expected to be lifted on March 28, 2022. The province's chief medical officer of health notes that 87.7% of eligible Ontarians have received at least one dose of a COVID-19 vaccine, and 83.6% have received two doses. The Ontario science advisory table notes that the fourth wave of the pandemic is receding, but keeping some health measures in place while vaccinating children will help keep it under control. These values are important for forecasting COVID-19 hospitalizations in Ontario, Canada, as they provide insight into the government's plans for lifting restrictions, the current state of vaccination efforts, and the ongoing monitoring of key public health indicators.
-
-Article 3 of 6
+Article 2 of 7
 Title: Sask. surpasses Ontario in per capita COVID-19 deaths, now 4th-highest province
 Publisher: CBC.ca
 Trusted: False
 Posted: 2 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada, as it provides information on the current COVID-19 situation in Saskatchewan, which has surpassed Ontario in per capita COVID-19-related deaths. The article highlights the following values important for forecasting COVID-19 hospitalizations in Ontario: 1. Saskatchewan's per capita COVID-19-related death rate (67.2 deaths per 100,000 people) is higher than Ontario's (66 deaths per 100,000 people). 2. Saskatchewan has the highest rate of COVID-19 deaths and cases over the past 14 days, according to Health Canada data. 3. Hospitalizations and intensive care admissions in Saskatchewan have stayed relatively steady or continued climbing, despite a drop in COVID-19 case counts. 4. Health officials and experts consider hospitalizations and ICU admissions as lagging indicators, which may worsen before improving. These values can inform forecasting models for COVID-19 hospitalizations in Ontario by providing context on the severity of the pandemic in a neighboring province and the potential for similar trends to emerge in Ontario.
+Hospitalizations and ICU admissions have stayed relatively steady or continued climbing in Saskatchewan.
+Health officials and experts consider hospitalizations and ICU admissions to be lagging indicators of the pandemic's trajectory.
+These values suggest that hospitalization trends could impact Ontario, as 6 ICU patients are being transferred from Saskatchewan to Ontario.
 
-Article 4 of 6
+Article 3 of 7
+Title: Emotional Sask. chief medical health officer pleads with public amid dire new COVID-19 modelling
+Publisher: CBC.ca
+Trusted: False
+Posted: 2 days ago
+Here is a brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+The article discusses Saskatchewan's ICU capacity and COVID-19 hospitalization projections, which are not directly relevant to forecasting in Ontario, Canada. However, the following information may be useful:
+Modelling suggests that even with booster shots, if current behavior persists, the number of COVID-19 patients in ICUs could increase significantly.
+Changes in individual and collective behavior can impact the trajectory of hospitalizations.
+The majority of infected people showing up in hospitals are unvaccinated.
+
+Article 4 of 7
 Title: St. Joseph’s Healthcare Hamilton selected to pilot Ontario’s 1st monoclonal antibody therapy clinic - Hamilton
 Publisher: Global News Toronto
 Trusted: False
 Posted: 4 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting the most important values for forecasting: St. Joseph's Healthcare has launched an antibody therapy clinic in Ontario, which may reduce hospitalizations among COVID-19 patients. The monoclonal antibody therapy has been shown to reduce hospitalization and death by about 70% in initial studies. The treatment is targeted at high-risk COVID-positive patients, including those who are unvaccinated or immune-compromised. Eligibility for referral requires testing positive for COVID-19, being over 18 years old, and being at high risk of hospitalization. These values are important for forecasting COVID-19 hospitalizations in Ontario, Canada, as they suggest a potential reduction in hospitalizations due to the antibody therapy clinic, and highlight the target population for the treatment.
+Relevant article.
+The article highlights a new antibody therapy clinic in Ontario, Canada.
+Important values for forecasting COVID-19 hospitalizations include:
+Effectiveness of the antibody therapy: 70% reduction in hospitalization and death
+Eligibility criteria: COVID-19 positive, over 18 years old, unvaccinated or immune-compromised.
 
-Article 5 of 6
+Article 5 of 7
+Title: Premier Scott Moe admits Sask. could have responded faster to 4th wave of COVID-19
+Publisher: CBC.ca
+Trusted: False
+Posted: 4 days ago
+Relevant.
+The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada because:
+Saskatchewan has requested assistance from the federal government and will be moving six COVID-19 ICU patients to Ontario.
+This implies a possible influx of COVID-19 patients into Ontario's healthcare system.
+The article also mentions that health officials and experts have repeatedly said that hospitalizations and ICU admissions are lagging-indicators, which means they could get worse before eventually improving in Ontario as well.
+
+Article 6 of 7
 Title: 6 Saskatchewan ICU patients with COVID-19 being transferred to Ontario
 Publisher: CBC.ca
 Trusted: False
 Posted: 5 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada, as it reports on the transfer of six COVID-19 patients from Saskatchewan to Ontario due to a record number of intensive care patients in Saskatchewan. This transfer may impact hospital capacity and resource utilization in Ontario, which could be important for forecasting COVID-19 hospitalizations in the province. Key values for forecasting COVID-19 hospitalizations in Ontario, Canada: 6 COVID-19 patients being transferred from Saskatchewan to Ontario over the next 72 hours Saskatchewan has 85 COVID-19 patients in intensive care, a new record Saskatchewan's normal ICU bed capacity is 79 beds Potential for additional out-of-province support beyond Wednesday Request for critical care nurses, respiratory therapists, and perfusionists from the federal government Potential for 2-5 additional beds from the federal government These values may indicate an increase in hospitalizations and resource utilization in Ontario, which could impact forecasting models.
+Key values:
+6 COVID-19 patients from Saskatchewan being transferred to Ontario over 72 hours
+Record-breaking number of intensive care patients (85) in Saskatchewan on Monday
+Normal ICU bed capacity in Saskatchewan is 79
 
-Article 6 of 6
-Title: Saskatchewan sending 6 intensive care patients to Ontario as ICU challenges continue
-Publisher: Global News Toronto
+Article 7 of 7
+Title: COVID-19: Cases at Milton outbreak increase, numbers from weekend now available
+Publisher: miltonnow.ca
 Trusted: False
 Posted: 5 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Saskatchewan is transferring 6 ICU patients to Ontario due to capacity challenges, with the possibility of up to 12 patients being transferred by the end of the week. The patients being transferred are medically stable and will be accompanied by a highly-skilled care team. The transfers are being made to relieve pressure on Saskatchewan's healthcare system, which is experiencing a prolonged high demand for critical care. Saskatchewan's ICU capacity has reached a record high of 85 COVID-19-admitted patients, exceeding the normal 79 ICU beds available. The article highlights the stress on Saskatchewan's healthcare system, with doctors expressing concerns about the government's handling of the surge in COVID-19 infections and hospitalizations. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: The number of ICU patients being transferred from Saskatchewan to Ontario (6, with the possibility of up to 12). The current ICU capacity in Saskatchewan (85 COVID-19-admitted patients). The normal ICU capacity in Saskatchewan (79 beds). The stress on Saskatchewan's healthcare system, which may indicate a potential increase in COVID-19 hospitalizations in Ontario.
+Summary: 
+The article reports a drop in active cases in Halton region and Milton.
+There are outbreaks reported at schools (Anne J. Macarthur Public School and St. Benedict Catholic Elementary School) and a workplace ("Workplace – 162") in Milton.
+COVID-19 vaccination numbers are provided, including the percentage of fully immunized individuals who have tested positive for the virus after vaccination (0.12%).
+Ontario demographics are reported, including age ranges of cases.
+Values most important for forecasting COVID-19 hospitalizations: 
+Active cases and outbreaks in Halton region and Milton
+Vaccination rates and percentage of vaccinated individuals testing positive

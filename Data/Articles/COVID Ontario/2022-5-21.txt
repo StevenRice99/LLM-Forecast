@@ -1,50 +1,60 @@
-Below are 7 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
+Below are 5 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
-Article 1 of 7
-Title: COVID hospitalizations down nearly 20 per cent week-over-week in Ontario
-Publisher: CP24
-Trusted: False
-Posted: 1 day ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: The number of people hospitalized with COVID-19 in Ontario has declined by nearly 20% since last week, with 1,165 people currently hospitalized, including 163 in intensive care. The positivity rate on PCR tests has decreased to 9.1%, the lowest since February 28. Outbreaks are declining in long-term care homes, retirement homes, and hospitals, with 162, 104, and 77 active outbreaks, respectively. A new Omicron subvariant, BA.2.20, has been detected in the province, but its impact is not yet known. Despite the emergence of the new subvariant, overall cases, hospitalizations, and deaths are continuing to decline. These values suggest a downward trend in COVID-19 hospitalizations in Ontario, Canada, which is a positive indicator for forecasting. However, the emergence of the new subvariant and its potential impact on the trajectory of the pandemic should be closely monitored.
-
-Article 2 of 7
+Article 1 of 5
 Title: Globe editorial: Another wave of COVID-19 is coming. Why isn’t Canada preparing to beat it?
 Publisher: The Globe and Mail
 Trusted: False
 Posted: 2 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Summary: The article highlights the importance of vaccination in preventing COVID-19 hospitalizations and deaths, particularly among people aged 50 and over. It notes that Canada is failing to utilize its available vaccine doses, with 2.5 million adults having never received a single dose, including 225,000 in their 60s. The article also mentions that the rollout of third and fourth shots has effectively ground to a halt, with an average of only 5,000 boosters administered daily across the country. Furthermore, it quotes Dr. Peter Juni, former scientific director of the Ontario COVID-19 Science Advisory Table, as saying that another wave of COVID-19 in the fall is "almost baked in." Key values for forecasting COVID-19 hospitalizations in Ontario, Canada: 2.5 million Canadian adults have never received a single dose of vaccine 225,000 adults in their 60s have never received a single dose of vaccine Average daily number of boosters administered across the country: 5,000 Predicted likelihood of another wave of COVID-19 in the fall: high (according to Dr. Peter Juni)
+Key points:
+Another wave of COVID-19 is "almost baked in" this fall (fall 2023), as people will be heading back indoors.
+The Public Health Agency of Canada has also warned about a potential resurgence coinciding with the return of seasonal respiratory viruses.
+Vaccination helps limit the impact of COVID-19 by reducing hospitalization and death odds, especially for those aged 50 and over.
+Roughly 2.5 million Canadian adults have never had a single dose of vaccine, including 225,000 in their 60s.
+Low vaccination rates could lead to increased hospitalizations and deaths this fall.
 
-Article 3 of 7
-Title: Two of four Ontario party leaders sick with COVID-19
-Publisher: CTV News Toronto
-Trusted: False
-Posted: 2 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Two of the four main political party leaders in Ontario, Mike Schreiner (Green Party) and Andrea Horwath (NDP), have tested positive for COVID-19. Both leaders are experiencing mild symptoms and are self-isolating. The leaders were in close proximity to each other during a televised debate on Monday night, and it is possible that others may have been exposed. Hospitalizations related to COVID-19 in Ontario have been trending downward in recent weeks, but the positivity rate remains above 10%. The limited number of tests reported daily suggests that COVID-19 is still circulating in the province. Important values for forecasting COVID-19 hospitalizations in Ontario, Canada: Number of new cases among high-profile individuals (e.g. political leaders) Positivity rate (currently above 10%) Hospitalization trend (currently downward) Limited testing capacity (suggesting potential underreporting of cases) These values suggest that while hospitalizations may be trending downward, the virus is still present and circulating in the province, and new cases can still occur, even among high-profile individuals.
-
-Article 4 of 7
+Article 2 of 5
 Title: Flu cases up in Canada. What to know, and how symptoms compare to COVID-19
 Publisher: CityNews Toronto
 Trusted: False
 Posted: 4 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Influenza cases have sharply increased in Canada since the beginning of April, with 5,000 laboratory cases detected between April 17 and May 7. The majority of influenza cases were among individuals under the age of 45 years. There were 249 influenza-associated hospitalizations over the past few weeks, with a sharp increase in hospitalizations among the pediatric population. The percentage of Canadians reporting "influenza-like illness (ILI)" to doctors was 2.1%, exceeding pre-pandemic levels typical of this time of year. Ontario reported 11 new deaths linked to COVID-19 and 1,345 people hospitalized with the virus, up from 1,122. Rhinovirus test positivity (the main culprit behind the common cold) is up slightly compared to past weeks, including higher detection in Ontario compared to other provinces. These values are important for forecasting COVID-19 hospitalizations in Ontario, Canada, as they provide context on the current respiratory virus landscape, including the increase in influenza cases and hospitalizations, which may impact COVID-19 hospitalization rates. Additionally, the article highlights the similarities in symptoms between COVID-19, the common cold, and influenza, which may lead to increased hospitalizations due to misdiagnosis or delayed diagnosis.
+Here is a brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Ontario is reporting 1,345 new COVID-19 hospitalizations today, up from 1,122.
+There were 11 new deaths linked to COVID-19 in Ontario today, including deaths from previous days recorded during a data clean-up.
+Flu activity and hospitalizations are increasing in Ontario, with 249 influenza-associated hospitalizations reported over the past few weeks.
 
-Article 5 of 7
-Title: Interim statement on the use of additional booster doses of Emergency Use Listed mRNA vaccines against COVID-19
-Publisher: World Health Organization (WHO)
-Trusted: True
+Article 3 of 5
+Title: COVID-19 hospitalizations, test positivity rate continue to rise in NM
+Publisher: Rio Rancho Observer
+Trusted: False
 Posted: 4 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada, as it discusses the World Health Organization's (WHO) recommendations for COVID-19 vaccination, including the use of additional booster doses, which can impact hospitalization rates. The article highlights the importance of considering the timing and priority of booster doses, particularly for high-risk populations such as older adults and healthcare workers. It also mentions the need for ongoing research and data collection to inform policy decisions on vaccination strategies. Key points relevant to forecasting COVID-19 hospitalizations in Ontario, Canada: The WHO recommends offering booster doses based on evidence that they would have a substantial impact on reducing hospitalization, severe disease, and death. The article notes that data on the usefulness of additional booster doses is sparse, particularly for healthy younger populations. The studies reviewed in the article suggest that additional booster doses may be beneficial for high-risk groups, such as older adults and those with immunocompromising conditions. The article highlights the importance of considering the evolution of the virus and the characteristics of future variants when making policy decisions about vaccination strategies. The WHO emphasizes the need for ongoing research and data collection to inform policy decisions on vaccination strategies, including the performance of current and variant-specific candidate COVID-19 vaccines. Overall, this article provides information on the WHO's recommendations for COVID-19 vaccination, including the use of additional booster doses, which can impact hospitalization rates. It highlights the need for ongoing research and data collection to inform policy decisions on vaccination strategies, which is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada.
+The article reports on a study from the University of Toronto and the Hospital for Sick Children in Toronto that analyzed COVID-19 cases in Ontario, Canada. 
+Key findings:
+- The study used mathematical modeling to predict hospitalization rates.
+- It adjusted for factors like ICU capacity.
+- The study estimated total hospitalizations would exceed 15,000 by mid-April, with peak hospitalizations occurring around late April.
 
-Article 6 of 7
+Article 4 of 5
 Title: Study tracks hospital readmission risk for COVID-19 patients in Alberta, Ontario
 Publisher: CBC.ca
 Trusted: False
 Posted: 5 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. The study analyzed 46,412 adults hospitalized for COVID-19 in Alberta and Ontario during the first part of the pandemic and found that: The readmission rate was around 9%, similar to other ailments. Socio-economic factors and sex played a bigger role in predicting which patients were most likely to be readmitted. Patients who were male, older, and had multiple comorbidities and previous hospital visits and admissions were more likely to be readmitted. Patients from postal codes with higher deprivation indicators (e.g. lower education and income) were more likely to be admitted for COVID-19 to begin with. Vaccination status was a significant factor, with 91% of patients in Alberta and 95% in Ontario being unvaccinated. The study suggests that the healthcare system was able to withstand the pressures of the pandemic, and that care was not sacrificed despite the unprecedented pressure put on staff and systems during the peaks of the early waves. These findings can inform forecasting models by highlighting the importance of considering socio-economic factors, sex, and vaccination status in predicting COVID-19 hospitalizations in Ontario, Canada.
+Key values for forecasting:
+Readmission rate: 9% (similar to other ailments)
+Mortality rate among hospitalized patients: 18%
+Combined readmission or death rate: 10.6% (in Ontario)
+Socio-economic status: significant factor in predicting readmissions and deaths
+Male sex, age, comorbidities, and previous hospital visits/admissions: associated with increased risk of readmission or death
+Vaccination status: 95% of hospitalized patients in Ontario were unvaccinated (in the study period)
 
-Article 7 of 7
+Article 5 of 5
 Title: Study: Readmission rate for COVID-19 is 11%
-Publisher: University of Minnesota Twin Cities
-Trusted: True
+Publisher: cidrap.umn.edu
+Trusted: False
 Posted: 5 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: 11% of Canadian patients discharged after hospitalization for COVID-19 were readmitted to the hospital or died within 30 days of discharge. 95% of patients admitted with COVID-19 in Ontario were unvaccinated. The median length of hospital stay was 8 days. 14% of patients required intensive care unit admission. Patients who were readmitted or died were more likely to be older, male, discharged to a long-term care facility, and have a medical history of multiple hospitalizations. Non-specific pneumonia was the most often cited reason for readmission (37.6%). These values can inform forecasting models by providing insight into the likelihood of readmission or death after discharge, the impact of vaccination status on hospitalization rates, and the demographic characteristics of patients who are most likely to experience severe outcomes.
+Summary of relevant values for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Readmission rate: 11% within 30 days
+In-hospital death rate: 8,496 deaths out of 34,846 discharged patients (10.5% with typical hospital stay)
+Median length of hospital stay: 8 days
+Age and gender distribution: older and male patients more likely to be readmitted or die
+Underlying medical conditions: multiple hospitalizations, long-term care facility discharge, and comorbidities (e.g., pneumonia, heart failure, pulmonary embolism)
+Vaccination status: 95% of Ontario COVID-19 patients were unvaccinated

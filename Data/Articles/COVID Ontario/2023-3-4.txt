@@ -1,7 +1,20 @@
-Below is a news article from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
+Below are 2 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
+Article 1 of 2
 Title: Hospitalized With, or Hospitalized For?
 Publisher: AIER - Daily Economy News
 Trusted: False
 Posted: 3 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. The article highlights the issue of inaccurate data on COVID-19 hospitalizations and deaths, particularly in the early stages of the pandemic. It mentions that hospitals had a financial incentive to exaggerate the number of COVID hospitalizations and deaths due to a 20% increase in Medicare reimbursement rates for patients with a COVID-19 diagnostic code. This led to cases being misclassified as COVID-19, including gunshot victims, injuries, and other non-COVID related conditions. The article also mentions that some areas, including Ontario, began tracking the difference between patients hospitalized "for" COVID-19 and those hospitalized "with" COVID-19. According to the article, in Ontario, 54% of COVID patients were hospitalized "for" COVID-19, while the remainder were hospitalized for other reasons and incidentally found to be infected. This information is important for forecasting COVID-19 hospitalizations in Ontario, as it suggests that the actual number of hospitalizations due to COVID-19 may be lower than reported. Therefore, any forecasting model should take into account the potential for misclassification and overcounting of COVID-19 hospitalizations. Key values for forecasting COVID-19 hospitalizations in Ontario: 54% of COVID patients in Ontario were hospitalized "for" COVID-19 Potential for misclassification and overcounting of COVID-19 hospitalizations due to financial incentives and lack of accurate data.
+In September 2021, a preprint study found that 54% of COVID patients in Ontario were hospitalized "for" COVID.
+This suggests that approximately half of reported COVID hospitalizations in Ontario may have been incidental or due to other reasons.
+
+Article 2 of 2
+Title: Canadian teens still struggling with mental health even as pandemic wanes
+Publisher: CBC News
+Trusted: False
+Posted: 6 days ago
+Pediatric centres have seen increases in hospitalizations and emergency room visits for mental health conditions.
+Teen girls and LGBQ students are particularly affected, with high rates of symptoms of anxiety and depression.
+A recent survey found that 20% of young people (ages 12-25) reported poor or bad mental health, an improvement from 30% the previous year but still double what it was before the pandemic.
+There is a lack of consistent nationally representative data around teens' well-being.
+The Canadian healthcare system was struggling to meet the mental health needs of young people before the pandemic and continues to rise.

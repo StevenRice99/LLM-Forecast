@@ -1,22 +1,47 @@
 Below are 3 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
 Article 1 of 3
-Title: Coronavirus Variant EG.5 Takes Top Spot from ‘Arcturus’
-Publisher: U.S. News & World Report
-Trusted: False
+Title: An interrupted time series analysis of trends in opioid-related emergency department visits from pre-COVID-19 pandemic to pandemic, from the Canadian Hospitals Injury Reporting and Prevention Program 
+Publisher: BMC Public Health
+Trusted: True
 Posted: 1 day ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: A new coronavirus strain, EG.5, has become the dominant variant in the US, responsible for over 17% of new cases in the past two weeks. EG.5 is also increasing globally, with its prevalence nearly doubling from mid-June to mid-July, and has been documented in 45 countries. Although there is currently no evidence of rising cases and deaths or a change in disease severity associated with EG.5, COVID-19 hospitalizations are increasing in the US, with a small uptick since December. Experts warn that this slight summer increase should serve as a wake-up call to treat the virus seriously before winter rolls around. The upcoming fall booster campaign, targeting XBB.1.5, is expected to increase protection against the coronavirus ahead of a potential fall and winter wave. These points are relevant for forecasting COVID-19 hospitalizations in Ontario, Canada, as they highlight the emergence of a new dominant variant, the potential for increased transmission and hospitalizations, and the importance of vaccination efforts to mitigate these risks.
+The article presents an analysis of emergency department (ED) visit trends related to opioid use from pre-pandemic through pandemic times using the Canadian Hospital Injury Reporting Program (CHIRPP). Here are the main points and insights:
+Key findings: 
+1. Pre-pandemic trend: Before the pandemic, there was a clear increasing trend in fentanyl-related visits among 25- to 64-year-olds, but not heroin-related visits.
+2. Pandemic impact: The elevated level of fentanyl-related visits during the pandemic did not become steeper than pre-pandemic levels.
+3. Sex and age-specific analysis: The study found significant differences in opioid-related ED visit trends by sex and age groups:
+Fentanyl-related visits increased immediately at the start of the pandemic among 18- to 24-year-olds.
+Heroin-related visits decreased starting before the pandemic among males, but not females.
+Adolescents and young adults were particularly impacted at the beginning of the pandemic.
+4. Percentage of severe cases: The study found no sustained increase in the severity of opioid-related ED visits during the pandemic.
+Insights: 
+1. Continuation of pre-pandemic factors: The factors causing opioid-related harms prior to the pandemic (e.g., social and economic vulnerability, mental health, contaminated illicit drug supply) likely continued to play a major role during the pandemic.
+2. Importance of sex and age considerations: The study highlights the importance of considering sex and age differences when implementing prevention and intervention measures.
+3. Special considerations for adolescents and young adults: The disruption caused by lockdowns had a particular effect on this population, leading to increased substance use and related harms.
+Limitations: 
+1. Generalizability limited to urban areas: CHIRPP's focus on urban areas may limit the study's generalizability to rural or Indigenous populations.
+2. Under-representation of adults: The pediatric focus of CHIRPP hospitals may affect the age distribution in the study, which was partially offset by age-specific analysis.
+3. Small sample size: Limited sample size restricted the ability to analyze specific opioids and age/sex groups.
+4. Opioid type classification limitations: Uncertainty about opioid types among some cases could have impacted the analysis.
+Future work: 
+1. Investigating circumstances surrounding opioid-related ED visits: The study suggests that further research should investigate factors like social determinants, substance use disorder treatment access, and health care-seeking behavior during the pandemic.
+2. Tailoring prevention and intervention measures: The findings emphasize the importance of considering sex and age differences when designing prevention and intervention strategies to address opioid-related harms.
 
 Article 2 of 3
-Title: What are the COVID-19 vaccination rates in immigrant and refugee children and adolescents in Ontario, Canada?
-Publisher: News-Medical.Net
+Title: Health Canada approves 1st RSV vaccine for people 60 and older
+Publisher: CBC News
 Trusted: False
-Posted: 4 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. The study found that COVID-19 vaccination coverage was lower among immigrant children (53.1%) and adolescents (79.2%) in Ontario, Canada, compared to non-immigrant children and adolescents. The study also found that there were marked variations in vaccination rates within immigrant groups based on region of origin, with the lowest rates observed in immigrants and refugees from East Europe and Central Africa, and the highest rates observed in minors from Southeast Asia. These findings are important for forecasting COVID-19 hospitalizations in Ontario, Canada, as they suggest that certain populations (immigrant and refugee children and adolescents) may be at higher risk of COVID-19 infection and hospitalization due to lower vaccination rates. Additionally, the study's findings on the heterogeneity of vaccination rates within immigrant groups can inform targeted public health approaches to improve vaccination coverage and reduce the risk of COVID-19 hospitalizations in these populations. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Vaccination coverage rates among immigrant children and adolescents (53.1% and 79.2%, respectively) Region of origin-specific vaccination rates (e.g. East Europe and Central Africa: 0.40-0.51; Southeast Asia: 2.68-4.42) Proportion of immigrant and refugee children and adolescents in Ontario (4.8% and 23.4% of children, 9.2% and 19.4% of adolescents)
+Posted: 1 day ago
+RSV is not well-tracked in Canada, making it unclear how many people 60 and older are hospitalized or die from RSV. However, experts estimate that hospitalization rates for RSV could be similar to those seen with influenza (12,200 hospitalizations and 3,500 deaths annually).
+Relevant values for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Age group: People 60 and older
+Hospitalization rate: Estimated to be similar to influenza (approximately 12,200 hospitalizations annually)
+Seasonality: RSV season usually starts in late fall and lasts until spring
+Vaccine efficacy: Arexvy vaccine has an 82% efficacy in preventing lower respiratory tract disease caused by RSV.
 
 Article 3 of 3
-Title: What's the future of wastewater testing for COVID-19?
-Publisher: CTV News
+Title: B.C. COVID-19 data: Just 76 people in hospital Thursday, lowest total in 2 years
+Publisher: CTV News Vancouver
 Trusted: False
-Posted: 7 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the key points: Wastewater surveillance has been an important tool for detecting COVID-19 outbreaks in communities throughout the pandemic. The number of wastewater testing sites in Ontario has decreased from 170 to 70, and funding for wastewater testing is set to end in March 2024. Experts are calling for a standardized system for wastewater surveillance to bolster and replace the current patchwork system. Wastewater testing can detect the SARS-CoV-2 virus before symptoms set in and can provide an early warning system for outbreaks. COVID-19-related hospitalizations in Canada are currently declining, but infectious disease specialist Dr. Isaac Bogoch warns that this is "about as good as it's going to get for a while" and that parameters will likely rise in the fall. Wastewater surveillance can provide valuable data on the presence of the virus in communities, particularly in vulnerable populations, and can help promote health equity. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Number of wastewater testing sites in Ontario: 70 (down from 170) Funding for wastewater testing: set to end in March 2024 Current trend in COVID-19-related hospitalizations in Canada: declining Expected trend in COVID-19-related hospitalizations in the fall: increasing Importance of wastewater surveillance for detecting outbreaks and promoting health equity: high.
+Posted: 2 days ago
+The article reports a low number of COVID-19 hospitalizations in British Columbia (76 as of Thursday), with Interior Health and Northern Health having minimal patients. This is not directly relevant to forecasting COVID-19 hospitalizations in Ontario, Canada. However, the article mentions that Island Health had 29 patients hospitalized, which could be a comparable regional data point for Ontario.

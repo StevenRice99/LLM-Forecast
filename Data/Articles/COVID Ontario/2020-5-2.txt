@@ -1,50 +1,83 @@
 Below are 7 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
 Article 1 of 7
+Title: NCC plans to close parkways to motor vehicles when Ontario begins to ease COVID-19 restrictions
+Publisher: CTV News Ottawa
+Trusted: False
+Posted: 1 day ago
+Relevant.
+- Ontario government's Stage One reopening framework (values: timing)
+- Motor vehicle restrictions on weekends in Ottawa (values: weekend/day effects)
+- Physical distancing measures (values: no effect on hospitalizations) 
+FALSE
+
+Article 2 of 7
 Title: Ontario teachers who work in Quebec anxious about May return
 Publisher: CBC.ca
 Trusted: False
 Posted: 2 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Summary: The article discusses the concerns of teachers who live in Ontario but work in Quebec, where elementary schools are set to reopen on May 11. The Quebec government has announced that schools will reopen if hospitalizations from COVID-19 remain stable or decline across the province. However, teachers are worried about the lack of personal protective equipment, physical distancing measures, and proper cleanliness and hygiene protocols in place to keep students and staff safe. Important values for forecasting COVID-19 hospitalizations in Ontario, Canada: Hospitalization rates in Quebec, which may impact the decision to reopen schools in Ontario The effectiveness of physical distancing measures and personal protective equipment in reducing the spread of COVID-19 in schools The potential for increased transmission of COVID-19 among students and staff in schools, which could lead to increased hospitalizations in Ontario The timing of reopening schools in Ontario, which is currently set for the end of May, and how this may impact hospitalization rates in the province.
-
-Article 2 of 7
-Title: 'All of our rooms are empty': Hospital ERs vacant during pandemic
-Publisher: CTV News
-Trusted: False
-Posted: 3 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting values most important for forecasting: 30-40% drop in ER patients in many Canadian hospitals, including those in Ontario Over 11,000 unoccupied beds in hospitals across Canada Almost 53,000 surgeries have been cancelled, including elective cases Ontario's health minister estimates that 35 people have died waiting for cardiac surgery, with the number expected to increase as the crisis continues Patients are avoiding hospitals due to pandemic fears, leading to delayed treatment and potential complications These values suggest that there is currently a significant underutilization of hospital capacity in Ontario, which could impact the accuracy of COVID-19 hospitalization forecasts. Additionally, the backlog of cancelled surgeries and delayed treatment may lead to an increase in non-COVID-19 related hospitalizations in the future.
+Hospitalizations from COVID-19 are being monitored by Quebec officials as a key factor in determining whether to reopen schools. The reopening of elementary schools was made contingent on either stable or declining hospitalizations across the province. This suggests that hospitalization trends are being used as an indicator for determining school reopening policies.
 
 Article 3 of 7
 Title: What happens if I catch coronavirus? How COVID-19 typically progresses
 Publisher: CTV News
 Trusted: False
 Posted: 3 days ago
-The article provides valuable information for forecasting COVID-19 hospitalizations in Ontario, Canada. Here are the key points: 1. Symptoms often show up within 5 days of infection, with a median incubation period of 5.1 days (American researchers' estimate). 2. Common symptoms in Canada include cough (74%), headache (57%), and physical weakness (55%). 3. Patients in Wuhan typically reported shortness of breath 5 days after their first symptoms appeared, and ended up in hospital 2 days after developing shortness of breath. 4. Hospitalized patients who survived were infected for a median of 20 days in total. 5. Recovery can be slow, with 45% of patients in a Chinese study still having coughs when they left hospital. These values can inform forecasting models for COVID-19 hospitalizations in Ontario, Canada, particularly in terms of predicting when patients are likely to present with symptoms, require hospitalization, and recover.
+Symptoms often show up within 5 days after infection (median incubation period: 5.1 days). Hospitalization typically occurs 2 days after shortness of breath appears, and ICU admission occurs around 10 days after symptoms first appear. Median duration of illness is approximately 20 days, with some patients recovering quickly and others experiencing a slow recovery lasting weeks or even months. These patterns can be used to inform forecasting models for COVID-19 hospitalizations in Ontario, Canada.
 
 Article 4 of 7
-Title: Ontario education minister says publicly-funded schools closed until at least May 31
-Publisher: CBC.ca
+Title: Is it safe to send children back to school? Doctors divided on Quebec's plan
+Publisher: CTV News
 Trusted: False
-Posted: 5 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting the values most important for forecasting: The province reported 437 new cases of COVID-19 on Sunday, with a total of 14,432 cases and 835 deaths (although CBC News has counted at least 948 deaths). Hospitalizations rose to 938 from 925 on Saturday, with 252 patients in intensive care units and 195 on ventilators. The number of long-term care homes with outbreaks is 147, with 654 deaths, 2,520 resident cases, and 1,161 staff cases. The province has processed 12,020 COVID-19 samples since its last update, with 7,417 samples waiting to be assessed. These values provide insight into the current state of the pandemic in Ontario, including the number of new cases, hospitalizations, and deaths, as well as the impact on long-term care homes. This information can be used to inform forecasting models and predict future trends in COVID-19 hospitalizations.
+Posted: 4 days ago
+Key values extracted:
+Provincial reopening plans (e.g. Quebec) can influence COVID-19 transmission rates.
+Children can serve as vectors of transmission and contribute to community spread.
+Reopening schools without proper safety measures in place may lead to secondary waves of infections.
+Community spread indicators include cluster cases in congregate environments.
+(Note: While the article primarily discusses Quebec's reopening plan, it also touches on national trends and Prime Minister Trudeau's cautionary stance, which may be relevant for forecasting COVID-19 hospitalizations in Ontario, Canada.)
 
 Article 5 of 7
-Title: Ford 'won't set hard dates' for reopening, saying Ontario must see drop in new COVID-19 cases first
-Publisher: CBC.ca
+Title: Abbott MediaRoom
+Publisher: Press Releases
 Trusted: False
 Posted: 5 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Key points for forecasting COVID-19 hospitalizations in Ontario: The province is currently experiencing a peak in COVID-19 cases, but the duration of this peak is uncertain. To begin reopening the economy, Ontario needs to see a "consistent two-to-four week decrease in the number of new daily COVID-19 cases". Other criteria for reopening include: + A decrease in cases not traced to a source. + A decrease in new hospitalizations. + The ability to trace 90% of new case contacts within 24 hours. Current hospitalization numbers: + 945 people hospitalized with COVID-19. + 241 patients in ICUs (down from 252). + 191 patients on ventilators (down from 195). Long-term care homes are a major concern, with 150 outbreaks reported and over 2,500 residents testing positive for COVID-19. The province has 6,000 empty hospital beds and over 2,000 ventilators available, but is cautious about reopening due to the risk of overwhelming the healthcare system. These points provide context for forecasting COVID-19 hospitalizations in Ontario, including the current state of the pandemic, the criteria for reopening, and the capacity of the healthcare system.
+Summary: The article mentions that more than 15% of Canadians diagnosed with COVID-19 are hospitalized (value: 0.15), according to Health Canada.
 
 Article 6 of 7
 Title: Ontario announces $4 an hour pandemic pay increase for front-line workers
 Publisher: CBC.ca
 Trusted: False
 Posted: 7 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: The province reported 476 new cases of COVID-19, bringing the total number of cases to 13,995. Hospitalizations from the virus rose to 925 from 910 on Friday. The number of patients in intensive care and on ventilators increased slightly, bringing the totals to 245 and 195, respectively. The growth rate of cases in the province has been reducing, with a positivity rate of 5% compared to 12.5-13% at the beginning of April. There have been 145 outbreaks in retirement homes across the province, with 625 people in long-term care homes dying of COVID-19. The province is taking measures to address the outbreaks, including redeploying staff to long-term care homes and sending military members to assist. These values suggest that while the growth rate of cases is reducing, hospitalizations and outbreaks in long-term care homes remain a concern. The province's efforts to address these issues, such as redeploying staff and sending military members, may impact the forecast of COVID-19 hospitalizations in Ontario, Canada.
+Here's a summary of the article:
+Ontario COVID-19 Update 
+The province reported 811 deaths from COVID-19, with 476 new cases bringing the total to 13,995.
+Hospitalizations rose to 925 from 910 on Friday, with 245 patients in intensive care and 195 on ventilators.
+The growth rate of cases has been reducing, with a positivity rate of 5% today (down from 12.5-13% at the beginning of April).
+Long-Term Care Homes 
+Five long-term care homes are receiving military backup to help combat outbreaks:
++ Orchard Villa in Pickering
++ Eatonville Care Centre in Mississauga
++ Altamont Community Care Centre in Toronto
++ Hawthorne Place in Toronto
++ Holland Christian Homes' Grace Manor in Barrie
+New Emergency Orders 
+The province has issued new emergency orders to provide staffing flexibility for employers in the intervenor sector (helping people with combined loss of hearing and vision).
+These orders will also allow community gardens to reopen, following guidelines from local medical officers of health.
+Military Deployment 
+Canadian military members are being deployed to long-term care homes to help combat outbreaks.
+A convoy arrived at Orchard Villa on Friday afternoon.
+Provincial Parks Closure 
+The closure of Ontario's provincial parks and conservation reserves has been extended until May 31, with no car camping or back country camping allowed.
+Reopening Framework 
+The province expects to release a framework next week for reopening the economy, with a gradual and measured approach that prioritizes health and safety.
 
 Article 7 of 7
 Title: 'Bunch of yahoos': Ontario premier slams anti-lockdown protesters at Queen's Park
 Publisher: CBC.ca
 Trusted: False
 Posted: 7 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: The article reports on an anti-lockdown protest at Queen's Park in Ontario, where approximately 200 people gathered to call for an end to the shutdown of services, businesses, and public spaces. Ontario Premier Doug Ford criticized the protesters, calling them "selfish" and "irresponsible" for demonstrating against provincial emergency orders aimed at slowing the spread of COVID-19. The article mentions that Ontario has been under a state of emergency for 40 days, with many services and businesses closed, and that the number of COVID-19 deaths, hospitalizations, and cases continues to rise. The Ontario health ministry reported a total of 811 deaths from COVID-19, with 245 people in intensive care units, and a total of 13,995 cases in the province, representing a 3.5% increase over the previous day. The article also mentions that according to a count by CBC News, there have been 901 deaths in Ontario. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: The number of COVID-19 deaths (811 reported by the Ontario health ministry, 901 reported by CBC News) The number of people in intensive care units (245) The total number of cases in the province (13,995) The percentage increase in cases over the previous day (3.5%) The duration of the state of emergency (40 days) These values provide insight into the current state of the pandemic in Ontario and can be used to inform forecasting models for COVID-19 hospitalizations.
+245 people are currently in intensive care units (ICU) due to COVID-19.
+The total number of cases in the province is 13,995, with a 3.5% increase over the previous day.
+There have been 811 deaths from COVID-19 reported by the Ontario health ministry, and 901 deaths according to a count by CBC News.
+The article provides context about the current situation in Ontario, including the number of people demonstrating against lockdown measures, which may be relevant for understanding potential community transmission rates.

@@ -1,50 +1,70 @@
-Below are 7 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
+Below are 6 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
-Article 1 of 7
+Article 1 of 6
 Title: 'Tis the season to be extra COVID-safe
 Publisher: CBC.ca
 Trusted: False
 Posted: 1 day ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the key points: COVID-19 activity in Ontario is currently "high" and showed no change in activity in the latest weekly update. Public Health recommends taking precautions to reduce the risk of infection and transmission, such as wearing a well-fitting mask, staying home when sick, and washing hands regularly. Good ventilation, such as opening windows and doors, can help reduce the risk of transmission. Air purifiers with HEPA filters can also help reduce the amount of viruses in the air. Rapid testing before gatherings is recommended by some experts, but the Department of Health disagrees, stating that rapid tests do not perform well in asymptomatic individuals. These points highlight the importance of taking precautions to reduce the risk of COVID-19 transmission, particularly during holiday gatherings. The article also notes that COVID-19 activity in Ontario is currently high, which could indicate an increased risk of hospitalizations.
+COVID activity in Ontario is "high" overall and increasing (Health Canada)
+Public Health recommends wearing a multi-layer well-fitting mask to reduce COVID-19 transmission
+Good ventilation can help reduce COVID-19 transmission by creating a cross-breeze of fresh air and improving air quality
+Air purifiers with HEPA filters may add an additional layer of protection against COVID-19
+CO2 monitors can indicate if there isn't enough ventilation in a space, but high or increasing levels don't necessarily mean low transmission risk
 
-Article 2 of 7
-Title: COVID-19: Peterborough area reports 4 deaths, risk index still high as cases climb - Peterborough
-Publisher: Global News Toronto
+Article 2 of 6
+Title: What we know so far about the new COVID variant, including symptoms
+Publisher: CTV News
 Trusted: False
 Posted: 2 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting the values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: The community risk index for COVID-19 remains at a high level for the Peterborough, Ont., region for the eighth consecutive week. Four of the five risk indicators remain unchanged, with PCR test per cent positivity and wastewater surveillance at "very high" levels, case rate and outbreaks at "high" levels. Hospitalizations: As of Sunday, Dec. 17, there were 15 inpatients with COVID-19 at the Peterborough Regional Health Centre, with a seven-day rolling average of 19 patients. Outbreaks: There have been 293 outbreaks since the pandemic was declared, with nine active outbreaks within the health unit's jurisdiction. Vaccination: Approximately 82 per cent of area residents have two doses of a COVID-19 vaccine, with 27,000 doses administered since Sept. 14, 2023. These values suggest that the COVID-19 situation in the Peterborough region remains concerning, with high levels of transmission and hospitalizations. The vaccination rate is relatively high, but the number of outbreaks and hospitalizations indicates that the virus is still spreading in the community. This information can be used to inform forecasting models and predict future hospitalization trends in Ontario, Canada.
+A summary relevant for forecasting COVID-19 hospitalizations in Ontario, Canada is:
+COVID-19 hospitalization forecast: LOW RISK. JN.1 variant may cause an increase in SARS-CoV-2 cases due to a surge of respiratory infections during winter season. Symptoms are typical (dry cough, headache, fever, fatigue) and not more severe than previous variants, such as Omicron BA.2. Ontario is among the countries reporting JN.1 sequences (6.8% of total).
 
-Article 3 of 7
+Article 3 of 6
 Title: COVID, flu, RSV levels stay high during busy gathering time
 Publisher: CBC.ca
 Trusted: False
 Posted: 3 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Ottawa's COVID-19 numbers are stable but very high, with a weekly average test positivity rate of 16%. The average number of Ottawa residents in local hospitals for COVID-19 is stable at 73, with a separate count of patients who tested positive for COVID after being admitted for other reasons also stable. There were 68 new patients in the previous week, which is considered a very high number. The health unit reported 251 more COVID cases in the last week and three more COVID deaths. The Eastern Ontario Health Unit (EOHU) has 30 COVID hospitalizations, up from 19 a week ago, and the Kingston area's health unit has 28 active COVID-19 patients in its hospitals, which is considered very high and rising. Hastings Prince Edward (HPE) Public Health has a weekly COVID hospital average of 23, which is its highest average of the year. These values suggest that COVID-19 hospitalizations in Ontario, Canada are likely to remain high in the coming weeks, particularly in the Ottawa area and surrounding regions. The stable but high test positivity rate, combined with the high number of new patients and hospitalizations, indicates a continued strain on the healthcare system.
+Here is a brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+COVID rates in Ottawa remain generally stable but very high (approx. 73 average hospital patients per week).
+Wastewater levels have been rising for about five months and are considered very high.
+Test positivity rate in Ottawa is around 16% (very high).
+There were 251 new COVID cases reported in the last week, with a very high number of new outbreaks (33 active outbreaks).
+Hospitalizations are also increasing in other regions, such as Kingston (28 patients), Hastings Prince Edward (23 patients), and Western Quebec (83 patients).
 
-Article 4 of 7
+Article 4 of 6
 Title: Local health units remind you to protect yourself and others from respiratory illnesses this season
 Publisher: News - KFL&A Public Health
 Trusted: False
 Posted: 3 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Summary: The article highlights the importance of taking public health precautions to reduce the spread of respiratory illnesses, including COVID-19, influenza, and respiratory syncytial virus (RSV), during the holiday season. Medical Officers of Health from various public health units in Ontario emphasize the need for individuals to get vaccinated against COVID-19 and flu, especially for those at high risk of severe illness, such as older adults, pregnant persons, young children, and people with weakened immune systems. Key points relevant to forecasting COVID-19 hospitalizations in Ontario: Respiratory virus season has arrived, and COVID-19, influenza, and RSV are circulating simultaneously. Many people in the community are at higher risk of severe illness, complications, and hospitalizations. Public health precautions, such as getting vaccinated, washing hands frequently, avoiding touching eyes, nose, and mouth, cleaning and disinfecting surfaces, covering coughs and sneezes, and staying home when sick, are essential to reduce the spread of illness. The article mentions that influenza cases are increasing in Ontario, which could potentially lead to an increase in hospitalizations. Overall, the article highlights the importance of taking proactive measures to reduce the spread of respiratory illnesses, which can help mitigate the risk of hospitalizations due to COVID-19 and other respiratory viruses.
+Respiratory viruses, including COVID-19, are circulating at the same time as common cold and cough viruses.
+Certain groups, such as older adults, pregnant persons, young children, and people with weakened immune systems, are at higher risk of severe illness and complications.
+Public health precautions, such as vaccination (COVID-19 and flu), handwashing, and wearing a well-fitted mask, are recommended to reduce the spread of respiratory illnesses.
+The frequency of severe illness and hospitalizations due to COVID-19 is being monitored by public health units in Ontario.
 
-Article 5 of 7
+Article 5 of 6
 Title: JN.1, the WHO’s newest ‘variant of interest,’ has spiked COVID wastewater levels to all-time highs in some countries. What you need to know about the ‘Pirola’ offshoot
 Publisher: Fortune
 Trusted: False
 Posted: 3 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada, as it discusses a new COVID-19 variant, JN.1, which has been declared a "variant of interest" by the World Health Organization (WHO). The variant has been spreading rapidly in some countries, including Germany, the Netherlands, and Denmark, and has been linked to increased hospitalizations in some areas, such as New York City. Key points relevant to forecasting COVID-19 hospitalizations in Ontario, Canada, include: JN.1 is a descendant of the BA.2.86 variant, which was known for its high number of mutations and ability to evade immunity. JN.1 has an additional mutation, L455S, which boosts its ability to evade antibodies from prior infection and vaccination. The variant is spreading rapidly, with a doubling time of around two weeks, although sequencing of COVID viral samples is at a near all-time low, making it difficult to determine the exact spread. Hospitalizations are rising in some areas, such as New York City, although it is unclear if this is solely due to JN.1 or other factors such as waning population immunity. COVID vaccines are thought to provide good protection against severe illness, hospitalization, and death from JN.1, although experts caution that the variant's increased immune evasion could lead to increased hospitalizations. Experts recommend continued vigilance, including wearing effective respirators in public spaces and taking reasonable precautions during the respiratory virus season. Overall, the article suggests that JN.1 has the potential to contribute to increased hospitalizations in Ontario, Canada, although the exact impact is uncertain and will depend on various factors, including the spread of the variant, population immunity, and public health measures.
+The article discusses the origin and evolution of JN.1, a newly emerged variant of COVID-19. Here's a summary:
+Scientists believe that JN.1 evolved from BA.2.86, which was a highly mutated variant that circulated in a single host with a long-term infection.
+The virus likely "holed up" in the GI system, making it difficult to detect through traditional PCR tests.
+When the variant spilled back into the population, it began to refine its ability to spread and evade immunity.
+JN.1 is notable for acquiring the L455S mutation, which boosts its ability to evade antibodies from prior infection and vaccination.
+The article also discusses the potential future of JN.1:
+Like BA.2.86, JN.1 will continue to evolve through a process of parallel evolution, potentially acquiring new mutations that make it more troubling.
+Some experts believe that JN.1 could be the start of a new era in the pandemic, with many possible descendants emerging from this variant.
+Public health officials cannot rely solely on current COVID landscape when planning for the future, as "weird, one-off things" can always come back.
+Finally, the article mentions the possibility of assigning JN.1 a new nickname, but the variant trackers have decided to refer to it as a member of the Pirola family, rather than giving it its own distinct name.
 
-Article 6 of 7
+Article 6 of 6
 Title: Coronavirus subvariant JN.1 growing fast in US, already dominant in the Northeast
 Publisher: CNN
 Trusted: False
 Posted: 4 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here's a brief summary highlighting the most important values: The JN.1 subvariant, a descendant of BA.2.86, is rapidly spreading globally and has already become dominant in the Northeast US, causing about 20% of new COVID-19 infections. JN.1 has a mutation that helps it escape immunity, leading to a twofold decrease in antibody neutralization. Several countries, including Canada, have seen exponential growth of JN.1 and rising hospitalizations. Waning immunity due to low vaccination rates is contributing to the spread of JN.1. The current COVID-19 vaccine offers good protection against JN.1, but vaccination rates are low, with only 18% of adults having received the latest vaccine in the US. Hospitalizations for COVID-19 have risen 51% in the past four weeks, and continued increases could strain hospital capacity. These values suggest that the spread of JN.1 could lead to an increase in COVID-19 hospitalizations in Ontario, Canada, especially if vaccination rates remain low.
-
-Article 7 of 7
-Title: The updates on flu, COVID-19 and other respiratory viruses for the week of Dec. 15
-Publisher: The Globe and Mail
-Trusted: False
-Posted: 5 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the key points: The Public Health Agency of Canada reports a slight increase in the number of beds occupied by patients in hospital as a result of COVID-19, from 4,679 to 4,687, for the week ending Dec. 12. The number of COVID-19 patients in the ICU remained the same at 159. Influenza activity is rising in Canada, with widespread flu activity in Alberta and parts of B.C. Adults 65 and older and children under five have the highest cumulative hospitalization rates for flu in Canada. Nearly 12% of adults report developing long-term symptoms after a COVID-19 infection. Flu shots and COVID-19 boosters are available across the country, including in Ontario. These points suggest that COVID-19 hospitalizations in Ontario may be influenced by the rising influenza activity, the availability of flu shots and COVID-19 boosters, and the ongoing circulation of the COVID-19 virus. The data on hospitalizations and ICU admissions can inform forecasting models, while the information on long-term symptoms and vaccination efforts can provide context for understanding the potential impact of COVID-19 on hospitalizations.
+JN.1 is a rapidly spreading subvariant causing about 20% of new COVID-19 infections in the US and growing quickly in Canada.
+Prevalence of JN.1 more than doubled in the US between late November and mid-December.
+The World Health Organization named JN.1 a variant of interest due to its "rapidly increasing spread".
+Studies suggest that there's about a twofold decrease in antibody ability to neutralize this subvariant, which could portend another wave of infections.
+In several European countries, exponential growth of JN.1 has been observed along with rising hospitalizations.
+COVID-19 hospitalization rates have risen 51% in the US over the past four weeks, straining hospital capacity.

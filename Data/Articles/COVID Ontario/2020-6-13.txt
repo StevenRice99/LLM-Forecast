@@ -1,15 +1,51 @@
-Below are 2 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
+Below are 5 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
-Article 1 of 2
-Title: Ontario records lowest number of new COVID-19 cases in more than two months
-Publisher: CTV News Toronto
+Article 1 of 5
+Title: 'The pandemic is not over': Outbreak declared in retail workplace as active COVID-19 cases drop in Waterloo Region
+Publisher: CTV News Kitchener
+Trusted: False
+Posted: 1 day ago
+The article mentions the number of active cases and total cases in Waterloo Region (1,191) and across the province (31,726).
+It reports a significant dip in new COVID-19 cases in the province (182) and a decrease in active cases in Waterloo Region (102).
+Outbreaks are mentioned at retail, manufacturing/industrial, food processing, long-term care, and retirement homes.
+The article does not provide hospitalization data directly.
+
+Article 2 of 5
+Title: City facilities won't reopen Friday despite province's go-ahead
+Publisher: CBC.ca
+Trusted: False
+Posted: 3 days ago
+COVID-19 cases, hospitalizations, and institutional outbreaks are declining in Ottawa.
+Testing is increasing, which can provide valuable data for forecasting hospitalizations.
+The city's medical officer of health mentioned that the number of new COVID-19 cases is in decline, but did not provide specific numbers.
+This information is crucial for understanding the trend of hospitalizations in Ontario and making informed forecasts.
+
+Article 3 of 5
+Title: Is it safe to hug a friend or loved one at this point in the pandemic?
+Publisher: CTV News
 Trusted: False
 Posted: 5 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting the most important values: New cases: 243 ( lowest since late March) Total confirmed cases: 30,860 Resolved cases: 24,492 Deaths: 2,450 (including 24 new deaths) Hospitalizations: 603 (down from 635 on Sunday) ICU patients: 118 (with 81 on ventilators) Testing: 15,357 tests conducted in the last 24 hours, with 866,889 tests completed since the outbreak began. These values provide insight into the current trend of COVID-19 cases, hospitalizations, and deaths in Ontario, which can be used to inform forecasting models.
+Experts agree that hugs can spread COVID-19 through droplets or physical contact.
+The risk of transmission increases when hugging people outside of one's immediate household or those at high-risk (e.g., older adults, grandparents).
+Wearing masks, keeping the hug brief, facing away from each other, and holding your breath can reduce the risk of transmission.
+However, not all experts agree on the safety of hugs, with some recommending avoiding them altogether.
 
-Article 2 of 2
+Article 4 of 5
+Title: Survivors who missed out on polio vaccine hope for breakthrough against COVID-19
+Publisher: CTV News
+Trusted: False
+Posted: 6 days ago
+Estimated 11,000 people in Canada were left paralyzed by polio between 1949 and 1954 (relevant for understanding population health trends).
+Provincial public health officials closed some schools and restricted children from leaving their homes during polio epidemics (similar to measures taken during COVID-19 outbreaks).
+Polio was transmitted primarily through ingestion of contaminated food or water, affecting breathing muscles in severe cases (relevance to respiratory transmission of COVID-19).
+Ventilators used for COVID-19 patients remind Miki Boleen of mechanical respirators (iron lungs) used during polio epidemics (highlighting similarities between medical responses).
+
+Article 5 of 5
 Title: Ontario reports spike in COVID-19 cases but admits dozens are result of reporting delay
 Publisher: CTV News Toronto
 Trusted: False
 Posted: 7 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: New cases: 455 (with 68 cases due to reporting delay) Total cases: 30,202 Resolved cases: 23,947 (79.3% of all patients) Hospitalizations: 673 (down from Friday's report) ICU patients: 117 Ventilator-assisted patients: 97 Deaths: 35 new deaths, total 2,407 Testing: 23,105 tests conducted in the last 24 hours, 12,384 tests under investigation These values provide insight into the current state of COVID-19 in Ontario, including the number of new cases, hospitalizations, and deaths, which can be used to inform forecasting models. Additionally, the article highlights the impact of the virus on different age groups and regions, which can also be useful for forecasting purposes.
+There are currently 673 people hospitalized with COVID-19 in Ontario.
+117 of those hospitalized have severe symptoms requiring ICU treatment.
+97 ICU patients require ventilator support.
+These values are most important for forecasting COVID-19 hospitalizations in Ontario, Canada.

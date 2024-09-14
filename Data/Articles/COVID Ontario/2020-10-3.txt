@@ -1,43 +1,101 @@
-Below are 6 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
+Below are 8 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
-Article 1 of 6
+Article 1 of 8
 Title: Why a 2nd wave of COVID-19 is more dangerous than it looks
 Publisher: CBC News
 Trusted: False
 Posted: Today
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. The article highlights the following values important for forecasting COVID-19 hospitalizations in Ontario: 1. Ontario public health officials are projecting up to 1,000 new cases per day this month. 2. The number of patients in Ontario's hospitals with confirmed cases of COVID-19 doubled in just one week. 3. Testing backlogs in Ontario reached a record high of more than 90,000 this week. 4. The number of contacts per COVID-19 case is "much higher" than in the first wave, according to Dr. Barbara Yaffe, Ontario's associate chief medical officer of health. 5. Dr. Samir Sinha, director of geriatrics at Sinai Health and University Health Network in Toronto, warns that the rising case numbers across Canada are lagging indicators that will likely lead to increases in hospitalizations and deaths. 6. Older Canadians may be next to feel the brunt of the pandemic, with potentially thousands of deaths. These values suggest that Ontario is experiencing a rapid increase in COVID-19 cases, which may lead to increased hospitalizations and deaths, particularly among older Canadians. This information is crucial for forecasting COVID-19 hospitalizations in Ontario and informing public health decisions to mitigate the spread of the virus.
+The article discusses the potential consequences of a second wave of COVID-19 in Canada, emphasizing the importance of learning from the first wave and being prepared to mitigate its impact.
+Key points:
+1. Higher risk for older Canadians: The elderly are at higher risk of serious outcomes from COVID-19, with those over 70 accounting for almost 90% of all deaths in Canada.
+2. Disproportionate impact on marginalized communities: Coronavirus outbreaks have hit poor and diverse neighborhoods hard, while Black Canadians were more likely to be infected or hospitalized by the disease.
+3. Importance of physical distancing and mask-wearing: These measures can drastically reduce the risk of catching COVID-19.
+4. Asymptomatic transmission and superspreading events: The virus can spread even among asymptomatic individuals, and superspreaders have been identified in several studies.
+5. Virus hasn't mutated to become less infectious or deadly: Despite improvements in treatment and testing, the virus remains a significant threat.
+Experts quoted in the article emphasize the need for:
+1. Data-driven decision-making: Thresholds for re-entering lockdowns should be based on data and targeted toward specific activities leading to spread.
+2. Aggressive control of community spread: Health authorities must be proactive in controlling the spread of COVID-19, especially among vulnerable populations.
+3. Preparation for potential reimposition of lockdowns: Canadians need to understand that lockdowns may become necessary again if cases surge.
+Overall, the article highlights the importance of being prepared and taking a data-driven approach to mitigate the impact of a second wave of COVID-19 in Canada.
 
-Article 2 of 6
-Title: Chance to prevent COVID resurgence 'narrows with each passing day,' Tam says
+Article 2 of 8
+Title: Restrictions on indoor fall and winter sports in Ottawa possible due to COVID-19: Dr. Etches
+Publisher: CTV News Ottawa
+Trusted: False
+Posted: 2 days ago
+Summary: Dr. Etches has concerns about indoor sports transmission. She suggests stopping such activities if cases rise could lead to progress in decreasing close contacts and potentially flattening the case curve. Key values for forecasting:
+Case count trajectory
+Indoor sports participation
+Physical distancing measures in place
+
+Article 3 of 8
+Title: Woman with skull defect leaks cerebrospinal fluid from her nose after a nasal swab COVID-19 test
 Publisher: CTV News
 Trusted: False
-Posted: Today
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Summary: Ontario reported 653 new cases of COVID-19, down from the previous day's record high of 732. Quebec reported 1,107 new cases, the largest daily increase since the pandemic began. The country's chief public health officer, Dr. Theresa Tam, warned that Canada is running out of time to prevent a major resurgence of COVID-19. Ontario has a backlog of over 91,000 tests considered "under investigation". Public health officials in Toronto are shifting their focus to only high-risk scenarios due to the increasing case count. New restrictions have been imposed in Ottawa, Toronto, and Peel Region, including restrictions on restaurants, bars, banquet halls, and gyms. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Daily case counts in Ontario and Quebec Backlog of tests considered "under investigation" in Ontario Increasing case count in Toronto and other hot spots New restrictions imposed in Ottawa, Toronto, and Peel Region Warning from Dr. Theresa Tam about the potential for a major resurgence of COVID-19.
+Posted: 2 days ago
+The article does not mention hospitalization numbers or trends directly relevant to forecasting COVID-19 hospitalizations in Ontario, Canada. However, it highlights the importance of considering alternative testing methods (e.g., non-nasal swabs) for patients with pre-existing medical conditions like sinus issues or skull base defects, which may increase their risk of complications during COVID-19 testing and subsequent care.
 
-Article 3 of 6
+Article 4 of 8
 Title: Researcher urges Canada to track link between race and COVID-19 as study reveals troubling trend
 Publisher: CTV News
 Trusted: False
 Posted: 3 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. The study highlights the increased risk of severe outcomes from COVID-19 among Black, South Asian, and Indigenous Canadians due to a higher likelihood of multiple pre-existing medical conditions. Key values for forecasting COVID-19 hospitalizations in Ontario, Canada, include: Indigenous Canadians are nearly twice as likely as white Canadians to have three or more pre-existing conditions. Foreign-born Black Canadians are 1.79 times as likely to have three or more pre-existing conditions. Foreign-born South Asians are 1.49 times as likely to have three or more pre-existing conditions. Hypertension, diabetes, and obesity are the most common conditions. Low-income individuals and those without a post-secondary education are more likely to have three or more pre-existing conditions, with a likelihood of nearly four times that of white Canadians. These findings suggest that racialized groups in Ontario, Canada, may be disproportionately affected by COVID-19, which could impact hospitalization rates. By considering these factors, forecasters can better understand the potential risks and develop more accurate predictions of COVID-19 hospitalizations in the province.
+The study finds that Indigenous Canadians are nearly twice as likely and Black Canadians 1.79 times as likely to have three or more pre-existing conditions (e.g., diabetes, asthma, cancer) linked to severe illness and hospitalization with COVID-19.
+These conditions include hypertension, diabetes, and obesity, which were the most common among racialized groups in Canada.
+The study suggests that tracking immigration status, income, and racial background is crucial for better understanding and mitigating the pandemic's harm.
 
-Article 4 of 6
-Title: Ontario doctors sign letter to Premier advising against sweeping lockdowns
+Article 5 of 8
+Title: Limit Thanksgiving dinner to your household: Dr. Etches
 Publisher: CTV News Ottawa
 Trusted: False
 Posted: 3 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. The article discusses the rising COVID-19 case numbers in Ontario and the debate among health professionals about whether to impose a new lockdown. The letter signed by 21 Ontario doctors argues that another province-wide lockdown would not be helpful and instead suggests a tactical localized approach to deal with the increasing case numbers. Important values for forecasting COVID-19 hospitalizations in Ontario, Canada mentioned in the article include: Daily new cases: 700 new cases of COVID-19 were recorded on Monday, the highest number of new cases recorded in a single day. Positive percentage rate: 1.7% of tests were positive on Monday, compared to 5.2% on April 24. Hospitalizations: 128 people were in hospital with COVID-19 complications on Monday, up from 65 a week before, but still lower than the peak in May. ICU admissions: Not mentioned in the article, but the letter from the Ontario Hospital Association mentions a rise in ICU admissions in regions where the speed of transmission was underestimated. Overall, the article suggests that while case numbers are increasing, hospitalizations and ICU admissions are not yet at unmanageable levels, and a targeted approach may be more effective than a province-wide lockdown.
+Relevant for forecasting COVID-19 hospitalizations in Ontario, Canada 
+64 new cases of COVID-19 in Ottawa on Wednesday
+Dr. Vera Etches urges residents to limit close contacts to those in their own household, including for Thanksgiving dinner
+Medical officer of health emphasizes the importance of sticking with people you live with during social gatherings
+Single parents and support systems are mentioned as being important for people during the COVID-19 pandemic
 
-Article 5 of 6
+Article 6 of 8
+Title: One in seven Canadians experiencing food insecurity during the pandemic: report
+Publisher: CTV News
+Trusted: False
+Posted: 3 days ago
+This article is NOT relevant for forecasting COVID-19 hospitalizations in Ontario, Canada.
+
+Article 7 of 8
 Title: Tracking the number of active COVID-19 cases in northeastern Ontario
 Publisher: CTV News Northern Ontario
 Trusted: False
 Posted: 4 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: The article reports on the number of active COVID-19 cases in northeastern Ontario, including the number of new cases, resolved cases, and deaths. As of June 24, there are 254 active cases in northeastern Ontario, with 18 new infections confirmed and 14 others resolved. The article also reports on the number of cases involving variants of concern (VOCs), with 961 cases detected in the Sudbury and Manitoulin area, 211 cases in the North Bay area, and 82 cases in the Timiskaming region. The Porcupine Health Unit has extended its lockdown for an additional two weeks due to the uncontrollable surge in new COVID-19 infections and the prevalence of the Delta variant. The article also mentions the number of COVID-related hospitalizations at Health Sciences North, with four patients currently hospitalized and three in the intensive care unit (ICU). Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Number of active COVID-19 cases: 254 (as of June 24) Number of new cases: 18 (as of June 24) Number of resolved cases: 14 (as of June 24) Number of deaths: 31 (in the Sudbury and Manitoulin Districts) Number of cases involving VOCs: 961 (in the Sudbury and Manitoulin area), 211 (in the North Bay area), 82 (in the Timiskaming region) Number of COVID-related hospitalizations: 4 (at Health Sciences North, with 3 in the ICU)
+Here is a summary of the COVID-19 situation in the Cochrane District and Timiskaming District:
+Cochrane District: 
+1,972 confirmed cases since the pandemic began (1,826 resolved)
+29 deaths
+Active cases:
++ James Bay coast area: 131
++ Timmins: 8
++ Cochrane/Matheson/Iroquois Falls/Smooth Rock Falls area: 6
++ Kapuskasing/Opasatika/Val Rita-Harty/Moonbeam area: 1
+Current stay-at-home orders have resulted in a quadrupling of cases, with 1,972 cases now confirmed.
+Residents ages 12 and older in the Cochrane District and town of Hornepayne can book an appointment for a COVID-19 vaccination online or by calling the health unit.
+Timiskaming District: 
+Zero active COVID-19 cases remaining after the last infection was resolved on Friday
+Total cases since the pandemic began: 208 (208 resolved)
+Two COVID-related deaths have occurred in the district, with one death occurring on Jan. 11 and another on March 22.
+A total of 82 cases involving a variant of concern have been reported in the district.
+Residents can book an appointment for a COVID-19 vaccination online or by calling the health unit.
+Regional Situation: 
+Since Thursday, there have been 56 new cases added and 178 resolved.
+The previous week saw 193 new infections confirmed.
+A record-breaking surge of 284 new infections was reported prior to that.
+Public health officials are warning of a continued risk of community spread.
 
-Article 6 of 6
-Title: Ontario's 2nd wave of COVID-19 forecast to peak in October
-Publisher: CBC.ca
+Article 8 of 8
+Title: Ottawa residents frustrated with multi-day wait for COVID-19 test results
+Publisher: CTV News Ottawa
 Trusted: False
-Posted: 5 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: The COVID-19 Modelling Collaborative predicts that Ontario's second wave will peak in midto late October, with the potential to exceed 1,000 new cases per day. The average number of new cases reported daily in Ontario is currently running four times higher than what it was at the end of August. The researchers forecast that if the second wave follows the patterns seen in Ontario in the spring, Michigan this summer, or the Australian state of Victoria, the number of COVID-19 patients in hospital will increase, but not beyond the capacity of the hospitals. However, if the second wave is as severe as the first wave that hit Italy, COVID-19 patients could fill Ontario's hospital wards and ICUs beyond their capacity. The researchers stress that the demographics of who gets infected in the coming weeks will impact the number of hospitalizations. The number of people aged 70 or older with an active confirmed case of COVID-19 has increased 34% in the space of a week. Ontario has around 2,000 intensive care beds, and the province plans to add 139 in October. The researchers calculate that Ontario has around 475 beds available for non-emergency surgery patients and COVID patients. If more than 100 people with COVID-19 need ICU care, they would be competing for space with scheduled surgery cases. The projections suggest that if Ontario's second wave follows what happened in the Australian state of Victoria, some 350 to 400 people will need an ICU bed at peak demand in late October. If the second wave in this province plays out as Michigan's did, the forecast is for more than 200 patients with COVID-19 in the ICUs from late October onwards. These values are important for forecasting COVID-19 hospitalizations in Ontario, Canada, as they provide insight into the potential number of cases, hospitalizations, and ICU demand, as well as the demographics of who is getting infected and the capacity of the healthcare system.
+Posted: 6 days ago
+The backlog of COVID-19 tests has resulted in a wait time of up to 7 days for test results.
+There are currently over 65,000 tests on backorder in Ontario.
+Rapid testing capacity is limited and not yet widely available in Canada.
+The article highlights the challenges of managing the pandemic with delayed test results.

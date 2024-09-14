@@ -1,22 +1,77 @@
-Below are 3 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
+Below are 7 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
-Article 1 of 3
-Title: Canada buying 140,000 blood tests to begin immunity testing of COVID-19
-Publisher: CTV News
-Trusted: False
-Posted: 3 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada, as it discusses the efforts to determine the number of people who have already contracted COVID-19 through serology testing, which can help guide public health measures and vaccination strategies. The article highlights the following values important for forecasting COVID-19 hospitalizations in Ontario, Canada: The number of people who have already contracted COVID-19, which can help estimate the potential number of hospitalizations in a second wave. The populations most vulnerable to new outbreaks, which can inform targeted public health measures and vaccination strategies. The duration of immunity after contracting COVID-19, which can impact the likelihood of re-infection and subsequent hospitalization. The accuracy of serology testing, with Abbott's test showing only one false positive in over 1,000 specimens tested. The timeline for the arrival of testing kits and the start of immunity testing, which can inform forecasting models. However, it's worth noting that the article does not provide specific data or projections for Ontario, Canada, but rather discusses the national efforts to track COVID-19 immunity.
-
-Article 2 of 3
+Article 1 of 7
 Title: Ontario reports small increase in new COVID-19 cases but downward trend continues
 Publisher: CTV News Toronto
 Trusted: False
 Posted: 3 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the values most important for forecasting: New cases: 190 (a 0.6% increase from the previous day) Total cases: 32,744 Resolved cases: 27,784 Deaths: 2,550 (with 12 new deaths since Tuesday) Hospitalizations: 383 patients (with 92 in ICU and 65 on ventilators) Positivity rate: around 1% Testing: 24,205 tests completed in the last 24 hours, with 1,071,429 tests conducted to date. These values provide insight into the current trend of COVID-19 cases, hospitalizations, and deaths in Ontario, which can be used to inform forecasting models.
+Total cases: 32,744
+Resolved cases: 27,784 (81% of total)
+Deaths: 2,550
+Hospitalized patients with COVID-19: 383
+ICU patients with COVID-19: 92
+Ventilator-assisted patients: 65
 
-Article 3 of 3
-Title: Ontario records fewer than 200 new cases of COVID-19 for third straight day
-Publisher: CTV News Toronto
+Article 2 of 7
+Title: Canada buying 140,000 blood tests to begin immunity testing of COVID-19
+Publisher: CTV News
+Trusted: False
+Posted: 3 days ago
+A study found Abbott's serology test had only one false positive in over 1,000 specimens tested and could detect COVID-19 antibodies 17 days after symptoms began.
+Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Prevalence of COVID-19 antibodies among the population
+Population immunity levels
+
+Article 3 of 7
+Title: Cheap and widely available coronavirus drug proves to be life-saving, researchers say
+Publisher: CTV News
 Trusted: False
 Posted: 4 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: 184 new cases of COVID-19 were reported in Ontario, representing a 0.6% increase from the previous day. The number of resolved cases (218) outpaced the number of new cases, resulting in 34 fewer active cases in the province. The total number of cases in Ontario is 32,554, with 27,431 resolved cases and 2,538 deaths. Hospitalizations for COVID-19 in Ontario continue to decline, with 413 patients currently being treated for the virus, down from 419 the previous day. 98 patients are currently in an intensive care unit, with 70 breathing with the assistance of a ventilator. The majority of new cases were reported in Toronto (79), Peel Region (23), and Windsor-Essex (16). These values are important for forecasting COVID-19 hospitalizations in Ontario, Canada, as they provide information on the current trend of cases, hospitalizations, and deaths, as well as the regions most affected by the virus.
+Relevant.
+The article reports on a study of dexamethasone's effectiveness in reducing COVID-19 mortality among severely ill hospitalized patients. Key findings:
+Dexamethasone reduced deaths by 35% in patients requiring breathing machines and 20% in those needing supplemental oxygen.
+The treatment appears to have no benefit for less ill patients.
+An estimated one death is prevented for every eight patients treated with dexamethasone on breathing machines, and one for every 25 patients on extra oxygen alone.
+
+Article 4 of 7
+Title: Flush with caution: study says coronavirus particles could be spread by toilet 'plumes'
+Publisher: CTV News
+Trusted: False
+Posted: 4 days ago
+The virus can survive in the digestive tract and be present in stool.
+Aerosol particles from flushing toilets can spread infectious particles up to 1.07 meters high, including over toilet seats and bathroom floors.
+Particles can continue to spread through the air for an extended period after the initial flush (up to 70 seconds).
+The virus remains viable in the air for three hours and on surfaces like stainless steel and plastics for up to 72 hours.
+These values are important for forecasting COVID-19 hospitalizations in Ontario, Canada, as they suggest that toilet hygiene can contribute to transmission of the virus.
+
+Article 5 of 7
+Title: 'Frightening': Doctor debunks claims that wearing a face mask is more harmful than COVID-19
+Publisher: CTV News
+Trusted: False
+Posted: 4 days ago
+The article debunks false claims about wearing face masks causing decreased oxygen intake and increased inhalation of toxins.
+Dr. Gorfinkel states that the data is clear: countries with mask-wearing policies see lower disease cases, fewer hospitalizations, and less mortality.
+She emphasizes that only a small minority of people may experience negative health outcomes from wearing a mask, such as those with COPD or psychological trauma related to face coverings.
+Most important values for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Prevalence of COPD and other respiratory conditions
+Compliance with public health guidelines on mask-wearing
+
+Article 6 of 7
+Title: More than a quarter of Canadians at higher risk of severe COVID-19 illness: study
+Publisher: CTV News
+Trusted: False
+Posted: 5 days ago
+Here's a brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+27% of Canadians (approximately 9 million people) have underlying health conditions that increase the risk of severe COVID-19 symptoms.
+Of those with underlying conditions, about 1.8 million (5% of the population) would require hospitalization if infected.
+The proportion of the population at increased risk of severe COVID-19 is higher in Ontario, Canada than in Africa due to an older country population.
+
+Article 7 of 7
+Title: Coronavirus: What's happening around the world on June 13
+Publisher: CBC News
+Trusted: False
+Posted: 7 days ago
+The article reports 8,163 COVID-19 deaths and 98,408 cases in Canada.
+It mentions that daily coronavirus hospitalizations in Texas have reached a new high, but no specific numbers are given for Ontario or other Canadian provinces.
+The article provides context on the global pandemic situation, including the number of cases and deaths worldwide.
+No specific data or trends relevant to forecasting COVID-19 hospitalizations in Ontario, Canada.

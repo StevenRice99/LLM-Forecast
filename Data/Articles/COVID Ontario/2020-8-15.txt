@@ -1,29 +1,23 @@
-Below are 4 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
+Below are 2 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
-Article 1 of 4
-Title: Ontario reports highest number of new COVID-19 cases in four days
-Publisher: CTV News Toronto
-Trusted: False
-Posted: Today
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: New cases: 106 (a slight uptick) Hospitalizations: 39 (continue to decline) ICU patients: 17 Ventilator patients: 10 Deaths: 1 new death, total 2,789 Recoveries: 36,873 Total lab-confirmed infections: 40,565 Testing: over 2.5 million tests conducted, 30,000 tests in the last 24 hours, 33,852 test samples under investigation These values provide insight into the current trend of COVID-19 cases, hospitalizations, and deaths in Ontario, which can inform forecasting models.
-
-Article 2 of 4
-Title: 'Relatively safe' right now to open schools in September: uOttawa epidemiologist
+Article 1 of 2
+Title: Ontario mandates minimum of 225 minutes/day for 'Zoom-style' classes during online learning
 Publisher: CTV News Ottawa
 Trusted: False
-Posted: Today
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting values most important for forecasting: Current case load in Ottawa is relatively low, with 11 new cases and 118 active cases. Epidemiologist Dr. Raywat Deonandan believes it's "relatively safe" to open schools in September, but warns that schools have a "big potential to spark a second wave" of COVID-19 cases in Ottawa and across Ontario this fall and winter. About a quarter of families plan to keep their children at home for online learning due to the COVID-19 pandemic, which may impact the potential for outbreaks in schools. Dr. Deonandan emphasizes the importance of driving the case load in the community as low as possible to keep schools safe. He also highlights the need for measures such as more distancing in classrooms, smaller class sizes, better ventilation and filtration systems, and protocols for opening windows and outdoor classes to further protect students and teachers. These values are important for forecasting COVID-19 hospitalizations in Ontario, as they provide insight into the current state of the pandemic, the potential risks associated with reopening schools, and the measures that can be taken to mitigate those risks.
+Posted: 2 days ago
+Values most important for forecasting:
+No specific data on hospitalization rates or population demographics.
+Mention of school policies and online learning requirements during the COVID-19 pandemic.
+Suggests a possible indirect relationship between education policies and disease transmission.
 
-Article 3 of 4
-Title: What you need to know about COVID-19 in Ottawa on Tuesday, Aug. 11
-Publisher: CBC.ca
+Article 2 of 2
+Title: COVID-19 cases rise in Maple Leafs Foods plant in Brandon, Man.
+Publisher: CTV News
 Trusted: False
-Posted: 4 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: The number of active COVID-19 cases in Ottawa remains stable at 146, but the number of COVID-19 patients in Ottawa hospitals has jumped to 15, the highest number since mid-June. There have been 2,656 confirmed cases of COVID-19 in Ottawa since the pandemic began, with 264 deaths. Experts analyzing blood tests suggest that the number of people infected with the coronavirus in Ontario could be four times more than previously confirmed. Ottawa is currently in Stage 3 of Ontario's reopening plan, with more businesses open, including dine-in restaurants and movie theatres. Elementary students in Ontario will be heading back to school full-time in September, while most high school students will split their time between the classroom and online learning. Physical distancing measures, such as working from home and keeping distance from others, are still recommended to prevent the spread of the virus. These values are important for forecasting COVID-19 hospitalizations in Ontario, Canada, as they provide insight into the current state of the pandemic, the number of cases and hospitalizations, and the measures being taken to prevent the spread of the virus.
-
-Article 4 of 4
-Title: Ontario records fewer than 100 new COVID-19 cases for sixth day in a row
-Publisher: CTV News Toronto
-Trusted: False
-Posted: 7 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting the most important values for forecasting COVID-19 hospitalizations in Ontario, Canada: The number of new cases of COVID-19 has been below 100 for the sixth straight day, with 70 new cases reported on Saturday. The total number of lab-confirmed cases of COVID-19 in Ontario is 39,967, including 2,784 deaths and 36,131 recoveries. There are currently 53 patients infected with the disease in Ontario hospitals, with 27 in the intensive care unit (ICU) and 12 on ventilators. Hospitalizations and ICU admissions have declined, while the number of patients on ventilators has remained stable. The majority of public health units (29 out of 34) have reported five or fewer new cases, with 15 reporting no new cases. Over 2.3 million COVID-19 tests have been conducted in Ontario, with 26,000 tests conducted in the last 24 hours and 26,273 test samples still under investigation. These values provide insight into the current trend of COVID-19 cases, hospitalizations, and testing in Ontario, which can inform forecasting models for COVID-19 hospitalizations in the province.
+Posted: 5 days ago
+Relevant.
+Summary: 
+- 4 new COVID-19 cases among employees at a food processing company in Manitoba.
+- Total of around 22 cases among employees so far.
+- Officials say there's no evidence workers contracted virus inside facility, but union is calling for temporary shutdown and mandatory testing.
+- Brandon has 64 positive cases, with maxed-out testing facilities leading to long wait times.

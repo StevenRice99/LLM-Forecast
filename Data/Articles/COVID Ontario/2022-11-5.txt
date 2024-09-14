@@ -1,43 +1,83 @@
-Below are 6 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
+Below are 7 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
-Article 1 of 6
-Title: What's the difference between COVID-19, RSV and influenza?
-Publisher: CTV News
-Trusted: False
-Posted: 2 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the key points relevant to forecasting COVID-19 hospitalizations in Ontario: The article mentions a "triple-threat" of COVID-19, influenza, and respiratory syncytial virus (RSV) in Canada, which could lead to an increase in hospitalizations. The test positivity rate for influenza A in Canada was 6.44% for the week of Oct. 29, up from 2.66% in the previous week. The test positivity rate for RSV in Canada was 7.0% for the week of Oct. 29, up from 4.74% in the previous week. Hospital capacity in Ontario is becoming strained, particularly in pediatric hospitals, with some hospitals being asked to admit teenage patients to adult intensive care units. The article notes that COVID-19, RSV, and influenza can all lead to hospitalizations, with COVID-19 having the highest morbidity and mortality rates. The article highlights the importance of vaccination, particularly for COVID-19 and influenza, as well as hand washing and mask-wearing to prevent transmission. These points suggest that the current situation in Ontario is ripe for an increase in COVID-19 hospitalizations, particularly among children and young adults. The rising test positivity rates for influenza and RSV, combined with the strained hospital capacity, suggest that the healthcare system may be facing a significant challenge in the coming weeks.
-
-Article 2 of 6
+Article 1 of 7
 Title: Triple the usual number of kids are coming to Ontario ERs with respiratory illnesses. Here's why
 Publisher: CBC News
 Trusted: False
 Posted: 2 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Although the article primarily focuses on the surge in respiratory illnesses among children, it provides valuable insights into the current state of hospital capacity and the potential impact of COVID-19 on the healthcare system. Key points relevant to forecasting COVID-19 hospitalizations in Ontario: 1. Hospitals across Ontario are already under pressure due to an unprecedented surge in respiratory illnesses among children, with emergency department visits and admissions exceeding seasonal averages. 2. The surge in illnesses among children is attributed to the withdrawal of preventive public health measures, such as mask-wearing, which has led to increased exposure to germs that kids' immune systems have had little recent experience with. 3. Medical experts expect to see a rise in influenza and COVID-19 cases in the coming weeks as colder weather keeps people indoors, making it easier for infectious diseases to spread. 4. Hospitals are struggling with staffing challenges, and emergency departments have been under sustained pressure for months, with high numbers of admitted patients stuck in the ER due to a lack of available beds on hospital wards. 5. The Ontario Hospital Association reports that ER wait times are longer than normal, and ambulance shortages are occurring due to paramedics spending hours waiting to offload their patients. These factors suggest that Ontario's healthcare system is already strained, and an increase in COVID-19 cases could further exacerbate the situation, potentially leading to increased hospitalizations and pressure on the healthcare system.
+Children aged 5-17 visiting hospital emergency rooms with respiratory complaints are more than triple the seasonal average. 
+Children under 4 years old have daily ER visits for respiratory illnesses at more than double the usual number. 
+The total number of children visiting ERs each day is approximately 2,160, compared to a historical average of about 800.
+Hospitals across Ontario are admitting an unusually high number of children for respiratory illnesses, with numbers 2.5 times the pre-pandemic average for this time of year.
+The surge in ill children is affecting hospital operations around Ontario, with some hospitals cancelling surgeries and redeploying staff due to capacity issues.
+Respiratory illnesses among children are on the rise due to reduced immunity from decreased public health measures against COVID-19.
 
-Article 3 of 6
+Article 2 of 7
+Title: What's the difference between COVID-19, RSV and influenza?
+Publisher: CTV News
+Trusted: False
+Posted: 2 days ago
+RSV, influenza, and COVID-19 hospitalizations are rising in Ontario.
+- Test positivity rates: 6.44% for flu A, 7.0% for RSV (across Canada), strain on pediatric hospitals, admitting teenage patients to adult ICUs.
+- Dr. Conway: All three diseases can lead to hospitalization; COVID-19 leading the way, followed by RSV, then influenza.
+- Symptoms are similar across all three infections: runny nose, coughing, fever, shortness of breath, etc.
+- Prevention methods include vaccination (bivalent and flu vaccines), hand washing, mask wearing, and staying home when sick.
+
+Article 3 of 7
 Title: Hundreds of Canadians are still dying of COVID-19 every week. Who are they?
 Publisher: CBC News
 Trusted: False
 Posted: 3 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: The article reports on the ongoing impact of COVID-19 on elderly and medically frail individuals in Canada, particularly in Ontario. Despite the availability of vaccines and treatments, hundreds of Canadians are still dying from COVID-19 every week, with the majority being elderly and having underlying health conditions. The article cites data from the Canadian Institute for Health Information (CIHI) showing that patients with comorbidities have poorer outcomes, including longer hospital stays and higher in-hospital death rates. Physicians interviewed in the article note that the sickest COVID-19 patients are now being cared for across hospital wards, including emergency departments and inpatient wards, which are also facing pressure from other respiratory illnesses. The article highlights the importance of taking precautions, such as getting vaccinated, wearing masks, and taking COVID-19 rapid tests, particularly for vulnerable seniors and their families. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Age: Elderly individuals (65+ years old) are at higher risk of severe illness and death from COVID-19. Comorbidities: Patients with underlying health conditions, such as cancer, are at higher risk of poor outcomes. Vaccination status: Unvaccinated individuals are at higher risk of severe illness and death from COVID-19. Hospital capacity: The number of hospital beds occupied by COVID-19 patients is increasing, which may strain healthcare systems. Respiratory virus season: The upcoming flu season and other respiratory illnesses may add to the pressure on healthcare systems. These values can be used to inform forecasting models and predict the potential impact of COVID-19 on hospitalizations in Ontario, Canada.
+Canadian hospitals are facing significant pressure as the number of COVID-19 patients rises, threatening to further strain health-care systems this winter.
+As the highly contagious BA.5 subvariant continues to spread, hospital admissions for COVID-19 have increased by 11% since October 1st, according to federal data. This surge has resulted in a shortage of available beds and an increase in the number of patients requiring intensive care unit (ICU) care.
+Physicians are warning that vulnerable seniors, particularly those living independently, should take precautions to protect themselves from COVID-19 this fall and winter season. Dr. Samir Sinha, director of geriatrics for Sinai Health and the University Health Network in Toronto, recommends that all Canadian seniors consider getting three different shots: an updated bivalent COVID-19 booster, annual flu shot, and pneumonia vaccine if eligible.
+The situation is further complicated by a rise in other respiratory illnesses such as influenza and RSV, which are also putting pressure on hospital systems. The pressure on hospitals means that the sickest COVID-19 patients are now being cared for across various wards, including emergency departments and inpatient wards.
+Dr. Neeja Bakshi, an internal medicine physician at the Royal Alexandra Hospital in Edmonton, noted that there are hospital-acquired outbreaks continuing to happen, which account for some of the numbers seen. Dr. Dan Rothwerg, a critical care specialist, stated that even if just a small percentage of COVID-19 patients are still falling seriously ill, it can add significant stress to health-care systems.
+The experts stressed that patients battling both COVID-19 and another health issue have an increased risk of poor outcomes. With hospitals facing a perfect storm of increased admissions, staffing shortages, and resource constraints, the situation is becoming increasingly dire.
+Physicians urge seniors and their loved ones to take precautions to protect themselves from the virus, including getting vaccinated, wearing quality masks, and taking rapid COVID-19 tests before family events. As Victor Moschitto said, "The loneliness will just kill you alone," emphasizing the importance of staying safe while still living life.
+In this context, the Canadian government is providing financial support to healthcare systems to address the growing pressures on hospitals.
 
-Article 4 of 6
+Article 4 of 7
 Title: Toronto Public Health could cut 423 staff as it shifts away from 'high-intensity' pandemic response
 Publisher: CBC.ca
 Trusted: False
 Posted: 3 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Toronto Public Health (TPH) is proposing a cut of $9 million in its COVID-19 budget and shedding 423 jobs, indicating a shift from a high-intensity response to a lower-intensity response to COVID-19. TPH is asking for $37 million to continue its COVID-19 mass immunization efforts, which could change if new waves of the virus call for a larger response. The proposed budget includes spending on key programs to address the needs of seniors and children, which come from provincial funding. The article mentions that the pandemic and the complicated state of funding for public health will make coming up with this year's budget difficult, indicating uncertainty in the COVID-19 response. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: $9 million cut in COVID-19 budget 423 job cuts $37 million request for COVID-19 mass immunization efforts Uncertainty in provincial funding for public health programs These values suggest a decrease in COVID-19 response efforts, which could potentially lead to an increase in hospitalizations if new waves of the virus occur.
+The article provides information on:
+The shift from a high-intensity to a lower-intensity response to COVID-19
+Toronto Public Health proposing a cut of $9.1 million and 209 positions related to COVID-19 response
+A request for $37 million to continue COVID-19 mass immunization efforts
+Concerns about funding stability due to changes in cost-sharing arrangements with the Ontario government
+Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: 
+- Proposed budget cuts and staff reductions related to COVID-19 response
+- Requests for additional funding for COVID-19 measures (e.g. $37 million for mass immunization efforts)
 
-Article 5 of 6
-Title: Parent demands answers about COVID-19 protocols, safety at PDSB school
-Publisher: The Pointer
+Article 5 of 7
+Title: Ottawa COVID-19 wastewater indicators on the rise
+Publisher: CTV News Ottawa
 Trusted: False
 Posted: 4 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Key points relevant to forecasting COVID-19 hospitalizations in Ontario, Canada: 1. Ontario reported 1,921 COVID-19 hospitalizations on October 27, the highest rate in almost eight months. 2. Dr. Fahad Razak, a physician at Toronto's St. Michael's Hospital, wants mask mandates to be reintroduced, as Omicron subvariants currently spread twice as fast as the dominant strain. 3. Razak said hospitals experienced the type of stress in September usually seen at the height of a bad flu season, and the situation has grown much worse since. 4. Peel Region has experienced higher case counts than most municipalities since the start of the pandemic, with new COVID cases spiking in October to close to 150 daily cases. 5. The Ontario COVID-19 Science Table recommended maintaining permanent measures like adequate indoor air quality, hand hygiene, environmental cleaning and disinfection, students and staff staying home when sick, and up-to-date routine and recommended immunizations for students and staff. 6. The Ministry of Health continues to recommend masking in settings where there are individuals who are at high risk for severe outcomes, and masking is still required in long-term care homes and retirement homes. These points suggest that COVID-19 cases and hospitalizations are increasing in Ontario, and that experts are recommending the reintroduction of mask mandates and other measures to mitigate the spread of the virus. This information can be used to inform forecasting models and predict future COVID-19 hospitalizations in Ontario, Canada.
+Key values: 
+273 new lab-confirmed cases in Ottawa
+50 Ottawa residents in hospital with COVID-19 (up from 47)
+Hospitalization figures for local hospitals: The Ottawa Hospital (83 patients), Queensway Carleton Hospital (27 patients), Montfort Hospital (13 patients), and CHEO (7 patients)
+Share of population 5 and older with at least one dose (93%), two doses (90%), and three doses (61%) in Ottawa.
 
-Article 6 of 6
+Article 6 of 7
 Title: Flu Cases on the Rise in Thunder Bay District Health Unit
 Publisher: Thunder Bay District Health Unit
 Trusted: True
 Posted: 4 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: The Thunder Bay District Health Unit has reported a significant increase in flu cases over the past two weeks, indicating an early start to the flu season. This could potentially lead to an increase in hospitalizations due to the flu, which may also impact COVID-19 hospitalizations. The article emphasizes the importance of getting the flu shot, especially for high-risk individuals, to reduce the risk of hospitalizations and deaths from the flu. The article also mentions that COVID-19 is still circulating, and new sub-variants are expected, which could impact hospitalizations. The fact that individuals 5 years old or older can receive the COVID-19 and flu vaccines at the same time may also impact COVID-19 hospitalizations. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Early start to the flu season Increase in flu cases Emphasis on getting the flu shot, especially for high-risk individuals Continued circulation of COVID-19 and expected new sub-variants.
+The Thunder Bay District Health Unit (TBDHU) reports a significant increase in flu cases, which may strain the healthcare system.
+The health unit mentions that flu results in hospitalizations and deaths every year in Ontario.
+Individuals at higher risk of serious complications from the flu include people 65 years old or older, those with chronic illnesses, children 6 months to 4 years old, pregnant individuals, and Indigenous people.
+
+Article 7 of 7
+Title: Hamilton paramedics' code zeroes — 1 or no ambulances for emergencies — tripled over all of 2021
+Publisher: CBC.ca
+Trusted: False
+Posted: 4 days ago
+Summary: The article highlights the following values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Hospital staff shortages and bed availability (staffing crisis)
+Increased wait times for paramedics due to hospital offloading delays
+Average of 775 hours lost weekly in Hamilton due to delays at hospitals
+Shortage of nurses, with 26,000 internationally educated nurses waiting to have their applications processed

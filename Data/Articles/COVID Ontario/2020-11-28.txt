@@ -1,29 +1,45 @@
 Below are 4 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
 Article 1 of 4
-Title: Ontario could see more than 9,000 new COVID-19 cases per day by end of year: new modelling
-Publisher: CTV News Toronto
+Title: Demand spikes for COVID-19 treatment that's saving lives but is in limited supply in Canada
+Publisher: CBC News
 Trusted: False
 Posted: 2 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting the most important values: The article presents new modelling that suggests Ontario could see more than 9,000 new cases of COVID-19 per day by the end of the year under a worst-case scenario (5% growth rate). The current growth rate of cases is 0.45% over the past 14 days, but the province is not modelling a decrease in cases and is seeing a flat-line trend. The number of COVID-19 patients in ICUs is expected to exceed 200 in December "under any scenario" and could climb above 300 by mid-December under the 5% growth scenario. There are currently 151 COVID-19 patients in Ontario ICUs, and hospitalizations have increased by 63.2% over the last four weeks. The article also highlights the ongoing issue of outbreaks in long-term care homes, with 104 homes currently in outbreak and 964 confirmed COVID-19 cases (524 residents and 453 staff). These values are important for forecasting COVID-19 hospitalizations in Ontario, Canada, as they provide insight into the potential trajectory of the pandemic and the expected demand on the healthcare system.
+Relevant.
+1 in 10 ICU beds in Ontario are occupied by COVID-19 patients.
+ECMO treatment is being used for at least a dozen COVID-19 patients per week, with a high demand during the current surge.
+Toronto General Hospital has nearly exhausted its 30 ECMO machines, and may need to slow down usage if case growth continues.
+The pressure on the ECMO program is an example of the impact from rising numbers of COVID-19 hospitalizations and ICU admissions in Ontario.
 
 Article 2 of 4
-Title: Demand spikes for COVID-19 treatment that's saving lives but is in limited supply in Canada
-Publisher: CBC.ca
+Title: Alberta has most active COVID-19 cases of all Canadian provinces
+Publisher: Daily Hive
 Trusted: False
-Posted: 2 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting the most important values for forecasting: The article reports on the increasing demand for ECMO (extracorporeal membrane oxygenation) treatment in Ontario hospitals, particularly at Toronto General Hospital, due to the surge in COVID-19 cases. In the pandemic's first wave in Ontario, 34 COVID-19 patients received ECMO treatment, and more than half survived. Currently, at least a dozen COVID-19 patients have been hooked up to ECMO machines in the last two weeks, with nine of the hospital's 11 intensive care admissions receiving the treatment. The hospital is working at full ICU capacity, and the ECMO team may have to slow down if the demand continues to rise, which could affect patients waiting for other crucial hospital services such as transplants. Roughly one in every 10 intensive care beds in Ontario is now occupied by someone infected with the virus. The key to lowering demand for limited treatments like ECMO is reducing the amount of community spread of COVID-19. These values suggest that the demand for ECMO treatment and ICU beds is increasing due to the surge in COVID-19 cases, which could lead to a shortage of available resources and impact the quality of care for patients. This information can be used to inform forecasting models and predict the potential strain on Ontario's healthcare system.
+Posted: 3 days ago
+Total cases in Ontario: 106,510
+Active cases in Ontario: 12,917
+Hospitalizations (current): not mentioned
+Hospitalization numbers are relevant if they are available for Ontario. 
+However, the article does mention that Alberta has 348 people currently hospitalized and 66 in ICU with COVID-19. This information may be useful to compare or model hospitalization trends across provinces, but the exact values for Ontario's current hospitalizations are not provided.
 
 Article 3 of 4
-Title: Long-term care homes a top priority when COVID-19 vaccine arrives in early 2021: Dr. Etches
-Publisher: CTV News Ottawa
+Title: Toronto begins a four-week lockdown – its second of the pandemic – as Covid-19 cases surge
+Publisher: CNN
 Trusted: False
-Posted: 2 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Summary: The article mentions that the initial supply of COVID-19 vaccine doses in Ottawa will be limited and prioritized for long-term care homes to prevent hospitalizations and deaths. The vaccine rollout is expected to start in early 2021, with the goal of distributing it to more priority groups within the first three months. The article highlights the challenges of storing and distributing the Pfizer vaccine, which requires storage at minus 80C. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Limited initial vaccine supply Priority vaccination of long-term care homes to prevent hospitalizations and deaths Expected vaccine rollout timeline (early 2021) Challenges in storing and distributing the Pfizer vaccine These values can inform forecasting models by considering the potential impact of vaccination on hospitalization rates, particularly in long-term care homes, and the logistical challenges that may affect the speed and scope of vaccine distribution.
+Posted: 5 days ago
+Key values for forecasting include:
+Daily case numbers have nearly doubled in weeks
+ICUs are near capacity
+Total coronavirus deaths exceed 1,500
+Hospitalizations often approach capacity during normal winter flu season
 
 Article 4 of 4
 Title: Toronto, Peel move into COVID-19 lockdown Monday as Ontario tries to stop 'worst-case scenario'
-Publisher: CBC.ca
+Publisher: CBC News
 Trusted: False
 Posted: 7 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Hospitalizations have increased by 22% and intensive care admissions have risen by 50%. The province reports 1,418 new cases of COVID-19, with 393 in Toronto, 400 in Peel Region, and 168 in York Region. The seven-day average of new cases is 1,373, and the test positivity rate is 3.6%. There are 12,623 confirmed, active COVID-19 infections provincewide, with 518 people in hospitals and 142 in intensive care. The number of patients on ventilators increased by four to 92. The province is implementing new restrictions, including a 28-day lockdown in Toronto and Peel Region, to slow the spread of the virus. These values are important for forecasting COVID-19 hospitalizations in Ontario, Canada, as they provide information on the current trend of the pandemic, the number of cases and hospitalizations, and the government's response to the crisis.
+Toronto and Peel Region are moving into lockdown due to a steep rise in COVID-19 cases, hospitalizations up by 22%, ICU visits by 50%. The lockdown will last at least 28 days. Key values for forecasting include:
+Increased hospitalizations (up by 22%)
+Increased ICU admissions (up by 50%)
+High daily case counts in Toronto and Peel Region
+Alarming test positivity rates in these regions

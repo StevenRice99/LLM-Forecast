@@ -1,15 +1,66 @@
-Below are 2 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
+Below are 5 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
-Article 1 of 2
-Title: Ontario records significant dip in COVID-19 cases, no new deaths
-Publisher: CTV News Toronto
+Article 1 of 5
+Title: Coronavirus report card: Experts give Canada a B, U.S. an F
+Publisher: CTV News
 Trusted: False
-Posted: 2 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: 103 new cases of COVID-19 were reported, representing a growth rate of 0.3% 154 patients are currently hospitalized with COVID-19, with 35 in intensive care and 21 on a ventilator Hospitalizations have increased by more than 50 patients since Sunday, reversing a trend of steadily falling hospitalizations The majority of new cases were reported in Toronto, Peel Region, and Windsor-Essex, which may indicate hotspots for potential hospitalizations Testing rates remain high, with 26,001 tests processed in the last 24 hours and over 1.9 million tests completed since the beginning of the pandemic. These values suggest a potential uptick in hospitalizations, particularly in certain regions, and highlight the importance of continued testing and monitoring to forecast COVID-19 hospitalizations in Ontario, Canada.
+Posted: Today
+The article discusses the performance of Canada and the United States in responding to the COVID-19 pandemic, as well as the global response. Experts were surveyed on a D-F scale (where A is excellent and F is failing) for their assessment of how well each country and the world are doing in fighting the virus.
+Canada's Response: 
+Given an average grade of C
+Praised for its staged approach to reopening, which prioritizes science over politics
+Received credit for having a more cohesive government response compared to the US
+US Response: 
+Given a D-minus
+Criticized for lack of leadership from the CDC and inconsistent policies under President Trump
+Noted for Trump's reluctance to promote masks and his support for unproven treatments like hydroxychloroquine
+Global Response: 
+Given an average grade of C (6 out of 7 experts)
+Praised for global cooperation in sharing information and developing vaccines and treatments
+Criticized for lack of preparedness and unequal distribution of resources, leading to continued outbreaks in some countries.
+The article concludes that while there have been successes globally, the pandemic has also exposed significant challenges, including:
+Inequality in health-care resources between developed and developing countries
+Difficulty in containing the virus due to its high infectiousness
+Disparities in government responses, with some leaders prioritizing politics over science.
+Overall, the article suggests that while there have been positive developments globally, more work is needed to effectively combat the pandemic.
 
-Article 2 of 2
-Title: Active COVID-19 cases outpace recoveries for fourth straight day in Ontario
-Publisher: CTV News Toronto
+Article 2 of 5
+Title: Classes begin Sept. 3 for Ottawa's Catholic School Board
+Publisher: CTV News Ottawa
+Trusted: False
+Posted: 3 days ago
+Relevant.
+Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Number of school days and type (in-class, online, or hybrid)
+Rotation schedule if not full-time in-class
+Enhanced cleaning and hygiene measures
+Province-wide policies and restrictions on gatherings
+Student population density and mobility within the province
+
+Article 3 of 5
+Title: Canadian, American tour boats at Niagara Falls become symbol of COVID-19 contrast
+Publisher: CTV News
+Trusted: False
+Posted: 4 days ago
+The article mentions Ontario's COVID-19 restrictions, specifically that the Hornblower Cruise on Niagara Falls is restricted to 6 passengers since July, with plans to increase to 100 (15% of capacity) by stage 4 reopening. This suggests an attempt to control case numbers and prevent hospitalizations in the province.
+
+Article 4 of 5
+Title: Florida father hospitalized with COVID-19 after son met friends against family's wishes
+Publisher: CTV News
 Trusted: False
 Posted: 5 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting key values: 135 new cases of COVID-19 were reported in Ontario, bringing the total to 37,739. 106 resolved cases were added, but active cases have outpaced recoveries for the fourth straight day. Hospitalizations for COVID-19 increased by 14 people to 115, with 37 patients in intensive care units and 24 requiring ventilators. Testing remains high, with nearly 21,000 tests completed in the last 24 hours and over 1.9 million tests processed since the pandemic began. 11,000 tests are currently under investigation. These values are important for forecasting COVID-19 hospitalizations in Ontario, as they indicate a slight increase in hospitalizations and a continued high volume of testing. The number of active cases outpacing recoveries and the increase in hospitalizations suggest that hospital capacity may be impacted in the coming days.
+Age distribution: The article highlights the spread of COVID-19 among younger people, specifically those in their teens and 20s.
+Household transmission: The family's story illustrates how a young person infected with COVID-19 can transmit the virus to other household members, including older relatives who are at higher risk of severe illness.
+Hospitalization rates: The article mentions that older folks are now being hospitalized due to the spread of the virus from younger generations.
+Case fatality rate: The article notes that Florida has been averaging about 96 deaths per day, which is more than triple the rate it was a month ago.
+These values are relevant for forecasting COVID-19 hospitalizations in Ontario, Canada, as they provide information on age distribution, transmission patterns, and case fatality rates.
+
+Article 5 of 5
+Title: Anti-mask rallies held across Canada despite increased support for mandatory masks
+Publisher: CTV News
+Trusted: False
+Posted: 5 days ago
+Mandatory mask policies are being implemented in various cities across Ontario.
+The City of Toronto has already enacted a mandatory mask policy on July 7, requiring masks to be worn on public transportation and inside shops, grocery stores, and malls.
+Public health agencies recommend the use of non-medical face coverings as an important step in slowing the spread of COVID-19 when combined with regular preventive actions such as hand-washing and physical distancing.
+A recent poll found that 67% of Canadians support mandatory masking for all indoor public spaces.

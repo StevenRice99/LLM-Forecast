@@ -1,15 +1,10 @@
-Below are 2 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
+Below is a news article from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
-Article 1 of 2
-Title: Why Canada avoided a severe winter COVID wave
-Publisher: CBC News
+Title: Over 14,000 Canadians Died While Waiting for Medical Treatment From 2021-2022: Report
+Publisher: Vision Times
 Trusted: False
-Posted: Today
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Summary: Canada has avoided a severe COVID-19 wave this winter despite a lack of public health restrictions and a busy indoor holiday season. Hybrid immunity from vaccination and prior infection is holding up against hospitalizations and deaths, and will likely continue to help control the severity of COVID-19 in Canada. Over 76% of Canadian adults and close to 90% of young adults (aged 17-24) are estimated to have previously had the disease, and over 80% of Canadians have received at least two doses of a COVID vaccine. Research has consistently shown that hybrid protection from vaccination and infection is superior to immunity from prior infection alone. Vaccination is still the preferred route of acquiring immunity, due to the strong protection it provides against severe illness and the ongoing risk of COVID complications in vulnerable groups. Better access to antiviral treatments has helped reduce the number of hospitalizations, particularly among elderly Canadians. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: High levels of hybrid immunity in the population (over 76% of Canadian adults and close to 90% of young adults) High vaccination rates (over 80% of Canadians have received at least two doses of a COVID vaccine) Strong protection against severe illness and hospitalizations provided by hybrid immunity Continued risk of COVID complications in vulnerable groups, such as elderly Canadians Better access to antiviral treatments, which has helped reduce the number of hospitalizations.
-
-Article 2 of 2
-Title: Children infected with Omicron more likely to have repeat ER visits: Canadian study
-Publisher: CTV News
-Trusted: False
-Posted: 5 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada, as it provides insights into the symptoms and outcomes of COVID-19 in children, which can inform predictions about hospitalization rates. Key values for forecasting include: The study found that fever and cough were associated more heavily with Omicron and Delta variants in children. Serious outcomes like hospitalization and being moved to the intensive care unit remained stable across all variants in children. Children infected with Omicron were more likely to have additional emergency department visits, receive corticosteroid treatment, and have a chest radiography performed. The study suggests that the virus may not be getting milder in children, unlike in adults. The proportion of children experiencing severe disease was lower than in previous research, which could be due to the inclusion of emergency department visits for COVID-19 testing purposes. These findings can inform forecasting models about the potential impact of different variants on hospitalization rates in children in Ontario, Canada.
+Posted: 3 days ago
+14,057 Canadians died while waiting for medical services between Apr 2021-Mar 2022
+Median wait time for healthcare services hit a record high of 27.4 weeks in 2022
+Ontario will have a shortage of approximately 33,000 nurses and personal support workers by 2027-28
+Nurse salaries in Ontario are the lowest in Canada, which may lead to staff shortages

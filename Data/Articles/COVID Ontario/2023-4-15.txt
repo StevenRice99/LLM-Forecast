@@ -1,15 +1,36 @@
-Below are 2 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
+Below are 3 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
-Article 1 of 2
+Article 1 of 3
 Title: Why most Canadians don't need another COVID-19 booster — at least not yet
 Publisher: CBC News
 Trusted: False
 Posted: 1 day ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada, as it discusses the latest guidance on COVID-19 booster shots and the risk of severe illness and hospitalization among different populations. The article highlights the following values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: 1. Vulnerable adults, such as seniors 65 and older, those living in congregate settings, and adults with compromised immune systems, are recommended to receive another round of booster shots starting this spring. 2. The general population is not recommended to rush out for another round of booster shots, but may still consider getting vaccinated if they haven't had a shot in the last year or if they have underlying health conditions. 3. The effectiveness of COVID-19 vaccines against severe outcomes, such as hospitalization and death, is higher and more durable than against symptomatic infection. 4. Hybrid immunity, which is the combination of prior vaccination and infection, offers strong protection against severe disease. 5. Personal risk levels can shift over time, and individuals should consider factors such as pregnancy, immunodeficiency, and underlying health conditions when deciding whether to get vaccinated. 6. Scientists expect COVID-19 vaccines to eventually be recommended at an annual interval for the broader population, assuming the virus settles into a more predictable, seasonal pattern. These values can inform forecasting models of COVID-19 hospitalizations in Ontario, Canada, by taking into account the vaccination status and risk levels of different populations, as well as the effectiveness of vaccines against severe outcomes.
+A brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Vulnerable adults (65+, long-term care facilities) should receive a spring booster to protect against severe outcomes.
+Personal risk level can shift due to factors like pregnancy, which increases the risk of severe COVID-19 by 10 times.
+Hybrid immunity (vaccine + prior infection) provides strong protection against future infections and severe disease.
+The current data suggests months-long protection from vaccines, with effectiveness waning gradually over time.
+Public Health Ontario lists pregnancy as a high-risk condition eligible for a spring booster.
 
-Article 2 of 2
+Article 2 of 3
+Title: Flu cases are rising in Canada: How does influenza B differ from influenza A?
+Publisher: Yahoo Canada Shine On
+Trusted: False
+Posted: 1 day ago
+Flu cases are rising across Canada, with 510 laboratory detections of the virus in week 13 of 2023.
+Influenza B is driving the jump, accounting for 71% of cases (364/510).
+The majority of pediatric hospitalizations related to influenza were caused by influenza B (14/15).
+Flu vaccine and proper handwashing can help prevent spread.
+
+Article 3 of 3
 Title: ‘Arcturus,’ a highly transmissible COVID variant eyed by the WHO, appears to have a new symptom. Here’s what you need to know
 Publisher: Fortune
 Trusted: False
 Posted: 5 days ago
-The article reports on a new COVID-19 variant, XBB.1.16 (also known as Arcturus), which is causing a surge in cases in India and has also been detected in other countries, including the U.S., Singapore, and Australia. This variant is notable for causing a new symptom in children, specifically "itchy" conjunctivitis (or pinkeye) without pus, which has not been seen in earlier COVID waves. The variant is also more transmissible than previous variants, spreading about 1.17 to 1.27 times more efficiently than relatives XBB.1 and XBB.1.5. Important values for forecasting COVID-19 hospitalizations in Ontario, Canada include: The increased transmissibility of XBB.1.16, which could lead to a rise in cases and potentially hospitalizations. The emergence of a new symptom in children, which could impact pediatric hospitalizations. The fact that COVID hospitalizations and deaths have not yet risen in India, but are considered "lagging indicators" that may develop several weeks after a rise in cases. The presence of XBB.1.16 in other countries, including the U.S., which could indicate potential spread to Ontario, Canada. The variant's ability to outcompete other circulating COVID variants, which could lead to a rise in cases and hospitalizations.
+Key points:
+XBB.1.16 is a new Omicron variant spreading globally.
+It's considered "one to watch" by WHO due to its high transmissibility and potential severity.
+The variant has been rising in India, the US, Singapore, and Australia.
+COVID hospitalizations have not yet risen in India, but are a concern for future development.
+XBB.1.16 is expected to spread worldwide, potentially causing cases to rise again even in areas with recent increases in infections.
+Ontario is part of the "age of recombinants" where existing variants combine and evolve quickly.

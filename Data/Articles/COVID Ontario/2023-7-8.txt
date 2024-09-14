@@ -1,29 +1,22 @@
-Below are 4 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
+Below are 2 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
-Article 1 of 4
-Title: COVID trends rising but still low in Ottawa-Gatineau area
-Publisher: CBC.ca
-Trusted: False
-Posted: 2 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Ottawa's COVID-19 trends are rising but remain low, with a weekly average test positivity rate of about 5%. The number of Ottawa residents in local hospitals for COVID-19 is 4, with no patients in ICU. The city's COVID-19 hospital count, which includes patients who tested positive for COVID after being admitted for other reasons, is stable at 13. Eastern Ontario communities outside Ottawa report 11 COVID-19 hospitalizations, with one patient in intensive care. Western Quebec has 79 hospital patients with COVID, with one in intensive care. Vaccination rates in Ottawa and surrounding areas are relatively low, with about 9% of the population aged 5 and older having received a COVID vaccine in the last six months. These values suggest that while COVID-19 hospitalizations in Ontario, Canada are currently low, there is a slight increase in test positivity rates and hospitalizations in some areas, which could indicate a potential upward trend. Additionally, the relatively low vaccination rates in the region may contribute to an increased risk of hospitalizations.
-
-Article 2 of 4
+Article 1 of 2
 Title: Moderna COVID-19 vaccine effective in children five and under
 Publisher: News-Medical.Net
 Trusted: False
 Posted: 3 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: The study assesses the vaccine effectiveness (VE) of the Moderna mRNA-1273 vaccine against symptomatic COVID-19 and associated hospitalizations among children between six months and five years of age in Ontario, Canada. The study finds that two doses of the mRNA-1273 vaccine are effective in protecting children against symptomatic COVID-19 and associated hospitalizations, with VE values of 90% and 82%, respectively, one week after the second vaccination dose. The study also finds that VE against symptomatic COVID-19 is 20% two weeks or more following the initial vaccination and 90% one week or more following the subsequent vaccination. The study reports that only 222 COVID-19-associated hospitalizations were documented, with fewer than ten hospitalizations among pediatric individuals who received one or more mRNA-1273 vaccinations. The study concludes that two mRNA-1273 vaccinations initially protected children between six months and five years of age against symptomatic COVID-19 and associated hospitalizations, but notes that further research is needed to evaluate the long-term VE and assess booster dose requirements. These findings can inform forecasting models of COVID-19 hospitalizations in Ontario, Canada, particularly among children under five years of age. The study's results can help estimate the potential impact of vaccination on hospitalization rates and inform public health policy decisions.
+Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Relevant: Yes
+Summary: The study found that two doses of Moderna's mRNA-1273 vaccine provided 82% protection against COVID-19-associated hospitalizations and 90% protection one week after the second dose. The vaccine was 58% effective against hospitalization two weeks or more after the initial vaccination, and 20% effective two weeks or more after the first dose. The study population consisted of children between six months to five years old in Ontario, Canada.
+Values important for forecasting COVID-19 hospitalizations in Ontario: 
+Vaccine effectiveness (VE) values against hospitalization: 82%
+Timing of vaccine effectiveness:
++ One week after second dose: 90%
++ Two weeks or more after initial vaccination: 58%
 
-Article 3 of 4
-Title: Wastewater surveillance highlights significant underestimation of COVID-19 cases in Canada
-Publisher: News-Medical.Net
-Trusted: False
-Posted: 5 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. The study assesses correlations between SARS-CoV-2 load in untreated wastewater and COVID-19 cases and hospitalizations in the Regional Municipality of Peel, Ontario, Canada. The findings suggest that wastewater surveillance can be a useful tool for monitoring COVID-19 levels in the community, especially when clinical testing is restricted or overwhelmed. Important values for forecasting COVID-19 hospitalizations in Ontario, Canada: Correlation coefficients between wastewater SARS-CoV-2 loads and COVID-19 cases: strongest on the sampling date, with a lag of zero to five days. Correlation coefficients between total viral loads and hospitalizations: strongest during the third and fifth waves, with a lag of one to 14 days. Median wastewater viral load-to-case ratios: significantly higher during the fifth and sixth waves, indicating a 6.5and 18.7-fold underestimation of COVID-19 cases at the peak of these waves. Predicted COVID-19 incidence during the Omicron wave(s) using pre-Omicron data on wastewater SARS-CoV-2 loads and reported cases: 7,515 cases at the peak of wastewater viral load during the fifth wave, and 3,170 cases at the peak of wastewater viral load in the sixth wave. These values can be used to inform forecasting models and improve the accuracy of COVID-19 hospitalization predictions in Ontario, Canada.
-
-Article 4 of 4
+Article 2 of 2
 Title: Vaccination in pregnancy greatly reduces risk of severe illness and death from COVID-19, and protects babies up to 6 months after birth
 Publisher: The Conversation
 Trusted: False
 Posted: 5 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. The article highlights the increased risk of severe outcomes, including hospitalizations and death, for pregnant individuals and their infants due to COVID-19 infections. It also emphasizes the importance of vaccination in preventing these outcomes, citing studies that show a significant reduction in hospitalizations and severe illness among vaccinated individuals. Key values for forecasting COVID-19 hospitalizations in Ontario, Canada, mentioned in the article include: 5 times higher risk of ICU admission for pregnant individuals with COVID-19 22 times higher risk of maternal mortality due to COVID-19 infections in pregnancy 90% of hospitalizations and 98% of critical care hospitalizations in pregnancy due to COVID-19 infection occurred in unvaccinated individuals 57% of infants born to vaccinated mothers had detectable antibodies at 6 months 61% effectiveness of COVID-19 mRNA vaccination during pregnancy in preventing COVID-19-related hospitalization in infants aged less than 6 months 97% vaccine effectiveness against hospital admission in infants from two maternal doses for the Delta variant and 53% for the Omicron variant These values can be used to inform forecasting models and highlight the importance of vaccination in preventing severe outcomes and hospitalizations due to COVID-19 in Ontario, Canada.
+COVID-19 vaccines during pregnancy have been shown to be safe and effective in preventing severe illness in pregnant women and infants. A recent study from Ontario found that maternal mRNA COVID-19 vaccination was 97% effective in preventing hospital admission in infants due to the Delta variant and 53% effective against the Omicron variant. The vaccine effectiveness declined over time but remained significant, highlighting the importance of vaccination during pregnancy.

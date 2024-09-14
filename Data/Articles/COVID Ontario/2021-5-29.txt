@@ -1,43 +1,62 @@
 Below are 6 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
 Article 1 of 6
-Title: Ottawa residents 80 and older can book second dose COVID-19 vaccine appointments starting Monday
-Publisher: CTV News Ottawa
+Title: RVH begins cautious resumption of non-urgent surgery and procedures
+Publisher: Royal Victoria Regional Health Centre
 Trusted: False
 Posted: 1 day ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Summary: The Ontario government has accelerated the timeline for administering second doses of COVID-19 vaccines, aiming to have the majority of residents fully vaccinated by the end of summer. In Ottawa, residents 80 and older can book their second shot starting next week, while those 70 and older will be eligible to book an appointment for a second dose the week of June 14. The city of Ottawa has announced that 60% of adults aged 18 and older have received the first dose of the COVID-19 vaccine, and aims to reach the 70% target in the next couple of weeks. The accelerated timeline only applies to those who have received either Pfizer or Moderna COVID-19 vaccines. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Vaccination rates: The article provides data on the percentage of Ottawa residents who have received at least one dose (60%) and two doses (5%) of the COVID-19 vaccine. Age-specific vaccination coverage: The article provides data on vaccination coverage by age group, which can help forecast hospitalizations among different age groups. Timeline for second doses: The accelerated timeline for second doses can impact the number of fully vaccinated individuals and potentially reduce hospitalizations. Overall, this article provides valuable information on vaccination rates, age-specific vaccination coverage, and the timeline for second doses, which can help inform forecasting models for COVID-19 hospitalizations in Ontario, Canada.
+New COVID-19 cases, hospitalizations, and ICU admissions are declining.
+Provincial hospitals still need to maintain bed capacity for critical care needs.
+RVH has accepted over 200 patient transfers from the GTA since December.
+The hospital is cautious about resuming non-urgent surgeries due to ongoing high demand for critical COVID patients.
 
 Article 2 of 6
+Title: More COVID-19 patients transferred out of Manitoba; ICU doctor warns numbers could climb
+Publisher: CTV News Winnipeg
+Trusted: False
+Posted: 2 days ago
+Relevant.
+The article reports Manitoba transferring 26 COVID-19 patients to Ontario ICUs. ICU cases lag behind daily case counts by 2-3 weeks and Manitoba expects a crest in ICU numbers followed by a decline. This may result in up to 100 patient transfers from Manitoba to other provinces, including Saskatchewan.
+
+Article 3 of 6
 Title: A snapshot of Canada's progress in administering COVID-19 vaccines
 Publisher: CTV News
 Trusted: False
 Posted: 2 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada, as it provides information on vaccination rates, vaccine distribution, and the potential impact of vaccination on transmission and hospitalizations. Key values for forecasting COVID-19 hospitalizations in Ontario, Canada, include: 60% of eligible Canadians have received their first COVID-19 vaccine dose 0.11% of Canadians are receiving their second dose per day, with a goal to increase this rate to 1.07% per day Projections suggest 20% of eligible Canadians will be fully vaccinated by July 7, 50% by August 4, 80% by September 1, and 90% by September 11 Canada is expected to receive over 40 million vaccine doses by the end of June 70-75% of adults are expected to be fully vaccinated by the end of summer, which could significantly reduce transmission rates Vaccination of 12-17 year olds is underway, with a focus on reducing transmission in high-risk settings such as schools These values can be used to inform forecasting models of COVID-19 hospitalizations in Ontario, Canada, by estimating the impact of vaccination on transmission and hospitalization rates.
-
-Article 3 of 6
-Title: Mayor, Etches call for reopening schools
-Publisher: CTV News Ottawa
-Trusted: False
-Posted: 3 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Ottawa mayor Jim Watson and medical officer of health Dr. Vera Etches are calling for schools to reopen in Ottawa, citing the negative impact of school closures on students' morale and engagement. Dr. Etches believes that COVID-19 case counts are low enough for schools to open, but warns that Ottawa is still at risk of a resurgence and urges continued pandemic health measures. The article mentions that: + 60% of adults 18 and older in Ottawa are expected to have had at least one dose of a COVID-19 vaccine by the end of the day. + Only 5% of adults in Ottawa are fully vaccinated. + Hospital admissions are currently mostly people in their 40s and 50s. + Scientists advising the Ontario government project a possible rise in daily COVID-19 case counts of 6-11% if schools reopen, but consider this increase manageable. + Schools have reopened in Quebec and Alberta, with Alberta having a higher rate of COVID-19 per capita than Ontario. These values are important for forecasting COVID-19 hospitalizations in Ontario, Canada, as they provide insight into: Vaccination rates and their potential impact on hospitalizations The current demographics of hospital admissions The potential impact of reopening schools on COVID-19 case counts and hospitalizations The experiences of other provinces (Quebec and Alberta) in reopening schools and managing COVID-19 cases.
+Key values:
+60% of eligible Canadians have been vaccinated with their first COVID-19 vaccine doses.
+First-dose rate: almost 1% per day, second-dose rate: 0.11% per day.
+Assuming the overall vaccination rate holds, a shift to administering all doses as second vaccinations would see:
++ 20% fully vaccinated by July 7
++ 50% by August 4
++ 80% by September 1
++ 90% by September 11
 
 Article 4 of 6
-Title: Ontario logs fewer than 2,500 new COVID-19 cases over 2 days following long weekend
-Publisher: CTV News Toronto
+Title: Manitoban with COVID-19 died after attempted transport to Ontario
+Publisher: CTV News Winnipeg
 Trusted: False
-Posted: 4 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the key points relevant to forecasting COVID-19 hospitalizations in Ontario: The number of daily reported COVID-19 cases has decreased, with 1,446 cases on Monday and 1,039 cases on Tuesday, which is the lowest number of daily reported infections since March 6. The rolling seven-day average of daily COVID-19 cases has decreased to 1,693, down from 2,813 a week ago. Hospitalizations have continued to decline, with 1,025 people being treated for COVID-19 as of Tuesday, including 662 in the ICU and 498 on a ventilator. The positivity rate has remained at 6.4% on both Monday and Tuesday. Vaccination efforts continue, with 186,032 doses administered over the last two days, and over 8.2 million people having received at least one dose. These values are important for forecasting COVID-19 hospitalizations in Ontario, as they indicate a decline in cases and hospitalizations, which could suggest a decrease in future hospitalizations. However, the number of cases and hospitalizations is still significant, and the positivity rate remains relatively high, indicating that the pandemic is still active in the province.
+Posted: 3 days ago
+23 COVID-19 patients from Manitoba have been transferred to hospitals in northern Ontario.
+The death of a Manitoban with COVID-19 occurred after they were selected for transport to an Ontario hospital due to their critically ill condition.
+This incident highlights the need to assess the standard of care for transported patients, especially those requiring intensive care.
+Rapid deterioration and death of COVID-19 patients is not uncommon, whether in ICUs or during transports.
 
 Article 5 of 6
-Title: U.S. study finds tiny number of vaccine 'breakthrough' COVID-19 cases
-Publisher: CTV News
+Title: 12 ICU nurses among federal supports headed to Manitoba as COVID-19 batters hospitals
+Publisher: CBC.ca
 Trusted: False
 Posted: 4 days ago
-This article is somewhat relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here's a brief summary highlighting the most important values: Breakthrough cases (infections after full vaccination) are rare, occurring in about 0.01% of fully vaccinated individuals. Hospitalizations due to COVID-19 among breakthrough cases are even rarer, occurring in about 0.0007% of fully vaccinated individuals. Deaths due to COVID-19 among breakthrough cases are extremely rare, occurring in about 0.0001% of fully vaccinated individuals. Variants of concern, such as B.1.1.7, are responsible for a significant proportion (64%) of breakthrough cases. The study suggests that the number of COVID-19 cases, hospitalizations, and deaths prevented among vaccinated individuals will far exceed the number of vaccine breakthrough cases. While this article provides valuable insights into the efficacy of COVID-19 vaccines and the risk of breakthrough cases, its relevance to forecasting COVID-19 hospitalizations in Ontario, Canada is limited by the fact that it is based on data from the United States and may not reflect the specific epidemiological context of Ontario. Additionally, the article does not provide direct data on hospitalization rates or trends in Ontario.
+Relevant.
+Summary: Manitoba is experiencing a surge in COVID-19 hospitalizations, with ICU capacity nearly double pre-pandemic levels (140 patients vs 70). The province has sent 18 patients to Ontario hospitals due to maxed-out capacity and is expecting help from the federal government, including critical care nurses.
 
 Article 6 of 6
 Title: Announcement on Ontario schools 'imminent', medical officers of health chair says
 Publisher: CTV News Ottawa
 Trusted: False
 Posted: 4 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting values most important for forecasting: The article mentions a potential increase of up to 11% in COVID-19 case counts if schools reopen, which could impact hospitalizations. The Ontario COVID-19 Science Advisory Table suggests that this increase "may be manageable". The article also mentions that some experts, such as COVID-19 biostatistician Ryan Imgrund, believe that there is a "grey area" where schools can reopen in some form, potentially with lower case counts. The article highlights the regional differences in case counts, with the GTA (Greater Toronto Area) having higher case counts than other parts of the province, which could impact hospitalizations. These points suggest that the reopening of schools in Ontario could have an impact on COVID-19 hospitalizations, and that the province's case counts and regional differences should be taken into account when forecasting hospitalizations.
+Values most important for forecasting:
+Proportion of schools reopening (not specified)
+Potential increase in case counts (6-11%)
+Possibility that the province will announce a regional plan
+Variability in school readiness and ventilation (potentially spotty)

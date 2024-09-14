@@ -1,43 +1,76 @@
-Below are 6 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
+Below are 7 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
-Article 1 of 6
-Title: Hospitalizations, ICU admissions growing for younger Canadians in third wave
-Publisher: CP24
-Trusted: False
-Posted: Today
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: The article reports a shift in the weight of the pandemic in Canada from seniors to younger people, with more infectious variants of COVID-19 spreading more easily. In Ontario, hospitalizations and ICU admissions among people under 60 went up significantly in April compared to January. The article mentions specific numbers for hospitalizations and ICU admissions by age group, including: + 25% increase in hospitalizations for 50-year-olds + 40% increase in hospitalizations for people in their 20s and 30s + 57% increase in ICU admissions for people in their 20s and 30s + 65% increase in hospitalizations for people in their 40s + 60% increase in ICU admissions for people in their 40s The article also mentions that more than 1,400 people are in intensive care with COVID-19 in Canada, with a higher proportion of them being under the age of 70. These values are important for forecasting COVID-19 hospitalizations in Ontario, Canada, as they suggest a changing demographic trend in hospitalizations and ICU admissions, with younger people being increasingly affected.
-
-Article 2 of 6
+Article 1 of 7
 Title: Variants responsible for 90 per cent of COVID-19 cases, ICU levels to remain high: latest modelling
 Publisher: CityNews Toronto
 Trusted: False
 Posted: 2 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the key points: Hospitalizations due to COVID-19 are leveling off, but ICU occupancy is expected to continue rising, with a current occupancy of over 800 and a projected decrease to around 500 by the end of May under the best-case scenario. The number of patients in ICU is still high due to the second wave, and the third wave has put additional pressure on the healthcare system. The cumulative pandemic-related backlog of surgeries stands at over 250,000 cases, posing an "enormous challenge" to the healthcare system. Hotspots such as Peel Region, Toronto, and York Region continue to show high positivity rates, with Peel Region having a seven-day average of 18.1% on April 24. Cases are decreasing faster than expected, but may begin to rise in June, even in the best-case scenario. The reproduction rate of the virus is at 0.9, indicating a deceleration in cases, but case counts remain high. Vaccination numbers continue to grow, with over 4.5 million doses administered and 36.6% of Ontarians having received at least one dose. Prioritizing hotspot communities for vaccinations and limiting essential workplaces and keeping sick workers at home will help control cases. These points provide valuable information for forecasting COVID-19 hospitalizations in Ontario, including the current state of hospitalizations and ICU occupancy, the impact of hotspots, and the effects of vaccination efforts.
+Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+ICU occupancy (currently over 800)
+Reproduction rate of the virus (0.9, indicating deceleration but still high case counts)
+Case positivity rates by region (Peel Region: 18.1%, Toronto: 12.4%, York Region: 10.7%)
+Hospital capacity and patient transfers between hospitals due to bed shortages
+Vaccination rate and prioritization of hotspot communities for vaccinations
 
-Article 3 of 6
+Article 2 of 7
+Title: New COVID-19 cases in Ontario jump above 3,800 as province surpasses 8,000 deaths
+Publisher: CTV News Toronto
+Trusted: False
+Posted: 2 days ago
+Total hospitalizations: 2,248
+Hospitalized patients in intensive care units (ICUs): 884
+Hospitalized patients on ventilators: 620
+Test positivity rate: approximately 7.6%
+New cases: 3,871
+Seven-day rolling average: 3,810
+
+Article 3 of 7
 Title: How often are Canadian kids actually getting seriously ill or dying from COVID-19?
 Publisher: CBC News
 Trusted: False
 Posted: 2 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the key points: There have been a few cases of children and teens dying from COVID-19 in Canada, including a 13-year-old girl in Ontario. Despite the emergence of variants, serious illness or death among youth remains rare, with only three COVID-19 deaths among people 19 and under in Ontario over the course of the pandemic. However, there is emerging data showing that more young people are getting infected, hospitalized, and dying from COVID-19, with some hospitals experiencing a spike in youth admissions. Medical experts attribute this to high community transmission levels and the fact that children and teens are not yet vaccinated. The number of serious cases among kids remains "extremely low," with children and youth making up nearly 20% of COVID-19 cases but less than 2% of hospitalizations in Canada. Experts recommend that parents remain vigilant and maintain protective measures, such as minimizing interactions with people from outside their home, physical distancing, and mask-wearing, especially since children and teens will remain unprotected for the foreseeable future. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Number of COVID-19 cases and hospitalizations among children and youth Community transmission levels Vaccination rates among children and teens Emerging evidence on the transmissibility and severity of variants of concern Recommendations from medical experts on maintaining protective measures to prevent the spread of COVID-19.
+Here is a brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+More young people (youth and children) are getting infected with COVID-19 during the third wave.
+Hospital admissions among youth have increased: 1% of all COVID-related hospitalizations in Quebec and around four children in hospital at any one time at SickKids in Toronto.
+Serious illness or death among youth remains rare, but medical experts say parents need to remain vigilant since it will be a while before Canadian kids get the protection of vaccinations.
+Certain symptoms should prompt concern: excessive vomiting, fewer trips to the bathroom (dehydration), unusual or laboured breathing, and coughing that makes it hard for children to catch their breath.
 
-Article 4 of 6
-Title: Ford’s latest waffle on paid sick days hits areas like Malton hardest
-Publisher: The Pointer
-Trusted: False
-Posted: 3 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada, as it highlights the challenges faced by the Malton community in Mississauga, which has been disproportionately affected by the pandemic. The article provides valuable information on the community's high COVID-19 positivity rate, low vaccination rate, and limited access to healthcare resources, including vaccination sites and testing facilities. Key values for forecasting COVID-19 hospitalizations in Ontario, Canada: COVID-19 positivity rate: 24.04% in the L4T postal code (Malton) Vaccination rate: 17.29% of residents in the L4T postal code (Malton) had at least one dose of the COVID-19 vaccine as of April 19 Hospitalization rate: 3.03 residents out of every 1,000 in the L4T postal code (Malton) had been hospitalized or died due to COVID-19 Limited access to healthcare resources, including vaccination sites and testing facilities, in the Malton community High rates of employment in the surrounding essential labour market, which may contribute to the spread of the virus These values can be used to inform forecasting models and highlight the need for targeted interventions to address the disparities in COVID-19 outcomes in the Malton community and other similar communities in Ontario.
-
-Article 5 of 6
-Title: Pushing Ontario’s ICUs to the brink: How some hospitals are preparing for the worst
-Publisher: Global News
-Trusted: False
-Posted: 4 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting values most important for forecasting: The number of COVID-19 patients in Ontario hospital ICUs has reached an all-time high of 875, with 589 people on ventilators. The province's ICU capacity is strained, with staffing shortages, particularly a lack of ICU-trained nurses. Discussions are underway about the possible need to triage life-saving care, with a "critical care triage protocol" being considered. The protocol would prioritize patients based on their likelihood of survival, with three levels of triage: + Level 1: deprioritizes critical care resources for patients with a predicted mortality greater than 80%. + Level 2: deprioritizes critical care resources for patients with a predicted mortality greater than 50%. + Level 3: patients with predicted mortality of 30% (or a 70% chance of surviving beyond a year) will not receive critical care. Ontario's latest modelling predictions suggest a peak of at least 1,500 virus cases in ICUs by the first week of May, which could push the province's total 2,000-ICU-bed capacity over the edge. The article highlights the importance of adapting and expanding the healthcare system to avoid the worst-case scenario, including transferring patients to other hospitals, ramping down elective surgeries, and deploying additional medical staff. These values are important for forecasting COVID-19 hospitalizations in Ontario, as they provide insight into the current state of the healthcare system, the potential need for triage, and the efforts being made to adapt and expand capacity.
-
-Article 6 of 6
+Article 4 of 7
 Title: Deaths, hospitalizations dropping among oldest Canadians as COVID-19 vaccinations ramp up
 Publisher: CBC News
 Trusted: False
 Posted: 5 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: COVID-19 cases, hospitalizations, and deaths among the oldest Canadians (80+ years old) are dropping at a faster rate than in younger adults, indicating the effectiveness of vaccination efforts. The vaccination rate among Canadians 80+ years old reached 10% by February, leading to a significant decrease in weekly cases and hospitalizations in this age group. Hospitalizations among older Americans have plunged more than 70% since the start of the year, and deaths in that group have also decreased, suggesting that vaccination efforts are working. Canada's chief public health officer, Dr. Theresa Tam, noted that the Rt (reproduction number) has dipped below one, indicating that the number of new cases may decline countrywide as vaccinations ramp up. To achieve herd immunity, vaccinations in hot spots where infection rates are high should be prioritized, particularly in lower-income communities that have been hard-hit throughout the pandemic. These values are important for forecasting COVID-19 hospitalizations in Ontario, Canada, as they suggest that vaccination efforts are effective in reducing hospitalizations and deaths, particularly among older adults. Additionally, prioritizing vaccinations in hot spots and lower-income communities may help to reduce transmission and hospitalizations in these areas.
+Key values highlighted:
+Age group: People over 80 years old are showing a significant drop in hospitalization rates after vaccination.
+Vaccination rate: A higher percentage of older adults vaccinated (around 10% by February) resulted in a steeper drop in hospitalizations among this age group.
+Comparison to other age groups: Hospitalizations among younger adults (69 and under) showed a rising trend, suggesting different dynamics between age groups.
+Public health trends: The gap between older and younger Canadians is widening in terms of case growth, with the latter experiencing a rise in new infections.
+
+Article 5 of 7
+Title: Up to three military teams to be deployed in Ontario hospitals to deal with surge of COVID-19 patients
+Publisher: CTV News Toronto
+Trusted: False
+Posted: 5 days ago
+Relevant.
+Hospitals overwhelmed by COVID-19 in Ontario.
+2,271 hospitalizations related to COVID-19 (877 in ICU, 605 on ventilators).
+Federal government sending medical teams (nursing officers, medical technicians) and logistical support to help alleviate pressure.
+
+Article 6 of 7
+Title: COVID-19 hospitalization, intensive care and active case numbers drop in Quebec, 1,014 new positive cases reported
+Publisher: CTV News Montreal
+Trusted: False
+Posted: 6 days ago
+Quebec reports 654 hospitalizations with 8 fewer patients compared to the previous day.
+There are 165 people in intensive care wards, a decrease of 8. 
+This information can be used as a proxy for hospitalization trends in neighboring provinces like Ontario, due to shared borders and similarities in COVID-19 response strategies.
+
+Article 7 of 7
+Title: Ontario reports 3,947 new COVID-19 cases and 24 more deaths
+Publisher: CBC.ca
+Trusted: False
+Posted: 6 days ago
+Here is a brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Total current hospitalizations: 2,126 (with 851 in ICU and 596 on ventilators)
+Increasing trend of hospitalizations since the start of the third wave
+Record high number of patients in intensive care units (ICU) each day for the past nineteen days

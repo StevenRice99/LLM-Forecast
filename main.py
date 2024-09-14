@@ -6,7 +6,6 @@ import warnings
 
 import numpy as np
 import pandas as pd
-from hugchat import hugchat
 from sklearn.linear_model import LinearRegression
 from sklearn.pipeline import make_pipeline
 from sklearn.preprocessing import PolynomialFeatures
@@ -14,7 +13,7 @@ from sklearn.svm import SVR
 from statsmodels.tools.sm_exceptions import ConvergenceWarning
 from statsmodels.tsa.arima.model import ARIMA
 
-import scraping
+import llm
 from scraping import parse_dates, llm_predict
 
 
@@ -104,9 +103,8 @@ def predict(data: dict, forecast: int = 0, buffer: int = 0, power: int = 1, top:
             keywords: str or list or None = "COVID-19", max_results: int = 100, language: str = "en",
             country: str = "CA", location: str or None = "Ontario, Canada",
             end_date: tuple or datetime.datetime or None = None, days: int = 7, exclude_websites: list or None = None,
-            trusted: list or None = None, model: str or list or None = None, attempts: int = 10, delay: float = 0,
-            forecasting: str = "COVID-19 hospitalizations", folder: str = "COVID Ontario",
-            units: str = "weeks", previous: list or None = None, hugging_chat: hugchat.ChatBot or None = None,
+            trusted: list or None = None, model: bool = False, forecasting: str = "COVID-19 hospitalizations",
+            folder: str = "COVID Ontario", units: str = "weeks", previous: list or None = None,
             max_order: int = 0) -> dict:
     """
     Predict what to order for an inbound shipment.
@@ -127,14 +125,11 @@ def predict(data: dict, forecast: int = 0, buffer: int = 0, power: int = 1, top:
     :param days: How many days prior to the end date to search from.
     :param exclude_websites: Websites to exclude.
     :param trusted: What websites should be labelled as trusted.
-    :param model: Which model to use for LLM summaries.
-    :param attempts: The number of times to attempt LLM summarization.
-    :param delay: How much to delay web queries by to ensure we do not hit limits.
+    :param model: If a large language model should be used.
     :param forecasting: What is being forecast.
     :param folder: The name of the file to save the results.
     :param units: The units of predictions.
     :param previous: Previous values to help predict.
-    :param hugging_chat: HuggingChat instance to use.
     :param max_order: How much at most can be ordered.
     :return: The order to place for an inbound shipment.
     """
@@ -246,13 +241,12 @@ def predict(data: dict, forecast: int = 0, buffer: int = 0, power: int = 1, top:
         result = math.ceil(sum(results) / len(results))
         if verbose:
             print(f"Predicted demand over next {forecast + 1} periods is {result}.")
-        # Run the LLM if one is selected.
-        if model is not None:
+        # Run the LLM if it is selected.
+        if model:
             result = llm_predict(keywords, max_results, language, country, location, end_date, days, exclude_websites,
-                                 trusted, model, attempts, delay, forecasting, folder, units, forecast + 1, previous,
-                                 result, hugging_chat)
+                                 trusted, forecasting, folder, units, forecast + 1, previous, result)
             if verbose:
-                print(f"{model} predicted demand over next {forecast + 1} periods is {result}.")
+                print(f"LLM predicted demand over next {forecast + 1} periods is {result}.")
         # Use what is in inventory to contribute towards the predicted requirements.
         result -= data["Inventory"][item]
         if verbose:
@@ -290,8 +284,7 @@ def test(path: str, start: int = 1, memory: int = 1, lead: int = 1, forecast: in
          svr: dict or None = None, verbose: bool = False, keywords: str or list or None = "COVID-19",
          max_results: int = 100, language: str = "en", country: str = "CA", location: str or None = "Ontario, Canada",
          days: int = 7, exclude_websites: list or None = None, trusted: list or None = None,
-         model: str or list or None = None, attempts: int = 10, delay: float = 0,
-         forecasting: str = "COVID-19 hospitalizations", units: str = "weeks",
+         model: bool = False, forecasting: str = "COVID-19 hospitalizations", units: str = "weeks",
          previous: list or None = None, output: str or None = None, max_order: int = 0) -> None:
     """
     Test a forecasting model given a CSV file.
@@ -315,9 +308,7 @@ def test(path: str, start: int = 1, memory: int = 1, lead: int = 1, forecast: in
     :param days: How many days prior to the end date to search from.
     :param exclude_websites: Websites to exclude.
     :param trusted: What websites should be labelled as trusted.
-    :param model: Which model to use for LLM summaries.
-    :param attempts: The number of times to attempt LLM summarization.
-    :param delay: How much to delay web queries by to ensure we do not hit limits.
+    :param model: If a large language model should be used.
     :param forecasting: What is being forecast.
     :param units: The units of predictions.
     :param previous: Previous values to help predict.
@@ -390,8 +381,6 @@ def test(path: str, start: int = 1, memory: int = 1, lead: int = 1, forecast: in
         forecast = 0
     if top < 0:
         top = 0
-    if model is not None and model not in ["Meta-Llama-3.1-405B", "claude-3-haiku", "llama-3-70b", "mixtral-8x7b"]:
-        model = "Meta-Llama-3.1-405B"
     # Build the name for the current test.
     name = (f"Start={start} Memory={original_memory if fixed_memory else 'All'} Lead={lead} "
             f"Forecast={forecast} Buffer={buffer} Capacity={capacity if capacity > 0 else 'None'} "
@@ -430,8 +419,7 @@ def test(path: str, start: int = 1, memory: int = 1, lead: int = 1, forecast: in
     print(f"\nTesting on data from {path}.")
     if start > 1:
         print(f"Starting at {start}.")
-    if lead > 0:
-        print(f"Order lead time of {lead} periods.")
+    print(f"Order lead time of {lead} periods.")
     if buffer > 0:
         print(f"Want a supply buffer of {buffer}.")
     if capacity > 0:
@@ -450,11 +438,10 @@ def test(path: str, start: int = 1, memory: int = 1, lead: int = 1, forecast: in
         print(f"Choosing prediction by the average of the top {top} predictions.")
     else:
         print("Choosing prediction by the average of all predictions.")
-    if model is not None:
+    if model is True:
         print("Using LLM to forecast.")
-        hugging_chat = scraping.hugging_face()
-    else:
-        hugging_chat = None
+        # Ensure we can use the large language model.
+        llm.initialize()
     # Loop until the end of the data is reached.
     results = []
     start_time = time.time()
@@ -547,8 +534,8 @@ def test(path: str, start: int = 1, memory: int = 1, lead: int = 1, forecast: in
                 i -= 1
         # Get the order to be placed by the forecasting model.
         placed = predict(data, forecast, buffer, power, top, arima, svr, verbose, keywords, max_results, language,
-                         country, location, dates[index - 1], days, exclude_websites, trusted, model, attempts, delay,
-                         forecasting, file_name, units, previous, hugging_chat, max_order)
+                         country, location, dates[index - 1], days, exclude_websites, trusted, model, forecasting,
+                         file_name, units, previous, max_order)
         # Make the request for the order.
         if isinstance(placed, dict):
             # Ensure only valid items are ordered.
@@ -609,8 +596,7 @@ def auto(path: str or list, start: int or list = 1, memory: int or list = 1, lea
          verbose: bool = False, keywords: str or list or None = "COVID-19", max_results: int = 100,
          language: str = "en", country: str = "CA", location: str or None = "Ontario, Canada",
          days: int = 7, exclude_websites: list or None = None, trusted: list or None = None,
-         model: str or None or list = None, attempts: int = 10, delay: float = 0,
-         forecasting: str = "COVID-19 hospitalizations", units: str = "weeks",
+         model: list or bool = False, forecasting: str = "COVID-19 hospitalizations", units: str = "weeks",
          previous: list or None = None, output: str or None = None, max_order: int = 0) -> None:
     """
     Automatically test multiple options.
@@ -634,9 +620,7 @@ def auto(path: str or list, start: int or list = 1, memory: int or list = 1, lea
     :param days: How many days prior to the end date to search from.
     :param exclude_websites: Websites to exclude.
     :param trusted: What websites should be labelled as trusted.
-    :param model: Which model to use for LLM summaries.
-    :param attempts: The number of times to attempt LLM summarization.
-    :param delay: How much to delay web queries by to ensure we do not hit limits.
+    :param model: If a large language model should be used.
     :param forecasting: What is being forecast.
     :param units: The units of predictions.
     :param previous: Previous values to help predict.
@@ -684,5 +668,5 @@ def auto(path: str or list, start: int or list = 1, memory: int or list = 1, lea
                                                 for mo in model:
                                                     test(p, s, m, le, f, b, c, po, t, a, sv, verbose, keywords,
                                                          max_results, language, country, location, days,
-                                                         exclude_websites, trusted, mo, attempts, delay, forecasting,
+                                                         exclude_websites, trusted, mo, forecasting,
                                                          units, previous, output, max_order)

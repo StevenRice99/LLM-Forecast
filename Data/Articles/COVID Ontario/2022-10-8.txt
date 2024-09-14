@@ -1,43 +1,53 @@
-Below are 6 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
+Below are 4 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
-Article 1 of 6
-Title: Extended compartmental model for modeling COVID-19 epidemic in Slovenia
-Publisher: Nature.com
-Trusted: False
-Posted: Today
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. The article describes the development of a deterministic age-structured compartmental model of SARS-CoV-2 transmission, which includes compartments for symptomatic and asymptomatic disease progression, vaccinated and unvaccinated populations, and hospital and ICU admissions. The model is stratified into 5 age groups and includes parameters for vaccination rates, proportions of hospitalizations and deaths, and durations of waning immunity. The model is calibrated to the current state of the epidemic in Slovenia using daily reported infections, deaths, hospitalizations, and vaccination rates. The model produces projections for 7-day averages of daily positive cases, hospitalization admissions and active stays, intensive care admissions and active stays, and deaths. The article highlights the importance of considering age-dependent vaccination strategies and the different severity of disease progression within different age groups. The model's parameters, such as the proportion of hospitalizations and deaths, are estimated separately for each age group. The article also discusses the optimization and calibration of the model, including the estimation of the effective reproduction number, proportions of hospitalizations and deaths, and vaccination rates. The model's projections are evaluated using data from COVID-19 Sledilnik and the European Covid-19 Forecast Hub. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada, include: Vaccination rates and proportions of hospitalizations and deaths by age group Effective reproduction number and contact matrix Durations of waning immunity and latent period Proportions of hospitalizations and deaths outside hospital care Age-dependent vaccination strategies and disease progression Overall, the article provides a detailed description of a comprehensive model for forecasting COVID-19 hospitalizations, which can be adapted and applied to the Ontario, Canada context.
-
-Article 2 of 6
+Article 1 of 4
 Title: Algoma Public Health warns of increased risk of COVID-19 in the area
 Publisher: CTV News Northern Ontario
 Trusted: False
 Posted: 1 day ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting values most important for forecasting: Algoma district has seen a 50% increase in weekly incidence of new high-risk COVID-19 cases. There has been an increase in hospitalizations and outbreaks in high-risk settings. The health unit is warning of increased transmission of COVID-19 in the region. The article mentions the importance of vaccination, especially for those at higher-risk for severe outcomes from COVID-19 infection. The region is experiencing circulation of Omicron sub-variants. These points suggest an increasing trend in COVID-19 cases and hospitalizations in the Algoma district, which is a part of Ontario, Canada. This information can be used to inform forecasting models and predict potential increases in hospitalizations in the region.
+50% increase in high-risk cases in Algoma district over the past week.
+Increased hospitalizations and outbreaks in high-risk settings.
+Omicron sub-variants circulating in Algoma.
+Risk of severe illness and hospitalization increases with each re-infection.
+High-risk groups should stay up-to-date on vaccinations.
 
-Article 3 of 6
+Article 2 of 4
 Title: COVID-19: Peterborough risk index at ‘very high’ after 4 deaths, 13 hospitalizations over past week - Peterborough
 Publisher: Global News Toronto
 Trusted: False
 Posted: 3 days ago
-The article reports on the current COVID-19 situation in Peterborough, Ontario, Canada, which is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Important values for forecasting COVID-19 hospitalizations in Ontario, Canada, include: 4 new COVID-19 deaths and 13 new hospitalized cases over the past week Community risk index reaches'very high risk' 31 inpatients at Peterborough Regional Health Centre as of Oct. 4, up from 25 a week ago 439 cumulative hospitalized cases since the pandemic began 51 cases in an intensive care unit since the pandemic was declared 12 active outbreaks reported on Oct. 5 Vaccination rates: 84% of eligible residents have one dose, 81% have two doses, 55% have three doses, and 22% have four doses.
+RELEVANT
+Summary: The article reports on COVID-19 cases in Peterborough, Ontario. Key values for forecasting hospitalizations include:
+- Hospitalized cases: 31 inpatients (up from 25 a week ago)
+- Cumulative hospitalized cases: 439 since the pandemic began
+- Outbreaks: 12 active outbreaks reported on Oct. 5, with several long-term care homes and retirement residences affected.
 
-Article 4 of 6
-Title: Nursing home study shows 4th COVID mRNA dose provides extra protection against severe Omicron outcomes
-Publisher: News-Medical.Net
-Trusted: False
-Posted: 4 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. The study found that the effectiveness of a fourth dose of the COVID-19 mRNA vaccine in long-term care residents in Ontario decreased over time and peaked immediately after receiving the fourth dose. The marginal effectiveness of a fourth dose administered 84 days prior against infection was 23%, symptomatic infection was 36%, and severe outcomes were 37% when compared to patients who had received the third dose. Key values for forecasting COVID-19 hospitalizations in Ontario, Canada: 23% marginal effectiveness against infection 84 days after the fourth dose 36% marginal effectiveness against symptomatic infection 84 days after the fourth dose 37% marginal effectiveness against severe outcomes 84 days after the fourth dose Decreased effectiveness over time, with minimal further protection against infection and symptomatic infection by approximately 112 to 139 days, and against severe outcomes by 168 days. These findings can inform forecasting models of COVID-19 hospitalizations in Ontario, Canada, particularly among long-term care residents, and highlight the importance of considering the timing and effectiveness of vaccination efforts in predicting hospitalization rates.
-
-Article 5 of 6
+Article 3 of 4
 Title: Brief on Primary Care Part 2: Factors Affecting Primary Care Capacity in Ontario for Pandemic Response and Recovery
 Publisher: Ontario COVID-19 Science Advisory Table
 Trusted: True
 Posted: 5 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Summary: The article highlights the critical role of primary care in the COVID-19 pandemic response and recovery in Ontario, Canada. It notes that the pandemic has accelerated changes in primary care practice and capacity, leading to increased stress, workload, and complexity for primary care clinicians (PCCs). The article identifies three key domains that shape primary care delivery: health human resources (HHR), primary care practice structures (models), and health system infrastructure for integrated and coordinated care. Key values for forecasting COVID-19 hospitalizations in Ontario, Canada: 1. Primary care capacity: The article notes that the demand for primary care cannot be met by current numbers of PCCs, and that shifting physician demographics, impending retirements, and burnout pose an accelerating threat to primary care provision. 2. Health human resources (HHR): The article highlights the aging workforce, impending retirements, and declining interest in comprehensive primary care among new graduates, which may exacerbate shortages in all areas of HHR in the primary care sector. 3. Primary care practice structures (models): The article notes that patient enrolment models (PEMs) that formally attach patients to a regular source of primary care, team-based models of care, and inter-physician practice variations have been important determinants of access, continuity, and outcomes throughout the COVID-19 pandemic. 4. Health system infrastructure: The article highlights the need for infrastructure to support coordinated and integrated primary care, including governance structures at the regional level and clear communication channels between PCCs. These values can inform forecasting models by highlighting the potential impact of primary care capacity, HHR, and practice structures on COVID-19 hospitalizations in Ontario, Canada.
+The document you provided is a Science Brief on the State of Primary Care in Ontario during the COVID-19 pandemic. Here's a summary of its content and methods used:
+Content: 
+1. Background: The need for coordinated and integrated primary care in Ontario is pressing, as demonstrated by the success of collaborative efforts during the pandemic.
+2. The Role of Primary Care in Pandemic Response and Health System Improvement: Primary care is crucial to ongoing pandemic preparedness, response, and recovery, continued health system improvement, person-centred care in communities, and population health.
+3. Lessons Learned and Recommendations: The Brief highlights the importance of addressing primary care capacity gaps, supporting team-based models of care, and ensuring infrastructure and resources that support coordinated and integrated primary care.
+Methods: 
+The Science Brief uses a single common strategy to construct its content, involving:
+1. Literature Search: A search of peer-reviewed literature, pre-prints, academic presentations, reports, manuals, and grey literature was conducted using the COVID-19 filter adapted for search strategies created by Library and Knowledge Services of the National Health Services.
+2. Grey Literature Search: A search of relevant reports, manuals, and policy papers focused on Primary care and COVID-19 pandemic response, Pandemic Recovery, Integration of care, and Team-Based Care was conducted.
+3. Media Scan: The Ontario Medical Association library team provided a scan of media and grey literature using their daily in-house environmental scanning product, "The Scan".
+4. Expert Consensus: A simple analytical framework (SALSA) was employed to generate a narrative summary for each section of the Brief.
+5. Feedback and Review: Drafts of the Brief sections were shared with primary care stakeholders across the province, country, and internationally for feedback.
+Overall, the Science Brief uses a comprehensive approach to synthesize evidence from various sources, including peer-reviewed literature, grey literature, media scans, and expert consensus, to provide insights into the state of primary care in Ontario during the COVID-19 pandemic.
 
-Article 6 of 6
+Article 4 of 4
 Title: Adding COVID-19 to ‘designated diseases’ could boost vaccine uptake among children
 Publisher: The Conversation
 Trusted: False
 Posted: 6 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada, as it highlights the increasing susceptibility of children to SARS-CoV-2 and the low vaccination uptake among minors, particularly those under 12. The article notes that children with co-morbidities are especially vulnerable to severe COVID-19 outcomes, including hospitalizations and deaths. The low vaccination rate among children, especially those under 5, is concerning, with only 41% of Ontario children aged 5-11 completing their primary series and 6% of those under 5 receiving their first dose. The article suggests that adding COVID-19 to the list of "designated diseases" in Ontario's Immunization of School Pupils Act may help address the low vaccine uptake among school-aged children. Key values for forecasting COVID-19 hospitalizations in Ontario, Canada: Increasing susceptibility of children to SARS-CoV-2 Low vaccination uptake among minors, particularly those under 12 Children with co-morbidities are especially vulnerable to severe COVID-19 outcomes 41% of Ontario children aged 5-11 have completed their primary series 6% of Ontario children under 5 have received their first dose Potential impact of adding COVID-19 to the list of "designated diseases" in Ontario's Immunization of School Pupils Act on vaccine uptake among school-aged children.
+Summary: 
+Children's susceptibility to SARS-CoV-2 has increased in frequency and severity over the course of the pandemic.
+Low vaccination uptake among minors (41% completed primary series for 5-11 year olds, <6% first doses for under 5s) is a concern.
+Increased infections among children will lead to more severe outcomes, including hospitalizations.
+Adding COVID-19 to the list of designated diseases in Ontario may help address low vaccination uptake and increase protection for school-aged children.

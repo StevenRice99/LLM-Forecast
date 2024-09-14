@@ -1,43 +1,54 @@
-Below are 6 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
+Below are 5 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
-Article 1 of 6
-Title: Ontario records highest number of new COVID-19 deaths since June, adds more than 1,800 cases
-Publisher: CTV News Toronto
+Article 1 of 5
+Title: Cuomo reinstates NYC indoor dining ban to limit virus spread
+Publisher: CTV News
 Trusted: False
 Posted: 1 day ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: 1,848 new cases of COVID-19 were reported in Ontario on Friday, with a total of 136,631 lab-confirmed cases. 45 new COVID-19-related deaths were reported, with a total of 3,916 deaths. 137 long-term care homes in Ontario have a confirmed COVID-19 outbreak. The COVID-19 positivity rate is currently 3.2%, the lowest since November 2. 808 patients are currently in hospital with COVID-19, with 235 in intensive care and 124 on ventilators. New modelling shows a 91.6% increase in COVID-19 hospitalizations over the past four weeks, and a 165.9% increase in ICU admissions. Officials predict that more than 200 ICU beds will be occupied by COVID-19 patients for at least a month. These values suggest a concerning trend in hospital admissions and ICU occupancy, which is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada.
+Relevant.
+Summary: The article reports on New York City's decision to ban indoor dining due to high hospitalization rates (nearly 1,700 patients hospitalized with COVID-19 infections) despite economic pain to the restaurant industry. This situation highlights a correlation between indoor dining and increased transmission of COVID-19, leading to hospitalizations.
 
-Article 2 of 6
-Title: Downtown hospital launches virtual ER appointments as COVID-19 hospitalizations increase
-Publisher: CP24
-Trusted: False
-Posted: 2 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting the most important values: Current hospitalizations: 829 people are receiving treatment for COVID-19 in Ontario hospitals, up from 666 last week. ICU admissions: 228 COVID-19 patients are in intensive care units. Provincial modelling data: + Best-case scenario (1% growth in new infections): over 200 COVID-19 patients in ICUs for the next month. + Worst-case scenario (5% growth rate): over 500 COVID-19 patients in ICUs between now and early January. New infections: a record 1,983 new cases were logged on Thursday, with 35 more deaths. These values provide insight into the current state of COVID-19 hospitalizations in Ontario and the potential trajectory of hospitalizations and ICU admissions in the coming weeks.
-
-Article 3 of 6
-Title: Ontario reports new single-day record with nearly 2,000 new COVID-19 infections, testing reaches new heights
+Article 2 of 5
+Title: 36 staff at one Ontario hospital network self-isolating after testing positive for COVID-19
 Publisher: CTV News Toronto
 Trusted: False
 Posted: 2 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting values most important for forecasting: New COVID-19 cases reported: 1,983 (highest single-day record) Seven-day average for number of cases reported: 1,862 Positivity rate: 3.6% Hospitalizations: 829 patients (increase of 18 from previous day) ICU admissions: 228 patients Ventilator usage: 132 patients Total lab-confirmed cases: 134,783 Deaths: 35 in the last 24 hours, 3,871 total These values indicate a continued upward trend in COVID-19 cases and hospitalizations in Ontario, which is crucial for forecasting future hospitalization numbers. The article also mentions that the province's ICU capacity may be overwhelmed if the number of patients exceeds 300, which is a critical threshold for forecasting hospitalization needs.
+Key points:
+36 employees at Trillium Health Partners are self-isolating after testing positive for COVID-19.
+Four units at Credit Valley Hospital and Mississauga Hospital have an outbreak.
+Trillium Health Partners is dealing with 88 COVID patients, 20 patients in ICU, and many awaiting results.
+Next three to six weeks will be extremely challenging for Ontario hospitals.
 
-Article 4 of 6
-Title: 54 cases of COVID-19 linked to outbreak in Mennonite community in Whitewater region of Ottawa Valley
-Publisher: CTV News Ottawa
+Article 3 of 5
+Title: New interactive map reveals how full hospitals are in every county of the US
+Publisher: Daily Mail
 Trusted: False
-Posted: 2 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting values most important for forecasting: A small community in Renfrew County has experienced a significant outbreak with 54 cases of COVID-19 out of 212 people, resulting in a 50% positivity rate. The outbreak has been linked to a visitor from the Kitchener-Waterloo region. Despite the high number of cases, no one in the community has required hospitalization, with approximately 90 people showing symptoms. The community has limited interaction with the outside community, which may help contain the spread. The outbreak has significantly increased Renfrew County's seven-day average of cases per 100,000 people, from 1.8 to 15.6. These values are important for forecasting COVID-19 hospitalizations in Ontario, Canada, as they provide insight into the potential for rapid spread in close-knit communities, the impact of external factors (such as visitors from other regions), and the effectiveness of containment measures.
+Posted: 3 days ago
+Values most important for forecasting:
+Daily COVID-19 hospitalization counts by region
+Percentage of total hospital beds occupied by COVID-19 patients (e.g. between 3.85% and 44.29%)
+Percentage of ICU beds occupied by COVID-19 patients (e.g. between 6.17% and 36.38%)
+Hospital bed and ICU capacity in regions
 
-Article 5 of 6
-Title: Ontario reports single-day dip in new COVID-19 cases with fewer than 1,700 infections reported
+Article 4 of 5
+Title: 'Historic moment': Health Canada approves Pfizer COVID-19 vaccine
+Publisher: CTV News
+Trusted: False
+Posted: 3 days ago
+Canada has approved the Pfizer-BioNTech COVID-19 vaccine, making it the third country in the world to do so. The vaccine will be distributed to Canadians through ultra-cold freezers at 14 medical facilities across the country. However, Canadians living in remote areas and the territories may have to wait until the Moderna vaccine is approved before receiving a COVID-19 vaccine.
+Canada's approval process was expedited due to an emergency order, allowing Health Canada to review the vaccine's safety and efficacy more quickly than usual. The agency will closely monitor the vaccine's safety once it is on the market and take action if any concerns arise.
+Pfizer has agreed to follow clinical trial participants for two years after their second dose and provide regular updates on the vaccine's quality, efficacy, and safety. Each province and territory will track who receives doses, and the federal government is considering an additional layer of national monitoring.
+Canada has signed contracts guaranteeing access to 194 million doses of potential COVID-19 vaccines, with options to purchase up to 220 million more. The Pfizer-BioNTech vaccine is one of four candidates being evaluated by Health Canada, along with the Moderna, AstraZeneca, and Johnson & Johnson vaccines.
+COVID-19 vaccines will be offered to Canadians free of charge and are not mandatory. The approval of the Pfizer-BioNTech vaccine is seen as a positive development in the fight against COVID-19, but officials caution that it is just one tool among many being used to combat the virus.
+
+Article 5 of 5
+Title: Ontarians could face restrictions if they refuse to get COVID-19 vaccine, health minister says
 Publisher: CTV News Toronto
 Trusted: False
 Posted: 4 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: New COVID-19 cases: 1,676 (down from 1,925 the previous day) Positivity rate: 5% (up from 4% the previous day) Hospitalizations: 794 (up by 69 patients from the previous day) ICU patients: 219 (up by 6 patients from the previous day) Ventilator patients: 132 Deaths: 10 (in the past 24 hours) Recoveries: 1,549 (newly resolved cases) The article also mentions that the Ontario government's modelling suggests that the province could cross the threshold of 300 ICU patients by mid-December, which could impact the ability to treat non-COVID-19-related patients. These values can be used to inform forecasting models of COVID-19 hospitalizations in Ontario, Canada, particularly in terms of the current trend in hospitalizations, ICU admissions, and deaths.
-
-Article 6 of 6
-Title: HSN opening at least 40 additional beds at Daffodil Lodge next month
-Publisher: CTV News Northern Ontario
-Trusted: False
-Posted: 5 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Health Sciences North (HSN) in Sudbury, Ontario is experiencing chronic overcrowding, exacerbated by the COVID-19 pandemic. To address this, HSN is opening at least 40 additional beds in January, with the potential to increase to 60 beds. The hospital is currently operating at over-capacity, with an average of 491 admitted patients in November, exceeding its designed capacity of 441 beds. The number of admitted patients does not include 60 patients receiving care at a nearby hotel, established as part of HSN's pandemic surge plans. HSN has the highest occupancy percentage in the province, according to Ontario Health. The hospital is also experiencing increased pressure due to the upcoming flu season and a reduced surgical waitlist, which has led to an increase in surgical volumes to 110% of historical levels. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Current hospital occupancy rates and capacity pressures Number of additional beds being opened to address overcrowding Surgical volumes and waitlists Flu season demand COVID-19 hospitalization rates These values can help inform forecasting models and provide insight into the potential demand for hospital beds in Ontario, Canada.
+Key values:
+Vaccine rollout phases: long-term care, retirement homes, health-care workers, and Indigenous communities first
+Timeline: vaccine distribution expected within 2-3 months
+Eligibility: specific groups prioritized, then wider availability for the general public
+Vaccination documentation: available to prove immunization status
+Restrictions: potential travel and communal space restrictions for unvaccinated individuals

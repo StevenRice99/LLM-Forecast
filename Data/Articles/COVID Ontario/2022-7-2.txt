@@ -1,7 +1,59 @@
-Below is a news article from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
+Below are 3 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
-Title: Ahead of summer festivals, Quebec health officials warn of rising COVID-19 numbers
-Publisher: CTV News Montreal
+Article 1 of 3
+Title: Interim Recommendations of the Advisory Committee on Immunization Practices for Use of Moderna and Pfizer-BioNTech COVID-19 Vaccines in Children Aged 6 Months–5 Years — United States, June 2022
+Publisher: CDC
+Trusted: True
+Posted: 1 day ago
+The text appears to be an excerpt from a Centers for Disease Control and Prevention (CDC) document, specifically addressing the recommendations for COVID-19 vaccination in children aged 6 months to 5 years. Here are the key points:
+Vaccine Safety 
+Myocarditis and pericarditis are rare adverse events reported after mRNA COVID-19 vaccines.
+Monitoring by CDC's Vaccine Safety Datalink has not detected an increased risk of myocarditis and pericarditis in children aged 5-11 years.
+Recommendations 
+The Advisory Committee on Immunization Practices (ACIP) recommends vaccination with the Moderna COVID-19 vaccine for children aged 6 months to 5 years as a 2-dose primary series.
+ACIP also recommends vaccination with the Pfizer-BioNTech COVID-19 vaccine for children aged 6 months to 4 years as a 3-dose primary series.
+Risk-Benefit Analysis 
+Despite high seroprevalence among young children (71% had SARS-CoV-2 antibodies by April 2022), vaccination is still recommended due to the potential benefits of enhanced protection against reinfection and COVID-19-associated hospitalization.
+No concerns have been identified in postauthorization safety surveillance associated with vaccination of seropositive persons aged 5 years.
+Clinical Considerations 
+Children who are moderately or severely immunocompromised may require additional considerations, which can be found at the CDC website.
+Future Updates 
+ACIP will continue to review additional data as they become available and update recommendations or clinical considerations on their website.
+
+Article 2 of 3
+Title: Severe Acute Hepatitis in Children of Unknown Etiology
+Publisher: Ontario COVID-19 Science Advisory Table
+Trusted: True
+Posted: 4 days ago
+This text appears to be a "Science Brief" from the Canadian Society of Allergy and Clinical Immunology (CSACI) on Acute Hepatitis in Children, likely related to the 2022 outbreak of severe acute hepatitis cases among children.
+The main points are:
+Key Takeaways 
+Consult with a pediatric gastroenterologist for a child with AST  500 IU/L or INR  1.5.
+Perform a complete infectious workup (respiratory virus testing, stool testing, serology, blood PCR) to investigate suspected etiologies (including SARS-CoV-2 and adenovirus infection).
+Consider additional investigations:
++ Autoimmune hepatitis evaluation (quantitative immunoglobulins, antinuclear antibody, smooth muscle antibody)
++ Toxicology Testing
++ Other tests (ferritin, creatine kinase, ceruloplasmin, copper, alpha-1-antitrypsin)
+When to Refer 
+Consult a pediatric gastroenterologist for a child with:
++ ALT  500 IU/L or INR  1.5
++ Clinical concerns for hepatic encephalopathy (sleepiness, fatigue, altered mental status, movement abnormalities), GI bleeding, decreased urine output.
+Consider prompt transfer to a Children's Hospital with a liver transplant program if the child has:
++ Persistent or continued elevation of serial INR values and bilirubin levels after one IV vitamin K dosage
++ Clinical concerns for hepatic encephalopathy (sleepiness, fatigue, altered mental status, movement abnormalities), GI bleeding, decreased urine output.
+Interpretation 
+Acute hepatitis often resolves with supportive care.
+Consult a pediatric gastroenterologist to prioritize investigations, discuss management, review anticipatory guidance, and indications for admission.
+
+Article 3 of 3
+Title: Rare heart-related side effects higher with Moderna COVID vaccine
+Publisher: cidrap.umn.edu
 Trusted: False
-Posted: 3 days ago
-This article is partially relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Although the article focuses on the situation in Quebec, it provides some valuable information that could be applied to Ontario: 1. The article mentions the spread of new variants (BA. 2.12.1, BA. 4, and BA. 5) that are more easily transmissible, which could potentially affect Ontario as well. 2. The article notes an increase in cases and hospitalizations in Quebec, which could be a warning sign for Ontario. 3. The article highlights the importance of public health guidelines, such as distancing, washing hands, and mask-wearing, which are also relevant for Ontario. However, the article does not provide specific data or information about the situation in Ontario, which would be more directly relevant for forecasting COVID-19 hospitalizations in the province. Therefore, while the article provides some useful context and insights, it is not directly applicable to forecasting COVID-19 hospitalizations in Ontario, Canada.
+Posted: 5 days ago
+Here is a brief summary of the article with values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Summary: This study from Public Health Ontario, the University of Toronto, and ICES analyzed data on 19.7 million mRNA COVID vaccine doses administered in Ontario between Dec 2020 and Sep 2021.
+Relevant Values: 
+Incidence rates per million doses: 15 cases per million vaccine doses for myocarditis or pericarditis overall.
+Age-specific incidence: Highest rate among men 18-24 years old, with 299.5 cases per million doses after the second Moderna dose.
+Dosing interval impact: Incidence dropped by one-fifth for both vaccines when spacing between doses was longer (56 days or more).
+Specific rates: 16.2 myocarditis or pericarditis cases per million Moderna doses with a 56-day or longer interval, and 9.6 cases per million with a Pfizer dose followed by Moderna.

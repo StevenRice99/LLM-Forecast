@@ -1,36 +1,89 @@
-Below are 5 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
+Below are 8 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
-Article 1 of 5
+Article 1 of 8
 Title: Ontario's COVID-19 hospitalizations, ICU admissions inch upward again
-Publisher: CBC.ca
+Publisher: CBC News
 Trusted: False
 Posted: 1 day ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Current hospitalizations: 1,679 patients testing positive for COVID-19, with 44% admitted due to COVID-19 symptoms and 56% already in hospital when their cases were confirmed. ICU admissions: 209 people with COVID-19, with 70% admitted to ICU due to effects of the virus. Deaths: 20 new deaths reported, bringing the total COVID-linked death toll to 12,812. Laboratory testing: 2,760 new cases confirmed, with a 13.2% positivity rate from 19,235 PCR tests. Vaccination rates: 87% of residents aged 12 and older have had at least two shots, with 33,077 doses administered on Thursday. These values provide insight into the current state of COVID-19 hospitalizations and ICU admissions in Ontario, as well as the spread of the virus and vaccination efforts. This information can be used to inform forecasting models and predict future trends in hospitalizations.
+Here is a brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Total hospitalized patients: 1,679 (increase of 18 from the day before)
+ICU admissions: 209 people (up from 202 on Thursday), with 70% admitted due to COVID-19 symptoms
+Seven-day average new cases: 3,014 (13.2% positivity rate from PCR tests)
 
-Article 2 of 5
-Title: Ontario logs 20 more COVID-19 deaths, slight increase in hospitalizations
-Publisher: CTV News Toronto
+Article 2 of 8
+Title: Sask. COVID-19 patient marks 279 days in hospital
+Publisher: CBC News
 Trusted: False
 Posted: 1 day ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting the most important values: Current hospitalizations: 1,679 people in Ontario hospitals with COVID-19, up from 1,661 the day before. ICU admissions: 209 patients, with 70% admitted for COVID-19 and 30% testing positive after admission for other ailments. Percentage of hospitalizations due to COVID-19: 44% of all people hospitalized with COVID-19 were admitted for reasons related to the disease. Positivity rate: 13.2% based on 19,200 tests processed in the last 24 hours. New cases: 2,760 lab-confirmed cases reported on Friday, although this number is considered an underestimation due to testing restrictions. These values provide insight into the current state of COVID-19 hospitalizations in Ontario, including the number of hospitalizations, ICU admissions, and positivity rate, which can be used to inform forecasting models.
+Here are the relevant values for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Long stays in hospital: More than 400 COVID-19 patients in Saskatchewan hospitals, with some continuing to spend long stretches in the hospital.
+Hospitalization duration: Up to 279 days (9 months) as seen in Ken Roth's case.
+Proportion of critically ill patients: Only about 20 COVID-patients require intensive care as of April 27, despite over 400 COVID-19 patients in hospitals.
 
-Article 3 of 5
+Article 3 of 8
+Title: Province mulls COVID-19 wastewater monitoring to track spread, provide early detection
+Publisher: CBC News
+Trusted: False
+Posted: 2 days ago
+Key points:
+Wastewater monitoring can provide an early warning system for COVID-19 transmission.
+The novel coronavirus found in wastewater is a reliable indicator of community spread.
+This data can be used to inform public health decisions and trigger interventions to reduce the spread of the virus.
+Other provinces, like Ontario, are already using this approach to forecast COVID-19 hospitalizations.
+
+Article 4 of 8
+Title: COVID hospitalizations in NM rise again, up to 51 on Tuesday
+Publisher: Rio Rancho Observer
+Trusted: False
+Posted: 4 days ago
+ONTARIO, CANADA
+This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. 
+Summary: 
+The article reports on the COVID-19 pandemic situation in different regions of Canada, including Ontario. The key values highlighted are:
+Number of cases and hospitalizations
+Vaccination rates and breakthrough cases
+Public health measures and restrictions in place
+Variants of concern and their impact on hospitalizations
+
+Article 5 of 8
+Title: UWindsor researchers discover children’s mental health worsens when COVID-19 cases surge
+Publisher: CTV News Windsor
+Trusted: False
+Posted: 5 days ago
+Children's mental health distress correlated with:
+Number of COVID-19 cases
+Hospitalizations
+Deaths related to COVID-19
+These values are important for understanding the indirect impact of COVID-19 on children and potentially their caregivers, but not directly relevant to forecasting adult hospitalizations.
+
+Article 6 of 8
 Title: Unvaccinated people increase risk of COVID-19 infection among vaccinated: study - National
 Publisher: Global News
 Trusted: False
 Posted: 5 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: A study published in the Canadian Medical Association Journal suggests that unvaccinated people threaten the safety of vaccinated people, even with high immunization rates. The study used an infectious disease model based on Ontario to reproduce the interactions between vaccinated and unvaccinated subpopulations. The model found that attack rates among vaccinated people were highest when they were randomly mixed with unvaccinated people, and lowest when they were surrounded by other vaccinated people. The study also found that unvaccinated people had lower attack rates when mixing with vaccinated people, and that vaccinated people became a "buffer" that reduced the risk for unvaccinated people. The authors' findings remained consistent even when they modeled lower levels of vaccine effectiveness, such as in those who have not received a booster dose or with new variants of the virus. Data from the Public Health Agency of Canada showed that hospitalizations due to COVID-19 rose 18% across Canada between April 4 and April 11, with 6,020 people needing beds. In Ontario, the surgery waitlist has grown to between 225,000 to 250,000 patients. The article highlights the importance of collective action and vaccination in preventing the spread of COVID-19 and reducing hospitalizations. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Vaccination rates and effectiveness Mixing patterns between vaccinated and unvaccinated subpopulations Attack rates among vaccinated and unvaccinated people Hospitalization rates and surgery waitlists Collective action and public health measures to prevent the spread of COVID-19.
+The study uses an infectious disease model based on Ontario to examine interactions between vaccinated and unvaccinated subpopulations.
+Key parameters include vaccine effectiveness, baseline immunity in unvaccinated people, and infection recovery rate.
+Unvaccinated individuals are at higher risk of hospitalization when exposed to vaccinated individuals who become infected (acting as a buffer), but this risk decreases when mixing with other unvaccinated individuals.
+The study's findings align with national data showing that the majority of COVID-19 hospitalizations in Canada are among the unvaccinated.
 
-Article 4 of 5
+Article 7 of 8
+Title: Ontario’s mask mandate extension in high-risk settings met with mixed reactions
+Publisher: CityNews Toronto
+Trusted: False
+Posted: 6 days ago
+The article mentions a sixth wave of COVID-19 infections and hospitalizations are expected to peak in the coming week.
+Hospital staff absences due to COVID-19 have led to service disruptions, including the closure of an emergency department until May 2.
+The Ministry of Health expects key indicators (hospital and ICU admissions) to decline after peaking, but does not specify a timeline for this decline.
+COVID-19 hospitalizations are considered a significant issue by healthcare leaders.
+Staff infections, patient flows, and hospital services disruptions can be used as proxies for forecasting hospitalizations.
+
+Article 8 of 8
 Title: Children's hospitals under strain in Canada's 6th COVID-19 wave
 Publisher: CBC News
 Trusted: False
 Posted: 6 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Summary: Children's hospitals across Canada, including Ontario, are experiencing high patient volumes and staff shortages due to the sixth wave of COVID-19. The Children's Hospital of Eastern Ontario (CHEO) in Ottawa has seen a doubling of daily patients in its emergency department, with two-thirds of them coming in with COVID symptoms. Staff shortages are exacerbating the pressure on the system, with 10-15% of CHEO's workforce off work due to COVID symptoms or exposure. Other hospitals in Ontario, such as McMaster Children's Hospital and Toronto's Hospital for Sick Children (SickKids), are also experiencing high volumes of patients with respiratory symptoms, including COVID-19. Vaccination rates among children remain low, with only 40% of kids aged 5-11 fully vaccinated, leaving millions of kids vulnerable to infection. Important values for forecasting COVID-19 hospitalizations in Ontario, Canada: High patient volumes and staff shortages at children's hospitals Increasing number of kids coming in with COVID symptoms Low vaccination rates among children Staff absenteeism rates (10-15% at CHEO, 10-30% at SickKids) Hospitalization and ICU admission rates remaining high across Ontario.
-
-Article 5 of 5
-Title: Ontario reports over 1,680 COVID-19 hospitalizations, 212 in ICU
-Publisher: CP24
-Trusted: False
-Posted: 7 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Current hospitalizations: 1,684 patients with COVID-19 in Ontario hospitals, up from 1,591 yesterday and 1,130 a week ago. ICU patients: 212, down 2 from yesterday but up 27 from a week ago. Percentage of hospitalizations admitted for COVID-19: 46% Percentage of ICU patients admitted for COVID-19: 61% Ventilator usage: 81 ICU patients are breathing with the assistance of a ventilator. Predicted peak hospitalizations: expected to peak in the next 7-10 days, according to Chief Medical Officer of Health Dr. Kieran Moore. Wastewater signal: significant signal last week, starting to decline. Positivity rate: 17.3%, down from 18.5% a week ago. Vaccination rates: 90% of Ontarians aged 5+ have received one dose, 86% have received two doses, and 51% have received three doses. These values provide insight into the current state of COVID-19 hospitalizations in Ontario, including the number of patients in hospital and ICU, the percentage of patients admitted for COVID-19, and the predicted peak hospitalizations. Additionally, the wastewater signal, positivity rate, and vaccination rates provide context for understanding the spread of the virus and the potential impact on hospitalizations.
+Data on COVID-19 hospitalizations in Ontario, Canada can be extracted from the following information:
+The Hospital for Sick Children (SickKids) in Toronto reported that hospitalization and ICU admissions remain high across Ontario.
+The hospital's emergency department is expected to return to pre-pandemic levels of 7,000 total emergency visits per month.
+There were over 222 daily average visits to the emergency department at SickKids in April 2022, similar to pre-pandemic levels.
+The article does not specifically provide data on COVID-19 hospitalizations in Ontario, but mentions that hospitalization and ICU admissions remain high across the province.

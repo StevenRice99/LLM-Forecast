@@ -1,22 +1,82 @@
-Below are 3 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
+Below are 7 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
-Article 1 of 3
-Title: Ottawa leading Ontario in vaccinating children ages 5-11
-Publisher: CTV News Ottawa
+Article 1 of 7
+Title: On COVID restrictions, our governments keep firing up the gaslights and shifting the goalposts
+Publisher: CBC News
+Trusted: False
+Posted: Today
+A brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Vaccine status (vaccinated vs unvaccinated) 
+Booster shots rollout
+Age groups (e.g. children aged 5-11) 
+Hospitalization and case count data
+
+Article 2 of 7
+Title: Canadians 50 and over should get COVID-19 booster shot, national immunization committee says
+Publisher: CBC News
 Trusted: False
 Posted: 1 day ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting values most important for forecasting: Vaccination rates among children aged 5-11 in Ottawa are higher than the province-wide average (25% vs 14.4%). Ottawa Public Health has the capacity to vaccinate 77,000 eligible children within four weeks. The health unit is increasing efforts to vaccinate children through pop-up clinics at 73 schools, which may lead to an increase in vaccination rates. These values are important for forecasting COVID-19 hospitalizations in Ontario, Canada, as they indicate a potential decrease in hospitalizations due to increased vaccination rates among children, which can help reduce the spread of the virus.
+The effectiveness of vaccines against severe outcomes and hospitalization remains high.
+Vaccine protection against asymptomatic infection decreases over time (waning immunity).
+Booster shots are recommended to maintain durable protection against transmission and severe disease.
+Priority should be given to vaccinating those who have not yet had their first two doses.
+Age groups 50+ and vulnerable populations are prioritized for booster shots, with discretion for younger individuals.
 
-Article 2 of 3
+Article 3 of 7
+Title: No evidence of community spread following COVID-19 outbreak at Garrison Petawawa
+Publisher: CTV News Ottawa
+Trusted: False
+Posted: 3 days ago
+Relevant.
+There was an outbreak at Garrison Petawawa, Ontario involving hundreds of vaccinated servicemembers and their families.
+All additional cases were household contacts of infected individuals who were already self-isolating.
+
+Article 4 of 7
 Title: Critical Care Capacity During the COVID-19 Pandemic
 Publisher: Ontario COVID-19 Science Advisory Table
 Trusted: True
 Posted: 4 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Summary: The article discusses the impact of the COVID-19 pandemic on Ontario's critical care system, specifically on intensive care units (ICUs). It highlights the system's structure, capacity, and adaptability to meet the increased demand for critical care resources. Key points relevant to forecasting COVID-19 hospitalizations in Ontario include: The number of patients admitted to ICUs with COVID-19-related critical illness (CRCI) between March 2020 and October 2021 was 9,096, with a peak of 940 patients in April 2021. The pandemic has resulted in a sustained pressure on the province's critical care system, with the number of ventilated patients in ICUs consistently higher than the historical average since October 2020. The critical care system has adapted to meet the increased demand through policy actions such as reducing non-emergent surgical and procedural activity, increasing critical care capacity, and transferring critically ill patients within and between regions. The system has also expanded ICU capacity through investments in new beds and surge plans, with approximately 600 critical care surge beds identified at the peak of wave 3. Values most important for forecasting COVID-19 hospitalizations in Ontario include: The number of patients admitted to ICUs with CRCI The number of ventilated patients in ICUs The historical average daily ICU census The impact of policy actions on ICU occupancy The expansion of ICU capacity through new beds and surge plans These values can inform forecasting models to predict future COVID-19 hospitalizations in Ontario, taking into account the system's capacity and adaptability to respond to changing demands.
+The text appears to be a scientific brief related to the COVID-19 pandemic's impact on critical care services in Ontario, Canada. The main points discussed are:
+1. Impact of SARS-CoV-2 pandemic on critical care capacity: The pandemic led to an unprecedented surge in demand for critical care services, with a peak of 3,800 patients in ICU during wave 3.
+2. Critical care workforce challenges: The pandemic exacerbated burnout among healthcare workers, resulting in staffing shortages and a desire to preserve non-COVID clinical activity.
+3. Potential future challenges: There may be an increased number of patients with COVID-19 or influenza-associated respiratory failure over the coming months, straining critical care capacity.
+4. Importance of public health measures: Implementing public health measures can reduce transmission of SARS-CoV-2 and other infectious diseases that could burden the healthcare system.
+5. Need for long-term policy changes: Addressing existing critical care staffing shortages and implementing longer-term policies are essential to ensure sufficient capacity for all patients, COVID-19 and non-COVID-19.
+The methods used for this science brief include:
+1. Analysis of daily ICU census data from the Critical Care Information Services (CCIS) database.
+2. Review of emails and reports from Critical Care Services Ontario (CCSO) regarding critical care capacity and COVID-19.
+3. Use of linear regression models to explore changes in ICU census after Directive 2 was issued.
+The key points that can be taken away are:
+The pandemic has had a significant impact on the critical care sector in Ontario, with unprecedented surges in demand for services.
+Staffing shortages and burnout among healthcare workers have resulted from the pandemic.
+There is a need to implement public health measures to reduce transmission of infectious diseases that could strain critical care capacity.
+Addressing existing staffing shortages and implementing longer-term policies are essential to ensure sufficient capacity for all patients.
 
-Article 3 of 3
+Article 5 of 7
+Title: MOH addresses continued rise of COVID-19 cases in KFL&A
+Publisher: Kingstonist
+Trusted: False
+Posted: 4 days ago
+The KFL&A region has over 100 cases of COVID-19.
+There are nearly 20 local cases in hospital currently.
+The incidence of contracting COVID-19 is over six times higher among those who are not vaccinated versus those who are fully vaccinated.
+Ontario has reached a milestone with 10,000 COVID-19 deaths as of Nov. 29, 2021.
+
+Article 6 of 7
 Title: 'It's a crazy mess': Northern doctor quits after online harassment related to COVID-19
 Publisher: CTV News Northern Ontario
 Trusted: False
 Posted: 4 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: The Timiskaming district and Temagami have had a tough time controlling the spread of COVID-19, with 83 active cases, a record for the Timiskaming Health Unit. The area has some of the worst COVID-19 rates in the province. A local doctor, Dr. Gretchen Roedde, has been harassed online and has decided to leave her practice, which may impact the availability of healthcare services in the area. The Ontario Medical Association has called for an end to online harassment of medical professionals, citing it as a larger problem that can impact healthcare services. The article highlights the importance of vaccination efforts in controlling the spread of COVID-19. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: COVID-19 case rates in the Timiskaming district and Temagami Availability of healthcare services in the area Vaccination efforts and rates in the area Potential impact of online harassment on healthcare services and professionals.
+The article mentions that the Timiskaming district and Temagami have had a tough time controlling the spread of COVID-19, reaching 83 active cases (a record). This is relevant as it provides information on the current situation with COVID-19 cases in a specific region in Ontario.
+
+Article 7 of 7
+Title: Province reports 854 new COVID-19 cases Saturday
+Publisher: durhamradionews.com
+Trusted: False
+Posted: 7 days ago
+Here is the relevant information for forecasting COVID-19 hospitalizations in Ontario, Canada:
+As of November 26, there were 254 patients currently hospitalized with COVID-19.
+Of those hospitalized, 83 are unvaccinated, 8 are partially vaccinated, and 48 are fully vaccinated.
+The province reports a total of 134 patients in ICU due to COVID-related critical illness.
+116 patients are currently in ICU testing positive for COVID, and 18 have tested positive but are no longer in ICU with COVID.
+The hospitalization numbers provide an important metric for forecasting future cases.

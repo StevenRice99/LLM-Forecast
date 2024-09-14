@@ -1,22 +1,21 @@
-Below are 3 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
+Below are 2 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
-Article 1 of 3
-Title: Many Canadians can hold off on getting another COVID booster for now: NACI
-Publisher: CTV News
-Trusted: False
-Posted: 4 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. The article highlights several important points that can inform forecasting: 1. Vaccination strategy: The World Health Organization (WHO) and Canadian health officials are shifting their focus from routine booster shots for low-risk individuals to prioritizing vaccination for high-risk groups, such as seniors, those with comorbidities, and immunocompromised individuals. 2. High-risk groups: The article defines high-priority groups for COVID-19 vaccination, including seniors, younger adults with significant comorbidities, and immunocompromised individuals. 3. Booster recommendations: The National Advisory Committee on Immunization (NACI) recommends booster shots for high-risk Canadians this spring, while healthy, fully vaccinated individuals who have received one dose of a COVID-19 vaccine booster can skip the spring vaccination campaign. 4. Hybrid immunity: The article mentions that hybrid immunity, achieved through vaccination and previous infection, is proving to be stable in preventing severe disease. 5. Current trends: Chief Public Health Officer Dr. Theresa Tam notes that hospitalizations, ICU admissions, and deaths have stabilized in Canada, and the current trend suggests that there may not be any major waves in the coming months. These points can inform forecasting by highlighting the potential impact of vaccination strategies on hospitalization rates, the importance of prioritizing high-risk groups, and the current trends in COVID-19 transmission and severity in Canada.
-
-Article 2 of 3
+Article 1 of 2
 Title: Ontario's COVID-19 wastewater testing program gets an $18M boost
 Publisher: CBC.ca
 Trusted: False
 Posted: 5 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. The key points for forecasting COVID-19 hospitalizations include: 1. The continuation of Ontario's COVID-19 Wastewater Surveillance program with an $18.7-million investment from the provincial government. 2. Researchers testing wastewater from municipalities across Ontario to measure the prevalence of COVID-19 in seven regions. 3. The importance of wastewater testing findings and the number of hospitalizations due to COVID-19 as crucial pieces of information to understand the virus' prevalence in the community. 4. Collaboration across 13 universities and several research institutes to expand the surveillance network for monitoring other pathogens like the influenza virus. 5. The program providing valuable data to health units and municipalities to respond effectively to the virus and implement actions or interventions to prevent the spread of outbreaks and reduce infections. These insights from wastewater testing, along with hospitalization data, can help in forecasting COVID-19 hospitalizations in Ontario, Canada.
+Wastewater testing measures COVID-19 prevalence across 7 regions in Ontario.
+PCR testing decline makes wastewater findings and hospitalization data the most important information.
+Public Health Sudbury and Districts uses wastewater findings, hospitalizations, and outbreaks to assess COVID-19 risk.
+Hospitalizations due to COVID-19 are one of two key pieces of information for understanding virus prevalence.
 
-Article 3 of 3
+Article 2 of 2
 Title: Analysis: Ageism and the pandemic: How Canada continues to let older adults suffer and die from COVID-19
 Publisher: Brighter World
 Trusted: False
 Posted: 5 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: COVID-19 is still a leading cause of death in Canada, particularly among older adults. Older adults account for most COVID-19 deaths and hospitalizations. COVID-19 has become the second-leading cause of hospitalization in Canada, after childbirth, and the single leading cause of hospitalization among those over 50. The number of outbreaks in long-term care facilities has increased, with more deaths and hospitalizations than in the first two years of the pandemic combined. The article suggests that ageism may be a factor in the lack of effort to prevent COVID-19, as older adults are disproportionately affected. The article highlights the importance of booster shots and vaccination in protecting older adults and the community as a whole. The article also notes that better testing and policy decisions could help reduce the number of infections and protect vulnerable populations. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Age distribution of the population, particularly the proportion of older adults. Vaccination rates, particularly among older adults. Number of outbreaks in long-term care facilities. Hospitalization rates, particularly among older adults. Policy decisions and public health measures to prevent COVID-19 transmission.
+Most COVID deaths are among older adults ( 50 years), who also account for most hospitalizations.
+Older adults have the highest proportion of COVID-19 related hospitalization and death.
+Booster shots and vaccination can reduce long-term health issues and protect vulnerable populations.
+Excess COVID-19 deaths in older adults are not inevitable with better testing, policy, and community protection.

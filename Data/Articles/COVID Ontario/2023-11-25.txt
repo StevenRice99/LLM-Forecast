@@ -1,22 +1,57 @@
-Below are 3 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
+Below are 5 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
-Article 1 of 3
-Title: Respiratory trends settle after last week's leap
-Publisher: CBC.ca
+Article 1 of 5
+Title: COVID-19, RSV, tick activity, and more: KFL&A MOH shares community health update
+Publisher: Kingstonist
 Trusted: False
-Posted: 2 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Ottawa's COVID-19 numbers are mostly stable, with a high amount of respiratory syncytial virus (RSV) activity and low flu numbers. The average number of Ottawa residents in local hospitals for COVID-19 is 69, with three patients in an ICU. The city's weekly average test positivity rate is about 17%, which is considered high. There are 34 active COVID outbreaks, mostly in retirement homes or hospitals. The health unit reported 285 more COVID cases in the last week and six more COVID deaths. The Eastern Ontario Health Unit (EOHU) is in a high-risk time for COVID, with high wastewater readings and a very high test positivity rate of 29%. Hospitalizations are high in the EOHU, with 27 COVID hospitalizations, and in the Kingston area, with 21 active COVID-19 patients in hospitals. These values suggest that COVID-19 hospitalizations in Ontario, Canada may remain high or even increase in the coming weeks, especially in the Eastern Ontario Health Unit and the Kingston area. The high test positivity rates and number of active outbreaks also suggest a continued risk of transmission.
+Posted: 1 day ago
+High and stable COVID-19 activity in KFL&A region.
+Hospitalization rates trending stable and decreasing.
+Other respiratory viruses (RSV, rhinoviruses) on the rise.
+Current COVID-19 vaccine coverage is above provincial average.
 
-Article 2 of 3
+Article 2 of 5
+Title: One northern Ont. hospital to require masks again starting Monday
+Publisher: CTV News Northern Ontario
+Trusted: False
+Posted: 1 day ago
+A brief summary:
+The North Bay Regional Health Centre has implemented a mask policy due to current high levels of hospitalizations from respiratory viruses.
+This includes all patients, visitors, and staff in designated areas (outpatient clinics, waiting areas, emergency department, and inpatient units).
+The policy aims to control community transmission.
+High levels of hospitalizations from respiratory viruses are a concern for COVID-19 forecasting.
+
+Article 3 of 5
 Title: RSV infections surge as hospitals brace for return of 'normal' respiratory virus season
 Publisher: CBC News
 Trusted: False
 Posted: 3 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada, as it discusses the current respiratory virus season, including the rise of RSV and influenza cases, and the continued circulation of COVID-19. Key points relevant to forecasting COVID-19 hospitalizations in Ontario include: RSV cases are increasing across Canada, with 1,220 cases detected since late August and a test positivity rate of around 5%. Influenza activity is also increasing, although still within typical levels for November. COVID-19 is still circulating, and medical experts warn that many Canadians could still get hit hard due to varying levels of immunity to each virus within the population. Physicians are concerned about the impacts on seniors as these viruses spread to older populations. Vaccines are available for COVID-19, flu, and RSV, and experts emphasize the importance of widespread vaccination to mitigate dire consequences. These points suggest that the current respiratory virus season could lead to an increase in hospitalizations, including those due to COVID-19, particularly among vulnerable populations such as seniors.
+Here is a brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+SARS-CoV-2 (COVID-19) continues to circulate and is still a significant concern.
+RSV cases are on the rise across the country, with 1,220 cases detected since late August.
+The majority of public has already been exposed to COVID-19 or vaccinated against it, but there are populations without immunity to RSV and flu who will be contracting these viruses for the first time.
+Influenza activity is also increasing, with more than 180 influenza-associated hospitalizations reported since late August.
+Adults aged 65 and older made up slightly more than half of those reported hospitalizations.
 
-Article 3 of 3
+Article 4 of 5
+Title: WHO asks China for details on respiratory illness outbreaks
+Publisher: CTV News
+Trusted: False
+Posted: 3 days ago
+Key values:
+Seasonal increase in respiratory illnesses (influenza-like illness) in China from mid-October
+Circulation of known pathogens such as influenza and mycoplasma pneumoniae
+Clusters of undiagnosed pneumonia in children reported in northern China
+These values may be relevant for forecasting COVID-19 hospitalizations in Ontario, Canada, but would need to be adjusted for the specific context of the province.
+
+Article 5 of 5
 Title: The last flu season was a bad one. What’s in store this year? - National
-Publisher: Global News
+Publisher: Global News Toronto
 Trusted: False
 Posted: 5 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada, as it provides information on the current flu season and its potential impact on hospitalizations. The article highlights the following values that are most important for forecasting COVID-19 hospitalizations in Ontario, Canada: The current flu season is seeing a slower start compared to last year, with lower numbers of reported cases, hospitalizations, and deaths. The majority of flu cases are attributed to influenza A, which is a concern for older adults (65+ years) who are at risk of hospitalization and severe outcomes. The article emphasizes the importance of getting a flu vaccination, particularly for high-risk individuals, to maintain low influenza numbers in Canada. The article also mentions that the prior influence of COVID-19 on the spread of the virus may be contributing to lower flu numbers this year. The article provides data on the number of reported cases, hospitalizations, and deaths from the current flu season, as well as comparisons to previous years. These values can be used to inform forecasting models and predict the potential impact of the flu season on COVID-19 hospitalizations in Ontario, Canada.
+Here is a brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Current flu season activity remains low and below seasonal threshold levels.
+184 reported flu-associated hospitalizations across Canada (3.6 per million population).
+Adults aged 65 years of age and older accounted for 51% of reported hospitalizations.
+95% of hospitalizations were associated with influenza A.
+FALSE

@@ -1,71 +1,106 @@
-Below are 10 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
+Below are 7 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
-0
-Title: Ontario surpasses 150,000 COVID-19 cases since beginning of pandemic
-Publisher: CTV News Toronto
+Article 1 of 7
+Title: COVID-19 vaccines are an 'astonishing' feat, but they won't end pandemic overnight
+Publisher: CBC.ca
 Trusted: False
-Posted: 1 day ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting key values: New cases: 2,290 (fourth day in a row with over 2,000 new cases) Seven-day average of COVID-19 cases: 2,089 Hospitalizations: 877 people being treated for COVID-19 in hospitals across Ontario ICU patients: 261, with 168 requiring a ventilator Positivity rate: 3.9% (based on 68,200 COVID-19 tests processed in the last 24 hours) Regional breakdown of new cases: + Toronto: 691 + Peel Region: 361 + York Region: 296 + Windsor-Essex: 207 Weekly incidence rates per 100,000 people: + Peel Region: 223.66 + Toronto: 151.56 + Hamilton: 128.97 + York Region: 120.5 These values provide insight into the current spread of COVID-19 in Ontario, including the number of new cases, hospitalizations, and regional hotspots. This information can be used to inform forecasting models and predict future hospitalization trends.
+Posted: Today
+COVID-19 hospitalizations and ICU admissions across Canada have risen higher this month than at any point in the pandemic. 
+In Ontario, there are more than 2,000 cases per day for the first time.
+Vaccine development is described as "extraordinary" but will not immediately stop the virus.
+About a third of total COVID-19 cases transmitted are from an unknown source.
+Two million Canadians need to be immunized with two-dose vaccines in April-May-June to slow down community spread.
 
-Article 2 of 10
-Title: Ontario surpasses 150,000 COVID-19 cases since beginning of pandemic
-Publisher: CTV News Toronto
-Trusted: False
-Posted: 1 day ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: 877 people are currently being treated for COVID-19 in hospitals across Ontario, with 261 in intensive care units (ICU) and 168 requiring a ventilator. The rolling seven-day average of COVID-19 cases is 2,089, with 2,290 new infections reported on Friday. Seniors continue to be hardest hit by the disease, with 150 ongoing outbreaks at long-term care homes and 83 outbreaks in retirement homes. The province has hit an all-time record of more than 68,200 COVID-19 tests processed in the last 24 hours, with a positivity rate of 3.9%. The Ontario Hospital Association has called for a four-week lockdown for all regions in the "red" zone, which includes areas with a rate of 40 COVID-19 cases per 100,000 people. These values are important for forecasting COVID-19 hospitalizations in Ontario, Canada, as they provide insight into the current number of hospitalizations, ICU admissions, and ventilator usage, as well as the spread of the disease among seniors and the general population. Additionally, the testing data and positivity rate can help inform predictions about future hospitalization rates.
-
-Article 3 of 10
-Title: Coronavirus: What's happening in Canada and around the world on Friday
+Article 2 of 7
+Title: 1 death, 26 new COVID-19 cases in Middlesex-London Wednesday
 Publisher: CBC.ca
 Trusted: False
 Posted: 1 day ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the key points: Ontario reported 2,290 new cases and 40 more deaths on Friday. The province tightened restrictions in five regions amid mounting strain on its hospitals. Hamilton will move into lockdown, while Brant County and Niagara Region move into the red or "control" zone. The public health unit for Kingston, Frontenac and Lennox & Addington moves into the orange or "restrict" zone. Timiskaming is moving into yellow or "protect" zone. The restrictions take effect Monday and will remain in place until at least Jan. 4. These measures are likely to impact hospitalization rates in Ontario, and the number of new cases and deaths reported in the province will be important indicators to track in forecasting COVID-19 hospitalizations.
+In Ontario, there were 2,139 new COVID-19 cases and 43 more deaths reported on Wednesday.
+Hospitalizations approached highs seen in the first wave of the pandemic.
+There are 17,084 confirmed, active infections of COVID-19 in the province.
+Middlesex-London has 293 known active cases.
+London Health Sciences Centre (LHSC) has 36 inpatients with COVID-19 and 38 staff who have tested positive.
 
-Article 4 of 10
-Title: Hamilton-area hospitals join call for 'decisive action' around COVID-19 lockdowns
-Publisher: CBC.ca
-Trusted: False
-Posted: 1 day ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the key points: Hospitals in Hamilton and surrounding areas are experiencing a surge in COVID-19 cases and hospitalizations, with 15 patients at St. Joe's and 39 at Hamilton Health Sciences. The Ontario Hospital Association (OHA) is calling for a 28-day lockdown in red zones due to record-high case counts and hospitalizations. Premier Doug Ford is considering new shutdowns and has announced an emergency meeting with health officials to discuss next steps. Hospitals are struggling to keep up with backlogs and staffing levels are "precarious". The hospitals are preparing to pool resources and bed space if needed, and a satellite hospital has been set up in Hamilton to treat patients and create space. The most important values for forecasting COVID-19 hospitalizations in Ontario, Canada from this article are: Current hospitalization numbers (15 at St. Joe's and 39 at Hamilton Health Sciences) The rapid increase in hospitalizations and ICU occupancy The call for a 28-day lockdown in red zones by the OHA The consideration of new shutdowns by Premier Doug Ford The precarious staffing levels and backlogs in hospitals These values indicate a high level of concern and pressure on the healthcare system, which could lead to an increase in hospitalizations in the coming days and weeks.
-
-Article 5 of 10
-Title: Ontario announces stricter COVID-19 restrictions for five regions, Hamilton going into lockdown
-Publisher: CTV News Toronto
-Trusted: False
-Posted: 1 day ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: The Ontario government has announced stricter COVID-19 restrictions for five regions, including Hamilton, which will go into lockdown on Monday. Toronto and Peel Region will remain in lockdown until at least January 4 due to rising new infections. Hamilton's rolling seven-day average of new COVID-19 cases has increased 40% over the last week and now stands at 106.7. As of Friday, there are 877 patients in hospital with COVID-19, with 261 patients being treated in intensive care. The Ontario Hospital Association has called for "immediate action" to curb the spread of infection. These values are important for forecasting COVID-19 hospitalizations in Ontario, Canada, as they indicate: Increasing case numbers and hospitalizations in certain regions, which may lead to increased hospital capacity utilization and potentially overwhelm the healthcare system. Government restrictions and lockdowns, which may impact the spread of the virus and subsequent hospitalizations. The current burden on the healthcare system, with 877 patients in hospital and 261 in intensive care, which can inform forecasts of future hospitalization rates.
-
-Article 6 of 10
-Title: Ont. premier says 'everything is on the table' amid rising COVID-19 cases but won't commit to tighter lockdown
-Publisher: CBC.ca
-Trusted: False
-Posted: 2 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Summary: The Ontario Hospital Association (OHA) is calling for 28-day lockdowns in COVID-19 red zones due to record-high case counts and hospitalizations. The OHA reports that hospitalization is increasing rapidly, with 919 patients in Ontario hospitals with COVID-19, and 263 in intensive care units. The province's daily case count has reached a new high of 2,432, with a seven-day average of 2,026. The test positivity rate is at 4%, and there are now 17,484 confirmed, active cases of COVID-19 in Ontario. The OHA is also requesting paid sick leave and isolation accommodation to help those who cannot afford to take time off work if they contract COVID-19. Important values for forecasting COVID-19 hospitalizations in Ontario, Canada: Daily case count: 2,432 Seven-day average: 2,026 Hospitalizations: 919 ICU admissions: 263 Test positivity rate: 4% Active cases: 17,484 These values indicate a rapid increase in COVID-19 cases and hospitalizations in Ontario, which is likely to continue if no additional measures are taken to control the spread of the virus.
-
-Article 7 of 10
+Article 3 of 7
 Title: Michael Garron Hospital prepares for more COVID-19 patients as provincial spike in cases anticipated – Beach Metro Community News
 Publisher: Beach Metro News
 Trusted: False
 Posted: 2 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: As of December 17, Michael Garron Hospital in East York has 20 patients hospitalized with COVID-19. Ontario Health has warned hospitals to prepare for a surge in cases and to clear 10-15% of hospital beds for anticipated COVID-19 patients. The province's daily COVID-19 case count has been above 2,000, with a record 2,432 cases reported on December 17. Hospitalizations in Ontario due to COVID-19 have passed 900, with 921 patients hospitalized as of December 16, including 249 in intensive care and 159 requiring a ventilator. The Ontario Hospital Association has asked the province to place regions with a 40 per 100,000 case rate in a four-week lockdown. These values suggest that COVID-19 hospitalizations in Ontario are increasing, and hospitals are preparing for a surge in cases. The province's high daily case count and increasing hospitalizations suggest that the number of hospitalizations may continue to rise, making it important to monitor these metrics for forecasting purposes.
+Key values for forecasting:
+Province's daily case count exceeds 2,000 (Dec. 17: 2,432 cases)
+Hospitalizations due to COVID-19 pass 900 (Dec. 16: 921 patients)
+249 patients in intensive care and 159 requiring a ventilator
+Ontario Health warns hospitals of a surge in cases and requests emergency plans be prepared
+Lockdowns and hospital bed preparation are discussed as potential measures to mitigate the surge
 
-Article 8 of 10
+Article 4 of 7
 Title: As Ontario's COVID-19 cases keep rising, calls grow for tighter holiday lockdown
 Publisher: CBC.ca
 Trusted: False
 Posted: 2 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: The article reports a record-high number of new COVID-19 cases in Ontario, with an average trend of over 2,000 new cases per day. The number of people hospitalized with COVID-19 has surpassed 900, and the cumulative death toll has exceeded 4,000. Hospital capacity is reaching a crunch in red and lockdown zones, with fears that the current rate of new cases will result in hundreds more hospital patients each week as January arrives. Experts, including doctors and public health officials, are calling for stronger and wider lockdown measures to control the spread of COVID-19 and prevent hospitalizations. The article mentions that even with tighter public health restrictions, there will be a delay before the incoming patient numbers start to slow down, and hospitalizations, ICU utilization, and deaths may continue to rise for weeks. Key values for forecasting COVID-19 hospitalizations in Ontario, Canada: 2,000 new cases per day (average trend) 900+ people hospitalized with COVID-19 4,000+ cumulative deaths Hospital capacity reaching a crunch in red and lockdown zones Expected delay in slowing down hospitalizations, ICU utilization, and deaths despite tighter public health restrictions.
+900+ people hospitalized with COVID-19
+Average trend of new confirmed cases daily above 2,000
+Cumulative death toll exceeds 4,000
+Hospitals told to clear beds within 48 hours for a surge in patients
+Hospital capacity is hitting a crunch in red and lockdown zones
+Front-line doctors looking to the province for action to tackle growing pace of hospitalizations
 
-Article 9 of 10
-Title: Toronto considering stricter lockdown measures to curb spread of COVID-19
-Publisher: CTV News Toronto
+Article 5 of 7
+Title: School boards told to prepare for remote learning after winter break
+Publisher: CTV News Barrie
 Trusted: False
-Posted: 3 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Summary: Toronto Mayor John Tory is discussing a stricter lockdown with the Ford government and surrounding area mayors to be implemented after December 21, when the current 28-day lockdown is scheduled to end. The proposed lockdown would cover a larger area, including regions surrounding Toronto, to prevent people from moving between different GTA municipalities with different levels of restrictions. Ontario reported a record 2,000+ cases of COVID-19 on Tuesday, with 921 hospitalizations and 267 ICU admissions. Hospitalizations are expected to surge, prompting Ontario Health to alert hospitals to activate surge plans to free up beds for more COVID-19 patients. Test positivity has hit its highest point in three weeks at over 5%. Important values for forecasting COVID-19 hospitalizations in Ontario, Canada: 2,000+ cases of COVID-19 reported on Tuesday (a record high) 921 hospitalizations (a record high) 267 ICU admissions 5% test positivity rate (highest in three weeks) These values indicate a significant increase in COVID-19 cases and hospitalizations in Ontario, which may lead to a surge in hospitalizations and ICU admissions in the coming weeks. The proposed stricter lockdown measures may help mitigate this surge, but the impact of these measures on hospitalizations is uncertain.
+Posted: 2 days ago
+The government is monitoring an increase in hospitalizations and ICU admissions from COVID-19.
+There were 170 new COVID-19 cases related to schools on Thursday, with at least 143 among students.
+This suggests a potential surge in COVID-19 cases, which could translate into increased hospitalizations.
 
-Article 10 of 10
-Title: Ontario tells hospitals to activate emergency plans as number of COVID-19 patients spikes
-Publisher: CBC.ca
+Article 6 of 7
+Title: The latest news on COVID 19 developments in Canada for Monday, Dec. 14
+Publisher: CJME News Talk Sports
 Trusted: False
-Posted: 4 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: The number of COVID-19 patients in Ontario hospitals has surpassed 900 for the first time since May, with 921 patients currently hospitalized, 249 in intensive care, and 156 requiring a ventilator. Hospitals in the province's grey lockdown and red control zones have been ordered to clear up to 15% of their beds for COVID-19 patients and prepare to activate emergency plans within 48 hours. The Ontario Hospital Association (OHA) is warning that the hospital system is facing an imminent risk of overwhelming conditions due to the COVID-19 pandemic. The OHA is concerned about the strain on the hospital system, particularly during the holiday season, and is urging the public to follow public health measures to slow the spread of the virus. Some hospitals in the GTA are already full and have resorted to transferring patients to other facilities to ease the pressure. These values suggest that COVID-19 hospitalizations in Ontario, Canada are increasing rapidly, and the hospital system is facing significant strain. The article highlights the need for the public to follow public health measures to slow the spread of the virus and prevent overwhelming the hospital system.
+Posted: 5 days ago
+Here are the key points from the article:
+COVID-19 Updates 
+A person who initially tested positive for COVID-19 in Newfoundland and Labrador has come back negative after further tests.
+Harbour Breton, a small town in Newfoundland and Labrador, has three active cases but no evidence of community transmission.
+The province is on high alert due to these cases.
+Vaccine Rollout 
+A personal support worker from Toronto's Rekai Centre became the first person in Canada to receive the COVID-19 vaccine.
+Premier Doug Ford praised the workers for their dedication and called it a historic day.
+Ontario received 6,000 doses of Pfizer's COVID-19 vaccine on Sunday night and plans to give them to approximately 2,500 health-care workers.
+Federal Updates 
+Federal Procurement Minister Anita Anand said Canada is finalizing how many doses of Pfizer's COVID-19 vaccine will arrive in Canada and when.
+She expects about 30,000 doses to arrive this week and another shipment next week.
+The government has said just under 250,000 doses will arrive by the end of the year.
+Quebec Updates 
+Quebec reported 1,620 new cases of COVID-19 and 25 more deaths.
+Residents of long-term care homes in Montreal and Quebec City will be the first vaccinated later today.
+Hospitalizations rose by 10 over the past 24 hours for a total of 890.
+International Aid 
+Canada is sending $485 million to international bodies promoting access to vaccines and therapies for COVID-19 in poorer countries.
+International Development Minister Karina Gould said Canadians won't be safe from COVID-19 until everyone is safe from it.
+Other Updates 
+Nunavut reported nine new cases of COVID-19, all in the community of Arviat.
+Ontario reported 1,940 new cases of COVID-19 and 23 new deaths due to the disease.
+
+Article 7 of 7
+Title: 'V-Day': First COVID-19 vaccines administered in Canada
+Publisher: CTV News
+Trusted: False
+Posted: 5 days ago
+Ontario, Canada has begun its COVID-19 vaccination program with an initial batch of 14 programs being rolled out. However, infectious disease specialist Isaac Bogoch describes this first batch as a "trial run" until more shipments arrive in the coming days and weeks.
+The province will receive 249,000 doses from Pfizer by the end of December, which is a small fraction of the total 20 million doses Canada has ordered. By the end of March, Canada is expected to receive four million doses, enough to fully vaccinate two million people.
+Those being vaccinated this week won't achieve full immunity until the second week of January, and the provinces will be responsible for tracking who has been vaccinated and ensuring they return for their second shot.
+Despite this milestone, officials are warning that the pandemic is far from over. The World Health Organization (WHO) declared the global COVID-19 outbreak a pandemic in March 2020, and Canada has confirmed over 460,000 cases of COVID-19 and close to 13,500 deaths.
+The Pfizer-BioNTech vaccine is not the only option available; Moderna's vaccine candidate has yet to be approved by Health Canada but has less complicated storage requirements. Provinces are preparing to receive this vaccine option later this month.
+Canada has signed deals with seven vaccine manufacturers, securing over 400 million doses of potential COVID-19 vaccines. The federal government aims to have all Canadians who want to be vaccinated receive their shots by the end of 2021.
+Key points:
+Ontario's vaccination program has begun with an initial batch of 14 programs.
+The first batch is considered a "trial run" until more shipments arrive in the coming days and weeks.
+Canada will receive 249,000 doses from Pfizer by the end of December and four million doses by the end of March.
+Those being vaccinated this week won't achieve full immunity until the second week of January.
+The provinces will be responsible for tracking who has been vaccinated and ensuring they return for their second shot.
+The pandemic is far from over, with over 460,000 cases of COVID-19 confirmed in Canada and close to 13,500 deaths.
+Moderna's vaccine candidate has yet to be approved by Health Canada but has less complicated storage requirements.
+Canada aims to have all Canadians who want to be vaccinated receive their shots by the end of 2021.

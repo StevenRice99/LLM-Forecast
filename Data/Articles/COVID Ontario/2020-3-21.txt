@@ -1,15 +1,82 @@
-Below are 2 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
+Below are 8 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
-Article 1 of 2
-Title: 'Stay home,' urges widow of 51-year-old Ontario man who died of COVID-19
+Article 1 of 8
+Title: 'These are historic numbers': How one Toronto hospital is preparing to battle COVID-19
+Publisher: CBC.ca
+Trusted: False
+Posted: Today
+50 new cases of COVID-19 were confirmed on Friday morning in Ontario, marking the largest single-day increase since the outbreak began.
+The provincial total has reached 308, with a total of 927 cases across Canada and 12 deaths.
+North York General Hospital is preparing for an influx of COVID-19 patients, with over 500 people being pushed through the emergency department every day.
+A report by the University of Toronto warns of "significant strain" on crucial health-care resources in Ontario, predicting that ICU bed and ventilator resources will be depleted in approximately 37 days.
+
+Article 2 of 8
+Title: 'Don't have the capacity to do that many swabs': Top Doctor defends COVID-19 testing
+Publisher: CTV News Ottawa
+Trusted: False
+Posted: 1 day ago
+Current number of confirmed cases in Ottawa: 19
+Estimated number of undetected cases in the community: 2,000
+Number of people tested at the Community Assessment Centre: over 2,200
+Priority for testing is on healthcare workers and institutions to prevent spread
+Modelling, emergency room visits, and hospital admissions used to track cases
+Ontario Government aims to increase daily test capacity from 3,000 to 5,000 next week.
+
+Article 3 of 8
+Title: Sobeys installs Plexiglas shields, other measures, to fight spread of COVID-19
 Publisher: CTV News
 Trusted: False
-Posted: 2 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: A 51-year-old man from Milton, Ontario, with a pre-existing condition (chronic leukemia), died of COVID-19 after experiencing flu-like symptoms, night sweats, and a cough. He was not initially tested for COVID-19 because he did not fit the criteria at the time (foreign travel to a country with COVID-19 cases). He was prescribed antibiotics and sent home, but his condition worsened, and he was later admitted to the hospital and tested positive for COVID-19. The patient's wife is urging Canadians to listen to health officials and stay at home to prevent the spread of the virus. As of the article's publication, 12 Canadians have died of COVID-19, and over 870 others have been infected. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: The article highlights the potential for community spread of COVID-19 in Ontario, as the patient did not have a travel history to a country with COVID-19 cases. The patient's pre-existing condition (chronic leukemia) may have contributed to the severity of his illness. The article emphasizes the importance of staying at home and following public health guidelines to prevent the spread of the virus. These values can be used to inform forecasting models of COVID-19 hospitalizations in Ontario, Canada, particularly with regards to the potential for community spread and the impact of pre-existing conditions on disease severity.
+Posted: 1 day ago
+Key points:
+Best Buy Canada closed a store in Ajax, Ont., after an employee was diagnosed with COVID-19.
+Best Buy Canada is limiting the number of people allowed in stores and reducing hours to between 11 a.m. and 7 p.m.
+Other retailers are also taking measures to prevent the spread of COVID-19 while people shop.
+These points may be relevant for forecasting COVID-19 hospitalizations in Ontario, Canada as they provide insight into the spread of COVID-19 within specific retail settings and the measures being taken to mitigate it.
 
-Article 2 of 2
-Title: 'Like resting on a bed of nails': Restaurants on closing doors amid COVID-19
+Article 4 of 8
+Title: March 18: One new case of COVID-19 confirmed in Ottawa
+Publisher: CTV News Ottawa
+Trusted: False
+Posted: 3 days ago
+Relevant.
+A male in his 20s tested positive for COVID-19 and is self-isolating, likely due to travel to the US. No details on hospital status.
+There are 212 confirmed cases of COVID-19 in Ontario, including 14 in Ottawa. One death has been linked to novel coronavirus.
+
+Article 5 of 8
+Title: United Way East Ontario launches website to support the community during COVID-19 pandemic
+Publisher: CTV News Ottawa
+Trusted: False
+Posted: 4 days ago
+COVID-19 pandemic situation in Ottawa is discussed.
+OPH asked United Way to identify emerging social needs related to the pandemic.
+Identified needs include: help for seniors, basic needs, mental health support, and capacity for community services.
+These social needs can indirectly influence hospitalization rates, particularly if they relate to underlying health conditions or exacerbate existing health issues.
+
+Article 6 of 8
+Title: Homeless vulnerable to COVID-19 need help from governments: advocates
 Publisher: CTV News
 Trusted: False
 Posted: 4 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: A 47% drop in dinner reservations across Canada and a 54% drop in Toronto restaurants, according to OpenTable data, indicates a significant reduction in social gatherings and potential COVID-19 transmission. Restaurant owners in Toronto are proactively closing their establishments, citing concerns about staff and customer safety, as well as the potential for spreading the virus. The article mentions the vulnerability of elderly people and those with pre-existing medical conditions to COVID-19, which is a key demographic for forecasting hospitalizations. The state of emergency declared in Ontario, which includes the closure of restaurants and bars until March 31, will likely impact social distancing and COVID-19 transmission. The article notes that many restaurant owners operate on slim profit margins and may struggle financially during this period, which could have broader economic implications. These points suggest that the article provides valuable insights into the social and economic factors that may influence COVID-19 transmission and hospitalizations in Ontario, Canada.
+A 35,000 estimate of people experiencing homelessness on any given night in Canada is mentioned. However, no specific data or numbers are provided for Ontario specifically. No other directly relevant information for forecasting COVID-19 hospitalizations in Ontario, Canada is stated in the article.
+
+Article 7 of 8
+Title: Big banks working together to limit branch hours, reduce number of branches
+Publisher: CTV News
+Trusted: False
+Posted: 4 days ago
+Summary: 
+- Branches in Ontario are limiting hours or closing temporarily.
+- Special care will be given to branches in rural communities.
+- Banking services continue through machines, mobile apps, websites, and telephone banking.
+- Employees are working from home where possible.
+- Banks are taking precautions such as disinfecting branches and ATMs.
+
+Article 8 of 8
+Title: Ontario implements virtual medical visits in bid to keep doctors, patients safe amid COVID-19
+Publisher: CTV News
+Trusted: False
+Posted: 7 days ago
+Summary: Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Number of patients accessing telemedicine services (e.g., Ontario Telemedicine Network)
+Prevalence of symptoms such as cough or fever among patients seeking virtual medical visits
+Rate of virtual medical visits conducted by physicians in Ontario

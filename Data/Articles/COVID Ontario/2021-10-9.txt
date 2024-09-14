@@ -1,22 +1,66 @@
-Below are 3 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
+Below are 6 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
-Article 1 of 3
+Article 1 of 6
+Title: 'Very hopeful': Ottawa musicians, centres welcome capacity limit changes for some venues
+Publisher: CTV News Ottawa
+Trusted: False
+Posted: Today
+Relevant article for forecasting COVID-19 hospitalizations in Ontario, Canada.
+Summary: The lifting of capacity limits for select venues where proof of COVID-19 vaccination is required suggests a relaxation of public health measures and an increased social interaction, which may lead to potential increases in COVID-19 cases. The steady increase in vaccination numbers (over 22 million doses administered) is a positive factor that could mitigate the impact on hospitalizations.
+Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Vaccination rates, public health measures, and social interaction.
+
+Article 2 of 6
+Title: Delta has 235% higher risk of ICU admission than original coronavirus
+Publisher: Medical News Today
+Trusted: False
+Posted: 1 day ago
+The Delta variant was present in 2.8% of cases in Ontario from February to June 2021.
+The Delta variant increased the risk of hospitalization by 108%, ICU admission by 235%, and death by 133%.
+These effects were observed even after adjusting for factors like age, sex, vaccination status, and comorbidities.
+
+Article 3 of 6
+Title: Military begins work at Edmonton hospital as Alberta battles 4th COVID-19 wave
+Publisher: Global News
+Trusted: False
+Posted: 3 days ago
+Key values: 
+- Total active cases of COVID-19 in Alberta (19,456) 
+- Number of Albertans hospitalized with COVID-19 (1,094)
+- ICU bed capacity and usage in Alberta (374 beds used out of 407 total)
+
+Article 4 of 6
+Title: Military begins COVID-19 work at Edmonton hospital as Alberta battles fourth wave
+Publisher: CTV News Edmonton
+Trusted: False
+Posted: 3 days ago
+Values most important for forecasting:
+Province reported 26 new deaths due to COVID-19
+247 COVID-19 patients are in intensive care (ICU)
+
+Article 5 of 6
 Title: Just give us the straight goods on COVID—without bureaucratic rhetoric like “discontinued isolation”
 Publisher: Focus on Victoria
 Trusted: False
 Posted: 3 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: British Columbia (BC) is experiencing a surge in COVID-19 cases, particularly among children under 11, with 17% of infections in this age group. The infection rate for kids under 10 is the highest per capita for any age group in BC, with a 73% increase in cases among unvaccinated kids aged 5-9 between school opening and the end of September. The hospitalization rate for children under 10 is about 2%, with a higher rate for children under 5 (1.7%) compared to children aged 5-11 (0.3%). The article suggests that BC's pandemic management policy for schools may have been too cautious and reactive, rather than aggressively proactive, which may have contributed to the surge in cases. Ontario, on the other hand, has seen a decline in COVID-19 cases, hospitalizations, and deaths, with a full mask mandate and specialized air filtration units in every classroom. The article highlights the importance of vaccination, with 81% of BC's population fully vaccinated, but notes that children under 12 are not yet eligible for vaccination, leaving them vulnerable to infection. These values are important for forecasting COVID-19 hospitalizations in Ontario, Canada, as they provide insight into the spread of the virus among different age groups, the effectiveness of different pandemic management policies, and the impact of vaccination on hospitalization rates.
+This article discusses the different approaches taken by British Columbia (BC) and Ontario/Quebec in managing COVID-19 cases in schools, particularly during the fall surge caused by unvaccinated children returning to school. The author suggests that BC's more cautious approach may have contributed to the higher number of cases in the province.
+The article highlights several key points:
+1. BC's approach: BC focused on vaccination and deemed schools safer than other environments, with a partial mask mandate only implemented later.
+2. Ontario/Quebec's approach: Ontario acknowledged the importance of airborne transmission and responded with a full mask mandate from the start, along with installing specialized air filtration units in every classroom.
+3. Comparison: The author wonders if BC's more cautious approach has been too reactive rather than proactive, leading to higher case numbers.
+The article also touches on other issues, such as:
+1. Lack of transparency: The government was accused of under-reporting long-haul COVID-19 cases by 50%, only revealing the correct numbers after media scrutiny.
+2. Homelessness and isolation: The government initially failed to provide adequate housing units for people experiencing homelessness to isolate properly after contracting COVID-19, but responded quickly after documents were leaked.
+3. Request for transparency: The author urges officials to be more forthcoming with information and less reliant on statistics, acknowledging that the general public has a right to know about prospective tragedies.
+The article concludes by emphasizing the importance of honesty and transparency in government communication during times of crisis, allowing citizens to make informed decisions and take necessary actions.
 
-Article 2 of 3
+Article 6 of 6
 Title: Risk of death more than 130% higher with delta variant than original COVID virus, research suggests
-Publisher: CBC.ca
+Publisher: CBC News
 Trusted: False
 Posted: 4 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: The delta variant is associated with a 108% increased risk of hospitalization, 235% increased risk of ICU admission, and 133% increased risk of death compared to the original virus strain. The study analyzed over 212,000 cases of COVID-19 in Ontario between February 7 and June 27, providing a large dataset for understanding the impact of the delta variant. The findings suggest that vaccination significantly reduces the risk of severe disease and death, with unvaccinated individuals making up the vast majority of COVID-19 cases, hospitalizations, and deaths. As of September 25, just over 80% of those eligible were fully vaccinated, leaving a significant portion of the population at risk. The article mentions the potential for a "bump" in case numbers after Thanksgiving, which could be an important factor to consider in forecasting hospitalizations. These values can be used to inform forecasting models, particularly in understanding the impact of the delta variant and the importance of vaccination in reducing hospitalizations and deaths.
-
-Article 3 of 3
-Title: Alberta acted like the pandemic was over. Now it's a cautionary tale for Canada
-Publisher: CBC.ca
-Trusted: False
-Posted: 7 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: The article discusses the COVID-19 situation in Alberta, Canada, which has gone from bad to worse due to a string of bad policy decisions, low vaccination rates, and a failure to act quickly. Alberta has the highest rate of infections in the country, at close to four times the national average, and Albertans are dying of COVID-19 at close to three times the rate of anywhere else in Canada. The article highlights the importance of vaccination rates, public health restrictions, and the impact of policy decisions on the healthcare system. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Vaccination rates: The article emphasizes the importance of high vaccination rates in preventing the spread of COVID-19 and reducing hospitalizations. Public health restrictions: The article notes that Ontario has kept many public health restrictions in place, which has helped the province fare better in the fourth wave. Policy decisions: The article highlights the impact of policy decisions on the healthcare system, including the decision to lift mask mandates and abandon test, trace, and isolate protocols. Healthcare system capacity: The article notes that Alberta's healthcare system has completely collapsed, with hospitals unable to offer life-saving surgery or safe emergency care to those who need it. These values can be used to inform forecasting models for COVID-19 hospitalizations in Ontario, Canada, and to identify potential risks and areas for improvement in the province's response to the pandemic.
+Here is a brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Delta variant associated with:
+108% increased risk of hospitalization
+235% increased risk of ICU admission
+133% increased risk of death compared to original virus strain
+Unvaccinated individuals at high risk of severe disease and death.

@@ -1,29 +1,40 @@
 Below are 4 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
 Article 1 of 4
+Title: Ottawa's mandatory mask bylaw includes fines of $200-$400 for non-compliance
+Publisher: CTV News Ottawa
+Trusted: False
+Posted: Today
+Relevant.
+The article states that face masks became mandatory on all OC Transpo buses and other indoor public spaces in Ottawa, Ontario as of July 7, and will remain in effect until at least August 26. Fines ranging from $200 to $400 may be issued for repeat offenders caught not wearing a face mask. The article does not provide information on hospitalization rates or COVID-19 cases, but it is relevant for forecasting COVID-19 hospitalizations because it reports on public health measures that could impact the spread of the virus and subsequent hospitalizations in Ontario.
+
+Article 2 of 4
 Title: Start school in September with 'five days of in-person school': Dr. Etches
 Publisher: CTV News Ottawa
 Trusted: False
 Posted: 2 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada, as it discusses the plans for reopening schools in Ottawa, which could impact the spread of COVID-19 and subsequently affect hospitalization rates. The key points relevant for forecasting COVID-19 hospitalizations in Ontario, Canada, are: Ottawa Public Health's recommendation to start school in September with five days of in-person school, which could increase the risk of COVID-19 transmission. The Ontario Government's requirements for the new school year, which could influence the spread of COVID-19. The proposal by the Ottawa Carleton District School Board for a modified school week with two days in the classroom and three days learning from home, which could potentially reduce the risk of COVID-19 transmission. The concerns expressed by parents and guardians about the effectiveness of at-home learning and the potential for increased stress and isolation, which could have implications for mental health and potentially impact hospitalization rates. These points highlight the uncertainty and variability in the plans for reopening schools, which could impact the spread of COVID-19 and subsequently affect hospitalization rates in Ontario, Canada.
-
-Article 2 of 4
-Title: Masks mandatory in indoor spaces in Ottawa under public health order
-Publisher: CTV News Ottawa
-Trusted: False
-Posted: 5 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Summary: The article reports on the implementation of mandatory face masks in indoor public spaces in Ottawa and other regions in eastern Ontario, effective July 7, 2020. The order, issued by Medical Officer of Health Dr. Vera Etches, aims to reduce COVID-19 transmission. The policy applies to various public spaces, including restaurants, retail establishments, places of worship, and public transportation. Exemptions include children under two years old, individuals with medical conditions, and those who are unable to wear a mask without assistance. The order will be enforced in "good faith" and focus on education, with no requirement for proof of exemption. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Implementation of mandatory face masks in indoor public spaces, which may lead to a reduction in COVID-19 transmission and subsequently, hospitalizations. Exemptions to the policy, which may impact the effectiveness of the measure in reducing transmission. Public compliance with the policy, as indicated by a recent survey showing 71% of residents already wear masks in indoor public spaces. Regional implementation of similar policies, which may influence COVID-19 transmission and hospitalization rates in other areas of Ontario.
+Values most important for forecasting:
+5-day in-person school starting in September (could lead to increased community transmission)
+Enhanced health protocols (including infection prevention controls) recommended by Ottawa Public Health
+Rapid response capacity across the province for public health to respond to any cases of COVID-19 in schools
 
 Article 3 of 4
-Title: Ontario reports 121 new COVID-19 cases Saturday, lowest in more than a week
-Publisher: CBC.ca
+Title: TIMELINE: How the coronavirus outbreak unfolded in Guelph
+Publisher: Guelph Mercury Tribune
 Trusted: False
-Posted: 7 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: New cases: 121 ( lowest daily case count in over a week) Hospitalizations: 150 patients with confirmed cases of COVID-19, 39 of whom are in intensive care, and 26 are on a ventilator (declining trend) Positivity rate: at all-time lows (according to Health Minister Christine Elliott) Resolved cases: 174 new resolved cases, with 87% of total cases (31,083) now resolved Death toll: 2,733 (five additional deaths reported, all among long-term care residents) Testing: 21,425 tests completed, with 14,594 tests still waiting to be completed Demographics: People under 40 make up 47% of new cases, while those over 60 account for 13% These values suggest a declining trend in hospitalizations and a low positivity rate, which could indicate a decrease in COVID-19 hospitalizations in Ontario, Canada. However, the article also emphasizes the importance of continued vigilance and adherence to public health measures to prevent a resurgence of cases.
+Posted: 3 days ago
+Relevant.
+A total of 19 patients are being treated in intensive care units (ICUs) across the province for COVID-19. The article does not specify if these cases are from Ontario specifically. However, it reports on provincial numbers which could be extrapolated to estimate hospitalization rates. 
+The values most important for forecasting COVID-19 hospitalizations in Ontario, Canada would likely include:
+Provincial ICU capacity and current usage
+Number of patients being treated for COVID-19 across the province (as reported in this article)
 
 Article 4 of 4
-Title: Ontario reports 121 new cases of COVID-19, the lowest number in more than a week
-Publisher: CP24
+Title: Kingston asks residents to show 'community kindness' to visitors during COVID pandemic
+Publisher: CTV News Ottawa
 Trusted: False
 Posted: 7 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting values most important for forecasting: New cases: 121 ( lowest in over a week) Five-day average of new cases: below 150 for the first time in months Hospitalizations: 150 COVID-19 patients in Ontario hospitals (trending downwards) ICU patients: 39 (down from 264 in early April) Active cases: 1,886 (declined) Positivity rate: at all-time lows Testing: over 21,000 tests processed in the last 24 hours These values indicate a decline in new cases, hospitalizations, and ICU patients, which suggests a positive trend for forecasting COVID-19 hospitalizations in Ontario, Canada.
+Cases mentioned: 3 new cases of COVID-19 in Kingston
+Linked cases: 36 new cases linked to a single nail salon
+Regional reopening strategy lifted, allowing travel between cities in Ontario
+No specific data on hospitalization rates or numbers in Ontario.

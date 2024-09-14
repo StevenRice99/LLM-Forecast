@@ -1,7 +1,36 @@
-Below is a news article from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
+Below are 2 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
-Title: Ontario Health Minister offers no quick fixes to hospital staffing crunch
-Publisher: The Globe and Mail
+Article 1 of 2
+Title: COVID-19: A look at the numbers for Newmarket, York Region
+Publisher: NewmarketToday.ca
 Trusted: False
 Posted: 4 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: 25 hospitals in Ontario had to close parts of their operations, including emergency rooms, due to staffing shortages. Bowmanville Hospital's ICU remains closed with no timeline for reopening. Toronto General Hospital issued an ICU bed alert due to staffing shortages. The Ontario Nurses' Association estimates a shortage of 20,000 nurses across the province. Emergency room wait times are on the rise, with an average length of stay for those waiting to be admitted at 20.1 hours in May. Hospital staff absences due to COVID-19 infections have doubled since May, with almost 4,800 staff off during the week of July 16-22. Total hospitalizations due to COVID-19 decreased slightly across the province last week from 507 admissions to 402. These values are important for forecasting COVID-19 hospitalizations in Ontario, Canada, as they indicate the current strain on the healthcare system, staffing shortages, and the impact of COVID-19 on hospital capacity.
+Relevant article for forecasting COVID-19 hospitalizations in Ontario, Canada.
+Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Number of hospitalizations: 57 (-22)
+Number of patients in ICU with COVID-19: 3 (+1)
+Total number of patients with COVID-19 at York Region hospitals: 27 (-1)
+
+Article 2 of 2
+Title: ISARIC-COVID-19 dataset: A Prospective, Standardized, Global Dataset of Patients Hospitalized with COVID-19
+Publisher: Nature.com
+Trusted: False
+Posted: 7 days ago
+This appears to be a list of conflicts of interest declared by authors who have contributed to a research paper. Each author has listed any potential conflicts or interests they may have in relation to the study, including financial support from pharmaceutical companies, grants, or other types of funding.
+Here is the list with some key points highlighted:
+1. Alves (et al.) declares financial support from various pharmaceutical companies, including Abbvie, Gilead Sciences, Janssen Cilag, Merck Sharp & Dohme, and ViiV Healthcare.
+2. Rewa, O. declares honoraria from Baxter Healthcare Inc and Leading Biosciences Inc.
+3. Rössler, B. declares grants from CytoSorbent Inc.
+4. Rossanese, A. declares consulting fees from Emergent BioSolutions and Sanofi Pasteur (outside the submitted work).
+5. Sndulescu, O. has been an investigator in COVID-19 clinical trials by various companies, including Algernon Pharmaceuticals and Celltrion Inc.
+6. Semple, M.G. reports grants from DHSC National Institute of Health Research UK and other interests in Integrum Scientific LLC.
+7. Serpa Neto, A. declares personal lecture fees from Drager (outside the submitted work).
+8. Serrano-Balazote, P. declares funding via his Institution from Novartis and Janssen, and personal fees or participation in advisory boards or speaker’s bureau of Roche.
+9. Shrapnel, S. participated as an investigator for an observational study analysing ICU patients with COVID-19 funded by The Prince Charles Hospital Foundation.
+10. Streinu-Cercel, A. has been an investigator in COVID-19 clinical trials by various companies (outside the scope of the submitted work).
+11. Summers, C. reports fees for consultancy for Abbvie and Roche relating to COVID-19 therapeutics.
+12. Tedder, R. reports grants from MRC/UKRI during the conduct of the study and a patent "SARS-CoV-2 antibody detection assay".
+13. Terzi, N. reports personal fees from Pfizer (outside the submitted work).
+14. Timsit, J.F. participated in advisory boards for various companies outside the submitted work.
+15. Ullrich, R. reports grant funding to his institution from Apeptico and other interests in a medical device research company.
+Note that some authors have declared no conflicts of interest or reported nothing to declare (Couffin-Cadiergues S. and Søraas, A.).

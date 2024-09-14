@@ -1,43 +1,36 @@
-Below are 6 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
+Below are 3 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
-Article 1 of 6
-Title: COVID-19 vaccine approval could be days away as pressures mount on health-care system
-Publisher: Cranbrook Townsman
-Trusted: False
-Posted: 2 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Ontario reported 666 people hospitalized with COVID-19, with 195 in intensive care, as of Thursday. The number of new cases in Ontario was 1,824, with 14 more deaths due to the virus. Hospitalizations in Quebec declined slightly to 737, but the number of people in the intensive care unit remained unchanged at 99. The seven-day rolling average of new cases nationally is 6,044. The article mentions increasing pressures on hospitals and front-line workers during the second wave of the pandemic, which could indicate a potential increase in hospitalizations in the coming days. The approval and distribution of COVID-19 vaccines, expected to start soon, may impact hospitalization rates in the future. These values can be used to inform forecasting models of COVID-19 hospitalizations in Ontario, Canada, and to anticipate potential changes in hospitalization rates due to the vaccine rollout and other factors.
-
-Article 2 of 6
-Title: Ontario hospitals 'not in a crisis' minister says, despite 100% increase in hospitalizations
-Publisher: CTV News Toronto
-Trusted: False
-Posted: 3 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting values most important for forecasting: 100% increase in COVID-19 patients requiring hospitalization in Ontario over the past month (from 328 on Nov. 2 to 656 on Dec. 2) 144% surge in COVID-19 patients in intensive care units over the same period (from 75 on Nov. 2 to 183 on Dec. 2) Cancellation of surgeries at the Grand River hospital in Kitchener and multiple outbreaks at hospitals in Scarborough Ontario Hospital Association warning that hospitals are finding it increasingly difficult to maintain access to vital surgeries and procedures with COVID-19 cases rising These values indicate a significant increase in COVID-19 hospitalizations and ICU admissions in Ontario, which is likely to continue if the current trend persists. This information can be used to forecast future hospitalization numbers and inform resource allocation decisions.
-
-Article 3 of 6
+Article 1 of 3
 Title: More COVID-19 patients in the ICU, GTA hospitals feeling the pressure
 Publisher: CityNews
 Trusted: False
 Posted: 3 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting the most important values: Current hospitalizations: 656 people are hospitalized with COVID-19 in Ontario, with 183 (30%) in the ICU. ICU capacity: The threshold for concern is 150 ICU patients, which has been exceeded. Hospital capacity: Hospitals in the GTA are overflowing, and some have begun to cancel scheduled surgeries. Hospitalization trend: Hospitalizations have increased 63% in 4 weeks. Regional hotspots: Peel Region and Toronto are experiencing high hospitalization rates, with approximately 25% of ICU patients in these regions having COVID-19. Projected trend: Modelling projects a continued increase in cases, which will likely worsen the hospitalization situation in the coming weeks. These values provide insight into the current state of COVID-19 hospitalizations in Ontario and can be used to inform forecasting models.
+Here is a brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Current hospitalizations: 656 people are currently hospitalized with COVID-19 in Ontario.
+ICU admissions: Approximately 183 (30%) of those patients are in the ICU, exceeding the threshold for concern set by officials at 150.
+Hospital capacity: Hospitals in GTA and other hotspots are facing increased pressure, with some already cancelling scheduled surgeries to maintain access to vital procedures.
+Case growth rate: Hospitalizations have increased by 63% in 4 weeks.
+These values are relevant for forecasting COVID-19 hospitalizations in Ontario, Canada.
 
-Article 4 of 6
-Title: 'Have you taken a look at Alberta?': Ontario health minister criticizes province's response to COVID-19
-Publisher: CTV News Calgary
+Article 2 of 3
+Title: Ford's popularity drops due to handling of second COVID-19 wave: poll
+Publisher: Daily Hive
 Trusted: False
-Posted: 3 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the values most important for forecasting: Ontario reported 1,723 new cases of COVID-19 on Wednesday, which is the sixth straight day of over 1,700 new cases. The number of deaths related to COVID-19 is spiking in Ontario. Ontario Health Minister Christine Elliott stated that Ontario is not in crisis, unlike Alberta, which is experiencing a surge in cases and hospitalizations. Alberta has 504 COVID-19 patients in hospital, including 97 in ICU, which may indicate a potential future burden on Ontario's healthcare system if cases continue to rise. Ontario Premier Doug Ford mentioned that the numbers will speak for themselves, suggesting that the province is closely monitoring the situation and may take further action if necessary. These values provide context for forecasting COVID-19 hospitalizations in Ontario, Canada, as they indicate a rising number of cases and deaths, as well as a potential future burden on the healthcare system.
+Posted: 4 days ago
+The article reports on a poll showing that Ontario's Premier Doug Ford's approval rating has dropped from 66% to 55%, coinciding with rising COVID-19 hospitalizations and lockdowns in the province.
+Key values: 
+Rising COVID-19 cases (over 1,000 per week)
+Projected daily cases to reach 9,000 by end of year
+Lockdowns and tightened restrictions in Peel region and City of Toronto
 
-Article 5 of 6
-Title: No one in Renfrew County is sick with COVID-19 right now
-Publisher: CTV News Ottawa
-Trusted: False
-Posted: 3 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the key points: Ontario reported 1,707 new cases on Tuesday, with the majority in Toronto, Peel, and York Region. 645 people are currently hospitalized with COVID-19 in Ontario. 185 patients are in intensive care, and 112 are on ventilators. 7 new deaths were reported, bringing the total death toll in the province to 3,663. These values are important for forecasting COVID-19 hospitalizations in Ontario, Canada, as they provide information on the current number of cases, hospitalizations, and deaths, which can be used to identify trends and patterns in the spread of the virus.
-
-Article 6 of 6
-Title: Wearing a mask one of the most effective things to do to stop spread of COVID-19: Ontario's doctors
-Publisher: CTV News Ottawa
+Article 3 of 3
+Title: Paramedics forced to unload ambulances outside Mississauga hospitals during COVID-19 surge
+Publisher: The Pointer
 Trusted: False
 Posted: 6 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Summary: The Ontario Medical Association (OMA) is reminding Ontarians to wear face masks to reduce the spread of COVID-19. Recent studies suggest that masks can reduce the severity of infection for those who catch COVID-19. The OMA reports that doctors are concerned about the recent surge in cases, with over 1,800 Ontarians testing positive for COVID-19 on Friday and Saturday. Public Health Ontario reported 1,700 new cases of COVID-19 on Sunday, including 79 in Ottawa. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: The recent surge in cases (1,800+ on Friday and Saturday, 1,700 on Sunday) indicates a potential increase in hospitalizations. The emphasis on wearing face masks and following proper mask-wearing guidelines may impact the transmission rate and subsequent hospitalizations. The OMA's concern about recent rallies and protests against pandemic restrictions may indicate a potential increase in transmission and hospitalizations if restrictions are not followed.
+Relevant.
+Frontline healthcare workers are bracing for more patients with Peel hospitals already at capacity.
+Record-breaking case numbers have led to a rise in deaths, but so far infection has been more common in younger people with lower mortality rates.
+Hospitals in Mississauga have turned indoor paramedic bays into extended emergency areas due to overcrowding and staff safety concerns.
+Peel hospitals' overall capacity continues to be around 100% or above on any given day.
+The number of COVID-19 positive patients at Trillium Health Partners (THP) hospitals has increased by 160% in the past three weeks.

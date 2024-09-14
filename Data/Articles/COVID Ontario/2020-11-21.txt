@@ -1,22 +1,70 @@
-Below are 3 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
+Below are 6 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
-Article 1 of 3
+Article 1 of 6
 Title: Toronto, Peel move into COVID-19 lockdown Monday as Ontario tries to stop 'worst-case scenario'
-Publisher: CBC.ca
+Publisher: CBC News
 Trusted: False
 Posted: Today
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Hospitalizations have increased by 22% and intensive care admissions have risen by 50%. The province reports 1,418 new cases of COVID-19, with 393 in Toronto, 400 in Peel Region, and 168 in York Region. The seven-day average of new cases is 1,373. There are 12,623 confirmed, active COVID-19 infections provincewide. The number of people in Ontario hospitals with confirmed cases of the illness is 518, with 142 patients being treated in intensive care and 92 on ventilators. The test positivity rate is 3.6%, with 48,173 tests processed in a single day. The province is imposing new restrictions, including a 28-day lockdown in Toronto and Peel Region, to curb the spread of the virus. These values are important for forecasting COVID-19 hospitalizations in Ontario, Canada, as they provide information on the current trend of cases, hospitalizations, and intensive care admissions, as well as the government's response to the pandemic.
+Here are the key points:
+Hospitalizations have increased by 22% (518 patients currently in hospitals).
+ICU visits have risen by 50% (142 intensive care admissions, with 92 on ventilators).
+The lockdown measures aim to slow the rise in cases and hospitalizations.
+The province is reporting a higher number of resolved cases than new ones for three straight days.
+Public health orders will remain in effect until Dec. 21.
 
-Article 2 of 3
-Title: Code Yellow: Eastern Ontario Health Unit Region moving to 'protect' zone on Monday
-Publisher: CTV News Ottawa
-Trusted: False
-Posted: 1 day ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada, as it provides information on changes to COVID-19 restrictions in eastern Ontario, specifically the Eastern Ontario Health Unit region, which will move from the "orange-restrict" zone to the "yellow-protect" zone. This change may impact the number of COVID-19 cases and hospitalizations in the region. Key values for forecasting COVID-19 hospitalizations in Ontario, Canada, include: The relaxation of restrictions in eastern Ontario, which may lead to increased social interactions and potential transmission of COVID-19. The specific rules and guidelines for businesses and gatherings in the "yellow-protect" zone, such as capacity limits and mask requirements. The concern about people traveling from Ottawa or western Quebec to eastern Ontario, which may impact the spread of COVID-19 in the region. These factors may influence the number of COVID-19 cases and hospitalizations in eastern Ontario, which can inform forecasting models for the region.
-
-Article 3 of 3
-Title: Ontario reports more than 1,400 new COVID-19 cases
+Article 2 of 6
+Title: Ontario places Toronto and Peel Region under lockdown. Here's what you need to know
 Publisher: CTV News Toronto
 Trusted: False
-Posted: 5 days ago
-A brief summary of the article relevant for forecasting COVID-19 hospitalizations in Ontario, Canada: Ontario reported 1,487 new cases of COVID-19, with a majority of infections in people between the ages of 20 and 60. There are at least 500 people hospitalized for COVID-19, with 125 in the ICU and 70 on ventilators. The number of hospitalizations is likely an underestimation due to missing data from some hospitals. Once ICU COVID-19 patients exceed 150, non-COVID-19 care and surgeries may be impacted. The total number of lab-confirmed cases in Ontario is 95,496, with a seven-day rolling average of 1,443 cases. The majority of cases were in the Greater Toronto Area. The province has conducted over 5.6 million COVID-19 tests, with a positivity rate of 4.1 percent.
+Posted: 1 day ago
+Relevant.
+100k lab-confirmed COVID-19 infections in Ontario.
+Lockdown in Toronto and Peel Region until at least Dec 21.
+Restrictions on gatherings, restaurants, retail, and non-essential businesses.
+Increased hospital and ICU capacity risks due to outbreaks among vulnerable populations or congregate settings.
+
+Article 3 of 6
+Title: Hair salons and barbers are shutting down in Toronto
+Publisher: blogTO
+Trusted: False
+Posted: 1 day ago
+Key values:
+Rising COVID-19 case numbers
+Increasing hospitalizations
+High per cent positivity rates (in Toronto)
+Lockdown measures implemented to protect hospitals and long-term care homes
+Health Minister's statement: "public health indicators continue to worsen"
+
+Article 4 of 6
+Title: 'Tired to the bone': U.S. hospitals overwhelmed as death toll surpasses 250,000
+Publisher: CTV News
+Trusted: False
+Posted: 3 days ago
+Total number of people hospitalized with COVID-19 in the U.S. has doubled in the past month (reached ~77,000 as of Tuesday).
+New cases per day have increased by 80% over the past two weeks.
+Hospitalization and death rates are rising across all 50 US states, including rural areas.
+Some hospitals in the US are experiencing severe shortages of ICU beds, staff, and resources.
+Many hospitals are converting non-patient spaces (e.g. chapels, cafeterias) into treatment areas due to overcrowding.
+These values can be compared to Ontario's COVID-19 hospitalization trends and statistics to inform forecasting efforts.
+
+Article 5 of 6
+Title: How a national response could address an unprecedented COVID-19 surge across Canada
+Publisher: CBC News
+Trusted: False
+Posted: 7 days ago
+Here's a brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+6,500 new COVID-19 cases per day projected by mid-December if no further action is taken.
+Ontario has changed guidelines and imposed severe restrictions on five major cities and regions.
+Cases are doubling every 12 months (not specified as "13 days" for British Columbia).
+Experts recommend a national response to address the pandemic, possibly using emergency federal powers.
+
+Article 6 of 6
+Title: Trudeau threatens to cancel Christmas for canadians
+Publisher: Jagonews24
+Trusted: False
+Posted: 7 days ago
+Canadian Thanksgiving fueled a surge in COVID-19 cases, hospitalizations, and deaths.
+Public health officials warn that Christmas celebrations are at risk due to high case numbers.
+Informal social gatherings are a key source of transmission.
+New daily cases could more than double if Canadians don't take precautions seriously.
+Ontario's scientific experts predict case numbers and hospitalizations will reach crisis levels, possibly exceeding Europe's current situation.

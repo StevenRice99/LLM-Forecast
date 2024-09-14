@@ -1,7 +1,25 @@
-Below is a news article from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
+Below are 2 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
+Article 1 of 2
+Title: COVID signs still low with no sign of a rebound
+Publisher: CBC.ca
+Trusted: False
+Posted: 2 days ago
+COVID-19 hospitalizations in Ottawa are stable at low levels (6 residents in local hospitals).
+Hospital patients who tested positive for COVID (including those admitted for other reasons) have dropped.
+Eastern Ontario communities outside Ottawa report about 15 COVID-19 hospitalizations, with 2 patients in intensive care.
+The number of COVID-19 hospitalizations in Western Quebec is 14, with none in intensive care.
+Values most important for forecasting COVID-19 hospitalizations in Ontario:
+Number of COVID-19 hospitalizations (6 in Ottawa, ~15 in Eastern Ontario outside Ottawa)
+Number of ICU patients (~2 in Eastern Ontario outside Ottawa)
+
+Article 2 of 2
 Title: The Ottawa Hospital lifts most mask requirements, but some say it's too soon
 Publisher: CBC.ca
 Trusted: False
 Posted: 5 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Low transmission rates for COVID-19 and other respiratory illnesses Few hospitalizations High vaccination rates and hybrid immunity Approximately 80 deaths in Ottawa this year and more than 200 in the wider region Potential for another surge of respiratory diseases this fall and winter These values suggest that COVID-19 hospitalizations in Ontario, Canada are currently low, but there is concern among healthcare professionals about the potential for another surge in the fall and winter. This information can be used to inform forecasting models and predict potential future trends in COVID-19 hospitalizations.
+Key values: 
+Low transmission rates for COVID-19
+High vaccination rates and hybrid immunity
+Potential for another surge of respiratory diseases this fall and winter (influenza and RSV)
+Stressed healthcare workforce

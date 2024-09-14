@@ -1,36 +1,73 @@
-Below are 5 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
+Below are 6 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
-Article 1 of 5
-Title: Alberta acted like the pandemic was over. Now it's a cautionary tale for Canada
-Publisher: CBC.ca
-Trusted: False
-Posted: Today
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada, as it provides insights into the impact of policy decisions, vaccination rates, and healthcare system capacity on COVID-19 hospitalizations in Alberta, a neighboring province. The article highlights the consequences of Alberta's decision to lift public health restrictions, resist vaccine passports, and delay implementing stricter measures, which led to a devastating fourth wave of COVID-19. Key points relevant to forecasting COVID-19 hospitalizations in Ontario include: 1. Alberta's high rate of infections and hospitalizations, which is close to four times the national average. 2. The importance of vaccination rates, as Manitoba's higher vaccine uptake has helped mitigate the impact of the fourth wave. 3. The impact of policy decisions, such as implementing vaccine passports and maintaining public health restrictions, on COVID-19 hospitalizations. 4. The strain on healthcare systems, including ICU capacity and the cancellation of surgeries, which can have far-reaching consequences for the entire population. These insights can inform forecasting models and help policymakers in Ontario make informed decisions to mitigate the impact of COVID-19 on hospitalizations.
-
-Article 2 of 5
+Article 1 of 6
 Title: Refusing vaccination can lead to “death’s door” in the intensive care unit
 Publisher: Hamilton Health Sciences
 Trusted: True
 Posted: 1 day ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. The article highlights the dire situation in Ontario's intensive care units (ICUs) and the importance of vaccination in preventing severe COVID-19 infections. Key points relevant for forecasting COVID-19 hospitalizations in Ontario include: Unvaccinated individuals are at a higher risk of severe COVID-19 infections and hospitalization, with 80% of hospitalizations and nearly 90% of ICU patients being unvaccinated. The ECMO (extra-corporeal membrane oxygenation) machine is a life-saving treatment for critically ill COVID-19 patients, but it is a resource-intensive and emotionally demanding treatment. The article mentions that Hamilton Health Sciences (HHS) has treated over 8000 patients worldwide with ECMO, with almost half of them dying in hospital. The article also highlights the burnout and fatigue experienced by healthcare workers, particularly in ICUs, due to the high volume of COVID-19 patients and the emotional toll of caring for critically ill patients. These points suggest that vaccination rates, hospital capacity, and healthcare worker burnout will be important factors to consider when forecasting COVID-19 hospitalizations in Ontario.
+The article discusses the impact of COVID-19 on hospitals and healthcare workers in Hamilton, Ontario. Key points include:
+1. ECMO use is associated with poor outcomes: ECMO (Extracorporeal Membrane Oxygenation) is a life-support therapy used for patients with severe respiratory failure or cardiac arrest. At Hamilton General Hospital (HGH), all COVID-19 patients requiring ECMO have been unvaccinated.
+2. Vaccination status affects hospitalization and death: Unvaccinated individuals represent 80% of hospitalizations and nearly 90% of ICU patients, highlighting the importance of vaccination in preventing severe illness and hospitalization.
+3. Healthcare workers are frustrated and burnt out: Healthcare professionals are experiencing high levels of fatigue, anxiety, and emotional exhaustion due to the ongoing pandemic.
+Key quotes: 
+"Being fully vaccinated significantly decreases your risk of getting seriously sick and hospitalized from COVID-19 – as well as decreases the chance of our hospitals being overwhelmed." (Dr. Sunjay Sharma)
+"I have seen a tremendous amount of tragedy": Hamilton doctors speak about the toll of COVID's fourth wave.
+"Trigger warning: COVID death. Hi Jane. This is Dr. Bakshi calling from Edmonton. I am not sure if you’re aware, but your mom Anne was admitted to the COVID ward about 2 hours ago. I’m calling because she is not doing well, and will likely not survive the day."
+"Going to take a Twitter break for the next 6 weeks, to conserve energy for myself and the people I love!"
+Additional context: 
+A CMA survey found high levels of fatigue and anxiety among physicians, with only 16% seeking help.
+Healthcare workers are experiencing burnout due to the ongoing pandemic, with many feeling exhausted and emotionally drained.
+The article emphasizes the importance of vaccination in preventing severe illness and hospitalization, as well as the need for healthcare workers to prioritize their own mental health.
 
-Article 3 of 5
+Article 2 of 6
+Title: Ontario making COVID-19 vaccinations mandatory for long-term care workers
+Publisher: CBC.ca
+Trusted: False
+Posted: 1 day ago
+Key values:
+Number of active cases: 4,969
+ICU patients with COVID-related illnesses: 163 (with 117 needing a ventilator)
+Patients hospitalized due to COVID-19 are not directly reported, but the number of ICU patients can be an indicator.
+
+Article 3 of 6
+Title: Harsh reality: COVID-19 pandemic changing the face of type 2 diabetes
+Publisher: Toronto.com
+Trusted: False
+Posted: 2 days ago
+Summary: 
+- The article discusses the increased prevalence of type 2 diabetes among children in Ontario due to sedentary lifestyles during the COVID-19 pandemic.
+- Poor glucose management can lead to complications and hospitalization.
+- Flash glucose monitoring systems are effective in improving glucose management and reducing hospitalizations.
+- Limited access to these systems may exacerbate existing health disparities, particularly for low-income families.
+- The author advocates for investing in flash glucose monitoring technology to improve diabetes management and reduce hospitalizations.
+
+Article 4 of 6
 Title: Unvaccinated 60 times more likely to end up in ICU with COVID-19, Ontario data shows
 Publisher: Global News
 Trusted: False
 Posted: 3 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Summary: Unvaccinated individuals are 25 times more likely to be hospitalized due to COVID-19 compared to fully vaccinated people. Vaccines are "highly effective" against catching COVID-19 and especially against being hospitalized due to the disease. ICU occupancy rates and hospitalization rates for vaccinated people remain relatively stable over time, while rates for unvaccinated people have risen during Ontario's fourth wave of COVID-19. As of the report's release, there were 40 fully vaccinated individuals in hospitals and ICUs, which is a relatively rare occurrence given the large number of vaccinated people in Ontario. The report attributes the leveling off of case numbers in Ontario to vaccination rates and public health measures like mask mandates. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Vaccination rates: The article highlights the effectiveness of vaccines in preventing hospitalizations and ICU admissions. Unvaccinated population: The article notes that unvaccinated individuals are at a higher risk of hospitalization and ICU admission. Public health measures: The report mentions that public health measures like mask mandates have contributed to the leveling off of case numbers in Ontario. These values can be used to inform forecasting models and predict the number of COVID-19 hospitalizations in Ontario, Canada, based on vaccination rates, the size of the unvaccinated population, and the implementation of public health measures.
+Relevant.
+Key values for forecasting COVID-19 hospitalizations in Ontario, Canada: 
+Vaccination status (vaccinated vs unvaccinated)
+Risk of hospitalization: 25 times more likely for unvaccinated individuals compared to vaccinated individuals
+ICU use by vaccinated and unvaccinated people remains relatively stable over time.
 
-Article 4 of 5
-Title: Pop-up COVID-19 testing site at McNabb Arena extended to Oct. 6
-Publisher: CTV News
+Article 5 of 6
+Title: New modelling suggests case counts have 'flattened' but exponential growth is still possible if restrictions lifted
+Publisher: CP24
 Trusted: False
-Posted: 5 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada, as it provides information on: 1. Increased demand for COVID-19 testing, particularly among children, which could indicate a potential surge in cases. 2. The number of active COVID-19 cases in Ottawa, with a significant proportion (37%) being among children under 20. 3. Vaccination rates among children 12-17, which could impact hospitalization rates. 4. The number of new cases reported in the last two weeks, which could indicate a trend. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: 463 active cases of COVID-19 in Ottawa 108 cases in kids under 10 67 cases in people 10-19 37% of new cases reported in the last two weeks are among children under 20 55,000 children 12-17 are fully vaccinated
+Posted: 4 days ago
+Key values for forecasting:
+Hospitalizations are likely to rise but not rapidly
+The current trajectory suggests a gradual increase from 180 ICU patients as of Monday night to around 300 by the end of October
+A rapid increase in ICU occupancy can be negated with a cautious approach and early contact reductions.
 
-Article 5 of 5
-Title: Jason Kenney, Scott Moe face similar COVID-19 crises but different political pressure
-Publisher: CBC News
+Article 6 of 6
+Title: Ontario’s new COVID-19 cases could drop to 200 a day — or rise to 5,000, latest modelling projects – Winnipeg Free Press
+Publisher: Winnipeg Free Press
 Trusted: False
-Posted: 7 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. The article provides information about the COVID-19 situation in Alberta and Saskatchewan, including the number of new cases per 100,000 people, vaccination rates, and hospitalization numbers. Specifically, it mentions that Ontario is averaging 32 cases per 100,000 people, which is significantly lower than Alberta and Saskatchewan. This information can be used as a comparison to Ontario's situation and may be helpful in forecasting COVID-19 hospitalizations in the province. Important values for forecasting COVID-19 hospitalizations in Ontario, Canada, mentioned in the article include: 32 cases per 100,000 people in Ontario (compared to 253 in Alberta and 279 in Saskatchewan) 72% vaccination rate in Saskatchewan (the lowest among all provinces) Record hospitalization numbers in Alberta (243 in ICU) and Saskatchewan (276 in hospital and 61 in ICU)
+Posted: 4 days ago
+Here is a brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+The Delta variant can spread quickly if transmission increases by 25%, leading to up to 5,000 new cases per day.
+The number of new daily infections could range from 200 (best-case scenario) to 1,500 (if no policy or behavior changes are made).
+Continued control over case growth requires high vaccination rates in the eligible population and continued public health measures.

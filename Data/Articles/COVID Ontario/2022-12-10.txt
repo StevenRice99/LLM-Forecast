@@ -1,22 +1,25 @@
-Below are 3 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
+Below are 2 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
-Article 1 of 3
-Title: 'Intense' flu season for Canadian kids needs solutions now and longer term, doctors say
-Publisher: CBC News
-Trusted: False
-Posted: 1 day ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: The article reports a surge in influenza cases among children across Canada, leading to hospitalizations and scaling back of regular services in some hospitals. The Public Health Agency of Canada's FluWatch report shows that influenza activity is higher than expected for this time of year, with 212 influenza-associated hospitalizations and 31 ICU admissions among children 16 and under for the week ending Dec. 3. Pediatricians are calling for urgent and longer-term solutions, including increased emphasis on influenza vaccination for children and bolstering nurse staffing and retention. The article also mentions that cases of respiratory syncytial virus (RSV) have stabilized after spiking earlier this season. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: The surge in influenza cases among children and the resulting hospitalizations may indicate a potential strain on the healthcare system, which could impact COVID-19 hospitalizations. The effectiveness of the influenza vaccine and the uptake of vaccination among children and adults may influence the spread of influenza and potentially impact COVID-19 hospitalizations. The article highlights the need for increased investment in child healthcare systems capacity, which could impact the ability to handle surges in COVID-19 cases. The recommendation to mask in indoor public places, screen daily for respiratory symptoms, stay home when sick, practice hand hygiene, and keep surfaces clean may also impact the spread of COVID-19.
-
-Article 2 of 3
+Article 1 of 2
 Title: Ontario pharmacists allowed to prescribe Paxlovid for COVID-19 treatment
 Publisher: Global News
 Trusted: False
 Posted: 2 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: The Ontario government is allowing pharmacists to directly prescribe Paxlovid, an antiviral medication to treat COVID-19, starting December 12. This change aims to increase accessibility and reduce the burden on emergency departments, hospitals, and ICU units. Paxlovid is recommended for individuals aged 60 and older, or those aged 18 and older who are immunocompromised or at higher risk of severe outcomes from COVID-19. There are over 4,000 pharmacies in Ontario, and it is expected that the majority will take on prescribing and dispensing Paxlovid. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Increased accessibility to Paxlovid may lead to a reduction in severe symptoms and hospitalizations, particularly among high-risk populations. The number of pharmacies participating in prescribing and dispensing Paxlovid may impact the reach and effectiveness of this initiative. The timing of this change, starting December 12, may influence COVID-19 hospitalization rates in Ontario during the winter months.
+Relevant.
+Number of pharmacies in Ontario: approximately 4,000
+Eligibility criteria for Paxlovid prescription: ages 60+ or 18+, immunocompromised or high-risk individuals
+Key objective: prevent hospitalizations and release burden from emergency departments/hospitals/ICUs.
 
-Article 3 of 3
-Title: Flu surges on heels of RSV, COVID-19 to overwhelm children's hospitals
-Publisher: CTV News
+Article 2 of 2
+Title: Flu surges on heels of RSV, COVID-19 to overwhelm children's hospitals in Canada
+Publisher: Vancouver Is Awesome
 Trusted: False
 Posted: 5 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. The article highlights the current strain on the healthcare system in Ontario and other parts of Canada due to an early and severe flu season, particularly among children. Key points relevant to forecasting COVID-19 hospitalizations in Ontario include: The flu season has started early and is overwhelming emergency departments, with a high number of pediatric hospitalizations (over 700 children hospitalized with the H3N2 strain of the flu up to the end of November). The number of RSV hospitalizations is stabilizing, but there is still a significant burden of disease requiring complex hospitalization. The test positivity rate for flu was 30% last week, compared to 10% at the end of October, indicating a significant increase in flu cases. Hospitals, including SickKids in Toronto, are reducing surgeries and redeploying staff to provide care for patients with acute respiratory infections. The healthcare system is chronically underfunded, particularly when it comes to vulnerable citizens such as children. Health officials are warning of the importance of vaccination and education to combat misinformation on social media. These points suggest that the current flu season is putting a significant strain on the healthcare system in Ontario, which could impact the ability to respond to a potential surge in COVID-19 cases. The article highlights the need for targeted funding and resources to support children's hospitals and staffing, as well as the importance of vaccination and public education efforts.
+Here is a brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+High flu hospitalization numbers in early December, with over 700 children hospitalized with H3N2 strain of the flu.
+Flu hospitalizations increasing, with test positivity rate at 30% last week compared to 10% in late October.
+RSV hospitalizations stabilizing but still a significant burden.
+Pediatric hospitals in Ontario (e.g. SickKids in Toronto) experiencing high patient volumes and staff redeployment due to surge in pediatric cases.
+Federal funding of $2 billion provided to provinces, with potential for targeted funding for children's hospitals and staffing support.
+Increased risk of hospital overcrowding and delays in non-COVID care during peak flu season.
+Potential strain on healthcare system due to early start of flu season and ongoing COVID-19 pandemic.

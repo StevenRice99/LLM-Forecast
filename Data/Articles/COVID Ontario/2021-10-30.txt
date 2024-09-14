@@ -1,7 +1,60 @@
-Below is a news article from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
+Below are 5 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
+Article 1 of 5
+Title: Covid-19 update: No new deaths as hospitalizations increase
+Publisher: delawarebusinessnow.com
+Trusted: False
+Posted: 1 day ago
+Alberta, Canada reports 8 new COVID-19 cases and no deaths. 
+Summary: FALSE
+
+Article 2 of 5
+Title: Effectiveness of ChAdOx1 vaccine in older adults during SARS-CoV-2 Gamma variant circulation in São Paulo
+Publisher: Nature.com
+Trusted: False
+Posted: 2 days ago
+The study estimates vaccine effectiveness against COVID-19 hospitalization in São Paulo State, Brazil. The analysis is relevant for forecasting COVID-19 hospitalizations because it:
+Extracts data from surveillance databases that cover hospitalizations
+Includes information on SARS-CoV-2 testing and vaccination status
+Estimates vaccine effectiveness against severe outcomes, including hospitalization
+Adjusts for matching factors such as age, sex, and comorbidities
+
+Article 3 of 5
+Title: COVID-19: Low vaccine uptake among pregnant women in Hamilton ‘troubling’ amid recent baby boom - Hamilton
+Publisher: Global News Toronto
+Trusted: False
+Posted: 4 days ago
+Relevant article for forecasting COVID-19 hospitalizations in Ontario, Canada.
+Key points:
+68% of pregnant women in Ontario have received at least one dose of a vaccine (Oct 3).
+60% are fully vaccinated.
+Hospitalization rates among pregnant women with COVID-19 are higher: 25 hospitalizations reported by Hamilton Health Sciences from March 2020 to August 2021.
+A study found that pregnant individuals are 4 times more likely to be hospitalized and 40% more likely to be admitted to the ICU if they contract COVID-19.
+
+Article 4 of 5
+Title: Average Costs for a COVID-19 Hospital Stay Top $400,000 in Some States: Study
+Publisher: Money
+Trusted: False
+Posted: 5 days ago
+The average cost of a noncomplex COVID-19 hospitalization is over $100,000 in some states (similar to the costs in Ontario).
+Complex cases require ICU admission and/or a ventilator, costing up to $472,213.
+Location matters: costs vary by state due to factors like cost of living, labor prices, malpractice insurance, and negotiations between providers and insurers.
+In Canada, healthcare is publicly funded, but hospitalization costs for COVID-19 may still be significant (no specific data provided).
+The article mentions that health insurance companies are phasing out cost-sharing waivers for COVID-19 patients, which could lead to more people receiving significant medical bills for their treatment.
+
+Article 5 of 5
 Title: Why 'waning immunity' from COVID-19 vaccines isn't as bad as it sounds
-Publisher: CBC.ca
+Publisher: CBC News
 Trusted: False
 Posted: 7 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the key points: Antibodies from COVID-19 vaccines do decline over time, but this is not unexpected and does not necessarily mean that the immune system's protection against the virus is waning. Memory B cells, which are created after vaccination, continue to learn how to fend off the virus months after vaccination and are actually getting better at it over time. Breakthrough infections do not necessarily indicate waning immunity, and reports of waning immunity may lack important context and data on who is seriously affected and why. In Ontario, 94.7% of all COVID-19 cases since December 14 have been among those not fully vaccinated, as well as 95.8% of hospitalizations and 94.3% of deaths. Fully vaccinated Canadians who do get COVID-19 are 79% less likely to be hospitalized and 64% less likely to die. Key information on the age, underlying health conditions, or specific vaccine combination administered to those who were hospitalized or died from COVID-19 two weeks after their second shot is not available in Canada due to health privacy laws. Older, frailer Canadians living with comorbidities in congregate settings, such as long-term care facilities, are at increased risk of breakthrough infections because their antibody levels drop "much faster" than in the general population. Boosters for the general population are considered "premature" in Canada, and experts recommend waiting and seeing when waning immunity becomes a concern before administering boosters. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada, from this article are: 94.7% of all COVID-19 cases since December 14 have been among those not fully vaccinated 95.8% of hospitalizations and 94.3% of deaths have been among those not fully vaccinated Fully vaccinated Canadians who do get COVID-19 are 79% less likely to be hospitalized and 64% less likely to die Older, frailer Canadians living with comorbidities in congregate settings are at increased risk of breakthrough infections Boosters for the general population are considered "premature" in Canada.
+The article discusses the topic of breakthrough infections and waning immunity after full vaccination against COVID-19. Despite some individuals experiencing severe outcomes or death from COVID-19 two weeks after their second vaccine shot, the overall effectiveness of the vaccines remains high.
+According to Public Health Agency of Canada (PHAC) data, fully vaccinated Canadians are 79 per cent less likely to be hospitalized and 64 per cent less likely to die from COVID-19. However, the article highlights that underlying conditions play a significant role in breakthrough infections, with older, frailer individuals living with comorbidities being at increased risk.
+A recent study from the Toronto-based Lunenfeld-Tanenbaum Research Institute found much lower levels of neutralizing antibodies in elderly patients, which may explain their higher risk of breakthrough infections. Additionally, immunocompromised groups, such as transplant patients and people with certain types of cancers, have shown declining protection from COVID-19 vaccines.
+The article also discusses the debate surrounding COVID-19 booster shots, with some experts recommending them for long-term care residents due to their increased vulnerability. However, it is suggested that boosters may not be necessary for the general population at this time, as overall vaccine effectiveness remains high and waning immunity can be addressed through continued public health measures.
+Key points from the article include:
+Fully vaccinated Canadians are 79 per cent less likely to be hospitalized and 64 per cent less likely to die from COVID-19.
+Underlying conditions play a significant role in breakthrough infections, with older, frailer individuals being at increased risk.
+Immunocompromised groups have shown declining protection from COVID-19 vaccines.
+Boosters may not be necessary for the general population at this time.
+Continued public health measures can address waning immunity and prevent severe outcomes.
+The article features quotes from experts, including Dr. Shelley Gommerman, a physician and associate professor at the University of Alberta, and Dr. Jeff Kwong, an epidemiologist and senior scientist at the Institute for Clinical Evaluative Sciences (ICES).

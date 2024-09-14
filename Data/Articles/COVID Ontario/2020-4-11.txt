@@ -1,57 +1,97 @@
 Below are 8 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
 Article 1 of 8
-Title: Retired Ontario doctor returns to work to help with COVID-19
-Publisher: CTV News
-Trusted: False
-Posted: Today
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting values most important for forecasting: The article mentions the growing force of thousands of retired health-care workers answering the call for help amid the pandemic, which could potentially increase the capacity of the healthcare system to handle COVID-19 cases. As of Saturday evening, 23,318 people in Canada have been infected with COVID-19 and 653 have died, providing a snapshot of the current situation. The article highlights the importance of telephone consultations as a means of prevention to avoid overwhelming hospitals with unnecessary visitors. Dr. Konyer's observation that Canadians are anxious but seem to be following physical distancing directives suggests that the public health measures are having an impact, which could influence the forecast of hospitalizations. These points provide context and insights that can be used to inform forecasting models of COVID-19 hospitalizations in Ontario, Canada.
-
-Article 2 of 8
 Title: Brampton hospital worker dies of COVID-19
 Publisher: CBC.ca
 Trusted: False
 Posted: 2 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: 483 new cases of COVID-19 were confirmed in Ontario, bringing the province's total to 5,759. 223 deaths have been reported in the province. 2,305 cases are considered resolved, or about 40% of Ontario's total COVID-19 cases. 632 people are hospitalized in Ontario with the virus, with 264 in intensive care units and 214 on ventilators. These values provide insight into the current state of COVID-19 hospitalizations in Ontario, including the number of new cases, deaths, resolved cases, and hospitalization rates. This information can be used to inform forecasting models and predict future hospitalization trends.
+A relevant article for forecasting COVID-19 hospitalizations in Ontario, Canada.
+Summary: 
+483 new COVID-19 cases confirmed in Ontario
+Total number of COVID-19 cases in Ontario: 5,759
+Number of people hospitalized with COVID-19 in Ontario: 632 (264 in ICU and 214 on ventilators)
+Proportion of cases that are hospitalizations: approximately 11% (632/5769)
 
-Article 3 of 8
-Title: Why are so few Albertans in hospital with COVID-19? Here are some possible explanations
-Publisher: CBC.ca
-Trusted: False
-Posted: 3 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. The article discusses the COVID-19 models released by Alberta, which contain several scenarios, including a "probable" scenario that forecasted roughly 200 people would be in hospital with the disease by April 8. However, the actual number of hospitalizations in Alberta was significantly lower, with fewer than 50 patients hospitalized by that date. The article highlights the differences in hospitalization rates between Alberta and other provinces, including Ontario, Quebec, and British Columbia. The article suggests that the low hospitalization rates in Alberta may be due to various factors, including the province's testing and contact-tracing protocols, the age of its population, and the geographic distribution of its citizens. However, scientific experts caution that more data is needed before drawing firm conclusions about what's happening with COVID-19 in the province. The article provides the following values that are most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Hospitalization rates in Alberta: 44 people in hospital, including 16 in intensive-care units (as of the article's publication date) Comparison of hospitalization rates between Alberta and other provinces: + Ontario: over 600 patients in hospital + Quebec: over 600 patients in hospital + British Columbia: 135 hospitalized patients, including 61 in ICU Testing and contact-tracing protocols in Alberta Age of the population in Alberta (youngest population in Canada) Geographic distribution of citizens in Alberta (more spread out than other provinces) These values can be used to inform forecasting models for COVID-19 hospitalizations in Ontario, Canada, and to consider the potential factors that may influence hospitalization rates in the province.
-
-Article 4 of 8
+Article 2 of 8
 Title: Quebec projects 1,263 to 8,860 COVID-19 deaths by April 30
 Publisher: CTV News Montreal
 Trusted: False
 Posted: 4 days ago
-The article provides relevant information for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the values most important for forecasting: Ontario's forecast predicts 1,600 deaths from COVID-19 by April 30 with current physical distancing measures in place. Without any measures, 6,000 people could have been dead by the end of the month. The model forecasts 80,000 cases of COVID-19 in Ontario by April 30. Without current health measures, there would be 300,000 cases by the end of the month. The pandemic could last between 18 months and two years with 3,000 to 15,000 deaths in Ontario with current health measures. Without any public health measures, the worst-case scenario forecasts up to 100,000 deaths in Ontario. These values provide insight into the potential scale and timeline of the COVID-19 pandemic in Ontario, which can inform forecasting of hospitalizations.
+Key values for forecasting COVID-19 hospitalizations in Ontario, Canada: 
+Current and projected number of hospitalizations (not directly stated but implied by the article): Ontario is expected to have 1,600 deaths by April 30 with current measures.
+Comparison between scenarios with and without public health measures: With current measures, forecasted peak hospitalizations are not explicitly mentioned. Without measures, forecasted peak hospitalizations are also not explicitly mentioned but implied through other metrics (e.g., number of cases).
 
-Article 5 of 8
+Article 3 of 8
 Title: Ontario has only 1 week supply of 'critical' protective equipment left, premier says
 Publisher: CBC.ca
 Trusted: False
 Posted: 4 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Ontario has a low inventory of personal protective equipment (PPE) for front-line healthcare workers, with only one week's worth of critical PPE stockpiled. The province is expecting a shipment of 500,000 N95 masks, which will "buy us another week". Ontario has nearly 2,000 beds equipped with ventilators in intensive care units, a 50% increase from March. The province has confirmed 309 new cases of COVID-19, bringing the total to 4,347, with 132 deaths (although CBC News has counted 150 deaths province-wide). The test backlog has dropped to 329, but infectious disease experts are critical of Ontario's testing capacity, which is the lowest per capita in Canada. The province is aiming to complete more than 5,000 tests per day in the near future. Currently, 589 people are hospitalized with COVID-19, 216 are in intensive care units, and 160 are on ventilators. At least 451 healthcare workers in Ontario have tested positive for COVID-19, representing about 10% of all cases in the province. These values are important for forecasting COVID-19 hospitalizations in Ontario, Canada, as they provide information on the current state of the pandemic, the availability of medical supplies and equipment, and the capacity of the healthcare system to respond to the outbreak.
+Here is a summary of the article:
+COVID-19 Cases in Ontario 
+589 people have been hospitalized for COVID-19 (66 more than the previous update)
+216 are in intensive care units (16 more than last update)
+160 are on ventilators (6 more than last update)
+At least 451 health-care workers in Ontario have tested positive for COVID-19, representing about 10% of all cases in the province
+Public health units in the Greater Toronto Area account for more than 50% of Ontario's COVID-19 cases
+Schools and Online Learning 
+Online learning has started at schools across Ontario to ensure students get some form of education during the COVID-19 crisis
+Parents can now apply for a one-time support payment of $200 per child up to age 12, and $250 for those up to age 21 with special needs
+Long-term Care Facilities 
+Six COVID-19 patients have died at a long-term care home in Oshawa
+At least 46 long-term care facilities in Ontario have been hard hit by the virus
+As many as 26 residents of Pinecrest Nursing Home in Bobcaygeon have died of COVID-19 complications
+Other Developments 
+A hospital in Hamilton has declared a COVID-19 outbreak after three health-care workers in the special care nursery tested positive
+A remote First Nation in northern Ontario has reported its first confirmed case of COVID-19
+The murder trial of Alek Minassian, accused in the Yonge Street van attack, has been delayed indefinitely due to COVID-19 restrictions.
 
-Article 6 of 8
-Title: COVID-19 in Quebec: Legault points to stable intensive care numbers as positive sign
+Article 4 of 8
+Title: Tracking COVID-19: How Manitoba's latest data compares to the rest of Canada
 Publisher: CBC.ca
 Trusted: False
 Posted: 4 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. The article provides information on Quebec's COVID-19 situation, which can be used as a reference point for Ontario. Key values mentioned in the article that are important for forecasting COVID-19 hospitalizations in Ontario include: Hospitalization peak expected around April 18 in Quebec 583 people in hospital, including 164 in intensive care, in Quebec Quebec's projections: 1,200 to 9,000 deaths by the end of April, with 29,212 to 59,845 confirmed cases Ontario's modelling: 3,000 to 15,000 deaths over the course of the pandemic Comparison of hospitalization growth in Quebec, Ontario, and British Columbia, showing Quebec's sharper rise and B.C.'s relatively flat curve. These values can be used to inform forecasting models and provide context for Ontario's COVID-19 situation.
+Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Total number of confirmed cases: Not directly mentioned
+Hospitalizations: 12 people with COVID-19 are currently hospitalized in Manitoba, including 6 in intensive care (ICU)
+Intensive care unit (ICU) beds: 63 staffed ICU beds in Manitoba as of Monday, with about 70% occupied
+Testing capacity and backlog: Testing remains limited in Manitoba, but no information on Ontario's testing capacity or backlog
 
-Article 7 of 8
+Article 5 of 8
 Title: Why B.C. is flattening the COVID-19 curve while numbers in central Canada surge
 Publisher: CBC.ca
 Trusted: False
 Posted: 5 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: British Columbia's (BC) COVID-19 outbreak is less severe than Ontario's, with flat hospitalizations and active cases over the last week. BC's success is attributed to a combination of luck, preparation, and effective public health leadership, including Dr. Bonnie Henry's experience and communication style. Ontario's response was slower, with difficulties in public health leadership culture and a less unified response. Key factors contributing to BC's success include: + Early measures to stop health-care workers from working at multiple care homes. + A functioning public health system with integration of lab and epidemiology and service. + Effective communication and leadership from Dr. Bonnie Henry. + A later spring break, allowing health officials to adapt and respond to the outbreak. Ontario's challenges include: + A less unified response and messaging to the public. + A lack of public health leadership and expertise, relying on advice from others. These factors can inform forecasting COVID-19 hospitalizations in Ontario, Canada, by highlighting the importance of effective public health leadership, communication, and preparedness in responding to the outbreak.
+Key points:
+COVID-19 outbreak is more severe in Ontario than in British Columbia (BC).
+BC has experienced flat hospitalization and active cases for the last week.
+Factors contributing to BC's success include:
++ Preparation: functioning public health system with early integration of lab and epidemiology services.
++ Timing of spring break: recommended against non-essential travel on March 12, allowing health officials to adapt.
++ Early measures to prevent community transmission, such as stopping healthcare workers from working at multiple care homes.
++ Strong leadership: Dr. Bonnie Henry's direct experience in overseeing outbreaks and ability to articulate the importance of public health measures.
 
-Article 8 of 8
+Article 6 of 8
 Title: Extra ventilators arrive in Ontario hospital ICUs to aid COVID-19 patients
 Publisher: CBC.ca
 Trusted: False
 Posted: 5 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: The current number of ICU beds equipped with ventilators in Ontario is 1,971, which is a 50% increase from March. The number of people hospitalized with confirmed cases of COVID-19 is 589, with 216 in ICUs and 160 on ventilators. Modelling suggests that Ontario will need to add an extra 900 intensive care beds to cope with a projected steep rise in COVID-19 patients over the next two weeks. The peak demand for ICU beds is forecast to hit hospitals between April 16 and 20, with as many as 1,200 cases of COVID-19 in the ICUs. The province is allowing hospitals to expand intensive care bed capacity, but it is unclear how they will find the necessary staff. The province is recruiting retired nurses, medical students, and other volunteers to help staff overstretched hospital departments. An additional 652 ventilators are now in place, and more are expected to arrive in the coming days and weeks. These values provide important information for forecasting COVID-19 hospitalizations in Ontario, Canada, including the current capacity of ICU beds, the number of patients hospitalized with COVID-19, and the projected demand for ICU beds in the coming weeks.
+As of March, Ontario has nearly 2,000 ICU beds equipped with ventilators (1,971).
+Currently, 589 people are hospitalized with confirmed cases of COVID-19.
+The province projects a steep rise in COVID-19 patients over the next two weeks, requiring an additional 900 intensive care beds to cope.
+Peak demand is forecasted between April 16 and 20, with up to 1,200 cases in ICUs.
+
+Article 7 of 8
+Title: COVID-19 seems to be hitting smokers more severely, scientists warn
+Publisher: CTV News
+Trusted: False
+Posted: 5 days ago
+Smokers in Ontario, Canada have a higher risk of hospitalization due to COVID-19 (12% vs <5%). Smoking damages lung tissues, destroys cilia that help trap viruses, and increases the number of lung cells with receptors for the novel coronavirus, making it harder for smokers to recover from the disease. This information is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada as it provides a specific risk factor (smoking) that can be considered when predicting hospitalization rates.
+
+Article 8 of 8
+Title: Ontario's hardware stores shift to curbside pickup, delivery during COVID-19 pandemic
+Publisher: CTV News Ottawa
+Trusted: False
+Posted: 6 days ago
+- The Ontario government has reduced the list of essential businesses allowed to remain open to 44 categories.
+- Non-essential stores must stay closed for two weeks, but can offer online service and curbside pick-up.
+- Some hardware stores are remaining open for curbside pick-up or delivery only.

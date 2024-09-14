@@ -1,7 +1,10 @@
 Below is a news article from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
-Title: TD Provincial Economic Tracker
-Publisher: TD Economics
+Title: UCP caucus chair denies advocating for COVID case spike in Alberta's unvaccinated
+Publisher: CBC News
 Trusted: False
-Posted: 4 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the key points relevant to Ontario: Cases are creeping higher in Ontario, but hospitalizations are still relatively low. Vaccination rates in Ontario are high, but not among the highest in Canada. Ontario is requiring vaccinations or regular testing in healthcare, education, and other high-risk settings. Ontario is considering implementing a vaccine passport, but details have not been announced. Economic activity in Ontario has continued to recover, with employment now closer to the national average after lagging for the bulk of the past year. Retail and recreation mobility in Ontario is trending closer to pre-pandemic levels, but the accommodation and food services industry still has a lot of lost ground to make up. These points suggest that while cases and hospitalizations are increasing in Ontario, the province's high vaccination rates and targeted public health measures may help mitigate the impact of the fourth wave. However, the economic recovery in Ontario may be vulnerable to downside risks if infections continue to rise and restrictions are reimposed.
+Posted: 5 days ago
+Here is a brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+In Alberta, 74 COVID patients were in ICU on Friday (all but two were unvaccinated or partially vaccinated).
+More than a third of Albertans have not received a vaccine.
+The risk of overwhelming the healthcare system is high due to the combination of an influenza season and a portion of the population still at risk for severe health outcomes.

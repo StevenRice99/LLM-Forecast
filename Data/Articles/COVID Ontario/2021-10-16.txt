@@ -1,15 +1,37 @@
-Below are 2 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
+Below are 4 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
-Article 1 of 2
-Title: Ontario venues say new COVID-19 rules create 'double standard' for standing concerts
-Publisher: CP24
+Article 1 of 4
+Title: How do I download my Ontario vaccine certificate QR code
+Publisher: CTV News Toronto
 Trusted: False
 Posted: 1 day ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. The article highlights the challenges faced by live music venues in Ontario due to the latest COVID-19 guidelines, which only allow 100% capacity at seated events, leaving smaller venues without seats unable to hold shows unless they install chairs, reducing capacity. This has resulted in cancelled shows and financial losses for venue owners and promoters. Key points relevant to forecasting COVID-19 hospitalizations in Ontario include: The current guidelines are likely to dampen any significant return to live music in the coming months, potentially reducing the number of gatherings and social interactions that could contribute to the spread of COVID-19. The uncertainty around COVID-19 guidelines is making it challenging for venues to plan and sell tickets, which could lead to a decrease in the number of events and gatherings, potentially reducing the risk of COVID-19 transmission. The article mentions that some international acts may opt to reroute tours away from Canada and into border states early next year, which could potentially reduce the number of travelers and gatherings in Ontario, impacting COVID-19 hospitalization forecasts. Overall, the article suggests that the current guidelines and uncertainty around live music events in Ontario may lead to reduced gatherings and social interactions, potentially impacting COVID-19 transmission and hospitalization rates in the province.
+Summary: The enhanced vaccine certificate contains vaccination status information and is required for non-essential businesses, but does not include health card numbers. The Verify Ontario app can scan QR codes to confirm vaccination status, but cannot store personal info.
 
-Article 2 of 2
+Article 2 of 4
+Title: 3 years after legalization, we have shockingly little information about how it changed cannabis use and health harms
+Publisher: The Conversation
+Trusted: False
+Posted: 2 days ago
+Values most important for forecasting:
+Increase in emergency department visits due to cannabis (8% between 2019 and 2020)
+Increase in hospitalizations due to cannabis (5% between 2019 and 2020)
+
+Article 3 of 4
 Title: Small venues in Ottawa question COVID-19 capacity limits
 Publisher: CTV News Ottawa
 Trusted: False
 Posted: 2 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Summary: The article discusses the recent easing of capacity limits in Ontario, allowing indoor venues with designated seating to operate at 100% capacity. However, this change does not apply to restaurants, bars, and clubs, which are still subject to restrictions, including maintaining a 2-meter distance between tables. The article highlights the frustration of the restaurant industry and the Ontario Chamber of Commerce, which questions the rationale behind the differing rules. Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: The easing of capacity limits in indoor venues with designated seating may lead to an increase in COVID-19 cases, potentially resulting in more hospitalizations. The continued restrictions on restaurants, bars, and clubs may help mitigate the spread of COVID-19, potentially reducing hospitalizations. The article mentions that public health indicators remain stable or are improving, which could suggest a decrease in hospitalizations. The potential exit from Step 3 of the Roadmap to Reopen plan as early as next week could further ease pandemic restrictions, potentially leading to an increase in COVID-19 cases and hospitalizations. Overall, this article provides insight into the current state of COVID-19 restrictions in Ontario and the potential impact on hospitalizations.
+Provincial government allows indoor venues with designated seating to have up to 100% capacity.
+Venues without designated seating or those requiring social distancing (e.g., restaurants) are still restricted.
+Restaurant industry and public health officials raise concerns about inconsistent rules and potential for outbreaks.
+Province considers exiting Step 3 of the Roadmap to Reopen plan, which could further ease pandemic restrictions.
+
+Article 4 of 4
+Title: 'Very hopeful': Ottawa musicians, centres welcome capacity limit changes for some venues
+Publisher: CTV News Ottawa
+Trusted: False
+Posted: 7 days ago
+Summary: 
+Over 22 million COVID-19 vaccine doses administered in Ontario.
+Proof of vaccination required for select indoor venues to operate at full capacity (100%).
+Vaccination efforts continue to increase, driving hope for the performing arts sector.

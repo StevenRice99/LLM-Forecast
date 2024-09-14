@@ -1,22 +1,56 @@
-Below are 3 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
+Below are 5 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
-Article 1 of 3
-Title: Ontario records fewer than 100 new COVID-19 cases for sixth day in a row
-Publisher: CTV News Toronto
+Article 1 of 5
+Title: Councillor wants Carlingview Manor 'specifically examined' by Ontario's long-term care commission
+Publisher: CTV News Ottawa
 Trusted: False
-Posted: Today
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: The number of new COVID-19 cases in Ontario has been below 100 for the sixth straight day, with 70 new cases reported on Saturday. The total number of lab-confirmed cases of COVID-19 in Ontario is 39,967, including 2,784 deaths and 36,131 recoveries. There are currently 53 patients infected with COVID-19 in Ontario hospitals, with 27 in the intensive care unit (ICU) and 12 of those breathing with the assistance of a ventilator. Hospitalizations and ICU admissions have both declined, while the number of patients on ventilators has remained stable. The majority of public health units in Ontario (29 out of 34) have reported five or fewer new cases, with 15 reporting no new cases. Over 2.3 million COVID-19 tests have been conducted in Ontario, with 26,273 test samples still under investigation. These values are important for forecasting COVID-19 hospitalizations in Ontario, Canada, as they provide information on the current trend of new cases, hospitalizations, and ICU admissions, as well as the number of tests being conducted and the results of those tests. This information can be used to inform models and predictions of future hospitalization rates.
+Posted: 1 day ago
+260 laboratory-confirmed cases of COVID-19 among staff and residents at Carlingview Manor.
+60 resident deaths due to COVID-19 during an outbreak between April 7 and June 18.
+The home was the hardest hit long-term care home by COVID-19 in Ottawa.
+The article highlights systemic issues in managing long-term care homes, including poor conditions and staffing shortages.
+The Ontario government has announced a special commission to investigate the effects of COVID-19 on long-term care homes.
 
-Article 2 of 3
-Title: Ontario records slight dip in COVID-19 patients, surpasses 100 cases for third day
-Publisher: CTV News Toronto
+Article 2 of 5
+Title: Social bubbles key to keeping COVID-19 transmission low: Public Health
+Publisher: CTV News Ottawa
+Trusted: False
+Posted: 3 days ago
+Key values include:
+10 people maximum in social bubbles
+Reduced transmission risk when sticking to a single bubble
+Physical distancing, mask use, and frequent handwashing encouraged outside of bubbles
+Balancing act between keeping students in cohorts and distancing measures in schools
+
+Article 3 of 5
+Title: Can I catch COVID-19 on a train? New study explains which seats are riskiest
+Publisher: CTV News
 Trusted: False
 Posted: 6 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: New COVID-19 cases: 116 (a slight dip from Saturday's 124 cases) Total lab-confirmed COVID-19 cases: 39,449 Deaths: 2,778 Recoveries: 35,359 Hospitalizations: 72 people in hospital, 26 in ICU, and 14 on ventilators (stable from previous day) Demographic breakdown of new cases: + 46 cases in people between 20-39 years old + 29 cases in people between 40-59 years old + 26 cases in people under 20 years old + 13 cases in people over 60 years old Regional breakdown of new cases: + York Region: 20 cases + Peel: 14 cases + Toronto: 9 cases + Windsor-Essex: 13 cases + Ottawa: 16 cases + Chatham-Kent: 14 cases COVID-19 testing: + Over 2.2 million tests conducted since late January + 30,000 tests conducted in the last 24 hours + 17,839 test samples still under investigation These values can be used to inform forecasting models of COVID-19 hospitalizations in Ontario, Canada, particularly in terms of the current trend of new cases, hospitalizations, and ICU admissions, as well as the demographic and regional breakdown of new cases.
+This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada.
+The study found a high transmission risk of COVID-19 among transit passengers, with an attack rate of 0.32% among those sitting near an infected person.
+Passengers in the same row as the index patient had a higher attack rate (1.5%), while those sitting beside the patient had a higher attack rate (3.5%).
+Trip duration was also a factor, with the attack rate increasing by 0.15% per hour of travel time.
+The recommended distance to reduce transmission risk is at least 2 seats apart within the same row.
+Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: 
+- Attack rates by proximity to infected person
+- Relationship between trip duration and attack rate
+- Recommended distances to reduce transmission risk
 
-Article 3 of 3
+Article 4 of 5
+Title: 'COVIDsomnia': Why the pandemic is messing with people's sleep
+Publisher: CTV News
+Trusted: False
+Posted: 6 days ago
+Here is a brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+FALSE
+
+Article 5 of 5
 Title: Black people and other people of colour make up 83% of reported COVID-19 cases in Toronto
 Publisher: CBC.ca
 Trusted: False
 Posted: 7 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada, as it provides data on the demographic characteristics of individuals affected by COVID-19 in Toronto, which can inform forecasting models. Key values highlighted in the article include: 83% of reported COVID-19 cases in Toronto are among Black people and other people of color, who make up only half of the city's population. 21% of reported cases are among Black people, who make up only 9% of the population. 11% of reported cases are among Arab, Middle Eastern, and West Asian people, who make up only 4% of the population. 71% of those hospitalized with COVID-19 are people of color. 51% of reported cases are from people living in low-income households, which make up only 30% of the city's population. 27% of cases are from people living in households of five or more people, which make up only 20% of the population. These data suggest that certain demographic groups are disproportionately affected by COVID-19, which can inform forecasting models and help identify areas where targeted interventions may be necessary to mitigate the spread of the virus and reduce hospitalizations.
+The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. 
+People of colour (83% of reported cases) and lower-income households (51% of reported cases) are disproportionately affected by COVID-19.
+Households with five or more people account for 27% of cases.
+These groups may require targeted testing, enhanced communications, and increased access to social supports to address the pandemic.

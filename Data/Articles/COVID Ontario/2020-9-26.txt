@@ -1,22 +1,86 @@
-Below are 3 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
+Below are 8 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
-Article 1 of 3
+Article 1 of 8
 Title: Ottawa bar owner 'shocked' as Ontario moves last call to 11 p.m. at bars, restaurants and nightclubs
 Publisher: CTV News Ottawa
 Trusted: False
 Posted: 1 day ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada, as it discusses new restrictions imposed by the Ontario Government on restaurants, bars, and nightclubs in an effort to reduce "outbreak clusters" of COVID-19 cases. The restrictions include: Prohibiting the sale of alcohol after 11 p.m. Banning alcohol consumption in all food and drink establishments after 12 a.m. until 9 a.m. Requiring all bars and restaurants to remain closed between 12 a.m. and 5 a.m., except for takeout and delivery. These measures may impact the spread of COVID-19 in Ontario, particularly in settings where people gather in close proximity. The article also mentions that the majority of cases in Ottawa are linked to private gatherings and close contacts, which may inform forecasting models. Important values for forecasting COVID-19 hospitalizations in Ontario, Canada, mentioned in the article include: The number of COVID-19 cases in Ottawa The impact of restrictions on businesses, particularly those in the food and drink industry The potential for people to gather in uncontrolled environments, such as house parties, when bars and restaurants close early The concern about a full lockdown and its potential impact on small businesses.
+Tighter restrictions on bars and restaurants to limit gatherings
+Earlier closing time of 11 p.m. for alcohol sales
+Closure of strip clubs
+Majority of cases linked to private gatherings and close contacts (not bars and restaurants)
+Business owners concerned about potential lockdown
+Restrictions aim to combat outbreak clusters of COVID-19 cases
 
-Article 2 of 3
+Article 2 of 8
 Title: Case counts not the only measure of COVID-19 severity, say London doctors
 Publisher: CTV News London
 Trusted: False
 Posted: 2 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting values most important for forecasting: As of Thursday, there were fewer than 100 COVID-19 hospitalizations in all of Ontario. In London, there have been no COVID-19 hospitalizations in the past week. Hospitalization rates and deaths are considered a more complete measure of COVID-19 severity than case counts alone. The article mentions that younger people (under 40) account for roughly two-thirds of recent cases, but their hospitalization rates are much lower than older demographics. The doctors stress that social distancing rules will play a significant role in determining how Ontario fares during the second wave of infections. These values can be used to inform forecasting models, particularly in understanding the relationship between case counts, hospitalization rates, and demographics.
+Key values:
+Current number of COVID-19 hospitalizations in Ontario: fewer than 100
+Hospitalization rates among younger people (under 40): lower, but still a concern
+Intensive care units' preparedness to accommodate patients if necessary: robust plan in place
 
-Article 3 of 3
-Title: Community case of COVID-19 linked to outbreak at Pembroke, Ont. high school
-Publisher: CTV News Ottawa
+Article 3 of 8
+Title: Public health officials call for tighter restrictions, warn COVID-19 could spiral out of control
+Publisher: CBC News
+Trusted: False
+Posted: 2 days ago
+Key values highlighted for forecasting:
+New cases in Ontario could climb to 5,000 daily by October if current trends continue.
+Hospitalizations and deaths are expected to increase exponentially in the coming weeks if restrictions are not tightened.
+The next two weeks will determine the trajectory of the pandemic's months to come.
+Adjusting social bubbles, enforcing restrictions, and reducing interactions can help flatten the curve.
+
+Article 4 of 8
+Title: Mapping out Canada's COVID-19 hotspots: new modelling shows where cases are rising
+Publisher: CTV News
+Trusted: False
+Posted: 4 days ago
+The article reports that Ontario has seen a significant increase in new cases (478) with most cases concentrated in Ottawa, Peel region, and Toronto.
+The province's health minister announces that two regions are moving from yellow to orange (Level 3 - Alert), indicating increased risk of transmission.
+This information is useful for understanding the current epidemiological situation in Ontario and can inform forecasting models.
+
+Article 5 of 8
+Title: Civic duty or infringing freedom? Surveying Canadians' attitudes about masks
+Publisher: CTV News
+Trusted: False
+Posted: 4 days ago
+83% support mandatory mask wearing in public spaces (relevance for forecasting hospitalizations uncertain)
+Fears of contracting COVID-19 have increased: 61% worry about catching the illness, up from 51% in mid-June
+Two-thirds believe Canada will enter another lockdown in the next three months, indicating potential increase in hospitalizations
+
+Article 6 of 8
+Title: CDC removes warning on airborne spread of COVID-19
+Publisher: CBC News
+Trusted: False
+Posted: 5 days ago
+The CDC initially posted guidance on possible transmission of COVID-19 through airborne particles, but later withdrew it. However, experts, including Linsey Marr, emphasize that aerosols are an important transmission route for COVID-19 and recommend policies such as wearing masks at all times in public buildings and ensuring good ventilation and filtration to control the pandemic.
+Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Aerosol transmission of COVID-19
+Wearing masks at all times in public buildings
+Good ventilation and filtration in public spaces
+Recognition of airborne transmission by health authorities
+
+Article 7 of 8
+Title: COVID-19, flu, cold or seasonal allergies? How to tell the difference between symptoms
+Publisher: CTV News
+Trusted: False
+Posted: 5 days ago
+Symptoms of COVID-19: dry cough and fever, fatigue, difficulty breathing, new loss of taste or smell, aches and pains in the body, sore throat, vomiting or diarrhea (less common).
+Key differences between COVID-19 and flu: severe chest pain, significant shortness of breath, loss of speech and movement require immediate medical attention; headaches are more associated with the flu.
+Symptoms of COVID-19 can be similar to those of a cold or seasonal allergies: sneezing and runny nose are not uncommon but may still warrant testing.
+Importance of getting tested for COVID-19 when experiencing symptoms, especially in high-risk settings such as schools and workplaces.
+Relevance value: 8/10 (some information on flu and cold is provided, but the article focuses mainly on COVID-19 symptoms and the importance of testing)
+
+Article 8 of 8
+Title: Ontario reports 365 new coronavirus cases after over 40K tests completed
+Publisher: Global News
 Trusted: False
 Posted: 6 days ago
-Summary: A COVID-19 outbreak at Fellowes High School in Pembroke, Ontario has resulted in 5 positive cases (4 staff members and 1 student) and a community contact has also tested positive. The school has been closed since last Wednesday, and the health unit is conducting contact tracing. The Acting Medical Officer of Health will provide an update on Monday about when the school may reopen. Values important for forecasting COVID-19 hospitalizations in Ontario, Canada: Number of positive cases: 5 (4 staff members and 1 student) + 1 community contact Location: Pembroke, Ontario Setting: School (Fellowes High School) Closure of school: Yes, since last Wednesday Contact tracing: Ongoing Reopening of school: To be determined on Monday These values are important for forecasting COVID-19 hospitalizations in Ontario, Canada as they provide information on the spread of the virus in a specific setting (school) and the measures being taken to contain it (closure of school and contact tracing). This information can help inform models of potential future outbreaks and hospitalizations in Ontario.
+Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Total number of new cases: 365
+Number of hospitalized individuals: 63 (down by one)
+Number in intensive care: 23 (up by three)
+Number on ventilators: 10 (no change)

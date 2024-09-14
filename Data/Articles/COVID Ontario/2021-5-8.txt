@@ -1,22 +1,53 @@
-Below are 3 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
+Below are 5 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
-Article 1 of 3
-Title: The top doctor who ordered some of the strictest COVID-19 measures in Ontario shares why
+Article 1 of 5
+Title: Why some people might want to get a COVID-19 shot in their thigh instead of their arm
 Publisher: CTV News
 Trusted: False
-Posted: 2 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting values most important for forecasting: The Region of Peel in Ontario has a high positivity rate of 18.5%, nearly three times higher than the province as a whole. The region's high case counts are attributed to the types of industries located there, such as manufacturing, warehousing, and distributing, which cannot be done from home and have not been affected by provincial closures and shutdowns. Many workers in these industries come from racialized or new immigrant communities and are precariously employed, making them less likely to miss work if they're feeling unwell. The region has implemented strict measures, including bans on large gatherings, shutting down non-essential businesses, and temporarily closing an Amazon warehouse. The region has also focused on delivering vaccines, with all Peel adults over 18 able to book a vaccine appointment and a goal of administering 18,000 doses per day. The medical officer of health, Dr. Lawrence Loh, is cautiously optimistic about the situation improving but emphasizes the need for a gradual reopening to avoid another surge in cases. These values are important for forecasting COVID-19 hospitalizations in Ontario, as they provide insight into the region's high case counts, the effectiveness of strict measures, and the progress of vaccination efforts.
+Posted: 1 day ago
+Key points:
+Lymphedema prevalence in Ontario (no specific data provided)
+3% of cancer patients develop lymphedema after breast cancer treatment
+Considered rare instances where people should get vaccinated in the thigh due to lymphedema in both arms, which may reduce vaccine efficacy and increase infection risk.
 
-Article 2 of 3
-Title: Ottawa sees fewer than 100 new COVID-19 cases for first time since March
-Publisher: CTV News Ottawa
+Article 2 of 5
+Title: Ornge transferred 1,125 COVID-19 patients in ICUs across Ontario in April
+Publisher: Global News
+Trusted: False
+Posted: 2 days ago
+Key values:
+Total transferred patients: 1,976
+Patients in ICUs at end of April: almost 900
+Highest monthly transfers: April (1,125)
+Hospitals with highest patient transfers: Brampton Civic Hospital (270), Etobicoke General (143)
+
+Article 3 of 5
+Title: NACI's vaccine message adds 'another level of confusion' for Ghanaians, community leader says
+Publisher: CBC.ca
+Trusted: False
+Posted: 3 days ago
+Ghanaian Canadian Association of Ontario has 45,000 members in Toronto and experienced significant COVID-19 related deaths and hospitalizations.
+Community leaders are playing an important role in building trust and promoting vaccination among their communities.
+Pop-up clinics like the one hosted by the association are crucial for reaching hard-hit neighborhoods and vulnerable populations.
+Community leaders emphasize the importance of informed decision-making and providing data to community members about COVID-19 vaccines.
+Experts worry that changing messaging from NACI may lead to vaccine shopping, hesitancy, and reduced vaccination rates.
+
+Article 4 of 5
+Title: Nova Scotia ICUs, already taxed, are bracing for more COVID-19 patients
+Publisher: CBC.ca
 Trusted: False
 Posted: 4 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the key points: Ottawa reported 94 new cases of COVID-19, the first time fewer than 100 new cases were reported in a single day since March. The province of Ontario reported 2,791 new cases of COVID-19, the first time fewer than 3,000 cases were reported since early April. 25 more Ontarians have died of COVID-19, bringing the total number of deaths to 515 in Ottawa and 3,323 newly resolved cases. There are currently 101 people in hospital with COVID-19 related illnesses in Ottawa, with 28 people in intensive care. The reproduction number (seven-day average) is 0.97, indicating that the spread of the virus is slowing. 40% of Ottawa residents 18 and older have received at least one dose of the vaccine. The number of active cases of COVID-19 in Ottawa has fallen below 1,900 and continues to decline. The values most important for forecasting COVID-19 hospitalizations in Ontario, Canada are: The number of new cases of COVID-19 reported in Ottawa and the province of Ontario. The number of people in hospital with COVID-19 related illnesses and the number of people in intensive care. The reproduction number (seven-day average), which indicates the spread of the virus. The percentage of Ottawa residents who have received at least one dose of the vaccine. The number of active cases of COVID-19 in Ottawa.
+Here is a brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Current hospitalization numbers: 42 people currently hospitalized with COVID-19, 8 in ICU.
+ICU bed capacity: 93-95 ICU beds available, with plans to expand to 200.
+Hospitalization rates by age group: Majority of hospitalizations are between ages 40-60, but cases among younger individuals (20s) are rising.
 
-Article 3 of 3
-Title: Hospitalizations, ICU admissions growing for younger Canadians in third wave
-Publisher: CP24
+Article 5 of 5
+Title: Looming surge in COVID-19 hospitalizations threatens to crash Alberta's acute care system, experts warn Kenney
+Publisher: CBC.ca
 Trusted: False
-Posted: 7 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: The weight of the pandemic is shifting to younger people, with hospitalizations and ICU admissions increasing among people under 60, particularly in those under 50. The number of people over 70 who died from COVID-19 decreased by 77% between March 26 and April 23, while hospitalizations and ICU admissions also decreased. Hospitalizations and ICU admissions increased among people in their 20s, 30s, and 40s, with hospitalizations growing by 40%, 40%, and 65%, respectively, and ICU admissions growing by 57%, 57%, and 60%, respectively. The third wave is outpacing previous waves, with record-high daily case loads and hospitalizations in Ontario, Alberta, and B.C. More than 1,400 people are currently in intensive care with COVID-19 in Canada, with a higher proportion of them under the age of 70. These values suggest that forecasting models should take into account the shifting demographics of COVID-19 hospitalizations, with a focus on younger age groups, and the increasing severity of the third wave.
+Posted: 4 days ago
+A summary of relevant information for forecasting COVID-19 hospitalizations in Ontario, Canada:
+The article compares Alberta's case rate (518 active cases per 100,000 people) to Ontario's case rate (252 active cases per 100,000 people).
+It highlights the importance of strict public health measures in reducing case numbers, citing success in other provinces such as B.C., Saskatchewan, and Quebec.
+The article warns that a similar spike in hospitalizations may occur in Alberta if measures are not taken to slow transmission, but does not provide specific projections for Ontario.

@@ -1,57 +1,77 @@
-Below are 8 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
+Below are 7 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
-Article 1 of 8
+Article 1 of 7
 Title: Ontario is reporting 75 COVID-19 related deaths, but top doctor says situation is improving
 Publisher: CBC.ca
 Trusted: False
 Posted: 2 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: The percentage of positive tests has decreased to 14.6% from 18.4% the previous week, indicating a decline in COVID-19 cases. Long-term care outbreaks are also declining, and there has been a decrease in the number of active resident cases in long-term care. Wastewater sites across the province are reporting a downward trend in COVID-19 detection. Hospitalizations are currently stable, with 2,797 people with COVID-19 in hospitals, down from 2,939 the day before and 3,645 at the same time last week. ICU numbers remain high, but the number of COVID-19 patients is starting to decrease, with 541 patients requiring intensive care, down from 555 the day before and 599 the same time last week. Approximately 56% of patients with COVID-19 in hospitals were admitted for COVID-related illnesses, while 44% were already in hospital when they tested positive for the virus. The province has increased capacity to provide care to those who need it, and antivirals are available to help manage the impact of COVID-19. These values suggest a general improvement in the COVID-19 situation in Ontario, but also highlight the need for continued vigilance and adherence to measures to reduce transmission, particularly in areas with strained healthcare capacity.
+Number of hospitalizations: 2,797 people with COVID-19 in hospitals (down from 3,645 last week)
+ICU numbers: 541 patients with COVID-19 in intensive care (down from 599 last week)
+Percentage of positive tests: average down to 14.4% (from 18.4% the week prior)
+Hospitalization rate among new cases: not explicitly stated
 
-Article 2 of 8
+Article 2 of 7
+Title: 3 deaths, COVID-19 hospitalizations steady in London, Ont., on Thursday
+Publisher: CBC.ca
+Trusted: False
+Posted: 2 days ago
+Key values:
+Hospitalization numbers: London Health Sciences Centre (LHSC) has 139 inpatients with COVID-19.
+ICU bed usage: LHSC has 25 patients in ICU beds.
+Provincial trends: 2,797 people with COVID-19 are in hospitals across the province.
+Staff cases: 192 staff members at LHSC have tested positive for COVID-19.
+
+Article 3 of 7
 Title: Update on hospital capacity and planning for ramp up
 Publisher: Hamilton Health Sciences
 Trusted: True
 Posted: 3 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting the most important values for forecasting COVID-19 hospitalizations in Ontario, Canada: Current hospital capacity and occupancy rates in Hamilton and the surrounding region are still under strain, with: + Adult acute inpatient occupancy exceeding 110% (ideal maximum is 85-90%) + Adult intensive care unit capacity exceeding 95% + Acute pediatric occupancy at McMaster Children’s Hospital at 100% Provincial modelling from the Ontario Science Table (OST) suggests that hospitalization rates may continue at high levels due to the easing of restrictions on Jan. 31 and potential resurgence of cases in late winter/early spring. Vaccination is highly effective in preventing severe outcomes, with unvaccinated or partially vaccinated individuals having a six-fold risk of hospitalization and twelve-fold risk of requiring ICU care. The OST predicts prolonged occupancy challenges in Ontario hospitals, including ICUs, in the weeks and months to come. These values indicate that hospital capacity and vaccination rates will be crucial factors in forecasting COVID-19 hospitalizations in Ontario, Canada.
+Key values for forecasting COVID-19 hospitalizations in Ontario, Canada: 
+High adult acute occupancy (exceeded 110% at HHS) 
+Elevated ICU capacity utilization (90% in the HNHBB region)
+Transfer of critical care patients to other regions
+Provincial modelling predicts continued high hospitalization rates and prolonged ICU challenges
+Vaccination effectiveness in preventing severe outcomes
 
-Article 3 of 8
-Title: Ontario’s science advisers say easing restrictions will increase COVID-19 cases
-Publisher: The Globe and Mail
-Trusted: False
-Posted: 4 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the key points: The Ontario COVID-19 Science Advisory Table has released new projections that predict an increase in COVID-19 hospitalizations due to the reopening of the province, with a worst-case scenario of nearly 6,000 hospitalizations in March. The projections also suggest that the number of patients in intensive care could increase to as high as 900 in the worst-case scenario. The science table notes that the size of the coming rebound is unclear and will depend on factors such as vaccination rates, the spread of Omicron, and changes in behavior. The province's health system is expected to be able to handle the increase in hospitalizations, with the government having hired thousands of health care workers and funded 3,100 more hospital beds. The article also mentions that the number of patients in intensive care units fell by 15 to 568 people on Tuesday, and the proportion of tests coming back positive was 16.2 per cent. The key values for forecasting COVID-19 hospitalizations in Ontario, Canada are: 6,000: The predicted number of hospitalizations in March in the worst-case scenario. 900: The predicted number of patients in intensive care in the worst-case scenario. 3,091: The current number of hospitalizations. 568: The current number of patients in intensive care units. 16.2 per cent: The proportion of tests coming back positive. 2 million: The assumed number of Ontarians who have had recent infections in the worst-case scenario. 3 million: The assumed number of Ontarians who have had recent infections in the best-case scenario.
-
-Article 4 of 8
+Article 4 of 7
 Title: Omicron plateauing in Ontario, hospitalizations at “pandemic high”
 Publisher: My Parry Sound Now
 Trusted: False
 Posted: 4 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Omicron activity is declining after peaking in mid-January, but hospitalizations are at a "pandemic high" and are expected to rise again after reopening. Hospital occupancy is projected to stay at a "prolonged peak" of nearly 5,000 patients. ICU occupancy is projected to stay at nearly 800 patients. Officials believe that Ontario is currently trending between the best and moderate-case scenarios for hospitalizations and has sufficient capacity to meet demand. The province is urging everyone to get vaccinated as soon as possible. These values suggest that while the Omicron wave may be declining, hospitalizations are expected to remain high in the coming weeks, and vaccination efforts are crucial to managing the situation.
+COVID-19 hospitalizations in Ontario, Canada are expected to remain high.
+Hospital occupancy is projected to stay at a "prolonged peak" of nearly 5,000 patients.
+ICU occupancy is also expected to remain high at nearly 800 patients.
 
-Article 5 of 8
+Article 5 of 7
 Title: Doug Ford talks about returning to 'life we knew before COVID-19'
 Publisher: CityNews Toronto
 Trusted: False
 Posted: 5 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the article, highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: The Ontario COVID-19 Science Advisory Table has released new modeling suggesting that the worst of the current Omicron wave has passed, but warning of a jump in hospitalizations in the coming months. The easing of restrictions, which began on Monday, is expected to contribute to an increased spread of COVID-19 and a rebound in hospitalizations, which will continue at a prolonged peak through February and March. The province is working to ensure the healthcare system can handle any future surge of COVID-19 to avoid shutting things down again, with a $6.4 billion investment to build 30,000 net new long-term care beds by 2028. The article also mentions that January was one of the pandemic's deadliest months in Ontario, with over 1,200 people losing their lives to the virus. These points suggest that while the current wave of COVID-19 may be subsiding, there is still a risk of increased hospitalizations in the coming months, and that the province is taking steps to prepare for this possibility. This information can be used to inform forecasts of COVID-19 hospitalizations in Ontario, Canada.
+A new long-term care home was unveiled in Ajax, which is part of a $6.4 billion investment to build 30,000 net new long-term care beds by 2028.
+The COVID-19 Science Advisory Table released modelling suggesting the worst of the current Omicron wave has passed but warning of a jump in hospitalizations in the coming months (February and March).
+Hospitalizations are expected to rebound and continue at a prolonged peak due to eased restrictions contributing to an increased spread.
 
-Article 6 of 8
-Title: What you need to know about COVID-19 in Ottawa on Sunday, Jan. 30
+Article 6 of 7
+Title: If Omicron is a less severe version of coronavirus, why are so many people dying in Ontario?
 Publisher: CBC.ca
 Trusted: False
-Posted: 6 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Ottawa reported 68 COVID-19 deaths in January, the most in a month since vaccines were approved. 60% of Ottawa adults have received a third vaccine dose. The average level of coronavirus in Ottawa's wastewater is slowly falling from a record high earlier this month. There are 90 Ottawa residents in local hospitals for treatment of active COVID-19, with 15 in ICU. The number of hospitalizations has been rising for most of this month. The province plans to roll back COVID-19 restrictions in stages starting Monday, with most closed businesses reopening and private gathering limits increasing. Eastern Ontario has reported over 170 COVID-19 hospitalizations, with close to 30 needing intensive care. The article also mentions the ongoing protests against COVID-19 mandates in Ottawa, which may impact hospitalizations and public health measures. Key values for forecasting COVID-19 hospitalizations in Ontario, Canada: Number of COVID-19 deaths: 68 in January Vaccination rate: 60% of Ottawa adults with a third dose Wastewater monitoring: average level of coronavirus slowly falling Hospitalizations: 90 Ottawa residents in hospital, 15 in ICU ICU capacity: close to 30 patients needing intensive care in eastern Ontario These values can be used to inform forecasting models and predict future trends in COVID-19 hospitalizations in Ontario, Canada.
-
-Article 7 of 8
-Title: Ontario reports 58 more COVID-19 deaths as hospitalizations continue to drop
-Publisher: CTV News Toronto
-Trusted: False
 Posted: 7 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Here is a brief summary of the key values: Current hospitalizations: 3,439 ICU admissions: 597 Percentage of hospitalizations due to COVID-19: 55% Percentage of ICU admissions due to COVID-19: 82% Test positivity rate: 13.9% New cases: 4,855 (note: this number is considered an underestimate due to restricted testing) Breakdown of new cases by region: + Toronto: 774 + Peel Region: 663 + York Region: 294 + Durham Region: 186 + Ottawa: 288 Long-term care home cases: 240 residents, 84 staff members These values provide insight into the current state of COVID-19 hospitalizations in Ontario, including the number of hospitalizations, ICU admissions, and test positivity rate. The breakdown of new cases by region can also help inform forecasting models.
+High Omicron variant infections (approaching 5 weeks of peak cases)
+Rising daily death toll (52 average deaths per day in January)
+Concerns about vaccine effectiveness against severe outcomes and hospitalization
+Evidence that two doses of vaccines are 80-85% effective, three doses are 95% effective against Omicron-related hospitalizations or death
+Experts predict continued rise in deaths into February
+Potential for actual death toll to exceed numbers from first or second waves due to underreporting
 
-Article 8 of 8
+Article 7 of 7
 Title: How Canada can avoid past mistakes as COVID-19 restrictions lift
 Publisher: CBC News
 Trusted: False
 Posted: 7 days ago
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Key points relevant to forecasting COVID-19 hospitalizations in Ontario, Canada: Ontario is easing restrictions on indoor gatherings, gyms, bars, restaurants, and other venues, which could lead to an increase in cases and hospitalizations. The Omicron variant, particularly the BA.2 subvariant, is still present in Canada and has the potential to spread rapidly. Experts warn that reopening too quickly could lead to another surge in cases and hospitalizations, and that a cautious approach is necessary. Hospitalizations have just begun to show signs of peaking, but it's unclear if this trend will continue. The article mentions the importance of tracking leading indicators, such as wastewater surveillance, and lagging indicators, like hospitalizations, ICU admissions, and deaths, to inform reopening decisions. Experts emphasize the need for transparency and clear communication with the public about the benchmarks for reopening and the risks associated with it. The article notes that high population immunity from vaccinations and prior infections may help mitigate future waves, but it's unclear if this will be enough to prevent another surge. These points highlight the uncertainty and potential risks associated with reopening in Ontario, and the need for careful planning and monitoring to mitigate the impact on hospitalizations.
+Relevant.
+Key values for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Hospitalization rates
+Immunity levels from vaccinations and prior infections (especially community-level protection)
+Spread of Omicron subvariant BA.2
+Trends in wastewater surveillance and PCR testing data
+Seasonal fluctuations in disease transmission

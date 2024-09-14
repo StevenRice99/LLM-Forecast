@@ -1,7 +1,32 @@
-Below is a news article from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
+Below are 3 news articles from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
 
+Article 1 of 3
+Title: Proposal to ban sledding at all but 2 Oshawa parks draws criticism
+Publisher: CBC.ca
+Trusted: False
+Posted: 2 days ago
+The article highlights:
+Low rates of tobogganing-related hospitalizations (1.4% of all reported sport and winter hospitalizations) between 2020-2021
+Only 80 tobogganing hospitalizations recorded in Ontario during that period
+Similar low rates of tobogganing hospitalizations were observed between 2016-2017 (0.02% of all injuries)
+No evidence to suggest bans have a measurable impact on tobogganing injuries
+
+Article 2 of 3
+Title: Proposal to mostly ban tobogganing in Oshawa, Ont. parks draws criticism
+Publisher: Canadian Underwriter
+Trusted: False
+Posted: 2 days ago
+Relevant article for forecasting COVID-19 hospitalizations in Ontario, Canada.
+Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: 
+Average annual number of tobogganing-related hospitalizations recorded in Ontario (80 between 2020 and 2021)
+Percentage of all reported sport and winter hospitalizations due to tobogganing (1.4% in 2020-2021)
+
+Article 3 of 3
 Title: Doctor who's CNN and WaPo medical expert admits number of COVID deaths have been OVERCOUNTED
 Publisher: Daily Mail
 Trusted: False
 Posted: 6 days ago
-This article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. The article highlights the issue of overcounting COVID-19 deaths and hospitalizations, citing experts who claim that many patients diagnosed with COVID-19 are actually in the hospital for other illnesses. According to Dr. Leana Wen, the number of deaths attributed to COVID-19 may be greater than the number of people actually dying from the virus. Specifically, the article mentions that: 90% of patients diagnosed with COVID-19 at Emory Decatur Hospital are actually in the hospital for some other illness. Only about 30% of total hospitalizations with COVID-19 in Massachusetts hospitals were primarily attributed to the virus. On some days, the proportion of those hospitalized because of COVID-19 was as low as 10% of the total number reported. These values are important for forecasting COVID-19 hospitalizations in Ontario, Canada, as they suggest that the actual number of hospitalizations due to COVID-19 may be lower than reported. This information can help inform models and predictions of COVID-19 hospitalizations, taking into account the potential for overcounting. However, it's worth noting that the article is focused on the United States, and the specific data and statistics mentioned may not be directly applicable to Ontario, Canada. Nonetheless, the article raises important questions about the accuracy of COVID-19 reporting and the need for nuanced understanding of the data.
+Key points:
+90% of patients diagnosed with COVID-19 at Emory Decatur Hospital were actually in the hospital for some other illness.
+Only about 30% of total hospitalizations with COVID-19 were primarily attributed to the virus in Massachusetts hospitals.
+There is a gray zone in the data where COVID might not be the primary cause of death but could have contributed to it.
