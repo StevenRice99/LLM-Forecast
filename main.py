@@ -285,7 +285,8 @@ def test(path: str, start: int = 1, memory: int = 1, lead: int = 1, forecast: in
          max_results: int = 100, language: str = "en", country: str = "CA", location: str or None = "Ontario, Canada",
          days: int = 7, exclude_websites: list or None = None, trusted: list or None = None,
          model: bool = False, forecasting: str = "COVID-19 hospitalizations", units: str = "weeks",
-         previous: list or None = None, output: str or None = None, max_order: int = 0) -> None:
+         previous: list or None = None, output: str or None = None, max_order: int = 0,
+         naming: str or None = None) -> None:
     """
     Test a forecasting model given a CSV file.
     :param path: The path to the file.
@@ -314,6 +315,7 @@ def test(path: str, start: int = 1, memory: int = 1, lead: int = 1, forecast: in
     :param previous: Previous values to help predict.
     :param output: Sub folder for results to output to.
     :param max_order: How much at most can be ordered.
+    :param naming: An additional name that can be appended to the file.
     :return: Nothing.
     """
     # Nothing to do if the dataset cannot be loaded.
@@ -397,6 +399,8 @@ def test(path: str, start: int = 1, memory: int = 1, lead: int = 1, forecast: in
         name += "False"
     else:
         name += "True"
+    if naming is not None:
+        name += naming
     # Get the directories to save in.
     if not os.path.exists("Results"):
         os.mkdir("Results")
@@ -597,7 +601,8 @@ def auto(path: str or list, start: int or list = 1, memory: int or list = 1, lea
          language: str = "en", country: str = "CA", location: str or None = "Ontario, Canada",
          days: int = 7, exclude_websites: list or None = None, trusted: list or None = None,
          model: list or bool = False, forecasting: str = "COVID-19 hospitalizations", units: str = "weeks",
-         previous: list or None = None, output: str or None = None, max_order: int = 0) -> None:
+         previous: list or None = None, output: str or None = None, max_order: int = 0,
+         naming: str or None = None) -> None:
     """
     Automatically test multiple options.
     :param path: The path to the file.
@@ -626,6 +631,7 @@ def auto(path: str or list, start: int or list = 1, memory: int or list = 1, lea
     :param previous: Previous values to help predict.
     :param output: Sub folder for results to output to.
     :param max_order: How much at most can be ordered.
+    :param naming: An additional name that can be appended to the file.
     :return: Nothing.
     """
     # Ensure values are all converted to lists.
@@ -669,4 +675,4 @@ def auto(path: str or list, start: int or list = 1, memory: int or list = 1, lea
                                                     test(p, s, m, le, f, b, c, po, t, a, sv, verbose, keywords,
                                                          max_results, language, country, location, days,
                                                          exclude_websites, trusted, mo, forecasting,
-                                                         units, previous, output, max_order)
+                                                         units, previous, output, max_order, naming)
