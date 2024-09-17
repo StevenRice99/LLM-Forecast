@@ -22,7 +22,7 @@ def llm_test(lead: int = 0, power: int = 0, top: int = 1, memory: int = 1, times
 
 if __name__ == '__main__':
     # How many times to run the trials.
-    trials = 5
+    trials = 10
     # Assign parameters for the various lead times as found in the initial tests.
     llm_test(1, 5, 1, 15, trials)
     llm_test(2, 5, 1, 10, trials)

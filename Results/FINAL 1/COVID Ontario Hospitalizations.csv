@@ -1,6 +1,11 @@
 Start,Memory,Lead,Forecast,Buffer,Capacity,Top,Power,ARIMA,SVR,MODEL,Succeeded,Failed,Lost,Arrived,Remaining,Time
+1,15,1,0,100,None,1,5,None,None,True-8,67812,8804,0,68811,999,5:05
 1,15,1,0,100,None,1,5,None,None,True-4,67738,8878,0,68677,939,4:38
 1,15,1,0,100,None,1,5,None,None,True-2,67589,9027,0,68351,762,4:52
 1,15,1,0,100,None,1,5,None,None,True-3,67533,9083,0,68290,757,4:52
 1,15,1,0,100,None,1,5,None,None,True-5,67278,9338,0,67866,588,5:04
 1,15,1,0,100,None,1,5,None,None,True-1,67194,9422,0,68090,896,4:24
+1,15,1,0,100,None,1,5,None,None,True-6,67034,9582,0,67850,816,4:36
+1,15,1,0,100,None,1,5,None,None,True-7,66527,10089,0,67319,792,4:26
+1,15,1,0,100,None,1,5,None,None,True-10,66147,10469,0,66764,617,4:52
+1,15,1,0,100,None,1,5,None,None,True-9,65980,10636,0,66879,899,4:30

@@ -12,4 +12,4 @@ if __name__ == '__main__':
     for lead in [1, 2, 3, 4]:
         auto("Data/COVID Ontario.csv", start, memory, lead, lead - 1, buffer, capacity, powers, top,
              output=f"INITIAL {lead}")
-        evaluate(f"Results/INITIAL {lead}", ["Available", "Needed", "Arrived"], True, chart_x, chart_y, False)
+        evaluate(f"Results/INITIAL {lead}", ["Available", "Needed"], True, chart_x, chart_y, False)
