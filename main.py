@@ -527,8 +527,8 @@ def baseline(dataset: pandas.DataFrame) -> pandas.DataFrame:
                 # If this period cannot be forecast as it extends beyond the data, then list it as -1.
                 s += ",-1"
                 continue
-            pred = 0 if math.isnan(predictions[index]) else predictions[index]
-            forecast += pred
+            # The prediction should not be lower than the previous instance.
+            forecast += max(0 if math.isnan(predictions[index]) else predictions[index], history[-1])
             s += f",{int(forecast)}"
     # Write to a CSV file.
     if not os.path.exists("Results"):
@@ -586,12 +586,6 @@ def metrics(title: str, dataset_results: pandas.DataFrame, dataset_actual: panda
     :param dataset_actual: The actual values for hospitalizations.
     :return: Nothing.
     """
-    # The paths to the three types of metrics we want.
-    path_diff = os.path.join("Results", f"{title} Difference.csv")
-    path_failures = os.path.join("Results", f"{title} Failures.csv")
-    # If all metrics exist, then no need to run this again and simply return.
-    if os.path.exists(path_diff) and os.path.exists(path_failures):
-        return
     # The results may not extend as far as the actual data, so ensure we only go as far as needed.
     columns = len(dataset_results.columns.tolist()) - 1
     # Start off the difference and failures.
@@ -615,10 +609,10 @@ def metrics(title: str, dataset_results: pandas.DataFrame, dataset_actual: panda
             diff += f",{pred - real}"
             failures += f",{0 if pred >= real else real - pred}"
     # Save the data for the differences and failures.
-    f = open(path_diff, "w")
+    f = open(os.path.join("Results", f"{title} Difference.csv"), "w")
     f.write(diff)
     f.close()
-    f = open(path_failures, "w")
+    f = open(os.path.join("Results", f"{title} Failures.csv"), "w")
     f.write(failures)
     f.close()
 
