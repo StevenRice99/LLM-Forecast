@@ -1,0 +1,78 @@
+Below are 7 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 7
+Title: COVID-19 on P.E.I.: What's happening the week of May 15
+Publisher: CBC.ca
+Posted: Today
+5 people died from COVID-19 in New Brunswick in the past week (not directly relevant but shows regional trends)
+Nova Scotia's largest children's hospital is stretched to its limits due to COVID-19 cases
+Health P.E.I. declared a COVID-19 outbreak on the Western Hospital inpatient unit in Alberton
+6 people died from COVID-19 on P.E.I. last week (not directly relevant but shows regional trends)
+People aged 60 and older are now eligible for a second COVID-19 booster vaccine, four months after receiving their first
+Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: None directly mentioned. However, the article does not provide any specific data or information that would be useful for forecasting COVID-19 hospitalizations in Ontario, Canada.
+
+Article 2 of 7
+Title: Officials confirm 10 cases of severe, unexplained hepatitis among Canadian children
+Publisher: CBC News
+Posted: 1 day ago
+Four cases of severe acute hepatitis were reported in Ontario among children aged 1-13 years old.
+All four children were hospitalized, with two needing liver transplants.
+The investigation is ongoing to identify the cause of these cases.
+
+Article 3 of 7
+Title: Globe editorial: Another wave of COVID-19 is coming. Why isn’t Canada preparing to beat it?
+Publisher: The Globe and Mail
+Posted: 2 days ago
+Key points:
+Another wave of COVID-19 is "almost baked in" this fall, according to Dr. Peter Juni.
+The Public Health Agency of Canada has also warned of a potential resurgence of the disease.
+Vaccination helps limit the impact of COVID-19 by reducing hospitalization and death rates.
+2.5 million Canadian adults have never had a single dose of vaccine, including 225,000 in their 60s.
+Low vaccination rates increase the risk of hospitalizations and deaths from COVID-19.
+
+Article 4 of 7
+Title: Flu cases up in Canada. What to know, and how symptoms compare to COVID-19
+Publisher: CityNews Toronto
+Posted: 4 days ago
+Relevant.
+In Ontario, Canada: 1,345 people are hospitalized with COVID-19 (up from 1,122).
+The province reports 11 new deaths linked to COVID-19.
+Health Canada notes that influenza-associated hospitalizations have increased in the pediatric population and exceeded pre-pandemic levels.
+The percentage of Canadians reporting "influenza-like illness" has exceeded typical pre-pandemic levels.
+
+Article 5 of 7
+Title: Interim statement on the use of additional booster doses of Emergency Use Listed mRNA vaccines against COVID-19
+Publisher: World Health Organization (WHO)
+Posted: 4 days ago
+The text discusses the effectiveness of additional booster doses of mRNA vaccine against severe COVID-19, particularly for high-risk groups such as adults over 60 years old or those with immunocompromising conditions. The studies cited suggest that an additional booster dose may provide some short-term benefit in these populations, but the data are limited and do not support its use in healthy younger populations.
+The key points from the text are:
+1. Short-term benefit: Studies show a short-term benefit of an additional booster dose in high-risk groups, such as adults over 60 years old or those with immunocompromising conditions.
+2. Limited data: Data to support an additional dose for healthy younger populations are limited, and preliminary data suggest minimal benefit.
+3. Programmatic challenges: Administering an additional booster dose comes with considerable programmatic challenges in terms of vaccine delivery and financial costs.
+4. Uncertainty about future variants: The emergence of new variants or sub-lineages raises uncertainty about the effectiveness of current vaccines against severe disease.
+5. Need for updated vaccines: There is a need to develop pan-SARS-CoV-2 or pan-sarbecovirus vaccines, which may require updating the composition of current COVID-19 vaccines.
+6. Importance of seasonality: Seasonality should be taken into account when planning catch-up campaigns and boosting for those at highest risk.
+7. Need for more research: More research is needed on the performance of current and variant-specific candidate COVID-19 vaccines, including VE, immunogenicity, and safety.
+The text concludes that while there may be some short-term benefit to an additional booster dose in high-risk groups, the data are limited, and programmatic challenges must be carefully weighed against the incremental benefit. The WHO position will be updated as more evidence becomes available.
+
+Article 6 of 7
+Title: 5 more deaths, Horizon sees 39% jump in hospitalized COVID-19 patients, Vitalité sees 20% drop
+Publisher: CBC.ca
+Posted: 4 days ago
+Key values:
+Number of active cases: Not directly reported, but can be inferred to be lower than New Brunswick's 1,593.
+Hospitalization rates: Not explicitly stated, but can be estimated based on the number of outbreaks and occupied beds.
+Vaccination rates: Can inform future hospitalization trends, with 52.2% of eligible New Brunswickers having received their booster dose.
+Outbreaks in hospitals: Reported for New Brunswick, but not directly applicable to Ontario. However, they can provide insight into potential hospital capacity issues.
+Health-care worker absences due to COVID-19: Not directly relevant to forecasting hospitalizations in Ontario, as the data is specific to New Brunswick.
+These values can be used as a rough estimate or as a starting point for further analysis and modeling to forecast COVID-19 hospitalization trends in Ontario.
+
+Article 7 of 7
+Title: Study: Readmission rate for COVID-19 is 11%
+Publisher: University of Minnesota Twin Cities
+Posted: 5 days ago
+5.5% of adults had a positive COVID-19 test during their hospital admission.
+Median length of hospital stay was 8 days.
+10.5% of patients with typical hospital stays (30 days or less) were readmitted or died within 30 days after discharge.
+Patients who were readmitted or died were more likely to be older, male, discharged to a long-term care facility, and have a medical history of multiple hospitalizations.
+95% of COVID-19 patients in Ontario were unvaccinated.

@@ -1,0 +1,64 @@
+Below are 6 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 6
+Title: It's a challenging road to recovery for Londoners suffering long COVID
+Publisher: CBC.ca
+Posted: 1 day ago
+Key values:
+1.4 million Canadians living with long COVID
+15% of people who've contracted COVID-19 experienced lingering symptoms three months or more after their initial infection
+47% had symptoms for one year or longer
+Long COVID clinics are at risk of closure due to lack of funding in Ontario
+
+Article 2 of 6
+Title: Adherence to antipsychotic laboratory monitoring guidelines in children and youth: a population-based study
+Publisher: Frontiers
+Posted: 2 days ago
+The provided text appears to be a list of references related to the topic of pediatric psychiatry, specifically focusing on antipsychotic medication use in children and adolescents. The references are from various journals and publications, including Pediatrics, Journal of Child and Adolescent Psychopharmacology, Health Affairs, and more.
+Some of the key points that can be inferred from these references include:
+1. The importance of metabolic risk screening among children and adolescents on antipsychotic medication (Reference 39).
+2. The burden on families with children who have mental health disorders or intellectual disabilities (References 41 and 42).
+3. The need for interventions to improve venipuncture compliance in children and adolescents, particularly those with autism spectrum disorder (References 44-46).
+4. The development of guidelines and resources for parents and healthcare providers to support children with autism spectrum disorder during medical procedures like blood draws (Reference 47).
+5. The importance of monitoring side effects and improving prescribing practices for psychoactive medications in children (References 52, 55, and 58).
+Overall, these references highlight the complexities and challenges associated with pediatric psychiatry, particularly when it comes to antipsychotic medication use and related medical procedures.
+
+Article 3 of 6
+Title: N.L. staying the course for COVID-19 monitoring as WHO ends global emergency status
+Publisher: CBC.ca
+Posted: 2 days ago
+No change in COVID-19 advice for residents in Newfoundland and Labrador
+Vaccination still recommended for everyone, especially those over 65 or immunocompromised
+Protective measures include hand washing, staying home if sick, and wearing a mask in public spaces after recent diagnosis
+Risk assessment should be performed to determine if masking is necessary in public settings
+
+Article 4 of 6
+Title: COVID-19 'not going away' but something 'we're going to manage:' Dr. Hsiu-Li Wang
+Publisher: CBC.ca
+Posted: 3 days ago
+As of last Friday, there were no patients in the intensive care unit at local hospitals.
+7 active outbreaks: 6 in long-term care and retirement homes, 1 in a congregate setting.
+Only 10% of Waterloo region's population are considered up-to-date on their COVID-19 vaccines (23.9% across Ontario).
+High-risk individuals (aged 65+, severe medical conditions, or pregnant) should get a spring booster.
+
+Article 5 of 6
+Title: Study of Hospitalizations Shows COVID-19 Vaccine Benefit
+Publisher: Medscape
+Posted: 5 days ago
+The study analyzed 1.513 million hospital admissions across Canada from March 2020 to May 2022.
+Unvaccinated patients were up to 15 times more likely to die from COVID-19 than fully vaccinated patients.
+During waves five and six (December 26, 2021, to May 28, 2022), unvaccinated patients were 4.3 times more likely to end up in the ICU than fully vaccinated patients.
+The proportion of adults admitted to the ICU was significantly lower during waves five and six, at 8.7% vs 21.8%.
+The study used data from the Canadian Nosocomial Infection Surveillance Program (CNISP), which collects hospital data across Canada.
+Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Vaccination status
+Wave number (e.g., waves five and six had lower ICU admission rates)
+Time period (e.g., December 26, 2021, to May 28, 2022)
+
+Article 6 of 6
+Title: May 6, 2023 coronavirus update for Oakville
+Publisher: Oakville News
+Posted: 7 days ago
+In Oakville and Halton, new cases and hospitalizations have risen this week (13 new cases, 4 hospitalized in Oakville; 43 new cases, 8 hospitalized in Halton).
+Hospitalization numbers are important for forecasting: 4 people were hospitalized in Oakville, and 8 people were hospitalized in Halton.
+Provincial data shows 812 people are currently in hospital with COVID-19 in Ontario (as of April 15, 2023), and 80 people are in ICU.

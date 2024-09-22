@@ -1,0 +1,85 @@
+Below are 6 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 6
+Title: Coronavirus tracker: How many COVID-19 cases are there in Canada and worldwide? The latest maps and charts
+Publisher: The Globe and Mail
+Posted: 3 days ago
+Current total hospitalized cases in Ontario: XX,XXX (active COVID-19 inpatients)
+ICU patients with COVID-related illness in Ontario: XX,XXX (includes both active and non-active patients)
+Hospitalization numbers include active COVID-19 inpatients, whereas ICU numbers include both active and non-active patients
+Note on discrepancy between hospitalizations and ICU numbers due to different inclusion criteria.
+
+Article 2 of 6
+Title: Homeless vulnerable to COVID-19 need help from governments: advocates
+Publisher: CTV News
+Posted: 4 days ago
+Key values:
+Vulnerable populations (homeless) are at higher risk of severe illness due to underlying health conditions and difficulty with social distancing.
+Shelters and warming centers can be high-risk areas for transmission if not properly managed.
+Availability of hand-washing stations, clean bathrooms, and personal protective equipment (PPE) for front-line workers is crucial in preventing the spread of COVID-19.
+
+Article 3 of 6
+Title: These stores are reserving shopping hours for seniors
+Publisher: CTV News
+Posted: 4 days ago
+Summary: The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Key values include:
+Age (elderly) as a risk factor
+Presence of underlying medical conditions as a risk factor
+Early opening hours for seniors and those with special needs at grocery stores to reduce crowding and close contact
+Encouragement of home delivery services for vulnerable populations
+
+Article 4 of 6
+Title: COVID-19 in Canada: What's closed due to coronavirus concerns
+Publisher: CTV News
+Posted: 5 days ago
+Here's a summary of the article:
+Canada's Retail Scene in Response to COVID-19 
+As Canada responds to the COVID-19 pandemic, many retailers have announced store closures or modified operations. Some notable examples include:
+Museums and galleries: Many museums and art galleries have closed until further notice.
+IKEA: All stores are closed until further notice.
+Costco: Stores remain open but will limit the number of customers allowed in at one time.
+Hudson's Bay: All stores are closing for two weeks, with employees paid during this time.
+Indigo: All stores are closing until March 27.
+Nordstrom: All stores are closing for two weeks, with employees paid during this time.
+Holt Renfrew: Stores are closing "until further notice."
+H&M: All retail locations in Canada and the US are closing until April 2.
+Uniqlo: Stores are closing until March 30.
+Aritzia Inc.: Stores are closing until further notice.
+Nike: Stores are closing until March 27.
+Apple: Stores outside of China are closed until March 27.
+Kiehls and Sephora: Stores have temporarily closed all locations.
+Toys "R" Us: All stores in Canada are closing until March 30.
+Claire's Stores Inc.: Stores are closing until at least March 27.
+Le Chateau: Stores are closing immediately until March 29.
+Value Village: Stores across North America are closing until April 6.
+Structube: Stores are closing until March 28.
+Exceptions 
+Some retailers have chosen to remain open, including:
+Best Buy
+Staples Canada
+Canada Computers & Electronics (with reduced hours and social distancing measures)
+The Source (although corporately-owned locations will remain closed)
+Banks 
+CIBC has modified its branch operations, with some branches closing while others remain open. RBC Royal Bank is also taking steps to help employees work from home.
+Note: This summary only includes the specific retailers mentioned in the article and may not be an exhaustive list of all Canadian retailers responding to COVID-19.
+
+Article 5 of 6
+Title: Ontario implements virtual medical visits in bid to keep doctors, patients safe amid COVID-19
+Publisher: CTV News
+Posted: 7 days ago
+Key values:
+Increased use of telemedicine to reduce in-person doctor visits
+Potential reduction in ER visits and hospital admissions due to virtual assessments
+Ontario's lead on implementing telemedicine may influence other provinces' policies
+Virtual care can help minimize the spread of COVID-19 among healthcare workers
+
+Article 6 of 6
+Title: Canada's prisons preparing for COVID-19, want public to limit visits
+Publisher: CTV News
+Posted: 7 days ago
+Key values:
+No confirmed cases of COVID-19 in CSC institutions in Ontario
+Provincial government barred personal visits to inmates in adult provincial jails, allowing only professional visits
+Concerns for the health of the highly vulnerable prisoner population due to poor ventilation, little time outside, and lack of hygiene products
+Prisons and jails are considered "petri dishes" where disease spreads quickly
+No information on hospitalization rates or specific data relevant for forecasting COVID-19 hospitalizations in Ontario, Canada.

@@ -1,0 +1,71 @@
+Below are 5 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 5
+Title: Does the incidence of reported myocarditis or pericarditis after BNT162b2 vaccination vary by age, sex, and inter-dose interval among adolescents aged 12 to 17?
+Publisher: News-Medical.Net
+Posted: 1 day ago
+The study population was 12 to 17-year-old adolescents in Ontario, Canada.
+The incidence of myocarditis or pericarditis post-BNT162b2 vaccination was rare (<0.01%).
+The risk was slightly higher in the 16 to 17-year age group than the 12 to 15-year age group.
+Most cases were mild and resolved quickly with NSAIDs, but long-term consequences are unknown.
+The study suggests that a longer interval between vaccine doses may decrease the risk of myocarditis or pericarditis among 16 to 17-year-olds.
+
+Article 2 of 5
+Title: COVID-19 Vaccination in Patients With Cancer and Recipients of Cellular Therapy
+Publisher: Cancer Network
+Posted: 2 days ago
+The article discusses the challenges of protecting patients with cancer from COVID-19, particularly those undergoing active therapy or cellular therapy. The authors highlight the importance of considering the timing of vaccination in relation to cancer treatment and the potential for suboptimal serologic responses to COVID-19 vaccines.
+Key points from the article include:
+1. Increased risk: Patients with cancer are at increased risk for COVID-19-related complications, including severe disease and death.
+2. Suboptimal responses: Some patients with cancer may not respond optimally to COVID-19 vaccines, which can be due to various factors such as immunosuppression or the timing of vaccination in relation to cancer treatment.
+3. Bivalent mRNA vaccines: The authors discuss the use of bivalent mRNA vaccines, which are designed to protect against multiple variants of SARS-CoV-2. However, little is known about their effectiveness in patients with cancer.
+4. Monoclonal antibodies: Monoclonal antibodies such as tixagevimab-cilgavimab (Evusheld) can provide passive immunity and are approved for pre-exposure prophylaxis. However, there is some doubt regarding their future use due to the emergence of new Omicron subvariants.
+5. Stimulating the immune system: Stimulating the immune system through live vaccines or immunotherapeutic drugs such as IMM-101 may provide additional protection against COVID-19 in patients with cancer.
+The authors conclude that various strategies are available to protect patients with cancer from severe COVID-19 disease, including multiple boosters, optimal timing of vaccination, and repeating the original vaccine series after transplantation. However, more research is needed to determine the most effective approaches for this vulnerable population.
+Overall, the article highlights the complexities of protecting patients with cancer from COVID-19 and emphasizes the need for continued research and innovation in this area.
+
+Article 3 of 5
+Title: N.B. records 9 more COVID-19 deaths, highest positivity rate since at least Aug. 28
+Publisher: CBC.ca
+Posted: 4 days ago
+Here's a summary of the COVID-19 situation in New Brunswick as reported on March 28, 2022:
+New Cases and Testing 
+363 new cases of COVID-19 were confirmed through PCR testing.
+The actual number of cases is likely much higher due to restricted PCR testing.
+Test positivity rate: not available (rapid test results are no longer included in the weekly report).
+Rapid Tests 
+152 people self-reported testing positive on a rapid test, down from 175 last week.
+Virus Variants 
+28% of sequenced cases were XBB (an offshoot of Omicron BA.2).
+50 of these cases were XBB.1.5.
+Other variants: 68% BA.5 and 4% BA.2.
+Hospitalizations 
+Horizon Health Network has 44 active COVID-19 hospital patients, down from 55 last week.
+Vitalité Health Network has 11 hospitalized COVID-19 patients, down from 21 last week.
+Vaccinations 
+554 COVID-19 vaccine doses were administered in the past week.
+Second booster dose: 30.2% of eligible New Brunswickers have received it (up from 30.1% last week).
+Other vaccination rates remain unchanged:
++ First dose: 91%
++ Second dose: 85.8%
++ First booster: 54.7%
+Healthcare Workers 
+The number of healthcare workers off the job after testing positive for COVID-19 has increased to 92, up from 56 last week.
+Horizon Health Network saw a 122% jump in infected employees (60 vs 27 last week).
+
+Article 4 of 5
+Title: About 1 in 49 New Brunswickers infected with COVID-19, says researcher
+Publisher: CBC.ca
+Posted: 5 days ago
+New Brunswick's hospitalizations and deaths are 9-11 times higher than the lowest point in the pandemic.
+The province is experiencing a severe level of COVID-19 activity, with a hazard index score of 9.2.
+The Omicron subvariant XBB.1.5 is considered highly transmissible and can infect vaccinated individuals and those who have previously been infected.
+Tara Moriarty notes that hospitalizations are often a lagging indicator of COVID-19 activity, suggesting that Ontario may experience similar trends in the coming weeks.
+
+Article 5 of 5
+Title: Canadian teens still struggling with mental health even as pandemic wanes
+Publisher: CBC News
+Posted: 6 days ago
+Pediatric centres have seen increases in hospitalizations and emergency room visits for mental health conditions such as eating disorders, anxiety, and suicide attempts since the pandemic began.
+20% of young people (12-25 years old) reported poor or bad mental health in a survey conducted by Melissa Généreux in January.
+The Canadian healthcare system was already struggling to meet the mental health needs of young people before the pandemic, and they continue to rise.

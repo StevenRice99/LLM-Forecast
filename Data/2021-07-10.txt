@@ -1,0 +1,65 @@
+Below are 7 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 7
+Title: 2 of Ontario's 4 long-term care outbreaks are in Waterloo region
+Publisher: CBC.ca
+Posted: 1 day ago
+The delta variant is the dominant strain circulating in Waterloo region, contributing to outbreaks in long-term care and retirement homes.
+Staff cases in active outbreaks are: 50% unvaccinated, 14% partially vaccinated, and 36% fully vaccinated.
+Resident cases are: 30% unvaccinated, and 70% fully vaccinated.
+Vaccination rates among staff at the Village of Winston Park are high (93% first dose, 90.4% second dose).
+
+Article 2 of 7
+Title: Why the delta variant means some Canadians now more 'at risk' from COVID-19 than ever before
+Publisher: CBC.ca
+Posted: 3 days ago
+The delta variant is spreading rapidly and targeting unvaccinated individuals (key factor: vaccination status).
+A recent Canadian study on vaccine effectiveness found that leading vaccines offer high protection levels against severe illness, including hospitalization or death.
+In Ontario, the Pfizer-BioNTech, AstraZeneca-Oxford, and Moderna vaccines all worked best after two doses.
+The article highlights the importance of ensuring vaccines reach every Canadian who wants a shot to prevent delta-driven outbreaks and their potential ripple effect on fully vaccinated residents.
+
+Article 3 of 7
+Title: Real-world evidence for effectiveness of vaccination against 4 SARS-CoV-2 VOCs in Canada
+Publisher: News-Medical.Net
+Posted: 3 days ago
+Key values:
+Vaccine effectiveness against symptomatic infection and severe outcomes caused by all four VOCs (Alpha, Beta, Gamma, Delta) after partial vaccination with BNT162b2 and mRNA-1273 vaccines: 55% and 70%, respectively.
+Full vaccination with mRNA vaccines significantly improves vaccine effectiveness against all variants.
+Partial vaccination substantially increases effectiveness against hospitalization or death than symptomatic infection caused by all VOCs.
+Full vaccination further increased effectiveness against severe clinical outcomes.
+
+Article 4 of 7
+Title: Opioid deaths in Canada increased by 592% over 17-year period, University of Waterloo study indicates
+Publisher: CBC.ca
+Posted: 3 days ago
+The study found that hospitalizations rose "significantly" between 2000 and 2012, from 159.7 opioid hospitalizations per million people to 325.3.
+This information can be used as a reference point to understand the trend of hospitalization rates over time.
+However, it does not provide direct relevance or values for forecasting COVID-19 hospitalizations in Ontario, Canada.
+Note: The article primarily discusses the opioid epidemic and its impact on hospitalizations, which is unrelated to COVID-19.
+
+Article 5 of 7
+Title: Hamilton, Toronto closing field hospitals amid dropping COVID-19 hospitalizations
+Publisher: Global News
+Posted: 5 days ago
+Declining hospitalization rates amid the pandemic
+Two field hospitals (Hamilton and Toronto) shutting down due to low demand
+Hamilton's mobile health unit had a peak of 30 patients/week being transferred from other regions in late April
+Sunnybrook's unit treated 32 "lower risk" patients over 4 months, with most being discharged or moved to rehabilitation.
+
+Article 6 of 7
+Title: Hamilton Health Sciences takes down field hospital that didn't see a single COVID-19 patient
+Publisher: CBC.ca
+Posted: 5 days ago
+The Hamilton Health Sciences (HHS) field hospital was built to alleviate pressures on intensive-care units during the third wave of the pandemic.
+The hospital never served a single patient due to declining COVID-19 cases by the time it opened.
+The article does not provide specific data on COVID-19 hospitalizations in Ontario, but mentions the field hospital's purpose and its eventual decommissioning.
+
+Article 7 of 7
+Title: Will we ever lock down again? Experts say it’s ‘unlikely,’ as pandemic finish line draws near - National
+Publisher: Global News
+Posted: 6 days ago
+The article discusses the current state of COVID-19 in Canada, particularly in Ontario, where nearly 900 people are currently in intensive care units (ICUs). Experts warn that this small ICU capacity could become a problem as flu season approaches and hospitals face increased pressure.
+Dr. Kieran Moore, the Chief Medical Officer of Health for Ontario, notes that while vaccines have been effective in reducing hospitalizations and deaths, there are still some Canadians who cannot or will not get vaccinated. This includes children under 12, who do not yet have an approved vaccine available to them, and adults who choose not to get vaccinated.
+Experts agree that a full return to normal is possible, but it will require a mindset shift as Canadians adjust to living with COVID-19. Dr. Zain Chakrabarti notes that vaccines have "defanged" the virus, making it less deadly for most people. He suggests that Canada should focus on addressing outbreaks among unvaccinated individuals rather than trying to stop every case of COVID-19.
+Dr. Bogoch agrees that a full return to normal will happen and predicts that Canadians will soon be able to gather in large groups without fear of lockdowns. He notes that the vaccinated population will still get ill, but it will be much less severe compared to the unvaccinated.
+Overall, the article suggests that while there are still some unknowns and challenges ahead, a full return to normal is possible as Canadians learn to live with COVID-19.

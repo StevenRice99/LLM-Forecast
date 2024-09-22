@@ -1,0 +1,50 @@
+Below are 2 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 2
+Title: Opioid use in the era of COVID-19: a multifaceted study of the opioid epidemic in Canada
+Publisher: Frontiers
+Posted: 3 days ago
+The provided text appears to be a collection of references related to the COVID-19 pandemic and its impact on opioid use disorder (OUD) in Canada, particularly in Ontario. The references are from various sources, including academic journals, government reports, and news articles.
+Some of the key points that can be inferred from these references include:
+1. Increased emergency department visits for OUD: A study published in Annals of Emergency Medicine found an increase in emergency department visits related to opiate use disorder during the COVID-19 pandemic.
+2. Methadone access challenges: Researchers reported difficulties in accessing methadone, a medication used to treat OUD, during the pandemic within the United States and Canada.
+3. Impact on take-home doses of opioid agonist therapy: A population-based time-series analysis found that the COVID-19 pandemic led to a decline in the provision of take-home doses of opioid agonist therapy in Ontario, Canada.
+4. Perceived decline in drug quality: A study among people who use drugs in Vancouver, Canada, reported a perceived decline in the quality of drugs during the pandemic.
+5. Government responses: The text mentions government reports and news articles related to the COVID-19 pandemic and its impact on OUD, including Ontario's Roadmap to Reopen and guiding principles for reopening the province.
+These references suggest that the COVID-19 pandemic had a significant impact on individuals with opioid use disorder in Canada, particularly in Ontario. The challenges faced by people with OUD during this time included difficulties accessing essential medications, perceived declines in drug quality, and disruptions to treatment services.
+
+Article 2 of 2
+Title: Long-term exposure to air pollution and severe COVID-19 in Catalonia: a population-based cohort study
+Publisher: Nature.com
+Posted: 3 days ago
+This text appears to be a detailed description of a statistical analysis plan for a study examining the relationship between air pollution and hospital length of stay (LOS) among individuals hospitalized with COVID-19. Here's a breakdown of the key points:
+Study Design 
+The study uses negative binomial regression models to estimate the association between 2019 annual average air pollution and hospital LOS.
+The analysis is based on a cohort of individuals who were hospitalized.
+Modeling Approach 
+The authors fitted four sequential adjustment models (Models 1-4) to account for potential confounding variables:
++ Model 1: Adjusted for age and sex
++ Model 2: Added tobacco smoking status, individual income, and health risk group
++ Model 3: Added area-level covariates (socioeconomic index, proportion of non-Spanish nationals, distance to primary care unit, urbanicity, and average weekly test-positive proportion)
++ Model 4 (main model): Added health region
+Sensitivity Analyses 
+The authors performed six sensitivity analyses:
+1. Included potential mediators (diabetes, COPD, obesity, dyslipidemia, hypertension, and other cardiovascular disorders) to Model 4
+2. Included other socioeconomic indexes (inequity index, Gini, and deprivation index) to Model 4
+3. Used multiple imputations with chained equations to impute tobacco smoking status and body mass index in Model 5
+4. Restricted outcomes to laboratory-confirmed COVID-19 in Model 8
+5. Included COVID-19 diagnoses at nursing homes in Model 9
+6. Analyzed the subpopulation that did not move ABS between 2015 and 2020 in Model 10
+Additional Analyses 
+The authors conducted several additional analyses, including:
++ Censoring the cohort on December 1, 2020
++ Adding distance to the nearest hospital
++ Adjusting smoking status using a missing indicator
++ Running the analysis on the cohort with COVID-19 diagnosis at primary care
++ Considering hospitalizations with COVID-19 as the main cause of admission instead of all-cause admissions
+Complementary Analyses 
+The authors explored potential effect modification by the first and second COVID-19 waves in Catalonia.
+They fit a time-stratified Cox proportional hazards model defining strata by Wave 1 (March 1 to June 20, 2020) and Wave 2 (June 21, 2020, to December 31, 2020).
+They also explored the definition of COVID-19-related hospitalization.
+Non-linear Exposure-response Functions 
+The authors fit Model 4 of the main analysis but allowing for nonlinearity using penalized splines with three degrees of freedom.

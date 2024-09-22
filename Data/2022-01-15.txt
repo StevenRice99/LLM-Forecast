@@ -1,0 +1,97 @@
+Below are 9 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 9
+Title: Ontario reports 43 more COVID-19 deaths, almost 4,000 hospitalizations
+Publisher: CityNews Toronto
+Posted: Today
+3,957 people are hospitalized with COVID-19 (34% increase over 7 days)
+588 patients are in ICU due to COVID-19 (31 increase from previous day)
+52% of hospitalized patients were admitted due to COVID-19
+78% of ICU patients were due to COVID-19
+
+Article 2 of 9
+Title: Hospitalizations expected to surge in Canada, PHAC modelling says, while COVID-19 cases appear to be peaking
+Publisher: The Globe and Mail
+Posted: 1 day ago
+Key values:
+Case counts are stabilizing in most populous provinces, including Ontario.
+Hospital admissions will still rise despite stabilization of case counts.
+Modelling suggests daily case counts could peak at between 100,000 and 250,000 a day across the country.
+Peak hospital admissions may be nearing in Ontario, with some hope of relief to the healthcare system.
+
+Article 3 of 9
+Title: Canada is flying blind with Omicron as COVID-19 testing drops off a cliff
+Publisher: CBC News
+Posted: 3 days ago
+Key values:
+Hospital admissions: A crucial metric to understand Omicron's impact on the health-care system and severity of illness.
+Test positivity rate: The percentage of tests that come back with a positive result, which can indicate the burden of COVID-19 across Canada.
+Wastewater surveillance: Can help specific regions understand when the risk of exposure is high and provide trends in virus presence.
+
+Article 4 of 9
+Title: Inside an ICU where 70 per cent of COVID-19 patients are unvaccinated
+Publisher: CTV News
+Posted: 3 days ago
+Key values:
+70% of ICU patients at Toronto General are unvaccinated.
+Unvaccinated individuals make up less than 13% of the Canadian population but account for a significant proportion of severe cases and hospitalizations.
+Fully vaccinated people are still far less likely to be hospitalized with COVID-19, with 171 hospitalizations per one million people compared to 762 among the unvaccinated.
+The majority of ICU patients at Toronto General are younger (twenties, thirties, forties) without significant comorbidities.
+
+Article 5 of 9
+Title: Ontario reports 3,220 patients in hospital with COVID-19, 477 ICU admissions
+Publisher: CTV News Toronto
+Posted: 4 days ago
+Here is a brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+3,220 people are currently hospitalized with COVID-19 (up from 2,497 on Monday).
+54% of hospitalizations are due to COVID-19 alone, while 46% are due to other reasons but have tested positive.
+477 people are in ICU primarily due to COVID-19 (up from 438 on Monday), and 17% of ICU cases are there for other reasons but also have the virus.
+The median stay in intensive care for a COVID-19 patient is currently 7 days, compared to 20 days during the peak of the Delta wave.
+
+Article 6 of 9
+Title: Ontario reporting 2,467 patients in hospital with COVID-19 and 438 people in ICU
+Publisher: CBC.ca
+Posted: 5 days ago
+2,467 patients hospitalized with COVID-19 (up from 1,232 last week)
+438 people in ICUs (up from 248 just 7 days ago and 412 the day before)
+12 more deaths reported, pushing total to 10,378
+Province reports at least 9,706 new cases of COVID-19 (likely undercount due to limited testing)
+
+Article 7 of 9
+Title: Ontario exceeds 400 COVID patients in ICU, just under 2,500 hospitalized
+Publisher: CityNews Toronto
+Posted: 6 days ago
+2,419 total hospitalizations with 412 ICU admissions (up 80% compared to one week ago)
+123 unvaccinated patients and 137 fully vaccinated patients are currently in the ICU
+457 unvaccinated people and 1,353 fully vaccinated people are hospitalized with COVID-19
+
+Article 8 of 9
+Title: Baricitinib for Hospitalized Patients with COVID-19
+Publisher: Ontario COVID-19 Science Advisory Table
+Posted: 7 days ago
+The provided text appears to be a scientific brief on the use of baricitinib in COVID-19 patients, as recommended by the Ontario Science Table Drugs & Biologics Clinical Practice Guidelines Working Group. Here's a summary of the key points:
+Recommendations: 
+1. Critically Ill Patients: Baricitinib 4 mg PO or NG daily (2 x 2 mg tablets) for 14 days or until discharge may be considered in patients receiving non-invasive or high-flow nasal oxygen, mechanical ventilation or ECMO who are on a recommended dose of dexamethasone therapy (or a dose-equivalent corticosteroid) or who have a contraindication to corticosteroid treatment.
+2. Moderately Ill Patients: Baricitinib 4 mg PO daily (2 x 2 mg tablets) for 14 days or until discharge may be considered in patients on supplemental oxygen who are on a recommended dose of dexamethasone therapy (or a dose-equivalent corticosteroid) or who have a contraindication to corticosteroid treatment.
+3. Mildly Ill Patients: Baricitinib is not recommended in mildly ill COVID-19 patients who do not require oxygen.
+Important Considerations: 
+1. Concomitant Corticosteroids: Baricitinib can be used with or without corticosteroids, and there was no additional adverse event risk.
+2. IL-6 Inhibitors: The combined use of baricitinib and IL-6 inhibitors is not recommended due to a lack of safety and efficacy evidence.
+3. Pregnancy and Breastfeeding: Use in pregnant or breastfeeding women should be determined through shared decision-making with the patient, considering potential maternal benefits and theoretical fetal risks.
+4. Renal Function: Baricitinib dose should be reduced to 2 mg daily in patients with an eGFR 30-60 mL/min/1.73m^2, and it should not be used in patients with eGFR <30 mL/min/1.73m^2.
+5. Monitoring: Patients receiving baricitinib should have a complete blood count, creatinine function, and liver enzymes monitored throughout the treatment duration.
+Methods Used for this Scientific Brief: 
+The working group searched various databases and conducted meta-analyses using STATA software to inform their recommendations. They also updated their definitions for COVID-19 disease severity, focusing on the need for new oxygen or circulatory support rather than hospital admission status.
+
+Article 9 of 9
+Title: COVID-19 hospitalizations look different in the Omicron wave, and vaccination status is playing a part
+Publisher: The Globe and Mail
+Posted: 7 days ago
+The article discusses the impact of unvaccinated Ontarians on ICUs during the Omicron wave of COVID-19 in Ontario, Canada. The data shows that despite the raw numbers appearing to narrow, when adjusted for population size and age, the occupancy rate of unvaccinated people in ICUs is almost 15 times higher than that of fully vaccinated people.
+The article also quotes various medical professionals who note that while Omicron infections may be leading to fewer severe cases of COVID-19-related pneumonia compared to earlier waves, hospitalizations are still occurring due to other factors such as frailty, chronic illness, and pandemic fatigue. The stress on the hospital system is being exacerbated by health workers isolating or taking sick leaves due to COVID-19.
+Key points from the article include:
+Unvaccinated people in Ontario ICUs have an occupancy rate almost 15 times higher than that of fully vaccinated people.
+Omicron infections may be leading to fewer severe cases of COVID-19-related pneumonia compared to earlier waves.
+Hospitalizations are still occurring due to factors such as frailty, chronic illness, and pandemic fatigue.
+The stress on the hospital system is being exacerbated by health workers isolating or taking sick leaves due to COVID-19.
+Quebec health minister Christian Dubé reported that 20,000 health care workers are absent due to COVID-19 in his province.

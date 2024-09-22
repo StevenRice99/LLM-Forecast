@@ -1,0 +1,47 @@
+Below are 5 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 5
+Title: COVID drug shows promise in new study — but will patients ever get access?
+Publisher: CBC News
+Posted: Today
+A study from McMaster University in Hamilton and the University Health Network (UHN) in Toronto found that a single dose of pegylated interferon lambda reduced the risk of hospitalization by:
+50% in vaccinated individuals
+90% in unvaccinated individuals
+These results are relevant for forecasting COVID-19 hospitalizations in Ontario, Canada.
+
+Article 2 of 5
+Title: Single drug injection wards off COVID-19 hospitalizations, in Stanford Medicine-led trial
+Publisher: Stanford Medical Center Report
+Posted: 2 days ago
+The article reports on a clinical trial of PEG-lambda (lambda-interferon) as a treatment for COVID-19.
+930 patients received PEG-lambda and 1,020 received a placebo.
+Vaccinated patients treated with PEG-lambda experienced a 51% reduction in hospitalization relative to placebo.
+Unvaccinated patients treated within the first three days of symptom onset had an 89% reduction in hospitalization compared to placebo.
+
+Article 3 of 5
+Title: COVID-19 vaccination during pregnancy helps protect newborns, Canadian study suggests
+Publisher: CBC News
+Posted: 3 days ago
+A study found that maternal vaccination protected newborns against COVID-19 infection and hospitalization.
+In Ontario, a second dose of mRNA vaccine during pregnancy provided 95% effectiveness against Delta infection and 97% effectiveness against hospital admission due to Delta infection.
+A third dose of vaccine during pregnancy provided 73% effectiveness against Omicron infection and 80% effectiveness against hospital admission due to Omicron variant.
+Fewer than half of pregnant women in Ontario have had three doses of COVID-19 vaccine.
+
+Article 4 of 5
+Title: Interferon Injection Cuts COVID Hospitalization Risk in Vaxxed Population
+Publisher: Medpage Today
+Posted: 3 days ago
+A single dose of pegylated interferon lambda reduced the risk of hospitalization and ED visits lasting more than 6 hours among COVID-19 outpatients.
+The treatment effect was consistent across vaccination status (over 80% were vaccinated) and strains (Delta and Omicron waves).
+In Ontario, Canada, where the article mentions Toronto General Hospital Research Institute as a study site, this information could be useful for forecasting hospitalizations in a highly vaccinated population.
+
+Article 5 of 5
+Title: Masking may not have eased respiratory virus surge in the fall: PHO document
+Publisher: CBC.ca
+Posted: 5 days ago
+Key values:
+Respiratory viruses (influenza, RSV, and COVID-19) are circulating in Ontario.
+Hospitalization rates among children and youth have surged due to these viruses.
+Mask mandates may not be effective in reducing transmission of influenza and RSV.
+However, mask mandates are associated with a lower incidence of SARS-CoV-2 (COVID-19) infection.
+Public acceptability of mask mandates is high, with 53% and 69% of respondents supporting re-implemented or some extent of mask mandates.

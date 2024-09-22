@@ -1,0 +1,74 @@
+Below are 7 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 7
+Title: COVID-19 vaccine medical exemptions: who qualifies and how to get one
+Publisher: CityNews Toronto
+Posted: 1 day ago
+Pre-existing conditions that may affect vaccine response:
++ Severe allergy to a vaccine component
++ Myocarditis before mRNA vaccine series (ages 12-17)
+Adverse events following immunization (AEFI):
++ Severe allergic reaction or anaphylaxis after COVID-19 vaccine
++ Myocarditis or pericarditis after mRNA vaccine
++ Thrombosis with thrombocytopenia syndrome (TTS)/VITT4 after Astra Zeneca/COVISHIELD vaccine
+Other serious or adverse events:
++ Guillain-Barré Syndrome (GBS) following a vaccine shot
+Contraindications to starting an AstraZeneca/COVISHIELD vaccine series:
++ History of capillary leak syndrome, cerebral venous sinus thrombosis, heparin-induced thrombocytopenia, or major venous and/or arterial thrombosis with thrombocytopenia
+These conditions may lead to a medical exemption from COVID-19 vaccination.
+
+Article 2 of 7
+Title: Severity of Disease Among Adults Hospitalized with Laboratory-Confirmed COVID-19 Before and During the Period of SARS-CoV-2 B.1.617.2 (Delta) Predominance — COVID-NET, 14 States, January–August 2021
+Publisher: CDC
+Posted: 1 day ago
+The Delta variant caused an increase in COVID-19 hospitalizations among all adult age groups, especially among those aged 65 years.
+Among unvaccinated adults, the proportion of younger adults (18-49 years) hospitalized with COVID-19 increased significantly from 26.9% to 43.6%.
+The proportion of patients aged 50 years hospitalized with COVID-19 who were admitted to an ICU or died while hospitalized trended upward in the Delta period.
+Vaccination status was a significant factor, with 71.8% of hospitalizations during the Delta period being among unvaccinated adults.
+
+Article 3 of 7
+Title: 91 patients in Sask. ICUs, 22 more in Ontario as out-of-province transfer slowdown expected
+Publisher: CBC.ca
+Posted: 1 day ago
+Key values:
+22 Saskatchewan patients under intensive care in Ontario (as of Friday morning)
+6 more Saskatchewan patients expected to be transferred to Ontario over the weekend
+Ontario's capacity to take in new patients is limited to 30 per day
+
+Article 4 of 7
+Title: Spike of unvaccinated pregnant women in COVID-19 ICUs concerning, says Calgary doctor
+Publisher: CBC.ca
+Posted: 1 day ago
+Key values:
+Pregnant women are 5 times more likely to require hospitalization and 10 times more likely to need intensive care if they contract COVID-19.
+The risk of preterm births is nearly double that of the baseline population among pregnant women with COVID-19.
+Unvaccinated pregnant women in Alberta have been admitted into ICUs at a rate similar to previous waves, but in a shorter time period.
+
+Article 5 of 7
+Title: Effectiveness of ChAdOx1 vaccine in older adults during SARS-CoV-2 Gamma variant circulation in São Paulo
+Publisher: Nature.com
+Posted: 2 days ago
+The study was conducted in São Paulo State, Brazil, but it's relevant for forecasting COVID-19 hospitalizations in Ontario, Canada because:
++ It provides information on vaccine effectiveness against severe outcomes, including hospitalization.
++ It estimates the effectiveness of a single dose of ChAdOx1 (a COVID-19 vaccine) against progression to hospitalization within 21 days of symptom onset among test-positive individuals.
++ The study's design and analysis can be adapted for forecasting COVID-19 hospitalizations in Ontario, Canada by considering similar factors such as age, comorbidities, and vaccination status.
+
+Article 6 of 7
+Title: Merck agrees to let other drugmakers produce its COVID-19 pill
+Publisher: CBC.ca
+Posted: 3 days ago
+Merck's COVID-19 pill (molnupiravir) has shown to reduce hospitalizations and deaths by half among patients with early symptoms. The company is discussing licensing its pill with the Canadian government. This information could be useful for understanding potential changes in hospitalization rates due to effective treatment options.
+
+Article 7 of 7
+Title: Why 'waning immunity' from COVID-19 vaccines isn't as bad as it sounds
+Publisher: CBC.ca
+Posted: 7 days ago
+The article discusses the topic of breakthrough infections and waning immunity from COVID-19 vaccines in Canada. It highlights that while fully vaccinated Canadians who get COVID-19 are 79% less likely to be hospitalized and 64% less likely to die, there is a small but significant number of cases where vaccinated individuals still contract severe illness or death.
+The article emphasizes the importance of underlying conditions in determining the risk of breakthrough infections. It notes that older, frailer Canadians living with comorbidities are at increased risk due to their antibody levels dropping "much faster" than in the general population.
+A recent preprint study from the Toronto-based Lunenfeld-Tanenbaum Research Institute found much lower levels of neutralizing antibodies in elderly patients, highlighting the need for booster shots in this group. However, the article suggests that boosters for the general population may be premature in Canada, citing data from researchers at the Institute for Clinical Evaluative Sciences (ICES) showing high protection against severe outcomes even after eight months.
+The article also notes that other immunocompromised groups, such as transplant patients and people with certain types of cancers, have shown declining protection from COVID-19 vaccines. It emphasizes that while breakthrough infections are a concern, they do not necessarily mean the vaccine is working less well.
+Key points:
+Fully vaccinated Canadians who get COVID-19 are 79% less likely to be hospitalized and 64% less likely to die.
+Older, frailer Canadians living with comorbidities are at increased risk of breakthrough infections due to their antibody levels dropping "much faster" than in the general population.
+Boosters for the general population may be premature in Canada, citing data from researchers at ICES showing high protection against severe outcomes even after eight months.
+Other immunocompromised groups, such as transplant patients and people with certain types of cancers, have shown declining protection from COVID-19 vaccines.

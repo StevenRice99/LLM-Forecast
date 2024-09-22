@@ -1,0 +1,30 @@
+Below are 3 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 3
+Title: Weekly COVID-19 cases rise in N.B. after 4-week decline
+Publisher: CBC.ca
+Posted: 4 days ago
+Age is a significant risk factor for severe outcomes of COVID infections (70-89 years old have the highest portion of hospitalizations).
+BA-5 subvariant of Omicron dominates in New Brunswick.
+Hospital admissions and active cases are increasing.
+Young people can still die from COVID-19, but age continues to be an important risk factor.
+Vaccination status is not a reliable indicator for protection against severe outcomes due to the province's definition.
+
+Article 2 of 3
+Title: Vaccine fatigue is real. These experts say messaging on COVID boosters should be clear
+Publisher: CBC News
+Posted: 4 days ago
+Key values for forecasting:
+Vaccine effectiveness: A third dose offers a significant increase in protection against infection, hospitalization, and death from COVID-19.
+Booster uptake: About 57% of residents 12 and older have received at least one additional dose, and about 12% have gotten two additional doses.
+Emerging strains: The article mentions the possibility of an emerging strain that the vaccine may not protect against, which could impact hospitalization rates.
+Public health messaging: Clear messaging on vaccine protection and easy access to booster shots are crucial for boosting vaccination rates.
+
+Article 3 of 3
+Title: Real-world study of the effectiveness of BBIBP-CorV (Sinopharm) COVID-19 vaccine in the Kingdom of Morocco - BMC Public Health
+Publisher: BMC Public Health
+Posted: 7 days ago
+89% effectiveness against serious or critical COVID-19 hospitalization with a 2-dose vaccine (BBIBP-CorV) among all age groups.
+96% effectiveness against serious/critical COVID-19 hospitalization among working-age adults (2-dose VE).
+53% effectiveness against serious/critical COVID-19 hospitalization among older adults (2-dose VE).
+Lower effectiveness of vaccines against severe disease in older adults compared to younger adults.

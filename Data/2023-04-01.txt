@@ -1,0 +1,23 @@
+Below are 2 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 2
+Title: Predicting COVID-19 positivity and hospitalization with multi-scale graph neural networks
+Publisher: Nature.com
+Posted: 1 day ago
+The provided text appears to be a research paper discussing various machine learning models and their performance in predicting COVID-19 cases and hospitalizations in France. The key points of the discussion are:
+1. Model Performance: The authors compare the performance of several machine learning models, including AVG, ARIMA, Prophet, MPNN, MPNN-LSTM, Multi-scale MPNN, and LSTM, in predicting COVID-19 cases and hospitalizations.
+2. Results: The results show that the proposed model, Multi-Scale MPNN, outperforms other methods for short-term forecasts (1-14 days ahead). When the model also utilizes two specific features, it achieves lower errors for all short-, mid-, and long-term forecasts.
+3. Visualization: The authors visualize the predicted number of hospitalized patients by different approaches for two departments (Bouches-du-Rhône and Seine-et-Marne) and find that AVG and ARIMA are the worst-performing methods, while Prophet, MPNN, MPNN-LSTM, and Multi-scale MPNN yield good predictive performance.
+4. Qualitative Evaluation: The authors provide a qualitative evaluation of the proposed model by illustrating maps of metropolitan France where the intensity of color in each department is determined based on the relative test error on positive cases incurred by Multi-Scale MPNN or the ground truth number of positive cases.
+5. Relative Error: The authors define the relative error as the ratio of the absolute difference between predicted and actual values to the actual value, and observe that high values of relative error occur mainly in departments with low average numbers of cases.
+6. Long-term Prediction: The authors illustrate the average error of different methods for the number of hospitalized patients per day in the task of 14 days ahead forecast and find that most instances of the proposed model achieve low levels of error in the first days, while the error gradually increases as we proceed further in the future.
+The discussion highlights the importance of accurate predictions in regions heavily hit by the pandemic and suggests that the proposed model could enable governments and policymakers to make more informed decisions.
+
+Article 2 of 2
+Title: Ontario extended medical care coverage to uninsured patients during pandemic, but that's ending
+Publisher: CBC.ca
+Posted: 6 days ago
+The article discusses a government program providing medically necessary care to patients without insurance coverage during the pandemic.
+The program improved health outcomes and reduced financial hardship for uninsured residents in Ontario.
+The program is being wound down by the province, citing lower COVID-19 rates and ending public health restrictions.
+The article highlights concerns from healthcare professionals and advocates that this decision will lead to worse health outcomes and increased costs for patients without access to care.

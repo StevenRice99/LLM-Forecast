@@ -1,0 +1,98 @@
+Below are 9 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 9
+Title: COVID-19 vaccine mandates have worked in Canada — but they're harder than ever to justify
+Publisher: CBC News
+Posted: Today
+Key values:
+Vaccine effectiveness against Omicron infection: 60% with third dose, 36% with two doses
+Booster protection waning after about four months (US CDC data)
+Protection against severe disease: 90% with third dose, <50% with two doses
+Variants are the wild card and future variants may be more transmissible or severe.
+
+Article 2 of 9
+Title: Ontario declares state of emergency in response to convoy protests
+Publisher: CBC.ca
+Posted: Today
+1,829 hospitalizations of people with COVID-19 reported on Friday (down from early January).
+Pandemic indicators have been improving in Ontario.
+No significant alteration to public health measures planned by the province.
+
+Article 3 of 9
+Title: Province reviewing public health measures as Ontario's COVID-19 hospitalizations drop below 2,000
+Publisher: CBC.ca
+Posted: 2 days ago
+Here is a brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Current hospitalization numbers: 1,897 (first time below 2,000 since early January)
+Breakdown of hospital admissions:
++ 56% admitted specifically for COVID-19 treatment
++ 44% admitted for other reasons but tested positive for the virus
+ICU admissions: 445 (76% admitted specifically for COVID-19)
+
+Article 4 of 9
+Title: N.L. COVID-19 hospitalizations hit high of 25 with eight patients in critical care
+Publisher: Welland Tribune
+Posted: 2 days ago
+Ontario, Canada is mentioned. 
+The article discusses postal codes in various locations. The relevant information for forecasting COVID-19 hospitalizations in Ontario, Canada would be the list of postal codes within Ontario, Canada.
+
+Article 5 of 9
+Title: 'My hair's been falling out': Nurses hit with protest stress after 2 years of COVID
+Publisher: CBC.ca
+Posted: 2 days ago
+The protest in Ottawa has led to a new pandemic high with 142 patients hospitalized with active COVID on Jan. 16.
+Health-care staff are concerned that the protests will lead to a spike in COVID-19 hospitalizations.
+The article does not provide specific data or trends related to COVID-19 hospitalization rates, but it highlights the potential impact of the protest on the healthcare system and the concerns of health-care staff.
+
+Article 6 of 9
+Title: Ontario expands rapid test rollout, but sticking with COVID-19 mandates for now
+Publisher: CBC.ca
+Posted: 3 days ago
+The number of people with COVID-19 in hospitals (2,059) and intensive care units (449) are provided.
+The percentage of patients admitted for illnesses related to the virus (56% in hospitals, 80% in ICUs) is given.
+The article mentions that hospitalizations have decreased from previous weeks (down from 2,939 at the same time last week).
+The province's official toll of COVID-19 deaths has increased by 66, reaching 11,944.
+
+Article 7 of 9
+Title: Ontario reports 2,254 patients hospitalized with COVID-19 and 474 in ICUs
+Publisher: Yahoo News Canada
+Posted: 4 days ago
+As of Monday, there were 2,254 people with COVID-19 in hospitals across Ontario.
+The number of patients in intensive care (ICU) saw a slight dip from 486 to 474.
+About 56% of hospitalized patients were admitted for COVID-related illnesses, while 44% were already in hospital when they tested positive.
+Unvaccinated individuals aged 60 or older have at least six times more risk of hospitalization from COVID-19 infection and a 14-times higher risk of ICU admission.
+
+Article 8 of 9
+Title: What you need to know about COVID-19 in Ottawa on Tuesday, Feb. 8
+Publisher: CBC.ca
+Posted: 4 days ago
+Here are the key points from the article:
+Vaccination 
+Children aged 5-11 should receive at least two doses, with a minimum interval of eight weeks between doses for optimal protection.
+Some health authorities allow parents to request a shorter interval.
+A third dose can be given after contracting COVID-19, but only when the person is feeling recovered.
+Vaccine Availability 
+Over 5 million vaccine doses have been administered in the Ottawa-Gatineau region (2.3 million residents).
+Eligible individuals can book appointments online or by phone at 1-833-943-3900.
+Local health units offer flexibility, including child-only clinics and limited walk-ins.
+Testing 
+PCR tests are only available for high-risk settings in eastern Ontario due to Omicron demand.
+Rapid COVID-19 tests are available in some child-care settings when risk is high.
+Travelers who need a test can pay for one locally.
+In western Quebec, PCR tests are reserved for high-risk settings, and rapid tests are available in all daycares, preschools, and elementary schools.
+First Nations, Inuit, and Métis Communities 
+First Nations, Inuit, and Métis people or those traveling to work in a remote Indigenous community can access testing.
+Specific communities have their own COVID-19 test and vaccine information online or by phone:
++ Akausivik Inuit Family Health Team (Ottawa): 613-740-0999
++ Akwesasne: 613-575-2341
++ Kitigan Zibi Anishinabeg: 819-449-8085
++ Pikwàkanagàn: 613-625-1175
+
+Article 9 of 9
+Title: Canada is shifting to 'living with the virus' — for better or worse
+Publisher: CBC News
+Posted: 7 days ago
+Record-high hospitalizations and ICU admissions are mentioned nationally.
+The Omicron wave is declining, but the virus is not expected to disappear.
+Boosters still hold up well against infection, severe illness, and death.
+There is a shift towards "living with the virus" in some provinces, which may impact hospitalization rates.

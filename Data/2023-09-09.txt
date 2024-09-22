@@ -1,0 +1,80 @@
+Below are 7 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 7
+Title: Q and A with the experts: How can we protect our health this fall virus season? | Waterloo News
+Publisher: University of Waterloo
+Posted: 1 day ago
+The COVID-19 virus continues to circulate in Ontario, with a rise in cases and variants.
+Hospitalizations and deaths have declined recently, but the virus remains a serious concern.
+Vulnerable individuals (e.g., immune-compromised, older) are at higher risk of severe disease and hospitalization.
+Vaccination is still an important protective measure, especially for those who were vaccinated more than 6 months ago.
+The effectiveness of vaccines wanes over time, so booster shots are recommended.
+Wastewater surveillance can track COVID-19 infections in the community.
+
+Article 2 of 7
+Title: COVID-19's slow late-summer swell continues
+Publisher: CBC.ca
+Posted: 2 days ago
+Key values:
+Average number of Ottawa residents in local hospitals for COVID-19: stable at 27 (moderate)
+Wastewater data shows rising levels of coronavirus, considered high by OPH
+Test positivity rate is about 19% and considered high by OPH
+Number of active COVID outbreaks: 26 (high), with more than half in care homes
+
+Article 3 of 7
+Title: More infections, deaths and hospitalizations reported in Simcoe-Muskoka region’s 1st set of fresh COVID-19 stats in 5 weeks
+Publisher: simcoe.com
+Posted: 2 days ago
+Ontario, Canada is mentioned. 
+The article discusses postal codes in various regions, including Ontario, Canada. 
+Summary: The article lists postal codes for Ontario, Canada (and other regions), which could be relevant for forecasting COVID-19 hospitalizations by linking specific geographic areas to case data.
+
+Article 4 of 7
+Title: B.C. hospital sees fast spread of COVID-19, but no outbreak declared due to 'negative connotations'
+Publisher: CBC News
+Posted: 2 days ago
+Key values:
+101 ongoing outbreaks reported in Ontario as of Aug. 26
+Rising COVID-19 hospitalizations across Canada
+Increased respiratory illnesses and mask mandates reinstated in some schools and hospitals in the US
+Enhanced measures implemented at Saanich Peninsula Hospital to control spread of COVID-19, but not publicly declared an outbreak
+Longer hospital stays for patients infected with COVID-19 due to complications or weakened condition
+Potential for long-term outcomes like long COVID, cardiovascular complications, and diabetes after contracting COVID-19.
+
+Article 5 of 7
+Title: B.C. COVID-19 data: Number in hospital triples in a month
+Publisher: CTV News Vancouver
+Posted: 2 days ago
+The article reports a surge in COVID-positive patients in B.C. hospitals (241 as of Thursday), with most infections being EG.5 or XBB.1.16 variants of the Omicron strain.
+Values important for forecasting: 
+- Number of COVID-positive patients in hospitals
+- Variant types (EG.5, XBB.1.16)
+- Timeframe (monthly increase)
+
+Article 6 of 7
+Title: Early lab tests suggest new COVID-19 variant BA.2.86 may be less contagious and less immune-evasive than feared
+Publisher: CTV News
+Posted: 6 days ago
+The new variant BA.2.86 has over 30 changes to its spike protein compared to previous variants.
+Early studies suggest that the variant may be less infectious than XBB.1.5 and that immunity from vaccination and recent infection can still neutralize it, although with a twofold drop in effectiveness.
+The variant is currently circulating at low levels in multiple countries, including Canada.
+Experts are cautiously optimistic about the potential impact of BA.2.86 on hospitalizations, but more data is needed to make accurate predictions.
+Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Prevalence and transmission rate of BA.2.86
+Effectiveness of immunity from vaccination and recent infection against BA.2.86
+Severity of illness caused by BA.2.86 compared to other variants
+
+Article 7 of 7
+Title: More COVID cases are coming. Here's what you need to know
+Publisher: CBC.ca
+Posted: 7 days ago
+The article discusses the current COVID-19 situation in Canada and the advice of health experts on how to navigate it. Here are the key points:
+1. Increased cases: There is an increase in COVID-19 cases, but it's not yet clear if this indicates a new wave.
+2. New variants: The BA.2.86 variant has emerged, which could potentially lead to another pandemic wave if it gains a growth advantage.
+3. Boosters: Most experts advise waiting for the new vaccines expected mid-fall before getting a booster. However, those at high risk should consider getting their current boosters now.
+4. Back to school: The return to school will likely bring an increase in viral spread, but this could also lead to an immediate rise in common cold cases, which can offer some protection against COVID-19 infections.
+5. Mask mandates and lockdowns: Health experts agree that a fall COVID-19 wave is unlikely to induce mask mandates or lockdowns.
+Key quotes:
+"The curve ball is BA.2.86... If it were to really emerge and have a growth advantage, then all bets are off and we might actually see a subsequent pandemic wave." - Dr. Gerald Evans
+"You need a booster. If everybody just abandons getting boosters going forward there's a high probability we'll return to a more susceptible population." - Dr. Gerald Evans
+"Regardless of the variant, there are things we can do to decrease spread of respiratory illness... Wearing a mask as we get back to work or school is one thing we can do to help decrease transmission..." - Dr. Etches

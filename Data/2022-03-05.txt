@@ -1,0 +1,93 @@
+Below are 10 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 10
+Title: Ontario could drop its mask mandate by the end of March, top doctor says
+Publisher: CBC.ca
+Posted: 2 days ago
+Here is a brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Current hospitalization numbers: 834 people in hospital with COVID-19
+Hospitalization trend: slight dip from previous days (847 on Wednesday, 1,066 one week ago)
+ICU admissions: 267 patients in intensive care, with 80% admitted specifically for COVID-19 symptoms
+
+Article 2 of 10
+Title: Why aren't there more COVID-19 surface transmissions? The answer is mucus, study suggests
+Publisher: CTV News
+Posted: 2 days ago
+The article suggests that mucus may play a significant role in preventing COVID-19 transmission through surfaces. The study found that the presence of mucin in simulated cough or sneeze droplets significantly reduced the ability of the virus to infect cells, even after the droplets had dried on a surface. This could imply that mucus acts as a barrier to prevent the virus from penetrating and causing infection.
+
+Article 3 of 10
+Title: Ontario reports 847 people hospitalized with COVID-19 and 27 more deaths
+Publisher: CBC.ca
+Posted: 3 days ago
+Relevant.
+847 hospitalizations with COVID-19 reported on Wednesday.
+273 ICU patients with COVID-19 (82% specifically for virus).
+44% of hospital admissions were for COVID-19 symptoms, 56% for other reasons but tested positive.
+
+Article 4 of 10
+Title: COVID-19 in Quebec: What you need to know Wednesday
+Publisher: CBC.ca
+Posted: 3 days ago
+Quebec reported 1,381 people in hospital with COVID-19 (decrease from previous day).
+The province also reported 20 deaths and 1,630 new cases of COVID-19.
+Vaccination rates: 91% of eligible population received one dose, 86% received two doses, and 51% received three doses.
+Quebec's Health Ministry announced lifting some public health measures on March 12, which may impact hospitalization numbers.
+The article mentions Ontario's wastewater surveillance data showing early signs of a resurgence of COVID-19 viral load.
+
+Article 5 of 10
+Title: Ontario lifts vaccine certificate system, remaining capacity limits in all indoor settings
+Publisher: CBC.ca
+Posted: 4 days ago
+914 people are currently hospitalized with COVID-19 in Ontario.
+278 ICU patients have COVID-19, down from 279 and 319 one week ago.
+45% of hospitalizations were due to COVID-19 symptoms, while 55% were admitted for other reasons but tested positive.
+Wastewater data suggests "early signs of a resurgence" of COVID-19 viral load across Ontario.
+
+Article 6 of 10
+Title: Benefits of COVID-19 Vaccination Outweigh the Rare Risk of Myocarditis, Even in Young Males
+Publisher: FactCheck.org
+Posted: 4 days ago
+Key values:
+Age groups most at risk: adolescent males 12 to 17 years old (70.7 per million doses)
+Vaccine type: mRNA vaccines (Pfizer/BioNTech and Moderna) associated with increased risk of myocarditis
+Interval between vaccine doses: extending the interval beyond 4 weeks may reduce the risk of myocarditis
+
+Article 7 of 10
+Title: On the single and multiple associations of COVID-19 post-acute sequelae: 6-month prospective cohort study
+Publisher: Nature.com
+Posted: 4 days ago
+The provided text appears to be a scientific article discussing the outcomes of COVID-19 patients, specifically focusing on pulmonary complications and their association with various factors such as demographic characteristics, lung examination findings, pre-existing diseases, and hospitalization status.
+Here are some key points extracted from the text:
+1. Pulmonary Complications (PCS) Features: The PCS features associated with a higher risk of hospitalization include male sex, non-health workers, age < 59 years, fatigue, loss of taste/smell, headache, hair loss, venous thrombosis, depression, impairment of FEV1, KCO, and 6MWT.
+2. Chest CT Scan Findings: The evolution of chest CT scans in patients post-COVID-19 shows a reduction in lesions over time, with some residual reticular lesions persisting after 6 months.
+3. Association between PCS Features and Chest CT Scan Findings: A bivariate analysis found that male sex, age 59 years, ex-smokers, abnormal radiography, impaired FEV1/FVC ratio, and hospitalized status were positively associated with abnormal chest CT outcomes. After multivariate adjustment, the significant predictors of an abnormal CT outcome included male sex, age 59 years, former smoker, non-smoker, abnormal radiograph, DLCO < 80%, and FEV1/FVC < 70%.
+4. Predictors of Hospitalization: The PCS features associated with a higher risk of hospitalization include male sex, non-health workers, age < 59 years, fatigue, loss of taste/smell, headache, hair loss, venous thrombosis, depression, impairment of FEV1, KCO, and 6MWT.
+The article suggests that certain demographic characteristics, lung examination findings, pre-existing diseases, and hospitalization status are associated with pulmonary complications post-COVID-19. The findings have implications for the management and follow-up of COVID-19 patients to prevent or mitigate long-term pulmonary consequences.
+
+Article 8 of 10
+Title: Ontario COVID hospitalizations stay below 1,000 as the province reports 3 deaths
+Publisher: CityNews Toronto
+Posted: 5 days ago
+Relevant.
+849 COVID-19 hospitalizations in Ontario (down from over 1,000).
+ICU patients: 279 total, 171 on ventilator.
+New cases: 1,315 reported (underreported due to testing policy changes).
+
+Article 9 of 10
+Title: Ottawa businesses eager for COVID-19 restrictions to drop
+Publisher: CTV News Ottawa
+Posted: 5 days ago
+The Ontario government is lifting all indoor capacity restrictions and vaccination passports will no longer be required.
+Health officials believe now is the right time to reconsider restrictions, citing a drastic fall in cases compared to a month ago.
+Dr. Paul Roumeliotis mentions that the public should feel safe returning to businesses, implying a decrease in risk of COVID-19 transmission.
+Ontario Premier Doug Ford cautions that "we're not through this yet", suggesting that there may still be risks associated with COVID-19.
+Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Case numbers (mentioned as having fallen drastically)
+Hospitalization rates (not explicitly mentioned but implied by the context)
+
+Article 10 of 10
+Title: Carleton University, uOttawa will keep COVID vaccine requirements until the end of winter term
+Publisher: CTV News Ottawa
+Posted: 6 days ago
+Relevant.
+Summary: Ontario universities (Carleton, University of Ottawa) will maintain vaccination requirements until at least end of winter term. Algonquin College also requires full vaccination for students and staff to access campuses.

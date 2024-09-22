@@ -1,0 +1,103 @@
+Below are 8 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 8
+Title: Manitoba First Nations lock down, seek help as COVID-19 threatens communities
+Publisher: CBC.ca
+Posted: Today
+Relevant.
+Key values:
+18% of Manitoba's COVID-19 cases are in First Nations people (9% of population).
+24% of hospitalizations are among First Nations people.
+35% of ICU patients are from First Nations communities.
+12% of deaths are among First Nations people.
+Manitoba has the highest per-capita infection rate in Canada.
+
+Article 2 of 8
+Title: Morning Update: As COVID cases soar, schools consider extending winter breaks
+Publisher: The Globe and Mail
+Posted: 1 day ago
+Ontario could hit 6,500 COVID-19 cases a day by mid-December.
+European countries that are now in lockdown had similar growth rates.
+Alberta is imposing modest restrictions due to hospitals running at overcapacity.
+Manitoba is locking down as the virus spreads out of control.
+
+Article 3 of 8
+Title: AI can help in fight against COVID-19, if we don't let fear stop us: Yoshua Bengio
+Publisher: CTV News
+Posted: 1 day ago
+A research project called LambdaZero uses AI to study the SARS-COV-2 peak protein and develop a solution to render it inoperative.
+The goal is to help if vaccines don't work or antiviral drugs are needed.
+The project aims to speed up drug discovery using machine learning, potentially saving millions of lives.
+A contact-tracing app developed by Mila was not used by the government due to concerns about AI's accuracy and potential risks.
+
+Article 4 of 8
+Title: Will Thanksgiving Be a COVID-19 Disaster? In Canada, the Answer Was ‘Yes’
+Publisher: TIME
+Posted: 2 days ago
+The article mentions that Canada's post-Thanksgiving increases in COVID-19 cases are consistent with the incubation period.
+Dr. Laura Rosella notes that contact tracing efforts showed that Thanksgiving gatherings directly resulted in viral spread.
+Dr. Matthew Oughton suggests that the lockdown measures implemented around the same time as Thanksgiving might have been offset by the holiday's impact, leading to a lack of expected decrease in cases.
+Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Incubation period (14 days)
+Contact tracing data
+Lockdown measures and their effectiveness
+
+Article 5 of 8
+Title: 8 residents at Ancaster nursing home have died amid COVID-19 outbreak that has infected 59
+Publisher: CBC.ca
+Posted: 2 days ago
+37 residents and 21 staff members at Willowgrove Long Term Care home in Ancaster have been infected with COVID-19.
+8 residents have died from the virus.
+Hamilton Health Sciences is caring for 12 people with COVID-19.
+St. Joseph's Healthcare Hamilton is caring for 8 people with COVID-19.
+There are 374 active cases of COVID-19 in Hamilton, and 59 deaths related to the virus.
+Other regions in Ontario (Halton, Brant, Haldimand-Norfolk, Niagara) have reported various numbers of new cases, hospitalizations, and deaths.
+
+Article 6 of 8
+Title: Coronavirus: What's happening in Canada and around the world on Nov. 9
+Publisher: CBC.ca
+Posted: 5 days ago
+The article reports on the current state of the COVID-19 pandemic across various countries. Here are some key points:
+1. France: The country has implemented a nationwide lockdown, but schools and essential businesses remain open. Health Minister Olivier Veran said that early indications suggest the measures may be slowing down the latest virus surge.
+2. Europe: Other European nations also report signs of a possible turnaround in their COVID-19 cases. In Germany, health minister says infections seem to be leveling off, while in Belgium, hospital admissions for COVID-19 have peaked and are now declining.
+3. Netherlands: The number of new coronavirus cases registered has fallen sharply on Monday, continuing a decline that began in early November after entering a second near-lockdown.
+4. England: British Prime Minister Boris Johnson warns citizens not to let their guard down despite positive news on the Pfizer vaccine, stressing it's still early days and "we cannot let our enthusiasm tonight run away with us."
+5. Asia-Pacific region:
+Sri Lanka: Police will strictly enforce mask and social distancing requirements, punishing violators starting Monday.
+India: The country has reported 45,903 new coronavirus cases, with its capital recording the highest single-day rise in infections since the pandemic began. Air quality levels are also plummeting to "severe" categories, raising health risks for residents.
+Malaysia: Opposition demands more funds under the 2021 budget to manage the COVID-19 pandemic.
+6. Middle East:
+Pakistan: Authorities have implemented a mini-lockdown in over 4,000 regions across the country by sealing off hot spots to contain COVID-19 infections.
+7. Israel: The country will soon offer testing at its main international airport to help revive the air travel industry.
+8. Japan: Prime Minister Yoshihide Suga signals his readiness to compile another stimulus package to help the economy recover.
+Overall, while some countries report signs of a possible turnaround in their COVID-19 cases, others continue to struggle with high infection rates and hospitalizations.
+
+Article 7 of 8
+Title: Why COVID-19 cases are surging across Canada and what needs to be done
+Publisher: CBC.ca
+Posted: 7 days ago
+The article discusses the COVID-19 pandemic and its impact on various provinces in Canada. Here are some key points:
+1. Alberta's rising cases: Alberta is experiencing a surge in COVID-19 cases, with Premier Jason Kenney urging residents to stop social gatherings at home.
+2. Circuit breaker model: Dr. Saxinger suggests that Alberta should consider implementing a "circuit breaker" model, which involves brief lockdowns to interrupt transmission and reverse rising case numbers quickly.
+3. British Columbia's record high cases: British Columbia has hit a record high of COVID-19 cases, with 589 new cases reported on Friday. The province is taking steps to control the spread, including limiting gathering sizes and mandating masks in healthcare facilities.
+4. Atlantic bubble success story: The Atlantic provinces have been successful in controlling the spread of COVID-19 through tight restrictions on points of entry, aggressive contact tracing, and isolating. However, epidemiologist Susan Kirkland warns that vigilance is needed to avoid letting the guard down.
+5. Nunavut's first case: Nunavut has confirmed its first case of COVID-19, with health officials conducting contact tracing and the rapid response team on standby to help manage the situation.
+Overall, the article highlights the importance of continued vigilance and public health measures in controlling the spread of COVID-19 across Canada.
+
+Article 8 of 8
+Title: Coronavirus: What's happening in Canada and around the world on Nov. 6
+Publisher: CBC.ca
+Posted: 7 days ago
+The article discusses the second wave of COVID-19 infections hitting much of Europe and other parts of the world, and the measures being taken by governments to control its spread.
+Europe: 
+Portugal's parliament approved a new state of emergency starting on Monday to fight the spread of the coronavirus.
+Germany's health minister warned of hard times ahead unless the country can "break" the rising trajectory of coronavirus cases.
+Russia reported a record 20,000 new COVID-19 infections and over 29,000 deaths since March.
+Austria warned that all its COVID-19 intensive care beds could be full within two weeks.
+Asia-Pacific: 
+South Korea alerted about 1,000 people who attended the memorial of the late Samsung Group patriarch Lee Kun-hee to get tested for the coronavirus after one person at the event tested positive.
+India recorded 47,638 new cases and 670 deaths in the last 24 hours.
+Africa: 
+The WHO regional head said that the pandemic is having a knock-on effect on other vital health services as countries are forced to redirect already stretched resources.
+Middle East: 
+Iran remained the hardest-hit country in the Middle East, with over 663,000 reported cases and more than 37,400 deaths recorded.

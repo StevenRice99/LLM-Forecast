@@ -1,0 +1,37 @@
+Below are 3 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 3
+Title: Toronto, Peel move into COVID-19 lockdown Monday as Ontario tries to stop 'worst-case scenario'
+Publisher: CBC.ca
+Posted: Today
+Hospitalizations up by 22% (518 patients with confirmed cases)
+ICU visits up by 50% (142 patients being treated in intensive care)
+12,623 active COVID-19 infections provincewide
+3.6% test positivity rate on Friday, Nov 20
+Lockdown measures implemented in Toronto and Peel Region to curb the spread of the virus
+
+Article 2 of 3
+Title: 'Tired to the bone': U.S. hospitals overwhelmed as death toll surpasses 250,000
+Publisher: CTV News
+Posted: 3 days ago
+The article reports on the surge of COVID-19 cases and hospitalizations in the US.
+Hospitalizations have doubled in the past month, with nearly 77,000 people hospitalized with COVID-19 as of Tuesday.
+Hospitals are overwhelmed, converting non-traditional spaces into patient treatment areas, such as chapels, cafeterias, waiting rooms, hallways, and parking garages.
+The article highlights the strain on healthcare systems in various US states, including Texas, Tennessee, Virginia, Idaho, Nevada, Kansas, and Maryland.
+Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Hospitalization rates (e.g., 77,000 people hospitalized with COVID-19 as of Tuesday)
+Surge in new cases per day (e.g., +80% over the past two weeks)
+Conversion of non-traditional spaces into patient treatment areas
+Strain on healthcare systems and availability of ICU beds
+
+Article 3 of 3
+Title: Manitoba First Nations lock down, seek help as COVID-19 threatens communities
+Publisher: CBC.ca
+Posted: 7 days ago
+Relevant.
+Key values:
+18% of Manitoba's COVID-19 cases are in First Nations people (9% of population).
+24% of hospitalizations are among First Nations people.
+35% of ICU patients are from First Nations communities.
+12% of deaths are among First Nations people.
+Manitoba has the highest per-capita infection rate in Canada.

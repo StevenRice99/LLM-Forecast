@@ -1,0 +1,134 @@
+Below are 10 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 10
+Title: What a 4th COVID shot can do for you — and what it can't
+Publisher: CBC News
+Posted: Today
+The article discusses the importance of COVID-19 shots, specifically the third and fourth doses, as experts weigh in on who should get them and why. Here are the key points:
+Third dose: 
+Many experts stress the need for people to get a third shot, especially those who have not been infected with COVID-19 or have not received a booster.
+The third dose provides significant protection against severe disease and infection with Omicron BA.1.
+Experts worry that if people wait too long to get their third dose, they may become complacent and not prioritize getting vaccinated.
+Fourth dose: 
+Some experts suggest that a fourth dose of the original vaccine strain may be beneficial for certain groups, such as older adults or those with compromised immune systems.
+However, others argue that expanding fourth doses to younger Canadians could actually do more harm than good by discouraging people from getting their third dose.
+The marginal benefits of a fourth dose are small at an individual level, but may have a greater impact on slowing the spread of COVID-19 at a population level.
+Updated vaccines: 
+Updated bivalent vaccines that combine protection against the original strain and Omicron are on the horizon.
+However, experts worry that these vaccines may not provide sufficient cross-protection immunity against newer variants like BA.2.12.1, BA.4, and BA.5.
+Newer vaccine technologies, such as intranasal boosters or pan-coronavirus vaccines, may offer more robust immune responses.
+Expert opinions: 
+Dr. Isaac Bogoch emphasizes the importance of getting a third dose for many people, while also acknowledging that a fourth dose may be beneficial for certain groups.
+Dr. Naylor suggests that expanding fourth doses to younger Canadians could have an impact on slowing the spread of BA.5, but notes that this approach may not be effective in all cases.
+Dr. Chagla warns that Canadians need to start thinking about the protection COVID-19 vaccines offer differently than they did before, as there will be limits to what vaccines can and cannot do.
+Overall, the article highlights the complexities of COVID-19 vaccination strategies and the need for ongoing evaluation and adaptation in response to emerging variants and evolving scientific understanding.
+
+Article 2 of 10
+Title: Mathematical modelling of vaccination rollout and NPIs lifting on COVID-19 transmission with VOC: a case study in Toronto, Canada - BMC Public Health
+Publisher: BMC Public Health
+Posted: 1 day ago
+The text discusses the impact of various factors on the spread of COVID-19, including vaccination coverage, vaccine efficacy, and time between doses. Here are some key points:
+1. Vaccination coverage: The study finds that increasing vaccination coverage among adults (20-39 and 40-59 years) leads to a significant decrease in cases.
+2. Vaccine efficacy: A reduction of 10% in vaccine efficacy results in an increase of hospitalizations from roughly 4000 to 5500, with low coverage of vaccination of adults, and from roughly 500 to 1000, with highest coverage of these two groups.
+3. Time between doses: Shortening the time between first and second dose from 112 days to 21 days leads to a significant decrease in cases, hospitalizations, and deaths.
+4. Reopening scenarios: The study compares different reopening scenarios, including partial and total reopening, and finds that a partial reopening is more beneficial than a total one.
+5. Sensitivity analysis: Sensitivity analysis shows that vaccination rates of age groups 20-39 and 40-59 years, as well as the time between doses, have the highest impact on the model outcomes.
+Some key statistics mentioned in the text include:
+A reduction of 10% in vaccine efficacy results in an increase of hospitalizations from roughly 4000 to 5500.
+With minimal coverage of age groups 40-59 years and 20-39 years, if the full immunization is reached after 21 days rather than 50 or 112, the percentage change of cases compared to the baseline drops from 55.6% to 19% to 1.7%.
+Hospitalizations are decreased by roughly 60% and 85% if the second dose is given after 50 or 21 days respectively instead of 112 days.
+With a partial reopening and minimum vaccine coverages among adults between 20 and 59 years, hospitalizations are decreased by roughly 60% and 85% if the second dose is given after 50 or 21 days respectively instead of 112 days.
+
+Article 3 of 10
+Title: 7th wave of COVID-19 rising across the province, Public Health Ontario's latest report says
+Publisher: CBC.ca
+Posted: 2 days ago
+Here is a brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+985 new hospitalizations reported last week
+118 patients in intensive care (ICUs)
+48 ICU patients required ventilator use
+Percent positivity increased to 14.9% as of July 14
+Outbreaks in high-risk settings (long-term care homes and congregate care) increased by 87%
+Individuals 80 and older have higher rates of hospitalizations and deaths compared to other age groups
+
+Article 4 of 10
+Title: Genetic regulation of OAS1 nonsense-mediated decay underlies association with COVID-19 hospitalization in patients of European and African ancestries
+Publisher: Nature.com
+Posted: 2 days ago
+This text appears to be a detailed methods section from a scientific paper, likely in the field of molecular biology or biochemistry. The authors describe their experimental approach for studying alternative splicing and nonsense-mediated decay (NMD) of the OAS1 gene.
+Here's a breakdown of the main points:
+Alternative Splicing Analysis 
+The authors used RT-PCR to detect alternative splicing products of the OAS1 gene.
+They cut out specific bands from the gel, purified them, and validated their identity by Sanger sequencing.
+The ratio of alternative splicing products was calculated based on band intensity using densitometry.
+RNA-seq Analysis with Oxford Nanopore 
+The authors used RNA-seq to analyze the transcriptome of A549 or HT1376 cells treated with IFN- (treatment) or mock-treated controls.
+They prepared cDNA libraries from poly(A)+ RNA using the Direct cDNA Sequencing Kit (Oxford Nanopore).
+The libraries were sequenced on GridION and MinION instruments, generating long-read sequencing data.
+Analysis of NMD of OAS1 Isoforms 
+The authors analyzed RNA-seq data for HeLa cells expressing OAS1-p42 with or without siRNA-mediated KD of NMD genes SMG6 and SMG7.
+They used STAR aligner to quantify isoform-specific reads for alternative splicing junctions of OAS1 exon 3.
+They also generated a triple KD in A549 and HT1376 cells using siRNAs targeting the NMD pathway.
+Tools for Statistical Analyses and Graphics 
+The authors used R versions 3.6.0 to 4.0.4 for data processing and statistical analyses.
+They plotted their results using ggplot2 version 3.3.3 in R or GraphPad Prism version 8.
+Overall, the authors employed a combination of molecular biology techniques (RT-PCR, Sanger sequencing) and next-generation sequencing (RNA-seq with Oxford Nanopore) to study alternative splicing and NMD of the OAS1 gene.
+
+Article 5 of 10
+Title: The Other Side: ‘Re-COVID’ should continue to concern us all
+Publisher: theberkshireedge.com
+Posted: 2 days ago
+The article discusses the current COVID-19 situation in Canada and globally, highlighting concerns about rising cases, hospitalizations, and deaths due to new variants of the virus.
+Some key points mentioned in the article include:
+Canada's COVID death rates are comparable to those in other nations over the last three years.
+Public health officials in Canada are downplaying the severity of the current surge, stating that case counts have fallen and hospitalizations and deaths are decreasing across the country.
+Experts warn about a new variation of BA.2, named "Centaurus" or BA.2.75, which may be more contagious than other Omicron subvariants.
+The World Health Organization has warned about BA.2.75 and is monitoring its spread globally.
+In the US, Dr. Zeynep M. Gumuscu (Your Local Epidemiologist) warns that BA.5 has arrived and estimates 10-15% of Americans will be infected, leading to hospitalizations and deaths.
+The article concludes by emphasizing the importance of taking precautions to protect oneself against COVID-19, such as getting vaccinated or boosted, testing if feeling sick, seeking out therapeutics if positive, and wearing masks in crowded indoor spaces.
+
+Article 6 of 10
+Title: Alberta to start vaccinating small kids against COVID with Moderna by end of July
+Publisher: CBC.ca
+Posted: 2 days ago
+The pediatric vaccine dosage is one-quarter the size of those approved for adults.
+A pediatrician predicts that the vaccine will be effective against severe illness months and months down the road with children.
+Another pediatrician expects slow uptake of the vaccine among parents.
+Some parents are hesitant to vaccinate their children due to concerns about the vaccine's safety.
+These values are most important for forecasting COVID-19 hospitalizations in Ontario, Canada.
+
+Article 7 of 10
+Title: Who is eligible for a 4th COVID-19 vaccine dose? A province-by-province breakdown
+Publisher: CBC.ca
+Posted: 3 days ago
+Key values for forecasting:
+Age: Adults aged 18 to 59 who had a third shot at least five months ago (or three months since a COVID-19 infection) are eligible for a fourth dose.
+Vaccination status: Individuals with increased risk of severe illness from COVID-19 should be offered a shot in the fall, and those between the ages of 12 and 64 may also be eligible at that time.
+Time since last dose: A fourth dose is recommended if it has been five months since their last shot.
+
+Article 8 of 10
+Title: 1 death, 1,270 new cases of COVID-19 on P.E.I. in past week
+Publisher: CBC.ca
+Posted: 3 days ago
+19 people are currently hospitalized with COVID-19 on Prince Edward Island (P.E.I.), with none in intensive care.
+8 of the 19 were admitted due to COVID-19, and 11 were admitted for other reasons but tested positive after admission.
+The average daily cases over the past week is 182, up from 153 in the previous week.
+
+Article 9 of 10
+Title: Ontario farm company convicted after COVID-19 outbreak that killed migrant worker
+Publisher: CityNews Toronto
+Posted: 4 days ago
+Relevant.
+Summary: 
+- 196 COVID-19 cases among 216 agricultural workers on a southern Ontario farm.
+- 3 workers hospitalized due to COVID-19.
+- A Mexican migrant worker died from COVID-19 complications after being bedridden for several days in a bunkhouse with other symptomatic and asymptomatic workers.
+
+Article 10 of 10
+Title: More COVID-19 precautions needed as Quebec festival season takes flight: expert
+Publisher: CBC.ca
+Posted: 4 days ago
+Quebec reports an increase in COVID-19 cases (873) and hospitalizations (54-patient rise) due to BA.4 and BA.5 variants.
+The 7th wave of COVID-19 is expected to peak in July, with recommendations for people at risk to wear masks.
+Ontario has also entered the 7th wave of COVID-19, but specific case numbers are not mentioned in this article.
+Total hospitalizations in Quebec: 1,663 (with 374 admissions and 320 discharges).

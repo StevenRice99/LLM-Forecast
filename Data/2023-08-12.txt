@@ -1,0 +1,74 @@
+Below are 7 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 7
+Title: COVID cases surging again in Florida. Here's what you need to know about new variant, Eris
+Publisher: Tallahassee Democrat
+Posted: 2 days ago
+The new variant Eris (EG.5) has been spreading quickly in the US and globally.
+Experts say the current surge is more likely due to summertime travel and relaxed precautions rather than a new variant.
+Hospital admissions have risen 12.5% in the US during the week of July 23, but overall admission levels are still considered low.
+The article does not provide specific data on hospitalizations or COVID-19 cases in Ontario, Canada.
+Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Time series data on hospital admissions and COVID-19 cases in Ontario
+Information on vaccination rates and booster shots in Ontario
+Data on travel patterns and mobility within Ontario during the summer months
+
+Article 2 of 7
+Title: What to know about the new COVID-19 variant EG.5
+Publisher: The Globe and Mail
+Posted: 3 days ago
+EG.5 variant has been detected in Ontario, Canada, with 12.7% of samples sequenced between July 9-15 being positive.
+The proportion of EG.5 is increasing, expected to reach 30.5% by August 5.
+There are no reported changes in disease severity to date despite the increased prevalence of EG.5.
+The risk profile of EG.5 is similar to prior Omicron subvariants, with no data suggesting it causes more severe disease.
+The fall boosters are monovalent COVID-19 vaccines, meaning they target Omicron variants and would be effective against EG.5.
+Canada's collective immunity will be changing, meaning decreasing, which may lead to a bump in COVID-19 cases and hospitalizations in the fall.
+
+Article 3 of 7
+Title: What to know about EG.5, the latest Omicron subvariant in Canada
+Publisher: CBC News
+Posted: 3 days ago
+Key values:
+Testing positivity has increased from about 5% to nearly 7% within one month in Ontario.
+EG.5 subvariant is becoming more frequent every day (8% increase per day).
+The subvariant may cause a rise in case incidence and become dominant in some countries or globally due to its growth advantage and immune escape characteristics.
+Experts anticipate a possible rise in cases, but not necessarily a huge fall wave.
+Boosters targeting Omicron family of sub-lineages (including EG.5) are expected to be available this fall and should provide protection against hospitalization, death, and long COVID.
+
+Article 4 of 7
+Title: WHO designates ‘Eris’ and related COVID strains as variants of interest as infections and hospitalizations tick upward
+Publisher: Fortune
+Posted: 3 days ago
+EG.5 variant is on the rise globally, including in Canada (mentioned as one of the countries reporting at least 100 cases).
+Experts are concerned about the potential impact of EG.5 on case incidence and hospitalizations.
+Ryan Gregory, a biology professor at the University of Guelph in Ontario, suggests that COVID-19 cases may return to a high baseline but not cause a huge wave.
+The article mentions wastewater levels rising in the US, which could be an indicator for Ontario as well.
+
+Article 5 of 7
+Title: The new COVID-19 variant EG.5 is in Ontario. Here's what that means for you
+Publisher: CTV News Toronto
+Posted: 4 days ago
+Here is a brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+EG.5 variant has been detected in Ontario with a weekly growth rate of 1.90% (July 2-8).
+Cases of EG.5 are expected to represent 35% of all infections by August 2.
+Wastewater data shows an uptick in viral activity over the last month, suggesting a potential rise in cases towards the end of summer.
+The emergence of another COVID-19 variant is not unexpected three-and-a-half years into the pandemic.
+
+Article 6 of 7
+Title: Study: Delirium incidence rose among geriatric patients during pandemic
+Publisher: University of Minnesota Twin Cities
+Posted: 4 days ago
+The study analyzed 1,047,680 older adult hospital admissions in Ontario, Canada from January 2017 to March 2022.
+Delirium rates increased during the pandemic (41.5 per 1,000 admitted population vs 35.9 pre-pandemic).
+Hospitalization length and discharge prescriptions for antipsychotics and benzodiazepines also increased during the pandemic.
+The study's findings suggest that COVID-19 hospitalizations in Ontario may be associated with increased delirium rates and related medication prescriptions.
+
+Article 7 of 7
+Title: What to know about COVID Eris: Variant spreading in the UK and US this summer
+Publisher: USA TODAY
+Posted: 5 days ago
+Eris (EG.5.1) is a new COVID-19 variant linked to a spike in hospitalizations overseas.
+It has become prevalent in the U.K. and U.S., with 14.55% of cases in the U.K. and 17.3% of cases in the U.S.
+The variant has been associated with an increase in COVID hospitalizations, including:
++ A 12.1% increase in hospital admissions in the U.S. (week ending July 22)
++ A 40.7% increase in hospitalizations in England (week ending July 29)

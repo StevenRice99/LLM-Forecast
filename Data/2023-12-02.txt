@@ -1,0 +1,47 @@
+Below are 4 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 4
+Title: Flu season has officially started in Canada, public health agency says
+Publisher: CTV News
+Posted: 1 day ago
+Key values:
+Test positivity rate for COVID-19 in Ontario: 20%
+Dominant strain of flu: H1N1
+Hospitalization pressure during H1N1-dominant flu seasons: higher in emergency departments and pediatrics
+
+Article 2 of 4
+Title: Forget the ‘tripledemic.’ The U.S. is headed for a ‘syndemic’ this 2023 winter—and experts warn we’re not prepared
+Publisher: Fortune
+Posted: 1 day ago
+The article discusses the expected respiratory season this winter, with experts predicting a mix of COVID-19, flu, rhinovirus, metapneumovirus, RSV, adenovirus, and seasonal coronavirus. However, there are some uncertainties and potential threats, including:
+A possible surge in cases of mycoplasma pneumoniae, an atypical bacteria that can cause lung infection.
+The emergence of a new strain of swine flu in the UK, which illustrates the unpredictability of respiratory pathogens.
+COVID-19 remaining a major force this season, with experts expecting it to continue to impact hospitalizations and death numbers.
+The article also highlights the potential for variant "Pirola" (BA.2.86) and its descendants to contribute to an anticipated winter surge in COVID-19 cases. This variant is already responsible for around 9% of COVID cases in the US, and experts expect it to continue to grow.
+Experts are considering several theories to explain the wonky post-pandemic viral seasons, including:
+Immunity debt: the idea that people have built up immunity to certain viruses during the pandemic, but this immunity is now waning.
+Suppression of the immune system by COVID-19, making people more susceptible to other infections.
+Co-infection with multiple pathogens at the same time, which can make one or both of them more severe.
+Viral interference: the idea that competitive viruses like COVID-19 "cancel out" other viruses for a period of time.
+Overall, experts are cautioning that this winter's respiratory season is likely to be unpredictable and potentially challenging, with COVID-19 remaining a major threat.
+
+Article 3 of 4
+Title: Most Ottawa COVID-19 signals are very high
+Publisher: CBC.ca
+Posted: 2 days ago
+Key values:
+Average number of Ottawa residents in local hospitals for COVID-19: 79 (including 2 ICU patients)
+New hospital admissions: 54 new patients in the previous week
+Test positivity rate: 20% (very high)
+Active outbreaks: 38 (mostly in retirement homes or hospitals)
+
+Article 4 of 4
+Title: Ontario is reporting a surge in COVID-19. What does that mean for us?
+Publisher: CP24
+Posted: 5 days ago
+Here is a brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Wastewater data shows COVID-19 signal at its highest point in over a year (1.9), with GTA's signal at its highest since Jan 6, 2022.
+Positivity rate of PCR tests is near 20% (21,000 tests completed last week).
+Total number of COVID-19 hospitalizations increased from 3,894 to 4,369 in the last seven days, with 248 admissions in Ontario.
+Peak expected as we enter winter months, according to Dr. Isaac Bogoch.
+Senior population (over 70 years old) remains most disproportionately affected and at risk for hospitalization and death.

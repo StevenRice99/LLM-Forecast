@@ -1,0 +1,79 @@
+Below are 8 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 8
+Title: Diabetes not strongly associated with in-hospital COVID mortality
+Publisher: News-Medical.Net
+Posted: 1 day ago
+The article discusses the limitations of a study that investigated the association between diabetes and mortality among patients hospitalized with COVID-19 in Ontario, Canada, and Copenhagen, Denmark. The main limitations are:
+1. Incomplete data: HbA1C values were not available for all participants, which meant that COVID-19 severity could not be assessed for the entire cohort.
+2. Lack of information on important health determinants: Data on factors such as race, educational status, income, and comorbidities (e.g., obesity) were lacking.
+3. Overestimation of association: The study may have overestimated the association between diabetes and COVID-19-associated in-hospital deaths due to these limitations.
+4. Low generalizability: The findings may not be generalizable to other populations, as both countries selected for the study are high-income nations with socialized health systems.
+These limitations highlight the importance of considering potential biases and confounding factors when interpreting research results.
+
+Article 2 of 8
+Title: B.C. enters third Omicron wave as COVID hospitalizations jump 35% over last week
+Publisher: CBC.ca
+Posted: 1 day ago
+Hospitalizations jumped 35% in British Columbia over the last week (369 people in hospital).
+ICU admissions increased by 12.5% from the previous week (36 patients in ICU).
+The article does not provide specific data on Ontario, but mentions that Ontario also announced its third wave of Omicron.
+The article highlights the importance of vaccination and booster shots in preventing severe outcomes from COVID-19.
+
+Article 3 of 8
+Title: The BA.5 subvariant is fuelling another COVID wave
+Publisher: CBC News
+Posted: 1 day ago
+The Omicron subvariant BA.5 is driving a new wave of infections in Ontario.
+BA.5 has shown an ability to evade previous infection protection and reinfect individuals.
+Data from countries where BA.4 and BA.5 have taken hold suggest they are not more severe than previous Omicron subvariants or more likely to lead to hospitalizations.
+However, the sheer number of people getting sick, particularly those vulnerable to serious illness, is cause for concern due to overtaxed emergency rooms.
+Experts recommend getting a booster shot for protection against more serious illness and keeping vaccination "up to date" in light of evolving virus mutations.
+
+Article 4 of 8
+Title: Ontario's 7th wave of COVID-19 is here, top doctor confirms amid exponential growth
+Publisher: CBC.ca
+Posted: 2 days ago
+Key values for forecasting:
+Test positivity above 10% (first time since May)
+Exponential growth in cases (~80% of public health units)
+Increase in COVID-19 hospitalizations
+Number of people admitted for the virus higher than at any time last summer
+Estimated 6 people per day died from the virus as of July 3, up from 3 the week before.
+
+Article 5 of 8
+Title: Ontario's COVID-19 test positivity climbs to 13.5% as new details of 7th wave emerge
+Publisher: CBC.ca
+Posted: 2 days ago
+Here is a brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+712 people are currently in hospital with COVID-19 (up from 585 last week).
+110 patients are in intensive care due to the virus (up from 95 last week).
+Test positivity has climbed to 13.5% (highest since May).
+Case rates have increased across 25 of Ontario's 34 public health units.
+The BA.5 subvariant is highly transmissible, but there is no evidence it is more severe than previous subvariants.
+Hospital staff morale is low due to burnout and staffing shortages.
+
+Article 6 of 8
+Title: Experts urge 3rd COVID-19 dose amid new wave, with Windsor-Essex low on uptake
+Publisher: CBC.ca
+Posted: 2 days ago
+66% of new circulating strains are now the BA.5 strain, driving an increase in test positivity and hospitalizations.
+The province is limiting fourth doses to people over age 60, as well as adults of any age who are Indigenous, living in long-term care or immunocompromised.
+Ontario's chief medical officer anticipates a smaller wave from what was seen with the main Omicron variant, but warns that hospitalizations will get worse over the coming week or 10 days before decreasing.
+
+Article 7 of 8
+Title: Windsor police suspend vaccine mandate, employees on unpaid leave allowed back
+Publisher: CBC.ca
+Posted: 2 days ago
+Relevant.
+Summary: The article mentions COVID-19 hospitalization trends and a seventh wave of COVID-19 in Ontario, Canada. It does not provide specific data on hospitalizations but indicates the ongoing pandemic situation is being considered by authorities when making decisions about policies like vaccine mandates.
+
+Article 8 of 8
+Title: Ontario has entered another wave of COVID-19, experts say
+Publisher: CTV News Toronto
+Posted: 5 days ago
+Key values:
+Wastewater data is ticking upward throughout June, indicating a potential increase in viral activity.
+The seven-day average for new cases detected through PCR testing was up 34% week-over-week.
+Hospitalizations are also seeing an increase, with 585 people currently in hospitals testing positive for the virus (up from 486 a week earlier).
+The dominant variant is BA.5, which has a faster growth rate and can evade some protective immunity.

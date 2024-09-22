@@ -1,0 +1,87 @@
+Below are 8 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 8
+Title: Ontario's 3rd wave of COVID-19 could hit younger adults harder. Here's why
+Publisher: CBC.ca
+Posted: 1 day ago
+Key values for forecasting:
+Increased risk of hospitalizations and ICU admissions among younger adults (40-75 years old) due to variants of concern
+54% of cases are now variants of the coronavirus
+ICU admissions are ticking upward again after a mid-January high of over 400 COVID-19 patients in Ontario critical care units
+Potential for overwhelming the health-care system with a domino effect impacting non-COVID-related appointments and procedures
+
+Article 2 of 8
+Title: Physician calls for dialysis patients to be moved to front of vaccine queue
+Publisher: CBC.ca
+Posted: 1 day ago
+1.5% of patients undergoing dialysis contracted COVID-19 between March and August 2020.
+60% of those who contracted COVID-19 ended up in hospital.
+30% of those who contracted COVID-19 died from the illness.
+Approximately 750 people are undergoing hemodialysis in the greater Ottawa area.
+
+Article 3 of 8
+Title: Doctors say getting COVID-19 poses much bigger risk of blood clots
+Publisher: CTV News
+Posted: 1 day ago
+Blood clots from COVID-19 are more common than from the vaccine (incidence: 1 in 20 hospitalized with COVID-19 vs 1 in 250,000 to 1 in 500,000 vaccinated).
+Vaccination can reduce hospitalization due to COVID-19 by 80% and death by 85% in people over 80.
+A single dose of vaccine reduces symptomatic COVID-19 infections by 60% in people over 70.
+
+Article 4 of 8
+Title: Quebec surpasses 300,000 positive COVID-19 cases since pandemic began
+Publisher: CTV News Montreal
+Posted: 2 days ago
+Total cases: 300,152
+Active cases: 6,883
+Hospitalizations: 519 (decreased by 13)
+ICU patients: 101 (decreased by 6)
+
+Article 5 of 8
+Title: Mobile On-Site COVID-19 Vaccination of Naturally Occurring Retirement Communities by Neighbourhood Risk in Toronto
+Publisher: Ontario COVID-19 Science Advisory Table
+Posted: 3 days ago
+The text discusses a strategy for vaccinating older adults living in high-density residential buildings (NORCs) against COVID-19. The approach involves mobile on-site vaccination teams that can reach residents in their homes, rather than requiring them to travel to a clinic or hospital.
+Key points from the text include:
+1. Practical considerations: Providing mobile on-site vaccination to NORCs requires outreach efforts to facility management and residents, as well as a supply of COVID-19 vaccines with less stringent cold chain requirements.
+2. Infrastructure limitations: NORCs may have physical infrastructure limitations such as slow or broken elevators, which can make it difficult to set up an on-site clinic.
+3. Door-to-door vaccination: Door-to-door vaccination should be considered, especially if the building has limited common areas where a clinic could be set up.
+4. Collaboration with healthcare providers: Collaboration with community paramedics or other healthcare providers who are familiar with NORC environments can be beneficial.
+5. Coordination and division of labor: Mobile on-site vaccination teams should be coordinated and divided into smaller units responsible for different floors, with each unit consisting of vaccinators and volunteers/staff who greet residents, confirm informed consent, vaccinate, collect data, and monitor for adverse reactions.
+6. Minimizing barriers to vaccine uptake: Teams should be aware of potential barriers to vaccine uptake, such as language barriers, and take steps to minimize them.
+7. Vaccinating the entire building: When vaccinating a NORC, particularly in a high-risk community, the entire building should be considered for vaccination, not just older adults.
+The text also highlights the potential benefits of this approach beyond COVID-19, including:
+1. Rethinking aging services: The approach to vaccinating NORCs could provide a roadmap for re-designing services to support aging in place.
+2. Aging in place: Optimizing NORCs can enable older adults to age in their own homes with choice and dignity.
+The methods used to identify NORCs include:
+1. Retrieving age distribution data: Retrieving the age distribution for all residents within each of Toronto's 44,935 postal codes from the Registered Persons Database.
+2. Identifying high-density buildings: Identifying postal codes with at least 30% of their residents being 65 years or older and at least 50 older persons per postal code.
+3. Geocoding and mapping: Geocoding each building to assign longitude and latitude, and mapping using Tableau software.
+
+Article 6 of 8
+Title: COVID-19 might have been in Canada earlier than when it was first identified: expert
+Publisher: CTV News
+Posted: 7 days ago
+Key values:
+Early warning systems can help officials assess action needed (Julianne Piper)
+Timing matters when bringing in border measures to curb transmission (Piper)
+Countries with tight border restrictions early on were more successful at controlling the virus (New Zealand, Vietnam, Australia)
+Domestic measures combined with stopping the virus at the gates would have helped slow or prevent spread (Piper)
+
+Article 7 of 8
+Title: A new COVID-19 side effect? Some patients are developing sudden onset diabetes
+Publisher: CTV News
+Posted: 7 days ago
+Up to 14% of COVID-19 patients may develop sudden onset diabetes.
+People with diabetes are already more at risk of experiencing severe outcomes if they contract COVID-19.
+The connection between COVID-19 and diabetes development is described as "a bidirectional relationship".
+Researchers are investigating the possible causes, including steroid medications used to treat COVID-19 and the virus's direct effect on the pancreas.
+
+Article 8 of 8
+Title: SARS-CoV-2 'ready-made' for human transmission, study suggests
+Publisher: CTV News
+Posted: 7 days ago
+The article discusses how SARS-CoV-2 evolved before the first reported human case, making initial transmission from bats to humans easy. Key points for forecasting COVID-19 hospitalizations in Ontario, Canada: 
+- The virus's transmissibility was high from the outset.
+- Significant genomic changes occurred before the jump to humans.
+- Human-to-human transmission led to recent changes and variants (e.g., B.1.1.7, B.1.351, P.1).
+- Variants evade antibodies and immunities, making vaccination crucial.

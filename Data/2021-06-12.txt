@@ -1,0 +1,84 @@
+Below are 8 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 8
+Title: Unused field hospital at Butterdome coming down: AHS
+Publisher: CTV News Edmonton
+Posted: 1 day ago
+The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Key values include:
+Peak total COVID-19 hospitalizations: 900 (late December)
+Peak ICU admissions: 180 (May)
+Reduction of non-emergent surgeries by 30% to make room for COVID-19 patients
+Capacity to treat up to 425 COVID-19 ICU patients
+
+Article 2 of 8
+Title: Hospitals don't feel like they're out of 3rd COVID wave, says St. Mary's General president
+Publisher: CBC.ca
+Posted: 1 day ago
+34 people are currently hospitalized with COVID-19 in Waterloo region.
+20 of them are in the intensive care unit.
+Hospital admissions have increased over the past week, with 16 new infectious admissions at St. Mary's General Hospital.
+The delta variant is present in the community and may be contributing to the slower drop in case counts despite increasing vaccination rates.
+Hospitalizations are impacting the ability to resume surgeries and frontline workers are experiencing high levels of fatigue due to longer hospital stays and increased critical care requirements.
+
+Article 3 of 8
+Title: Impacts of the COVID-19 pandemic in nursing and residential care facilities in Canada
+Publisher: Statistique Canada
+Posted: 2 days ago
+This text appears to be a report on a survey conducted by the Canadian Institute for Health Information (CIHI) regarding the impact of the COVID-19 pandemic on long-term care facilities in Canada.
+Here are some key points from the report:
+1. Survey methodology: The survey was sent to 5,260 facilities across Canada and had an overall response rate of 66%. Response rates were higher in the private sector (71%) than in the public sector (55%).
+2. Data collection: The survey collected basic information on facility characteristics, such as employee and resident counts for the 2019/2020 fiscal year, as well as information related to the COVID-19 pandemic up to and including December 31, 2020.
+3. Descriptive statistics: Basic descriptive statistics were used to describe the many changes and challenges faced by each type of facility during the pandemic.
+4. Logistic regression analysis: Logistic regression was used to assess the relationship between certain facility characteristics (including region, for-profit status, private or shared rooms, number of residents, registered nurses on staff, cases among employees, critical staffing shortages, and personal protective equipment shortages) and the risk of an outbreak, defined as one or more COVID-19 cases among residents.
+5. Risk ratios: Results were presented as risk ratios, which compares the risk of an outbreak for one group (e.g., Ontario) versus another group (e.g., Quebec), adjusted for all other listed variables.
+Some references to related studies and reports are also provided:
+1. Brown et al. (2021): Association between nursing home crowding and COVID-19 infection and mortality in Ontario, Canada.
+2. CIHI (2020): Pandemic Experience in the Long-Term Care Sector: How Does Canada Compare with Other Countries?
+3. CIHI (2021a): The Impact of COVID-19 on Long-Term Care in Canada: Focus on the First 6 Months.
+4. CIHI (2021b): Factors associated with COVID-19 outbreaks, transmission and poor outcomes in Ontario’s LTC homes: Presentation to the Ontario Long-Term Care Commission.
+Overall, this report provides an overview of the impact of the COVID-19 pandemic on long-term care facilities in Canada, including the results of a survey conducted by CIHI.
+
+Article 4 of 8
+Title: Your guide to COVID-19 reopenings: what you can do — and when — in each province
+Publisher: CBC.ca
+Posted: 2 days ago
+Relevant.
+The article highlights the following values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+70% of adults vaccinated with one dose
+20% of adults have two doses
+Positive trends in public health and health system indicators
+Declining case counts and hospitalization numbers
+
+Article 5 of 8
+Title: Age of anxiety: Rise in youth suicide attempts, hospitalizations unveils different kind of health crisis
+Publisher: The Independent & Free Press
+Posted: 3 days ago
+Ontario, Canada is mentioned. 
+The article discusses postal codes in various locations. The relevant information for forecasting COVID-19 hospitalizations in Ontario, Canada would be the list of postal codes within Ontario, Canada.
+
+Article 6 of 8
+Title: COVID-19 patients from Extendicare Parkside were discharged from hospital while still sick: union
+Publisher: CBC.ca
+Posted: 3 days ago
+Values most important for forecasting:
+Timeframe of 10 days after symptom onset considered non-infectious (may impact hospitalization rates)
+Oxygen supply issues at long-term care facilities (may impact hospitalization rates due to complications)
+Staffing levels and training at long-term care facilities (may impact hospitalization rates due to inadequate care)
+
+Article 7 of 8
+Title: Age of anxiety: More Ontario youth hospitalized as pandemic creates ‘perfect storm’ for eating disorders
+Publisher: Guelph Mercury Tribune
+Posted: 4 days ago
+Ontario, Canada is mentioned. 
+The article discusses postal codes in various regions. 
+Summary: FALSE
+
+Article 8 of 8
+Title: Cortellucci Vaughan Hospital opens as ‘full-service hospital’ after being exclusively for COVID
+Publisher: Global News
+Posted: 6 days ago
+The article reports that Cortellucci Vaughan Hospital, which was previously used exclusively to support the pandemic response, is now open as a full-service hospital. The hospital cared for 514 COVID-19 patients since its opening on Feb 7 and has an emergency department, specialized programs, and core services such as surgery, medicine, and critical care.
+Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Current number of hospitalized COVID-19 patients: 545
+Number of patients in intensive care units (ICUs): 510
+Number of patients on a ventilator in ICUs: 344

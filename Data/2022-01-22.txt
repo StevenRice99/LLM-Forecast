@@ -1,0 +1,78 @@
+Below are 8 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 8
+Title: Latest research says combination of throat and nose swabs provides better COVID-19 rapid test results: Nova Scotia Health
+Publisher: CTV News Atlantic
+Posted: 1 day ago
+Relevant.
+Summary: 
+- Combined throat and nose swabs detect 82% of COVID-19 cases (vs 60% with either site alone).
+- Using both sites increases sensitivity to 88.7% compared to PCR test results.
+- Nasal swab alone is more effective than throat swab alone for detecting COVID-19.
+- Research was conducted on over 1,500 people in Nova Scotia.
+
+Article 2 of 8
+Title: Ontario clinic accidentally gives people six doses of COVID-19 vaccine in one shot
+Publisher: CTV News Toronto
+Posted: 1 day ago
+The incident occurred on January 8 at the Schomberg Medical Clinic.
+Multiple people (at least 20) were given undiluted doses of the Pfizer COVID-19 vaccine, which is equivalent to six times the proper dose.
+Symptoms reported include fever, chills, body aches, lethargy, and confusion.
+The incident was reported to York Region Public Health.
+
+Article 3 of 8
+Title: Officials optimistic treatments will help ease COVID strain on Canada’s health system
+Publisher: Comox Valley Record
+Posted: 2 days ago
+Some provinces hopeful fifth pandemic wave peaking or will soon.
+Relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. 
+Hospitalization rates are increasing in Saskatchewan (95% over the last month).
+New Brunswick has a record 123 people in hospital with COVID-19.
+Provinces and territories are receiving shipments of Paxlovid, an antiviral drug that can prevent COVID hospitalization.
+Health officials in Ontario, Quebec, and Manitoba are optimistic that the Omicron-fuelled fifth pandemic wave is peaking or will be soon.
+
+Article 4 of 8
+Title: Some patients go in for COVID-19, others are infected alongside another issue. In hospitals, those lines blur
+Publisher: CBC News
+Posted: 4 days ago
+Relevant article for forecasting COVID-19 hospitalizations in Ontario, Canada.
+Key values:
+Hospitalization rates are increasing due to the Omicron variant
+Patients admitted with other health issues who also test positive for COVID-19 have poorer outcomes and longer lengths of stay
+The distinction between patients admitted "for" COVID-19 versus those infected "with" COVID-19 is important for planning health-system capacity
+The current surge in hospital admissions due to Omicron is putting strain on the healthcare system, regardless of how patients are classified.
+
+Article 5 of 8
+Title: Study predicts incidence rates of adverse outcomes of COVID-19 vaccination
+Publisher: News-Medical.Net
+Posted: 4 days ago
+The study estimated background incidence rates of 9 adverse events of special interest (AESI) in Ontario, Canada from 2015 to 2020.
+The AESI included conditions such as myocarditis, pericarditis, Bell's palsy, and Guillain-Barré syndrome.
+The study found that the annual rates for most AESI fluctuated over the study period and were lower in 2020 than the mean annual rate during 2015-2019.
+The incidence rates for some AESI increased with age, while others showed seasonal variation.
+The study provided estimates of background rates of hospitalizations and emergency department visits for these conditions, which can help clinicians and public health authorities to remain vigilant of AESI following COVID-19 immunization.
+
+Article 6 of 8
+Title: Ontario reports 3,887 hospitalized with COVID-19, antiviral doses for most at risk arriving soon
+Publisher: CBC.ca
+Posted: 5 days ago
+3,887 reported hospitalizations with 578 ICU patients (Monday)
+Potential underreporting due to weekend reporting gaps
+8,521 new cases (note: restricted testing access makes this number unreliable)
+22 additional deaths reported
+
+Article 7 of 8
+Title: Airlines and Pearson ask government to drop mandatory arrival testing requirement
+Publisher: CP24
+Posted: 5 days ago
+Relevant.
+The article mentions that many provinces, including Ontario, have restricted molecular PCR testing to those at higher risk of being hospitalized from COVID-19. The percentage of positive tests for arriving travellers is lower than in the community. This information could be useful for forecasting COVID-19 hospitalizations in Ontario, Canada.
+
+Article 8 of 8
+Title: Ontario reports 43 more COVID-19 deaths, almost 4,000 hospitalizations
+Publisher: CityNews Toronto
+Posted: 7 days ago
+3,957 people are hospitalized with COVID-19 (34% increase over 7 days)
+588 patients are in ICU due to COVID-19 (31 increase from previous day)
+52% of hospitalized patients were admitted due to COVID-19
+78% of ICU patients were due to COVID-19

@@ -1,0 +1,75 @@
+Below are 7 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 7
+Title: Early signs suggest fall COVID-19 wave starting in Canada — before updated boosters are available
+Publisher: CBC News
+Posted: 1 day ago
+Key values:
+Positive test percentage has been increasing over the last month (nearly 9%).
+Hospitalizations increased by 11% in a week.
+Wastewater signals are rising, with at least 13 of 39 sites showing an increase.
+Population immunity is high due to vaccination and prior infections, but may be waning.
+A contagious subvariant called EG.5 could fuel a surge.
+Timing of fall booster shots is uncertain, which may impact the size of the wave.
+
+Article 2 of 7
+Title: New COVID-19 EG.5 sub-variant detected in Sask.
+Publisher: CTV News Saskatoon
+Posted: 2 days ago
+Hospitalizations have decreased from 53 to 27 over two weeks in Saskatchewan.
+ICU admissions have decreased from 10 to 7 over two weeks in Saskatchewan.
+The new EG.5 variant is spreading globally and has been detected in 21 cases in Saskatchewan.
+Vaccination rates are declining, with only 46.4% of the population up-to-date on their COVID-19 vaccines.
+Booster shots reduce the risk of COVID-19 death by three times compared to unvaccinated individuals.
+
+Article 3 of 7
+Title: New COVID-19 subvariant EG.5 confirmed in New Brunswick
+Publisher: CBC.ca
+Posted: 3 days ago
+The EG.5 subvariant of Omicron has been detected in Canada since at least May and has shown increased prevalence.
+National per cent positivity increased, while the number of COVID-19 patients in hospital across Canada also increased "slightly" between Aug. 2 and Aug. 8.
+WHO increased the status of EG.5 from a variant under monitoring to a variant of interest, meaning it has genetic changes that give it a growth advantage and its prevalence is growing.
+The effectiveness of current vaccines against EG.5 is unclear, but bivalent vaccines were found to be 62% effective at preventing hospitalizations among those with a normal immune system.
+The risk of severe disease from EG.5 does not appear to be higher than previous Omicron strains, but the subvariant may contribute to a surge in cases and become dominant in some countries or globally.
+
+Article 4 of 7
+Title: COVID variant EG.5: What we know about 'eris' – DW – 08
+Publisher: DW (English)
+Posted: 3 days ago
+EG.5 (Eris) is a new COVID variant classified as a Variant of Interest by the WHO.
+It has been detected in multiple countries, including Canada.
+The variant spreads fast and can "escape" the human immune system's response.
+The WHO notes that while vaccination and past infection provide some immunity, there is still a risk of severe cases and hospitalizations due to new variants like EG.5.
+Updated COVID vaccines targeting EG.5 are expected to be available in the coming months.
+Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Detection rate of EG.5 in Ontario
+Vaccination coverage and immunity levels in Ontario
+Past infection rates and immunity levels in Ontario
+Hospitalization and severe case data related to EG.5 in Ontario
+
+Article 5 of 7
+Title: More people than expected are dying in Canada in 2023 for reasons that are not yet clear
+Publisher: The Globe and Mail
+Posted: 4 days ago
+Hospitalizations are higher than during the first two pandemic summers but hovering around their lowest point since December 2021.
+Excess mortality (15-20% higher than predicted) indicates a need to investigate underlying causes of deaths.
+The article highlights the importance of improving death-reporting systems in Canada, which is relevant for forecasting COVID-19 hospitalizations.
+
+Article 6 of 7
+Title: COVID-19 activity in Canada showing early signs that it may be increasing: data
+Publisher: CTV News
+Posted: 4 days ago
+Relevant.
+COVID-19 cases may be rising in Canada after a period of decline (PHAC).
+XBB subvariants account for 99% of genetically sequenced cases, and EG.5 is expected to dominate soon.
+EG.5 has more immunity-evading properties than other variants, making it potentially more contagious.
+Vaccination this fall will likely preserve the lives and health of older adults.
+Updated vaccines targeting XBB subvariant family are expected to have good efficacy in preventing severe infection and reducing symptomatic disease risk.
+
+Article 7 of 7
+Title: COVID: Study shows impact of hybrid immunity in Canada
+Publisher: CTV News
+Posted: 5 days ago
+High immunity levels among the population (76% had some COVID infection), but Omicron variants and subvariants can still cause infections.
+About 1 in 4 Canadians never had COVID.
+Vaccinations are recommended to protect against future COVID-19 cases.

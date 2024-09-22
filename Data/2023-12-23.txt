@@ -1,0 +1,79 @@
+Below are 7 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 7
+Title: 'Tis the season to be extra COVID-safe
+Publisher: CBC.ca
+Posted: 1 day ago
+COVID activity in Ontario is "high" overall and increasing.
+Public Health recommends wearing a multi-layer well-fitting mask to reduce the chances of getting COVID-19.
+Good ventilation can help keep people protected during holiday gatherings.
+Air purifiers with HEPA filters can efficiently trap particles that contain SARS-CoV-2 virus from the air.
+CO2 monitors can provide a measure of the level of ventilation in a space, but high levels alone don't necessarily mean transmission risks are low.
+Rapid testing before gatherings is recommended by some experts to determine if someone is contagious right now.
+
+Article 2 of 7
+Title: What we know so far about the new COVID variant, including symptoms
+Publisher: CTV News
+Posted: 2 days ago
+The JN.1 variant of COVID-19 has been detected in Canada (6.8% of sequences submitted).
+The risk to public health remains "low" according to the WHO.
+Symptoms are no different from previous variants, including Omicron BA.2.
+Typical symptoms include dry cough, headache, fever, and fatigue.
+Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Proportion of JN.1 sequences detected in Ontario (not specified in the article).
+Vaccination rates in Ontario compared to last year.
+Hospitalization rates due to respiratory viruses in general during winter season.
+Immunity levels and overall health of the population in Ontario.
+
+Article 3 of 7
+Title: Alberta's COVID death toll up by 17 since last week, with 190 more hospitalizations
+Publisher: CBC.ca
+Posted: 2 days ago
+The article reports 190 new hospitalizations and 21 ICU admissions due to COVID-19 in Alberta. Total hospitalizations this season are 2,842, including 173 ICU admissions. The data is from the 2023-24 respiratory virus tracking season (Aug 27, 2023 - Aug 24, 2024).
+
+Article 4 of 7
+Title: COVID, flu, RSV levels stay high during busy gathering time
+Publisher: CBC.ca
+Posted: 3 days ago
+COVID rates in Ottawa remain very high and stable.
+Average number of Ottawa residents in local hospitals for COVID-19 is around 73 (stable).
+Wastewater levels are considered very high, indicating a high level of virus circulation.
+Test positivity rate in Ottawa is about 16% (stable), with a high number of new cases reported.
+Active COVID outbreaks in Ottawa are stable at 33, including half in retirement homes.
+
+Article 5 of 7
+Title: JN.1, the WHO’s newest ‘variant of interest,’ has spiked COVID wastewater levels to all-time highs in some countries. What you need to know about the ‘Pirola’ offshoot
+Publisher: Fortune
+Posted: 3 days ago
+The article discusses the origin and potential future of the JN.1 variant of COVID-19.
+Origin: 
+Scientists are unsure where JN.1 came from, but it's thought to have evolved in an immunocompromised patient who had a long-term infection with BA.2 (also known as "stealth Omicron") for over a year. In such cases, the virus can repeatedly evolve around human immunity and may "hole up" in unexpected places like the gastrointestinal system.
+Evolution: 
+JN.1 is likely to continue evolving, just like its predecessor BA.2.86 did, or it will die out as all COVID strains do. Variants continually compete in a survival-of-the-fittest scenario, acquiring similar mutations through convergent evolution. JN.1 may acquire new mutations that make its descendants more concerning than itself.
+Future: 
+Some experts believe that most new major COVID variants could evolve from JN.1, just as they currently evolve from Omicron. This might mark the start of a new era in the pandemic. However, public health officials can't focus solely on the current landscape when planning for the future, as "weird, one-off things" can always re-enter the population.
+Naming: 
+The variant trackers have decided not to assign a new name to JN.1 and instead refer to it as a member of the Pirola family (its predecessor's nickname). They've had discussions about giving JN.1 its own nickname, but for now, they're focusing on the broader concept of evolving lineages rather than individual variants.
+In summary, JN.1 is likely to continue evolving and may give rise to new, potentially more concerning variants in the future.
+
+Article 6 of 7
+Title: COVID-19 kills 2 more in N.B., hospitalizations and nursing home outbreaks jump
+Publisher: CBC.ca
+Posted: 4 days ago
+Key values:
+Hospitalization numbers: 73 people hospitalized with COVID (up from 51)
+ICU admissions: 6 people (down from 7)
+Outbreaks: 27 COVID outbreaks (nearly 108% increase)
+Positivity rate: 13% (unchanged)
+Vaccination rates: 119,487 XBB.1.5 COVID vaccines administered since Oct. 4
+
+Article 7 of 7
+Title: Coronavirus subvariant JN.1 growing fast in US, already dominant in the Northeast
+Publisher: CNN
+Posted: 4 days ago
+Key values:
+JN.1 is spreading rapidly worldwide, including in Canada.
+Hospitalizations for COVID-19 have risen 51% in the US over the past four weeks.
+The current COVID-19 vaccine offers good protection against BA.2.86 and its offshoots, including JN.1.
+Waning immunity due to low vaccination rates (18% of adults received the latest vaccine as of Dec 9) may contribute to rising hospitalizations.
+Dr. T. Ryan Gregory from the University of Guelph in Ontario notes that JN.1 is highly competitive with existing XBB variants and on track to become globally dominant.

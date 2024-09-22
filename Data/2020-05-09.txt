@@ -1,0 +1,70 @@
+Below are 7 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 7
+Title: Ontario records lowest number of new COVID-19 cases in more than a month
+Publisher: CTV News Toronto
+Posted: Today
+1,016 hospitalizations (decrease of 72 patients from Friday)
+203 ICU admissions (158 on ventilators)
+Positivity rate: below 4% (informing the eventual easing of restrictions)
+Deaths in long-term care homes account for 74% of all deaths recorded in Ontario.
+
+Article 2 of 7
+Title: Stories of CERB: Canadians share how they're using the emergency benefit
+Publisher: CTV News
+Posted: 1 day ago
+The article highlights the experiences of several individuals who have been affected by the COVID-19 pandemic and are relying on the Canadian Emergency Response Benefit (CERB) to get by. Here are some key points from the article:
+Many people, including those who were previously self-employed or had irregular income, are struggling to make ends meet due to the pandemic.
+CERB has been a lifeline for many households, providing them with a monthly stipend of $2,000 to cover basic expenses such as rent, groceries, and utilities.
+Some individuals have reported that CERB is not enough to cover their expenses, but it's better than nothing. Others have used the benefit to pay off debts or build up savings for when they return to work.
+The article also highlights the emotional toll of the pandemic on some individuals, with one person describing feeling "scared" and another saying that CERB has brought them "comfort in the midst of chaos."
+Overall, the article suggests that CERB has been a crucial support for many households during this difficult time.
+
+Article 3 of 7
+Title: Why some nursing homes won't let families install 'granny cams' to check on their loved ones
+Publisher: CBC.ca
+Posted: 2 days ago
+The article discusses the use of "granny cams" in long-term care homes, which are cameras installed by family members to monitor their loved ones' care and safety. While some care homes permit the use of these cameras, others have raised concerns about audio recording, citing laws that prohibit recording private conversations without consent.
+However, an Ottawa lawyer, Daniel Nassrallah, argues that the law does not apply in residents' rooms, as staff do not have a reasonable expectation of privacy when they are in a resident's room. He advises his clients to install cameras with audio functionality and suggests that homes can put up signs indicating that there is recording taking place.
+Nassrallah also cites a Quebec regulation and case law from 2017 that establish the resident's room as their home and their power of attorney's right to install audio/video recording devices. The Supreme Court of Canada has rejected an appeal challenging this ruling, which Nassrallah sees as persuasive common law in Ontario.
+The article also quotes Miranda Ferrier, president of the Ontario Personal Support Workers' Association, who supports the use of cameras and suggests that homes should be accommodating during the COVID-19 pandemic. She proposes making an exception to allow two-way audio communication between residents and their families.
+Overall, the article highlights the complexities surrounding the use of granny cams in long-term care homes and the need for clarity on this issue.
+
+Article 4 of 7
+Title: Death toll at Orléans care home battling COVID-19 rises to 29
+Publisher: CBC.ca
+Posted: 6 days ago
+29 deaths and 45 new cases at Madonna Care Community in Orléans.
+Long-term care residents make up over two-thirds of all COVID-19 deaths in Ontario.
+18 outbreaks at long-term care and retirement homes in Ottawa.
+
+Article 5 of 7
+Title: Rapid test for COVID-19 recalled after Health Canada expresses concerns
+Publisher: CTV News
+Posted: 6 days ago
+Health Canada expressed concern about the effectiveness of a rapid COVID-19 test due to issues with its proprietary swab.
+Real-world trials showed the test did not perform well in clinical settings.
+The recall may affect the speed of further test increases and impact rural communities where local in-clinic tests are useful.
+The federal government aims to accelerate approvals for testing and other life-saving measures, but will adjust as new information becomes available.
+
+Article 6 of 7
+Title: Got a COVID-related ticket? Here's why some lawyers say you might want to fight it
+Publisher: CBC.ca
+Posted: 7 days ago
+Relevant.
+Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: 
+Number of lockdown-related tickets issued (3,030 in Quebec, 910 in Ontario)
+Fines issued ($1,546 in Quebec, $880 in Ontario) 
+Proportion of people who have been ticketed and may challenge the fine in court.
+
+Article 7 of 7
+Title: PSW death sheds light on risk facing health-care workers, home care patients
+Publisher: CTV News
+Posted: 7 days ago
+Relevant.
+The article highlights concerns about home care patients in Ontario during the COVID-19 pandemic due to:
+Lack of personal protective equipment (PPE) among home care workers
+High risk of transmission among clients who see multiple support workers daily
+Potential for a single worker to visit various homes, increasing exposure risk
+No requirement for employers to limit PSWs to one care home or private residence
+These factors are relevant for forecasting COVID-19 hospitalizations in Ontario, Canada.

@@ -1,0 +1,100 @@
+Below are 9 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 9
+Title: Ontario reports 109 new COVID-19 deaths, a number not seen since May
+Publisher: Radio-Canada.ca
+Posted: 1 day ago
+1,663 people are currently hospitalized with COVID-19 (up from 1,629 the week before).
+158 people are in intensive care with COVID-19 (up from 143 the week prior), with 65 requiring a ventilator.
+Hospitalization and ICU numbers are key indicators for forecasting COVID-19 hospitalizations.
+
+Article 2 of 9
+Title: Modelling group says B.C.'s under-reporting of COVID-19 data makes personal risk assessment harder
+Publisher: CBC.ca
+Posted: 3 days ago
+The article discusses under-reporting of COVID-19 cases and hospitalizations in British Columbia (B.C.), with estimates suggesting that actual numbers could be 100 times higher.
+The highly infectious BA.5 Omicron variant is dominant in B.C., which may lead to increased hospitalizations.
+Population-level immunity to the virus is waning, making it more likely for people to get infected and hospitalized.
+There are significant excess deaths in B.C., suggesting that actual death numbers might be higher than reported.
+Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Variants of concern (e.g. BA.5)
+Population-level immunity
+Vaccination rates (especially booster shots)
+
+Article 3 of 9
+Title: ‘Are you staying up to date on your COVID-19 vaccinations?’ asks Peterborough’s medical officer of health
+Publisher: kawarthaNOW.com
+Posted: 3 days ago
+Relevant.
+Key values for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Case rates
+Hospitalizations (directly relevant)
+Deaths
+Percent positive PCR tests
+Rapid antigen tests
+Wastewater data (indirect indicators of community transmission)
+
+Article 4 of 9
+Title: Health Canada approves drug to treat COVID-19 in immunocompromised patients, AstraZeneca says
+Publisher: CBC News
+Posted: 3 days ago
+Relevant.
+Evusheld is an injectable treatment option for immunocompromised individuals (e.g., organ transplant recipients) aged 12+ in Ontario, Canada.
+Key values: 
+- Age range (12+)
+- Immunocompromised status
+- Treatment type (injectable antibody-based therapy)
+- Potential benefit (~5% compared to placebo)
+- Unknown long-term safety and potential interactions with future variants.
+
+Article 5 of 9
+Title: Sask. youth eligible for bivalent COVID vaccine
+Publisher: CBC.ca
+Posted: 3 days ago
+Hospitalizations are elevated or increasing in some areas (Canada-wide), which could be an early sign of a fall resurgence.
+The Canadian government's data shows 4,700 daily hospitalizations from Sept. 15 to Oct. 15, compared to about 2,000 for the same period in 2021.
+New strains of the virus, such as BQ.1.1 and BQ.1.11 subvariants, are emerging and have been detected in Regina, Saskatchewan.
+The bivalent vaccines (Pfizer-BioNTech) provide better protection against infection from new strains, including Omicron variants.
+Low vaccine uptake rates among Canadian provinces, particularly in Alberta and Saskatchewan, may lead to serious COVID-19 outcomes if individuals contract the virus.
+
+Article 6 of 9
+Title: The effects of the COVID-19 pandemic on community respiratory virus activity
+Publisher: Nature.com
+Posted: 5 days ago
+The text discusses the impact of the COVID-19 pandemic on the circulation of various non-SARS-CoV-2 respiratory viruses. Here are the main points:
+1. Rhinoviruses and Respiratory Enteroviruses: These viruses persisted during the pandemic, with levels returning to pre-pandemic seasons as social distancing measures were eased. Their stability on surfaces and genomic diversity may have allowed them to quickly increase and persist when NPIs were relaxed.
+2. Inverse Relationship with SARS-CoV-2: In some locations, there was an inverse relationship between the levels of SARS-CoV-2 and rhinovirus/respiratory enterovirus. As SARS-CoV-2 cases decreased, these viruses increased, and vice versa.
+3. Other Non-SARS-CoV-2 Respiratory Viruses: Seasonal human coronavirus, human parainfluenza virus, and human metapneumovirus experienced marked reductions in circulation at the onset of the pandemic but rebounded as NPIs were lifted. Adenoviruses and respiratory enteroviruses persisted despite NPIs, with adenovirus levels decreasing initially but then stabilizing.
+4. Human Bocavirus: Reports showed initial decreases in cases early in 2020, followed by a later resurgence beyond previous season patterns.
+5. Human Parechovirus: Data on circulation patterns during the pandemic are limited, with one study showing a decrease in detection in young children early in 2020.
+Overall, the text suggests that the COVID-19 pandemic had varying impacts on different non-SARS-CoV-2 respiratory viruses, with some persisting or rebounding as NPIs were relaxed.
+
+Article 7 of 9
+Title: Trudeau urges Canadians to get their COVID, flu shots to avoid other health measures
+Publisher: CBC News
+Posted: 5 days ago
+80% of Canadians have received the primary series of a COVID-19 vaccine.
+49% of Canadians have received one additional booster dose.
+Health officials are concerned about recent upward trends in COVID-19 cases and hospitalizations.
+Ontario's Chief Medical Officer of Health may recommend mask mandates if the health care system becomes too strained.
+
+Article 8 of 9
+Title: Characteristics of hospitalized patients with SARS-CoV-2 infection during successive waves of the COVID-19 pandemic in a reference hospital in Spain
+Publisher: Nature.com
+Posted: 5 days ago
+Key values:
+Vaccination rate: High vaccination rate among the elderly population (mentioned as "most of the population... and especially all the elderly" having been vaccinated)
+Age distribution of patients: Younger patients with mild symptoms were admitted to hospitals
+Vaccine efficacy against Delta variant: Lower vaccine effectiveness after partial vaccination compared to full vaccination, but still high overall protection (e.g., 72% vs. 83% for Moderna vaccine)
+
+Article 9 of 9
+Title: Therapeutic advances in COVID-19
+Publisher: Nature.com
+Posted: 5 days ago
+The text discusses the use of anti-inflammatory therapies such as baricitinib, dexamethasone, and tocilizumab in patients with COVID-19, particularly those with kidney disease. Here are the main points:
+1. Baricitinib: A study of 1,525 adult patients hospitalized with COVID-19 found that baricitinib (4 mg daily) reduced 28-day mortality compared to placebo (8% vs 13%). However, a subsequent smaller RCT in critically ill adults receiving IMV or ECMO reported a higher mortality benefit with baricitinib versus placebo. The largest RCT of baricitinib to date found lower 28-day mortality in patients receiving baricitinib (age-adjusted RR 0.87, 95% CI 0.77-0.99).
+2. Kidney disease relevance: The largest RCTs assessing dexamethasone and tocilizumab included patients with AKI, CKD, and kidney failure requiring KRT, as well as kidney transplant recipients. No dose adjustments were required for these agents in patients with kidney dysfunction.
+3. Baricitinib dosing: Baricitinib requires dose reduction in patients with estimated glomerular filtration rate (eGFR) <60 ml/min/1.73 m2, to 2 mg daily in those with eGFR 30-59 ml/min/1.73 m2 and to 1 mg daily in those with eGFR 15-29 ml/min/1.73 m2.
+4. Antiviral agents: Molnupiravir can be used without dose adjustments, while remdesivir is contraindicated in patients with eGFR <30 ml/min/1.73 m2. Nirmatrelvir-ritonavir requires caution in kidney transplant recipients and those with eGFR <30 ml/min/1.73 m2.
+5. Secondary infection risk: The use of anti-inflammatory agents like tocilizumab or dexamethasone may increase the risk of secondary infection, particularly in patients with kidney failure or kidney transplant recipients.
+Overall, the text highlights the importance of considering kidney function when using anti-inflammatory therapies for COVID-19 and the need for further research on their effects on AKI and kidney disease.

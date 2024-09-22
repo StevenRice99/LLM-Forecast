@@ -1,0 +1,97 @@
+Below are 7 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 7
+Title: Why some people might want to get a COVID-19 shot in their thigh instead of their arm
+Publisher: CTV News
+Posted: 1 day ago
+Lymphedema prevalence in Ontario: Not mentioned
+Alternative injection sites (e.g., thigh) considered for individuals with lymphedema or exceptional circumstances: Yes, accommodated by some provincial health authorities
+Risk of infection and reduced vaccine efficacy due to lymphedema: Possible, but rare and severe cases only
+
+Article 2 of 7
+Title: Remdesivir for Hospitalized Patients with COVID-19
+Publisher: Ontario COVID-19 Science Advisory Table
+Posted: 2 days ago
+The text describes the use of remdesivir in treating COVID-19, based on a scientific brief from Ontario, Canada.
+Key Findings: 
+1. Remdesivir reduced mortality and improved outcomes in hospitalized patients with COVID-19.
+2. The pooled relative risk (RR) for mortality was 0.85 (95% CI 0.69 to 0.96), indicating an absolute risk reduction of 2.3%.
+3. Remdesivir shortened the time to recovery by 2 days, and reduced hospital length of stay by 5 days.
+4. Serious adverse events were lower in patients receiving remdesivir compared to placebo or usual care.
+Recommendations: 
+1. Critically Ill Patients: Remdesivir is not recommended for critically ill patients with COVID-19 requiring mechanical ventilation or ECMO.
+2. Moderately Ill Patients: Remdesivir 200 mg day 1 then 100 mg daily for 4 days is recommended for moderately ill patients with suspected or confirmed COVID-19.
+3. Mildly Ill Patients: Remdesivir is not recommended for mildly ill patients with suspected or confirmed COVID-19.
+Practical Considerations: 
+1. There is a limited supply of remdesivir in Ontario, and clinicians should be selective about using the drug only when it is needed.
+2. Clinicians are encouraged to follow evidence-based principles in prescribing remdesivir, similar to strategies for tocilizumab.
+
+Article 3 of 7
+Title: NACI's vaccine message adds 'another level of confusion' for Ghanaians, community leader says
+Publisher: CBC.ca
+Posted: 3 days ago
+The article mentions that Ghanaian Canadian Association of Ontario has over 45,000 members in Toronto.
+The association has been hosting workshops and webinars since the pandemic began to share information about COVID-19.
+Around 15 members died after contracting COVID-19, while countless others were hospitalized.
+Community leaders are playing an important role in building trust and encouraging people to get vaccinated.
+The article highlights the importance of community leadership in promoting vaccination efforts, especially in hard-hit neighborhoods.
+
+Article 4 of 7
+Title: Nova Scotia ICUs, already taxed, are bracing for more COVID-19 patients
+Publisher: CBC.ca
+Posted: 4 days ago
+Key values:
+ICU bed capacity: 93-95 beds currently available
+Hospitalization rate: 10% of people who test positive may require hospitalization, with 3% possibly requiring intensive care
+Demographic shift: younger, otherwise healthy people are getting sick (40-60 years old)
+Variants: B117 variant is a key factor in the current wave
+
+Article 5 of 7
+Title: Convalescent plasma for adults with acute COVID-19 respiratory illness (CONCOR-1): study protocol for an international, multicentre, randomized, open-label trial - Trials
+Publisher: Trials Journal
+Posted: 4 days ago
+This text appears to be a detailed description of the organizational structure, governance, and operational procedures of a medical research study called CONCOR-1. The study seems to focus on transfusion medicine, critical care, and infectious disease, with a global scope involving multiple institutions in Canada and the USA.
+Here are some key points that can be inferred from this text:
+1. Study Objectives: Although not explicitly stated, the study's objectives appear to involve investigating aspects of transfusion medicine, critical care, and infectious disease.
+2. Steering Committee: The Steering Committee is responsible for overseeing the overall direction of the study, including making decisions on protocol amendments, data management, and quality assurance.
+3. Executive Committee: This committee oversees day-to-day operations, including monitoring trial progress, approving inter-institutional agreements, data management, and quality assurance.
+4. Independent Data Safety Monitoring Committee (IDSMC): The IDSMC is responsible for ensuring the safety of participants, the proper conduct of the study, and its scientific integrity.
+5. Communications: An organizational chart was created to facilitate communication among various groups involved in the study.
+6. Data Access: Study data may be made available to other investigators upon request, subject to approval by the Steering Committee.
+7. Dissemination Plans: The principal investigators are responsible for publishing the study's results without excessive restriction and will disseminate them through various channels, including a dedicated website.
+The text does not provide information on the specific research questions or hypotheses being investigated in CONCOR-1. However, it offers a detailed look at how such a complex medical research study is organized and governed.
+
+Article 6 of 7
+Title: Everything you need to know about COVID-19 in Alberta on Monday, May 3
+Publisher: CBC.ca
+Posted: 4 days ago
+The article discusses the current state of COVID-19 in Alberta, Canada. Here are some key points:
+Vaccination Efforts 
+The province plans to vaccinate about 15,000 workers at all 136 meat-packing plants.
+Calgary firefighters have been designated as medical first responders and can now get vaccinated.
+A large shipment of vaccine is being redirected to the Regional Municipality of Wood Buffalo and Banff.
+Vaccine Availability 
+Most doses of the AstraZeneca-Oxford vaccine have been administered or booked, with existing bookings still honoured.
+There are still appointments available at some pharmacies for AstraZeneca vaccination.
+AHS walk-in clinics in North Zone are open until Sunday.
+Variant Cases 
+The province has stopped screening all positive tests for variants of concern to maintain lab capacity.
+Variant screening will now target populations with a higher risk of being infected or spreading variant strains.
+There were 1,900 new cases involving variants of concern reported on Monday, the highest number in a single day.
+Regional Breakdown 
+Calgary zone has 9,942 active cases (up from 9,556).
+Edmonton zone has 6,033 active cases (down from 6,088).
+North zone has 3,478 active cases (up from 3,308).
+Other Statistics 
+1,640,303 vaccine doses have been administered in Alberta.
+301,398 Albertans have been fully immunized (2 doses).
+There are 15,054 active variant cases, with 19,868 people having recovered and 92 people having died from variant infections.
+
+Article 7 of 7
+Title: Hospitalizations, ICU admissions growing for younger Canadians in third wave
+Publisher: CP24
+Posted: 7 days ago
+Hospitalizations among people under 60 are increasing (40% growth in 20s and 30s, 65% growth in 40s).
+ICU admissions among people under 70 are also increasing (57% growth in 20s and 30s).
+The number of people over 70 who died from COVID-19 fell by more than 77%, indicating a shift towards younger age groups.
+Ontario, Alberta, and B.C. reported record highs in hospitals and intensive care due to the third wave of the pandemic.

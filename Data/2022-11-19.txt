@@ -1,0 +1,91 @@
+Below are 8 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 8
+Title: N.S. reports 27 COVID-19 deaths in October
+Publisher: CBC.ca
+Posted: 3 days ago
+Key values:
+Hospitalization rate: Nova Scotians 70 and older have been hospitalized at almost 17 times the rate of those 18 to 49.
+Vaccination status: Unvaccinated individuals were hospitalized and died at almost three times the rate of those with three or more doses.
+Infection rate: Estimated about one in every 40 people in Nova Scotia is infected, which may be relevant for Ontario given its proximity.
+
+Article 2 of 8
+Title: Kids are getting hit hard by respiratory viruses. Here's what scientists know — and what they don't
+Publisher: CBC News
+Posted: 3 days ago
+Key points:
+RSV infections are above expected levels and increasing.
+Influenza is also spreading widely, earlier than usual.
+Pediatric hospitals are under intense pressure due to a resurgence of childhood respiratory viruses.
+The immune system's antibody production after an RSV infection drops off quickly, making more people susceptible to future infections.
+There may be a link between COVID-19 and increased susceptibility to other viral infections, but the evidence is weak.
+Widespread vaccination campaigns for flu and COVID are important, alongside other protective measures.
+
+Article 3 of 8
+Title: Ontario's government is 'strongly' recommending masks indoors. Why stop short of a mandate?
+Publisher: CBC.ca
+Posted: 4 days ago
+Pediatric hospitals in Ontario and Quebec are experiencing high occupancy rates due to RSV, influenza, and COVID-19 cases.
+Some children's hospitals in Ontario have scaled back procedures and sent older patients to adult hospitals due to overflowing intensive care units.
+The Chief Medical Officer of Health has recommended wearing masks indoors, but individual doctors are pushing for more measures, including mandatory masking in schools.
+Experts believe that compulsory masking would help alleviate hospital pressure, but the government is hesitant due to potential public backlash.
+
+Article 4 of 8
+Title: Children’s hospitals are overwhelmed across Canada. Experts weigh in on what’s to blame – and what’s not
+Publisher: The Globe and Mail
+Posted: 5 days ago
+RSV hospitalizations in Ontario, Canada are relevant for forecasting COVID-19 hospitalizations.
+Key values:
+RSV hospitalization rates are high in pediatric hospitals across Ontario
+Pediatric intensive care units (PICUs) are operating at or above 127% capacity
+Emergency wait times are up to 13 hours
+Staffing shortages and burnout are contributing to the crisis
+Mask mandates are being called for to ease pressure on healthcare system
+
+Article 5 of 8
+Title: Covid-19 vaccination does not increase risk of RSV infection
+Publisher: AFP Factcheck
+Posted: 5 days ago
+RSV cases are surging in Canada, particularly among children with no previously acquired immunity.
+The surge in RSV cases has led to high rates of hospitalizations in several countries.
+Health authorities continue to recommend COVID-19 vaccines for those six months and older to prevent serious illness, hospitalization, and death.
+Experts have found no association between the COVID-19 shots and an increased risk of RSV.
+The low rate of COVID-19 vaccination among children (6.5% in Canada) makes it unlikely that vaccination is a contributing factor to the surge in RSV cases.
+Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+RSV case rates
+Hospitalization rates due to RSV
+Vaccination rates among children and adults
+Seasonal trends (winter months)
+Demographic factors (age, immunity status)
+
+Article 6 of 8
+Title: Ontario's top doctor strongly recommends masking indoors as health system faces 'extraordinary pressures'
+Publisher: CBC.ca
+Posted: 5 days ago
+High numbers of children are being hospitalized with respiratory illnesses (COVID-19, influenza, and RSV) across Ontario.
+Pediatric hospitals have been overwhelmed, leading to cancellation of surgeries.
+The chief medical officer of health recommends masking in all indoor public settings to protect vulnerable populations.
+The province's healthcare system is facing "extraordinary pressures" due to the triple threat of respiratory illnesses.
+
+Article 7 of 8
+Title: Alberta hospitals battle wave of sick children as viral illnesses surge
+Publisher: CBC.ca
+Posted: 5 days ago
+Key values:
+No specific data on COVID-19 hospitalizations in Ontario, Canada
+However, the article mentions that Alberta Children's Hospital and Stollery Children's Hospital are seeing some cases of COVID-19
+The article discusses a viral surge in children in Alberta, which may be related to COVID-19 immunity theories (e.g., "immune amnesia")
+No specific data on hospitalization rates or trends in Ontario, Canada
+
+Article 8 of 8
+Title: Moderna is banking on a combined COVID, flu and RSV vaccine. Will it work?
+Publisher: CBC News
+Posted: 7 days ago
+The article discusses Moderna's COVID-19 vaccine and its potential combination with vaccines for RSV (Respiratory Syncytial Virus) and flu. Here are some key points:
+1. Low booster uptake: Fewer than one in five Canadians have received a COVID-19 booster or completed an initial vaccine series in the last six months.
+2. RSV vaccine challenges: Developing a vaccine for RSV, let alone combining it with COVID and flu, is complex due to dosing, timing, and age considerations.
+3. Moderna's stock price drop: The company's stock price has dropped close to 30% since January following weaker-than-expected earnings and declining COVID-19 vaccine uptake.
+4. CEO's compensation: Moderna CEO Hoge reportedly cashed out over $165 million in stock options last year, on top of his $18.2 million salary.
+5. RSV vaccine history: Previous attempts at an RSV vaccine have been unsuccessful, with two infants dying in the 1960s after experiencing severe lung inflammation during their first RSV infection following vaccination.
+6. Uncertainty around mRNA technology: While mRNA vaccines have saved countless lives from COVID, it's unclear whether this platform will be as successful with other viruses like RSV and flu.
+The article highlights concerns about the effectiveness and safety of combining multiple vaccines into one shot, particularly for vulnerable populations like infants and seniors. Experts emphasize the need for more data on vaccine efficacy, safety, and dosing before promoting an annual combined shot.

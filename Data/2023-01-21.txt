@@ -1,0 +1,67 @@
+Below are 6 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 6
+Title: Lockdown: A Final Assessment
+Publisher: Fraser Institute
+Posted: 2 days ago
+Key findings:
+Epidemiological models that do not account for human behavior changes overestimate hospitalization and death numbers.
+Lockdowns had a small positive effect on mortality rates (3.2% reduction).
+The costs of lockdowns go beyond lost GDP, including food insecurity, trade reductions, increased domestic violence, mental health issues, employment disruptions, and collateral deaths from missed medical checkups.
+Collateral deaths from missed medical checkups may have exceeded the number of lives saved by lockdowns (171,000 vs 27,303).
+
+Article 2 of 6
+Title: Her first bout with COVID-19 came in September. Nearly 4 months later Janine Hopkins still has symptoms
+Publisher: CBC.ca
+Posted: 2 days ago
+15% of people who contracted COVID-19 experienced lingering symptoms (long COVID).
+A clinic in Thunder Bay, St. Joseph's Care Group, has been operating a post-COVID Clinic since July 2021.
+The clinic is accessed by referral from a primary care provider and is for people over 18 with unresolved symptoms for more than 4 weeks.
+Wait times for the clinic can be up to 4 months, but those with most urgent needs are seen first.
+
+Article 3 of 6
+Title: Proposal to mostly ban tobogganing in Oshawa, Ont. parks draws criticism
+Publisher: Canadian Underwriter
+Posted: 2 days ago
+The article reports on a proposal to ban tobogganing at most municipal parks in Oshawa, Ont. However, the relevant information for forecasting COVID-19 hospitalizations is:
+Between April 2020 and March 2021, there were 80 tobogganning hospitalizations recorded in Ontario.
+Tobogganing accounted for 1.4% of all reported sport and winter hospitalizations in Ontario during that period.
+Skiing and snowboard injuries led to 325 hospitalizations, 17 times more than tobogganing.
+
+Article 4 of 6
+Title: Real-world COVID-19 vaccine effectiveness against the Omicron BA.2 variant in a SARS-CoV-2 infection-naive population
+Publisher: Nature.com
+Posted: 3 days ago
+The text discusses a study on the effectiveness of COVID-19 vaccination in Hong Kong during the Omicron BA.2 wave. The authors highlight several limitations and uncertainties in their analysis:
+1. Estimating vaccine effectiveness (VE) against hospitalization, severe disease, and death: The introduction of oral antivirals in February 2022 made it difficult to estimate VE against these outcomes.
+2. Representativeness of the study population: The analysis was based on seroprevalence among blood donors and voluntary child participants, which might not be representative of the general population.
+3. Limited data on oral antiviral usage: The authors lacked comprehensive data on oral antiviral usage in Hong Kong, making it challenging to estimate VE against severe disease and death.
+4. Small number of CoronaVac vaccinees: The small sample size led to substantial uncertainty in VE estimates for the CoronaVac vaccine.
+5. Limited data on heterologous vaccinations: The authors were unable to estimate VE conferred by heterologous vaccinations (e.g., CoronaVac with BNT162b2 boosters).
+6. Sensitivity of seropositivity threshold: The study's positive controls might not be sensitive enough to detect individuals with asymptomatic or very mild infections, potentially underestimating infection-acquired resistance (IAR).
+7. Limited data on VE waning due to variant emergence: The authors were unable to estimate further accelerated VE waning due to the emergence of later variants like BA.4/BA.5.
+Despite these limitations, the study found that:
+Booster vaccination using either mRNA or inactivated vaccine was effective in preventing SARS-CoV-2 Omicron BA.2 infection.
+Surge booster campaigns could be strategically used to rapidly boost population immunity before upcoming waves of infections.
+The comparatively lower IAR in Hong Kong highlights the effect of supplementing vaccination campaigns with continued public health and social measures in disease transmission.
+The authors conclude that frequently updated studies are necessary to quantify the protective effect of repeated booster vaccination, including with new bivalent COVID-19 vaccines, for policymakers to develop effective booster vaccination strategies.
+
+Article 5 of 6
+Title: Flu kills 12 more in N.B., death toll rises to 59
+Publisher: CBC.ca
+Posted: 3 days ago
+Relevant.
+Total hospitalizations: 851 (since Aug 28)
+New hospitalizations: 30 (Jan 1-7)
+Deaths from flu: 59 (so far this season) 
+Pre-pandemic hospitalization total: 619 (2018-19 season)
+
+Article 6 of 6
+Title: Flu cases down, COVID-19 activity on the rise: Toronto Public Health
+Publisher: CBC.ca
+Posted: 5 days ago
+COVID-19 cases are on the rise again in Toronto, with a 17% positivity rate as of Jan 10.
+The rolling weekly incidence rate of newly confirmed COVID-19 cases is 52 per 100,000 residents.
+Severe outcomes such as hospitalization and ICU admission are still low.
+The most transmissible COVID-19 variant XBB.1.5 is spreading quickly in the US and Europe, but levels in Ontario remain low.
+Vaccination campaigns have been focused on those with increased risk to the virus, with 73% of Torontonians 60+ having received a booster.

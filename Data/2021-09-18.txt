@@ -1,0 +1,95 @@
+Below are 7 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 7
+Title: These charts show how much more often unvaccinated Albertans are being hospitalized and dying from COVID-19
+Publisher: CBC.ca
+Posted: 1 day ago
+Unvaccinated Albertans have hospitalization rates 8-60 times higher than fully vaccinated individuals.
+ICU admission rates among unvaccinated individuals are also significantly higher (139 per 100,000 for those in their 50s).
+Death rates among unvaccinated individuals are similarly high (393 per 100,000 for those 80 and over).
+Vaccination status is a strong predictor of hospitalization, ICU admission, and death from COVID-19.
+Age also plays a significant role in determining the risk of severe outcomes.
+
+Article 2 of 7
+Title: COVID-19 during pregnancy means 10 times higher risk of ICU admission, Canadian data suggests
+Publisher: CBC.ca
+Posted: 2 days ago
+Key values:
+Pregnant individuals are nearly 5 times more likely to be admitted to hospital for COVID-19 than their non-pregnant peers.
+Pregnant individuals are 10 times more likely to be admitted to an ICU for COVID-19 than their non-pregnant peers.
+The increased risk of hospitalization could be explained in part by a lower threshold to provide care during pregnancy, but pregnant people also showed a higher risk of needing mechanical ventilation.
+
+Article 3 of 7
+Title: Inside an Ontario ICU where the COVID-19 patients are largely young, and all unvaccinated
+Publisher: CTV News
+Posted: 3 days ago
+The article discusses the frustration and anger felt by health care workers in Canada due to the animosity displayed towards them by some individuals who are unvaccinated or anti-vaccine. Despite 78% of eligible Canadians being fully vaccinated, a small subset of people is still refusing to get vaccinated, leading to a surge in COVID-19 cases and hospitalizations.
+Health care workers are feeling burnt out and exhausted from the prolonged pandemic, with many staff members leaving their jobs due to the emotional toll. The article highlights the personal costs of working in health care during this time, including Dr. Sharma's experience of being away from his family for weeks without seeing them.
+The article also touches on the misinformation and conspiracy theories that are contributing to the vaccine hesitancy and animosity towards health care workers. Some individuals are blaming health care workers for promoting a "hoax" about COVID-19, which is causing emotional distress and anger among healthcare professionals.
+The article concludes by emphasizing the importance of vaccination in preventing severe cases of COVID-19 and death. Health care workers are urging those who are still on the fence about vaccination to get their shots, as they believe that the wave of COVID-19 cases is building and will get worse if people don't take action.
+Key points from the article:
+78% of eligible Canadians have been fully vaccinated
+Despite this, a small subset of people is still refusing to get vaccinated
+Health care workers are feeling burnt out and exhausted from the prolonged pandemic
+Many staff members have left their jobs due to the emotional toll
+Misinformation and conspiracy theories are contributing to vaccine hesitancy and animosity towards health care workers
+Vaccination is crucial in preventing severe cases of COVID-19 and death
+Health care workers are urging those who are still on the fence about vaccination to get their shots.
+
+Article 4 of 7
+Title: Understanding the Post COVID-19 Condition (Long COVID) and the Expected Burden for Ontario
+Publisher: Ontario COVID-19 Science Advisory Table
+Posted: 4 days ago
+This text appears to be a scientific brief about the post-COVID-19 condition, also known as Long COVID or Post-Acute COVID-19 Syndrome (PACS). Here are some key points:
+Prevalence estimates: 
+The World Health Organization (WHO) estimated that 10% of people who had COVID-19 would experience persistent symptoms beyond 12 weeks.
+This translates to approximately 57,000 Ontarians with the post-COVID-19 condition.
+Public Health Agency of Canada (PHAC) estimated a much higher prevalence of 56%, which would be around 318,000 Ontarians.
+Risk factors and distribution: 
+The burden and disability associated with the post-COVID-19 condition are likely to be unequally distributed, with greater prevalence in racialized populations, those with lower socioeconomic status, recent immigrants, and essential workers.
+Risk factors for developing the post-COVID-19 condition include unknown at this time.
+Research gaps: 
+The literature on the post-COVID-19 condition is still largely formative, and more controlled studies are needed.
+Research is needed to determine the impact of initial treatment and medications on the prevalence, severity, and symptom complex of the post-COVID-19 condition.
+The effect of COVID-19 vaccination on reducing the prevalence of the post-COVID-19 condition needs further study.
+Implications: 
+Health resource planning, management strategies, and relevant government policies will be required to manage the burden of the post-COVID-19 condition on patients, caregivers, the healthcare system, and the province overall.
+Predictive models may represent a promising approach to identify higher-risk groups and determine who may benefit from early intervention or surveillance.
+Overall, this brief highlights the need for further research on the post-COVID-19 condition, including its prevalence, risk factors, and management strategies.
+
+Article 5 of 7
+Title: The Incidence, Severity, and Management of COVID-19 in Critically Ill Pregnant Individuals
+Publisher: Ontario COVID-19 Science Advisory Table
+Posted: 5 days ago
+This Science Brief provides an overview of the safety and efficacy of mRNA COVID-19 vaccines in pregnant individuals, as well as the risk of morbidity among pregnant individuals if unvaccinated considering VOCs (Virus Of Concern). The brief also discusses tailored messaging to increase vaccine confidence and uptake among pregnant individuals.
+Key points from the Science Brief include:
+1. Similar incidence of infection: Pregnant individuals have a similar incidence of SARS-CoV-2 infection compared to non-pregnant females of the same age.
+2. Increased illness severity: Pregnant individuals with COVID-19 are more likely to be admitted to hospital, ICU, and require invasive mechanical ventilation and ECMO (Extracorporeal Membrane Oxygenation) compared to age and sex-matched patients without COVID-19.
+3. Higher maternal mortality and complications: There is a higher incidence of maternal mortality, Cesarean delivery, and preterm birth among pregnant individuals with COVID-19.
+4. Minimal fetal adverse effects: Minimal fetal adverse effects were reported, and neonatal acquisition was low.
+5. Importance of vaccination: Given the higher severity of illness, predominance of VOCs, maternal morbidity, and mortality associated with COVID-19 infection, vaccination is an important strategy to minimize morbidity and mortality in this vulnerable group.
+The Science Brief also highlights the need for:
+1. Tailored messaging: To increase vaccine confidence and uptake among pregnant individuals.
+2. Decision-making support tools: Available through the Ontario Ministry of Health (MOH) to help counsel patients.
+3. Research inclusion: Pregnant individuals should be included in clinical trials to provide them with equal access to treatments and vaccines during pandemics.
+Overall, this Science Brief provides a comprehensive overview of the safety and efficacy of mRNA COVID-19 vaccines in pregnant individuals, as well as the risk of morbidity among pregnant individuals if unvaccinated considering VOCs.
+
+Article 6 of 7
+Title: Unvaccinated COVID patients in Hamilton's ICUs leave families, doctors 'disappointed'
+Publisher: CBC.ca
+Posted: 5 days ago
+Relevant article for forecasting COVID-19 hospitalizations in Ontario, Canada.
+Unvaccinated individuals account for most ICU patients (all 9-10 patients at Hamilton General Hospital's ICU).
+Vaccination status is a key factor in determining hospitalization rates.
+The majority of unvaccinated patients are putting pressure on local hospitals, forcing them to cancel surgeries and elective procedures.
+Ontario reported 475 new cases among those not fully vaccinated or with unknown vaccination status.
+
+Article 7 of 7
+Title: Want to cut your risk of serious COVID-19? New data shows vaccines are hitting the mark
+Publisher: CBC.ca
+Posted: 6 days ago
+The article discusses the phenomenon of breakthrough infections in fully vaccinated individuals, particularly among older adults with underlying health conditions. According to a study from Public Health England, nearly half of those who tested positive for COVID-19 did not show symptoms, while about a quarter had severe or critical illness, including three deaths. The median age of those experiencing serious breakthrough infections was around 80 years old.
+Experts emphasize that the vast majority of vaccinated individuals do not experience severe breakthrough infections, and that these cases are often among older adults with pre-existing health conditions. Dr. Isaac Bogoch, an infectious diseases specialist, notes that "those are the people that are getting breakthrough infections: older, predominantly with underlying medical comorbidities."
+The article also discusses the debate over whether to offer booster shots to give people's immune systems an extra boost. In Canada, the recommendation is to provide third vaccine doses to certain individuals with weaker immune systems, such as cancer patients and those with advanced HIV infections or serious immunodeficiencies.
+Experts agree that any booster shot programs should target both the elderly and immunocompromised individuals, but not the general public just yet. Dr. Bogoch notes that "it doesn't make any sense" to offer booster shots to younger residents, as they are at low risk of experiencing severe breakthrough infections.
+Overall, the article highlights the importance of understanding the nuances of COVID-19 vaccination and the need for targeted booster shot programs to protect vulnerable populations.

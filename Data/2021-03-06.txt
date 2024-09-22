@@ -1,0 +1,67 @@
+Below are 7 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 7
+Title: New Iceland: Drawing parallels between the COVID-19 pandemic and smallpox
+Publisher: CTV News
+Posted: Today
+Key values:
+Indigenous communities are disproportionately vulnerable to COVID-19 due to socio-economic marginalization.
+Access to effective monitoring and early-warning systems, as well as adequate health and social services, is limited in these communities.
+These communities have taken measures to limit exposure to the virus by keeping land borders closed throughout the pandemic.
+
+Article 2 of 7
+Title: Canada authorizes one-shot COVID-19 vaccine from Johnson & Johnson
+Publisher: CTV News
+Posted: 1 day ago
+The Johnson & Johnson vaccine has been approved for use in adults 18 years of age and older.
+The vaccine was shown to be 66% effective in preventing moderate to severe COVID-19 two weeks after vaccination.
+The vaccine provides "acceptable levels" of protection against the B.1.351 variant first discovered in South Africa and against the P.1 variant first identified in Brazil.
+The federal government has secured access to up to 38 million doses of the Johnson & Johnson vaccine, with a deal in place for at least 10 million doses expected by the end of September.
+The addition of this vaccine to Canada's COVID-19 inoculations arsenal may accelerate the overall immunization timeline.
+
+Article 3 of 7
+Title: Nearly 354K surgeries, procedures, consultations postponed due to COVID-19, report says
+Publisher: CTV News
+Posted: 2 days ago
+184,364 surgeries were postponed in Ontario between mid-March and mid-June, 2020.
+The backlog began due to COVID-19 case numbers surging, with hospitals prioritizing beds and ventilators over non-urgent procedures.
+The article does not provide direct information on hospitalizations, but mentions modeling research suggesting up to 35 people could die in Ontario between mid-March and the beginning of May due to cancelled or deferred cardiac surgeries.
+
+Article 4 of 7
+Title: Chief medical adviser says Health Canada preparing for quick approval of boosters
+Publisher: CTV News
+Posted: 2 days ago
+Key points:
+Variants of concern (B.1.1.7, B.1.351, and P.1) have been identified in Canada.
+The most common variant so far found in Canada is B.1.1.7.
+Studies in Israel show significant reductions in the spread of the virus, hospitalizations, and deaths after vaccination with Pfizer-BioNTech vaccine.
+The effectiveness of vaccines against variants may be a concern for forecasting COVID-19 hospitalizations in Ontario, Canada.
+Health Canada will review boosters quickly when they are available.
+
+Article 5 of 7
+Title: 'When will it end?': How a changing virus is reshaping scientists' views on COVID-19
+Publisher: CTV News
+Posted: 3 days ago
+The emergence of new variants that can evade natural immunity and reduce vaccine efficacy could lead to a significant increase in hospitalizations.
+A 65% effective vaccine given to half of a country's population could result in four times more COVID-19 cases resulting in hospitalization or death compared to the flu.
+The article mentions a worst-case scenario of up to 200,000 U.S. deaths related to COVID-19 over the winter period.
+The Institute for Health Metrics and Evaluation is updating its model to account for variants' ability to escape natural immunity, which could impact forecasting in Ontario, Canada.
+
+Article 6 of 7
+Title: Mammograms pick up swelling due to COVID-19 vaccine, causing unnecessary fear, radiologists say
+Publisher: CTV News
+Posted: 4 days ago
+The article discusses the reaction of lymph nodes to the Moderna vaccine.
+Swollen lymph nodes can be a normal biological response to the vaccine and may not require further investigation or biopsy.
+Experts recommend waiting at least 4-6 weeks after the second dose of the COVID-19 vaccine before scheduling a mammogram.
+The article highlights the importance of screening for breast cancer, especially in women who have missed or are overdue on their mammograms due to the pandemic.
+
+Article 7 of 7
+Title: Blood tests could be early indicator of COVID-19 severity: study
+Publisher: CTV News
+Posted: 7 days ago
+Relevant.
+Elevated neutrophil levels in blood tests can predict severity of COVID-19.
+Patients with high neutrophil levels were more likely to require ICU care, ventilation, or die due to COVID-19.
+Neutrophils are associated with inflammation and obesity, which increase risk of severe illness from COVID-19.
+A diagnostic test could give a better sense of who is at higher risk for critical illness and benefit from early therapies.

@@ -1,0 +1,38 @@
+Below are 5 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 5
+Title: COVID-19 on P.E.I.: What's happening Friday, Sept. 4
+Publisher: CBC.ca
+Posted: 1 day ago
+Summary: FALSE (no information about Ontario)
+
+Article 2 of 5
+Title: Nearly 1,000 flights in Canada have carried COVID-positive passengers since February
+Publisher: CTV News
+Posted: 2 days ago
+The article mentions the 14-day quarantine period for international travellers arriving in Canada.
+A pilot project is being conducted to test the effectiveness of Day One and Day Seven testing instead of a 14-day quarantine.
+This could potentially reduce the number of cases that would otherwise be quarantined for 14 days, which may impact hospitalization rates.
+The article does not provide specific data on COVID-19 hospitalizations in Ontario, but it highlights the importance of considering travel-related factors when forecasting hospitalizations.
+
+Article 3 of 5
+Title: New Canadian app working to 'cut through the information clutter' of COVID-19
+Publisher: CTV News
+Posted: 3 days ago
+The app COVID KE uses artificial intelligence and collective insights of health-care professionals to deliver the most relevant findings and advice on COVID-19.
+It sources trusted peer-reviewed medical articles from journals such as The Lancet and New England Journal of Medicine.
+The app provides confidence ratings and commentary from doctors to help users determine which articles are the most helpful for them.
+This information can be useful in understanding the current state of knowledge on COVID-19, but it does not directly provide values most important for forecasting hospitalizations.
+
+Article 4 of 5
+Title: Canada's top doctor: 'consider using a mask' during sexual activity
+Publisher: CTV News
+Posted: 3 days ago
+Summary:  Average number of new cases per day in Canada over the past 7 days: 490
+Percentage of people who have recovered from COVID-19 in Canada: 88.5% (of 129,425 cases)
+
+Article 5 of 5
+Title: Steroids confirmed to help severely ill coronavirus patients
+Publisher: CTV News
+Posted: 3 days ago
+Steroids reduce COVID-19 mortality by 1/3, especially among severely ill patients needing oxygen. Dexamethasone (35% reduction) and hydrocortisone are effective. Steroid treatment is recommended for severe cases, but not for less sick patients.

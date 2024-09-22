@@ -1,0 +1,67 @@
+Below are 6 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 6
+Title: Ontario reports 65 new COVID-19 deaths, with vaccine uptake for children lower than expected
+Publisher: CBC.ca
+Posted: 2 days ago
+1,141 people are currently hospitalized with COVID-19 (down from 1,167 last week).
+129 people are in intensive care due to COVID-19 (stable compared to last week).
+Test positivity rate is 13.1% (up from 12.2% last Thursday).
+Notable uptick in infant hospitalizations: 17 children under one year old were hospitalized for COVID-19 in the latest reporting period, with a total of 1,268 such cases since the pandemic began.
+Children under five have low vaccination rates, with only about six per cent having received their first dose.
+
+Article 2 of 6
+Title: Municipal and neighbourhood level wastewater surveillance and subtyping of an influenza virus outbreak
+Publisher: Nature.com
+Posted: 2 days ago
+This text appears to be a scientific study on the tracking of influenza A virus (IAV) and SARS-CoV-2 in wastewater samples from three neighborhoods in Ottawa, Canada. The study's findings are summarized as follows:
+1. Neighborhood 1: This neighborhood had the earliest peaks of IAV and SARS-CoV-2 viral signals compared to other neighborhoods and the citywide signal. The mean age of residents was significantly lower (approx. 10 years younger) than in other neighborhoods, suggesting a higher proportion of children who may have contributed to earlier transmission.
+2. Neighborhood 2: This neighborhood's IAV and SARS-CoV-2 viral signals did not deviate significantly from the citywide signal. The population age and number of households were closest to citywide averages, which might explain the similar viral signal patterns.
+3. Neighborhood 3: This neighborhood had the highest population density and saw more elevated viral signal levels for both IAV and SARS-CoV-2 on some occasions. The authors suggest that this may be due to more congregate living situations favoring community transmission.
+The study also explored the subtyping of wastewater IAV RNA citywide and in neighborhoods, finding:
+H3N2 was the circulating subtype: H3N2 was detected in all three neighborhoods and citywide, while H1N1 was not detected.
+Early detection via RT-qPCR WWS: The first case of IAV was detected 17 days earlier than clinical surveillance or subsequent clinical subtyping using wastewater samples.
+The study concludes that detecting both IAV and potentially IBV in sewage samples from local areas can be an effective strategy to track the timing, location, and magnitude of influenza activity. However, further research is needed to determine if wastewater viral signal differences at the neighborhood level are due to population characteristics, transmission dynamics, or a combination of both.
+
+Article 3 of 6
+Title: COVID-19 cases are down in Nova Scotia, but expert says these are still 'painful' times
+Publisher: CBC.ca
+Posted: 2 days ago
+Relevant.
+Nova Scotia reported a low daily average of new COVID-19 cases (128), but infectious diseases researcher Tara Moriarty says this undercounts actual cases due to limited testing. Nova Scotia's severe outcomes, such as hospitalizations and deaths, are high. The province has 226 patients in hospitals with COVID-19, including 36 being treated for COVID-19 and 3 in intensive care.
+
+Article 4 of 6
+Title: N.B. expands eligibility, access to Paxlovid COVID-19 treatment
+Publisher: CBC.ca
+Posted: 2 days ago
+Relevant.
+The article discusses changes in eligibility criteria for Paxlovid, an oral antiviral treatment for COVID-19, in New Brunswick.
+Key values for forecasting COVID-19 hospitalizations in Ontario, Canada: 
+Age (18+)
+Immunocompromised status
+Presence of chronic illnesses
+Vaccination status
+Time since symptom onset (5 days)
+
+Article 5 of 6
+Title: 1 dead of COVID-19 as N.L. tips into high-risk season
+Publisher: CBC.ca
+Posted: 3 days ago
+Hospitalizations have plateaued in Newfoundland and Labrador.
+Test positivity has increased.
+As many as 1 in 100 people are currently infected.
+The risk of transmission is high due to return to school and work, and colder weather forcing people indoors.
+Protection from third doses has worn off, and a fourth dose is recommended for those over 40.
+
+Article 6 of 6
+Title: Effective Modalities of Virtual Care to Deliver Mental Health and Addictions Services in Canada
+Publisher: Ontario COVID-19 Science Advisory Table
+Posted: 5 days ago
+This science brief outlines key considerations for implementing virtual mental health care in Ontario, Canada, with a focus on equity and accessibility. The six main points are:
+1. Ensure that Virtual Mental Health Care is Accessible and Equitable: This includes considering the needs of diverse populations, including Black and racialized communities, rural and remote areas, and First Nations communities.
+2. Develop Clear Guidelines for Selecting Appropriate Modalities: Clinicians should be able to select the most suitable modality (e.g., video conferencing, phone calls) based on patient needs and preferences.
+3. Considerations for Selecting the Most Appropriate Modality: This includes considering factors such as technology access, privacy, security, stigma, and language barriers.
+4. Deliver Deliberate Guidance, Training, and Support: Clinicians need training to deliver high-quality virtual mental health care that mirrors in-person care.
+5. Ensure Access to Necessary Infrastructure: High-speed internet and reliable electricity are essential for virtual visits, particularly in rural and remote areas.
+6. Consider Diverse Needs, Preferences, and Values: Culturally competent virtual mental health care requires understanding the specific needs of communities, including language, values, and living standards.
+The methods used for this science brief included a multi-pronged approach to rapidly identify evidence related to virtual mental health care, involving synthesis of information from various sources, feedback from experts, and incorporation of perspectives from administrators and clinicians.

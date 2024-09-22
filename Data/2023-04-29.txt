@@ -1,0 +1,54 @@
+Below are 6 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 6
+Title: Doctor promotes misinformation about child Covid vaccination in Canada
+Publisher: AFP Factcheck
+Posted: 1 day ago
+There are no mandates for kids to get vaccinated against COVID-19 in Ontario or New Brunswick.
+The National Advisory Committee on Immunization (NACI) recommends vaccination against COVID-19, but it's not mandatory.
+Most children who contract COVID-19 have a low risk of severe illness and hospitalization.
+However, some children with underlying medical conditions or immunosuppression may be at higher risk for severe illness and hospitalization due to COVID-19.
+
+Article 2 of 6
+Title: Myasthenia Gravis Tied to Elevated Risk for Severe COVID
+Publisher: Medpage Today
+Posted: 4 days ago
+Key values:
+Myasthenia gravis patients had a 2.48 times greater risk of hospitalization due to COVID-19 compared to the general population (HR 2.48, 95% CI 1.61-3.79).
+COVID-associated hospitalizations were reported in 30.5% of myasthenia gravis patients.
+Deaths due to COVID-19 were reported in 14.6% of myasthenia gravis patients.
+Vaccine uptake was as high in people with myasthenia gravis (80%) as the general population following the introduction of mRNA vaccines.
+
+Article 3 of 6
+Title: The burden of incidental SARS-CoV-2 infections in hospitalized patients across pandemic waves in Canada
+Publisher: Nature.com
+Posted: 5 days ago
+Key values for forecasting:
+Proportion of hospitalized patients with incidental SARS-CoV-2 infection: increased across waves
+Mean hospital LOS for patients with "incidental" SARS-CoV-2 infection: 12 days (compared to 6.9 days pre-pandemic)
+Resource needs and potential underestimation by health authorities if incidental infections are not included in planning: substantial
+
+Article 4 of 6
+Title: The N.L. government has been downplaying COVID-19 deaths for months
+Publisher: CBC.ca
+Posted: 5 days ago
+The article discusses the controversy surrounding the COVID-19 dashboard in Newfoundland and Labrador, which has been criticized for not providing accurate information on the number of deaths due to the virus. The province's health minister, Tom Osborne, has defended the dashboard, saying that Public Health is responsible for collecting and reporting the data.
+However, critics argue that the dashboard is not transparent enough, particularly when it comes to reporting COVID-19 deaths. Chris Kaposy, an associate professor of bioethics at Memorial University, suggests that the government should be more open about pandemic data, including announcing the number of deaths that have occurred since the last update.
+Kaposy also notes that the emergence of Omicron has made the number of cases a less meaningful measure of COVID-19's spread, and that other information such as hospitalizations and deaths is more objective and definitive. He suggests that the government should prioritize transparency in pandemic reporting to avoid giving people a false sense of security.
+The article also quotes Dr. Janice Fitzgerald, the chief medical officer of health for Newfoundland and Labrador, who says that there's no benefit to downplaying COVID-19 data and that the difference between reported cases and actual deaths is due to a "reporting lag" rather than any intention to mislead.
+Overall, the article highlights the importance of transparency in pandemic reporting and suggests that the government should prioritize accuracy and openness when it comes to sharing information about COVID-19.
+
+Article 5 of 6
+Title: No fines issued by hospitals under Ontario's new long-term care law: province, OHA
+Publisher: CBC News
+Posted: 5 days ago
+The number of alternate-level-of-care patients (ALC) in hospitals awaiting spots in long-term care has decreased from 2,135 to 1,830 since the law took effect.
+7,600 ALC patients have moved into nursing homes since the law was enacted.
+The government allowed nursing homes to open up empty beds reserved for isolating COVID-19 patients, freeing up some 2,100 hospital beds.
+
+Article 6 of 6
+Title: Drug to help prevent serious RSV illness in babies approved by Health Canada
+Publisher: CBC News
+Posted: 5 days ago
+Here is a brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+FALSE (no relevance)

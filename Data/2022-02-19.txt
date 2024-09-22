@@ -1,0 +1,99 @@
+Below are 8 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 8
+Title: You can gather with relatives on Family Day again. Here's how to stay safe
+Publisher: CBC.ca
+Posted: Today
+COVID-19-related hospitalizations are trending downward in Ontario.
+The province has loosened gathering restrictions to allow up to 50 people indoors and 100 people outdoors.
+Toronto epidemiologist Dr. Fahad Razak cautions that risk levels are still reasonably high across communities and recommends considering precautions such as opening windows, reducing contacts before visiting vulnerable individuals, wearing masks, and using rapid tests.
+The article highlights the importance of monitoring for symptoms and staying home if experiencing flu-like illness, fever, shortness of breath or cough.
+
+Article 2 of 8
+Title: Top doctor says Canada is past peak of Omicron-fuelled wave of COVID-19
+Publisher: CBC News
+Posted: 1 day ago
+Key values for forecasting:
+Current hospitalization numbers: 1,281 patients in Ontario
+Trend of declining hospitalizations in Ontario and Quebec
+Potential for a slight increase in hospitalizations if public health measures are eased moderately
+Expected impact of vaccination level on hospitalization growth (lower impact due to high vaccination levels)
+
+Article 3 of 8
+Title: What you need to know about COVID-19 in Ottawa on Thursday, Feb. 17
+Publisher: CBC.ca
+Posted: 2 days ago
+This article provides information on the current COVID-19 situation in Canada, specifically in Ontario and Quebec. Here are some key points:
+Travel to Canada 
+Fully vaccinated Canadians can enter Canada without a PCR test if they're asymptomatic and test negative.
+As of February 28, fully vaccinated Canadians can take an authorized rapid test instead of a PCR test.
+US Travel Requirements 
+The US requires all adults crossing a land, air, or water border to be fully vaccinated.
+People flying to the US need proof of a negative COVID-19 test within one day of departure.
+Vaccines 
+Five COVID-19 vaccines have been deemed safe and approved in Canada, with some age restrictions.
+Local health authorities recommend doses for kids aged 5-11 be given at least eight weeks apart for optimal protection.
+Guidance varies on when to get a third dose after contracting COVID-19.
+Testing 
+In eastern Ontario:
++ Only high-risk people can get a laboratory-checked PCR test due to Omicron demand.
++ Rapid and take-home tests are available for the general public at participating stores and in some child-care settings.
+In western Quebec:
++ PCR tests will be reserved for high-risk settings such as hospitals, long-term care homes, detention centers, and homeless shelters.
++ Rapid COVID-19 tests are available in all Quebec daycares, preschools, and elementary schools.
+First Nations, Inuit, and Métis 
+First Nations, Inuit, and Métis people can get a test in both Ontario and Quebec.
+There are specific resources for Indigenous communities, including testing and vaccine information online or by phone.
+Symptoms and Treatment 
+COVID-19 symptoms range from a cold-like illness to severe lung infection.
+Health Canada has approved Pfizer's COVID-19 prescription treatment Paxlovid.
+If you have severe symptoms, call 911.
+
+Article 4 of 8
+Title: Ontario science table shows COVID-19 levels dropping in wastewater, except in the north
+Publisher: CBC.ca
+Posted: 3 days ago
+Key values:
+Wastewater data shows declining viral levels in most regions except northern Ontario.
+Hospitalizations due to COVID-19 are dropping across the province, but less pronounced in northern Ontario.
+Northern Ontario has higher case rates per 100,000 than other areas of the province.
+Vaccination rates are high in some northern Ontario health units (e.g. nearly 75% of people age 50+ have received a booster dose).
+Booster shots are now available for children between ages 12-17 in some northern Ontario health units.
+
+Article 5 of 8
+Title: Municipality of Killarney to build, run long-term care facility
+Publisher: CBC.ca
+Posted: 3 days ago
+Relevant.
+New 14-bed long-term care facility to be built in Killarney, Ontario.
+Expected completion spring 2023.
+Will provide local residents with access to long-term care services without needing to travel to Sudbury (over 100 km away).
+Small home model design.
+
+Article 6 of 8
+Title: World is 'done' with COVID and it's time to move on from restrictions, Ford says
+Publisher: CBC.ca
+Posted: 4 days ago
+Key values:
+1,550 people hospitalized with COVID-19 (up from 1,369 the day before)
+54% of those people were admitted specifically for COVID-19 treatment
+384 people are in intensive care units (with nearly 80% admitted specifically for COVID-19)
+
+Article 7 of 8
+Title: Ontario to remove vaccine passport system on March 1, masking requirements to remain in place
+Publisher: CBC.ca
+Posted: 5 days ago
+Key values for forecasting:
+Current hospitalization numbers: 1,369 (down from 1,540 the previous day)
+ICU patients: 394 (down from 402 the previous day)
+Trend of decreasing hospitalizations and ICU patients
+Vaccination rates: 89.4% of Ontarians 5+ have one dose, 85% have two doses
+
+Article 8 of 8
+Title: Four new COVID-19 related deaths in Ottawa Saturday
+Publisher: CTV News Ottawa
+Posted: 7 days ago
+26 residents in Ottawa hospitals are being treated for an active COVID-19 infection (down from 31 on Friday).
+ICU numbers remain steady with four patients.
+Age categories of people in hospital: 0-9: 0, 10-19: 0, 20-29: 0, 30-39: 1, 40-49: 1, 50-59: 3 (1 in ICU), 60-69: 5 (1 in ICU), 70-79: 6, 80-89: 8 (2 in ICU), 90+: 2.
+Across Ontario, there are 1,704 people in hospital with COVID-19, including 414 in ICU.

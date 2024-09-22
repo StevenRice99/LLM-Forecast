@@ -1,0 +1,100 @@
+Below are 9 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 9
+Title: Why COVID-19 may now feel like a 'bad cold' — with headache, runny nose among most-reported symptoms
+Publisher: CBC.ca
+Posted: Today
+The article discusses the changing nature of COVID-19 symptoms as vaccination rates increase in Canada. Experts are noting that the virus is becoming less severe, with some people experiencing mild symptoms similar to a common cold. This shift could make it more difficult to track the spread of the virus, particularly among vulnerable populations such as the elderly and those with underlying health conditions.
+The article cites Dr. Andrew Morris, an infectious diseases specialist at the University of Toronto, who notes that symptoms may vary depending on age and strain or variants of the virus. Jason Kindrachuk, a virologist at the University of Manitoba, suggests that the rise in mild symptom reports could be due to increased awareness and reporting of minor health changes.
+The article also highlights the importance of targeted testing strategies, such as testing patients when they enter hospitals or congregate-care settings, rather than relying on community-based testing. Experts are warning that schools may need to be a focus this fall, particularly since only Canadian youth aged 12 and up are eligible for vaccination.
+Overall, the article suggests that COVID-19 is becoming less of a threat as vaccination rates increase, but that it's still important to remain vigilant and adapt public health measures to address the changing nature of the virus.
+
+Article 2 of 9
+Title: COVID-19 Delta variant in Canada: FAQ on origins, hotspots and vaccine protection
+Publisher: The Conversation Indonesia
+Posted: 2 days ago
+Key values:
+40% of new cases in Ontario as of June 14, 2021 are due to the Delta variant.
+In Alberta, cases are doubling every 6-12 days.
+Modelling results from British Columbia suggest that Delta will significantly contribute to overall trajectory by August.
+Two-dose immunizations with AstraZeneca or Pfizer reduced hospitalizations by 92% and 96%, respectively.
+
+Article 3 of 9
+Title: How a new program frees up beds by helping patients stuck in hospital find care elsewhere
+Publisher: CBC.ca
+Posted: 2 days ago
+Key values:
+Average wait time in hospital for an ALC patient: 5 months
+Number of ALC patients in Ontario hospitals: approximately 4,000
+Peak number of ALC patients during the pandemic: 5,300 (16.5-18% of beds)
+Cost of caring for ALC patients per day: $500
+Number of medical procedures backlog: nearly 16 million
+
+Article 4 of 9
+Title: Study to assess COVID-19 vaccine effectiveness among people with HIV
+Publisher: Simon Fraser University News
+Posted: 3 days ago
+Relevant.
+Summary: The article discusses a study (COVAXHIV) comparing COVID-19 vaccine effectiveness in people living with HIV vs. those without HIV in B.C. and Ontario, tracking vaccine uptake, SARS-CoV-2 infection, and hospitalizations among 35,000 participants.
+
+Article 5 of 9
+Title: Toronto hospital ICU free of COVID-19 patients for first time in 14 months
+Publisher: CTV News Toronto
+Posted: 3 days ago
+Relevant.
+Number of COVID-19 patients in ICU: 377 (as of Wednesday)
+Number of hospitalized COVID-19 patients at Toronto Western Hospital since January 2020: 1,698
+Trend: Significant decline in hospitalized COVID-19 patients since the height of the pandemic's third wave.
+
+Article 6 of 9
+Title: COVID-19 Vaccination for People with Disabilities
+Publisher: Ontario COVID-19 Science Advisory Table
+Posted: 4 days ago
+This science brief discusses the importance of prioritizing people with disabilities for COVID-19 vaccination, particularly those who are already included in high-risk groups. The authors highlight several key points:
+1. Vulnerability to COVID-19: People with disabilities are at a higher risk of severe illness and death from COVID-19 due to underlying health conditions.
+2. Social isolation: People with disabilities often experience social isolation, which can exacerbate the risks associated with COVID-19.
+3. Lack of evidence for single-dose protection: There is limited evidence that a single dose of COVID-19 vaccine provides sufficient protection for people with disabilities.
+4. Prioritization for second doses: The authors recommend prioritizing people with disabilities who are already included in high-risk groups for earlier second doses of COVID-19 vaccine.
+The brief also discusses the importance of monitoring vaccine distribution among people with disabilities, including:
+1. Publicly available data: Collecting and analyzing publicly available data on COVID-19 vaccination rates for people with disabilities can help identify inequities.
+2. Tracking disability-specific data: Including tracking information on disability within the COVaxON system or other child-based data collection efforts can provide valuable insights.
+The authors also highlight the need to improve accessibility of vaccination services for people with disabilities, including:
+1. Accessible feedback mechanisms: Providing accessible feedback forms and helplines to assist, monitor, and improve the overall accessibility of vaccination services.
+2. Monitoring website accessibility: Using tools like WAVE web accessibility evaluation tool to measure website accessibility.
+The methods used in this science brief include:
+1. Website scan: A scan of all Ontario Public Health Unit (PHU) websites was performed on May 7, 2021, to assess their accessibility.
+2. Health administrative data analysis: The authors analyzed health administrative records from various databases linked using unique encoded identifiers at the Institute for Clinical Evaluative Sciences (ICES).
+The brief concludes by emphasizing the importance of prioritizing people with disabilities for COVID-19 vaccination and improving the accessibility of vaccination services to ensure equitable access to this critical public health intervention.
+
+Article 7 of 9
+Title: How tracking ethnicity and occupation data is helping fight COVID-19
+Publisher: CBC.ca
+Posted: 4 days ago
+The article discusses how different provinces in Canada handled COVID-19 data collection and release, particularly with regards to ethnicity and community-level information. The main points are:
+In Peel Region, Ontario, the health authority released detailed data on COVID-19 cases by neighborhood, which helped inform targeted public health responses.
+In contrast, other provinces like British Columbia (B.C.) did not collect or release similar data, citing concerns about privacy and stigma.
+B.C. eventually released community-level data after a data leak revealed significantly higher rates of COVID-19 in areas with high proportions of South Asians and recent immigrants.
+Health officials in Manitoba cited similar concerns about privacy and stigma when explaining why they did not release detailed ethnicity data on COVID-19 cases.
+Experts argue that collecting and releasing such data can help counter stigma and inform targeted public health responses, particularly for vulnerable populations.
+The article also highlights the importance of collecting and releasing accurate and timely data to inform public health decisions, especially during a pandemic.
+
+Article 8 of 9
+Title: Ontario to reopen borders with Quebec, Manitoba as 2nd-dose bookings open in delta hot spots
+Publisher: CBC.ca
+Posted: 5 days ago
+Key values:
+409 people with COVID-related illnesses being treated in intensive care units (ICUs)
+268 ICU patients needed a ventilator to breathe
+The seven-day average of daily cases fell to 503, a level not seen since late September 2020
+The number of total active infections stands at about 5,374
+The R-effective number, which shows the rate of spread, is down to 0.72
+
+Article 9 of 9
+Title: Ontario could see 'tsunami' of recovered COVID-19 patients with long-term symptoms: experts
+Publisher: CBC.ca
+Posted: 6 days ago
+Key values:
+10-20% of COVID-19 patients experience long-term symptoms
+Peak cases in April (over 4,000) will lead to a "tsunami" of patients needing ongoing rehab supports by September
+Long-term symptoms can affect anyone, regardless of initial severity or age
+Common symptoms include fatigue, brain fog, shortness of breath, and difficulty sleeping

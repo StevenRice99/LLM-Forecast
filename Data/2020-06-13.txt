@@ -1,0 +1,56 @@
+Below are 6 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 6
+Title: One country, two pandemics: what COVID-19 reveals about inequality in Canada
+Publisher: CBC.ca
+Posted: Today
+In Ontario, rates of infection, death, hospitalization, and socioeconomic disparities are higher in ethnically and culturally diverse neighborhoods.
+Low-income residents and recent immigrants are disproportionately affected by COVID-19.
+The rate of hospitalizations in hard-hit communities is four times higher than in less diverse areas.
+Working conditions, smaller dwellings, and pre-existing inequalities contribute to these disparities.
+
+Article 2 of 6
+Title: Coronavirus: What's happening around the world on June 13
+Publisher: CBC.ca
+Posted: Today
+Total cases in Canada: 98,408
+Cases considered recovered or resolved: 59,353
+Deaths in Canada: 8,163
+Daily hospitalizations in Texas (US): 2,166 (not directly relevant but can be used as a comparison)
+India reported 11,458 new cases and 386 deaths on Saturday.
+
+Article 3 of 6
+Title: 30-day limit on prescription refills lifted in most provinces
+Publisher: CTV News
+Posted: 1 day ago
+The article is about changes to prescription medication supply limits across Canadian provinces due to the COVID-19 pandemic.
+Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: 
+None directly related to COVID-19 hospitalization forecasts.
+
+Article 4 of 6
+Title: Is it safe to hug a friend or loved one at this point in the pandemic?
+Publisher: CTV News
+Posted: 5 days ago
+Experts agree that hugging can spread COVID-19 through droplets or physical contact.
+The risk of transmission is higher when hugging someone outside of your immediate household.
+Older adults and those with pre-existing health concerns are at high-risk of contracting severe cases of COVID-19.
+Wearing a mask, washing hands before and after hugging, keeping the hug brief, facing away from each other, and holding one's breath can minimize the risk of transmission.
+
+Article 5 of 6
+Title: Brazil gov't yanks virus death toll as data befuddles experts
+Publisher: CTV News
+Posted: 6 days ago
+Brazil's COVID-19 statistics are considered deficient and manipulated, making it difficult to understand the pandemic's toll.
+The country's Health Ministry stopped publishing cumulative numbers of infections and deaths, showing only daily figures.
+Academic groups have tried to estimate undercounted cases by studying unexplained surges in deaths compared to average prior years.
+In Brazil, efforts to detect uncounted deaths from COVID-19 are hindered by problems with government statistics.
+Deaths attributed to other conditions like pneumonia and respiratory insufficiency may be indicative of undiagnosed COVID-19 cases.
+
+Article 6 of 6
+Title: Survivors who missed out on polio vaccine hope for breakthrough against COVID-19
+Publisher: CTV News
+Posted: 6 days ago
+Peak of polio epidemic in Canada occurred in 1953 with 500 deaths and 11,000 people paralyzed.
+Polio cases were highest in better-off communities (middle class suburbs).
+Hospital resources were severely strained during the epidemic, including a shortage of mechanical respirators.
+The Salk vaccine was developed in the US with research contributions from the University of Toronto, providing immediate access to immunization against polio in Canada.

@@ -1,0 +1,54 @@
+Below are 6 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 6
+Title: Top doctor warns that severe illness likely to rise, trailing spike in COVID-19 cases
+Publisher: CTV News
+Posted: Today
+Average daily hospitalizations: 1,010 patients (20% in ICU)
+Active cases rose 16% week over week
+Average daily deaths: 23 (up from 6 six weeks ago)
+Ontario reported a new single-day high of 978 new coronavirus cases and 6 more deaths.
+
+Article 2 of 6
+Title: First Nations reserves avoided first-wave crisis, but officials warn of troubling new surge
+Publisher: CTV News
+Posted: 2 days ago
+139 cases of COVID-19 have been recorded on First Nations reserves in Ontario.
+The majority of cases (386) were recorded in Alberta, but Ontario's case count is still notable.
+Indigenous Canadians are nearly twice as likely as white Canadians to have pre-existing health conditions that make them more vulnerable to severe outcomes from COVID-19.
+
+Article 3 of 6
+Title: Winter is here, Manitoba: Current pandemic snapshot is grim, but there are encouraging signs
+Publisher: CBC.ca
+Posted: 3 days ago
+Manitoba is experiencing a significant spike in COVID-19 cases and hospitalizations, with 32 patients currently in hospital (value: 32).
+The province's hospitalization numbers tend to lag behind new cases, suggesting that Ontario may also experience an increase in hospitalizations in the coming days or weeks.
+The article highlights the importance of monitoring hospitalization rates as a key indicator for forecasting COVID-19 hospitalizations.
+
+Article 4 of 6
+Title: Impacts of COVID-19 on immigrants and people designated as visible minorities
+Publisher: Statistique Canada
+Posted: 4 days ago
+Here are five key points about immigrants and COVID-19:
+1. Increased fear of harassment: Immigrants were almost twice as likely as Canadian-born individuals to report being afraid of unwanted behaviors (29% vs 17%), with a significant increase in fear of stigmatization due to racial identity (42% vs 9%).
+2. Precautions and vaccine uptake: Immigrants were more concerned about health risks and took precautions, such as wearing masks (80% vs 61%) and avoiding crowds (93% vs 81%). However, they were less likely to get vaccinated (52% vs 59%).
+3. Concerns about social issues: Immigrants reported higher concerns than Canadian-born individuals about various social issues, including violence in the home (11.6% vs 7%), family stress from confinement (38.2% vs 30.1%), and maintaining social ties (43.7% vs 30.1%).
+4. Impact on immigration: The pandemic led to a significant decline in immigration flows, with only 34,260 immigrants entering Canada in the second quarter of 2020 compared to 94,280 in the same period in 2019.
+5. Opportunities for skilled immigrants: Despite the challenges, accelerated digitalization after COVID-19 may create opportunities for skilled immigrants and visible minorities, who are more likely to have higher education qualifications (50% vs 28%) and STEM backgrounds (37% vs 18%).
+
+Article 5 of 6
+Title: Alberta medical experts call for mandatory COVID-19 restrictions based on hospitalization numbers
+Publisher: CBC.ca
+Posted: 4 days ago
+3,203 active cases and 116 people in hospital (including 16 in ICU) in Alberta.
+Hospitalization rates increasing, with more people in hospital than ever before.
+Experts suggest mandatory restrictions to combat rising cases and hospitalizations.
+Key metrics for forecasting COVID-19 hospitalizations: active cases, hospitalizations, ICU admissions.
+
+Article 6 of 6
+Title: Chief public health officer calls for continued 'collective effort' against COVID-19
+Publisher: CTV News
+Posted: 7 days ago
+Ontario reported 805 new cases of COVID-19 on Saturday.
+York Region will join other hotspots in moving back to a modified Stage 2 of pandemic protocol, which includes closing gyms and movie theatres, banning indoor dining, and capping public gatherings at 10 people indoors and 25 people outdoors.
+Ontario has a total of 63,713 cases of COVID-19, with 54,686 considered resolved and 3,041 deaths.

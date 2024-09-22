@@ -1,0 +1,72 @@
+Below are 8 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 8
+Title: Canada has now ended its COVID-19 travel restrictions, mask mandates
+Publisher: CTV News
+Posted: Today
+The article reports on the end of COVID-19 public health restrictions in Canada, including no longer requiring proof of vaccination or mask-wearing on planes and trains, and an end to random mandatory tests for travellers. However, it does not provide information on current hospitalization rates or trends in Ontario specifically.
+
+Article 2 of 8
+Title: Effectiveness of a Second COVID-19 Vaccine Booster Dose Against Infection, Hospitalization, or Death Among Nursing Home Residents — 19 States, March 29–July 25, 2022
+Publisher: CDC
+Posted: 1 day ago
+The study found that a second mRNA COVID-19 vaccine booster dose provided additional protection over first booster doses among nursing home residents in the US.
+Key values for forecasting COVID-19 hospitalizations in Ontario, Canada:
++ VE of a second mRNA COVID-19 vaccine booster dose: 73.9% against severe COVID-19 outcomes (hospitalization or death)
++ Age range: 78 years (mean age of study participants)
++ Comorbidities: 4 Charlson comorbidities per resident
++ Vaccination timing: Second mRNA COVID-19 vaccine booster dose received during March-June 2022, with follow-up through July 25, 2022.
+
+Article 3 of 8
+Title: Ottawa's pandemic trends are mostly rising
+Publisher: CBC.ca
+Posted: 3 days ago
+Key values:
+Ottawa's number of COVID-19 outbreaks has doubled in two weeks.
+28 Ottawa residents have been admitted to a city hospital with COVID-19 (slightly fewer than the last update).
+Two patients are in intensive care in Ottawa.
+The Belleville area has its most COVID hospitalizations of 2022.
+Wastewater levels in Ottawa's wastewater have been rising this month, peaking on Sept. 25.
+Test positivity rate in Ottawa is currently at 14 per cent.
+42 active COVID outbreaks are in Ottawa (up from 39 as of the last update).
+
+Article 4 of 8
+Title: Canada removing all COVID-19 entry restrictions October 1
+Publisher: WXXI News
+Posted: 4 days ago
+Canada is dropping all COVID-19-era border restrictions.
+The decision was made due to low hospitalization and death rates, high vaccination rates, and the availability of treatments and rapid tests.
+This change does not necessarily mean an immediate decrease in COVID-19 hospitalizations in Ontario, but it may indicate a shift in transmission dynamics.
+
+Article 5 of 8
+Title: Hundreds of thousands of COVID-19 antivirals are sitting on shelves across Canada
+Publisher: CBC News
+Posted: 4 days ago
+Key values for forecasting:
+Availability of Paxlovid: 730,000 treatment courses already shipped and another 770,000 to be distributed by the end of the year
+Eligibility criteria: generally available to most seniors and adults with compromised immune systems who test positive for COVID-19
+Uptake rate: less than 15% of the treatment courses received from Health Canada have been dispensed in Ontario (no data provided)
+Importance of early treatment: Paxlovid needs to be started within the first five days, preferably within the first three days, to have the best effect.
+
+Article 6 of 8
+Title: Bivalent COVID-19 boosters are available for all adults in Ottawa today
+Publisher: CTV News Ottawa
+Posted: 5 days ago
+Relevant.
+The article mentions that bivalent COVID-19 vaccine boosters are available for anyone 18+ in Ontario, with a recommended interval of 168 days since a previous dose. This information is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada.
+
+Article 7 of 8
+Title: Pandemic spurred exodus of Ontario family doctors, study indicates
+Publisher: CBC.ca
+Posted: 5 days ago
+385 family doctors left the profession between March and September 2020, which accounted for an estimated 170,000 patients losing access to primary care.
+This trend disproportionately affected rural areas where there were already lower numbers of doctors.
+The loss of family physicians is expected to lead to higher rates of hospitalization and lower life expectancy among patients without a family doctor.
+Patients without a family physician are more likely to go to the emergency room, which increases costs to the healthcare system.
+
+Article 8 of 8
+Title: New pediatric Pfizer vaccine, COVID-19 bivalent booster available starting Monday
+Publisher: CBC.ca
+Posted: 6 days ago
+Relevant.
+The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada because it mentions that getting vaccinated improves immune response to COVID-19 infection and reduces the possibility of severe disease and hospitalization. The Chief Medical Officer of Health also emphasizes this point.

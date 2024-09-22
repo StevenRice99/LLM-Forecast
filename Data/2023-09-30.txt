@@ -1,0 +1,115 @@
+Below are 9 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 9
+Title: Researchers are still untangling the risks of catching COVID over and over
+Publisher: CBC.ca
+Posted: Today
+The article discusses the ongoing impact of COVID-19 on individuals and society, particularly with regards to long COVID (Post-COVID Conditions). Despite an expected fall wave of COVID-19, health experts recommend waiting for updated vaccines before getting a booster shot. The article highlights the complexities and uncertainties surrounding long COVID, including its definition, prevalence, and symptoms.
+Some key points from the article include:
+Long COVID is a broad spectrum of health issues that can arise following an acute COVID infection, with symptoms ranging from temporary changes in menstrual cycle to debilitating, persistent health impacts.
+Early estimates suggested 10-40% of people could be affected by long COVID, but more recent data suggests lower rates, possibly around 1.3-0.2%.
+Vaccination or prior COVID can reduce the risk of long COVID, but it's not a guarantee.
+Long COVID has significant consequences for individuals and society, including impacts on quality of life, work capacity, and mental health.
+The article emphasizes the need to acknowledge that COVID is not just a cold and has consequences, while also recognizing that basic precautions can reduce individual risk.
+Overall, the article provides a nuanced view of the ongoing impact of COVID-19 and encourages readers to be aware of the complexities surrounding long COVID.
+
+Article 2 of 9
+Title: Latest COVID-19 vaccines likely not publicly available until late October, Ottawa Public Health says
+Publisher: CTV News Ottawa
+Posted: Today
+COVID-19 continues to cause more hospitalizations than influenza and RSV (34 new hospitalizations that week).
+Most COVID-19 patients are 60 or older.
+There were 13% of all emergency room visits due to respiratory illness.
+COVID-19 has killed 1,111 people in Ottawa since the pandemic began.
+
+Article 3 of 9
+Title: Characteristics of patients with repeat hospitalizations for substance-related harms in Canada
+Publisher: Canada.ca
+Posted: 2 days ago
+This report appears to be a statistical analysis of substance-related poisonings and disorders in Canada, based on data from the Discharge Abstract Database (DAD). Here's a summary of the key points:
+Methodology: 
+The analysis uses ICD-10-CA codes to identify substance-related poisonings and disorders.
+Data is extracted from the DAD for the years 2007/08 to 2016/17.
+Findings: 
+The report presents data on assigned sex at birth, but not gender identity.
+It excludes individuals who are not recorded as male or female (e.g., "other" sex or unknown).
+Data from Quebec is not included.
+The analysis reports on substance-related poisonings and disorders, including:
++ Alcohol
++ Cannabis
++ Central nervous system stimulants (e.g., cocaine)
++ Hallucinogens (e.g., LSD)
++ Opioids
++ Other central nervous system depressants (e.g., barbiturates)
+ICD-10-CA codes: 
+The report provides a list of ICD-10-CA codes used to identify substance-related poisonings and disorders in the DAD.
+Limitations: 
+The analysis notes that data released by provinces and territories may differ from the data provided in this report due to various factors, such as differences in data availability, case definitions, or population estimates.
+Overall, this report appears to be a statistical analysis of substance-related poisonings and disorders in Canada, based on DAD data.
+
+Article 4 of 9
+Title: COVID-19 in Ontario: 'We're definitely seeing a surge,' warns ER doctor
+Publisher: CTV News
+Posted: 2 days ago
+Relevant.
+Ontario is experiencing a surge in infections, with rising test positivity rates.
+Dr. Steve Findall recommends hospital mask mandates to protect vulnerable patients.
+Masking and vaccination (specifically booster shots) are effective strategies to reduce COVID-19 spread.
+
+Article 5 of 9
+Title: Rapid tests are less accessible even as COVID wave ramps up across Canada, doctors say
+Publisher: CBC News
+Posted: 2 days ago
+Key points:
+The Ontario provincial government discontinued their free rapid test distribution program in June.
+Health-care providers can now order tests from the province to distribute to patients for free as of September.
+Distribution systems vary across local public health units, creating differences in where people can find a rapid test in each city.
+Experts agree on the importance of clear communication about testing and mask-wearing to mitigate COVID-19 spread.
+
+Article 6 of 9
+Title: B.C. launches fall vaccine push, urging residents to get shots for COVID-19 and flu
+Publisher: CBC.ca
+Posted: 2 days ago
+COVID-19 infections and hospitalizations are rising again.
+Priority will be given to those most at risk of severe illness and hospitalization, including people over 65, Indigenous people, long-term care residents, etc.
+Vaccination invitations will start going out early in October, with a focus on high-risk groups.
+
+Article 7 of 9
+Title: Updated Moderna COVID-19 vaccine will soon be available for Ontario residents
+Publisher: kawarthaNOW.com
+Posted: 3 days ago
+The new XBB.1.5 vaccine provides protection against the dominant omicron XBB variant.
+Eligibility for the updated COVID-19 vaccine aligns with eligibility for the influenza vaccine.
+High-risk groups include those hospitalized, long-term care residents and staff, people 65+, pregnant women, Indigenous people, and healthcare workers.
+The general public will be eligible once supply permits.
+
+Article 8 of 9
+Title: Fall vaccination campaign across N.L. to begin Oct. 16
+Publisher: CBC.ca
+Posted: 4 days ago
+Here is a brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+COVID-19 hospitalizations have slightly increased in Newfoundland and Labrador over the last couple of weeks.
+The province expects to see both influenza and COVID-19 circulating at the same time this fall, as well as other respiratory viruses like RSV.
+Cases of respiratory viruses tend to surge in the autumn due to colder weather and people spending more time indoors.
+Vaccination rates are not mentioned specifically for Ontario, but the article highlights the importance of vaccination against COVID-19 and influenza, especially for high-risk groups such as adults 65+, residents of long-term care homes, and those with underlying medical conditions.
+
+Article 9 of 9
+Title: Wastewater-based surveillance identifies start to the pediatric respiratory syncytial virus season in two cities in Ontario, Canada
+Publisher: Frontiers
+Posted: 5 days ago
+It appears that you've provided a list of references related to respiratory syncytial virus (RSV), influenza, and COVID-19. Here's a brief summary of each reference:
+References 25-27: 
+These studies focus on the use of wastewater surveillance for early warnings of COVID-19 surges and RSV outbreaks.
+Reference 25 presents a simple method for detecting COVID-19 in wastewater and its application to Detroit, Michigan.
+References 26 and 27 discuss the use of wastewater surveillance for RSV and influenza viruses.
+References 29-31: 
+These studies examine the disease burden estimates of RSV-related acute respiratory infections in adults with comorbidity (Reference 29).
+Reference 30 presents a municipal-level wastewater surveillance system for subtyping an influenza virus outbreak.
+Reference 31 analyzes the seasonality and geographical spread of RSV epidemics across 15 European countries.
+References 32-34: 
+These studies investigate hospital admissions for respiratory tract infections in children aged 0-5 years (Reference 32).
+Reference 33 discusses the use of regional surveillance data to inform seasonal RSV prophylaxis.
+Reference 34 examines the impact of using an international risk scoring tool on the cost-utility of palivizumab for preventing severe RSV infection.
+References 35: 
+This study proposes leveraging the global influenza surveillance and response system for global RSV surveillance, highlighting opportunities and challenges.
+Please let me know if you'd like me to help with anything specific or provide a more detailed summary of each reference.

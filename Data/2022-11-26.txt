@@ -1,0 +1,86 @@
+Below are 7 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 7
+Title: Toddler hospitalized for a month with a cold sent home with medical devices
+Publisher: Yahoo News Canada
+Posted: 2 days ago
+The article mentions record numbers of young patients with respiratory viruses (including COVID-19) in hospitals.
+The Ontario Ventilator Equipment Pool is struggling to keep up with demands for breathing equipment during the pandemic.
+The pool has received over 180 requests for "cough assist" machines since April 2022, but can only buy a dozen new ones.
+The equipment helps shorten hospital stays and frees up patient beds in health facilities.
+
+Article 2 of 7
+Title: Initial evaluation of extracorporeal immunomodulatory therapy for the treatment of critically ill COVID-19 infected patients
+Publisher: Nature.com
+Posted: 2 days ago
+The study reports on a treatment regime (leukocyte modulation) used in patients requiring mechanical ventilation and vasopressor support.
+The treatment was delivered to 12 severely affected patients with multiple organ failure and high probability of death.
+The results show a significant decrease in vasopressor drugs and cytokines, but the small sample size is a limitation.
+Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Number of severe cases (e.g. requiring mechanical ventilation and vasopressor support)
+Availability of ICU beds
+Hospitalization rates in Ontario
+
+Article 3 of 7
+Title: 'We're just bombarded with illness': Prairies see highest rates of positive flu tests in Canada
+Publisher: CBC.ca
+Posted: 3 days ago
+Key values:
+Low vaccination rates (less than 18% of Albertans have their flu shot)
+High test positivity rate for influenza (28% in Prairie provinces)
+Children four years old and younger currently have the highest rates of hospitalization due to influenza
+Emergency room wait times are increasing across the country, especially in children's hospitals.
+
+Article 4 of 7
+Title: ‘Reality is pretty bleak… for Canada’s children’s hospitals’ – Winnipeg Free Press
+Publisher: Winnipeg Free Press
+Posted: 5 days ago
+The article reports on the surge in pediatric hospitalizations due to upper-respiratory viruses (such as flu and RSV) in Manitoba. Key values for forecasting COVID-19 hospitalizations in Ontario, Canada are:
+High occupancy rates of children's hospitals
+Increased ER visits among children
+Higher volumes of sicker young kids ending up in hospital
+Pediatric units too small to meet demand
+Respiratory illnesses as primary reason for visits
+Note: The article does not mention COVID-19 hospitalizations specifically, but mentions that COVID-19 is not a driver of hospitalizations among children.
+
+Article 5 of 7
+Title: Trends in psychiatric diagnoses by COVID-19 infection and hospitalization among patients with and without recent clinical psychiatric diagnoses in New York city from March 2020 to August 2021
+Publisher: Nature.com
+Posted: 5 days ago
+The article discusses the impact of the COVID-19 pandemic on clinical psychiatric diagnoses in New York City (NYC). The study found that:
+1. Increased psychiatric diagnoses: There was a significant increase in new psychiatric diagnoses since February 2020, with anxiety and mood disorders being the most common.
+2. Higher risk for those with recent psychiatric diagnoses: Patients with recent clinical psychiatric diagnoses had higher anxiety and mood disorders than those without at the beginning of the pandemic.
+3. Increased substance use disorder (SUD): There was a substantial increase in SUD among patients without recent clinical psychiatric diagnoses, which may be related to expanded telehealth utilization and medications for opioid use disorder (MOUD) during the pandemic.
+4. Social determinants of health: Social distancing, unemployment, school disruptions, economic downturn, reduced mental health utilization, food insecurity, reduced exercise, comorbid medical conditions, sleep problems, and worsened interpersonal relationships may exacerbate the risks of psychiatric illnesses.
+5. Disparities in access to healthcare: Patients aged 45-64 years, females, those from unknown race/ethnicity groups, and Black and Asian patients were more likely to be infected by COVID-19 and hospitalized.
+The study highlights the importance of:
+1. Prioritizing screening and treating individuals with clinical psychiatric diagnoses as part of the strategy to control the pandemic while reducing disparities in access to healthcare support.
+2. Investigating rising substance misuse , including alcohol and opioids, and improving access to alternative modes of mental health care (i.e., telehealth or virtual care).
+3. Continuing to investigate the adverse long-term mental health impacts of the COVID-19 pandemic and monitoring the effects of mental health treatment disruptions and reconnections during the later recovery from COVID-19.
+The study's limitations include:
+1. Limited generalizability: The sample was only from NYC, which may not be representative of other areas in the US.
+2. Missing values in race and ethnicity data: There were substantial missing values in this data, which is a common challenge when using EHR data.
+3. Lack of individual-level socioeconomic status data: This data was also lacking, which may further exacerbate the adverse mental health impact of COVID-19 infections on clinical psychiatric diagnoses.
+Overall, the study emphasizes the need for future research to explore the associations between social determinants of health and trends in clinical psychiatric diagnoses among vulnerable populations.
+
+Article 6 of 7
+Title: Ontario could face Charter challenge over law forcing some elderly hospital patients into nursing homes
+Publisher: CBC.ca
+Posted: 5 days ago
+1,800 patients across Ontario are deemed to need an "alternate level of care" and are on a wait-list to get into a long-term care home.
+The province has about 38,000 people on the waitlist for long-term care.
+Patients can be forced to go to a long-term care home up to 70 km away in southern Ontario or 150 km away in northern regions if there are no beds available.
+
+Article 7 of 7
+Title: With COVID, flu and RSV circulating, it’s time to follow the evidence: Return to mask mandates
+Publisher: Yahoo News Canada
+Posted: 6 days ago
+The article argues that mask mandates are an effective way to prevent the spread of COVID-19 and other respiratory viruses, particularly in indoor settings such as schools and public spaces. The authors, a team of researchers from McMaster University and the University of Windsor, point out that the strategy of relying on personal judgment or strong recommendations for mask use has failed, while mask mandates have been shown to be effective in both Canada and the United States.
+The article highlights several key points:
+1. Mask mandates are backed by evidence: The authors cite studies showing that mask mandates have been effective in reducing transmission of COVID-19.
+2. Masks protect populations, not just individuals: While individual mask use may provide some protection, mask mandates can prevent outbreaks and protect entire communities.
+3. Schools represent a critical opportunity: Schools are a key setting for the spread of COVID-19 among children, who can then infect their families and communities. Mask mandates in schools can help mitigate this risk.
+4. Mask mandates support economic recovery: By reducing transmission and preventing outbreaks, mask mandates can help preserve the economy by keeping businesses open and people at work.
+5. Masks are not a barrier to learning: The authors argue that masks do not reduce social or language skills, and that keeping children in schools with mask mandates can actually improve learning outcomes by reducing student and teacher sick days.
+The article concludes that mask mandates offer the best immediate opportunity to preserve public health, support economic recovery, and safely maintain social contacts. While indicators may lag behind implementation, the authors argue that a whole-of-society approach recognizing COVID-19 as an airborne virus is necessary to address this crisis effectively.
+Overall, the article presents a strong case for the effectiveness of mask mandates in preventing the spread of respiratory viruses, particularly in indoor settings such as schools and public spaces.

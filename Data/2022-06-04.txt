@@ -1,0 +1,73 @@
+Below are 6 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 6
+Title: Ontario reports lowest COVID-19 ICU admissions since Aug. 2021
+Publisher: CP24
+Posted: Today
+Relevant.
+671 patients with COVID-19 in hospitals (down from 865 a week ago).
+107 ICU patients (down from 144 a week ago), with 74% admitted for COVID-19-related reasons.
+7.9% positivity rate from 9,829 tests in the past 24 hours.
+901 new cases reported, with 505 fully vaccinated and 97 partially or unvaccinated.
+
+Article 2 of 6
+Title: Toronto Metropolitan University suspends mask policy starting June 1
+Publisher: The Eyeopener
+Posted: 2 days ago
+The article mentions that Ontario's masking policy was cancelled on March 21 and that there were 643 COVID-19 hospitalizations reported on Sunday, the lowest number since late March. This information is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada.
+
+Article 3 of 6
+Title: Initial findings on RESTORE for healthcare workers: an internet-delivered intervention for COVID-19-related mental health symptoms
+Publisher: Nature.com
+Posted: 3 days ago
+This text appears to be a research study protocol or methods section from a psychological intervention study. Here's a breakdown of the key points:
+Study Design 
+The study is an online, transdiagnostic intervention (RESTORE) aimed at reducing symptoms of anxiety, depression, and PTSD.
+Participants receive 5 brief check-ins with their guide via direct messaging or calls after completing modules 1, 2, 4, 6, and 8.
+Guides 
+Three study guides have a bachelor's degree and a background in psychology.
+Guides were trained through two 2-hour workshops on the guidance manual and spent ~4 hours reviewing the online platform and practicing guidance calls.
+Measures 
+The primary outcomes are self-reported anxiety, depression, and PTSD symptoms over the past week using:
++ Generalized Anxiety Disorder-7 (GAD-7)
++ Patient Health Questionnaire-9 (PHQ-9)
++ Posttraumatic Stress Disorder Checklist-5 (PCL-5)
+Suicide risk is assessed through a two-item screener.
+Feasibility and acceptability are measured using:
++ Percentage of screened individuals who were deemed eligible
++ Adherence to the intervention (mean number of completed modules, drop-out rates)
++ Intervention engagement (mean number of RESTORE log-ins, text entries into the platform)
++ Client Satisfaction Questionnaire-8 (CSQ-8)
+Statistical Analyses 
+Multilevel growth models are used to analyze outcomes on the intent-to-intervene and intervention completer samples.
+Changes in primary outcomes are tested using restricted maximum likelihood estimation with a Kenward-Roger correction for small samples.
+Overall, this study aims to evaluate the feasibility, acceptability, and effectiveness of an online transdiagnostic intervention (RESTORE) for reducing symptoms of anxiety, depression, and PTSD.
+
+Article 4 of 6
+Title: Ontario reports 15 more deaths linked to COVID-19, 808 hospitalizations
+Publisher: CBC.ca
+Posted: 4 days ago
+808 hospitalizations reported on Tuesday (up from 611 on Monday)
+40% of hospitalized patients were admitted specifically for COVID-19
+140 ICU admissions (down from 147 on Monday and 157 last week)
+68% of ICU patients were admitted due to COVID-19
+
+Article 5 of 6
+Title: Study finds long-term exposure to common air pollutants is associated with COVID-19 severity
+Publisher: News-Medical.Net
+Posted: 5 days ago
+The study analyzed data from 151,105 patients infected with SARS-CoV-2 in Ontario, Canada in 2020.
+Long-term exposure to fine particulate matter (PM 2.5), nitrogen dioxide (NO 2), and ground-level ozone (O 3) air pollutants was associated with increased risk of COVID-19 hospitalization and death.
+The odds ratios for PM 2.5, NO 2, and O 3 were 1.06, 1.09, and 1.18, respectively, indicating a positive association between air pollution levels and COVID-19 severity.
+The study suggests that chronic air pollution exposure before SARS-CoV-2 infection may contribute to COVID-19 severity.
+
+Article 6 of 6
+Title: Ontario reports lowest COVID-19 ICU occupancy in 6 months
+Publisher: CP24
+Posted: 7 days ago
+Relevant.
+865 total hospital patients with COVID-19 (down from 1,116 a week ago).
+144 ICU patients with COVID-19 (lowest occupancy rate since Nov. 28, 2021).
+13 net new deaths.
+8.5% positivity rate among 11,297 tests in the past 24 hours.
+1,144 new infections reported.

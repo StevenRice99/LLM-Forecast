@@ -1,0 +1,67 @@
+Below are 7 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 7
+Title: Why 'waning immunity' from COVID-19 vaccines isn't as bad as it sounds
+Publisher: CBC.ca
+Posted: Today
+The article discusses the topic of breakthrough infections and waning immunity from COVID-19 vaccines in Canada. It highlights that while fully vaccinated Canadians who get COVID-19 are 79% less likely to be hospitalized and 64% less likely to die, there is a small but significant number of cases where vaccinated individuals still contract severe illness or death.
+The article emphasizes the importance of underlying conditions in determining the risk of breakthrough infections. It notes that older, frailer Canadians living with comorbidities are at increased risk due to their antibody levels dropping "much faster" than in the general population.
+A recent preprint study from the Toronto-based Lunenfeld-Tanenbaum Research Institute found much lower levels of neutralizing antibodies in elderly patients, highlighting the need for booster shots in this group. However, the article suggests that boosters for the general population may be premature in Canada, citing data from researchers at the Institute for Clinical Evaluative Sciences (ICES) showing high protection against severe outcomes even after eight months.
+The article also notes that other immunocompromised groups, such as transplant patients and people with certain types of cancers, have shown declining protection from COVID-19 vaccines. It emphasizes that while breakthrough infections are a concern, they do not necessarily mean the vaccine is working less well.
+Key points:
+Fully vaccinated Canadians who get COVID-19 are 79% less likely to be hospitalized and 64% less likely to die.
+Older, frailer Canadians living with comorbidities are at increased risk of breakthrough infections due to their antibody levels dropping "much faster" than in the general population.
+Boosters for the general population may be premature in Canada, citing data from researchers at ICES showing high protection against severe outcomes even after eight months.
+Other immunocompromised groups, such as transplant patients and people with certain types of cancers, have shown declining protection from COVID-19 vaccines.
+
+Article 2 of 7
+Title: Sask. plans to send more COVID-19 patients to Ontario
+Publisher: CBC.ca
+Posted: 1 day ago
+6 COVID-19 patients were moved from Saskatchewan to Ontario earlier this week.
+An additional 3 patients are expected to be sent next Monday through Wednesday.
+The number of transfers may change due to factors such as ICU capacity and aircraft availability.
+
+Article 3 of 7
+Title: COVID-19 vaccine ‘mix and match’: Which combination is better?
+Publisher: Medical News Today
+Posted: 2 days ago
+A study from Sweden analyzed data on 721,787 individuals and found that:
+People who received an Oxford-AstraZeneca vaccine dose followed by a Pfizer or Moderna vaccine dose have more protection against SARS-CoV-2 infection than those who received two doses of Oxford-AstraZeneca.
+Those who received the mixed vaccination had a lower risk of hospitalization due to COVID-19 compared to those who received only the Oxford-AstraZeneca vaccine.
+
+Article 4 of 7
+Title: Sask. surpasses Ontario in per capita COVID-19 deaths, now 4th-highest province
+Publisher: CBC.ca
+Posted: 2 days ago
+Relevant.
+Saskatchewan has surpassed Ontario in per capita COVID-19-related deaths (67.2 vs 66 deaths per 100,000 people). Hospitalizations and ICU admissions have stayed relatively steady or continued climbing despite a drop in case counts. Health officials warn that hospitalizations are lagging indicators, which means they could get worse before improving.
+
+Article 5 of 7
+Title: Emotional Sask. chief medical health officer pleads with public amid dire new COVID-19 modelling
+Publisher: CBC.ca
+Posted: 2 days ago
+Key values:
+Potential spike in ICU hospitalizations starting in early December and peaking in January
+Current number of ICU patients (82) plus 35 non-COVID-19 patients, with 6 sent to Ontario hospitals
+Modelling scenarios suggest ICU hospitalizations could reach over 200 by Jan 1 if no additional public health measures are brought in and people don't change their behaviours
+Booster shots may not be enough to prevent a spike; individual and collective behaviour is crucial
+
+Article 6 of 7
+Title: Some unvaccinated people are going public after getting COVID-19. Will it convince others to get the shot?
+Publisher: CBC.ca
+Posted: 3 days ago
+A 61-year-old woman fell critically ill with COVID-19 and was hospitalized for a month after being unvaccinated.
+She suffered severe lung damage and now relies on an oxygen tube to breathe.
+Her experience highlights the importance of vaccination in preventing severe illness from COVID-19.
+Experts suggest that personal stories like hers may be effective in convincing some people who are hesitant about getting vaccinated.
+
+Article 7 of 7
+Title: 6 Saskatchewan ICU patients with COVID-19 being transferred to Ontario
+Publisher: CBC.ca
+Posted: 5 days ago
+Key values:
+6 COVID-19 patients are being transferred from Saskatchewan to Ontario over the next 72 hours.
+This is due to record-breaking numbers of intensive care patients in Saskatchewan (85 on Monday).
+The transfer will help ensure these patients receive "the very best possible care that they can".
+Additional out-of-province support may be required beyond Wednesday.

@@ -1,0 +1,76 @@
+Below are 5 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 5
+Title: Ontario requires masking for long-term care home staff amid rise in COVID-19 outbreaks
+Publisher: CBC.ca
+Posted: 1 day ago
+181 long-term care residents were hospitalized with COVID-19 from Aug. 27 to Oct. 28.
+The case fatality rate among long-term care residents with COVID-19 is 3.6%.
+There have been 5,459 COVID-19 cases among long-term care residents and 106 deaths in the same time period.
+Staff hospitalizations or deaths due to COVID-19 are not reported.
+A recent rise in COVID-19 outbreaks, cases, and resident hospitalizations led to a masking requirement for staff in long-term care homes.
+
+Article 2 of 5
+Title: Peter McCullough misinterprets study on COVID-19 vaccination in pregnancy; the study shows that vaccines are safe for pregnant women
+Publisher: Science Feedback
+Posted: 1 day ago
+Here's a summary of the key points:
+Study Background 
+A study published in October 2023 by Jorgensen et al. aimed to assess whether COVID-19 vaccination during pregnancy was associated with a greater risk in pregnancy complications.
+The study analyzed data from over 1 million births in Ontario, Canada.
+Key Findings 
+The study found no significant increase in neonatal and all-cause readmissions among babies born to vaccinated mothers compared to unvaccinated mothers.
+Specifically:
++ Neonatal readmission: 5.5% (vaccine exposed) vs. 5.1% (vaccine unexposed), adjusted hazard ratio 1.03 (95% CI, 0.98-1.09)
++ All-cause 6-month readmission: 8.4% (vaccine exposed) vs. 8.1% (vaccine unexposed), aHR 1.01 (95% CI, 0.96-1.05)
+Misinterpretation by McCullough 
+Dr. McCullough misinterpreted the study's findings, claiming that vaccinated mothers had a higher risk of pregnancy complications.
+Jorgensen et al. corrected these claims, pointing out that:
++ The study was not designed to evaluate benefits to pregnant women, but rather safety outcomes for infants born to vaccinated mothers.
++ The analysis did not exclude miscarriages and stillbirths, which were already shown in other studies to be unaffected by COVID-19 vaccination.
+Additional Points 
+Jorgensen et al. also clarified that the study's data linkage issues resulted in exclusions of ~3% of infant records, but this did not affect the overall findings.
+The study's results are consistent with a wealth of existing evidence showing that COVID-19 vaccination is safe and beneficial during pregnancy.
+
+Article 3 of 5
+Title: N.B. changes definition of 'serious' COVID-19 vaccine reactions, cuts number in half
+Publisher: CBC.ca
+Posted: 1 day ago
+The Public Health Agency of Canada defines a serious adverse event as one that results in death, life-threatening condition, hospitalization, persistent disability, or congenital anomaly.
+This definition is used to classify reported adverse events following immunization (AEFI) in New Brunswick and other Canadian jurisdictions.
+The article highlights the importance of aligning definitions across provinces to facilitate effective comparisons of data.
+Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Definition of a serious adverse event
+Reporting requirements for vaccine providers
+Regular monitoring of immunization data
+Alignment of definitions across provinces
+
+Article 4 of 5
+Title: Ivermectin warnings, a new COVID-19 antiviral, a changing threshold for care: These are the WHO's updated treatment guidelines
+Publisher: CTV News
+Posted: 1 day ago
+The World Health Organization (WHO) has updated its guidelines for the use of various medications in treating non-severe COVID-19 cases. The key points from the article are:
+Remdesivir: 
+Conditionally recommended against for patients with moderate risk of hospitalization
+Strongly recommended against for patients with low risk of hospitalization, as it may exacerbate health inequities and use significant resources for a negligible benefit
+Molnupiravir: 
+Conditionally recommended for patients with high risk of hospitalization
+Conditionally recommended against for patients with moderate risk of hospitalization
+Strongly recommended against for patients with low risk of hospitalization, as it may have little or no impact on mortality and could contribute to the emergence of new COVID-19 variants
+Other drugs: 
+Systemic corticosteroids are conditionally recommended against for any patient with non-severe COVID-19
+Fluvoxamine is conditionally recommended against except in the context of a clinical trial
+Sotrovimab and colchicine are strongly recommended against for any patient with non-severe COVID-19
+New warnings: 
+Ivermectin is strongly warned against for use in patients with non-severe COVID-19, even in research settings, due to its lack of effectiveness and potential to divert resources away from more effective treatments
+VV116, a new antiviral drug, does not seem to be associated with increased adverse effects but has limited data on its effectiveness, so it is strongly recommended against for use in patients with COVID-19 except in the context of a clinical trial
+Other medications: 
+Hydroxychloroquine, lopinavir-ritonavir, casirivimab and imdevimab are strongly recommended to not be used with any COVID-19 patients.
+
+Article 5 of 5
+Title: Visitor restrictions due to COVID-19 outbreak in Cambridge hospital unit
+Publisher: CTV News Kitchener
+Posted: 2 days ago
+2 or more patients/staff test positive for COVID-19 and disease was acquired in hospital (outbreak criteria)
+14 active outbreaks across Region of Waterloo as of Nov. 9
+Largest outbreak at The Village at University Gates Long-Term Care with 68 cases since Oct. 5

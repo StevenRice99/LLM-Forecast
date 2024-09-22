@@ -1,0 +1,55 @@
+Below are 5 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 5
+Title: 267 in hospital with COVID-19 as BCCDC returns to biweekly data updates
+Publisher: CTV News Vancouver
+Posted: Today
+The article reports on COVID-19 hospitalization data from British Columbia (B.C.), not Ontario.
+However, it provides context on the general trend of increasing transmission and hospitalizations across Canada.
+Key values for forecasting COVID-19 hospitalizations include:
++ Increase in new hospital admissions: 178 new hospitalizations reported in B.C. during a recent epidemiological week.
++ Increase in new infection episodes: 628 confirmed through lab-based testing during the same period.
++ Test-positivity rate: 20.8% in B.C., indicating growing transmission.
+These values can be considered as general indicators of COVID-19 trends across Canada, including Ontario.
+
+Article 2 of 5
+Title: How to tell if your symptoms are from COVID, a cold or the flu
+Publisher: CTV News
+Posted: 2 days ago
+The article discusses how COVID-19 symptoms have evolved over time and how they overlap with other respiratory illnesses. Experts recommend that Canadians who are feeling under the weather should try to stay home if possible to mitigate the potential spread of viruses while they recover.
+Some key points from the article include:
+The sudden loss of taste or smell in the absence of any congestion is still a distinctive symptom of COVID-19, although it's less frequent than before.
+Upper respiratory symptoms have become more common with new variants, while lower respiratory ones have decreased.
+COVID-19 is still more dangerous than influenza, which can be a serious illness in its own right.
+Rapid tests may not always detect COVID-19 immediately, and people should test again if symptoms persist.
+Antiviral medication like Paxlovid is available to help limit the severity of COVID-19 when taken early on in the course of an infection.
+Overall, the article emphasizes the importance of being aware of the evolving nature of COVID-19 symptoms and taking steps to protect oneself and others from the virus.
+
+Article 3 of 5
+Title: U.S. to produce more COVID-19 tests for free distribution as cases rise - National
+Publisher: Global News Toronto
+Posted: 2 days ago
+Cases are on the rise globally, including in Europe and Canada (8% increase in US hospitalizations).
+The Public Health Agency of Canada has over 90 million at-home COVID-19 tests in its federal stockpile.
+Approximately 700,000 tests are set to expire by the end of this year.
+The Canadian government holds bilateral monthly meetings with provinces and territories to support distribution requests.
+
+Article 4 of 5
+Title: What's expected this respiratory virus season and what can you do?
+Publisher: CBC.ca
+Posted: 3 days ago
+Relevant.
+Key values for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Increased risk of COVID spread due to low vaccine uptake among children
+Higher impact of flu on children expected this year
+Children aged 5-12 and people over 65 at higher risk of hospitalization with the flu
+Low flu vaccine uptake among children may compound the issue
+Availability of updated COVID vaccines in late September, with general public availability by end of October
+
+Article 5 of 5
+Title: Alberta COVID hospitalizations up 73% since July: health minister
+Publisher: Global News Toronto
+Posted: 5 days ago
+92 new COVID-19 hospitalizations in Alberta between Aug 28 and Sept 8
+Total COVID-19 hospitalizations in Alberta increased by 73% to 417 (from 242 on July 24)
+Acute care COVID-19 outbreaks in Alberta jumped by 146% among healthcare workers and 55% among patients from Sept 5 to 12.

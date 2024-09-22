@@ -1,0 +1,51 @@
+Below are 5 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 5
+Title: COVID-19 situation in the U.S. 'scary' and 'dangerous,' Canadian long-haul truckers warn
+Publisher: CBC.ca
+Posted: 4 days ago
+The article mentions a surge in COVID-19 cases and hospitalizations in several large US states, including Texas, California, and Florida.
+These states are experiencing record daily highs in COVID-19 cases, which would pose a significant health threat to Canada if the border were reopened.
+Canadian government officials, including Prime Minister Trudeau and Ontario Premier Doug Ford, have expressed concerns about reopening the border due to the ongoing pandemic situation in the US.
+
+Article 2 of 5
+Title: Protecting Frontline Health Care Workers from COVID-19 with Hydroxychloroquine Pre-exposure Prophylaxis: A structured summary of a study protocol for a randomised placebo-controlled multisite trial in
+Publisher: Trials Journal
+Posted: 4 days ago
+Key values:
+Days hospitalized attributed to COVID-19
+Respiratory failure requiring ventilator support attributed to COVID-19
+Mortality attributed to COVID-19
+Total days off work attributed to COVID-19 (indirectly related to hospitalization)
+
+Article 3 of 5
+Title: How deadly is COVID-19 for children? Here's what we know
+Publisher: CTV News
+Posted: 4 days ago
+In Canada, the death rate for children under 20 with COVID-19 is about 1 per 10,000 infected (0.013%).
+Only one child has died from COVID-19 out of 7,888 cases in patients under 20.
+Children are less likely to be hospitalized or receive ICU care compared to older patients (1.5% and 0.3%, respectively).
+These numbers suggest a low risk for children contracting severe illness or hospitalization due to COVID-19.
+
+Article 4 of 5
+Title: Fresh lockdown for 250,000 in Manila as virus surges
+Publisher: CTV News
+Posted: 5 days ago
+Relevant.
+Summary: The article reports on a surge of new COVID-19 cases and hospitalizations in the Philippines, with private hospitals reaching full capacity for treating patients. Key values for forecasting COVID-19 hospitalizations in Ontario, Canada include:
+Total number of cases (57,000+)
+Number of new cases per day (over 1,000 most days this month)
+Hospitalization rates (private hospitals reached full capacity)
+Death toll (1,599 deaths)
+
+Article 5 of 5
+Title: Kingston mayor wants to keep Canada-U.S. border closed to non-essential travel
+Publisher: CTV News Ottawa
+Posted: 7 days ago
+130 new cases of COVID-19 reported in Ontario.
+Provincial total: 36,594 cases.
+Kingston area has 21 active cases.
+Ottawa Public Health reports 16 new cases.
+U.S. records nearly 60,000 new cases on Friday.
+Total confirmed cases in the U.S.: 3 million.
+Important for forecasting hospitalizations: number of new cases reported in Ontario and the U.S., provincial total cases, and active cases in Kingston area.

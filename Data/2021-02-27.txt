@@ -1,0 +1,90 @@
+Below are 6 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 6
+Title: Blood tests could be early indicator of COVID-19 severity: study
+Publisher: CTV News
+Posted: Today
+Relevant.
+Elevated neutrophil levels in blood tests can predict severity of COVID-19.
+Patients with high neutrophil levels were more likely to require ICU care, ventilation, or die due to COVID-19.
+Neutrophils are associated with inflammation and obesity, which increase risk of severe illness from COVID-19.
+Study found 5 proteins associated with neutrophils were elevated in patients who became critically ill.
+
+Article 2 of 6
+Title: A Strategy for the Mass Distribution of COVID-19 Vaccines in Ontario Based on Age and Neighbourhood
+Publisher: Ontario COVID-19 Science Advisory Table
+Posted: 1 day ago
+It appears that you've provided a detailed description of a modeling approach used to project COVID-19 incidence and outcomes in Ontario, Canada. Here's a breakdown of the key points:
+Model Components: 
+1. Random Intercept Model: Used to account for variation between neighborhoods.
+2. Penalized Spline: Applied to time to model the relationship between time and SARS-CoV-2 incidence.
+3. Tensor Spline: Used to model the interaction between neighborhood risk and age on SARS-CoV-2 incidence.
+Model Outputs: 
+1. SARS-CoV-2 Incidence Deciles: Estimated using the random intercept model with a penalized spline for time.
+2. Predicted Incidence: Calculated across 100 cells defined by neighborhood risk and age band, using a tensor spline for the interaction of neighborhood risk and age.
+3. Logistic Count Regression Models: Developed to estimate the probability of COVID-19 hospitalization and death among SARS-CoV-2 cases.
+Scenario-Based Projections: 
+1. Control Scenario 1: Used as a baseline scenario with no changes in vaccine distribution.
+2. Scenario 2: Assumed a linear increase in log(Rt) for traditional variants, followed by a decrease after the lockdown.
+3. Scenario 3: Included an additional 40% transmissibility of the B.1.1.7 variant compared to traditional variants.
+Assumptions: 
+1. Linear Increase in Rt: For traditional variants between February 24 and March 10, 2021.
+2. Lockdown Effect: A decrease in Rt for traditional variants starting on March 20, 2021.
+3. B.1.1.7 Variant Transmissibility: 40% more transmissible than traditional variants.
+4. Hospital Occupancy: 5.7% of daily active cases.
+5. ICU Occupancy: 30.5% of hospital occupancy due to COVID-19.
+6. Mortality Rates: 0.14% of daily active cases for traditional variants, with a 30% relative increase associated with the B.1.1.7 variant.
+Projection Outputs: 
+1. Cumulative Incidence Curves: Derived for deaths, hospitalizations, ICU admissions, and SARS-CoV-2 cases between March 1 and May 31, 2021.
+2. Daily Estimates: Calculated for incidence of SARS-CoV-2 infections, hospital occupancy, and deaths from COVID-19.
+Please let me know if you'd like me to clarify any specific points or provide further assistance!
+
+Article 3 of 6
+Title: 'Total hell': PSW describes working through COVID-19 outbreak at Ont. long-term care home
+Publisher: CTV News
+Posted: 2 days ago
+Relevant.
+Summary: The article reports on a COVID-19 variant outbreak at Roberta Place long-term care home in Barrie, Ont., with 129 residents and 105 staff testing positive for the virus. Key values for forecasting COVID-19 hospitalizations in Ontario, Canada include:
+Number of cases (129 residents and 105 staff)
+Presence of B.1.1.7 variant
+Location (Barrie, Simcoe Muskoka District)
+
+Article 4 of 6
+Title: Coronavirus: What's happening in Canada and around the world on Feb. 22
+Publisher: CBC.ca
+Posted: 4 days ago
+Here are some key points from the article:
+The UK is slowly easing its lockdown restrictions, with schools reopening on March 8 and people allowed to meet one friend or relative outdoors.
+Pubs, restaurants, and hairdressers will reopen on April 12, but only outdoors.
+Indoor venues such as theatres and cinemas are scheduled to open on May 17, along with limited crowds returning to sports stadiums.
+The final stage of the plan, in which all legal limits on social conduct are removed, is set for June 21.
+Germany has reopened elementary schools and kindergartens in more than half of its states, despite a flattening out of case numbers.
+New Zealand will remove remaining coronavirus restrictions from Auckland after an outbreak fades.
+India's Serum Institute has asked foreign governments to be patient with their vaccine supply, saying they have been directed to prioritize India's requirements.
+Japan will only receive limited doses of vaccines for the first months of the rollout and shots for the elderly will be distributed gradually.
+The Philippines and Thailand have approved Sinovac Biotech's vaccine for emergency use.
+Argentina has authorized the emergency use of Sinopharm's vaccine ahead of an expected delivery of one million doses.
+Israel has reopened swaths of its economy, including malls and leisure facilities, after vaccines were administered to almost half the population.
+South Africa remains the hardest-hit country in Africa, with over 1.5 million reported cases of COVID-19 and over 49,000 recorded deaths.
+Overall, the article highlights the slow and cautious approach being taken by many countries as they try to balance the need to reopen their economies with the ongoing risk of COVID-19 transmission.
+
+Article 5 of 6
+Title: The speech pathologists helping COVID-19 patients learn how to swallow and speak again
+Publisher: CTV News
+Posted: 5 days ago
+This article discusses the challenges faced by patients who have been intubated for COVID-19 and are struggling to recover their ability to swallow and communicate after being extubated. Speech-language pathologists (SLPs) play a crucial role in helping these patients regain their faculties, but their work is often unseen by the general public.
+The article highlights several key points:
+1. Dysphagia is common: Many COVID-19 patients experience difficulty swallowing, which can lead to aspiration pneumonia and other complications.
+2. SLPs are essential: SLPs help patients communicate with healthcare teams and family members while working on their assessment of the patient's swallowing abilities.
+3. Challenges in testing: Due to the risk of aerosolizing the virus, SLPs cannot use endoscopy tests to assess swallowing issues in COVID-19 patients.
+4. Long recovery process: Patients may require ongoing speech therapy, either as an outpatient or through a rehabilitation clinic.
+5. Research is needed: There is a lack of data on dysphagia during the pandemic, and more research is needed to understand the effects of COVID-19 on swallowing function.
+The article also features interviews with two SLPs, Winer and Skoretz, who share their experiences working with patients who have been intubated for COVID-19. They highlight the importance of their work in helping patients recover from severe illnesses and the need for more research to improve rehabilitation outcomes.
+If you or someone you know has gone through speech therapy during the pandemic, you can contact the publication at dotcom@bellmedia.ca with your story.
+
+Article 6 of 6
+Title: Isolation and sanitation during COVID-19 may affect human microbiome, scientists say
+Publisher: CTV News
+Posted: 6 days ago
+Relevant.
+Summary: The article discusses how COVID-19 lockdowns and hygiene protocols may have unintended consequences on human microbiomes, potentially leading to increased rates of conditions like asthma, diabetes, and brain diseases. Key values for forecasting COVID-19 hospitalizations in Ontario, Canada are not mentioned directly, but the article highlights the importance of considering long-term impacts on human health and potential social inequalities in healthcare access and outcomes.

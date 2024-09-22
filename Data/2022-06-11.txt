@@ -1,0 +1,87 @@
+Below are 7 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 7
+Title: Ontario should have extended masking for all high-risk settings, says new science table head
+Publisher: CBC.ca
+Posted: 2 days ago
+Here is a brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+549 COVID-19 hospitalizations reported on Thursday (up from 522 on Wednesday and down from 670 last week)
+42% of hospitalized patients were admitted specifically for the virus
+118 ICU admissions required due to COVID-19 (up slightly from 114 on Tuesday)
+64% of ICU patients were admitted because of the virus
+
+Article 2 of 7
+Title: Ontario COVID adviser wanted masking extension, Moore says time to shift to guidance
+Publisher: CTV News Toronto
+Posted: 2 days ago
+Hospitalizations and test positivity rates are declining.
+Mask mandates on public transit and in most health settings will lift as scheduled on Saturday.
+The provincial guidance that will replace the directives will advise continuing masking for hospital patients, visitors, and staff.
+Some hospitals across the province said they would be keeping mask rules in place for visitors and staff due to vulnerable patient populations.
+Long-term care and retirement homes will maintain mask mandates due to high-risk populations.
+
+Article 3 of 7
+Title: Alberta hit by far more COVID deaths this year than in the same period in previous years
+Publisher: CBC.ca
+Posted: 2 days ago
+Key values:
+Low 3rd dose uptake (38% of population) in Alberta
+High death toll due to Omicron variant and BA.2 subvariant
+Increased risk of severe illness among unvaccinated individuals and those with only two doses
+Stubbornly high baseline for deaths and hospitalizations despite recent drop in daily COVID-related deaths
+
+Article 4 of 7
+Title: Ontario to end most mask mandates Saturday, including in hospitals, on public transit
+Publisher: CBC.ca
+Posted: 3 days ago
+522 COVID-19 hospitalizations reported on Wednesday (down from 526 on Tuesday and 722 last week)
+41% of hospitalized patients were admitted specifically for the virus
+114 ICU admissions required intensive care (same as Tuesday, down from 127 at this time last week)
+54 ventilator patients require help to breathe
+69% of ICU patients were admitted because of the virus
+
+Article 5 of 7
+Title: Identifying spatiotemporal patterns of COVID-19 transmissions and the drivers of the patterns in Toronto: a Bayesian hierarchical spatiotemporal modelling
+Publisher: Nature.com
+Posted: 4 days ago
+This text describes a statistical analysis of COVID-19 incidence rates in Toronto neighborhoods using Bayesian hierarchical modeling and sensitivity analysis. Here's a breakdown of the key points:
+Methodology 
+1. Data: The study uses COVID-19 incidence data from Toronto neighborhoods over 89 weeks.
+2. Modeling: Four Bayesian hierarchical models are developed to account for spatial, temporal, and spatiotemporal effects on COVID-19 incidence rates.
+3. MCMC chains: Two MCMC chains with 10,000 iterations each are used to estimate the posterior distribution of model parameters.
+Model selection 
+1. DIC and pD values: The Deviance information criteria (DIC) and probability of direction (pD) values are used to evaluate the goodness of fit for the four models.
+2. Best-fitted model: Model 3 is selected as the best-fitted model based on DIC and pD values.
+Spatial, temporal, and spatiotemporal relative risks 
+1. Relative risk estimates: Spatial, temporal, and spatiotemporal relative risk estimates are obtained from the outputs of Model 3.
+2. Maps and plots: Maps and plots are created to visualize the posterior means of spatial relative risk, temporal relative risk with credible intervals, and spatiotemporal relative risk.
+Joinpoint regression 
+1. Temporal pattern analysis: Joinpoint regression is used to analyze the temporal pattern of COVID-19 incidence rates.
+2. Significant changes in trend: The software identifies statistically significant (P = 0.05) changes in trend using a Monte Carlo Permutation method.
+Spatiotemporal risk trend analysis 
+1. Trend calculation: The spatiotemporal trend of relative risk over time is calculated for each neighborhood.
+2. Maps and plots: Maps and plots are created to visualize the trends in relative risk over time.
+Sensitivity analysis 
+1. Alternate prior assumptions: Two additional models with alternate prior assumptions than the original final model (Model 3) are run to perform a sensitivity analysis.
+2. Comparison of outputs: The outputs from these two models are compared to the outputs from the original model to ensure that findings are not sensitive to the original hyperprior specification.
+Overall, this study uses Bayesian hierarchical modeling and sensitivity analysis to investigate the spatial, temporal, and spatiotemporal effects on COVID-19 incidence rates in Toronto neighborhoods.
+
+Article 6 of 7
+Title: Ontario reports an approximately 35 per cent week-over-week decline in COVID-19 hospitalizations
+Publisher: CP24
+Posted: 4 days ago
+Relevant.
+526 people in hospital with COVID-19 (down 35% from last week).
+114 people in intensive care.
+78 on ventilator.
+7.2% of PCR tests positive over past 24 hours (down from 9.1% two weeks ago).
+
+Article 7 of 7
+Title: Ontario reports lowest COVID-19 ICU admissions since Aug. 2021
+Publisher: CP24
+Posted: 7 days ago
+Relevant.
+671 patients with COVID-19 in hospitals (down from 865 a week ago).
+107 ICU patients (down from 144 a week ago), with 74% admitted for COVID-19-related reasons.
+7.9% positivity rate among 9,829 tests processed in the past 24 hours.
+901 new cases reported, with 505 fully vaccinated individuals among them.

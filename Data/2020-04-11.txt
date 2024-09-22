@@ -1,0 +1,53 @@
+Below are 5 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 5
+Title: Some Canadian hospitals are half-empty
+Publisher: Healthy Debate
+Posted: 2 days ago
+Relevant.
+Key points:
+Hospital occupancy in Ontario is 77%, down from 97% a year ago.
+The number of patients with COVID-19 is increasing, but hospitalizations are decreasing.
+People who need hospital care may be staying home due to fear of contracting COVID-19 or saving scarce resources.
+Disruptions in routine medical care and emergency department visits may lead to unrecognized illnesses and delayed treatment.
+Efforts to reduce hospitalizations have been challenging, with most reporting no benefit or only modest success.
+
+Article 2 of 5
+Title: 4 more COVID-19 patients die in B.C., bringing total number of deaths to 43
+Publisher: CBC.ca
+Posted: 4 days ago
+Relevant.
+Summary: The article reports on the current situation of COVID-19 hospitalizations and cases in British Columbia (B.C.), Canada. Key values for forecasting COVID-19 hospitalizations in Ontario, Canada include:
+Total number of COVID-19 patients hospitalized (not directly reported, but context suggests lower numbers compared to Quebec and Ontario)
+Number of new cases (25) and total cases (1,291)
+Number of recovered patients (805) and deaths (43)
+Provincial health officer's concerns about indoor gatherings and travel to smaller communities
+Availability of hospital beds (4,549 cleared in B.C.)
+
+Article 3 of 5
+Title: Why B.C. is flattening the COVID-19 curve while numbers in central Canada surge
+Publisher: CBC.ca
+Posted: 5 days ago
+Key points:
+B.C. has fewer hospitalizations and active cases compared to Ontario.
+B.C.'s institutions for disease control have been a model for the rest of Canada, with a functioning public health system and early measures taken to prevent community transmission.
+Ontario's public health leadership culture has had difficulties, leading to delays in unified response and messaging.
+Timing of spring break played a role, with B.C. recommending against non-essential travel earlier than Ontario.
+Dr. Bonnie Henry's experience and leadership have been crucial in B.C.'s success in flattening the curve.
+
+Article 4 of 5
+Title: COVID-19 seems to be hitting smokers more severely, scientists warn
+Publisher: CTV News
+Posted: 5 days ago
+Smokers are at higher risk of severe illness from COVID-19.
+Early research shows that among people with severe pneumonia due to COVID-19, 12% of current smokers were admitted to an ICU or required ventilators, compared to less than 5% of non-smokers.
+Smoking damages lung tissues and increases the number of lung cells that have receptors for the novel coronavirus.
+
+Article 5 of 5
+Title: Extra ventilators arrive in Ontario hospital ICUs to aid COVID-19 patients
+Publisher: CBC.ca
+Posted: 5 days ago
+As of now, there are 589 people hospitalized with confirmed cases of COVID-19 in Ontario.
+216 of those are in ICUs, including 160 on ventilators.
+The province projects a steep rise in COVID-19 patients over the next two weeks, requiring an additional 900 intensive care beds to cope.
+The peak is forecast to hit hospitals between April 16 and 20, with as many as 1,200 cases of COVID-19 in ICUs.

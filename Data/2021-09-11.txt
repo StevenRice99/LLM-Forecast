@@ -1,0 +1,65 @@
+Below are 6 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 6
+Title: Kingston, Ont., partygoers could now face $2K fine, public shaming
+Publisher: CBC.ca
+Posted: 1 day ago
+3,500 to 5,000 people gathered in Kingston's downtown university district.
+29 new COVID-19 cases reported by the Kingston public health unit over a week (up from 11 cases).
+No COVID-19 hospitalizations listed on the Kingston public health unit dashboard.
+
+Article 2 of 6
+Title: Average cost for COVID-19 ICU patients estimated at more than $50,000: report
+Publisher: CBC.ca
+Posted: 2 days ago
+Average cost of treating a COVID-19 patient needing intensive care: $50,000
+Average length of stay in ICU: 21 days
+One out of five patients die in intensive care
+Estimated total cost of COVID-19-related hospitalization in Canada (excluding Quebec): nearly $1 billion between January 2020 and March 2021
+
+Article 3 of 6
+Title: Convalescent plasma for hospitalized patients with COVID-19: an open-label, randomized controlled trial
+Publisher: Nature.com
+Posted: 2 days ago
+No difference in intubation or death at 30d between convalescent plasma and standard of care.
+Antibody content had a significant effect-modifying role on the outcome, with high levels of neutralizing antibodies associated with reduced risk and high levels of non-functional anti-SARS-CoV-2 antibodies associated with increased risk.
+Serious adverse events were more frequent in the convalescent plasma group (33.4% vs 26.4%).
+The study suggests caution against unrestricted use of convalescent plasma for hospitalized patients with COVID-19.
+
+Article 4 of 6
+Title: The Impact of the COVID-19 Pandemic on Opioid-Related Harm in Ontario
+Publisher: Ontario COVID-19 Science Advisory Table
+Posted: 3 days ago
+The text discusses strategies to minimize the risk of opioid-related harm during the COVID-19 pandemic in Ontario, Canada. The key points are:
+1. Community outreach services: Can increase engagement and decrease barriers to access for people who use drugs (PWUD).
+2. Integrate COVID-19 safety protocols: Into addiction and harm reduction services to ensure safe operation and minimize risk of closure or reduced capacity.
+3. Less restrictive OAT regulations: Increase access to opioid agonist treatment (OAT) and other health services within shelters and temporary emergency shelter settings.
+4. Address stigma in the healthcare system: To improve access to care for PWUD.
+5. Deal with upstream social determinants of health (SDOH): Such as homelessness, lack of long-term affordable housing, and poverty.
+6. Monitor indicators of opioid harm: To assess the effectiveness of strategies and adapt them as needed.
+The text also highlights gaps in provincial data capabilities related to measuring disparities for populations disproportionately impacted by the opioid crisis, such as racialized or marginalized communities. It emphasizes the need for ongoing investment in the Ontario opioid data infrastructure and collaboration with community stakeholders and individuals with lived experience.
+Key terms:
+PWUD: People who use drugs
+OAT: Opioid agonist treatment
+SDOH: Social determinants of health
+COVID-19: The pandemic caused by the SARS-CoV-2 virus.
+
+Article 5 of 6
+Title: Canadian hospitals spend $23,000 on typical COVID-19 patient, report finds
+Publisher: CTV News
+Posted: 3 days ago
+Relevant.
+Average cost per COVID-19 hospitalization in Canada: $23,000
+Average length of stay: 15 days
+ICU admission rate: 1 in 4 (25%)
+Mortality rate: 1 in 5 (20%)
+Cost breakdown: compensation and supplies ($1 billion)
+
+Article 6 of 6
+Title: Canada has opened up its borders to fully vaccinated foreign travellers. Are there risks?
+Publisher: CBC.ca
+Posted: 3 days ago
+Key values:
+Low test positivity rate at border (0.19% between Aug 9 and 26)
+Most cases and hospitalizations among the unvaccinated
+Delta variant fueling fourth wave of COVID-19 in Ontario

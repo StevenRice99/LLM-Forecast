@@ -1,0 +1,39 @@
+Below are 4 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 4
+Title: 25,000 Canadians hospitalized or killed by self-harm last year, research says
+Publisher: CBC.ca
+Posted: 2 days ago
+The Canadian Institute for Health Information (CIHI) data shows that 25,000 people were hospitalized or died due to self-harm in 2018-19.
+Hospitalization rates were highest among girls and women aged 10-24.
+Death rates from suicide were highest among men 45 years and older.
+The pandemic has triggered heightened anxiety over health risks, prolonged confinement, and financial insecurity.
+People living in low-income neighbourhoods had twice the rate of hospital stays for self-harm compared to those in high-income neighbourhoods.
+Residents in rural or remote areas were more likely to have a hospital stay for self-harm.
+These values are important for forecasting COVID-19 hospitalizations in Ontario, Canada, as they highlight potential increases in mental health-related hospitalizations due to the pandemic.
+
+Article 2 of 4
+Title: 'COVIDsomnia': Why the pandemic is messing with people's sleep
+Publisher: CTV News
+Posted: 6 days ago
+Key values:
+Increased financial anxiety due to unemployment (12.3% in June)
+Heightened levels of anxiety related to the pandemic
+Reduced access to sunlight and increased screen time
+Disrupted sleep patterns linked to insomnia, which can lead to lasting health repercussions (e.g., weight gain, heart disease, hypertension)
+
+Article 3 of 4
+Title: Can I catch COVID-19 on a train? New study explains which seats are riskiest
+Publisher: CTV News
+Posted: 6 days ago
+The study found a high transmission risk of COVID-19 among transit passengers.
+The attack rate was higher for passengers sitting directly beside an infected person (3.5%).
+Trip duration increased the attack rate by 0.15% per hour of travel time.
+The recommended distance to prevent COVID-19 spread is at least 2 seats apart within the same row, with travel time limited to 3 hours.
+These values are important for forecasting COVID-19 hospitalizations in Ontario, Canada, as they provide insights into the transmission risk and potential mitigation strategies on public transit.
+
+Article 4 of 4
+Title: Black people and other people of colour make up 83% of reported COVID-19 cases in Toronto
+Publisher: CBC.ca
+Posted: 7 days ago
+People of colour make up 71% of those hospitalized with COVID-19 in Toronto. This figure is based on a relatively small number of hospitalizations, but it highlights the disproportionate impact of COVID-19 on marginalized communities.

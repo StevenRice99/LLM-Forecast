@@ -1,0 +1,76 @@
+Below are 7 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 7
+Title: Heparin Anticoagulation for Hospitalized Patients with COVID-19
+Publisher: Ontario COVID-19 Science Advisory Table
+Posted: 1 day ago
+The provided text appears to be a summary of guidelines for the use of anticoagulation therapy in COVID-19 patients, specifically focusing on the recommendations made by a guideline panel.
+Key Points: 
+1. Exclusion criteria: Patients with certain conditions (e.g., intracranial surgery, stroke within 3 months, bleeding diatheses) are excluded from the multiplatform trial.
+2. Recommendation for moderately ill patients: The majority of the guideline panel voted for a conditional recommendation for therapeutic dose anticoagulation versus prophylactic dose anticoagulation in moderately ill patients at low risk of bleeding.
+3. Considerations: The panel considered the importance of mortality and organ support free days, as well as survival to hospital discharge, when making their recommendation.
+4. Limitations: The available evidence for anticoagulation reflects patients who largely did not receive other evidence-based therapies for COVID-19 (e.g., tocilizumab, remdesivir).
+5. Uncertainty: There is insufficient evidence to make a recommendation around anticoagulation for mildly ill patients.
+Methods: 
+1. A comprehensive search of various databases and resources was conducted to identify relevant studies.
+2. The search was last updated on August 20, 2021.
+3. The guideline panel used specific definitions for severity (critically ill, moderately ill, mildly ill) when making their recommendations.
+Overall, the guidelines provide a nuanced approach to anticoagulation therapy in COVID-19 patients, taking into account various factors and uncertainties in the available evidence.
+
+Article 2 of 7
+Title: Reports of assault, verbal abuse as thousands protest vaccine passports outside hospitals across B.C.
+Publisher: CBC.ca
+Posted: 2 days ago
+Relevant.
+Thousands protested against COVID-19 vaccine passports outside hospitals in Vancouver and other cities across B.C., with some carrying signs comparing themselves to historic victims of genocide and other forms of violent racial and ethnic discrimination.
+Protesters disrupted people's safe access to healthcare, verbally abused and physically assaulted health-care workers, and blocked traffic at intersections.
+
+Article 3 of 7
+Title: Goal of vaccinating 90% of Ontarians possible with targeted measures, public health officials say
+Publisher: CBC.ca
+Posted: 3 days ago
+Relevant.
+Key values for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Vaccination rate: 82.3% of eligible Ontarians have received a first shot, 75% have received a second shot
+Delta variant is dominant strain in Ontario
+Hospitalization rates among unvaccinated individuals are high (tracked by Dr. Lawrence Loh)
+Goal to reach 90% vaccination rate to limit community spread and hospitalizations
+
+Article 4 of 7
+Title: Allergies to vaccine ingredients shouldn't stop patients from getting COVID-19 shots: experts
+Publisher: CBC.ca
+Posted: 3 days ago
+The article discusses concerns about allergies to ingredients in COVID-19 vaccines.
+In Ontario, 714 reported adverse effects have been recorded (not specified if these are related to hospitalizations).
+Patients with confirmed allergies to vaccine components can still get vaccinated under supervision from an allergist.
+Some patients may need to wait months or have a suboptimal response due to chronic immunosuppressants or recent cancer treatment.
+There is no absolute contraindication for vaccination, but some individuals may be advised to wait before getting immunized.
+
+Article 5 of 7
+Title: UCP caucus chair suggests he hopes to see accelerated COVID rates before decline in Alberta
+Publisher: CBC.ca
+Posted: 5 days ago
+Key values:
+Unvaccinated population: 1/3 of Albertans (similar proportion in Ontario)
+Hospitalization rates among unvaccinated: 77.1% of non-ICU patients and all but 2 ICU patients were unvaccinated or partially vaccinated
+Risk to healthcare systems, immunocompromised people, and the unvaccinated, especially with fall approaching and kids returning to school
+
+Article 6 of 7
+Title: Alberta transfers 6 patients out of Grande Prairie hospital amid increased severe COVID-19 cases
+Publisher: CBC.ca
+Posted: 6 days ago
+Alberta's neighboring province to Ontario
+COVID-19 case numbers rising in Grande Prairie area and North zone
+Hospitalizations increasing due to COVID-19 patients requiring acute care and ICU spaces
+97.3% of ICU patients with COVID-19 are unvaccinated or partially vaccinated (may indicate higher hospitalization rates among unvaccinated populations)
+Vaccination rates in Grande Prairie are lower than provincial rates, which may be relevant for forecasting hospitalizations in Ontario if similar trends exist.
+
+Article 7 of 7
+Title: Why Canadians need to keep their guard up in the 4th wave — even if they're fully vaccinated
+Publisher: CBC News
+Posted: 7 days ago
+Daily hospitalizations have climbed 39% week-over-week to an average of 917 across Canada.
+The delta variant has prolonged the pandemic and increased risk in daily life.
+Unvaccinated Canadians pose a direct risk of transmission and increase the spread of coronavirus in the population.
+Public Health Ontario reported that the delta variant has kicked the possibility of herd immunity further down the road, requiring an estimated 90% of the population to be fully vaccinated.
+The article highlights the importance of using proven tools such as wearing high-quality masks, filtering air indoors, and avoiding crowded indoor spaces with poor ventilation.

@@ -1,0 +1,99 @@
+Below are 8 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 8
+Title: The end of an order: A timeline from N.B.'s first COVID case to life in green
+Publisher: CBC.ca
+Posted: Today
+It appears that you've provided a collection of news articles from 2021 related to COVID-19 in New Brunswick, Canada. Here are some key points extracted from these articles:
+Delta Variant 
+The delta variant has been confirmed at the University of New Brunswick in Fredericton.
+An outbreak was declared due to six cases of the delta variant at Magee House, an apartment-style residence for mature students.
+The lockdown extended to St. Thomas University and the New Brunswick Community College due to potential exposure.
+AstraZeneca Vaccine 
+A person who received the AstraZeneca vaccine in mid-April developed symptoms seven days later and died two days after being hospitalized.
+This was the province's first death linked to the Astra-Zeneca-Oxford vaccine.
+Health Minister Dorothy Shephard emphasized that the risks of dying from COVID-19 are "far greater than the risks associated with receiving the AstraZeneca vaccine."
+Doctor Charged 
+Dr. Jean-Robert Ngola was charged with violating the provincial Emergency Measures Act for failing to quarantine when he returned from Quebec.
+The Crown dropped the charge 11 days before his trial was set to begin, citing a lack of reasonable prospect of conviction.
+Protests and Border Blockade 
+A group of protesters blocked the Trans-Canada Highway at the Nova Scotia-New Brunswick border in June 2021, demonstrating against restrictions on travel between the two provinces.
+At least two protesters were arrested during the blockade.
+Vaccination Milestone 
+The COVID-19 vaccination campaign reached a milestone in July 2021, with 50.4% of eligible New Brunswickers fully vaccinated (i.e., having received two doses).
+Lifting Restrictions 
+Premier Blaine Higgs announced that all remaining COVID-19 restrictions would be lifted on July 30, 2021, regardless of whether the province met vaccination targets.
+This included lifting mask mandates and gathering limits.
+
+Article 2 of 8
+Title: New delta variant studies show the COVID-19 pandemic is far from over
+Publisher: Science News Magazine
+Posted: 1 day ago
+Key values for forecasting:
+Vaccination rate: 70% eligible individuals vaccinated in Barnstable County, Massachusetts (similar to Ontario's vaccination rates)
+Hospitalization rates:
++ Unvaccinated people: 2-3 per 100,000 weekly
++ Fully vaccinated people: 0.1 per 100,000 weekly
+Mortality rates:
++ Unvaccinated people: 0.179 per 100,000 weekly
++ Fully vaccinated people: 0.04 per 100,000 weekly
+
+Article 3 of 8
+Title: Vaccines Remain Largely Effective Against Delta Variant, Counter to Claims From Fox News Guest
+Publisher: FactCheck.org
+Posted: 1 day ago
+The provided sources are a mix of news articles, research studies, social media posts, and official government reports related to the COVID-19 pandemic and vaccination efforts in 2021.
+Some key points that can be inferred from these sources include:
+There were concerns about the effectiveness of the Johnson & Johnson (J&J) vaccine against the Delta variant of SARS-CoV-2. A study published in The New York Times suggested that the J&J vaccine may be less effective against Delta, but another study found high titers of neutralizing antibody to the Delta variant and durable antibody and T cell response for at least 8 months (Source: Topol).
+There was a discussion about the need for COVID-19 booster shots. A comprehensive review of data on booster shots was shared on Twitter by Céline Gounder, and a study published in medRxiv found that Delta variants caused significantly increased vaccine breakthrough cases in Houston, Texas (Sources: Gounder, Musser et al.).
+The Centers for Disease Control and Prevention (CDC) reported on COVID-19 vaccine breakthrough case investigation and reporting, and the World Health Organization (WHO) provided guidance on COVID-19 vaccines (Sources: CDC, WHO).
+There were concerns about the accuracy of reporting on vaccination rates and hospitalization data. A Twitter post by Lucy D'Agostino McGowan suggested that the CDC should report the percentage of unvaccinated vs. vaccinated individuals hospitalized with COVID-19 to show the effectiveness of vaccines (Source: McGowan).
+Some specific claims made in these sources include:
+The J&J vaccine may be less effective against Delta, but high titers of neutralizing antibody were found (Source: Mandavilli).
+Booster shots may be necessary due to waning immunity over time (Sources: Gounder, Musser et al.).
+COVID-19 vaccines are still highly effective in preventing severe illness and hospitalization, even with the emergence of variants like Delta (Sources: Thompson et al., Kumar et al.).
+Overall, these sources provide a snapshot of the ongoing discussion and research related to COVID-19 vaccination efforts in 2021.
+
+Article 4 of 8
+Title: Delta variant as contagious as chickenpox, CDC says
+Publisher: CBC News
+Posted: 1 day ago
+Delta variant is highly contagious and can be passed on by vaccinated people.
+Vaccinated individuals may have breakthrough infections with delta variant and transmit the virus to others.
+In areas where vaccination rates are low, cases and hospitalizations are surging.
+The article mentions that 6,587 people in the US experienced breakthrough COVID-19 infections after being fully vaccinated and were hospitalized or died.
+This information can be used to inform forecasting models about the potential impact of the delta variant on hospitalization rates in Ontario, Canada.
+
+Article 5 of 8
+Title: Ontario reports 218 new COVID-19 cases, passes key vaccination target for further reopening
+Publisher: CBC.ca
+Posted: 2 days ago
+New cases: 218 (up from 185 last week)
+Seven-day average of daily cases: 165 (highest point in two weeks)
+Vaccination target met: 80% of Ontarians aged 12+ have had at least one dose
+Conditions for moving beyond Step 3: 75% second doses, 70% fully vaccinated in each public health unit
+
+Article 6 of 8
+Title: Ontario to run hospitals at 115% capacity to clear pandemic surgical backlog
+Publisher: CBC.ca
+Posted: 3 days ago
+Key values for forecasting:
+Current number of active cases (1,378)
+7-day average of daily cases (161)
+ICU capacity and usage (122 patients with COVID-related illnesses, 83 needing a ventilator to breathe)
+
+Article 7 of 8
+Title: Peel Region saw 81 people hospitalized with COVID-19 in about a month. None were fully vaccinated
+Publisher: CBC.ca
+Posted: 3 days ago
+81 people were hospitalized with COVID-19 in Peel Region between June 1 and July 9.
+Two thirds (54) of those patients were unvaccinated.
+One third (27) had received only one dose of a COVID-19 vaccine.
+
+Article 8 of 8
+Title: Canada to mark major COVID-19 vaccine milestone this week
+Publisher: CityNews Vancouver
+Posted: 5 days ago
+Ontario reported an increase in new cases (172) on Sunday and a decrease in new cases but more deaths on Monday.
+119 cases of COVID-19 were reported in Ontario with over 11,900 tests completed.
+The article does not provide specific data on hospitalization rates in Ontario, but mentions a 20% drop in intensive care unit patients across Canada.

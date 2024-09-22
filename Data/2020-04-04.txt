@@ -1,0 +1,78 @@
+Below are 8 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 8
+Title: Canadian Tire Centre, Sensplex arenas offered to Ontario Government for COVID-19 care
+Publisher: CTV News Ottawa
+Posted: 1 day ago
+Relevant.
+Summary: The article mentions Canadian Tire Centre and three Sensplex arenas in Ottawa being offered as possible locations for temporary care centres for COVID-19 patients. This information is relevant for forecasting hospitalizations, as it suggests additional capacity for patient care in the region.
+
+Article 2 of 8
+Title: COVID-19 could kill 3,000 to 15,000 people in Ontario, provincial modelling shows
+Publisher: CBC.ca
+Posted: 1 day ago
+Key values:
+3,000 to 15,000 potential deaths in Ontario
+High mortality rate: up to 16% for people over 80 years old, and around 10% for those over 70 years old
+ICU bed capacity: currently at 70%, with plans to add 900 additional beds
+"Worst case" scenario could exceed available ICU beds if physical distancing is not practiced
+
+Article 3 of 8
+Title: Largest one day jump in COVID-19 cases with 50 new cases in Ottawa
+Publisher: CTV News Ottawa
+Posted: 3 days ago
+Relevant.
+- 25 people being treated in an Ottawa hospital (value: number of current hospitalizations)
+- 7 people in Intensive Care Unit (value: number of ICU admissions)
+- Average age of cases is 47 years old (value: demographic information)
+- Transmission linked to international travel, domestic travel, contact with a COVID-19 case, and no known contact (value: transmission patterns)
+
+Article 4 of 8
+Title: 'A surge is coming': Physical distancing critical as Ontario sees 426 new COVID-19 cases, 4 more deaths
+Publisher: CBC.ca
+Posted: 3 days ago
+Key values:
+145 confirmed cases of COVID-19 in Ontario hospital intensive care units (ICUs)
+98 patients on ventilators
+Number of COVID-19 patients in ICUs doubling every four days
+11.3% of those who have COVID-19 were hospitalized
+Equipment shortage, with masks in limited supply, at many hospitals
+
+Article 5 of 8
+Title: Long-term care homes are worrisome COVID-19 hotspots
+Publisher: CBC.ca
+Posted: 3 days ago
+Key values:
+Number of deaths at long-term care homes (at least 29 in Ontario)
+Staffing shortages and burnout among support workers
+Difficulty in maintaining physical distancing and infection control protocols in high-traffic settings like long-term care homes
+Potential for outbreaks to occur in these facilities, putting residents and staff at risk
+
+Article 6 of 8
+Title: Suspected, confirmed COVID-19 patients filling roughly 1 in 4 Ontario ICU beds
+Publisher: CBC.ca
+Posted: 5 days ago
+Confirmed and suspected COVID-19 cases account for roughly one out of every four patients currently in Ontario's intensive care units. The number of confirmed cases has doubled every two days over the past week, while the number of suspected cases has not increased as rapidly. ICU occupancy rate is 76%, leaving around 500 beds available. A group of Toronto-based health scientists predict that demand for ICU beds from COVID-19 patients will peak in early-to-mid-April at more than 700 patients.
+
+Article 7 of 8
+Title: Canada preparing makeshift hospitals to house patients as COVID-19 pandemic stretches capacity
+Publisher: CBC.ca
+Posted: 6 days ago
+Key values highlighted:
+7% of Canadian COVID-19 cases require hospitalization
+12% of hospitalized cases are under 40 years old
+Some hospitals in Ontario are already "overburdened"
+Provincial and municipal leaders are preparing to convert non-traditional sites (e.g. hotels, conference centers) into makeshift care facilities
+The Ontario government is preparing for an Italy-like situation, with a focus on preserving hospital capacity for COVID-19 patients
+
+Article 8 of 8
+Title: Ontario intensive care units see jump in COVID-19 patients
+Publisher: CBC.ca
+Posted: 7 days ago
+43 patients hospitalized in Ontario's ICUs on Friday (up from 29 on Thursday and 17 on Wednesday)
+ICU occupancy rate: 68% across the province, with 400 ICU spots available
+Model predicts over 700 patients will need ICU beds by early April, given current rate of spread
+Key factors for forecasting:
++ Current hospitalization numbers (43 patients in ICUs)
++ ICU bed availability and utilization rates (68% occupancy, 85% capacity for Level 3 beds)
++ Testing regime picking up cases 1-2 weeks after infection

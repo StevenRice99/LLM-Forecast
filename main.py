@@ -1,678 +1,764 @@
 import datetime
+import itertools
+import logging
 import math
-import os.path
-import time
+import os
+import re
 import warnings
+from urllib.parse import urlparse
 
-import numpy as np
+import ollama
+import pandas
 import pandas as pd
-from sklearn.linear_model import LinearRegression
-from sklearn.pipeline import make_pipeline
-from sklearn.preprocessing import PolynomialFeatures
-from sklearn.svm import SVR
+import requests
+from gnews import GNews
+from matplotlib import pyplot as plt, pyplot
+from newspaper import Article
+from pandas import DataFrame
+from pandas.core.dtypes.inference import is_number
+from selenium import webdriver
+from selenium.webdriver.firefox.service import Service
 from statsmodels.tools.sm_exceptions import ConvergenceWarning
 from statsmodels.tsa.arima.model import ARIMA
+from statsmodels.tsa.holtwinters import SimpleExpSmoothing
+from webdriver_manager.firefox import GeckoDriverManager
 
-import llm
-from scraping import parse_dates, llm_predict
 
-
-def load(path: str) -> dict | None:
+def load() -> DataFrame:
     """
-    Load a file for testing.
-    :param path: The path to the file.
-    :return: The loaded file or nothing if the file does not exist.
+    Convert Ontario COVID hospitalizations into the format for processing.
+    :return: The loaded dataset.
     """
+    # If the correct version of the dataset already exists,
+    path = os.path.join("Data", "Data.csv")
+    if os.path.exists(path):
+        return pd.read_csv(os.path.join(path))
+    print("Loading the data.")
+    if not os.path.exists("Data"):
+        os.mkdir("Data")
+    path = os.path.join("Data", "Raw.csv")
+    # If not file does not exist, it needs to be downloaded.
     if not os.path.exists(path):
-        return None
-    return pd.read_csv(path).set_index("Item").T.to_dict()
+        response = requests.get(
+            "https://raw.githubusercontent.com/ccodwg/CovidTimelineCanada/main/data/pt/hosp_admissions_pt.csv")
+        response.raise_for_status()
+        if response.ok:
+            f = open(path, "wb")
+            f.write(response.content)
+            f.close()
+    # Read the file and select only Ontario cases.
+    df = pd.read_csv(path)
+    # We no longer need the raw file.
+    os.remove(path)
+    df = df[df["region"] == "ON"]
+    # Get the data into a list for indexing.
+    data = []
+    dates = []
+    for index, row in df.iterrows():
+        data.append(row["value_daily"])
+        dates.append(row["date"])
+    # The Ontario data was only done weekly, so keep only those value.
+    week = 0
+    step = 7
+    cleaned = []
+    cleaned_dates = []
+    for i in range(len(data)):
+        if i == 1 or i == week:
+            cleaned.append(int(data[i]))
+            cleaned_dates.append(dates[i])
+            week += step
+    # Format the data and save it.
+    s = "Date,Hospitalizations"
+    for i in range(len(cleaned)):
+        s += f"\n{cleaned_dates[i]},{cleaned[i]}"
+    path = os.path.join("Data", "Data.csv")
+    f = open(path, "w")
+    f.write(s)
+    f.close()
+    return pd.read_csv(os.path.join(path))
 
 
-def clean_parameters(d: dict, key: str, default: int or float or str = 1, acceptable: int or float or list = 0) -> dict:
+def clean(message: str) -> str:
     """
-    Ensure parameters in a dictionary are valid.
-    :param d: The dictionary to validate.
-    :param key: The key to validate.
-    :param default: The default value to apply if needed.
-    :param acceptable: Acceptable values, either a list of possible values or a minimum value.
-    :return: The validated dictionary.
+    Clean a message.
+    :param message: The message to clean.
+    :return: The message with all newlines being at most single, and all other whitespace being replaced by a space.
     """
-    # If the key does not exist, add the default.
-    if key not in d:
-        d[key] = [default]
-    # Otherwise, check if it is a list.
-    elif not isinstance(d[key], list):
-        # If it is a single parameter, convert it to a list.
-        if isinstance(d[key], int) or isinstance(d[key], float) or isinstance(d[key], str):
-            d[key] = [d[key]]
-        # Otherwise, it is an invalid type so make the default value.
-        else:
-            d[key] = [default]
-    # Ensure it is distinct.
-    d[key] = list(set(d[key]))
-    # If there is a list of acceptable values, check them.
-    if isinstance(acceptable, list):
-        for i in range(len(d[key])):
-            if d[key][i] not in acceptable:
-                d[key].pop(i)
-                i -= 1
-    # Otherwise, remove values below the lower limit.
-    else:
-        for i in range(len(d[key])):
-            if isinstance(d[key][i], str) or d[key][i] < acceptable:
-                d[key].pop(i)
-                i -= 1
-    # Ensure there is at least one value.
-    if len(d[key]) == 0:
-        d[key] = [default]
-    return d
+    # Remove markdown symbols.
+    for symbol in ["*", "#", "_", ">"]:
+        message = message.replace(symbol, " ")
+    # Replace all whitespace with spaces, except newlines.
+    message = re.sub(r"[^\S\n]+", " ", message)
+    # Ensure no duplicate newlines.
+    while message.__contains__("\n\n"):
+        message = message.replace("\n\n", "\n")
+    # Strip and return the message.
+    return message.strip()
 
 
-def clean_arima(arima: dict or None) -> dict or None:
+def clean_response(s: str) -> str:
     """
-    Ensure ARIMA parameters are valid.
-    :param arima: The ARIMA dictionary to validate.
-    :return: The validated ARIMA dictionary.
+    Clean a response.
+    :param s: The string to clean.
+    :return: The cleaned string.
     """
-    if isinstance(arima, dict):
-        arima = clean_parameters(arima, "p", 1, 0)
-        arima = clean_parameters(arima, "d", 1, 0)
-        arima = clean_parameters(arima, "q", 1, 0)
-    else:
-        arima = None
-    return arima
+    # Remove any generic statement saying how it is relevant.
+    s = s.replace("The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada.\n", "")
+    s = s.replace("Relevant for forecasting COVID-19 hospitalizations in Ontario, Canada.\n", "")
+    s = s.replace("The article is relevant.\n", "")
+    s = s.replace("Summary:\n", "")
+    s = s.replace(". . .", "...")
+    s = s.replace(" :", ":")
+    s = s.replace("\n ", "\n")
+    # The LLM tends to respond with a variation of TRUE which is not needed so remove it.
+    s = s.replace("TRUE: ", "")
+    s = s.replace("TRUE. ", "")
+    s = s.replace("TRUE:", "")
+    s = s.replace("TRUE.", "")
+    s = s.replace("TRUE:", "")
+    s = s.replace("TRUE", "")
+    s = s.strip()
+    return s
 
 
-def clean_svr(svr: dict or None) -> dict or None:
+def initialize() -> None:
     """
-    Ensure SVR parameters are valid.
-    :param svr: The SVR dictionary to validate.
-    :return: The validated SVR dictionary.
-    """
-    if isinstance(svr, dict):
-        svr = clean_parameters(svr, "C", 100, 0)
-        svr = clean_parameters(svr, "gamma", "scale", ["auto", "scale"])
-        svr = clean_parameters(svr, "epsilon", 0.1, 0)
-    else:
-        svr = None
-    return svr
-
-
-def predict(data: dict, forecast: int = 0, buffer: int = 0, power: int = 1, top: int = 1,
-            arima: dict or None = None, svr: dict or None = None, verbose: bool = False,
-            keywords: str or list or None = "COVID-19", max_results: int = 100, language: str = "en",
-            country: str = "CA", location: str or None = "Ontario, Canada",
-            end_date: tuple or datetime.datetime or None = None, days: int = 7, exclude_websites: list or None = None,
-            trusted: list or None = None, model: bool = False, forecasting: str = "COVID-19 hospitalizations",
-            folder: str = "COVID Ontario", units: str = "weeks", previous: list or None = None,
-            max_order: int = 0) -> dict:
-    """
-    Predict what to order for an inbound shipment.
-    :param data: The data with inventory, past orders, and upcoming arrivals.
-    :param forecast: How much to forecast with the model.
-    :param buffer: The desired inventory buffer to have.
-    :param power: The polynomial up which to compute predictions with.
-    :param top: The number of top parameters to take into account for averaging the prediction.
-    :param arima: The ARIMA configuration to use.
-    :param svr: The SVR configuration to use.
-    :param verbose: Whether outputs should be verbose or not.
-    :param keywords: The keywords to search for.
-    :param max_results: The maximum number of results to return.
-    :param language: The language to search in.
-    :param country: The Country to search in.
-    :param location: Keyword location to search with.
-    :param end_date: The latest date that news results can be from.
-    :param days: How many days prior to the end date to search from.
-    :param exclude_websites: Websites to exclude.
-    :param trusted: What websites should be labelled as trusted.
-    :param model: If a large language model should be used.
-    :param forecasting: What is being forecast.
-    :param folder: The name of the file to save the results.
-    :param units: The units of predictions.
-    :param previous: Previous values to help predict.
-    :param max_order: How much at most can be ordered.
-    :return: The order to place for an inbound shipment.
-    """
-    # Nothing to predict if there is no data.
-    if data is None or "Inventory" not in data or "History" not in data:
-        return {}
-    # Start all orders at zero.
-    shipment = {}
-    for item in data["Inventory"]:
-        shipment[item] = 0
-    # Ensure the configuration is valid.
-    arima = clean_arima(arima)
-    svr = clean_svr(svr)
-    if arima is None and svr is None and power < 1:
-        power = 1
-    if forecast < 0:
-        forecast = 0
-    # Predict every item.
-    for item in shipment:
-        if verbose:
-            print(f"\nPredicting demand for {item}.")
-        history = data["History"][item]
-        results = []
-        # Store the last order as a possible prediction.
-        if len(history) > 0:
-            results.append(history[-1])
-        if verbose:
-            print(f"Previous orders are {history}.")
-        # Check with every step back in history.
-        for i in range(2, len(history) + 1):
-            numbers = history[-i:]
-            x = np.array(range(len(numbers))).reshape(-1, 1)
-            y = np.array(numbers)
-            # Compute possible polynomials.
-            for p in range(power + 1):
-                # Do not try to compute polynomials that are a higher degree than there are numbers.
-                if p >= len(numbers):
-                    continue
-                # Fit the data.
-                m = make_pipeline(PolynomialFeatures(p), LinearRegression())
-                m.fit(x, y)
-                # Predict the demand over the forecasted period.
-                index = 0
-                result = 0
-                while index <= forecast:
-                    result += m.predict(np.array([[len(numbers) + index]]))[0]
-                    index += 1
-                # Cannot predict negative values.
-                if result < 0:
-                    result = 0
-                results.append(math.ceil(result))
-            # Run ARIMA.
-            if arima is not None:
-                for p in arima["p"]:
-                    for d in arima["d"]:
-                        for q in arima["q"]:
-                            # noinspection PyBroadException
-                            try:
-                                # Fit the model.
-                                m = ARIMA(y, order=(p, d, q))
-                                warnings.filterwarnings("ignore", category=ConvergenceWarning)
-                                warnings.filterwarnings("ignore", category=UserWarning)
-                                warnings.filterwarnings("ignore", category=RuntimeWarning)
-                                m = m.fit()
-                                # Predict the demand over the forecasted period.
-                                index = 1
-                                result = 0
-                                while index <= forecast + 1:
-                                    result += m.forecast(index)[0]
-                                    index += 1
-                                # Cannot predict negative values.
-                                if result < 0:
-                                    result = 0
-                                results.append(math.ceil(result))
-                            except:
-                                continue
-            # Run SVR.
-            if svr is not None:
-                for c in svr["C"]:
-                    for g in svr["gamma"]:
-                        for e in svr["epsilon"]:
-                            # noinspection PyBroadException
-                            try:
-                                # Fit the model.
-                                m = SVR(kernel="rbf", C=c, gamma=g, epsilon=e)
-                                m.fit(x, y)
-                                # Predict the demand over the forecasted period.
-                                index = 0
-                                result = 0
-                                while index <= forecast:
-                                    result += m.predict(np.array([[len(numbers) + index]]))[0]
-                                    index += 1
-                                # Cannot predict negative values.
-                                if result < 0:
-                                    result = 0
-                                results.append(math.ceil(result))
-                            except:
-                                continue
-        # If no predictions were successful, assume zero required.
-        if len(results) < 1:
-            results.append(0)
-        if verbose:
-            print(f"Predictions are {results}.")
-        # Determine the best prediction by averaging the top best values.
-        if 0 < top < len(results):
-            results = sorted(results, reverse=True)[:top]
-            if verbose:
-                print(f"Top {top} predictions are {results}.")
-        result = math.ceil(sum(results) / len(results))
-        if verbose:
-            print(f"Predicted demand over next {forecast + 1} periods is {result}.")
-        # Run the LLM if it is selected.
-        if model:
-            result = llm_predict(keywords, max_results, language, country, location, end_date, days, exclude_websites,
-                                 trusted, forecasting, folder, units, forecast + 1, previous, result)
-            if verbose:
-                print(f"LLM predicted demand over next {forecast + 1} periods is {result}.")
-        # Use what is in inventory to contribute towards the predicted requirements.
-        result -= data["Inventory"][item]
-        if verbose:
-            print(f"Have {data['Inventory'][item]} in inventory, so need {result}.")
-        # If any shipments will arrive during this period, contribute them towards the predicted requirements.
-        for s in data["Shipments"]:
-            if s["Time"] <= forecast and item in s:
-                if item in s and s[item] > 0:
-                    result -= s[item]
-                    if verbose:
-                        print(f"Shipment arriving in {forecast} periods with {s[item]}, so now need {result}")
-        # Add the buffer that should be maintained.
-        if buffer > 0:
-            result += buffer
-            if verbose:
-                print(f"Want a buffer of {buffer}, so total needed is {result}.")
-        # Cannot order a negative amount.
-        if result < 0:
-            result = 0
-        if 0 < max_order < result:
-            if verbose:
-                print(f"More than the maximum order amount of {max_order}.")
-            result = max_order
-        if verbose:
-            if result > 0:
-                print(f"Placing order of {result}.")
-            else:
-                print(f"Not ordering anything.")
-        shipment[item] = result
-    return shipment
-
-
-def test(path: str, start: int = 1, memory: int = 1, lead: int = 1, forecast: int = 0, buffer: int = 0,
-         capacity: int = 0, power: int = 1, top: int = 1, arima: dict or None = None,
-         svr: dict or None = None, verbose: bool = False, keywords: str or list or None = "COVID-19",
-         max_results: int = 100, language: str = "en", country: str = "CA", location: str or None = "Ontario, Canada",
-         days: int = 7, exclude_websites: list or None = None, trusted: list or None = None,
-         model: bool = False, forecasting: str = "COVID-19 hospitalizations", units: str = "weeks",
-         previous: list or None = None, output: str or None = None, max_order: int = 0,
-         naming: str or None = None) -> None:
-    """
-    Test a forecasting model given a CSV file.
-    :param path: The path to the file.
-    :param start: Which index in the data to start testing from.
-    :param memory: How much past orders should be given to the forecasting model.
-    :param lead: How long is the lead time before orders arrive.
-    :param forecast: How much to forecast with the model.
-    :param buffer: The desired inventory buffer to have.
-    :param capacity: The maximum inventory capacity to hold.
-    :param power: The polynomial up which to compute predictions with.
-    :param top: The number of top parameters to take into account for averaging the prediction.
-    :param arima: The ARIMA configuration to use.
-    :param svr: The SVR configuration to use.
-    :param verbose: Whether outputs should be verbose or not.
-    :param keywords: The keywords to search for.
-    :param max_results: The maximum number of results to return.
-    :param language: The language to search in.
-    :param country: The Country to search in.
-    :param location: Keyword location to search with.
-    :param days: How many days prior to the end date to search from.
-    :param exclude_websites: Websites to exclude.
-    :param trusted: What websites should be labelled as trusted.
-    :param model: If a large language model should be used.
-    :param forecasting: What is being forecast.
-    :param units: The units of predictions.
-    :param previous: Previous values to help predict.
-    :param output: Sub folder for results to output to.
-    :param max_order: How much at most can be ordered.
-    :param naming: An additional name that can be appended to the file.
+    Ensure the model can be set up for Ollama.
     :return: Nothing.
     """
-    # Nothing to do if the dataset cannot be loaded.
-    dataset = load(path)
-    directory, file = os.path.split(path)
-    dates = parse_dates(os.path.join(directory, "Dates", file.replace(".csv", ".txt")))
-    file_name, file_extension = os.path.splitext(file)
-    if dataset is None:
+    logging.getLogger().setLevel(logging.WARNING)
+    ollama.pull("llama3.1")
+
+
+def generate(prompt: str, prompt_clean: bool = False, response_clean: bool = True) -> str:
+    """
+    Generate a response from a large language model from Ollama.
+    :param prompt: The prompt you wish to pass.
+    :param prompt_clean: If the prompt should be cleaned before being passed to the large language model.
+    :param response_clean: If the response from the large language model should be cleaned.
+    :return: The generated response.
+    """
+    if prompt_clean:
+        prompt = clean(prompt)
+    # Use no temperature for consistent results.
+    response = ollama.generate("llama3.1", prompt, options={"temperature": 0})["response"]
+    return clean(response) if response_clean else response
+
+
+def get_article(result: dict, driver) -> dict or None:
+    """
+    Get an article.
+    :param result: The Google News result.
+    :param driver: The Selenium webdriver.
+    :return: The details of the article if it was relevant, otherwise nothing.
+    """
+    # Try to get the full article and then summarize it with an LLM.
+    # noinspection PyBroadException
+    try:
+        # See if there is a redirect URL.
+        url = urlparse(result["url"])
+        if url.hostname == "google.com" or url.hostname == "news.google.com":
+            # Get what the web driver is starting at.
+            driver_url = driver.current_url
+            # Store the starting URL.
+            redirect_url = result["url"]
+            # Go to the redirect URL.
+            driver.get(redirect_url)
+            # Wait until the web driver hits the page.
+            while True:
+                current_url = driver.current_url
+                # Failsafe in case the URL is none to start.
+                if current_url is None:
+                    continue
+                # Failsafe in case the URL is empty to start.
+                if current_url == "":
+                    continue
+                # Skip the default starting page.
+                if current_url == "about:blank":
+                    continue
+                # Ensure we are not at the initial URL when loading the web driver.
+                if current_url == driver_url:
+                    continue
+                # Ensure we are not still at the redirect URL.
+                if current_url == redirect_url:
+                    continue
+                # Update the previously visited URL for future redirect handling.
+                driver_url = current_url
+                break
+            # Download the final article.
+            article = Article(driver_url)
+        else:
+            article = Article(result["url"])
+        article.download()
+        article.parse()
+        title = article.title
+        # Clean the text.
+        summary = clean(article.text)
+        # Summarize the summary with an LLM if requested to.
+        if summary != "":
+            prompt = (f"You are trying to help forecast COVID-19 hospitalizations in Ontario, Canada. Below is an "
+                      f"article. If the article is not relevant for forecasting COVID-19 hospitalizations in Ontario, "
+                      f"Canada, respond with \"FALSE\". If the article is relevant for forecasting COVID-19 "
+                      f"hospitalizations in Ontario, Canada, respond with a brief summary highlighting values most "
+                      f"important for forecasting COVID-19 hospitalizations in Ontario, Canada. Only state facts and "
+                      f"keep sentences short:\n\n{summary}")
+            summary = clean_response(generate(prompt, False, True))
+    # If the full article cannot be downloaded or the summarization fails, use the initial news info.
+    except:
         return None
-    # Ensure the starting index is valid.
-    if start < 1:
-        start = 1
-    # Ensure there is a starting index, otherwise return nothing.
-    while start not in dataset:
-        start -= 1
-        if start < 1:
-            return None
-    index = start
-    # Initialize the inventory needed to succeed for the first day.
-    data = {"Inventory": {}}
-    for key in dataset[start]:
-        data["Inventory"][key] = dataset[start][key]
-    # Account for the lead time needed so the first orders can be fulfilled.
-    if lead < 1:
-        lead = 1
-    first = start + 1
-    last = first + lead - 1
-    for i in range(first, last):
-        for key in dataset[i]:
-            data["Inventory"][key] += dataset[i][key]
-    # Configure the order history.
-    history = {}
-    for item in dataset[start]:
-        history[item] = []
-    # If zero or a negative memory was passed, all previous values are passed to the forecasting model.
-    fixed_memory = memory > 0
-    if not fixed_memory:
-        memory = start - 1
-    original_memory = memory
-    memory_index = start - 1
-    # With fixed memory, account for the given number of past instances.
-    # If there are not enough, pad the history with the first instance.
-    if fixed_memory:
-        while memory > 0:
-            memory -= 1
-            current = 1 if memory_index < 1 else memory_index
-            for key in history:
-                history[key].insert(0, dataset[current][key])
-            memory_index -= 1
-    # Otherwise, add all previous instances.
+    # No point in having the summary if it is just equal to the title.
+    if title is None or title == "":
+        return None
+    if (summary is None or title == summary or summary == "" or summary.isspace() or summary.startswith("FALSE") or
+            summary.startswith("I'm sorry, ") or summary.startswith("I apologize, ")):
+        return None
+    # Parse the date.
+    published_date = result["published date"].split(" ")
+    if published_date[2] == "Jan":
+        published_date[2] = 1
+    elif published_date[2] == "Feb":
+        published_date[2] = 2
+    elif published_date[2] == "Mar":
+        published_date[2] = 3
+    elif published_date[2] == "Apr":
+        published_date[2] = 4
+    elif published_date[2] == "May":
+        published_date[2] = 5
+    elif published_date[2] == "Jun":
+        published_date[2] = 6
+    elif published_date[2] == "Jul":
+        published_date[2] = 7
+    elif published_date[2] == "Aug":
+        published_date[2] = 8
+    elif published_date[2] == "Sep":
+        published_date[2] = 9
+    elif published_date[2] == "Oct":
+        published_date[2] = 10
+    elif published_date[2] == "Nov":
+        published_date[2] = 11
     else:
-        while memory_index > 0:
-            for key in history:
-                history[key].insert(0, dataset[memory_index][key])
-            memory_index -= 1
-    # Start the history and shipments.
-    data["History"] = history
-    data["Shipments"] = []
-    # Ensure parameters are valid.
-    arima = clean_arima(arima)
-    svr = clean_svr(svr)
-    if arima is None and svr is None and power < 1:
-        power = 1
-    if forecast < 0:
-        forecast = 0
-    if top < 0:
-        top = 0
-    # Build the name for the current test.
-    name = (f"Start={start} Memory={original_memory if fixed_memory else 'All'} Lead={lead} "
-            f"Forecast={forecast} Buffer={buffer} Capacity={capacity if capacity > 0 else 'None'} "
-            f"Top={top if top > 0 else 'All'} Power={power if power > 0 else 'None'} ARIMA=")
-    if arima is None:
-        name += "None SVR="
+        published_date[2] = 12
+    # Parse the time
+    published_time = published_date[4].split(":")
+    # Get the publisher.
+    publisher = result["publisher"]["title"]
+    # Store the formatted data.
+    return {"Title": title, "Summary": summary, "Publisher": publisher, "Year": int(published_date[3]),
+            "Month": published_date[2], "Day": int(published_date[1]), "Hour": int(published_time[0]),
+            "Minute": int(published_time[1]), "Second": int(published_time[2])}
+
+
+def prepare_articles(dataset: pandas.DataFrame) -> None:
+    """
+    Prepare all news articles.
+    :param dataset: The dataset to test on.
+    :return: Nothing.
+    """
+    # Get the dates.
+    dates = dataset["Date"]
+    driver = None
+    index = 0
+    for date in dates:
+        index += 1
+        if os.path.exists(os.path.join("Data", f"{date}.txt")):
+            continue
+        # Load the Firefox webdriver the first time it is needed, and initialize the LLM.
+        if driver is None:
+            driver = webdriver.Firefox(service=Service(GeckoDriverManager().install()))
+            initialize()
+        print(f"Summarizing news for period {index} of {len(dates)} periods.")
+        parsed = date.split("-")
+        end = datetime.datetime(int(parsed[0]), int(parsed[1]), int(parsed[2]))
+        start = end - datetime.timedelta(days=7)
+        google_news = GNews(language="en", country="CA", start_date=start, end_date=end, max_results=10)
+        formatted = []
+        results = google_news.get_news("COVID-19 Hospitalizations Ontario Canada")
+        for result in results:
+            result = get_article(result, driver)
+            if result is not None:
+                formatted.append(result)
+        # Sort results by newest to oldest.
+        formatted = sorted(formatted, key=lambda val: (
+            -val["Year"],
+            -val["Month"],
+            -val["Day"],
+            -val["Hour"],
+            -val["Minute"],
+            -val["Second"]
+        ))
+        s = ""
+        # If there are results, format them.
+        if len(formatted) > 0:
+            single = len(formatted) == 1
+            count = "a" if single else f"{len(formatted)}"
+            s += (f"Below {'is' if single else 'are'} {count} news article{'' if single else 's'} from the past week to"
+                  f" help guide you in making your decision.")
+            # Add every result.
+            for i in range(len(formatted)):
+                result = formatted[i]
+                days = (end - datetime.datetime(result["Year"], result["Month"], result["Day"])).days
+                if days < 1:
+                    posted = "Today"
+                else:
+                    posted = f"{days} day{'s' if days > 1 else ''} ago"
+                s += "\n\n"
+                if len(formatted) > 1:
+                    s += f"Article {i + 1} of {len(formatted)}\n"
+                s += f"Title: {result['Title']}\nPublisher: {result['Publisher']}\nPosted: {posted}"
+                if result["Summary"] is not None:
+                    s += f"\n{result['Summary']}"
+        f = open(os.path.join("Data", f"{date}.txt"), "w", errors="ignore")
+        f.write(s)
+        f.close()
+    if driver is not None:
+        driver.quit()
+    # Clean all articles if anything was missed during the summarizing process.
+    files = os.listdir("Data")
+    for file in files:
+        if not file.endswith(".txt"):
+            continue
+        file = os.path.join("Data", file)
+        if not os.path.isfile(file):
+            continue
+        f = open(file, "r")
+        s = f.read()
+        f.close()
+        # There should be no entries with blank titles.
+        if s.__contains__("Title: \n"):
+            file = os.path.splitext(os.path.basename(file))[0]
+            print(f"{file} has blank entries.")
+    for file in files:
+        if not file.endswith(".txt"):
+            continue
+        file = os.path.join("Data", file)
+        if not os.path.isfile(file):
+            continue
+        f = open(file, "r")
+        s = f.read()
+        f.close()
+        file = os.path.splitext(os.path.basename(file))[0]
+        # Nothing should have any "FALSE" entries for articles that are not relevant.
+        count = s.count("FALSE") - 1
+        if count > 0:
+            print(f"{file} has {count} FALSE entries.")
+        # Nothing should have "TRUE" written in the summaries.
+        count = s.count("TRUE")
+        if count > 0:
+            print(f"{file} has {count} TRUE entries.")
+
+
+def llm_forecast(prediction: int, history: list, forecast: int, date: str) -> int:
+    """
+    Perform the LLM forecasting.
+    :param prediction: The prediction made by the analytical model.
+    :param history: Previous values.
+    :param forecast: How far into the future to forecast.
+    :param date: The date which is being forecast.
+    :return: The value predicted by the LLM.
+    """
+    # Load the summaries.
+    path = os.path.join("Data", f"{date}.txt")
+    # If the file does not exist, we cannot use the LLM.
+    if not os.path.exists(path):
+        return prediction
+    # Load the summaries.
+    f = open(path, "r")
+    articles = f.read()
+    f.close()
+    # If there are no summaries, don't use the LLM.
+    if articles == "":
+        return prediction
+    # If we already have the response for this date, load it.
+    path = os.path.join("Responses", f"{forecast} {date}.txt")
+    if os.path.exists(path):
+        f = open(path, "r")
+        s = f.read()
+        f.close()
+    # Otherwise, query the LLM.
     else:
-        name += f"[P-{arima['p']}_D-{arima['d']}_Q-{arima['q']}] SVR="
-    if svr is None:
-        name += "None Model="
-    else:
-        name += f"[C-{svr['C']}_Gamma-{svr['gamma']}_Epsilon-{svr['epsilon']}] Model="
-    if model is None:
-        name += "False"
-    else:
-        name += "True"
-    if naming is not None:
-        name += naming
-    # Get the directories to save in.
+        timeframe = "week" if forecast == 1 else f"{forecast} weeks"
+        prompt = (f"You are tasked with forecasting COVID-19 hospitalizations in Ontario, Canada you predict will "
+                  f"occur over the next {timeframe}. You must respond with a single integer and nothing else.")
+        if len(history) == 0:
+            prompt += (" There is currently no data on this, thus we can assume there are currently no COVID-19 "
+                       "hospitalizations in Ontario, Canada.")
+        elif len(history) == 1:
+            prompt += (f" Here is the number of COVID-19 hospitalizations in Ontario, Canada from the previous week: "
+                       f"{history[0]}.")
+        else:
+            prompt += (f" Here are the number of COVID-19 hospitalizations in Ontario, Canada from the previous "
+                       f"{len(history)} weeks from oldest to newest: {history[0]}")
+            for i in range(1, len(history)):
+                prompt += f", {history[i]}"
+            prompt += "."
+        prompt += (f" An ARIMA forecasting model has predicted that over the next {timeframe}, there will be "
+                   f"{prediction} COVID-19 hospitalizations in Ontario, Canada. ARIMA is known to underpredict and "
+                   f"react too slow for a surge. Using your best judgement, keep or adjust this value.")
+        s = generate(f"{prompt} {articles}", False, True)
+        if not os.path.exists("Responses"):
+            os.mkdir("Responses")
+        f = open(path, "w", errors="ignore")
+        f.write(s)
+        f.close()
+    # We need to ensure there is only one value, as otherwise the LLM either could not or failed to do what was asked.
+    words = s.split()
+    if len(words) > 1:
+        return prediction
+    # noinspection PyBroadException
+    try:
+        return int(words[0].replace(",", ""))
+    except:
+        # Return the baseline prediction if the LLM did not return a prediction.
+        return prediction
+
+
+def actual(dataset: pandas.DataFrame) -> pandas.DataFrame:
+    """
+    Get the actual values for hospitalizations.
+    :param dataset: The dataset to test on.
+    :return: The actual values for hospitalizations.
+    """
+    # Nothing to do if this has already been determined.
+    path = os.path.join("Results", "Actual.csv")
+    if os.path.exists(path):
+        return pd.read_csv(path)
+    print("Determining actual amounts.")
+    total = len(dataset)
+    periods = total - 1
+    dates = dataset["Date"]
+    hospitalizations = dataset["Hospitalizations"]
+    s = "Date"
+    for i in range(periods):
+        s += f",{i + 1}"
+    # Loop for all date ranges that let us forecasting that far into the future.
+    for i in range(periods):
+        # Look at future periods to determine the real amount.
+        real = 0
+        s += f"\n{dates[i]}"
+        for j in range(periods):
+            index = i + j + 1
+            # If this period cannot be forecast as it extends beyond the data, then list it as -1.
+            if index > periods:
+                s += ",-1"
+                continue
+            real += hospitalizations[index]
+            s += f",{real}"
+    # Write to a CSV file.
     if not os.path.exists("Results"):
         os.mkdir("Results")
-    if output is not None:
-        model_path = os.path.join("Results", output)
-        if not os.path.exists(model_path):
-            os.mkdir(model_path)
-    else:
-        model_path = "Results"
-    model_path = os.path.join(model_path, name)
-    if not os.path.exists(model_path):
-        os.mkdir(model_path)
-    file = os.path.basename(path)
-    file, _ = os.path.splitext(file)
-    data_path = os.path.join(model_path, file)
-    # If this test has already been done, no need to do it again.
-    if os.path.exists(data_path):
-        return None
-    os.mkdir(data_path)
-    print(f"\nTesting on data from {path}.")
-    if start > 1:
-        print(f"Starting at {start}.")
-    print(f"Order lead time of {lead} periods.")
-    if buffer > 0:
-        print(f"Want a supply buffer of {buffer}.")
-    if capacity > 0:
-        print(f"Warehouse capacity of {capacity}.")
-    if fixed_memory:
-        print(f"Memory of {original_memory}.")
-    if power > 0:
-        print(f"Fitting with polynomials up to {power}.")
-    if arima is not None:
-        print(f"Using ARIMA with P={arima['p']}, D={arima['d']} and Q={arima['q']}.")
-    if svr is not None:
-        print(f"Using SVR with C={svr['C']}, Gamma={svr['gamma']}, and Epsilon={svr['epsilon']}.")
-    if forecast > 0:
-        print(f"Forecasting {forecast} periods.")
-    if top > 0:
-        print(f"Choosing prediction by the average of the top {top} predictions.")
-    else:
-        print("Choosing prediction by the average of all predictions.")
-    if model is True:
-        print("Using LLM to forecast.")
-        # Ensure we can use the large language model.
-        llm.initialize()
-    # Loop until the end of the data is reached.
-    results = []
-    start_time = time.time()
-    while True:
-        # If the current step is not in the dataset, the testing is done.
-        if index not in dataset:
-            end_time = time.time()
-            # Write the data for every item type.
-            for key in data["Inventory"]:
-                s = "Period,Inventory,Arrived,Available,Needed,Succeeded,Failed,Lost"
-                index = 1
-                total_succeeded = 0
-                total_failed = 0
-                total_arrived = 0
-                total_required = 0
-                total_lost = 0
-                # Write the data for every period.
-                for result in results:
-                    inventory = result[key]["Inventory"]
-                    arrived = result[key]["Arrived"]
-                    succeeded = result[key]["Succeeded"]
-                    failed = result[key]["Failed"]
-                    lost = result[key]["Lost"]
-                    s += (f"\n{index},{inventory},{arrived},{inventory + arrived},{succeeded + failed},{succeeded},"
-                          f"{failed},{lost}")
-                    if index == 1:
-                        total_required -= inventory
-                    total_succeeded += succeeded
-                    total_failed += failed
-                    total_arrived += arrived
-                    total_required += (succeeded + failed)
-                    total_lost += lost
-                    index += 1
-                # Write the series to a CSV file.
-                f = open(os.path.join(data_path, f"{key}.csv"), "w")
-                f.write(s)
-                f.close()
-                # Get the time in seconds
-                seconds = end_time - start_time
-                seconds = math.ceil(seconds)
-                hours = seconds // 3600
-                minutes = (seconds % 3600) // 60
-                seconds = seconds % 60
-                if hours > 0:
-                    time_s = f"{hours:02}:{minutes:02}:{seconds:02}"
-                else:
-                    time_s = f"{minutes}:{seconds:02}"
-                s = (f"Succeeded: {total_succeeded}"
-                     f"\nFailed: {total_failed}"
-                     f"\nLost: {total_lost}"
-                     f"\nArrived: {total_arrived}"
-                     f"\nRequired: {total_required}"
-                     f"\nRemaining: {data['Inventory'][key]}"
-                     f"\nTime: {time_s}")
-                if verbose:
-                    print()
-                print(f"{file} | {key}\n{s}")
-                # Write the overview to a text file.
-                f = open(os.path.join(data_path, f"{key}.txt"), "w")
-                f.write(s)
-                f.close()
-            return None
-        if verbose:
-            print(f"\nPeriod {index}.")
-        # Store the information for this period.
-        inventory = {}
-        arrived = {}
-        successes = {}
-        failures = {}
-        lost = {}
-        for key in data["Inventory"]:
-            inventory[key] = data["Inventory"][key]
-            arrived[key] = 0
-            lost[key] = 0
-        # Handle shipments.
-        for i in range(len(data["Shipments"])):
-            if i >= len(data["Shipments"]):
-                break
-            # Reduce the periods remaining before arriving for each shipment.
-            data["Shipments"][i]["Time"] -= 1
-            # If the shipment has arrived, add them to inventory.
-            if data["Shipments"][i]["Time"] <= 0:
-                curr = data["Shipments"][i]
-                for item in curr:
-                    if item == "Time":
-                        continue
-                    data["Inventory"][item] += curr[item]
-                    arrived[item] += curr[item]
-                data["Shipments"].pop(i)
-                i -= 1
-        # Get the order to be placed by the forecasting model.
-        placed = predict(data, forecast, buffer, power, top, arima, svr, verbose, keywords, max_results, language,
-                         country, location, dates[index - 1], days, exclude_websites, trusted, model, forecasting,
-                         file_name, units, previous, max_order)
-        # Make the request for the order.
-        if isinstance(placed, dict):
-            # Ensure only valid items are ordered.
-            # No use yet, but could be useful for future LLM implementations.
-            for key in placed:
-                if key not in data["Inventory"]:
-                    placed.pop(key)
-                elif placed[key] < 0:
-                    placed[key] = 0
-            # If an item was not ordered, ensure it is represented.
-            for key in data["Inventory"]:
-                if key not in placed:
-                    placed[key] = 0
-            # Set the lead time for it to arrive and add it to the shipments.
-            placed["Time"] = lead
-            data["Shipments"].append(placed)
-        # Check what orders need to be fulfilled.
-        for key in dataset[index]:
-            ordered = dataset[index][key]
-            current = data["Inventory"][key]
-            # If there is enough in inventory to cover the order, cover it fully.
-            if current - ordered > 0:
-                data["Inventory"][key] -= ordered
-                failures[key] = 0
-                successes[key] = ordered
-            # Otherwise, determine how much was covered and how much failed.
-            else:
-                remaining = ordered - current
-                failures[key] = remaining
-                successes[key] = current
-                data["Inventory"][key] = 0
-            # Add the order to the history.
-            history[key].append(ordered)
-            # Trim the oldest order if using a fixed memory size.
-            if fixed_memory:
-                history[key].pop(0)
-        # If there is a maximum capacity, it must be met.
-        if capacity > 0:
-            # Discard items until the capacity is met.
-            while sum(data["Inventory"].values()) > capacity:
-                # Remove the item which has the largest capacity.
-                greatest = max(data["Inventory"], key=data["Inventory"].get)
-                data["Inventory"][greatest] -= 1
-                lost[greatest] += 1
-        # Store results.
-        result = {}
-        for key in data["Inventory"]:
-            result[key] = {"Inventory": inventory[key], "Arrived": arrived[key], "Succeeded": successes[key],
-                           "Failed": failures[key], "Lost": lost[key]}
-        results.append(result)
-        # Go to the next period.
-        index += 1
+    f = open(path, "w")
+    f.write(s)
+    f.close()
+    return pd.read_csv(path)
 
 
-def auto(path: str or list, start: int or list = 1, memory: int or list = 1, lead: int or list = 1,
-         forecast: int or list = 0, buffer: int or list = 0, capacity: int or list = 0, power: int or list = 1,
-         top: int or list = 1, arima: list or dict or None = None, svr: dict or list or None = None,
-         verbose: bool = False, keywords: str or list or None = "COVID-19", max_results: int = 100,
-         language: str = "en", country: str = "CA", location: str or None = "Ontario, Canada",
-         days: int = 7, exclude_websites: list or None = None, trusted: list or None = None,
-         model: list or bool = False, forecasting: str = "COVID-19 hospitalizations", units: str = "weeks",
-         previous: list or None = None, output: str or None = None, max_order: int = 0,
-         naming: str or None = None) -> None:
+def baseline(dataset: pandas.DataFrame) -> pandas.DataFrame:
     """
-    Automatically test multiple options.
-    :param path: The path to the file.
-    :param start: Which index in the data to start testing from.
-    :param memory: How much past orders should be given to the forecasting model.
-    :param lead: How long is the lead time before orders arrive.
-    :param forecast: How much to forecast with the model.
-    :param buffer: The desired inventory buffer to have.
-    :param capacity: The maximum inventory capacity to hold.
-    :param power: The polynomial up which to compute predictions with.
-    :param top: The number of top parameters to take into account for averaging the prediction.
-    :param arima: The ARIMA configuration to use.
-    :param svr: The SVR configuration to use.
-    :param verbose: Whether outputs should be verbose or not.
-    :param keywords: The keywords to search for.
-    :param max_results: The maximum number of results to return.
-    :param language: The language to search in.
-    :param country: The Country to search in.
-    :param location: Keyword location to search with.
-    :param days: How many days prior to the end date to search from.
-    :param exclude_websites: Websites to exclude.
-    :param trusted: What websites should be labelled as trusted.
-    :param model: If a large language model should be used.
-    :param forecasting: What is being forecast.
-    :param units: The units of predictions.
-    :param previous: Previous values to help predict.
-    :param output: Sub folder for results to output to.
-    :param max_order: How much at most can be ordered.
-    :param naming: An additional name that can be appended to the file.
+    Get the baseline analytical predictions.
+    :param dataset: The dataset to test on.
+    :return: The baseline analytical predictions.
+    """
+    # Nothing to do if this has already been determined.
+    path = os.path.join("Results", "Baseline.csv")
+    if os.path.exists(path):
+        return pd.read_csv(path)
+    total = len(dataset)
+    periods = total - 1
+    dates = dataset["Date"]
+    hospitalizations = dataset["Hospitalizations"]
+    s = "Date"
+    for i in range(periods):
+        s += f",{i + 1}"
+    # Loop for all date ranges that let us forecasting that far into the future.
+    history = []
+    for i in range(periods):
+        print(f"Baseline forecasting for period {i + 1} of {periods}")
+        # Add this instance to our forecasting history.
+        history.append(hospitalizations[i])
+        # If there is more than one value, we can fit a forecasting model.
+        if len(history) > 1:
+            # Store the best ARIMA model.
+            best = None
+            # Try p values from 0 to 2.
+            p = range(0, 3)
+            # Try d values from 0 to 1.
+            d = range(0, 2)
+            # Try q values from 0 to 2.
+            q = range(0, 3)
+            # Generate all different combinations of p, d, q
+            pdq_combinations = list(itertools.product(p, d, q))
+            # Store the results
+            best_score = float("inf")
+            # Suppress convergence warnings for the ARIMA.
+            warnings.filterwarnings("ignore", category=ConvergenceWarning)
+            warnings.filterwarnings("ignore", category=UserWarning)
+            warnings.filterwarnings("ignore", category=RuntimeWarning)
+            # Loop through all combinations and evaluate each ARIMA model.
+            for pdq in pdq_combinations:
+                # noinspection PyBroadException
+                try:
+                    # Fit the ARIMA model.
+                    model = ARIMA(history, order=pdq)
+                    model_fit = model.fit()
+                    # Get the AIC score.
+                    score = model_fit.aic()
+                    # If the AIC is lower, update the best model
+                    if score < best_score:
+                        best_score = score
+                        best = model_fit
+                except Exception:
+                    # Skip invalid models.
+                    continue
+            # If ARIMA failed to fit, use EXP smoothing.
+            if best is None:
+                best = SimpleExpSmoothing(history).fit(optimized=True)
+            predictions = best.forecast(steps=total)
+        else:
+            # Otherwise, there is only one data point, so we just need to use this for all values.
+            predictions = []
+            for j in range(total):
+                predictions.append(history[0])
+        s += f"\n{dates[i]}"
+        # Determine how much has been predicted.
+        forecast = 0
+        for j in range(periods):
+            index = i + j + 1
+            if index > periods:
+                # If this period cannot be forecast as it extends beyond the data, then list it as -1.
+                s += ",-1"
+                continue
+            pred = 0 if math.isnan(predictions[index]) else predictions[index]
+            forecast += pred
+            s += f",{int(forecast)}"
+    # Write to a CSV file.
+    if not os.path.exists("Results"):
+        os.mkdir("Results")
+    f = open(path, "w")
+    f.write(s)
+    f.close()
+    return pd.read_csv(path)
+
+
+def llm(dataset: pandas.DataFrame, dataset_baseline: pandas.DataFrame, forecast: int = 1) -> pandas.DataFrame:
+    """
+    Get the LLM predictions.
+    :param dataset: The dataset to test on.
+    :param dataset_baseline: The baseline analytical predictions.
+    :param forecast: How many weeks in advance should the LLM model forecast.
+    :return: The LLM predictions.
+    """
+    # If the LLM results have already been processed, there is nothing to do.
+    path = os.path.join("Results", "LLM.csv")
+    if os.path.exists(path):
+        return pd.read_csv(path)
+    initialize()
+    prepare_articles(dataset)
+    dates = dataset_baseline["Date"]
+    periods = len(dates)
+    if forecast > periods:
+        forecast = periods
+    history = []
+    s = "Date"
+    for i in range(forecast):
+        s += f",{i + 1}"
+    for i in range(periods):
+        history.append(dataset["Hospitalizations"][i])
+        s += f"\n{dates[i]}"
+        for j in range(forecast):
+            index = j + 1
+            current_baseline = dataset_baseline[f'{index}'][i]
+            if current_baseline < 0:
+                s += ",-1"
+                continue
+            print(f"LLM forecasting for period {i + 1} of {periods} with forecast {index} of {forecast}.")
+            s += f",{llm_forecast(current_baseline, history, index, dates[i])}"
+    f = open(path, "w")
+    f.write(s)
+    f.close()
+    return pd.read_csv(path)
+
+
+def metrics(title: str, dataset_results: pandas.DataFrame, dataset_actual: pandas.DataFrame) -> None:
+    """
+    Get the metrics for a model compared to the actual values.
+    :param title: The title of the model for which the metrics are of.
+    :param dataset_results: The predictions of the model.
+    :param dataset_actual: The actual values for hospitalizations.
     :return: Nothing.
     """
-    # Ensure values are all converted to lists.
-    if isinstance(path, str):
-        path = [path]
-    if isinstance(start, int):
-        start = [start]
-    if isinstance(memory, int):
-        memory = [memory]
-    if isinstance(lead, int):
-        lead = [lead]
-    if isinstance(forecast, int):
-        forecast = [forecast]
-    if isinstance(buffer, int):
-        buffer = [buffer]
-    if isinstance(capacity, int):
-        capacity = [capacity]
-    if isinstance(power, int):
-        power = [power]
-    if isinstance(top, int):
-        top = [top]
-    if not isinstance(arima, list):
-        arima = [arima]
-    if not isinstance(svr, list):
-        svr = [svr]
-    if not isinstance(model, list):
-        model = [model]
-    # Test all configurations.
-    for p in path:
-        for s in start:
-            for m in memory:
-                for le in lead:
-                    for f in forecast:
-                        for b in buffer:
-                            for c in capacity:
-                                for po in power:
-                                    for t in top:
-                                        for a in arima:
-                                            for sv in svr:
-                                                for mo in model:
-                                                    test(p, s, m, le, f, b, c, po, t, a, sv, verbose, keywords,
-                                                         max_results, language, country, location, days,
-                                                         exclude_websites, trusted, mo, forecasting,
-                                                         units, previous, output, max_order, naming)
+    # The paths to the three types of metrics we want.
+    path_diff = os.path.join("Results", f"{title} Difference.csv")
+    path_failures = os.path.join("Results", f"{title} Failures.csv")
+    # If all metrics exist, then no need to run this again and simply return.
+    if os.path.exists(path_diff) and os.path.exists(path_failures):
+        return
+    # The results may not extend as far as the actual data, so ensure we only go as far as needed.
+    columns = len(dataset_results.columns.tolist()) - 1
+    # Start off the difference and failures.
+    diff = "Date"
+    failures = "Date"
+    for i in range(columns):
+        success_rate = f",{i + 1}"
+        diff += success_rate
+        failures += success_rate
+    # Get the data for every date.
+    dates = dataset_results["Date"]
+    for i in range(len(dates)):
+        success_rate = f"\n{dates[i]}"
+        diff += success_rate
+        failures += success_rate
+        # Get the results for all forecasting windows and add them to the documents.
+        for j in range(columns):
+            index = f"{j + 1}"
+            real = dataset_actual[index][i]
+            pred = dataset_results[index][i]
+            diff += f",{pred - real}"
+            failures += f",{0 if pred >= real else real - pred}"
+    # Save the data for the differences and failures.
+    f = open(path_diff, "w")
+    f.write(diff)
+    f.close()
+    f = open(path_failures, "w")
+    f.write(failures)
+    f.close()
+
+
+def evaluate(dataset_actual: pandas.DataFrame, dataset_baseline: pandas.DataFrame,
+             dataset_llm: pandas.DataFrame) -> None:
+    """
+    Get the metrics for both the baseline and LLM models and plot the results.
+    :param dataset_actual: The actual values for hospitalizations.
+    :param dataset_baseline: The baseline analytical predictions.
+    :param dataset_llm: The LLM predictions.
+    :return: Nothing.
+    """
+    # Compute the metrics for the baseline and LLM models.
+    metrics("Baseline", dataset_baseline, dataset_actual)
+    metrics("LLM", dataset_llm, dataset_actual)
+    # Get average scores for each model.
+    dataset_baseline_diff = pd.read_csv(os.path.join("Results", "Baseline Difference.csv"))
+    dataset_baseline_failures = pd.read_csv(os.path.join("Results", "Baseline Failures.csv"))
+    dataset_llm_diff = pd.read_csv(os.path.join("Results", "LLM Difference.csv"))
+    dataset_llm_failures = pd.read_csv(os.path.join("Results", "LLM Failures.csv"))
+    # Create the headers.
+    success_rate = "Forecast,Baseline,LLM,Improvement"
+    average_diff = "Forecast,Baseline,LLM"
+    # Loop through every column, calculating the metrics.
+    columns_baseline = len(dataset_baseline.columns.tolist()) - 1
+    columns_llm = len(dataset_llm.columns.tolist()) - 1
+    columns = max(columns_baseline, columns_llm)
+    for i in range(columns):
+        index = f"{i + 1}"
+        total = dataset_actual[index].sum()
+        # Baseline metrics.
+        if i < columns_baseline:
+            baseline_success_rate = max((total - dataset_baseline_failures[index].sum()) / total * 100, 0)
+            baseline_average_diff = f"{dataset_baseline_diff[index].mean()}"
+        else:
+            baseline_success_rate = ""
+            baseline_average_diff = ""
+        # LLM metrics.
+        if i < columns_llm:
+            llm_success_rate = max((total - dataset_llm_failures[index].sum()) / total * 100, 0)
+            llm_average_diff = f"{dataset_llm_diff[index].mean()}"
+        else:
+            llm_success_rate = ""
+            llm_average_diff = ""
+        # Get the improvement that the LLM model had on the success rate.
+        if is_number(baseline_success_rate) and is_number(llm_success_rate):
+            success_rate_improvement = f"{llm_success_rate - baseline_success_rate}%"
+            baseline_success_rate = f"{baseline_success_rate}%"
+            llm_success_rate = f"{llm_success_rate}%"
+        else:
+            if is_number(baseline_success_rate):
+                baseline_success_rate = f"{baseline_success_rate}%"
+            if is_number(llm_success_rate):
+                llm_success_rate = f"{llm_success_rate}%"
+            success_rate_improvement = ""
+        # Add to the data to be written.
+        success_rate += f"\n{index},{baseline_success_rate},{llm_success_rate},{success_rate_improvement}"
+        average_diff += f"\n{index},{baseline_average_diff},{llm_average_diff}"
+    # Save the data for the success rate and average differences.
+    f = open(os.path.join("Results", "Success Rate.csv"), "w")
+    f.write(success_rate)
+    f.close()
+    f = open(os.path.join("Results", "Average Difference.csv"), "w")
+    f.write(average_diff)
+    f.close()
+    # Create plots for each of the forecasted periods.
+    total = len(dataset_actual["Date"])
+    baseline_columns = len(dataset_baseline.columns.tolist()) - 1
+    llm_columns = len(dataset_llm.columns.tolist()) - 1
+    for i in range(baseline_columns):
+        # Store the results.
+        points_actual = []
+        points_baseline = []
+        points_llm = []
+        index = f"{i + 1}"
+        # At most, we can check every entry.
+        for j in range(total):
+            # However, we will hit non-existent items, so stop there.
+            if dataset_actual[index][j] < 0:
+                break
+            # Add valid points for each.
+            points_actual.append(dataset_actual[index][j])
+            points_baseline.append(dataset_baseline[index][j])
+            if i < llm_columns:
+                points_llm.append(dataset_llm[index][j])
+        # Configure the plot.
+        if len(points_baseline) < 2:
+            continue
+        fig = plt.figure(figsize=(8, 5))
+        plt.xlabel("Week")
+        plt.ylabel(f"COVID-19 hospitalizations in the next {'week' if i < 1 else f'{index} weeks'}")
+        # Plot all three values.
+        plt.plot(points_actual, color="red", label="Actual Hospitalizations")
+        plt.plot(points_baseline, color="blue", label="Baseline Prediction")
+        if len(points_llm) > 0:
+            plt.plot(points_llm, color="green", label="LLM Prediction")
+        plt.xlim(0, len(points_actual) - 1)
+        bottom, top = plt.ylim()
+        plt.ylim(0, top)
+        plt.legend()
+        plt.tight_layout()
+        # Save the plot.
+        fig.savefig(os.path.join("Results", f"{index}.png"))
+        pyplot.close(fig)
+
+
+def update_articles(old: str, new: str) -> None:
+    """
+    Update any existing articles.
+    :param old: An old value in the text to replace.
+    :param new: The new value to replace in the text.
+    :return: Nothing.
+    """
+    for file in os.listdir("Data"):
+        if not file.endswith(".txt"):
+            continue
+        file = os.path.join("Data", file)
+        f = open(file, "r")
+        s = f.read()
+        f.close()
+        s = s.replace(old, new)
+        f = open(file, "w")
+        f.write(s)
+        f.close()
+
+
+def main(forecast: int = 1) -> None:
+    """
+    Run all required code.
+    :param forecast: How many weeks in advance should the LLM model forecast.
+    :return: Nothing.
+    """
+    # Get the initial dataset.
+    dataset = load()
+    # Get the baseline results for the LLM model to use.
+    dataset_baseline = baseline(dataset)
+    # Evaluate both models and make plots.
+    evaluate(actual(dataset), dataset_baseline, llm(dataset, dataset_baseline, forecast))
+
+
+if __name__ == "__main__":
+    main(4)

@@ -1,0 +1,79 @@
+Below are 7 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 7
+Title: Moderna is banking on a combined COVID, flu and RSV vaccine. Will it work?
+Publisher: CBC News
+Posted: Today
+The article discusses Moderna's COVID-19 vaccine and its potential combination with vaccines for RSV (Respiratory Syncytial Virus) and flu. Here are some key points:
+1. Low booster uptake: Fewer than one in five Canadians have received a COVID-19 booster or completed an initial vaccine series in the last six months.
+2. RSV vaccine challenges: Developing a vaccine for RSV, let alone combining it with COVID and flu, is complex due to dosing, timing, and age considerations.
+3. Moderna's stock price drop: The company's stock price has dropped close to 30% since January following weaker-than-expected earnings and declining COVID-19 vaccine uptake.
+4. CEO's compensation: Moderna CEO Hoge reportedly cashed out over $165 million in stock options last year, on top of his $18.2 million salary.
+5. RSV vaccine history: Previous attempts at an RSV vaccine have been unsuccessful, with two infants dying in the 1960s after experiencing severe lung inflammation during their first RSV infection following vaccination.
+6. Uncertainty around mRNA technology: While mRNA vaccines have saved countless lives from COVID, it's unclear whether this platform will be as successful with other viruses like RSV and flu.
+The article highlights concerns about the effectiveness and safety of combining multiple vaccines into one shot, particularly for vulnerable populations like infants and seniors. Experts emphasize the need for more data on vaccine efficacy, safety, and dosing before promoting an annual combined shot.
+
+Article 2 of 7
+Title: Canada is seeing an early rise in flu cases. Is a 'tidal wave' of infection coming?
+Publisher: CBC News
+Posted: 1 day ago
+Key values for forecasting:
+Influenza activity has been increasing steeply and crossed the seasonal threshold of 5% positive tests in late October.
+Ontario has already soared past that benchmark, with roughly 10% of tests recently coming back positive for this year's dominant strain of influenza A.
+The province's pediatric hospitals are already overflowing with children sick with illnesses including RSV and COVID-19.
+Positive test results for COVID-19 are back on the rise, most recently hitting 17%.
+There is a concern that Ontario will face the triple threat of respiratory illnesses (influenza, RSV, and COVID-19) in the coming months.
+
+Article 3 of 7
+Title: RSV is 'no joke,' warns Ontario mom whose preschooler spent 5 days in ICU with the respiratory virus
+Publisher: CBC.ca
+Posted: 2 days ago
+RSV is surging in many parts of Canada, with ICUs operating at 120-150% capacity. The virus causes infections of the lungs and respiratory tract, and symptoms can mimic a common cold but become life-threatening in some cases. Key warning signs include:
+Laboured breathing
+Fever lasting longer than 5 days
+Dehydration due to excessive coughing
+Blue lips or fingernails
+No appetite
+These values are relevant for forecasting COVID-19 hospitalizations in Ontario, Canada.
+
+Article 4 of 7
+Title: Nursing homes loosen COVID-19 restrictions in transition to 'new normal'
+Publisher: CBC.ca
+Posted: 2 days ago
+33 people are currently hospitalized due to COVID-19 in New Brunswick.
+There are outbreaks at 12 nursing homes and 16 congregate living facilities in New Brunswick.
+The article mentions a predicted surge in COVID activity this fall and winter, which could be relevant for forecasting hospitalizations in Ontario as well.
+
+Article 5 of 7
+Title: Study shows consistent efficacy of Paxlovid regardless of age, number of vaccinations, comorbidities
+Publisher: News-Medical.Net
+Posted: 5 days ago
+The study evaluated the effectiveness of Paxlovid (nirmatrelvir and ritonavir) against severe COVID-19 during the Omicron variant dominance in Ontario.
+177,545 SARS-CoV-2-positive individuals were included in the analysis, with 8,876 exposed to Paxlovid and 168,669 unexposed.
+The study found that Paxlovid-treated patients had a lower risk of hospitalizations or deaths (44% relative reduction) compared to unexposed patients.
+The number needed to treat (NNT) value for preventing a single hospital admission or death was 62.
+The findings suggest that Paxlovid treatment significantly lowers the risks of COVID-19-associated hospitalizations and deaths, particularly among non-vaccinated individuals aged 70.
+
+Article 6 of 7
+Title: Ontario considering letting pharmacists prescribe Paxlovid for COVID-19: Moore
+Publisher: CBC.ca
+Posted: 6 days ago
+Key values:
+3,500 treatments of Paxlovid are currently being prescribed each week
+Demand for Paxlovid appears to increase as COVID-19 activity rises
+The province is considering expanding pharmacists' prescribing powers to include Paxlovid and other antiviral medications
+
+Article 7 of 7
+Title: 'We are so overwhelmed': Children's hospitals across Canada stretched as RSV cases, flu-like illnesses spike
+Publisher: CTV News
+Posted: 7 days ago
+The article discusses the current situation in Canadian children's hospitals, where emergency room occupancy rates are extremely high due to a surge in respiratory syncytial virus (RSV) cases among children. The Montreal Children's Hospital is mentioned as an example, with an emergency room occupancy rate of 193% and ICU occupancy at around 115%. Staff are working overtime to manage the influx of admissions.
+The article quotes hospital staff members, including Dr. Barnes, who notes that the hospital doesn't reserve floors for specific illnesses but acknowledges that it's not surprising that many patients on a particular floor might have the same problem. The hospital has added more beds than usual, but this has displaced resources from other areas, such as surgery.
+The article also mentions that some patients who had been waiting weeks or months for surgery may need to wait longer due to the increased demand. However, emergency operations and surgical procedures related to cancer are not being postponed.
+To manage the situation, staff have been working voluntary overtime, but this has taken a toll on their well-being. The article quotes Cindy McCartney, associate director of nursing, who compares the experience of children's hospitals now to the experiences of general hospitals during the COVID-19 pandemic.
+The article concludes by suggesting that parents can take steps to help preserve hospital capacity for children who need it most. These include:
+Reviewing options when concerned about a child's health
+Using primary care provider emergency after-hours clinics if available
+Utilizing online and telephone triage and consultation services offered by provinces and hospitals
+Making sure children are up-to-date on routine immunizations and COVID-19 vaccines
+Overall, the article highlights the challenges facing Canadian children's hospitals due to the surge in RSV cases and encourages parents to take proactive steps to help manage the situation.

@@ -1,0 +1,89 @@
+Below are 9 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 9
+Title: Canadian cannabis legalization linked to increased and decreased hospitalization, depending on the province
+Publisher: Medical Xpress
+Posted: 1 day ago
+The article reports on cannabis-related hospitalization rates in Ontario and other provinces before and after legalization in Canada. Key findings include:
+A sharp increase in cannabis-related hospitalizations in Ontario (20% increase) following widespread commercialization.
+The COVID-19 pandemic's association with a rise in cannabis-related hospitalizations, particularly for cannabis-induced psychosis.
+Different approaches to cannabis retail store access and product expansion across provinces, which may impact public health burden.
+Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Cannabis-related hospitalization rates
+Commercialization and product expansion timelines
+COVID-19 pandemic's association with increased hospitalizations
+
+Article 2 of 9
+Title: COVID-19 trends high and stable in and around Ottawa
+Publisher: CBC News
+Posted: 2 days ago
+Average number of Ottawa residents in local hospitals for COVID-19 is stable at 25 (moderate level).
+Kingston area's health unit reports very high 15 active COVID-19 patients in its hospitals.
+Renfrew County has a stable 3 hospitalizations and the Eastern Ontario Health Unit (EOHU) has a stable 15 hospitalizations.
+Wastewater data shows rising coronavirus levels, considered very high by Ottawa Public Health.
+
+Article 3 of 9
+Title: Canadian data misused to make false claims about Covid-19 vaccines
+Publisher: AFP Factcheck
+Posted: 3 days ago
+The efficacy of COVID-19 vaccines wanes over time.
+A third dose improves protection against both infection and hospitalization due to the Omicron variant.
+Booster doses provide additional protection, including against severe disease.
+The duration of protection is currently unknown.
+
+Article 4 of 9
+Title: Inflammatory diseases don't boost clotting risks post-COVID, study reveals
+Publisher: News-Medical.Net
+Posted: 3 days ago
+The study used population-based data from Ontario, Canada.
+The data included health administration interactions, emergency department visits, hospitalizations, and physician billings.
+The study found that individuals with immune-mediated inflammatory diseases (IMIDs) did not have a significantly higher risk of venous thromboembolisms after recovering from SARS-CoV-2 infections compared to those without IMIDs.
+Comorbidities were found to confound the association between venous thromboembolism events and IMIDs following SARS-CoV-2 infections.
+
+Article 5 of 9
+Title: B.C. expands COVID-19 wastewater monitoring to Prince George
+Publisher: CBC News
+Posted: 3 days ago
+Relevant.
+Summary: The article discusses a COVID-19 wastewater monitoring program in British Columbia (B.C.), Canada. Key points include:
+Wastewater samples are collected from sewage treatment plants and tested for viruses like COVID-19.
+This method provides unbiased and consistent population-level data, which can inform public health responses.
+Data shows increasing levels of COVID-19 in Prince George, but not significant levels of Influenza A or B.
+Note: While the article is about a wastewater monitoring program in British Columbia, it highlights the potential for this type of surveillance to provide valuable information on population-level trends, which could be relevant for forecasting COVID-19 hospitalizations in Ontario, Canada.
+
+Article 6 of 9
+Title: Cannabis Commercialization Linked to More Hospitalizations
+Publisher: Medscape
+Posted: 4 days ago
+The study period includes data from March 2020 to March 2021, which coincides with the COVID-19 pandemic.
+During this period, there was an immediate increase of 0.83 hospitalizations due to cannabis per 100,000 individuals.
+The article mentions that Ontario is one of the four most populous provinces in Canada where the study was conducted.
+However, the article does not provide specific data on COVID-19 hospitalizations in Ontario.
+Note: While the article provides some relevant information for forecasting COVID-19 hospitalizations in Ontario, Canada, it is primarily focused on the effects of cannabis commercialization on hospitalizations.
+
+Article 7 of 9
+Title: 5 years of legal cannabis: fewer charges, many hospitalizations and more than a few questions
+Publisher: CBC News
+Posted: 4 days ago
+The study analyzed hospitalization data on nearly 7 million people aged 15 and up in Ontario from January 2015 to March 2021.
+There were 105,000 hospitalizations for cannabis over the 7-year period, with one-third among people aged 15-24 and 66% among males.
+The rate of hospitalizations didn't change during the early years of legalization but increased during the commercialization period (March 2020 to March 2021), particularly among people aged 25 and older.
+
+Article 8 of 9
+Title: Quebecers can now get a new COVID-19 shot. What you need to know about the virus and vaccines
+Publisher: CBC News
+Posted: 4 days ago
+Hospitalizations are on the rise in Quebec due to circulating cases (1,493 people hospitalized with COVID-19 as of Oct. 3).
+The province has seen an uptick in cases and hospitalizations since August.
+Case numbers are severely underrepresented, with estimated daily new cases ranging from 20,000 to 30,000.
+Hospitalization data is available for Quebec, which can be used for comparison or forecasting purposes.
+
+Article 9 of 9
+Title: How seniors can access 4 key vaccines this fall — for COVID, flu, pneumonia, and RSV
+Publisher: CBC News
+Posted: 7 days ago
+Here's a brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Updated COVID vaccines are being rolled out in the fall, which may impact hospitalization rates.
+The new RSV vaccine is not expected to be co-administered with other shots, and its impact on hospitalization rates is unclear.
+Hospitalization rates for COVID-19 have been higher among adults aged 65 and up, accounting for approximately 63% of all COVID-related hospitalizations in the US in 2023.
+The case fatality rate of pneumococcal pneumonia is typically up to 7%, with even higher rates among the elderly.

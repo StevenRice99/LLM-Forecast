@@ -1,0 +1,55 @@
+Below are 6 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 6
+Title: N.B. adds 10 deaths to COVID-19 toll, none from past week
+Publisher: CBC.ca
+Posted: 4 days ago
+Hospitalizations remained stable in New Brunswick between Feb. 5 and 11.
+There were 10 new admissions to hospital due to COVID-19, with 3 in intensive care.
+The total number of hospitalized patients increased by 32% to 66 (Horizon: 47, Vitalité: 19).
+Age distribution of newly admitted patients: <20 (1), 20-59 (1), 60s (3), 70+ (5).
+Positivity rate remained relatively stable at nearly 17%.
+XBB.1.5 subvariant cases more than doubled to 46.
+Vaccine uptake dropped by 11% with 892 doses administered.
+
+Article 2 of 6
+Title: Paxlovid Reduced Hospitalizations, Deaths During Omicron
+Publisher: Medscape
+Posted: 4 days ago
+The study found that nirmatrelvir–ritonavir (Paxlovid) reduced the risk of hospital admission or death among patients with COVID-19 by 44% (weighted OR: 0.56).
+The number needed to treat (NNT) was 62, meaning that for every 62 people treated with Paxlovid, one case of severe COVID-19 was prevented.
+The effectiveness of Paxlovid may change over time due to differences in patient populations, underlying immunity, and circulating variants.
+Older age remains the single most important risk factor for severe COVID-19, followed by obesity, underlying conditions, and time since vaccination.
+
+Article 3 of 6
+Title: Paxlovid medication lowers risk of COVID-19 death, hospitalization: study
+Publisher: CTV News
+Posted: 5 days ago
+Relevant.
+The study found that Paxlovid (nirmatrelvir–ritonavir) reduces the risk of COVID-19-related hospitalization and death among those likely to experience severe illness, particularly older adults ( 70 years) and those with chronic medical conditions or undervaccinated. The medication prevented 1 case of severe COVID-19 for every 62 people treated.
+
+Article 4 of 6
+Title: Paxlovid still offers high-risk COVID-19 patients protection against hospital admissions, study says
+Publisher: The Globe and Mail
+Posted: 5 days ago
+The study used Ontario health data to compare patients who received Paxlovid with those who did not.
+2.1% of patients who got Paxlovid ended up in the hospital or died, compared to 3.7% of those who did not get it.
+The number needed to treat (NNT) is 62, meaning 62 patients would need to be treated with Paxlovid to prevent one hospitalization or death.
+Paxlovid is most effective at preventing severe outcomes in people at the highest risk, such as those 70 and older or with underlying medical conditions.
+
+Article 5 of 6
+Title: Paxlovid slashed severe outcomes for at-risk patients after Omicron surge, study finds - National
+Publisher: Global News
+Posted: 5 days ago
+The study looked at data from 8,876 patients who took Paxlovid and compared their outcomes to 168,669 Ontarians who did not receive the drug.
+Patients over age 70, with comorbidities or under-vaccinated, had significantly reduced odds of hospital admission and death from COVID-19 after receiving Paxlovid.
+For every 62 people treated with nirmatrelvir–ritonavir (Paxlovid), the medication prevented one case of severe COVID-19.
+
+Article 6 of 6
+Title: COVID drug shows promise in new study — but will patients ever get access?
+Publisher: CBC News
+Posted: 7 days ago
+A study from McMaster University in Hamilton and the University Health Network (UHN) in Toronto found that a single dose of pegylated interferon lambda reduced the risk of hospitalization by:
+50% in vaccinated individuals
+90% in unvaccinated individuals
+These results are relevant for forecasting COVID-19 hospitalizations in Ontario, Canada.

@@ -1,0 +1,22 @@
+Below are 2 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 2
+Title: Pfizer boost coming to Manitoba, more than 35K daily doses expected to be delivered
+Publisher: CBC.ca
+Posted: 3 days ago
+Manitoba's vaccination rate is high (73.6% first dose, 42.4% second dose among those 12+).
+Breakthrough infections are rare (1.2% of hospitalized cases were fully vaccinated).
+The province aims to reach 75% first dose and 50% second dose by Aug 2.
+Current trends suggest this goal will be met in early-mid July, which could impact hospitalization rates.
+Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: vaccination rate, breakthrough infection rates, and potential changes to public health measures.
+
+Article 2 of 2
+Title: Why reports of COVID-19 infections after 2 vaccine doses aren't cause for alarm
+Publisher: CBC.ca
+Posted: 5 days ago
+Key values:
+Breakthrough infections (0.5% of reported cases) are rare.
+Most breakthrough infections are mild.
+Few Canadians die from COVID-19 post-vaccination (0.0027% while partially vaccinated and 0.0028% while fully vaccinated).
+Vaccines protect against hospitalization and death, but not 100%.
+Simplifying messaging about vaccine effectiveness and breakthrough infections is crucial for promoting vaccination efforts in vulnerable communities.

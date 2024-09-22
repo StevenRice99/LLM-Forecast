@@ -1,0 +1,26 @@
+Below are 2 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 2
+Title: Clinical risk, sociodemographic factors, and SARS-CoV-2 infection over time in Ontario, Canada
+Publisher: Nature.com
+Posted: 1 day ago
+Key values:
+Age: Individuals aged 18 years and older
+Sex: Both males and females
+Community-dwelling characteristics: Rural vs. urban residence, geographic location, and size
+Clinical comorbidities: History of coronary artery disease, heart failure, stroke, liver disease, chronic lung disease, organ transplantation, atrial fibrillation, chronic kidney disease, malignant cancer, hypertension, diabetes, HIV, and frailty
+Testing date: Calendar weeks
+Regional rates: Racial/ethnic diversity, smoking, obesity, and median neighborhood income quintile
+
+Article 2 of 2
+Title: Young Men's Myocarditis Risk 5 Times Higher With Moderna vs Pfizer Vax
+Publisher: Medpage Today
+Posted: 1 day ago
+A total of 297 reports of myocarditis or pericarditis were found among 19.7 million mRNA doses administered in Ontario, Canada from December 2020 to September 2021.
+Age: Average age was 24 years.
+Sex: 76.8% were males.
+Timing: Over two-thirds (69.7%) of cases overall followed the second dose of the two-dose mRNA vaccine series.
+Rates:
++ Moderna's vaccine in men ages 18-24: 299.5 cases per million second doses
++ Pfizer's vaccine in men ages 18-24: 59.2 cases per million second doses
++ Longer spacing between doses (8 weeks or more) lowered the risk, but it was still markedly higher with Moderna's product.

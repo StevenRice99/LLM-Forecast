@@ -1,0 +1,85 @@
+Below are 6 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 6
+Title: Why these two East Vancouver residents are distributing thousands of N95 masks for free
+Publisher: CBC.ca
+Posted: Today
+Key values:
+Cases are still going up in B.C.
+No widespread public health measures are currently in force regarding COVID-19
+Officials say mask-wearing is a personal choice under provincial guidelines
+There is increasing pressure on the healthcare system due to signs of a seventh wave.
+
+Article 2 of 6
+Title: Ottawa's coronavirus wastewater nears record levels
+Publisher: CBC.ca
+Posted: 3 days ago
+BA.5 coronavirus subvariant is highly transmissible and causing increased transmission in Ottawa.
+Wastewater levels of coronavirus are rising to near-record levels, with a projected median viral signal that could reach levels recorded in April 2022.
+Current hospitalization rates are not reflecting the increased transmission, but disruptions in other sectors (e.g. flight crews) are expected due to worker infections.
+Lower-than-desired uptake of third doses among younger adults is identified as a weak link in the chain, with over 250,000 people in Ottawa having only two doses.
+Experts recommend masking up indoors, especially near caregivers or immunocompromised individuals.
+
+Article 3 of 6
+Title: Fret vs. no sweat? Generational divide drives concern over next COVID-19 wave and preventing infection spread -
+Publisher: Angus Reid Institute
+Posted: 4 days ago
+The article discusses the results of a survey conducted by the Angus Reid Institute in July 2022 among 1,602 Canadian adults. The survey aimed to gauge Canadians' perceptions and behaviors regarding COVID-19 as the country approaches a potential seventh wave of the virus.
+Key Findings: 
+1. Fear of severe outcomes: One-in-five (19%) Atlantic Canadians fear that this wave will result in more severe outcomes or deaths, the highest proportion in the country.
+2. Belief that worst is over: Half (49%) of Canadians believe we've seen the worst COVID-19 can bring to us, while one-third (35%) disagree.
+3. Canceling plans: Nearly half (46%) of Canadians have decided to cancel an outing or a trip due to concerns about catching or spreading COVID-19.
+4. Behavioral changes: Most Canadians say they would change their behavior if public health officials declare a seventh wave, with 56% saying they would avoid crowded spaces and 52% saying they would wear a mask more.
+Demographic Variations: 
+1. Women over 54: Women over the age of 54 have been most likely to alter their plans in the face of the virus (57%).
+2. Albertans and Saskatchewanians: Those in Alberta (36%) and Saskatchewan (33%) are the least likely to say they have altered plans to lower their risk of catching COVID-19.
+3. Age and gender: Younger men (46%) are more likely than any other demographic to take no precautions if a seventh wave is declared.
+Conclusion: 
+The survey suggests that Canadians are still concerned about COVID-19, particularly in Atlantic Canada where one-in-five fear severe outcomes or deaths. While many believe the worst of the pandemic is over, others are taking precautions and altering their plans to minimize their risk of catching or spreading the virus. The results also highlight demographic variations in behavior and attitudes towards COVID-19.
+
+Article 4 of 6
+Title: Quebec avoids new COVID mandates ahead of fall election as hospitals fill up
+Publisher: The Fiji Times
+Posted: 4 days ago
+Quebec is experiencing a 7th wave of COVID-19 cases with over 1,887 people hospitalized.
+Staffing shortages due to the virus have led to scaling back summer service in six emergency rooms.
+The province's health minister and public health officials are urging caution but say cases are under control.
+An epidemiologist suggests that a mask mandate may be needed if this wave worsens.
+
+Article 5 of 6
+Title: You'll likely catch COVID-19 again and again. Will each round feel milder?
+Publisher: CBC News
+Posted: 6 days ago
+The article discusses how repeated exposure to SARS-CoV-2, the virus that causes COVID-19, can lead to a more robust immune response in some individuals, making subsequent infections milder. However, experts caution that not every reinfection will be benign, and certain groups such as older adults or those with compromised immune systems may still experience severe outcomes.
+The article highlights two ways to train the immune system to fight off SARS-CoV-2 faster and smarter: direct exposure to the virus (which comes with health risks) and vaccination. If vaccinated and exposed to COVID-19, the immune system can rapidly control the infection by activating memory T-cells that recognize the virus.
+The article also mentions a study on U.S. veterans who found that reinfections in this group appeared to come with a higher risk of death or hospitalization. However, experts caution against reading too much into these early findings, which may not apply to the general population.
+Experts emphasize that while repeat infections should feel milder for most healthy individuals, it's essential to consider shifting risk factors for severe disease, such as weight gain, diabetes, or immunosuppression. In vulnerable populations like the elderly or those with compromised immune systems, medical professionals expect to see a range of poorer outcomes tied to severe reinfections.
+Key points:
+Repeated exposure to SARS-CoV-2 can lead to a more robust immune response in some individuals.
+Vaccination is an effective way to train the immune system without facing health risks associated with direct exposure.
+Not every reinfection will be benign, and certain groups may still experience severe outcomes.
+Shifting risk factors for severe disease should be considered, such as weight gain, diabetes, or immunosuppression.
+Vulnerable populations like the elderly or those with compromised immune systems are at higher risk of severe outcomes from repeat infections.
+
+Article 6 of 6
+Title: What a 4th COVID shot can do for you — and what it can't
+Publisher: CBC News
+Posted: 7 days ago
+The article discusses the importance of COVID-19 shots, specifically the third and fourth doses, as experts weigh in on who should get them and why. Here are the key points:
+Third dose: 
+Many experts stress the need for people to get a third shot, especially those who have not been infected with COVID-19 or have not received a booster.
+The third dose provides significant protection against severe disease and infection with Omicron BA.1.
+Experts worry that if people wait too long to get their third dose, they may become complacent and not prioritize getting vaccinated.
+Fourth dose: 
+Some experts suggest that a fourth dose of the original vaccine strain may be beneficial for certain groups, such as older adults or those with compromised immune systems.
+However, others argue that expanding fourth doses to younger Canadians could actually do more harm than good by discouraging people from getting their third dose.
+The marginal benefits of a fourth dose are small at an individual level, but may have a greater impact on slowing the spread of COVID-19 at a population level.
+Updated vaccines: 
+Updated bivalent vaccines that combine protection against the original strain and Omicron are on the horizon.
+However, experts worry that these vaccines may not provide sufficient cross-protection immunity against newer variants like BA.2.12.1, BA.4, and BA.5.
+Newer vaccine technologies, such as intranasal boosters or pan-coronavirus vaccines, may offer more robust immune responses.
+Expert opinions: 
+Dr. Isaac Bogoch emphasizes the importance of getting a third dose for many people, while also acknowledging that a fourth dose may be beneficial for certain groups.
+Dr. Naylor suggests that expanding fourth doses to younger Canadians could have an impact on slowing the spread of BA.5, but notes that this approach may not be effective in all cases.
+Dr. Chagla warns that Canadians need to start thinking about the protection COVID-19 vaccines offer differently than they did before, as there will be limits to what vaccines can and cannot do.
+Overall, the article highlights the complexities of COVID-19 vaccination strategies and the need for ongoing evaluation and adaptation in response to emerging variants and evolving scientific understanding.

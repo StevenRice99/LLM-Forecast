@@ -1,0 +1,62 @@
+Below are 6 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 6
+Title: 'No doubt' Canada now in 4th wave of COVID-19 as cases spike across much of the country
+Publisher: CBC News
+Posted: 3 days ago
+Key values for forecasting:
+60% of Canadians are fully vaccinated
+Vaccination uptake has changed the game: fewer severe impacts on healthcare system expected
+Unvaccinated individuals account for 90% of cases and 70% less likely to be hospitalized if infected
+Pressure on health-care system still possible with around 40% of population not yet fully vaccinated
+Delta variant is highly contagious, especially among unvaccinated populations
+
+Article 2 of 6
+Title: Potential public exposure to COVID-19 at indoor playground in Sudbury
+Publisher: CTV News Northern Ontario
+Posted: 3 days ago
+The article reports a potential public exposure to COVID-19 at the KUPP Centre on Aug. 6 between 2-4 p.m. in Sudbury.
+Key values: 
+Date of potential exposure (Aug. 6)
+Time frame for self-monitoring and self-isolation (14 days)
+
+Article 3 of 6
+Title: Ontario reporting vaccinated vs. unvaccinated data in daily COVID-19 numbers
+Publisher: CityNews
+Posted: 4 days ago
+Here is a brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+267 new COVID-19 cases are in unvaccinated individuals (80% of total cases in unvaccinated and partially vaccinated people)
+54 infections were in people partially vaccinated
+78 in those fully vaccinated
+Hospitalization data is being collected through two sources with different extraction times, which may affect reporting accuracy
+Breakthrough infections in fully vaccinated people tend to be milder (according to Dr. Kieran Moore)
+
+Article 4 of 6
+Title: Ontario now providing vaccination status for new COVID cases
+Publisher: NewmarketToday.ca
+Posted: 4 days ago
+267 new cases are unvaccinated
+28 hospitalized (non-ICU) cases and 9 ICU cases are unvaccinated
+71% of the population has at least one dose of a COVID vaccine and 63.1% have two doses
+Breakthrough cases account for about 0.5% of total cases
+
+Article 5 of 6
+Title: B.C. records 1,079 new cases of COVID-19 and 5 more deaths over the weekend
+Publisher: CBC.ca
+Posted: 5 days ago
+Total active cases: Not provided (B.C. specific)
+Hospitalizations:
++ Current total: 68 people in hospital
++ Increase from last Tuesday: 28% (up to 53 people)
++ Increase from two weeks ago: 58%
++ ICU admissions: 20 people, up from 19 last week
+Vaccination rates: Not directly relevant for forecasting hospitalizations in Ontario, Canada.
+
+Article 6 of 6
+Title: Ontario reports more than 400 COVID-19 cases for first time since June
+Publisher: Inkl
+Posted: 6 days ago
+Relevant.
+New daily COVID-19 cases: 423
+Seven-day rolling average: 261 cases (increased from 196)
+Deaths: 6.

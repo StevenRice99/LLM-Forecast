@@ -1,0 +1,80 @@
+Below are 7 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 7
+Title: After 3 years of COVID-19, here’s how Canada’s ‘endemic’ future may look - National
+Publisher: Global News
+Posted: Today
+COVID-19 hospitalizations have been relatively stable over the past 6-8 months despite the ongoing spread of Omicron subvariants.
+Experts expect a steady state of COVID-19 activity in Canada with no distinct variant-driven waves.
+The population has immunity to COVID-19, and death rates are lower since the beginning of the pandemic.
+Future challenges may arise for older and immune-compromised Canadians, but the impact may not be as profound as it was in 2020 or 2021.
+
+Article 2 of 7
+Title: Three years later: What has COVID-19 taught us and are we ready for the next big threat?
+Publisher: CBC.ca
+Posted: Today
+This article discusses the lessons learned from the COVID-19 pandemic in Alberta, Canada, and how they can be applied to future public health crises. The author interviews various experts, including Dr. Tim Caulfield, a professor of bioethics at the University of Alberta, and Dr. Deena Hinshaw, the province's former chief medical officer of health.
+The article highlights several key takeaways from the pandemic:
+1. Science evolves: The pandemic showed that scientific knowledge can change rapidly, and public health officials must be prepared to adapt their recommendations accordingly.
+2. Trust is a two-way street: The government and public health officials must communicate clearly and transparently with the public, while also acknowledging and addressing concerns and mistrust.
+3. Socio-economic divisions were amplified: The pandemic highlighted existing socio-economic divisions in society, with more advantaged people being more willing to trust Canadian institutions.
+4. Vaccine uptake was high: Despite some resistance, a significant majority of Albertans (78%) received their initial COVID-19 shots.
+The article also discusses the challenges that may arise if another pandemic occurs:
+1. Distrust and polarization: The experience of the past three years has created distrust among some segments of society, which could make it more difficult to implement public health measures in the future.
+2. Lessons not learned: Some experts worry that the lessons from the pandemic will not be applied, leading to a repeat of mistakes made during COVID-19.
+The article concludes by highlighting the importance of learning from past experiences and being prepared for future public health crises:
+1. Hope for change: Despite the challenges, there is hope for positive change, as people have learned how to negotiate with each other and extend their relationships.
+2. Preparedness is key: The next time a pandemic occurs, it's essential to be better prepared, with clear communication, trust-building, and proactive measures in place.
+Overall, the article provides a nuanced and thought-provoking analysis of the COVID-19 pandemic in Alberta, highlighting both the successes and challenges that arose during this period.
+
+Article 3 of 7
+Title: How effective are monovalent mRNA COVID-19 vaccine booster doses against Omicron-associated severe outcomes among adults?
+Publisher: News-Medical.Net
+Posted: 1 day ago
+Booster doses of monovalent mRNA vaccines were effective in preventing hospitalization and death due to COVID-19 among adults above 50.
+Vaccine effectiveness was between 91% and 98% after the third dose, but waned to between 76% and 87% after 240 days or more.
+A fourth booster dose restored vaccine effectiveness levels for two months following the fourth dose.
+The rate of waning immunity beyond four months remains unclear.
+Vaccine-induced immunity was seen to wane faster against infections with the BA.4/BA.5 Omicron subvariants.
+
+Article 4 of 7
+Title: COVID-19 'steady' in Canada and hospitalizations have stabilized, Tam says
+Publisher: CP24
+Posted: 1 day ago
+Relevant.
+Population immunity in Canada is high due to high vaccine uptake and natural infection.
+Hospitalizations, ICU admissions, and deaths have stabilized.
+Omicron subvariants continue to spread but are not causing new waves of infection.
+Older or immunocompromised individuals remain disproportionately affected.
+
+Article 5 of 7
+Title: COVID numbers remain stable in Ottawa
+Publisher: CBC.ca
+Posted: 3 days ago
+Key values:
+Number of patients with COVID-19 in local hospitals (18)
+COVID risk level in Ottawa (moderate to very high)
+COVID test positivity rate in Ottawa (11-12%)
+Number of active COVID outbreaks in Ottawa (21)
+Number of COVID hospitalizations outside Ottawa (25)
+
+Article 6 of 7
+Title: Effectiveness of mRNA COVID-19 vaccine booster doses against Omicron severe outcomes
+Publisher: Nature.com
+Posted: 4 days ago
+Booster doses of monovalent mRNA COVID-19 vaccines provide strong protection (85-87%) against severe outcomes among adults aged 50-69 years even 8 months after vaccination.
+Fourth doses restore waning protection and provide strong protection (86-89%) 4 months after vaccination for all age groups.
+Protection wanes over time, with VE declining faster during the BA.4/BA.5-predominant period compared to the BA.1/BA.2-predominant period.
+Immune evasion by BA.4/BA.5 sublineages is likely a major contributor to differences in vaccine effectiveness (VE) between the two periods.
+VE against hospitalizations was lower during the BA.4/BA.5-predominant period compared to the BA.1/BA.2-predominant period, especially with increasing time since vaccination.
+
+Article 7 of 7
+Title: Don't let public health fall victim to boom and bust cycles: Ontario's top doctor
+Publisher: CP24
+Posted: 4 days ago
+Key values:
+Hospitalization data is not automatically reported and requires manual processes
+Delayed or missing test results due to hand-completed requisitions
+Prioritizing strengthening testing, surveillance, and data systems
+Needing electronic data from laboratory testing to feed into case and contact management system for all major pathogens
+Importance of health equity in identifying and addressing disparities in COVID-19 cases and deaths.

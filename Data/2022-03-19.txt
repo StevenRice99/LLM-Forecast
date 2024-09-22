@@ -1,0 +1,89 @@
+Below are 8 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 8
+Title: COVID-19 hasn't gone anywhere in Canada — and we could still see another surge
+Publisher: CBC.ca
+Posted: Today
+Here's a brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Current daily case counts are levelling off nationally, but still high (15,000 to 20,000 estimated infections).
+Wastewater surveillance shows increasing concentrations of SARS-CoV-2 in Ontario and other provinces.
+BA.2 subvariant is expected to become the dominant strain in Canada, spreading 30% more easily than BA.1.
+Hospital occupancy is expected to rise, but not to crushing levels seen earlier in the pandemic.
+Communities with lower vaccination rates, crowded housing, or multi-generational homes are at higher risk of household transmission and dire outcomes.
+
+Article 2 of 8
+Title: Globe editorial: We can’t make COVID disappear. But we can make the pandemic history
+Publisher: The Globe and Mail
+Posted: 1 day ago
+The article mentions that Ontario's science table has issued its latest modelling, which suggests hospitalizations could climb but remain far below the peak of the Omicron wave.
+The forecast also notes that spring and summer will help keep infections and transmission down.
+However, it is expected that the novel coronavirus may return with a sequel in the fall or sooner, including new variants with new twists.
+The article highlights the importance of vaccination in preventing hospitalizations, particularly among vulnerable populations such as older Canadians.
+It also notes that there are gaps in vaccination rates, with 2.4 million adults unvaccinated and many others who have not received boosters.
+Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Vaccination rate (9 out of 10 adults have at least two shots)
+Age-specific vaccination rates (e.g., 97% of Canadians 80 years and older have two shots)
+Booster campaign needs (e.g., nearly a million Canadians in their 60s never got a booster)
+
+Article 3 of 8
+Title: The Advisory Committee on Immunization Practices’ Recommendation for Use of Moderna COVID-19 Vaccine in Adults Aged 18 Years and Considerations for Extended Intervals for Administration of Primary Se
+Publisher: CDC
+Posted: 1 day ago
+The article reports on the efficacy and safety of the Moderna COVID-19 vaccine. Key findings relevant for forecasting COVID-19 hospitalizations in Ontario, Canada include:
+Efficacy against symptomatic, laboratory-confirmed COVID-19: 92.7%
+Efficacy against COVID-19-associated hospitalization: 95.9% (based on a Phase III clinical trial)
+Vaccine effectiveness estimates from observational studies:
++ Prevention of COVID-19-associated hospitalization: moderate certainty
++ Prevention of COVID-19-associated death: moderate certainty
+These findings suggest that the Moderna COVID-19 vaccine is effective in preventing severe outcomes, including hospitalizations and deaths, which can inform forecasting models for COVID-19 hospitalizations.
+
+Article 4 of 8
+Title: Most unvaccinated city workers can return to jobs in April
+Publisher: CBC.ca
+Posted: 1 day ago
+Declining hospitalizations in Ontario (mentioned as a reason for easing masking restrictions)
+Stable COVID-19 test positivity rate in Ontario
+Easing of public health restrictions in Ontario
+No specific data on hospitalization trends or numbers provided.
+
+Article 5 of 8
+Title: Canada Eases Covid Test Rule For Vaccinated Travelers
+Publisher: The New York Times
+Posted: 2 days ago
+Relevant.
+Decreasing hospitalizations in Canada are mentioned as one factor contributing to adjustments in border measures. This is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada.
+
+Article 6 of 8
+Title: Ontario lifts vaccine mandates in schools, hospitals and long-term care homes
+Publisher: CBC.ca
+Posted: 5 days ago
+228 people are currently in intensive care with COVID-19.
+The number of patients in ICU remains unchanged from Sunday.
+No new deaths were reported on Monday, but the total death toll stands at 12,256.
+1,116 new COVID-19 cases have been logged, and the actual number is likely ten times higher due to limited PCR testing.
+
+Article 7 of 8
+Title: New Brunswick lifts all COVID-19 restrictions for 2nd time, hopes for different outcome
+Publisher: CBC.ca
+Posted: 5 days ago
+The article discusses the current state of COVID-19 restrictions in New Brunswick, Canada. While mandatory restrictions have been lifted, certain groups are still advised to take additional preventive measures due to their increased risk of severe illness from COVID-19.
+These groups include:
+People 50 or older
+Those who are immunocompromised
+Individuals with chronic conditions
+Those who are not fully vaccinated and boosted, if eligible
+To minimize the risk of transmission, these individuals are advised to avoid crowded indoor spaces, limit close contact with anyone showing cold-like symptoms, continue to use masks, distance themselves from others, and practice frequent handwashing.
+The article also notes that hospitals in New Brunswick remain at a red alert level, which means masks are still required and general visitors are prohibited. Long-term care facilities will continue to follow Public Health guidance, including masking and isolating those who are ill.
+It's worth noting that the province lifted all restrictions last summer, on July 30, but reinstated them in September due to a surge in cases and hospitalizations. The decision to lift restrictions was made despite warnings from health officials about the potential spread of the Delta variant.
+The article quotes Dr. Gordon Dow, an infectious disease expert with Horizon Health Network, who acknowledged that lifting all COVID-19 restrictions at the end of July was a mistake due to the underestimated potential spread of the Delta variant.
+Overall, while mandatory restrictions have been lifted in New Brunswick, certain groups are still advised to take additional precautions to minimize their risk of severe illness from COVID-19.
+
+Article 8 of 8
+Title: Ontario reports 20 more COVID-19 deaths, 722 people in hospital
+Publisher: CP24
+Posted: 7 days ago
+Relevant.
+722 people hospitalized with COVID-19.
+47% admitted for COVID-19, 53% admitted for other reasons but tested positive.
+232 ICU patients, 77% admitted for COVID-19, 23% admitted for other reasons.
+12.1% positivity rate from 13,000 tests.

@@ -1,0 +1,92 @@
+Below are 8 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 8
+Title: Omicron rapidly shifts the need for boosters in Canada
+Publisher: CBC News
+Posted: Today
+Here are some key points from the article:
+Early Findings on Pfizer Vaccine and Omicron Variant 
+Pfizer's early findings show that three doses of their COVID-19 vaccine neutralize the omicron variant in lab settings.
+Two doses of the vaccine still offer strong protection against severe COVID-19, which is good news for highly vaccinated countries like Canada.
+Neutralizing Antibodies 
+The level of neutralizing antibodies (which prevent the virus from entering cells) decreased by 40-fold after two doses of the vaccine.
+A third dose increased neutralizing antibodies by a factor of 25.
+Recommendations and Concerns 
+Experts recommend that all Canadians over 50 get a booster, while those aged 18-49 can be offered one six months out from their second shot.
+Some provinces have expanded the rollout of boosters to more age groups, but only a handful have gone below the age of 50.
+Canada needs to "rapidly pivot" and expand boosters to all Canadians over 18 who are six months out from their second dose to blunt the size of another wave.
+Omicron-Driven Surge 
+Experts warn that an omicron-driven surge is likely, which could lead to a rise in cases and hospitalizations.
+Boosters alone won't spare Canada from the threat of omicron, even if they will likely have some added benefit to stopping spread.
+First and second doses are still the most effective way to change the trajectory of the pandemic.
+Key Takeaways 
+Two doses of the vaccine still offer strong protection against severe COVID-19.
+A third dose can provide additional protection against omicron, but it's not a guarantee against infection or hospitalization.
+Canada needs to expand boosters to all Canadians over 18 who are six months out from their second dose to blunt the size of another wave.
+
+Article 2 of 8
+Title: 43 per cent of Ottawa children aged 5 to 11 receive first dose of COVID-19 vaccine in two weeks
+Publisher: CTV News Ottawa
+Posted: Today
+The article reports on COVID-19 vaccination rates among children (5-11 years old) and the general population in Ottawa, Ontario. Key values for forecasting COVID-19 hospitalizations include:
+43% of 5-11 year olds have received their first dose
+82% of Ottawa residents aged 5 and older are fully vaccinated with two doses
+Vaccination rates by age group (e.g., 97% of 12-17 year olds, 99% of 70-79 year olds)
+Population estimates for different age groups in Ottawa (e.g., 42,388 people aged 80 and older)
+
+Article 3 of 8
+Title: Ontario sees 1,290 new COVID-19 cases as science table recommends weekly rapid tests in schools
+Publisher: CBC.ca
+Posted: 2 days ago
+Key values:
+309 people hospitalized with COVID-19 (as of Wednesday)
+155 ICU patients
+Forecasted ICU patients: 250-400 by January (science advisory table)
+Hospital capacity: can safely admit about 300 COVID patients to ICUs without postponing other urgent care.
+
+Article 4 of 8
+Title: Premier Moe defends call he made to leader of group opposing COVID-19 health measures
+Publisher: CBC.ca
+Posted: 3 days ago
+Summary: The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Key values include:
+Unvaccinated individuals are at higher risk of hospitalization (mentioned as a reason for Premier Moe to engage with unvaccinated groups)
+Public health measures can impact COVID-19 infection rates and hospitalizations (Saskatchewan's removal of measures led to increased infections and hospitalizations)
+Hospital capacity can be overwhelmed by COVID-19 cases, leading to transfers to other provinces (Saskatchewan had to transfer ICU patients to Ontario)
+
+Article 5 of 8
+Title: Health System News A Shortcut to Immunity: St. Joe’s Clinic Saving Lives through Early-Stage COVID-19 Treatment
+Publisher: Ontario Hospital Association
+Posted: 4 days ago
+Relevant.
+The article discusses a pilot program at St. Joseph's Healthcare Hamilton offering monoclonal antibody (MAB) therapy to patients with early-stage COVID-19. Key values for forecasting COVID-19 hospitalizations in Ontario, Canada include:
+Initial studies show a 71% reduction in hospitalizations and a 70% reduction in death from MAB therapy.
+The therapy is most effective for unvaccinated or immune-compromised individuals who are vulnerable to serious complications.
+Availability of MAB therapy could help reduce the burden on hospitals, allowing resources to be directed towards other patients.
+
+Article 6 of 8
+Title: Four new COVID-related deaths, hospitalizations increase in Windsor-Essex
+Publisher: CTV News Windsor
+Posted: 4 days ago
+23 people with COVID are currently hospitalized at Windsor Regional Hospital.
+11 unvaccinated and 3 partially vaccinated patients are among the 23 hospitalized cases.
+The number of COVID-positive cases in hospital is the highest in over six months.
+There are 4 fully/partially vaccinated and 8 unvaccinated COVID patients at Leamington hospital.
+
+Article 7 of 8
+Title: Merck's antiviral COVID-19 pill to be made in Canada
+Publisher: CityNews Toronto
+Posted: 5 days ago
+Relevant.
+Summary: 
+- 500,000 patient courses of molnupiravir secured by Canada through a supply agreement with Merck.
+- Treatment is for mild to moderate COVID-19 illness in adults at risk of severe illness, including hospitalization and death.
+- Manufacturing facility located in Whitby, Ontario.
+
+Article 8 of 8
+Title: On COVID restrictions, our governments keep firing up the gaslights and shifting the goalposts
+Publisher: CBC News
+Posted: 7 days ago
+The article mentions that new case numbers in Ontario are split evenly between unvaccinated and fully vaccinated individuals.
+It also discusses the rollout of booster shots and potential changes to vaccination targets.
+However, it does not provide specific data or information on current hospitalization rates or trends.
+The article's focus is more on the policy and public health response to COVID-19 in Ontario, rather than providing quantitative data for forecasting purposes.

@@ -1,0 +1,106 @@
+Below are 9 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 9
+Title: PSW death sheds light on risk facing health-care workers, home care patients
+Publisher: CTV News
+Posted: Today
+Relevant article for forecasting COVID-19 hospitalizations in Ontario, Canada.
+Key values:
+Number of home care patients: around 1 million Canadians
+Lack of PPE among home care workers: many workers lack proper protective equipment
+Risk of transmission: a single worker could visit multiple clients in different homes
+Number of health-care workers diagnosed with COVID-19: over 2,500
+Number of health-care worker deaths from COVID-19: four (including three PSWs and one hospital sanitation worker)
+
+Article 2 of 9
+Title: Got a COVID-related ticket? Here's why some lawyers say you might want to fight it
+Publisher: CBC.ca
+Posted: Today
+Relevant.
+Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: 
+Number of lockdown-related tickets issued (3,030 in Quebec, 910 in Ontario)
+Fines issued ($1,546 in Quebec, $880 in Ontario) 
+Proportion of people who have been ticketed and may challenge the fine in court.
+
+Article 3 of 9
+Title: Canada's first disinfection robot being tested
+Publisher: CTV News
+Posted: 2 days ago
+The article mentions that researchers are testing a disinfection robot using UV-C light to kill coronaviruses like COVID-19.
+The robot is being tested in hospitals, including McGill's Centre for Innovative Medicine and the Centre hospitalier de l'Universite de Montreal.
+The article highlights the potential benefits of the robot in reducing health care-associated infections, which could be relevant for forecasting COVID-19 hospitalizations in Ontario, Canada.
+
+Article 4 of 9
+Title: 'It'd be a disaster': Ford warns against reopening economy too soon as new COVID-19 cases trend down
+Publisher: CBC.ca
+Posted: 3 days ago
+New cases: 347 (downward trend)
+Hospitalized patients: 977 (increased by 20 from previous day)
+ICU patients: 235 (decreased from previous day)
+Ventilator patients: 186 (stable for several weeks)
+Testing backlog: 9,530
+COVID-19-linked deaths: 45 more, bringing total to 996 (data compiled from regional public health units suggests actual figure is at least 1,066)
+
+Article 5 of 9
+Title: What happens if I catch coronavirus? How COVID-19 typically progresses
+Publisher: CTV News
+Posted: 3 days ago
+Median incubation period: 5.1 days
+Symptoms often show up within 5 days (fever, fatigue, dry cough)
+Shortness of breath typically appears 5 days after first symptoms
+Hospitalization occurs 2 days after shortness of breath (median value)
+Long-lasting symptoms and slow recovery are common (up to 40+ days)
+
+Article 6 of 9
+Title: Abbott MediaRoom
+Publisher: Press Releases
+Posted: 5 days ago
+15% of Canadians diagnosed with COVID-19 are hospitalized (Health Canada).
+The article mentions the use of FreeStyle Libre system in hospitals to remotely monitor patients' glucose status, which may be relevant for forecasting COVID-19 hospitalizations.
+However, there is no direct information on COVID-19 hospitalization rates or trends that can be used for forecasting.
+
+Article 7 of 9
+Title: Ontario education minister says publicly-funded schools closed until at least May 31
+Publisher: CBC.ca
+Posted: 5 days ago
+437 new cases of COVID-19 reported on Sunday.
+Total number of cases: 14,432 (3.1% increase from Saturday).
+Hospitalizations rose to 938 from 925 on Saturday.
+Number of patients in intensive care units: 252 (slightly increased).
+Number of patients on ventilators: 195 (remained the same).
+147 long-term care homes have COVID-19 outbreaks, with a total of 654 deaths and 2,520 residents/staff members testing positive.
+
+Article 8 of 9
+Title: Ontario announces $4 an hour pandemic pay increase for front-line workers
+Publisher: CBC.ca
+Posted: 7 days ago
+Here are the key points from the article:
+COVID-19 Updates 
+The province has reported 811 deaths from COVID-19, with 476 new cases bringing the total to 13,995.
+Hospitalizations rose to 925, with 245 patients in intensive care and 195 on ventilators.
+The growth rate of cases is reducing, with a positivity rate of 5% today.
+Emergency Orders 
+The province has issued emergency orders to provide staffing flexibility for employers in the intervenor sector (people who are deafblind).
+Employers will have temporary authority to carry out tasks needed to support people who are deafblind while ensuring physical distancing measures are in place.
+The orders also allow for more boots on the ground in long-term care homes.
+Military Support 
+Military members are being sent to five of the hardest-hit long-term care homes, including Orchard Villa in Pickering, Ont.
+The first Canadian military members arrived at Orchard Villa on Friday afternoon.
+Community Gardens Reopen 
+Community gardens can reopen under an amended emergency order that allows them to operate as an "essential source of fresh food" for people facing food insecurity.
+Gardens must follow recommendations and instructions from local medical officers of health, including physical distancing and regular disinfecting.
+Provincial Parks Closure Extended 
+The closure of Ontario's provincial parks and conservation reserves has been extended until May 31.
+No car camping or backcountry camping will be allowed, and public buildings will remain closed.
+Economic Reopening Framework 
+A framework for reopening the economy is expected to be released early next week.
+The plan will provide a gradual and measured approach for opening up, with health and safety as the top priority.
+
+Article 9 of 9
+Title: 'Bunch of yahoos': Ontario premier slams anti-lockdown protesters at Queen's Park
+Publisher: CBC.ca
+Posted: 7 days ago
+245 people are currently in intensive care units (ICUs) due to COVID-19.
+The total number of cases in Ontario is 13,995, with a 3.5% increase over the previous day.
+There have been 811 reported deaths from COVID-19 in Ontario, and 901 reported deaths according to CBC News tracking numbers.
+These values are most important for forecasting COVID-19 hospitalizations in Ontario, Canada.

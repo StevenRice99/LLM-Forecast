@@ -1,0 +1,87 @@
+Below are 8 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 8
+Title: Here's what you need to know about the new COVID vaccines
+Publisher: CTV News
+Posted: 1 day ago
+Relevant.
+New COVID-19 vaccines targeting XBB.1.5 Omicron and its sub-lineages (EG.5.1 and FL.1.5.1) are being reviewed by Health Canada.
+These new vaccines aim to provide better protection against the most recent virus variants causing hospitalizations across Canada.
+The approval process is ongoing, but if approved, the National Advisory Committee on Immunization recommends a dose of the new vaccine beginning this fall for authorized age groups at least six months after their most recent COVID-19 vaccine or known SARS-CoV-2 infection.
+
+Article 2 of 8
+Title: COVID-19 cases in London, Ont., may soon rise but symptoms might be less intense, experts say
+Publisher: CBC.ca
+Posted: 1 day ago
+The Middlesex-London Health Unit expects a decrease in severity of symptoms and number of cases this year due to high vaccine uptake.
+Wastewater data suggests an increase in positive samples, but at half the level compared to previous waves.
+Hospital visits for COVID-19 have not increased significantly so far.
+Annual COVID-19 boosters are recommended as the best defense against severe disease.
+High-risk individuals (over 65, immunocompromised, and children under 5) will be prioritized for booster shots in late September to early October.
+
+Article 3 of 8
+Title: Ottawa's COVID trends are rising, some of them quickly
+Publisher: CBC.ca
+Posted: 2 days ago
+Key values:
+Average number of Ottawa residents in local hospitals for COVID-19: 34 (with 1 patient in ICU)
+Hospitalization count is back around the levels seen at the start of 2023
+Test positivity rate is very high (17%)
+Number of active COVID outbreaks is high (18)
+
+Article 4 of 8
+Title: Canada ‘likely at the start’ of new COVID-19 wave. How big will it get? - National
+Publisher: Global News Toronto
+Posted: 3 days ago
+COVID-19 cases are rising in Canada after a period of decline, with 10 regions reporting an increase in activity (Aug. 22 data).
+Hospitalizations due to COVID-19 increased by 19% between April 2022 and March 2023, with over 120,000 hospital stays.
+Most patients were older (median age: 75), and the majority of emergency visits were completed within 25 hours.
+The average length of stay in hospital increased to 20 days from 13 the previous year, and 13% of hospital stays included an ICU admission.
+
+Article 5 of 8
+Title: COVID resurgence sparks concerns as hospitalizations increase across Canada
+Publisher: CTV News
+Posted: 3 days ago
+Key values:
+11% increase in COVID-related hospitalizations in Canada on Aug. 15 compared to the week before
+Median age of patients increased from 63 to 75 years old
+Average length of stay at hospitals increased from 13 to 20 days
+Mortality rate decreased by 1%
+Decrease in emergency visits for COVID-19 (222,000 vs 262,000)
+
+Article 6 of 8
+Title: Wastewater data indicates low-risk of COVID-19 surge this fall, according to Sudbury scientist
+Publisher: CBC.ca
+Posted: 3 days ago
+Key values:
+EG.5 variant has been circulating in Canada since at least May.
+Early evidence suggests EG.5 is no more severe but better able to evade front-line immune defences.
+Public Health Sudbury and Districts (PHSD) plans to prioritize COVID-19 vaccinations for those at highest risk of complications or hospitalizations.
+Ontario Ministry of Health updates vaccine guidance and recommendations based on new scientific information and NACI guidance.
+
+Article 7 of 8
+Title: COVID-19 cases are ticking up in Toronto. Should you rush to get vaccinated?
+Publisher: CBC.ca
+Posted: 4 days ago
+Here is a brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Positive COVID-19 tests and hospitalizations on the rise across Canada, with a small peak in Toronto.
+Research shows that a majority of Canada's population has developed some level of immunity against the virus thanks to high rates of vaccination.
+Health experts warn there is still potential for lasting health impacts from first or repeat infections such as long COVID, and new subvariants could still pose risks.
+The BA.2.86 subvariant has caught attention due to its heavy mutations (over 30).
+Hybrid immunity developed through prior vaccination and infection can reduce chances of developing severe illness, but antibodies can wane over time.
+Booster shots are expected to shore up Canadians' immunity this fall, particularly against major subvariants of the virus (except possibly BA.2.86).
+
+Article 8 of 8
+Title: Big data evidence of the impact of COVID-19 hospitalizations on mortality rates of non-COVID-19 critically ill patients
+Publisher: Nature.com
+Posted: 5 days ago
+This text describes a statistical model used to analyze the impact of COVID-19 on non-COVID-19 ICU patients in Brazil. The model uses high-dimensional panel data estimation methods and controls for various factors that could influence the outcome, such as:
+1. Proportion of ICU patients diagnosed with COVID-19: This is modeled using a cubic polynomial function to capture nonlinear spillover effects.
+2. Sex and age: These are also modeled using cubic polynomials to capture sex-specific and nonlinear age affects.
+3. Hospital size: The total number of ICU patients in each hospital and week is included as a control variable, as heavy hospital loads can increase mortality rates.
+4. Postal code fixed effects: With over 21,000 postal codes available, this allows the model to absorb socioeconomic components of health demand, which are often correlated with COVID-19 outbreaks.
+5. Hospital fixed effects: This controls for unobserved determinants of health outcomes that are specific to each hospital.
+6. Epidemiological week fixed effect: This captures shocks common to all hospitals and patients in the system, such as changes in national public policy or infection waves.
+7. Disease-specific fixed effects: With 1,508 ICD-10 diseases leading to intensive care represented, this allows the model to identify spillover effects isolating demand and supply factors associated with each disease.
+The estimation method used is Sergio Correia's feasible estimator for high-dimensional fixed effects, which has advantages in processing times compared to alternative approaches. The model also accounts for correlation between observations at the hospital level using cluster-robust standard errors with hospital clustering.
+Overall, this statistical model aims to provide a rigorous analysis of the impact of COVID-19 on non-COVID-19 ICU patients in Brazil, controlling for various factors that could influence the outcome and accounting for the complexities of high-dimensional panel data.

@@ -1,0 +1,93 @@
+Below are 8 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 8
+Title: Ontario hospitals brace for a wave of non-COVID-19 patients as pandemic caseloads ease
+Publisher: The Globe and Mail
+Posted: 1 day ago
+Key points:
+COVID-19 hospitalization numbers have declined in Ontario hospitals.
+However, there is an increase in emergency cases unrelated to COVID-19.
+Hospitals are facing a backlog of non-urgent surgeries due to pandemic restrictions.
+Some hospitals are resuming non-urgent surgeries and procedures.
+The number of patients showing up sicker than before may indicate delayed treatment during the pandemic.
+
+Article 2 of 8
+Title: When will the COVID-19 pandemic end? Canada's top doctor says COVID-19 'is not going to disappear anytime soon'
+Publisher: Yahoo News Canada
+Posted: 1 day ago
+Dr. Tam mentions the impact on hospitalizations as an indicator being watched.
+The article highlights the importance of vaccination rates and their relation to hospitalization rates.
+The Delta variant's potential to "take off" if public health measures are relaxed is mentioned, which could lead to increased hospitalizations.
+The article does not provide specific data or values for forecasting COVID-19 hospitalizations in Ontario, Canada.
+
+Article 3 of 8
+Title: Vaughan hospital to open to the public for full service Sunday
+Publisher: CityNews Toronto
+Posted: 3 days ago
+COVID-19 hospitalization numbers are dropping in Ontario (706 people in hospital). The article does not provide specific data on COVID-19 hospitalizations or trends that can be used for forecasting.
+
+Article 4 of 8
+Title: Hospitalized with COVID-19, once-hesitant Manitoba Mennonite woman urges others to get vaccines
+Publisher: CBC.ca
+Posted: 3 days ago
+Relevant.
+40% of transfers from rural health centres to larger hospitals in Winnipeg and Brandon came from Boundary Trails.
+Nearly all (unspecified number) COVID-19 patients admitted at Boundary Trails were unvaccinated.
+Vaccine hesitancy rates are low in the surrounding areas, with Altona having a rate of 37%, Winkler's is about 25%, and Morden's is just over 51%.
+The article does not provide specific hospitalization data for Ontario, Canada.
+
+Article 5 of 8
+Title: Lessons Learned from Israel’s Reopening During a Nationwide COVID-19 Vaccination Campaign
+Publisher: Ontario COVID-19 Science Advisory Table
+Posted: 4 days ago
+The article discusses Israel's approach to reopening during the COVID-19 pandemic and its potential applicability to other jurisdictions, such as Ontario in Canada. Key points include:
+Israel's Green Pass and Purple Badge standard: 
+The Green Pass was a digital certificate that required individuals to show proof of vaccination or COVID-19 recovery to enter certain establishments, such as restaurants, hotels, gyms, and public transportation.
+The Purple Badge standard ensured that customers, employees, and employers in non-essential workplaces and retail stores could operate safely without requiring proof of vaccination or COVID-19 recovery.
+Removal of Green Pass and Purple Badge requirements: 
+Both the Green Pass and Purple Badge standards were officially removed on June 1, 2021, as SARS-CoV-2 infection numbers were low (17 new cases) and COVID-19 vaccine coverage was high.
+The only remaining public health measure is indoor masking.
+Israel's vaccine rollout and uptake success: 
+Factors contributing to Israel's successful vaccine rollout and uptake include:
++ Simple prioritization process
++ Effective communication to instill vaccine confidence
++ Digital infrastructure and penetration of smartphone apps
++ Small geographical area and population size
+Concerns related to equity and privacy: 
+The Green Pass approach may exacerbate existing social inequities, particularly for those who lack access to technological devices.
+Community engagement, trust building, and targeted information are needed to address concerns of groups who are vaccine hesitant.
+Privacy concerns have been noted with the Green Pass insofar as those checking credentials have access to private health information.
+Applicability to Ontario: 
+Applying Israel's phased reopening strategy, aligned with improving epidemiological indicators, increasing vaccine uptake, and maintaining key public health measures could inform Ontario's approach.
+Other promising practices to consider include the Green Pass approach, which can incentivize vaccine uptake, emphasize outdoor activities, and support a safe return to social and communal events in the arts and recreation.
+Key differences between Israel and Ontario: 
+Population size (Israel has 9.3 million people, while Ontario has approximately 14.7 million)
+Land area (Israel is about 0.02% of Ontario's land area)
+Vaccine supply and access
+Digital infrastructure (centralized in Israel)
+Timing of the second dose (with Israel insisting on 2-doses per protocol within 3 weeks)
+
+Article 6 of 8
+Title: Ontario's stay-at-home order set to expire but most COVID-19 restrictions to remain in place
+Publisher: CBC.ca
+Posted: 4 days ago
+583 people are currently being treated in intensive care (ICU) due to COVID-related illnesses.
+387 ICU patients (66%) need a ventilator to breathe.
+The number of hospitalized patients and ICU admissions are key public health measures being considered for reopening decisions.
+
+Article 7 of 8
+Title: Canada won't rush reopening border with United States, Trudeau says
+Publisher: CTV News
+Posted: 5 days ago
+Ontario reported 916 new cases of COVID-19 (lowest daily total since February).
+Many Ontarians aged 80 and up became eligible to move up their second doses of COVID-19 vaccine.
+Saskatchewan reported its lowest number of COVID-19 hospitalizations since late November (108).
+
+Article 8 of 8
+Title: HHS field hospital opens Monday but it's 'very unlikely' it'll get used: official
+Publisher: CBC.ca
+Posted: 6 days ago
+Relevant.
+Number of COVID-19 cases and hospitalizations across Ontario continues to decline (important for forecasting).
+626 ICU patients with COVID-19 across the province as of Saturday morning.
+Peak number of critically ill patients was 828 on May 1 (historical data for forecasting).

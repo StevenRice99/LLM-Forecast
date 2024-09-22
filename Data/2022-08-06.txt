@@ -1,0 +1,93 @@
+Below are 7 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 7
+Title: Ousted Horizon CEO pushed for COVID 'red phase' in hospitals
+Publisher: CBC.ca
+Posted: 2 days ago
+Relevant.
+Key values:
+Hospitalizations: 84 (July 16), 90 (July 23)
+Staff outbreaks: 209 staff out sick (July 10-16), 229 (July 17-23)
+New hospital admissions due to COVID-19: 30 (July 10-16), 40 (July 17-23)
+
+Article 2 of 7
+Title: Toronto senior diagnosed with rare disorder after COVID vaccine last summer still waiting for compensation
+Publisher: CBC.ca
+Posted: 2 days ago
+21 confirmed cases of GBS linked to COVID-19 vaccines in Canada as of June 24
+4 cases in Ontario (Public Health Ontario)
+Rate of developing GBS is 2-3 cases per 1 million people who get the Oxford-AstraZeneca vaccine (Dr. Karina Top)
+Some fully recover, others do not and can become paralyzed in severe cases (GBS symptoms)
+
+Article 3 of 7
+Title: Police-reported crime statistics in Canada, 2021
+Publisher: Statistique Canada
+Posted: 4 days ago
+It appears that you've provided a table summary from Appendix D of a report, which discusses the changes in crime rates across various provinces and territories in Canada between 2020 and 2021. The table provides information on the percent change in Crime Severity Index (CSI) and the specific violations driving these changes.
+Here's a breakdown of the key points:
+The CSI decreased by 3% nationally, driven by decreases in breaking and entering and theft of $5,000 or under (non-motor vehicle).
+Some provinces and territories experienced significant increases in crime rates:
++ Newfoundland and Labrador saw a 4% increase, driven by shoplifting, mischief, and child pornography.
++ New Brunswick had a 6% increase, driven by breaking and entering, theft of $5,000 or under (non-motor vehicle), and fraud.
++ Quebec experienced a 1% increase, driven by fraud and theft of motor vehicles.
++ Nunavut saw an 11% increase, driven by mischief, theft of $5,000 or under (non-motor vehicle), breaking and entering, trafficking of cocaine and methamphetamine, and fraud.
+Other provinces and territories experienced decreases in crime rates:
++ Ontario had a 0% change, with increases in motor vehicle theft and child pornography offsetting decreases in breaking and entering.
++ Manitoba saw a 2% decrease, driven by a decline in shoplifting.
++ Saskatchewan experienced a 3% increase, but this was partially offset by decreases in fraud and breaking and entering.
+The table also provides information on specific census metropolitan areas (CMAs) within each province or territory. For example:
+St. John's, Newfoundland and Labrador saw a 6% increase in crime rates, driven by homicide, shoplifting, and robbery.
+Halifax, Nova Scotia experienced a 6% increase, driven by shoplifting and other unspecified factors.
+Overall, the table provides a detailed breakdown of the changes in crime rates across Canada between 2020 and 2021.
+
+Article 4 of 7
+Title: Ontario Health Minister offers no quick fixes to hospital staffing crunch
+Publisher: The Globe and Mail
+Posted: 4 days ago
+25 hospitals closed parts of their operations due to staffing shortages.
+Total hospitalizations due to COVID-19 decreased slightly last week from 507 admissions to 402.
+Hospital staff absences because of COVID-19 infections have doubled since May.
+Average length of stay for those waiting to be admitted was 20.1 hours in May, the longest wait time in any month of the past 14 years.
+Number of patients waiting for home care reached a record high of 900 in June.
+
+Article 5 of 7
+Title: Is Paxlovid underutilized in Canada?
+Publisher: rabble.ca
+Posted: 4 days ago
+The article discusses the availability of Paxlovid, an antiviral medication used to treat COVID-19, particularly for individuals over 60 years old who are considered high-risk for severe illness. The World Health Organization (WHO) and the Centers for Disease Control and Prevention (CDC) both consider people in their sixties as being at high risk of severe illness with COVID-19.
+The article highlights several reasons why Paxlovid may be restricted or not widely recommended, including:
+1. Cost: A course of treatment costs about $530 American, which could be a factor in suppressing recommendations for it.
+2. Scarcity: Although the shortage of Paxlovid is no longer an issue, its production is still being managed to ensure availability.
+3. Regulatory controls: The Canadian government has procured 1.5 million treatment courses but has only allocated about a third of them to provinces and territories.
+The article also discusses the effectiveness of mRNA vaccines in preventing severe illness from COVID-19, particularly for individuals over 60 years old. While three doses of mRNA vaccine offer robust protection against severe disease, protection fades and is less effective in people over 60 years of age, even with four doses. The new Omicron variant (BA.4 and BA.5) may further reduce the effectiveness of current mRNA vaccines.
+The article concludes that making Paxlovid at-home treatment available to COVID-sick people 60 years old, regardless of their vaccination status, could help them avoid hospitalization and alleviate pressure on hospitals struggling with the burden of COVID-19 patients.
+Key points:
+People over 60 are considered high-risk for severe illness from COVID-19.
+Paxlovid is an antiviral medication used to treat COVID-19 in this age group.
+Cost, scarcity, and regulatory controls may be restricting its availability.
+mRNA vaccines offer robust protection against severe disease but fade and become less effective with age.
+The new Omicron variant (BA.4 and BA.5) may further reduce the effectiveness of current mRNA vaccines.
+Making Paxlovid at-home treatment available to COVID-sick people 60 years old could help them avoid hospitalization and alleviate pressure on hospitals.
+
+Article 6 of 7
+Title: ISARIC-COVID-19 dataset: A Prospective, Standardized, Global Dataset of Patients Hospitalized with COVID-19
+Publisher: Nature.com
+Posted: 7 days ago
+There are no specific questions provided in the text. The text appears to be a list of acknowledgments and disclosures from various authors who contributed to a research study on COVID-19. The purpose of this section is to provide transparency about any potential conflicts of interest or financial relationships that may have influenced the research.
+The text lists the names of the authors, followed by their respective disclosures, which include:
+Grants or funding received from various organizations
+Personal fees or honoraria received for consulting, lectures, or participation in advisory boards
+In-kind support or travel/accommodation/meeting expenses provided by companies
+Patents or equity holdings related to medical devices or research
+The purpose of these disclosures is to provide a clear and transparent account of any potential conflicts of interest that may have influenced the research. This allows readers to understand the context in which the research was conducted and make informed decisions about its validity and reliability.
+If you have specific questions about the research study, I would be happy to try and help. However, without further information or context, it is difficult for me to provide a more detailed response.
+
+Article 7 of 7
+Title: BCCDC removes data on COVID-19 infection outcomes by vaccination status from dashboard
+Publisher: CTV News Vancouver
+Posted: 7 days ago
+Key values:
+Vaccination status (e.g., unvaccinated, 1 dose, 2 doses, booster) and its impact on hospitalization rates
+Age-standardized rates of hospitalization by vaccination status
+Omicron variant's effect on case burden and data reliability
+Incidental hospitalizations due to COVID-19 testing in hospitalized patients

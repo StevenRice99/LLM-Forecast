@@ -1,0 +1,55 @@
+Below are 5 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 5
+Title: Ontario's homeless 5 times more likely to die of COVID-19, study finds
+Publisher: CBC.ca
+Posted: 4 days ago
+Key values highlighted:
+Individuals with a recent history of homelessness were over 20 times more likely to be hospitalized for COVID-19.
+People who were recently homeless had a dramatically higher positivity rate (tests coming back positive more frequently) than people with housing.
+The co-morbidities among the homeless population are higher, including respiratory conditions and diabetes.
+
+Article 2 of 5
+Title: Ireland has the world's highest COVID-19 rate. How did it go so wrong?
+Publisher: CTV News
+Posted: 4 days ago
+Relevant.
+Summary: The article reports on a surge in COVID-19 cases and hospitalizations in Ireland. Key values for forecasting COVID-19 hospitalizations in Ontario, Canada include:
+Seasonality of the virus (mentioned as a factor contributing to the surge)
+Presence of more transmissible variants (the U.K. variant is mentioned as being 50-70% more contagious)
+Household mixing and social gatherings during holidays
+Hospitalization rates: Ireland has 1,582 COVID-19 patients hospitalized, with 146 in intensive care.
+ICU capacity: Ireland has only 5 ICU beds per 100,000 people, which may be relevant for Ontario's forecasting.
+
+Article 3 of 5
+Title: 'It's a constant worry': Individuals with Down syndrome at greater risk of COVID-19
+Publisher: CTV News
+Posted: 6 days ago
+Relevant.
+Summary: Individuals with Down syndrome are 5 times more likely to be hospitalized and 10 times more likely to die from COVID-19. They have a significantly greater risk of severe illness and death due to their compromised immune system, which makes them vulnerable to respiratory infections. This information is important for forecasting COVID-19 hospitalizations in Ontario, Canada, as it highlights the need to consider individuals with Down syndrome when modeling hospitalization rates.
+
+Article 4 of 5
+Title: Little to no room in eastern Ontario for COVID-19 patients from other regions, say officials
+Publisher: CBC.ca
+Posted: 7 days ago
+Eastern Ontario health units have limited capacity to take on COVID-19 patients from other regions.
+Hospitals are being told to reserve 1/3 of ICU beds for transfers from hospitals with no more room.
+There's a sharp surge of cases and hospitalizations in the region, particularly in Cornwall.
+The system is already under strain, with 3 COVID-19 patients in ICU at the Cornwall Community Hospital.
+
+Article 5 of 5
+Title: 'Lockdown light' failed in Canada's hardest-hit regions. Here's what experts say should happen now
+Publisher: CBC.ca
+Posted: 7 days ago
+The article discusses the recent surge in COVID-19 cases in Quebec and Ontario, Canada, and the measures being taken to control the spread of the virus. The Quebec government has imposed a nightly curfew from 8 p.m. to 5 a.m. for four weeks, while Ontario has not yet implemented similar restrictions.
+Health experts are divided on the effectiveness of these measures. Some, like Dr. Zainab Hota, believe that stricter lockdowns and clear communication will help drive cases down, while others, like Dr. Jay Gardam, think that more drastic measures, such as a full lockdown, are needed to control the pandemic.
+Dr. Irfan Dhalla, vice-president of physician quality at Unity Health, suggests that Ontario should adopt a more comprehensive approach, including restrictions and lockdowns, to reduce transmission substantially before opening up again. He emphasizes the need for clear communication and public health interventions like testing, contact tracing, and quarantine.
+The article also highlights concerns about the potential impact on certain sectors, such as manufacturing and construction, which have been linked to outbreaks in recent weeks. Some experts worry that stricter measures may lead to more resistance from the public.
+Overall, the article suggests that a clear message and consistent approach are needed to control the pandemic, and that drastic measures may be necessary to prevent further spread of the virus.
+Key points:
+Quebec has imposed a nightly curfew from 8 p.m. to 5 a.m. for four weeks.
+Ontario has not yet implemented similar restrictions.
+Health experts are divided on the effectiveness of these measures.
+Stricter lockdowns and clear communication may help drive cases down, but more drastic measures may be needed to control the pandemic.
+The need for clear communication and public health interventions like testing, contact tracing, and quarantine is emphasized.
+Concerns about the potential impact on certain sectors, such as manufacturing and construction, are highlighted.

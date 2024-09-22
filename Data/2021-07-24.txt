@@ -1,0 +1,91 @@
+Below are 7 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 7
+Title: What Makes Delta the Most Disruptive Virus Variant
+Publisher: Bloomberg
+Posted: 1 day ago
+Delta variant is more infectious than previous strains (55% more transmissible than alpha, almost twice as contagious as others). Expected to become dominant globally, including Ontario, Canada.
+
+Article 2 of 7
+Title: COVID-19 Vaccine Certificates: Key Considerations for the Ontario Context
+Publisher: Ontario COVID-19 Science Advisory Table
+Posted: 3 days ago
+The text discusses the potential benefits and uses of COVID-19 vaccine certificates, particularly in reducing the risk of transmission and infection from SARS-CoV-2. It highlights that while there is currently no direct scientific evidence to support their effectiveness, infectious diseases modeling could help estimate their potential benefit.
+Key points mentioned in the text include:
+1. Reducing transmission: Theoretically, limiting participation of higher-risk activities for SARS-CoV-2 transmission to vaccinated individuals who hold vaccine certificates should reduce the risk of transmission and infection to both vaccinated and non-vaccinated individuals.
+2. Implementation in Israel: Countries like Israel implemented COVID-19 vaccine certificates alongside reopening of higher transmission settings, without seeing an increase in SARS-CoV-2 cases or COVID-19 hospitalizations and deaths.
+3. Limited short-term role in Ontario: As of July 20, 2021, 79.6% of eligible Ontarians have received at least one dose of a COVID-19 vaccine, making the use of vaccine certificates for accessing higher SARS-CoV-2 transmission settings less necessary in the short term.
+4. Long-term uses: Beyond their temporary potential use, COVID-19 vaccine certificates have several important potential long-term uses, including:
+Verifying vaccination status for schools and workplaces
+Verifying vaccination status for international travel
+Providing individual and public health surveillance benefits
+5. Ethical, legal, accessibility, and privacy considerations: The design and implementation of COVID-19 vaccine certificates should be guided by key principles to ensure effects are not disproportionate to the aim.
+6. Establishing infrastructure: Establishing the infrastructure for COVID-19 vaccine certification may be useful in case public health measures need to be reintroduced during future potential waves.
+The text also mentions that there is currently no direct scientific evidence of the impact of COVID-19 vaccine certificates on SARS-CoV-2 transmission or vaccine coverage, and that these should be areas of active research.
+
+Article 3 of 7
+Title: 'Dealing With a Different Beast': Why Delta Has Doctors Worried
+Publisher: Medscape
+Posted: 4 days ago
+The article discusses the characteristics of the Delta variant of COVID-19 and how they may contribute to its increased contagiousness and severity. Key points include:
+1. Increased viral shedding: The Delta variant is estimated to shed 1000 times more virus than other variants, making it more likely for close contacts to become infected.
+2. Early viral shedding: The virus can start shedding earlier in the course of infection, giving it more opportunity to spread.
+3. Formation of syncytia: Delta can fuse cells together to form syncytia, which may help the virus evade the immune system and cause more damage to tissues and organs.
+4. Immune evasion: Studies have shown that Delta is able to escape antibodies made in response to vaccination more effectively than other variants, particularly in older adults who tend to have weaker responses to vaccines.
+5. Increased severity: The formation of syncytia may lead to greater damage behind in the body's tissues and organs, especially in the lungs.
+The article also highlights the importance of getting vaccinated with both doses, as the vaccines are still highly effective against Delta, reaching 80% protection for illness and 94% for hospitalization after two doses.
+
+Article 4 of 7
+Title: School Operation for the 2021-2022 Academic Year in the Context of the COVID-19 Pandemic
+Publisher: Ontario COVID-19 Science Advisory Table
+Posted: 5 days ago
+The provided text discusses guidelines for in-person schooling during the COVID-19 pandemic, focusing on various aspects such as classroom settings, extra-curricular activities, and transportation to school. The recommendations are based on community risk levels, which are categorized into low-risk, moderate-risk, and high-risk scenarios.
+Key Points: 
+1. Classroom Settings: In low-risk scenarios, a permissive approach to masking is recommended, with no requirement for distancing or cohorting. However, in moderate-to-high risk scenarios, an increase in temporary measures is warranted, including cohorting and age-dependent masking.
+2. Extra-Curricular Activities: Large, well-ventilated spaces should be prioritized for activities that generate aerosols outside of the school cohort (e.g., music rooms, auditoriums). Plexiglass barriers are not recommended as they have not been shown to reduce SARS-CoV-2 transmission.
+3. Transportation to School: In moderate- and high-risk scenarios, temporary health and safety measures should be considered on public transportation, including active symptom screening, reducing the number of children on the bus at one time, and masking.
+4. Testing: Rapid antigen screen testing may be considered in high community risk scenarios to maintain function of extra-curricular clubs and athletics.
+Recommendations: 
+In low-risk scenarios:
+Strategy for contact tracing and low-barrier testing as an early warning system for emerging variants and increased transmission
+Permissive approach to masking
+No requirement for distancing or cohorting
+In moderate-to-high community risk scenarios:
+Increase in temporary measures, including cohorting and age-dependent masking in kindergarten and elementary school students
+Masking with or without physical distancing (without the need for cohorting) in middle and high school students
+
+Article 5 of 7
+Title: Ontario students should return to class barring catastrophe, report says
+Publisher: CBC.ca
+Posted: 5 days ago
+Vaccination rates are high ( 61% of Ontarians 12+ are fully vaccinated), which should keep severe infections and hospitalizations low.
+The probability of catastrophic scenarios leading to school closures and increased hospitalizations is considered low.
+Permanent measures such as vaccination, proper cleaning, and good hand hygiene can help prevent hospitalizations.
+Temporary measures like contact tracing, testing, and mask-wearing may be necessary in moderate to high-risk scenarios.
+
+Article 6 of 7
+Title: 'River and Sky' festival returns to the delight of fans
+Publisher: CTV News Northern Ontario
+Posted: 5 days ago
+The festival had a vaccination requirement (proof of COVID-19 vaccination) for attendees.
+A rapid COVID-19 test was also required at the gate.
+No positive cases were reported among attendees over two days.
+These measures suggest that the organizers and public health authorities took steps to mitigate the risk of COVID-19 transmission, which is relevant for forecasting hospitalizations.
+
+Article 7 of 7
+Title: Yes, vaccines curb COVID-19 transmission — but that's not enough to protect those without a shot
+Publisher: CBC.ca
+Posted: 7 days ago
+The article discusses the impact of COVID-19 vaccination rates on the spread of the virus in various communities. It highlights several studies that have found a correlation between higher vaccination rates and lower infection rates among unvaccinated individuals.
+A study published in The Lancet found that areas with high vaccination rates had significantly lower rates of COVID-19 infections among unvaccinated youth.
+Another study from Public Health England found that three weeks after people received a single dose of either the Pfizer-BioNTech or AstraZeneca-Oxford vaccine, household transmission of the virus was reduced by 40-50%.
+However, despite these findings, COVID-19 cases and hospitalizations are still rising in many parts of the world, particularly in areas with low vaccination rates.
+The article also notes that variants such as delta, alpha, and beta are spreading rapidly throughout Africa, where vaccination rates are among the lowest in the world. This has led to a 43% week-on-week rise in COVID-19 deaths across the continent.
+Experts warn that pockets of unvaccinated individuals remain, and these groups are driving transmission and hospitalizations. In the US, for example, nearly all COVID-19 deaths are now among those who aren't fully vaccinated.
+The article concludes by highlighting the need to get vaccines distributed globally to areas where high transmission is occurring, in order to reduce the toll of the pandemic.
+Key points:
+Higher vaccination rates are associated with lower infection rates among unvaccinated individuals.
+Variants such as delta, alpha, and beta are spreading rapidly throughout Africa, where vaccination rates are low.
+Pockets of unvaccinated individuals remain, driving transmission and hospitalizations.
+Experts warn that these disparities may continue in the months ahead if vaccine coverage remains spotty.
+The need to distribute vaccines globally to areas with high transmission is emphasized.

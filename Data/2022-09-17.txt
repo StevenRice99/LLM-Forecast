@@ -1,0 +1,57 @@
+Below are 6 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 6
+Title: Alberta kids hospitalized by COVID-19 more in 2022 than ever before: data
+Publisher: Global News
+Posted: 1 day ago
+Hospitalization rates for children under 10 are increasing in Alberta, with a three-fold increase in hospitalizations compared to the previous 20 months.
+Low vaccination rates among children (51.1% of kids aged 5-11 have received their first dose) contribute to increased hospitalizations.
+Pediatric doses of COVID-19 vaccine can prevent severe disease and hospitalization.
+Increased transmissibility of Omicron and its subvariants, as well as lifting of public health measures, may also be contributing factors.
+
+Article 2 of 6
+Title: How many COVID-19 cases are there in Simcoe County and Muskoka?
+Publisher: simcoe.com
+Posted: 2 days ago
+Ontario, Canada is mentioned. 
+The article discusses postal codes in various regions. 
+Summary: FALSE
+
+Article 3 of 6
+Title: How improving COPD treatment in primary care could reduce demand on hospitals and emergency departments
+Publisher: The Conversation
+Posted: 3 days ago
+The article highlights that patients with COPD have higher hospitalization rates (63% higher) and emergency department visits (85% higher) compared to the general population.
+A program called Best Care has been shown to reduce emergency department visits and hospitalizations for high-risk COPD patients by embedding a certified respiratory educator/case manager in primary care.
+The article presents a health economic analysis that shows Best Care is cost-effective and dominant in comparison to standard care, with a 1.5-fold return on investment expected in the first year of implementation.
+The program's success in reducing avoidable hospitalizations and emergency department visits suggests it could be applied to other conditions, potentially including COVID-19.
+
+Article 4 of 6
+Title: Majority of Canadians have now caught COVID — so what does that mean for the future?
+Publisher: CBC News
+Posted: 3 days ago
+Key values:
+Almost two-thirds of Ontarians (and Canadians) have had COVID-19 since Omicron.
+70-80% of youth under 19 show evidence of prior infection.
+60-70% of adults aged 20-59 show evidence of previous COVID-19 infection.
+40% of Canadians over 60 show evidence of previous COVID-19 infection.
+High levels of vaccination and hybrid immunity reduce the risk to vulnerable groups, including older individuals and those with underlying medical conditions.
+
+Article 5 of 6
+Title: P.E.I.'s weekly COVID-19 update shows 1 person in ICU, no new deaths
+Publisher: CBC.ca
+Posted: 4 days ago
+15 people are currently hospitalized with COVID-19 on Prince Edward Island.
+76.1% of those hospitalized were fully vaccinated.
+18.8% of hospitalized individuals were unvaccinated.
+The province has recorded 276 cases requiring hospitalization since the pandemic began in March 2020.
+
+Article 6 of 6
+Title: Ontario opens appointments for new bivalent COVID-19 booster shots to all adults
+Publisher: CBC.ca
+Posted: 5 days ago
+Relevant.
+The article highlights values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+The emergence of new Omicron variants (BA.4 and BA.5) that are driving the current wave of infection.
+The availability of bivalent vaccine doses, which will be based on shipment schedules and supply from the federal government.
+The recommended interval for receiving the bivalent booster dose is 6 months since the previous dose, but it can also be received at a minimum interval of 3 months (84 days) since the last dose.

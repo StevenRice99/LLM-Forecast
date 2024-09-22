@@ -1,0 +1,69 @@
+Below are 7 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 7
+Title: Ontario reports 1,676 COVID-19 hospitalizations
+Publisher: CBC.ca
+Posted: Today
+Ontario reported 1,676 COVID-19 hospitalizations (down by 3) and 188 ICU admissions (down from 209). Key values: 
+- Hospitalization count: 1,676
+- ICU admissions: 188
+- Ventilator requirements: 89
+
+Article 2 of 7
+Title: Ontario's COVID-19 hospitalizations, ICU admissions inch upward again
+Publisher: CBC.ca
+Posted: 1 day ago
+Relevant.
+1,679 hospital patients with COVID-19 (18 increase from previous day).
+209 ICU admissions (7 more than previous day), 70% due to virus effects.
+13.2% positivity rate from PCR tests.
+87% of residents aged 12+ have had at least two vaccine shots.
+
+Article 3 of 7
+Title: Sask. COVID-19 patient marks 279 days in hospital
+Publisher: CBC.ca
+Posted: 1 day ago
+Long hospital stays are common: 98 (2.7%) out of 3,587 people with COVID-19 stayed in hospital more than 60 days.
+High resource utilization: keeping patients alive requires "astronomical" amounts of energy, work, and system resources.
+Fewer critical-care patients in the Omicron wave, but still happening.
+Hospitalization rates are high in Saskatchewan, with over 400 COVID-19 patients in hospitals.
+
+Article 4 of 7
+Title: Province mulls COVID-19 wastewater monitoring to track spread, provide early detection
+Publisher: CBC.ca
+Posted: 2 days ago
+Key values:
+Wastewater monitoring can provide early detection of COVID activity.
+SARS-CoV-2 RNA levels in wastewater can be used as an indicator of community transmission.
+Results can be used to trigger public health responses and inform personal risk assessments.
+The technology is reliable and has been used globally, including by the US CDC.
+Wastewater monitoring can help identify areas with high COVID activity, which may inform hospitalization forecasts.
+
+Article 5 of 7
+Title: Unvaccinated people increase risk of COVID-19 infection among vaccinated: study - National
+Publisher: Global News
+Posted: 5 days ago
+Unvaccinated people pose a threat to vaccinated individuals and contribute to increased hospitalization rates (attack rate among unvaccinated: 61% of hospitalizations).
+Vaccination effectiveness, baseline immunity in unvaccinated people, and infection recovery rate are model parameters.
+Mixing between vaccinated and unvaccinated populations affects risk; higher mixing leads to lower risk for unvaccinated individuals but increased risk for vaccinated ones.
+Booster shots significantly protect against severe outcomes (hospitalization and death).
+Public health officials emphasize collective action and vaccination as a means of protecting the community.
+
+Article 6 of 7
+Title: Province urges patience amid high demand for COVID-19 pill Paxlovid
+Publisher: CBC.ca
+Posted: 5 days ago
+Paxlovid reduces the risk of hospitalization or death by 89% compared with a placebo.
+The medication is most effective in those at highest risk of severe illness, including those 50 and older and anyone who is immunocompromised.
+Approximately 50 to 60 people are being prescribed Paxlovid daily on P.E.I., which may indicate the potential demand for similar treatments in Ontario.
+
+Article 7 of 7
+Title: Children's hospitals under strain in Canada's 6th COVID-19 wave
+Publisher: CBC News
+Posted: 6 days ago
+Key values:
+High patient volumes and staff shortages at children's hospitals across Canada
+10 to 30% of staff off sick on any given day due to COVID-19 symptoms or household cases
+Hospitalization rates remain high across Ontario
+Emergency department visits expected to return to pre-pandemic levels at Toronto's Hospital for Sick Children (SickKids)
+Low vaccination rate among youth in Canada, with only 40% of kids aged 5-11 fully vaccinated

@@ -1,0 +1,63 @@
+Below are 5 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 5
+Title: Why a 2nd wave of COVID-19 is more dangerous than it looks
+Publisher: CBC.ca
+Posted: Today
+The article discusses the potential consequences of a second wave of COVID-19 in Canada, highlighting lessons learned from the first wave. The experts quoted in the article emphasize that the virus remains as deadly and infectious as it was before, and that Canadians need to be prepared for the possibility of re-entering lockdowns if necessary.
+Some key points mentioned in the article include:
+Older Canadians are at higher risk of serious outcomes from COVID-19, with those over 70 accounting for almost 90% of all deaths in Canada.
+Physical distancing, wearing a mask, and limiting close contact with others can drastically reduce the risk of catching COVID-19.
+Asymptomatic transmission is a real threat, and superspreading events have been recorded.
+The virus has not significantly mutated to become less infectious or deadly.
+Health-care workers are getting more adept at treating COVID-19, but there is still no tool that can prevent hospitalization for those infected.
+The experts also discuss what Canadians can do to slow the second wave:
+Take a data-driven approach to re-entering lockdowns, targeting specific regions and activities proven to lead to spread.
+Be prepared for the possibility of re-entering lockdowns if necessary.
+Follow public health directives, even if it's exhausting or inconvenient.
+Overall, the article emphasizes that Canadians need to take the second wave seriously and be prepared to adapt their behavior to prevent further spread of the virus.
+
+Article 2 of 5
+Title: Researcher urges Canada to track link between race and COVID-19 as study reveals troubling trend
+Publisher: CTV News
+Posted: 3 days ago
+Indigenous Canadians are nearly twice as likely as white Canadians born in Canada to have three or more pre-existing conditions linked to severe illness and hospitalization with COVID-19.
+Foreign-born Black Canadians are 1.79 times as likely and foreign-born South Asians are 1.49 times as likely to live with three or more of these conditions.
+Hypertension, diabetes, and obesity were the most common conditions among racialized groups in Canada.
+The study suggests that COVID-19 has exacerbated existing health disparities in Ontario, Canada.
+
+Article 3 of 5
+Title: Ontario's 2nd wave of COVID-19 forecast to peak in October
+Publisher: CBC.ca
+Posted: 5 days ago
+The article discusses the potential impact of a second wave of COVID-19 in Ontario, Canada. Researchers have made projections based on different scenarios, including one where the number of ICU patients with COVID-19 peaks at 350-400, and another where it exceeds 200.
+Key points from the article:
+The number of ICU patients with COVID-19 has increased by 34% in a week.
+Changes in testing eligibility criteria can affect forecast accuracy.
+If more than 100 people with COVID-19 need ICU care, they may compete for space with scheduled surgery cases.
+Projections suggest that if the second wave follows Victoria's pattern (a sharp spike followed by a quick drop), 350-400 people will need an ICU bed at peak demand in late October.
+If the second wave follows Michigan's pattern (a rise that levels off but doesn't slow down for a long time), more than 200 patients with COVID-19 may be in ICUs from late October onwards.
+Hospitalization rates are expected to be lower if most infections occur among younger, healthier people.
+ICU occupancy numbers will be of greater concern than total hospitalization numbers because Ontario's hospital system can more easily free up general ward beds than make space in intensive care.
+Human resources (doctors and nurses) are the key limiting factor in responding to a surge in COVID-19 cases.
+The article also mentions that the researchers' projections suggest that if the second wave is severe, hospitals may have to make difficult decisions about who to treat.
+
+Article 4 of 5
+Title: Experts unsure whether Quebec's health-care system can withstand latest surge of COVID-19
+Publisher: CBC.ca
+Posted: 6 days ago
+Key values:
+Hospitalization numbers are rising (46% increase over past week)
+216 COVID-19 patients currently in hospital
+Younger patients are being admitted and taking longer to recover
+Experts expect hospitalizations to increase more rapidly in about a month
+Long-term care homes are experiencing outbreaks, which is concerning for the health system.
+
+Article 5 of 5
+Title: Thousands protest COVID-19 restrictions in central London
+Publisher: CTV News
+Posted: 7 days ago
+Summary: The article reports on a protest in London, UK against lockdowns and social distancing rules due to rising COVID-19 cases. Key values include:
+Rising new infections (relevant for forecasting hospitalizations)
+Increased hospitalizations (implied by "several officers were hurt" during a previous protest)
+Tighter restrictions imposed in response to local spikes in the disease (may be relevant for Ontario's situation)

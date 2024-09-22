@@ -1,0 +1,82 @@
+Below are 8 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 8
+Title: Canada's flu season is winding down, data shows, but it may be the calm before a COVID storm
+Publisher: CBC News
+Posted: 2 days ago
+The article mentions a potential spike in COVID-19 hospitalizations ahead due to a potential increase in cases caused by the highly transmissible Omicron subvariant XBB.1.5.
+The article quotes Dr. Allison McGeer stating that there may be a significant increase of hospitalizations through January and February, which is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada.
+The article also mentions that the bivalent booster shots' protection may be fading for Canadians whose last COVID vaccine dose was several months ago or more, which could lead to an increase in hospitalizations.
+
+Article 2 of 8
+Title: P.E.I. pharmacists can now prescribe COVID-19 Paxlovid treatment
+Publisher: CTV News Atlantic
+Posted: 2 days ago
+Relevant.
+Key values for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Age 50+ or Indigenous people 18+
+Underlying medical conditions leading to high risk of severe outcomes
+Positive COVID-19 test result within the last five days
+Symptoms developed within the first five days of illness
+
+Article 3 of 8
+Title: New Brunswick leads country for COVID-19 death rate and cases rate, federal data shows
+Publisher: CBC.ca
+Posted: 3 days ago
+Key values:
+New Brunswick's rate of COVID-19 cases per 100,000 population (124) and hospital admissions due to COVID-19 (22)
+Presence of the new Omicron subvariant XBB.1.5 in New Brunswick (2 confirmed cases)
+Number of people currently hospitalized for or with COVID-19 in Horizon and Vitalité health networks (119), including 8 who require intensive care
+
+Article 4 of 8
+Title: Latest Covid variant is not really named Kraken and does not seem worse than other strains
+Publisher: EL PAÍS USA
+Posted: 4 days ago
+XBB.1.5 (Kraken) is a subvariant of Omicron that is rapidly spreading in the US and detected in 25 countries.
+It does not seem to cause more serious effects than its predecessors.
+The article highlights the trend of COVID-19 variants becoming milder, but still capable of causing hundreds of deaths, especially among vulnerable populations.
+The WHO warns that increased infections can lead to further mutations and a higher risk of the virus becoming more deadly.
+
+Article 5 of 8
+Title: B.C. will pay fees, fund schooling upgrades to get more nurses in health-care system
+Publisher: CTV News VI
+Posted: 5 days ago
+Relevant.
+The article highlights values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Number of hospital beds available (not mentioned)
+Hospital capacity utilization rate (not mentioned)
+Number of healthcare workers, including nurses and doctors (not directly relevant to Ontario, but can be used as a proxy for healthcare system capacity)
+Government policies and initiatives to address staffing shortages (e.g. waiving fees for internationally trained nurses)
+
+Article 6 of 8
+Title: COVID-19 vaccination rates lower in Windsor-Essex compared to Ontario average
+Publisher: CBC.ca
+Posted: 5 days ago
+Key values:
+Low booster vaccine uptake (47.6% of residents have received third dose) in Windsor-Essex compared to the provincial average.
+Increasing disease activity in Windsor-Essex in January, with rising cases, positive case percentage, and hospitalizations.
+Presence of a highly contagious subvariant (XBB.1.5 or "Kraken" variant) in the US, which may be already present in Windsor.
+Recent COVID-19 deaths reported in Windsor-Essex.
+
+Article 7 of 8
+Title: Why XBB.1.5 — the latest Omicron offshoot — could 'outcompete' other COVID-19 subvariants
+Publisher: CBC News
+Posted: 6 days ago
+Key points:
+XBB.1.5, a highly transmissible variant of Omicron, has been detected in 29 countries, including Canada.
+In the U.S., XBB.1.5 is projected to make up approximately 40% of COVID-19 cases.
+The Public Health Agency of Canada (PHAC) reports 21 detections of XBB.1.5 in Canada, with a higher number expected due to delayed data collection.
+Experts warn that the variant could lead to an increase in infections and hospitalizations, particularly among vulnerable populations.
+Updated COVID-19 vaccines are expected to remain effective at preventing hospitalization and severe disease, but may not be as effective against breakthrough infections or re-infections.
+
+Article 8 of 8
+Title: $2.8 million paid out so far by Vaccine Injury Support Program
+Publisher: CBC.ca
+Posted: 7 days ago
+Relevant.
+Summary: The article reports on the Vaccine Injury Support Program (VISP) in Canada, which has paid out $2.779 million since its inception 19 months ago. Key values for forecasting COVID-19 hospitalizations in Ontario, Canada include:
+Number of approved claims: 50
+Total number of claims submitted: 1,299
+Percentage of approved claims: 3.8%
+Maximum VISP payout possible: $284,000
+Number of deaths associated with COVID-19 in Canada: over 49,000

@@ -1,0 +1,117 @@
+Below are 8 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 8
+Title: Ontario announces $4 an hour pandemic pay increase for front-line workers
+Publisher: CBC.ca
+Posted: Today
+Here are the key points from the article:
+COVID-19 Updates 
+The province has reported 811 deaths from COVID-19, with 476 new cases bringing the total to 13,995.
+Hospitalizations rose to 925, with 245 patients in intensive care and 195 on ventilators.
+The growth rate of cases is reducing, with a positivity rate of 5% today.
+Emergency Orders 
+The province has issued emergency orders to provide staffing flexibility for employers in the intervenor sector (people who are deafblind).
+Employers will have temporary authority to carry out tasks needed to support people who are deafblind while ensuring physical distancing measures are in place.
+The orders also allow for more boots on the ground in long-term care homes.
+Military Support 
+Military members are being sent to five of the hardest-hit long-term care homes, including Orchard Villa in Pickering, Ont.
+The first Canadian military members arrived at Orchard Villa on Friday afternoon.
+Community Gardens Reopen 
+Community gardens can reopen under an amended emergency order that allows them to operate as an "essential source of fresh food" for people facing food insecurity.
+Gardens must follow recommendations and instructions from local medical officers of health, including physical distancing and regular disinfecting.
+Provincial Parks Closure Extended 
+The closure of Ontario's provincial parks and conservation reserves has been extended until May 31.
+No car camping or backcountry camping will be allowed, and public buildings will remain closed.
+Economic Reopening Framework 
+A framework for reopening the economy is expected to be released early next week.
+The plan will provide a gradual and measured approach for opening up, with health and safety as the top priority.
+
+Article 2 of 8
+Title: 'Bunch of yahoos': Ontario premier slams anti-lockdown protesters at Queen's Park
+Publisher: CBC.ca
+Posted: Today
+245 people are currently in intensive care units (ICUs) due to COVID-19.
+The total number of cases in Ontario is 13,995, with a 3.5% increase over the previous day.
+There have been 811 reported deaths from COVID-19 in Ontario, and 901 reported deaths according to CBC News tracking numbers.
+These values are most important for forecasting COVID-19 hospitalizations in Ontario, Canada.
+
+Article 3 of 8
+Title: 'He's suffering': Mississauga mom pleads for exemption from COVID-19 visitor ban to care for quadriplegic son
+Publisher: CBC.ca
+Posted: 1 day ago
+Quinn Carter, a 47-year-old resident at Moir Family Centre for Complex Continuing Care, was hospitalized twice due to low blood oxygen levels after his mother's visitor exemption was denied.
+His mother, Joy Carter, is the only person who knows how to properly suction mucus buildup out of his airways, which is crucial for his care.
+The family believes that if Joy had been allowed to continue caring for Quinn, these hospitalizations could have been prevented.
+This case highlights the importance of considering individual patient needs and circumstances when implementing visitor policies during the pandemic.
+
+Article 4 of 8
+Title: 6 Ontario long-term care homes failed to follow COVID-19 public health advice, lawsuit alleges
+Publisher: CBC.ca
+Posted: 1 day ago
+Key values for forecasting:
+Number of long-term care homes with outbreaks (5)
+Total number of residents who have died from COVID-19 (570+)
+Percentage of residents who have tested positive at specific facilities (e.g. 140/101 at Anson Place)
+Staffing levels and access to PPE at individual facilities
+Number of staff members testing positive for COVID-19 (7 at Hawthorne Place)
+
+Article 5 of 8
+Title: TTC plans to temporarily lay off 1,200 workers amid COVID-19 pandemic
+Publisher: CBC.ca
+Posted: 2 days ago
+Relevant.
+Summary: The article reports on the Toronto Transit Commission's (TTC) decision to temporarily lay off 1,200 employees due to a significant drop in ridership amid the COVID-19 pandemic. Key values for forecasting COVID-19 hospitalizations in Ontario, Canada include:
+A 85% drop in TTC ridership
+A loss of $90 million in monthly revenue
+The impact of COVID-19 on transit agencies across Canada (e.g., Metro Vancouver and Winnipeg Transit)
+The potential consequences of service cuts on essential workers and vulnerable populations.
+
+Article 6 of 8
+Title: Amputations, organ failure, blood clotting: The range of complications in COVID-19 cases
+Publisher: CTV News
+Posted: 3 days ago
+Relevant article for forecasting COVID-19 hospitalizations in Ontario, Canada.
+Key values:
+High levels of inflammation in the lungs can lead to complications such as arrhythmia and unstable blood pressure.
+Patients with severe cases may need ventilators, dialysis machines, and ECMO machines, which can pose risks through infection, blood clots, and other issues.
+Certain medications, such as inotropes or vasopressors, are used to support the heart and control blood pressure, but can also have negative effects on certain body parts.
+Patients with underlying health conditions and chronic diseases (e.g. heart disease, high blood pressure, diabetes) are more at risk of having severe COVID-19 symptoms and complications.
+The volume of patients requiring hospitalization is expected to be higher due to the global spread of the virus and lack of immunity in the population.
+Shortages of ventilators, dialysis machines, and certain medications are a concern.
+
+Article 7 of 8
+Title: Hospital Payments and the COVID-19 Death Count
+Publisher: FactCheck.org
+Posted: 4 days ago
+The article discusses the accuracy of COVID-19 case and death counts in the United States, as well as the distribution of funds to hospitals from the $100 billion Provider Relief Fund established by the CARES Act.
+Key points:
+The CDC's national count now makes note of how many cases and deaths were deemed "probable" due to under-counting.
+Experts believe that there could be both instances of under-counting and over-counting of COVID-19 cases and deaths.
+A Kaiser Health News analysis found that the initial $30 billion allocation from the Provider Relief Fund was distributed based on prior Medicare business, rather than the severity of the pandemic in each state.
+This resulted in hospitals in states less affected by the pandemic receiving more funding per case, while hospitals in heavily affected areas received less.
+The article also mentions:
+The possibility of false negative results from COVID-19 tests and the need to consider this when interpreting test results.
+The importance of accurate diagnosis and reporting of COVID-19 cases and deaths.
+The potential for increased dollars in terms of recovery funds due to over-counting of COVID-19 cases and deaths.
+The article cites several sources, including:
+Robert Berenson, Institute Fellow at the Urban Institute
+Lydia DePillis and Caroline Chen, ProPublica
+Mary Divine, St. Paul Pioneer Press
+Scott Jensen, State senator from Minnesota
+Gerald Kominski, Senior fellow at UCLA Center for Health Policy Research
+Larry Levitt, Kaiser Family Foundation
+Karyn Schwartz, Senior fellow at Kaiser Family Foundation
+The article is written in a neutral and informative style, with no apparent bias or agenda. It provides a clear explanation of the issues surrounding COVID-19 case and death counts, as well as the distribution of funds to hospitals from the Provider Relief Fund.
+
+Article 8 of 8
+Title: Early signs suggest race matters when it comes to COVID-19. So why isn't Canada collecting race-based data?
+Publisher: CBC.ca
+Posted: 7 days ago
+The article highlights the importance of collecting race-based data to understand the impact of COVID-19 on vulnerable communities.
+In Ontario, the chief medical officer of health (Dr. David Williams) states that the elderly, people with underlying conditions, and those with compromised immune systems are priorities, but does not mention racial or ethnic disparities.
+Health-care advocates and professionals criticize this approach for not acknowledging existing health disparities and not allowing targeted interventions in vulnerable communities.
+The article mentions that Alberta's chief public health officer has committed to exploring race-based data collection.
+Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Collecting race-based data to understand the impact of COVID-19 on vulnerable communities
+Identifying and prioritizing groups with underlying conditions, compromised immune systems, and other risk factors
+Targeted interventions in vulnerable communities based on available data

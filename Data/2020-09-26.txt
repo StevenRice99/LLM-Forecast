@@ -1,0 +1,74 @@
+Below are 7 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 7
+Title: Black Canadians get sick more from COVID-19. Scientists aim to find out why
+Publisher: CBC.ca
+Posted: 1 day ago
+In Toronto, Black patients made up 21% of COVID-19 cases despite being only 9% of the population.
+Researchers suspect that socioeconomic factors such as:
++ Front-line work and multiple jobs
++ Crowded, multigenerational homes
++ Pre-existing medical conditions (e.g. obesity, diabetes)
+may contribute to higher hospitalization rates in Black communities.
+The study aims to recruit 2,000 Black Canadians and 1,000 non-Black Canadians to investigate these risk factors and herd immunity.
+
+Article 2 of 7
+Title: B.C. announces 98 new cases of COVID-19 and 1 more death
+Publisher: CBC.ca
+Posted: 1 day ago
+Relevant.
+Summary: 
+- New COVID-19 cases in B.C.: 98
+- Active cases in B.C.: 1,349
+- Hospitalized patients in B.C.: 62 (19 in ICU)
+- Total deaths from COVID-19 in B.C.: 230
+- Outbreaks at long-term care and acute-care facilities: 10 and 4 respectively.
+
+Article 3 of 7
+Title: Public health officials call for tighter restrictions, warn COVID-19 could spiral out of control
+Publisher: CBC.ca
+Posted: 2 days ago
+Key values highlighted:
+Projected new cases could climb to 5,000 daily by October if current trends continue.
+Experts warn of an exponential increase in hospitalizations and deaths if restrictions are not tightened again.
+The next two weeks will determine the trajectory of the months to come.
+Adjusting social bubbles and enforcing restrictions are crucial to prevent a surge in cases.
+
+Article 4 of 7
+Title: Ontario snowbirds deciding whether to head south for the winter during pandemic
+Publisher: CTV News Ottawa
+Posted: 3 days ago
+The article mentions that there are over 600,000 cases of COVID-19 diagnosed in the state of Florida since the pandemic began.
+Some snowbirds plan to stay grounded due to concerns about COVID-19, while others still plan to travel south for the winter and quarantine for 14 days upon return.
+The Canadian government advises against all non-essential international travel and has shut the Canada-US border to all non-essential travel until at least Oct. 21.
+Some individuals mention that they will be taking precautions to protect themselves from COVID-19, such as isolating themselves in their community or following local regulations.
+Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Number of snowbirds traveling south and returning to Ontario
+Proportion of snowbirds choosing to stay grounded due to COVID-19 concerns
+Effectiveness of quarantine measures upon return to Ontario
+
+Article 5 of 7
+Title: Mapping out Canada's COVID-19 hotspots: new modelling shows where cases are rising
+Publisher: CTV News
+Posted: 4 days ago
+The article reports a rise in COVID-19 cases across Canada, with hotspots in metropolitan areas.
+In Ontario, there are 478 new cases reported on Tuesday, the highest number since May 2.
+Most of these new cases are in Ottawa (90), Peel region (95), and Toronto (153).
+These regions have a high population density, which may contribute to the increased hospitalization risk.
+
+Article 6 of 7
+Title: Civic duty or infringing freedom? Surveying Canadians' attitudes about masks
+Publisher: CTV News
+Posted: 4 days ago
+83% of respondents support mandatory mask-wearing in public spaces (important for understanding community attitudes towards COVID-19 prevention measures).
+61% of respondents worry about catching COVID-19 (indicates growing concern and potential increase in hospitalizations).
+2/3 believe another lockdown is likely within the next 3 months (suggests potential surge in hospitalizations).
+
+Article 7 of 7
+Title: COVID-19, flu, cold or seasonal allergies? How to tell the difference between symptoms
+Publisher: CTV News
+Posted: 5 days ago
+Symptoms of COVID-19 include dry cough, fever, fatigue, difficulty breathing, new loss of taste or smell, aches and pains, sore throat, vomiting, and diarrhea.
+Some patients experience severe chest pain, significant shortness of breath, or loss of speech and movement, which are serious symptoms that need immediate medical attention.
+Symptoms similar to COVID-19 include the flu (headaches) and seasonal allergies (runny nose), but can be distinguished by specific characteristics.
+Health officials urge anyone with COVID-19 symptoms or concerns about exposure to get tested.

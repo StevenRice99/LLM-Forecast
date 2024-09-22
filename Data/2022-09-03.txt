@@ -1,0 +1,57 @@
+Below are 4 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 4
+Title: What protection to expect from updated COVID vaccines this fall
+Publisher: CBC News
+Posted: Today
+The article is relevant for understanding the effectiveness of updated COVID-19 vaccines in providing immunity against severe illness and transmission.
+Key points:
+Prior infection with Omicron variants provides robust immunity against future reinfection and hospitalization, especially when combined with vaccination.
+Hybrid immunity (vaccination + prior infection) offers better protection than either alone.
+Updated vaccines that match the circulating variant may provide better protection than original vaccines.
+Timing of booster shots is important: waiting 3-6 months after infection or vaccination before getting another shot can help maximize immune response.
+Updated vaccines are expected to be more effective at stopping transmission in the real world, but the duration of this effect is uncertain.
+These points suggest that updated COVID-19 vaccines will likely provide some level of protection against severe illness and transmission, although the exact effectiveness may vary depending on individual circumstances.
+
+Article 2 of 4
+Title: Ontario senior loses LTC bed due to 'medical absence' rule passed during pandemic
+Publisher: CTV News Toronto
+Posted: 1 day ago
+Relevant.
+Median wait time for applicants to be placed in a long-term care home: 4 months.
+COVID-19 isolation period for long-term care residents: 10 days.
+30-day "medical absence" rule for long-term care residents, after which they can lose their room.
+
+Article 3 of 4
+Title: Ontario scraps mandatory five-day isolation rules for people with COVID-19
+Publisher: CTV News Toronto
+Posted: 3 days ago
+Relevant.
+Ontario scrapped its mandatory 5-day isolation rule for COVID-19 positive individuals.
+Individuals should isolate while symptomatic and return to work/school 24 hours after symptoms end.
+Masks are recommended for 10 days after voluntary isolation ends, but not mandatory.
+The approach is an "all respiratory virus" strategy due to expected rise in general illnesses in the fall.
+
+Article 4 of 4
+Title: COVID-19 mortality among racialized populations in Canada and its association with income
+Publisher: Statistique Canada
+Posted: 4 days ago
+The provided references are a collection of systematic reviews, research articles, and government reports that investigate racial/ethnic and socioeconomic disparities in COVID-19 outcomes. Here's a brief summary of each reference:
+Systematic Reviews 
+1. Adi et al. (2021): This review examines racial/ethnic and socioeconomic disparities in COVID-19 mortality rates worldwide.
+2. Pan et al. (2020): The authors conduct a systematic review to investigate the impact of ethnicity on clinical outcomes in COVID-19 patients.
+Research Articles 
+1. Rogers et al. (2020): This study explores racial disparities in COVID-19 mortality among essential workers in the United States.
+2. Xu et al. (2021): The authors analyze racial and ethnic disparities in years of potential life lost attributable to COVID-19 in 45 states and the District of Columbia.
+Government Reports 
+1. Public Health Agency of Canada (2020): This report highlights social determinants and inequities in health for Black Canadians.
+2. Public Health Agency of Canada (2021): The authors examine social inequalities in COVID-19 deaths in Canada.
+3. Statistics Canada (2020): This report provides an overview of education, labour, and resilience among Canada's Black population.
+Other References 
+1. Menard (2002): Although not directly related to the topic, this book on applied logistic regression analysis is a useful resource for statistical modeling.
+2. Mishra et al. (2021): This article discusses health inequalities during COVID-19 and their effects on morbidity and mortality.
+3. Tjepkema et al. (2019): The authors describe the Canadian Census Health and Environment Cohorts (CanCHECs), which can be used to study health outcomes in different populations.
+4. Williams et al. (2016): This article reviews associations among race, socioeconomic status, and health, providing a broader context for understanding disparities in COVID-19 outcomes.
+5. Williamson et al. (2020): The authors investigate factors associated with COVID-19-related death using data from the OpenSAFELY database.
+6. Yang & Aitken (2021): This report examines the relationship between household size and COVID-19 mortality rates in Canada.
+These references provide a comprehensive overview of the existing literature on racial/ethnic and socioeconomic disparities in COVID-19 outcomes, highlighting various factors that contribute to these disparities.

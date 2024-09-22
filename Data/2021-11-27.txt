@@ -1,0 +1,83 @@
+Below are 6 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 6
+Title: Evidence-Based Recommendations on the Use of Anti-SARS-CoV-2 Monoclonal Antibodies (Casirivimab + Imdevimab, and Sotrovimab) for Adults in Ontario
+Publisher: Ontario COVID-19 Science Advisory Table
+Posted: 3 days ago
+The provided text appears to be a scientific brief on managing antibody shortages during the COVID-19 pandemic, specifically focusing on casirivimab + imdevimab (AmAbs). The document outlines recommendations for Stage 3 of managing AmAb shortages, which involves rationing these agents due to scarcity. Here's a breakdown of the key points:
+Recommendations for Stage 3 
+1. Develop a logic-based mechanism: Create a fair procedure to choose between COVID-19 patients of equal need for secondary prioritization of casirivimab + imdevimab.
+2. Provincial management through an IMS: Manage rationing provincially, ideally through an Integrated Medical System (IMS), rather than on a site-by-site basis.
+3. Fair allocation: Allocate AmAbs to COVID-19 patients with a reasonable chance of benefiting from it, based on consensus among those involved in assessing eligibility.
+Options for Stage 3 
+1. Second-opinion or consensus model: Consider a second-opinion or consensus model among those responsible for assessing eligibility to mitigate potential bias.
+2. Allocation lottery: Use an allocation lottery as the fair default procedure for choosing among eligible COVID-19 patients where allocation based on maximizing benefits cannot be determined.
+Core Recommendations 
+1. Ethics and equity: Focus on ethics and equity in the use of AmAbs.
+2. Optimize dose and administration: Optimize the dose and administration of these agents.
+3. Evidence-based use: Adhere to evidence-based use of AmAbs.
+4. Provincial dashboard: Establish a provincial dashboard of supply and distribution accessible to all stakeholders.
+5. Ongoing modeling: Conduct ongoing modeling to estimate supply-to-demand adequacy.
+Methods 
+The authors searched PubMed and Google Scholar using specific search terms, retrieved reports citing relevant articles through Google Scholar, and reviewed references from identified articles for additional studies. They also sought expert perspectives from critical care medicine, medical ethics, internal medicine, and pharmacy in Ontario, as well as experts from the United States who had designed and/or implemented state-wide drug randomization during the COVID-19 pandemic.
+The document provides a comprehensive framework for managing AmAb shortages in a fair and equitable manner, taking into account the scarcity of these agents.
+
+Article 2 of 6
+Title: Ontario Health says healthcare impacts less likely during current COVID wave
+Publisher: Global News
+Posted: 3 days ago
+Key values:
+Intensive care unit (ICU) occupancy is currently around 130 patients.
+The trigger point for ramping down non-urgent procedures is now closer to 250 or 300 ICU patients.
+Modelling suggests ICU occupancy could reach 200 patients by January.
+Health human resources are the largest "rate limiting step" for intensive care capacity, due to low staff numbers and burnout.
+
+Article 3 of 6
+Title: COVID-19 vaccines for kids: What Canadian parents should know - National
+Publisher: Global News Toronto
+Posted: 3 days ago
+Here are the answers to your questions about COVID-19 vaccination in kids:
+Side effects: 
+Common side effects in children include redness, soreness or swelling at the injection site, and more general symptoms like fatigue, headache or muscle soreness.
+No serious side effects attributed to the vaccine were seen in trials for young children.
+Rare but possible side effects like anaphylaxis and myocarditis have been seen in older age groups.
+Should kids who had COVID-19 get vaccinated? 
+Yes, NACI recommends that children who have previously been infected with COVID-19 still get vaccinated.
+They should wait for any symptoms to clear up and be considered non-infectious before getting the vaccine.
+Which vaccine dose should an 11-year-old take? 
+NACI recommends that 11-year-olds receive the pediatric dose of vaccine.
+If they turn 12 between their first and second doses, they can take the adult vaccine for their second dose.
+Will COVID-19 vaccination be mandatory to attend school? 
+No provinces have announced that the COVID-19 vaccine will be mandatory for kids five to 11 to attend school.
+How do I get my child vaccinated? 
+Different provinces are delivering the vaccine in different ways, such as online pre-registration, phone booking, or in-person appointments at clinics, schools, and pharmacies.
+You can check with your local public health unit or government website for specific details on how to book an appointment for your child.
+
+Article 4 of 6
+Title: Further decline in COVID cases needed to return Sask. health system to normal: officials
+Publisher: CBC News
+Posted: 4 days ago
+Summary: The article is relevant because it discusses the current situation with COVID-19 hospitalizations and ICU patients in Saskatchewan, which shares some similarities with Ontario. Key points include:
+A decline in COVID-19 cases and associated hospitalizations
+Current ICU patient numbers are on par with pre-fourth-wave baseline
+Redeployments of medical staff to ICUs contributed to a backlog of delayed health services
+The need for further reduction in occupied ICU beds, particularly in urban centers like Saskatoon and Regina
+These points can be used as context to inform forecasting models for COVID-19 hospitalizations in Ontario, Canada.
+
+Article 5 of 6
+Title: ‘Significant milestone:’ COVID vaccine plans for children roll out across the country
+Publisher: Castlegar News
+Posted: 5 days ago
+Relevant.
+The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Key values include:
+One-third of new COVID-19 cases in Ontario are in school-aged children.
+The province expects to get 1,076,000 doses of the pediatric Pfizer-BioNTech vaccine for children aged 5-11.
+About one million children will be eligible for vaccination.
+The article suggests that vaccinating this age group may help reduce transmission and hospitalizations.
+
+Article 6 of 6
+Title: How scientific evidence evolves: A case study on COVID-19 in pregnancy
+Publisher: Healthy Debate
+Posted: 5 days ago
+Relevant.
+Pregnant people are at higher risk for developing severe COVID-19 illness, with a 7% hospitalization rate compared to 1.5% in non-pregnant counterparts. They are also more likely to experience poor pregnancy outcomes such as preterm birth and preeclampsia.

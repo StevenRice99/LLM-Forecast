@@ -1,0 +1,74 @@
+Below are 7 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 7
+Title: Alberta acted like the pandemic was over. Now it's a cautionary tale for Canada
+Publisher: CBC.ca
+Posted: Today
+The article discusses the COVID-19 pandemic situation in Alberta and Saskatchewan, two provinces in Canada's Prairie region. Experts warn that both provinces are on a "really bad" trajectory, with hospitalizations and deaths rising due to unvaccinated pockets of populations.
+In Alberta, the healthcare system is already stretched beyond capacity, with ICUs at risk of being overwhelmed. The province has implemented measures such as vaccine passports and incentives for vaccination, but these have had little impact on increasing vaccination rates.
+Saskatchewan is also experiencing a surge in cases, hospitalizations, and deaths, with experts warning that the situation may worsen before it improves. The province only recently introduced a vaccine passport system, which some experts believe came too late to make a significant difference.
+In Manitoba, another Prairie province, the situation is slightly better due to higher vaccination rates, but there are still concerns about unvaccinated populations in rural areas driving transmission numbers.
+Experts attribute the rise in cases and hospitalizations to a combination of factors, including vaccine hesitancy, misinformation, and a lack of effective public health measures. They also express frustration with policymakers' messaging, which they feel has shifted from individual responsibility to societal blame, potentially increasing vaccine hesitancy.
+The article concludes by highlighting the human cost of the pandemic, with healthcare systems already "broken" in Alberta and Saskatchewan, and experts warning that the situation may worsen before it improves.
+
+Article 2 of 7
+Title: Unvaccinated 60 times more likely to end up in ICU with COVID-19, Ontario data shows
+Publisher: Global News
+Posted: 3 days ago
+Vaccination rates are highly effective against catching COVID-19, being hospitalized due to the disease, and ICU use. Unvaccinated individuals are 7 times more likely to catch COVID-19, 25 times more likely to be hospitalized, and 60 times more likely to be in the ICU compared to fully vaccinated people. The rate of positive cases and hospitalization among unvaccinated people is rising during Ontario's fourth wave, while it remains stable for vaccinated individuals.
+
+Article 3 of 7
+Title: What Canadians can expect from COVID-19 this fall and winter
+Publisher: CBC.ca
+Posted: 3 days ago
+Key values:
+Vaccination rates: 70% of total population and 80% of eligible population with two doses (CBC's vaccine tracker)
+Immunity levels: expected to result in a drop in the hospitalization rate
+Waning immunity: potential issue around late October, booster shots may be needed
+Delta variant: more infectious than previous strains, but vaccines have proven effective against variants so far
+New variants: possible emergence, but unlikely to be vaccine-resistant
+
+Article 4 of 7
+Title: 'Mild risk' prompts Ontario to recommend Pfizer over Moderna for those aged 18-24
+Publisher: CBC.ca
+Posted: 3 days ago
+The risk of myocarditis and pericarditis from the Moderna vaccine is higher than Pfizer-BioNTech (1 in 5,000 vs 1 in 28,000).
+However, this risk is still very low compared to the risk of severe COVID-19 (11 in 100,000 people contract moderate to severe COVID-19 and often require hospitalization).
+The article highlights that unvaccinated individuals make up a significant proportion of new cases (67%).
+Key indicators for forecasting COVID-19 hospitalizations include:
++ Newly reported school-related cases
++ Provincewide test positivity rate
++ Active cases
++ Patients in ICU with COVID-related illnesses
+
+Article 5 of 7
+Title: Ontario doctor accused of spreading COVID-19 misinformation barred from providing vaccine, mask exemptions
+Publisher: CBC.ca
+Posted: 4 days ago
+Relevant.
+Summary: The article reports on Dr. Patrick Phillips, a family doctor in Ontario, Canada, who was barred by the College of Physicians and Surgeons from providing exemptions for COVID-19 vaccines and face masks due to allegations of spreading misinformation about the pandemic. Key values include:
+Number of Twitter followers (nearly 40,000)
+Specific claims made by Dr. Phillips that are considered misleading or inflammatory
+Restrictions placed on Dr. Phillips' medical practice (e.g., no exemptions for COVID-19 testing, prescribing certain medications)
+
+Article 6 of 7
+Title: Large Study Finds Convalescent Plasma Doesn’t Help Seriously Ill COVID-19 Patients
+Publisher: Weill Cornell Medicine Newsroom
+Posted: 4 days ago
+Convalescent plasma did not reduce the risk of intubation or death for hospitalized COVID-19 patients.
+Patients who received convalescent plasma experienced more adverse events, including needing more oxygen and worsening respiratory failure.
+Low antibody titers in convalescent plasma were associated with a higher risk of intubation or death.
+The study found that convalescent plasma had highly variable donor antibody content due to differences in immunological response to the virus.
+
+Article 7 of 7
+Title: Jason Kenney, Scott Moe face similar COVID-19 crises but different political pressure
+Publisher: CBC.ca
+Posted: 7 days ago
+Key values:
+Average new cases per 100,000 people over the past 7 days: 
++ Alberta: 253
++ Saskatchewan: 279
++ Ontario: 32
+Hospitalization numbers:
++ Saskatchewan: 276 people in hospital and 61 in ICU
++ Alberta: 243 patients in ICU

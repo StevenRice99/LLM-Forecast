@@ -1,0 +1,68 @@
+Below are 7 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 7
+Title: Spring wave of COVID-19? Be prepared Canada, experts warn
+Publisher: CTV News
+Posted: 2 days ago
+Wastewater data shows a "sustained increase" in viral signal in various locations across Ontario.
+Experts warn of potential rise in cases and hospitalizations due to easing of public health measures and emergence of Omicron subvariant BA.2.
+Immunization rates are expected to blunt the impacts of BA.2, but decreased public health vigilance could clear a path for increased infections and hospitalizations.
+Uptake of third vaccine doses is lagging behind first and second doses, which may impact protection against severe outcomes from Omicron infection.
+Experts suggest that vaccination is only somewhat efficient at protecting against infection, particularly when caused by the Omicron variant.
+
+Article 2 of 7
+Title: Immunocompromised families doing tricky calculus as Ontario's pandemic rules end
+Publisher: CBC.ca
+Posted: 4 days ago
+Key values:
+Hospital admissions of children with COVID-19 at CHEO (Children's Hospital of Eastern Ontario) have risen since the start of the Omicron wave.
+72% of all COVID-19 admissions to CHEO occurred since Dec. 1, 2021.
+Average number of hospitalizations: 6 patients per week during the current wave.
+
+Article 3 of 7
+Title: Ontario lifts mask mandates in most spaces, but it's no 'light switch' for pre-pandemic life, expert says
+Publisher: CBC.ca
+Posted: 5 days ago
+551 people hospitalized with COVID-19 (same as previous day)
+181 patients in intensive care (slightly down from previous day and last week)
+4 more deaths linked to the virus reported on Friday
+Estimated daily number of infections between 15,000 to 20,000 based on wastewater data
+
+Article 4 of 7
+Title: Quebec reports five more COVID-19 deaths, slight rise in hospitalizations
+Publisher: Welland Tribune
+Posted: 5 days ago
+Ontario, Canada is mentioned. 
+The article discusses postal codes in various regions, including Ontario, Canada. 
+The article lists postal codes in Ontario, Canada.
+This information could be used to geographically track and analyze COVID-19 cases within the province.
+
+Article 5 of 7
+Title: Ontario reports 551 COVID-19 hospitalizations, 3 new deaths
+Publisher: Yahoo News Canada
+Posted: 6 days ago
+Current hospitalizations: 551
+Trend: down from previous days
+Note on weekend reporting: 10% of hospitals do not report data on weekends
+ICU patients with COVID-related illnesses: 182; ventilator needed: 97
+
+Article 6 of 7
+Title: COVID-19 pandemic still hitting low income areas hardest, Ontario's science table says
+Publisher: CBC.ca
+Posted: 6 days ago
+Key values:
+Low income areas have borne the brunt of COVID-19 in every wave of the pandemic
+Lowest income neighbourhoods recorded the highest COVID-19 death rates in all five pandemic waves
+Mortality rate in low-income neighbourhoods was 2-2.5 times higher than in high-income neighbourhoods
+Disparities in vaccination rates, paid sick leave, and access to healthcare contribute to higher hospitalization rates in low-income areas
+
+Article 7 of 7
+Title: COVID-19 hasn't gone anywhere in Canada — and we could still see another surge
+Publisher: CBC.ca
+Posted: 7 days ago
+Here's a brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Current daily case counts are levelling off nationally, but still high (15,000 to 20,000 estimated infections).
+Wastewater surveillance shows increasing concentrations of SARS-CoV-2 in Ontario and other provinces.
+BA.2 subvariant is expected to become the dominant strain in Canada, spreading 30% more easily than previous variants.
+Hospital occupancy is expected to rise, but not to crushing levels seen earlier in the pandemic.
+Communities with lower vaccination rates, crowded housing, or multi-generational homes are at higher risk of household transmission and dire outcomes.

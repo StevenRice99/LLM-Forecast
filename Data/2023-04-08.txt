@@ -1,0 +1,71 @@
+Below are 6 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 6
+Title: COVID-19 patients were more likely to die than flu patients this past flu season: study
+Publisher: CTV News
+Posted: 1 day ago
+5.98% of patients hospitalized with COVID-19 died within 30 days (vs 3.16% for influenza)
+Mortality rates among people hospitalized with COVID-19 had decreased compared to early in the pandemic
+Unvaccinated individuals had a greater increased risk of death compared to those vaccinated or boosted
+
+Article 2 of 6
+Title: Health Impacts of Air Pollution in Canada 2021 Report
+Publisher: Canada.ca
+Posted: 4 days ago
+It appears that you've provided a list of references related to air quality and health studies in Canada. Here's a brief summary of each reference:
+1. Hystad P. (2020): This report updates the Canadian NO2 land use regression model for years 2015-2017 and predicts NO2 concentrations across Canada.
+2. Lim et al. (2012): A comprehensive study that assessed the global burden of disease and injury attributable to various risk factors, including air pollution, in 21 regions from 1990 to 2010.
+3. Makar et al. (2018): This study estimated exceedances of critical loads for acidifying deposition in Alberta and Saskatchewan, Canada.
+4. Matz et al. (2020): A health impact analysis of PM2.5 from wildfire smoke in Canada between 2013-2015 and 2017-2018.
+5. Moran et al. (2010): A study that presented a new Canadian air-quality forecast model, GEM-MACH15, which was used to predict particulate matter concentrations.
+6. Ostro (1987): An early study that investigated the relationship between air pollution and morbidity using a specification test.
+7. Ostro & Rothschild (1989): A follow-up study that examined the association between multiple pollutants and acute respiratory morbidity.
+8. Pappin et al. (2019): This study explored the shape of the association between low levels of fine particulate matter and mortality across three cycles of the Canadian Census Health and Environment Cohort.
+9. Pinault et al. (2017): A study that investigated the associations between fine particulate matter and mortality in the 2001 Canadian Census Health and Environment Cohort.
+10. Robichaud & Ménard (2014): An analysis of warm season ground-level ozone and PM2.5 over North America using real-time observations and Canadian operational air quality models.
+11. Shaffer et al. (2019): A study that aimed to improve and expand estimates of the Global Burden of Disease due to environmental health risk factors, including air pollution.
+These references cover various aspects of air quality research in Canada, including modeling, health impact assessments, and global burden of disease studies.
+
+Article 3 of 6
+Title: COVID-19 kills 6 more in N.B., while hospital admissions, new cases decrease
+Publisher: CBC.ca
+Posted: 4 days ago
+The article discusses the COVID-19 situation in New Brunswick, Canada, and the eligibility for spring boosters.
+Key points: 
+1. Eligibility for spring boosters: People aged 65 and over, those who are moderately to severely immunocompromised (aged 18 and over), and people living in long-term care facilities are eligible for a spring booster dose if at least five months have passed since their last vaccine dose or COVID infection.
+2. Number of eligible individuals: An estimated 209,000 people are eligible for these spring boosters, including 177,400 people aged 65 or older, 19,040 people aged 18 to 64 who are considered high risk, and 12,735 people living in long-term care settings.
+3. Current COVID-19 situation: COVID-19 is currently the third leading cause of hospitalizations and deaths in New Brunswick, with an estimated one in 24 New Brunswickers infected.
+4. Hazard index: New Brunswick has a severe hazard index rating (11.1) due to high rates of COVID-19 infections, hospitalizations, and deaths.
+5. Exceptions for spring boosters: The Department of Health spokesperson did not answer directly whether any exceptions will be made for people who don't qualify for a spring booster but live with or have regular contact with high-risk individuals.
+Additional context: 
+New Brunswick has the third highest COVID hazard index in the country.
+Hospitalizations and deaths due to COVID are nearly eight times higher than the lowest point in the pandemic.
+Infections according to wastewater levels and estimated long COVID cases are nearly 18 times higher than the lowest point in the pandemic.
+
+Article 4 of 6
+Title: COVID-19 screeners removed from hospitals, Alberta closes PCR testing centres
+Publisher: CBC.ca
+Posted: 4 days ago
+Alberta has moved to an "endemic phase" of COVID-19, treating it like other respiratory viruses.
+Hospitalization numbers have dropped dramatically since their peak (465 Albertans hospitalized with COVID-19).
+Roughly half of these hospitalizations had COVID as a primary or contributing cause.
+The article does not provide specific data on Ontario's COVID-19 hospitalizations.
+
+Article 5 of 6
+Title: Ontario's COVID-19 wastewater testing program gets an $18M boost
+Publisher: CBC.ca
+Posted: 5 days ago
+Researchers test wastewater across 7 regions in Ontario to measure COVID-19 prevalence.
+Data from wastewater testing and hospitalization numbers are key indicators of virus spread.
+Moderate COVID-19 risk was reported in Sudbury based on wastewater findings and hospitalizations.
+
+Article 6 of 6
+Title: Analysis: Ageism and the pandemic: How Canada continues to let older adults suffer and die from COVID-19
+Publisher: Brighter World
+Posted: 5 days ago
+COVID-19 has become the second-leading cause of hospitalization in Canada.
+Among those over 50, it is the single leading cause of hospitalization.
+Older adults account for most COVID deaths and hospitalizations.
+Long-term care facilities have seen more outbreaks, deaths, and hospitalizations than previous years.
+Booster shots are crucial in protecting against long-term health issues and community transmission.
+Excess COVID-19 deaths in older adults are not inevitable with better testing and vaccination efforts.

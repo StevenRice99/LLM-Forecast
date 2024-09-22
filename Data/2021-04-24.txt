@@ -1,0 +1,91 @@
+Below are 8 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 8
+Title: A Vaccination Strategy for Ontario COVID-19 Hotspots and Essential Workers
+Publisher: Ontario COVID-19 Science Advisory Table
+Posted: 1 day ago
+The text describes a modeling study that aimed to estimate the effectiveness of different vaccination strategies in reducing SARS-CoV-2 infections and severe outcomes in Ontario, Canada. Here are the key points:
+Modeling assumptions: 
+The model estimated reproductive rates and relative rates of cumulative and weekly SARS-CoV-2 infections between COVID-19 hotspots and lower-incidence areas.
+Vaccination was assumed to reduce acquisition of infection with an efficacy of 60% after one dose.
+The model captured direct and indirect benefits of vaccinations within the hotspots and lower-incidence areas.
+Simulation scenarios: 
+A base-case scenario where no further COVID-19 vaccination beyond April 8, 2021, was compared with a fixed amount of daily vaccinations (100,000 per day) distributed using an initial strategy.
+The hotspot-accelerated vaccination strategy allocated 50% of COVID-19 vaccines to the top 20% of cumulative SARS-CoV-2 incidence hotspots and the remaining 50% equally across the province.
+Key findings: 
+The model estimated that the hotspot-accelerated vaccination strategy would avert more infections than the initial strategy.
+Age-specific metrics for COVID-19 severity (hospitalization, ICU, and mortality) were assumed to be the same in hotspots and lower-incidence areas, although data suggest higher case-fatality rates in lower-income neighborhoods.
+Limitations: 
+The model underestimated the impact of COVID-19 vaccination in one region on another due to assuming independence between hotspots and lower SARS-CoV-2 incidence neighborhoods.
+The hotspot-accelerated strategy allocated 60% of Ontario's COVID-19 vaccine supply to the top 20% of the population living in hotspots, which may not be feasible or equitable.
+
+Article 2 of 8
+Title: Federal modelling data suggest lockdowns have slowed COVID-19 spread
+Publisher: CBC.ca
+Posted: 1 day ago
+Key values:
+Province-wide restrictions and lockdowns are showing results in slowing down the spread of COVID-19.
+The national "rT" (average number of people one infected person will pass the virus on to) has dipped below 1, indicating a potential decline in new cases.
+A high vaccine uptake (at least 75% of adults getting one dose) is expected by summer and could help keep hospitalizations at a manageable level.
+Short-term forecasts predict a slower increase in the number of cases between now and May 2, with a slight acceleration in deaths over the next two weeks.
+
+Article 3 of 8
+Title: COVID-19: Latest developments in the Greater Toronto Area on April 23
+Publisher: Global News Toronto
+Posted: 1 day ago
+4,505 new COVID-19 cases reported in Ontario on Friday (total: 437,310)
+34 more deaths reported in the province (total: 7,863)
+1,257 cases in Toronto, 1,232 in Peel Region
+133,872 vaccines administered in one day, with 355,208 people fully vaccinated
+
+Article 4 of 8
+Title: Canadian-made COVID-19 antibody treatment sitting on shelves due to lack of administration plan
+Publisher: CTV News
+Posted: 1 day ago
+The article discusses the use of monoclonal antibodies, specifically Bamlanivimab, as a treatment for COVID-19 in Canada. The treatment has been shown to be effective in reducing hospitalizations and deaths from the disease.
+Robyn Tavel, whose father contracted COVID-19, expressed frustration that he was not able to access the treatment despite it being available in Canada. Her father eventually recovered after receiving corticosteroids, but Robyn worries about others who may become ill and need the antibody treatment.
+Researchers are also exploring the use of monoclonal antibodies as a preventative option for vulnerable groups, such as immunocompromised patients who do not respond to COVID-19 vaccines.
+Experts, including Dr. Kumar and Dr. Silverman, are calling on provincial leaders and health officials to implement Bamlanivimab into the healthcare system, citing its potential to prevent deaths and hospitalizations from COVID-19. They suggest setting up mobile clinics and infusion centers to increase access to the treatment.
+The article concludes by highlighting the need for Canada to start administering doses of the treatment to prevent more Canadians from dying of COVID-19, especially as the country continues to face increased hospitalizations due to the disease.
+Key points:
+Monoclonal antibodies, specifically Bamlanivimab, have been shown to be effective in reducing hospitalizations and deaths from COVID-19.
+The treatment is available in Canada but has not been widely implemented.
+Experts are calling on provincial leaders and health officials to implement Bamlanivimab into the healthcare system.
+The treatment could be especially helpful for vulnerable groups, such as immunocompromised patients who do not respond to COVID-19 vaccines.
+Canada needs to start administering doses of the treatment to prevent more Canadians from dying of COVID-19.
+
+Article 5 of 8
+Title: Ottawa inks deal with Pfizer for millions of COVID-19 booster shots through 2024
+Publisher: CTV News
+Posted: 1 day ago
+Relevant.
+Summary: The article mentions Canada's vaccine procurement efforts, including 35 million COVID-19 vaccine booster shots for next year and 30 million for the year after. This information is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada, as it provides insight into the potential future vaccination rates and herd immunity levels in the province.
+
+Article 6 of 8
+Title: One of Ontario's top scientific advisers says he considered quitting after latest COVID-19 restrictions
+Publisher: CTV News
+Posted: 4 days ago
+Key values mentioned that are important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Paid sick leave: Juni emphasizes the importance of paid sick leave to control the pandemic.
+Social inequities: The article highlights how social inequities affect the spread of the virus and hospitalization rates.
+Outdoor activities: The article notes that outdoor space is safer than indoors during the pandemic.
+Workplace inspections: Juni suggests increased workplace inspections, sanitization, and support for businesses to keep employees safe.
+
+Article 7 of 8
+Title: COVID-19 is 'not a joke': ICU staff at Cambridge Memorial Hospital brace for surge in patients
+Publisher: CBC.ca
+Posted: 4 days ago
+Key values:
+39 people hospitalized with COVID-19 in Waterloo region as of Monday afternoon
+Cambridge Memorial Hospital had 13 COVID-19 patients in its medicine unit and 8 in its ICU on Monday
+Critical-care beds added to cope with influx of patients
+Staffing concerns due to lack of specially trained staff, particularly for critical care
+Patients showing up sicker and in worse shape than ever before
+
+Article 8 of 8
+Title: Hospitals make big changes to deal with surging COVID-19 cases
+Publisher: CBC.ca
+Posted: 7 days ago
+The Ottawa Hospital expects 100 COVID-19 patients to occupy its critical and acute care beds.
+Current test positivity rates could lead to a total of 80-100 COVID-19 patients at the hospital's campuses.
+Other hospitals (Queensway Carleton and Montfort) are also preparing for increased COVID-19 patients by scaling back medical procedures and redeploying staff.

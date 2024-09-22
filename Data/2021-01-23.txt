@@ -1,0 +1,58 @@
+Below are 5 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 5
+Title: Justin Trudeau mulls mandatory hotel quarantine for returning travellers
+Publisher: vancouverislandfreedaily.com
+Posted: Today
+Daily case numbers have slightly decreased in Ontario over the last week (2,662 new cases).
+Hospitalizations are decreasing (1,512 people in hospital on Friday, down from 1,533 the previous day).
+The seven-day average of new daily cases is 2,703.
+There were 87 more deaths reported on Friday.
+These values are most important for forecasting COVID-19 hospitalizations in Ontario, Canada.
+
+Article 2 of 5
+Title: Canada's COVID-19 case numbers show early positive signs
+Publisher: CBC News
+Posted: 1 day ago
+Key values:
+11 consecutive declines in Ontario's seven-day average case numbers
+Stay-at-home order and enforcement of orders may be necessary to reverse course in Saskatchewan
+Essential workplaces are key transmission sites, driving case counts down further would ease pressure on health-care systems
+Targeted, rapid testing in high-risk workplaces is recommended
+Improvements to paid sick leave benefits can help reduce household spread
+
+Article 3 of 5
+Title: COVID-19 is hitting First Nations in Western Canada especially hard
+Publisher: CBC News
+Posted: 2 days ago
+The article reports that as of Jan 19, there were only 93 active cases of COVID-19 on reserves in Ontario.
+This number is significantly lower than other provinces such as Alberta (1,312), Saskatchewan (1,196), and Manitoba (2,241).
+The article highlights the challenges faced by First Nations communities in Western Canada, including overcrowding, lack of housing, poor access to healthcare services, underlying ailments, food insecurity, poverty, and relaxed provincial measures.
+These factors contribute to a higher risk of COVID-19 transmission and hospitalizations in these communities.
+Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Number of active cases on reserves (93)
+Low compared to other provinces
+Challenges faced by First Nations communities in Western Canada
+
+Article 4 of 5
+Title: COVID-19 and Ontario’s Long-Term Care Homes
+Publisher: Ontario COVID-19 Science Advisory Table
+Posted: 3 days ago
+The text discusses strategies for improving the response to COVID-19 in Long-Term Care (LTC) homes in Ontario, Canada. The main points are:
+1. Prioritize vaccination: Prioritize vaccination of LTC residents, workers, and essential family caregivers to reduce COVID-19 cases and deaths.
+2. Implement effective communication: Implement strategies to expedite administration and improve vaccine acceptance among LTC staff, including education, peer champions, and addressing concerns about the vaccine development process.
+3. Optimize data collection: Continue optimizing data on LTC homes for the duration of the pandemic, including resuming expedited reviews of COVID-19 deaths and collecting timely and complete vaccination rates.
+4. Enhance resident assessment: Implement the interRAI LTCF, a next-generation assessment tool, to better understand the functional and psychosocial status and care needs of LTC residents.
+5. Collect data on essential caregivers and visitors: Collect data on the frequency and nature of visits by essential family caregivers and visitors to understand the risks they may carry with respect to SARS-CoV-2 transmission.
+6. Enhance staffing data collection: Enhance data on staffing levels, hours of care provided, and staff infection rates to support community-tailored approaches focused on LTC home workers.
+The text highlights the importance of these strategies in preventing COVID-19 outbreaks and deaths within LTC homes during both the pre- and post-COVID-19 vaccine era.
+
+Article 5 of 5
+Title: Norway reviewing deaths of frail and elderly patients vaccinated against COVID-19
+Publisher: CTV News
+Posted: 4 days ago
+The article discusses the investigation into 23 elderly patient deaths in Norway after receiving the Pfizer/BioNTech vaccine. The Norwegian Institute of Public Health updated its guidance to evaluate individual patients' risks and benefits of vaccination. The article highlights that frail patients may experience adverse reactions such as fever and nausea, which could be fatal.
+Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Age: Elderly patients are at higher risk of becoming seriously ill from COVID-19.
+Underlying health conditions: Patients with underlying health conditions face a higher risk of serious illness from COVID-19.
+Vaccination status: The article discusses the risks and benefits of vaccination for frail patients.

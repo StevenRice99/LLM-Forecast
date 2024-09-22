@@ -1,0 +1,48 @@
+Below are 4 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 4
+Title: COVID cases down even as vaccine uptake wanes, says Hamilton public health
+Publisher: CBC.ca
+Posted: 2 days ago
+Here is a brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Reported COVID-19 cases are decreasing in Hamilton.
+Hospitalizations and ICU admissions remain stable.
+Acute care occupancy has been near or above 100% for all hospitals.
+Less than 20% of the population have had a booster dose within 6 months.
+The majority of hospitalizations are among older people, who also have high vaccination uptake.
+
+Article 2 of 4
+Title: Co-infection with MRSA ‘superbug’ could make COVID-19 outcomes even more deadly
+Publisher: News-Medical.Net
+Posted: 4 days ago
+Key values:
+25% of patients co-infected with SARS-CoV-2 and bacteria die as a result.
+Hospitalization increases the risk of co-infection.
+Patients hospitalized or in intensive care units are at higher risk.
+
+Article 3 of 4
+Title: Why Canada avoided a severe winter COVID wave
+Publisher: CBC News
+Posted: 7 days ago
+The article discusses the current state of COVID-19 immunity in Canada and globally, highlighting the concept of hybrid immunity, which is a combination of vaccine-induced immunity and natural immunity from previous infections.
+Key points:
+Hybrid immunity provides sustained protection against severe disease but not as good protection against infection.
+Protection against infection wanes more quickly, leading to continued waves of transmission despite high levels of immunity.
+The safest way to get immunity is through vaccination, with a much lower risk of severe illness compared to previous variants like Delta or the original strain.
+South Africa has seen a significant reduction in hospitalizations and deaths due to COVID-19 since the rollout of vaccines, with the current immunity wall holding well.
+Better access to antiviral treatments has helped reduce hospitalizations, especially among elderly Canadians who are less likely to have prior infections.
+The immunity landscape is drastically different between younger adults and elderly Canadians, with a larger proportion of younger people having been infected.
+Future goals should focus on improving COVID-19 vaccine technology to recreate the protection provided by hybrid immunity in those who haven't yet been vaccinated.
+The article also mentions that:
+Immunity from severe disease may wane over time, and it's unclear how long immunity will last.
+There could be seasonal variation in terms of the severity of COVID infections, similar to the flu.
+The scientists tracking new COVID-19 variants are on high alert for potential new strains that could emerge before they're detected and tracked.
+Overall, the article suggests that while there is still some uncertainty about the long-term effectiveness of hybrid immunity, it has provided a significant level of protection against severe disease, and continued vigilance and research are necessary to address any future challenges.
+
+Article 4 of 4
+Title: Daughter can't understand why dad couldn't get Paxlovid to ease COVID symptoms
+Publisher: Times Colonist
+Posted: 7 days ago
+Paxlovid eligibility criteria differ between B.C. and Ontario (B.C.: 70+ with 3+ serious diseases; Ontario: 60+ or immuno-compromised)
+Study results suggest Paxlovid may help high-risk patients avoid hospitalization or death
+However, no significant reduction in hospitalization or death was found in lower-risk populations, including those over age 70.

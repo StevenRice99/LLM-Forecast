@@ -1,0 +1,83 @@
+Below are 7 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 7
+Title: Ontario reports 11 net new COVID-19 deaths, 1,188 hospitalizations
+Publisher: CP24
+Posted: Today
+Relevant.
+1,188 people currently hospitalized with COVID-19 in Ontario.
+45% of hospitalized patients were admitted for virus-related reasons and 55% for other reasons but tested positive.
+168 ICU patients, with 64% admitted for virus-related reasons and 36% for other reasons.
+Positivity rate: 18.4%, up from 17.1% a week ago.
+Estimated daily cases: upwards of 100,000 (based on wastewater analysis).
+
+Article 2 of 7
+Title: 'No lid on the pot anymore': Sharp COVID-19 rise concerning health experts, leaders
+Publisher: CBC.ca
+Posted: 1 day ago
+Key values for forecasting:
+Wastewater levels are setting records and exceeding January's Omicron-driven wave
+Hospitalization rates remain relatively low but may rise quickly as transmission spreads to vulnerable individuals
+Data suggests hospitalizations peak one week after wastewater levels peak (not yet happened)
+Test positivity rates are rising, with 23 Ottawa residents in local hospitals for treatment of active COVID-19
+
+Article 3 of 7
+Title: Ontario's 6th wave of COVID-19: How bad will it get?
+Publisher: CBC.ca
+Posted: 2 days ago
+Key values for forecasting:
+100,000 people getting infected daily (estimated from wastewater)
+36% increase in hospitalizations with COVID-19 in a week
+Record high number of cases
+Staffing challenges due to health-care workers calling in sick with COVID-19
+Potential for more hospitalizations and deaths later this month
+
+Article 4 of 7
+Title: Ontario facing 'tidal wave' of over 100,000 new COVID-19 cases per day, science table head estimates
+Publisher: CBC.ca
+Posted: 2 days ago
+Here is a brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Estimated 100,000-120,000 new cases of COVID-19 daily
+Wastewater testing suggests current spike similar to Omicron peak in January
+Mass vaccination has built up a wall of immunity, potentially reducing hospitalizations
+Restricted eligibility for testing makes it unclear how long this wave will last
+Hospital admissions are increasing, with emergency room physician Dr. Kashif Pirzada warning that hospitals may hit capacity in the next couple of weeks
+
+Article 5 of 7
+Title: Worries of more school disruptions are rising alongside COVID-19 cases
+Publisher: CBC.ca
+Posted: 3 days ago
+Key values:
+Rising new COVID-19 infection and hospitalization rates in parts of the country
+High student absences linked to COVID-19 in Quebec (14,000 to 27,119 daily absences)
+Similar high absence rates in multiple boards in Ontario, particularly in the northern region
+Concerns about staffing shortages in healthcare and education due to illness or isolation
+Calls for reinstating mask mandates in schools to slow the rising cases
+
+Article 6 of 7
+Title: COVID-19 hospitalizations in Ottawa on the rise
+Publisher: CTV News Ottawa
+Posted: 4 days ago
+Key values for forecasting:
+19 residents in hospital due to an active case of COVID-19 (up from 11 on Monday)
+2 people in intensive care (up from zero)
+100% occupancy rate of acute care beds and 70% occupancy rate of ICU beds
+79 new laboratory-confirmed cases of COVID-19 reported in Ottawa on Tuesday
+Rising trend in wastewater viral signal, with a seven-day mean viral signal at record levels
+
+Article 7 of 7
+Title: Canada’s hospital capacity crisis will remain long after the pandemic is over
+Publisher: The Globe and Mail
+Posted: 7 days ago
+The article discusses the potential for bundled payments in Canadian healthcare to improve patient outcomes and reduce costs. Bundled payments involve paying hospitals a fixed amount for a specific treatment or procedure, rather than reimbursing them on a fee-for-service basis.
+Kevin Smith, president of the University Health Network in Toronto, has implemented small-scale versions of bundled payments at UHN and St. Joseph Health System in Hamilton. He notes that this approach incentivizes better care by tying hospital budgets to patient outcomes.
+Jason Sutherland, an expert on healthcare funding, advocates for a funding model that ties hospital budgets to patient outcomes. He suggests that hospitals should be rewarded for providing high-quality care, rather than simply being paid for the number of procedures they perform.
+The article also highlights the importance of data in improving healthcare outcomes. Elyse Berger Pelletier, an ER physician and former deputy director general of emergencies and EMS in Quebec, notes that leveraging data can help identify areas where hospitals are overusing resources, such as keeping patients in hospital longer than necessary.
+Pelletier suggests that Canadian hospitals could learn from their US counterparts, which have more robust data systems to track patient outcomes. She argues that this approach could help free up capacity in the short term and improve patient care.
+The article concludes by noting that some Canadian jurisdictions are better at leveraging data than others, but that there is still much work to be done to improve healthcare outcomes.
+Key points:
+Bundled payments can incentivize better care by tying hospital budgets to patient outcomes.
+Data is essential for improving healthcare outcomes and identifying areas where hospitals can optimize their resources.
+Canadian hospitals could learn from their US counterparts in terms of data-driven decision-making.
+Leveraging data can help free up capacity in the short term and improve patient care.
+Overall, the article suggests that a more data-driven approach to healthcare funding and resource allocation could lead to better patient outcomes and improved efficiency in Canadian hospitals.

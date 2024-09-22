@@ -1,0 +1,48 @@
+Below are 4 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 4
+Title: Anxious patients await surgery, but the COVID-19 backlog won't be 'easily overcome in the next year'
+Publisher: CBC.ca
+Posted: 1 day ago
+Key values:
+Decreasing COVID-19 infection rates and hospitalizations
+Province loosening restrictions on stores, shopping malls, and hair salons
+Concerns about potential increase in hospitalizations over March break due to more contagious variants of the virus
+Hospital capacity operating at 50% since December, with some areas functioning at 30%
+Backlog of surgeries (140,000 Quebecers waiting for surgery) may impact availability of ICU beds
+
+Article 2 of 4
+Title: Health-care system's history with Black community is affecting attitudes around COVID-19 vaccine
+Publisher: CBC.ca
+Posted: 2 days ago
+Key values:
+25% of patients hospitalized with COVID-19 are Black (despite making up only 9% of Toronto's population)
+The predominantly Black and brown neighbourhoods have been hotspots since the beginning of COVID
+Limited race-based medical research can contribute to inequities in the system
+The province is allocating $12.5 million in funding towards community health agencies in high-risk communities for outreach and increased testing
+
+Article 3 of 4
+Title: Tracking variants of the novel coronavirus in Canada
+Publisher: CTV News
+Posted: 2 days ago
+Key values:
+As of Apr. 8, 2021, Ontario changed its methodology for confirming B.1.1.7 variants, using initial screening tests instead of genome sequencing.
+Public Health Ontario (PHO) confirmed that the accuracy of the variant test and prevalence of B.1.1.7 in Ontario make genome sequencing no longer required to confirm a sample as likely a B.1.1.7 variant.
+Ontario has seen an outbreak involving the B.1.1.7 variant at a long-term care home, resulting in all residents but one contracting the virus and over 100 positive cases amongst staff.
+Public Health Ontario issued a caution about interpreting variant tracking data due to delays between specimen collection and whole genome sequencing, which may result in case records being removed or updated.
+
+Article 4 of 4
+Title: Important thing to know about the novel coronavirus: It's a shapeshifter
+Publisher: CTV News
+Posted: 2 days ago
+Key points:
+The virus is evolving and changing the shape of its spike protein.
+This evolution can make the virus more infectious (e.g., B.1.1.7 variant).
+The virus's genetic code is disappearing in ways that allow it to evade immune responses.
+This evolution does not make the virus unstoppable, but could necessitate new vaccines or treatments.
+A similar process could play out on a wider scale, potentially requiring new formulas for existing vaccines.
+Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Rate of viral mutation and adaptation
+Effectiveness of current vaccines against emerging variants
+Hospitalization rates among individuals with compromised immune systems (e.g., long-haulers)
+Public health measures and vaccination coverage in Ontario

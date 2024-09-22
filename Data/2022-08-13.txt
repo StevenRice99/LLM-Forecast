@@ -1,0 +1,76 @@
+Below are 6 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 6
+Title: Wait times for eating disorder treatment in Canada grow during the pandemic
+Publisher: CBC News
+Posted: 1 day ago
+The article discusses the challenges faced by individuals with eating disorders in Canada, particularly due to staff shortages and limited access to publicly funded treatment services. Experts warn that the situation could worsen with another wave of COVID-19.
+Key points:
+Staff shortages have forced some hospitals and emergency departments to close their doors.
+Dr. Lara Ostolosky, a psychiatrist, had to wait to admit a new patient due to nursing staff shortages.
+Access to publicly funded treatment for eating disorders varies across Canada, with some provinces having limited or no inpatient, day, or residential options.
+Data shows hospitalizations for girls aged 10-17 with eating disorders increased by over 50% since March 2020.
+Experts emphasize the importance of early intervention and treatment to prevent long-term damage.
+Recommendations:
+Increase funding to offer more services and improve access to care.
+Improve the quality of treatment approaches, such as keeping patients in acute care settings longer for better support.
+Address the "patchwork" system for treatment across Canada.
+Support is available for individuals experiencing eating disorders. The National Eating Disorder Information Centre (NEDIC) provides a support line and live chat service at nedic.ca.
+
+Article 2 of 6
+Title: Ontario detects 96 COVID-19 deaths in past 7 days
+Publisher: CP24
+Posted: 2 days ago
+Relevant.
+96 new COVID-19 deaths in Ontario over the past week.
+1,382 people admitted to hospital with or for COVID-19 on Thursday (up from 1,322).
+142 people in intensive care (up 3 from one week ago).
+
+Article 3 of 6
+Title: ‘Disturbing': Experts troubled by Canada’s euthanasia laws
+Publisher: The Associated Press
+Posted: 2 days ago
+Here's a possible interview with the Canadian Broadcasting Corporation based on the article:
+Interviewer: Good evening, I'm joined tonight by Dr. Stainton, a professor at the University of British Columbia, and Heidi Janz, an assistant adjunct professor in Disability Ethics at the University of Alberta. Welcome both to our program.
+Dr. Stainton: Thank you for having us.
+Heidi Janz: Thanks for having us.
+Interviewer: We're discussing tonight a very sensitive topic: euthanasia in Canada and its impact on people with disabilities. Dr. Stainton, let's start with you. You've pointed out that no province or territory provides a disability benefit income above the poverty line. Can you explain what this means for people like Tagert, who passed away recently after raising over $16,000 to buy medical equipment?
+Dr. Stainton: Yes, unfortunately, it means that many people with disabilities in Canada are forced to live on very low incomes, often below the poverty line. This can lead to a situation where they feel they have no choice but to consider euthanasia as an option.
+Interviewer: Heidi Janz, you've also spoken out about the difficulties faced by people with disabilities in accessing support and services. Can you tell us more about this?
+Heidi Janz: Yes, it's true that many people with disabilities face significant barriers when trying to access the support they need. This can include things like healthcare, housing, and employment opportunities. As a result, some people may feel that euthanasia is their only option.
+Interviewer: That's really disturbing. Dr. Stainton, you've also mentioned that Canada has tweaked its euthanasia rules since they were first enacted six years ago, but critics say more needs to be done. Can you explain what changes are being considered?
+Dr. Stainton: Yes, unfortunately, the Canadian government is considering expanding access to euthanasia further. This includes allowing people to be killed exclusively for mental health reasons and extending euthanasia to "mature" minors – children under 18 who meet the same requirements as adults.
+Interviewer: Heidi Janz, what do you think needs to happen to address these concerns?
+Heidi Janz: I think we need to see a fundamental shift in how our society values and supports people with disabilities. We need to ensure that everyone has access to the support they need to live with dignity, including adequate housing, healthcare, and employment opportunities.
+Interviewer: Dr. Stainton, what do you hope will come out of this discussion tonight?
+Dr. Stainton: I hope that Canadians will begin to understand the complexities surrounding euthanasia in our country and the impact it has on people with disabilities. I also hope that we'll see a commitment from our leaders to address these concerns and ensure that everyone can live with dignity.
+Interviewer: Heidi Janz, do you have any final thoughts?
+Heidi Janz: Yes, I think it's essential that we listen to the voices of people with disabilities and take their concerns seriously. We need to work towards creating a society where everyone has access to the support they need to live with dignity.
+Interviewer: Thank you both for joining us tonight.
+
+Article 4 of 6
+Title: P.E.I. reports 3 more deaths related to COVID-19 as number of cases drops
+Publisher: CBC.ca
+Posted: 4 days ago
+Number of new cases: 776 (down from 1,011)
+Number of people in hospital with COVID-19: 19 (down from 27)
+Percentage of positive tests: 35% (down from 39%)
+Active cases: 1,116 (down from 1,698)
+
+Article 5 of 6
+Title: What is the vaccine effectiveness of BNT162b2 against Omicron in five to 11-year-olds?
+Publisher: News-Medical.Net
+Posted: 5 days ago
+Vaccine effectiveness (VE) against symptomatic Omicron infection was 13% and 54% 14 days after a first dose and 7 days after a second dose, respectively.
+VE was higher for children with longer dosing intervals (63% for a dosing interval of 56 days).
+VE against severe outcomes due to Omicron was 81% 7 days after a second dose, but declined over time.
+The study found that two doses of the BNT162b2 vaccine provided adequate protection against Omicron infection and severe illness among five to 11-year-old children.
+
+Article 6 of 6
+Title: Group lists N.S. at top of COVID-19 hazard index for infections, impact
+Publisher: CBC.ca
+Posted: 7 days ago
+Nova Scotia has the highest hazard index score in Canada, indicating high infection rates, impacts on the healthcare system, and deaths.
+The hazard index is calculated based on infection rates, vaccine protection, impacts to the health-care system, and deaths.
+Infection rates are high in Nova Scotia, with COVID-19 appearing in wastewater, reported hospitalizations, deaths, intensive care admissions, and vaccination rates.
+The province's population size (around 1 million) contributes to more stable trends compared to smaller provinces.

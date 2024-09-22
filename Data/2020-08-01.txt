@@ -1,0 +1,74 @@
+Below are 6 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 6
+Title: Black people and other people of colour make up 83% of reported COVID-19 cases in Toronto
+Publisher: CBC.ca
+Posted: Today
+People of colour make up 71% of those hospitalized with COVID-19 in Toronto. This figure is based on a relatively small number of hospitalizations, but it highlights the disproportionate impact of COVID-19 on marginalized communities.
+
+Article 2 of 6
+Title: COVID-19 exposure notification app now available
+Publisher: CTV News
+Posted: 1 day ago
+Key values:
+Number of downloads and adoption rate
+Proximity interactions (Bluetooth signals) between users with and without the app
+Timeframe of 14 days to notify contacts
+Anonymized data on proximity interactions
+Public health agency distribution of unique codes to positive cases
+
+Article 3 of 6
+Title: Alberta COVID-19 patients spend more than 10 days in hospital, on average, nearly 2 weeks in ICU
+Publisher: CBC.ca
+Posted: 2 days ago
+Average hospital stay: 10+ days (non-intensive care), 13+ days (ICU)
+Hospitalization rate: about 5% of cases
+Age groups with higher hospitalization rates:
++ 70s: 29%
++ 60s: 11%
++ 50s: 6%
++ 40s: 3%
++ 30s: 2%
+
+Article 4 of 6
+Title: COVID-19 case temporarily shuts down Dr. Oetker plant in London
+Publisher: CTV News London
+Posted: 2 days ago
+Relevant.
+Summary: The Dr. Oetker plant in London, Ontario is closing temporarily due to a COVID-19 case among employees. This may lead to a reduction in hospitalizations related to workplace exposure.
+
+Article 5 of 6
+Title: Half of coronavirus patients given ventilation died: German study
+Publisher: CTV News
+Posted: 3 days ago
+Mortality rate: 25% (male), 19% (female)
+Age groups:
++ 70s: 27% mortality
++ 80+: 38% mortality
+Hospital stay duration:
++ Average: 14 days
++ Ventilation: 25 days
+Mechanical ventilation required for every 100 hospitalized patients: 240 days
+
+Article 6 of 6
+Title: Coronavirus report card: Experts give Canada a B, U.S. an F
+Publisher: CTV News
+Posted: 7 days ago
+The article discusses the performance of Canada and the United States in responding to the COVID-19 pandemic, as well as the global response. Here are some key points:
+Canada: 
+Receives a "B" grade for its response to the pandemic
+Has been praised for its staged approach to reopening, which involves gradually lifting restrictions based on case numbers and hospital capacity
+Health Minister Patty Hajdu has said that Canada will not be safe until COVID-19 is under control globally
+United States: 
+Receives a "D-minus" grade for its response to the pandemic
+The Centers for Disease Control and Prevention (CDC) has been criticized for being nearly invisible in Washington's response to the pandemic
+Dr. Anthony Fauci, director of the National Institute of Allergy and Infectious Diseases, has been praised for his efforts to keep science at the forefront of the American debate, but has faced opposition from President Donald Trump
+Global Response: 
+Receives a "C" grade overall
+Experts have noted that the pandemic has shown the ability of many countries to work together in sharing information and developing vaccines and treatments
+However, there are concerns about the lack of preparedness for pandemics globally, particularly in developing countries with limited healthcare resources
+Key Takeaways: 
+The pandemic is a global challenge that requires international cooperation and coordination
+The virus has been able to spread rapidly across the world due to its high infectivity and the lack of preparedness in some countries
+Even with the best policies and procedures, it's still difficult to contain the virus
+The developing world may face significant challenges in responding to the pandemic, which could have implications for global health security.

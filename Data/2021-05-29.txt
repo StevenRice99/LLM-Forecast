@@ -1,0 +1,97 @@
+Below are 7 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 7
+Title: Impact of Hospital Visitor Restrictions during the COVID-19 Pandemic
+Publisher: Ontario COVID-19 Science Advisory Table
+Posted: 1 day ago
+This text appears to be a science brief from the Canadian Foundation for Healthcare Improvement, discussing the impact of visitor restrictions in hospitals during the COVID-19 pandemic. Here's a summary:
+Key Points: 
+Visitor restrictions were implemented in many hospitals worldwide due to the COVID-19 pandemic.
+These restrictions had significant emotional and psychological impacts on patients, families, and caregivers.
+Essential caregivers (e.g., family members or close friends) should be distinguished from general visitors.
+Electronic communication methods (e.g., video conferencing, phone calls) were used to facilitate communication between patients and their loved ones.
+However, these methods have limitations, including access issues, privacy concerns, and increased workload for nursing staff.
+Recommendations: 
+Future policies should prioritize the re-integration of essential caregivers as partners in care during COVID-19.
+A framework (Table 2) has been established to guide policy development.
+More data is needed to quantify the risks associated with visitor restrictions and electronic communication methods.
+Essential caregivers should be involved in decision-making processes regarding visitor policies.
+Methods: 
+The evidence scan was performed by the COVID-19 Evidence Synthesis Network, using a research evidence scan methodology.
+A search of relevant databases (MEDLINE, Embase, CINAHL) was conducted to identify relevant articles.
+The search was last updated on February 3, 2021.
+Overall, this science brief highlights the importance of considering the emotional and psychological impacts of visitor restrictions on patients, families, and caregivers during the COVID-19 pandemic. It also emphasizes the need for more data and a comprehensive approach to assessing risk when developing future policies.
+
+Article 2 of 7
+Title: Canadian doctors recycle inaccurate Covid-19 claims
+Publisher: AFP Factcheck
+Posted: 1 day ago
+The article appears to be a fact-checking response to claims made by Dr. Charles Hoffe, a Canadian doctor, about COVID-19 vaccines. The article addresses four specific claims made by Dr. Hoffe and provides evidence-based information to refute them.
+Here are the key points:
+1. Risk of blood clots: The article states that Canada's National Advisory Committee on Immunization (NACI) estimated the risk of a Vaccine-Induced Immune Thrombotic Thrombocytopenia event as low as one in 83,000 doses administered or as high as one in 55,000. This is considered very rare.
+2. Death reports: The article corrects Dr. Hoffe's claim that over 2,600 people have died in the US after getting their shots by pointing out that this number represents a small fraction of the total number of doses administered (over 285 million). The CDC has also stated that there is no causal link between COVID-19 vaccines and death.
+3. Transmission prevention: The article notes that while the scientific debate on how effectively vaccines prevent transmission of COVID-19 is ongoing, early data suggest that they can reduce the risk of contracting a severe form of the disease and potentially reduce asymptomatic infection and transmission.
+4. Risk to children: The article corrects Dr. Hoffe's claim that the risk of children dying from or getting seriously sick with COVID-19 is almost zero by pointing out that children still represent a significant proportion of cases in Canada and the US, and may be more infectious than older individuals.
+Overall, the article provides accurate information to counter misinformation about COVID-19 vaccines.
+
+Article 3 of 7
+Title: Federal advisory panel recommends end to hotel quarantine in Canada
+Publisher: CTV News
+Posted: 2 days ago
+Relevant.
+Summary: The article discusses changes to COVID-19 testing and quarantine measures for international travellers entering Canada. Key points include:
+Mandatory hotel quarantine may be replaced with a requirement for travellers to present a suitable quarantine plan.
+Fully vaccinated travellers may not require pre-departure tests or quarantine, but will still need to provide proof of vaccination.
+Partially vaccinated travellers will still require testing and quarantine.
+The article highlights the effectiveness of current border measures in reducing air traffic and positivity rates.
+
+Article 4 of 7
+Title: A snapshot of Canada's progress in administering COVID-19 vaccines
+Publisher: CTV News
+Posted: 2 days ago
+60% of eligible Canadians have been vaccinated with their first dose.
+The rate at which second doses are being administered is lagging behind the first-dose rate (0.11% vs 1% per day).
+If this rate continues, 20% of eligible population will be fully vaccinated by early October.
+A shift to administering vaccines as second doses would see the country hit:
++ 20% fully vaccinated by July 7
++ 50% by August 4
++ 80% by September 1
++ 90% by September 11
+The gap between first and second dose rates was a decision made individually by provinces, but came after a NACI recommendation to extend the duration between doses.
+Dr. Coleman suggests prioritizing people in high transmission situations, including those who are 12-17 years old, if the waiting time between doses is shortened.
+Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Vaccination rate (first and second dose)
+Population demographics (age, occupation, etc.)
+Transmission rates
+Hospitalization rates
+
+Article 5 of 7
+Title: Manitoban with COVID-19 died after attempted transport to Ontario
+Publisher: CTV News Winnipeg
+Posted: 3 days ago
+23 COVID-19 patients from Manitoba have been transferred to Ontario hospitals.
+Some COVID-19 patients are being sent to northern Ontario hospitals due to ICU capacity issues in Manitoba.
+The article does not provide specific data on COVID-19 hospitalization rates or trends in Ontario.
+
+Article 6 of 7
+Title: 12 ICU nurses among federal supports headed to Manitoba as COVID-19 batters hospitals
+Publisher: CBC.ca
+Posted: 4 days ago
+Relevant.
+Key values for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Number of patients sent from Manitoba to Ontario hospitals (18)
+Availability of hospital beds in Ontario for Manitoba patients (at least 20)
+Capacity of Canadian Armed Forces to transport patients to out-of-province hospitals (up to 2 patients per day)
+
+Article 7 of 7
+Title: Panel discussion and Q&A session I: Cardiovascular diseases – part 1
+Publisher: empendium.com
+Posted: 4 days ago
+This is a transcript of a Q&A session with a panel of experts in cardiology, led by Matthew Sibbald. The discussion covers various topics related to heart failure and atrial fibrillation.
+Here are the key points from the conversation:
+1. Heart Failure: The panel discusses the importance of considering sex differences when treating heart failure patients. They mention that females may benefit more from RAAS inhibitors, particularly in the setting of HFpEF (heart failure with preserved ejection fraction). The optimal range for RAAS inhibitors in females is mentioned to be around 55-60.
+2. Sex-EF Interaction: The panel notes that there is a sex-ejection fraction (EF) interaction, which may be due to differences in cavity size between males and females. This suggests that females may have a different normal EF range than males.
+3. Phenotypes vs. EF Ranges: The experts discuss how phenotypes are more predictive of outcomes than EF ranges alone. They emphasize the importance of considering clinical phenotypes when guiding therapy.
+4. Anticoagulation in Atrial Fibrillation: The panel addresses a question about a patient with atrial fibrillation who cannot tolerate anticoagulants. They suggest using the CHA2DS2-VASc score to determine the risk level and consider alternative treatments, such as NOACs or left atrial appendage occlusion devices.
+5. Restructuring the Cardiac Physical Exam: The experts discuss the need to restructure the cardiac physical exam, particularly around palpation and auscultation, to focus on specific features with demonstrated utility. They suggest using evidence-based resources, such as Steve McGee's book "Evidence-Based Physical Diagnosis" and Simel and Rennie's book "The Rational Clinical Exam".
+Overall, the conversation highlights the importance of considering sex differences in heart failure treatment, the value of phenotypes over EF ranges, and the need to restructure the cardiac physical exam based on evidence.

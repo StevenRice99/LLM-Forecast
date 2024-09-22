@@ -1,0 +1,50 @@
+Below are 4 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 4
+Title: COVID-19 might have been in Canada earlier than when it was first identified: expert
+Publisher: CTV News
+Posted: Today
+Key values:
+Early warning systems can help officials assess action needed (Julianne Piper)
+Timing matters when bringing in border measures to curb transmission (Piper)
+Countries with tight border restrictions early on had more success controlling the virus (e.g. New Zealand, Vietnam, Australia)
+
+Article 2 of 4
+Title: A new COVID-19 side effect? Some patients are developing sudden onset diabetes
+Publisher: CTV News
+Posted: Today
+Up to 14% of COVID-19 patients may develop sudden onset diabetes.
+People with diabetes are already more at risk of experiencing severe outcomes if they contract COVID-19.
+The connection between COVID-19 and diabetes development is described as "a bidirectional relationship".
+Researchers are investigating the possible causes, including steroid use and direct damage to insulin-producing cells in the pancreas.
+
+Article 3 of 4
+Title: Early Impact of Ontario’s COVID-19 Vaccine Rollout on Long-Term Care Home Residents and Health Care Workers
+Publisher: Ontario COVID-19 Science Advisory Table
+Posted: 5 days ago
+The study aimed to estimate the impact of COVID-19 vaccination on SARS-CoV-2 incidence, COVID-19 hospitalizations, and deaths among Ontario long-term care (LTC) home residents and healthcare workers (HCWs). The analysis used a difference-in-differences approach, comparing outcomes in LTC residents and HCWs with those in control populations. Here's a summary of the key points:
+Data Sources: 
+Public Health Case and Contact Management Solution database
+PHU websites, news articles, Twitter posts, and personal communications for vaccination start and completion dates
+Exposure: 
+Time since the start of COVID-19 vaccination within LTC homes in each PHU
+Partial completion of PHU vaccination was interpolated from 0% to 100%
+Control Populations: 
+For LTC residents: individuals 70 years or older living outside of LTC homes
+For LTC HCWs: individuals aged 18-64 years who were not coded as HCWs
+Outcomes: 
+Daily number of SARS-CoV-2 infections in LTC residents and HCWs
+Secondary outcomes: daily number of COVID-19 hospitalizations and deaths
+Estimation Methods: 
+Quasi-Poisson regression with penalized spline for baseline trend and effect of vaccination
+Difference-in-differences analysis to estimate prevented cases, hospitalizations, and deaths
+The study's findings are not explicitly stated in the provided text. However, based on the methods described, it is likely that the analysis estimated the impact of COVID-19 vaccination on SARS-CoV-2 incidence, hospitalizations, and deaths among LTC residents and HCWs, compared to control populations. The results would provide valuable insights into the effectiveness of vaccination in preventing these outcomes in high-risk groups.
+
+Article 4 of 4
+Title: New Iceland: Drawing parallels between the COVID-19 pandemic and smallpox
+Publisher: CTV News
+Posted: 7 days ago
+Key values:
+Indigenous communities are disproportionately vulnerable to COVID-19 due to socio-economic marginalization.
+Access to effective monitoring and early-warning systems, as well as adequate health and social services, is limited in these communities.
+These communities have taken measures to limit exposure to the virus by keeping land borders closed.

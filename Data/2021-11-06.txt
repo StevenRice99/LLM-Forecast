@@ -1,0 +1,105 @@
+Below are 9 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 9
+Title: Testing delays in northern B.C. likely contributing to spread of COVID-19, epidemiologist warns
+Publisher: CBC.ca
+Posted: Today
+Key values highlighted:
+Average test turnaround time in Northern Health region (B.C.) was 20-40 hours, with a peak of 74 hours due to reagent shortages and shipping delays.
+This delay likely contributed to the spread of COVID-19 in the region.
+Rapid test kits are being used in some settings in B.C., but not widely enough to address staffing issues in small businesses.
+In Ontario, rapid test kits are available for staff and students in schools, but not widely deployed in other settings.
+
+Article 2 of 9
+Title: U of T researchers lead effort to understand short- and long-term effects of COVID-19 on patients, caregivers
+Publisher: University of Toronto
+Posted: 1 day ago
+Here is a brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+8,400 people were admitted to intensive care with COVID-19 diagnosis in the first 14 months of the pandemic.
+A recent publication suggests as many as 78,000 people in Ontario may have had or currently live with "long COVID".
+Factors influencing disease progression and severity include age, general health, pre-existing medical conditions, ventilation, sedative drugs, and other interventions in the intensive care unit.
+
+Article 3 of 9
+Title: Vaccinated people in hospital a sign of Quebec’s ‘community failure,’ not vaccine failure: expert
+Publisher: CTV News Montreal
+Posted: 1 day ago
+Key values:
+Vaccination rate: 75% of Quebec's population has received two doses (similar to Ontario)
+Breakthrough infections occur due to vaccine not being 100% effective
+Immunocompromised individuals are more likely to be hospitalized despite vaccination
+Two-dose vaccine reduces risk of hospitalization by 95%
+Unvaccinated people are 18 times more likely to be hospitalized than vaccinated people in Quebec (similar comparison can be made for Ontario)
+
+Article 4 of 9
+Title: Why doctors are so worried about pregnant people getting COVID-19
+Publisher: CBC.ca
+Posted: 2 days ago
+Pregnant women in Canada are at higher risk for severe illness if they get COVID-19 and should be vaccinated as soon as possible.
+Key values:
+Vaccination rate among pregnant people in Ontario: ~60%
+Risk of hospitalization, ICU admission, and pre-term birth among unvaccinated pregnant women
+Immune system suppression during pregnancy increases vulnerability to infections like COVID-19
+
+Article 5 of 9
+Title: Experts weigh in on possible factors behind vaccine hesitancy
+Publisher: CBC.ca
+Posted: 2 days ago
+Relevant.
+Summary: The article discusses COVID-19 vaccine hesitancy in British Columbia (B.C.), Canada. Key points include:
+All authorized COVID-19 vaccines in Canada are highly effective at preventing severe illness, hospitalization, and death.
+Many people who are vaccine-hesitant do not hold extreme conspiracy theory-fuelled views.
+Non-judgmental conversations with a friend or family member who is vaccine-hesitant can be helpful in encouraging them to get vaccinated.
+Shaming or driving people underground is not an effective way to change someone's mind about being vaccinated.
+Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: None. This article does not provide information relevant to forecasting COVID-19 hospitalizations in Ontario, Canada.
+
+Article 6 of 9
+Title: If you went dancing at this Sudbury nightclub you may need to isolate
+Publisher: CTV News Northern Ontario
+Posted: 3 days ago
+187 active COVID-19 infections in Sudbury area.
+11 people with COVID-19 hospitalized at Health Sciences North.
+54 people waiting on test results as part of the outbreak protocol.
+Breakthrough infections occurred in 24% of cases between June 1 and Oct. 27.
+Unvaccinated and partially vaccinated people made up 87% of hospitalizations during that period.
+
+Article 7 of 9
+Title: Hospitalizations and emergency department visits trends among elderly individuals in proximity to death: a retrospective population-based study
+Publisher: Nature.com
+Posted: 4 days ago
+The study found that:
+1. The number of hospitalizations and emergency department visits (EDVs) per individual increases sharply as death approaches.
+2. This increase is more pronounced among younger decedents, cancer patients, and those with respiratory diseases.
+3. The proportion of individuals aged  95 years who had accessed the emergency department was lower than other age groups.
+4. There were no significant sex differences in healthcare utilization trends.
+5. The total number of EDVs per individual underwent a sharp increase as death approached.
+The study's strengths include:
+1. High time resolution over a 2-year period, allowing for precise identification of trend changes.
+2. Population-based study with complete data on hospitalizations and EDVs.
+3. Use of change-point analysis to compare trends between specific groups.
+Limitations include:
+1. Lack of cost analyses and quantitative/qualitative data on hospitalizations and EDVs.
+2. Absence of data on hospice, palliative care services, long-term care, and primary care services.
+3. Possible bias from the lack of adjustment for healthcare services not considered in the analysis.
+The study suggests that:
+1. Potentiating primary care support among categories more likely to use acute healthcare services may reduce hospital-based service utilization.
+2. Targeting specific healthcare facilities for patients with respiratory diseases may be advisable, given their high proportion of EDVs and hospitalizations in the last month of life.
+3. Future studies should examine trend differences related to specific causes of death and consider healthcare cost variations using change-point analysis.
+Overall, the study provides insights into healthcare utilization trends at the end of life and highlights potential targets for interventions to improve care and reduce costs.
+
+Article 8 of 9
+Title: COVID-19: Antidepressant reduces risk of hospitalization and death
+Publisher: Medical News Today
+Posted: 4 days ago
+Edward Mills, a health researcher at McMaster University in Ontario, Canada, comments on the potential of fluvoxamine as an inexpensive and effective therapy against COVID-19.
+The study found that patients receiving fluvoxamine had a 32% reduced risk of hospitalization compared to those receiving a placebo.
+The researchers believe that fluvoxamine's anti-inflammatory action is the most likely mechanism explaining its efficacy in COVID-19.
+The article highlights the importance of early treatment with fluvoxamine before hospitalization, as it may prevent the immune system from going into overdrive.
+
+Article 9 of 9
+Title: More convenient than ever to get your flu shot at Walmart Canada
+Publisher: Walmart Canada
+Posted: 5 days ago
+The article mentions that Walmart has administered over 500,000 COVID-19 vaccinations to date.
+It also highlights the importance of flu shots in reducing flu-related hospitalizations and lessening the burden on the healthcare system.
+According to Health Canada, getting a flu shot is still the most effective way to protect oneself against the flu.
+The article mentions that Walmart pharmacies have administered over 180,000 flu shots in 2020, an increase of over 50% from 2019.

@@ -1,0 +1,98 @@
+Below are 9 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 9
+Title: Eating disorder hospitalizations up nearly 60 per cent among girls age 10-17
+Publisher: Toronto.com
+Posted: 2 days ago
+Relevant.
+Hospitalizations for eating disorders among girls aged 10-17 increased by nearly 60% in Ontario between March 2020 and March 2021.
+Young female patients used mood and anxiety medication at a rate twice as high as that of male patients.
+Over 25% of children and youth hospitalized for mental health conditions come from the lowest-income neighbourhoods, highlighting issues around social determinants of health.
+Eating disorder units are overwhelmed with demand, leading to delayed care and referrals being turned away.
+
+Article 2 of 9
+Title: 3 regional top doctors issue letter to Ontario urging reinstatement of indoor mask wearing
+Publisher: CBC.ca
+Posted: 2 days ago
+1,698 COVID-19 hospitalizations reported on Wednesday
+Hospitalizations and infections are gradually slowing down according to wastewater data
+The province has likely reached the peak of the sixth wave of the pandemic
+Local and provincial data shows the disease is at a more steady level
+
+Article 3 of 9
+Title: COVID-19: updates for Canada’s universities — University Affairs
+Publisher: University Affairs
+Posted: 3 days ago
+Here are some key points and observations based on the provided text:
+Mask Mandates and Vaccine Requirements 
+Several universities across Canada will remove their mask mandates and proof of vaccination requirements on May 1, but strongly recommend students continue to mask while on campus.
+Some universities, such as Carleton University in Ottawa, have extended masking and vaccine requirements until at least the end of the Winter term.
+In Quebec, Concordia University and McGill University will maintain mask mandates throughout the semester.
+University Policies 
+The Council of Ontario Universities has announced that the province's universities will maintain their masking requirement until at least the end of the semester.
+Albertan universities have lifted mask mandates, but students are pushing back against this decision.
+Students at Simon Fraser University have launched a petition to oppose the university's move to drop its mask mandate.
+Online Learning and Accessibility 
+Remote learning options used during the pandemic may be forcing universities to reimagine how they structure courses.
+Online programs are expected to see enrollments rise in the coming years, particularly among students with disabilities, anxiety disorders, and socioeconomic issues.
+Return to Campus Life 
+Brandon University is preparing for a full return to campus for fall 2022, with the lifting of all COVID-19 restrictions at the university through the spring and summer.
+The University of Manitoba has not yet made an announcement about a return to campus in the summer term.
+Vaccine Mandates and Staff Terminations 
+Some universities have announced that their vaccine requirements will remain in place until at least the end of the winter semester, despite lifting of restrictions.
+At the University of Waterloo, staff terminations have occurred after the school mandated COVID-19 vaccinations.
+
+Article 4 of 9
+Title: Why COVID-19 gaslighting by politicians is so dangerous for democracy
+Publisher: The Conversation
+Posted: 3 days ago
+The article discusses how governments are lifting basic protections against COVID-19, such as vaccine and mask mandates.
+This shift suggests that public health policy has been rewritten to prioritize individual risk assessment over collective protection.
+The article highlights the dangers of underestimating COVID-19's severity, including its vascular and neurological effects, and the risks of long COVID.
+It also notes that hospitalizations due to COVID-19 have led to collapse in both the UK and Canada in April 2022.
+Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Hospitalization numbers
+Case counts
+Wastewater results
+Local outbreak sizes
+
+Article 5 of 9
+Title: COVID-19 tied to adverse maternal outcomes, preterm birth
+Publisher: University of Minnesota Twin Cities
+Posted: 4 days ago
+Key values:
+7.8% of infected pregnant women were hospitalized (vs 2.9% of non-pregnant women)
+2.0% of infected pregnant women were admitted to the ICU
+Hospitalization risk increased with gestational age at diagnosis (RR of hospitalization was 2.4 for infections diagnosed at 28 weeks' gestation or later vs 15-27 weeks)
+
+Article 6 of 9
+Title: Catching COVID-19 during pregnancy increases risk of hospitalization, premature birth: national study
+Publisher: UBC News
+Posted: 5 days ago
+The study found that pregnant individuals who contract COVID-19 are 2.65 times more likely to require hospitalization and 5.46 times more likely to be admitted to ICU than non-pregnant individuals.
+The risk of hospitalization increased with age, pre-existing high blood pressure, and further along in pregnancy at the time of diagnosis.
+These findings suggest that pregnant individuals may be a vulnerable population for COVID-19-related hospitalizations in Ontario.
+
+Article 7 of 9
+Title: COVID-19 vaccination highly effective in individuals with immune-related inflammatory diseases
+Publisher: McGill University Health Centre
+Posted: 5 days ago
+The study was conducted in Ontario, Canada between March 1 and November 22, 2021.
+mRNA vaccines were highly effective (92-97%) against severe COVID-19 outcomes for individuals living with immune-mediated inflammatory diseases (IMIDs).
+Vaccine effectiveness remained high even beyond 120 days after the second dose and rebounded upon receipt of a third dose.
+The study found that Moderna's Spikevax vaccine was more effective than Pfizer-BioNTech's Comirnaty vaccine in preventing infection among individuals with IMIDs.
+
+Article 8 of 9
+Title: Apologist William Craig recovering after hospitalization for COVID-19: 'Grateful for your love and prayers'
+Publisher: The Christian Post
+Posted: 5 days ago
+Summary: The article mentions William Lane Craig being hospitalized with COVID-19 at Northside Hospital (not specified as an Ontario hospital). However, it does mention that Craig spoke at Wycliffe College in Toronto, Ontario, Canada in 2018. This is the only relevant information for forecasting COVID-19 hospitalizations in Ontario, Canada.
+
+Article 9 of 9
+Title: Ontario reports 1,676 COVID-19 hospitalizations
+Publisher: CBC.ca
+Posted: 7 days ago
+Ontario reported 1,676 COVID-19 hospitalizations (down by 3) and 188 ICU admissions (down from 209). Key values: 
+- Hospitalization count: 1,676
+- ICU admissions: 188
+- Ventilator requirements: 89

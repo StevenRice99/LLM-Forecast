@@ -1,0 +1,69 @@
+Below are 7 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 7
+Title: What you need to know about COVID-19 in Ottawa for the week of April 18
+Publisher: CBC.ca
+Posted: 1 day ago
+Key values for forecasting:
+Hospitalization numbers: 26 Ottawa residents in local hospitals for treatment of active COVID-19 as of Friday's OPH report.
+Wastewater signal: Average level of coronavirus detected in Ottawa's wastewater is slightly below last week's but still elevated.
+Vaccination rates and eligibility: Eligible people can look for provincial appointments online or by phone, with third doses available for ages 12 to 17 after 168 days.
+Antiviral treatments: Ontario and Quebec are using antiviral treatments on people with a higher risk of severe COVID-19 problems who have tested positive.
+
+Article 2 of 7
+Title: 4 deaths, COVID-19 hospitalizations on the decline in London this week
+Publisher: CBC.ca
+Posted: 1 day ago
+Relevant.
+48 COVID-19 hospitalizations at London Health Sciences Centre (LHSC) on Friday, down by 8 from Monday.
+37.5% of total LHSC patients have COVID-19.
+278 LHSC staff are isolating due to positive COVID-19 tests.
+1,591 people in hospital with COVID-19 across Ontario on Friday.
+61% of critical care patients in Ontario are directly for COVID-19 symptoms.
+
+Article 3 of 7
+Title: Doctors say Sask. emergency departments understaffed, overcapacity, struggling to provide care
+Publisher: CBC.ca
+Posted: 2 days ago
+Relevant.
+Summary: The article reports on hospital capacity issues and staff shortages in Saskatchewan, Canada, due to COVID-19. Key values for forecasting COVID-19 hospitalizations in Ontario, Canada include:
+Hospitalization rates per 100,000 people (35.6 in Saskatchewan)
+Number of patients in hospital with COVID-19 (403 provincewide)
+Staffing shortages and burnout among healthcare workers
+Overcapacity beds occupied at hospitals (34 at Royal University Hospital)
+
+Article 4 of 7
+Title: 2 new COVID-19-related deaths on P.E.I. raise pandemic total to 23
+Publisher: CBC.ca
+Posted: 4 days ago
+P.E.I. reports 16 people in hospital with COVID-19 (11 due to COVID-19, 5 other reasons positive), 2 ICU cases.
+Average daily new cases: 275 over 7 days.
+Note: Numbers may not reflect true scope of COVID-19 due to testing protocol changes.
+
+Article 5 of 7
+Title: Ontario reports 1,301 COVID-19 hospitalizations, 3 more deaths after Easter long weekend
+Publisher: CBC.ca
+Posted: 5 days ago
+Hospitalizations: 1,301 (Monday), with 202 ICU patients and 91 ventilator users.
+Case counts: 2,219 new cases (Monday) and a possible plateau at around 100,000 daily infections.
+Test positivity rate: 18.7% (Sunday).
+Active cases: 35,500.
+Seven-day rolling average: 3,418.
+
+Article 6 of 7
+Title: Horgan says B.C. at 'good point' in COVID-19 pandemic, but expert skeptical
+Publisher: CBC.ca
+Posted: 5 days ago
+Hospitalization numbers are rising in British Columbia (B.C.), but ICU bed utilization is low.
+The expert, Andrew Longhurst, suggests B.C. may be in the trough between the fifth and sixth wave of COVID-19, a few weeks behind Ontario.
+Longhurst notes that wastewater surveillance data shows an upward trend in virus concentration, indicating potential for increased hospitalizations.
+He also expresses concern about the lack of public health measures, such as indoor mask mandates, which may contribute to rising hospitalization numbers.
+
+Article 7 of 7
+Title: How to get Paxlovid in Ontario for COVID-19 treatment: Your questions answered
+Publisher: CP24
+Posted: 6 days ago
+Key values highlighted:
+Age groups eligible for antiviral treatment: 18+, 70+, and 60+ with fewer than three vaccine doses
+Risk conditions that make individuals eligible for antiviral treatment: immunocompromised, chronic illnesses, heart disease, obesity, diabetes
+Antiviral treatment options available: Paxlovid, budesonide, Fluvoxamine, Remdesivir

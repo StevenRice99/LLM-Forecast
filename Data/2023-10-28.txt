@@ -1,0 +1,78 @@
+Below are 8 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 8
+Title: Effectiveness of the second COVID-19 booster against Omicron: a large-scale cohort study in Chile
+Publisher: Nature.com
+Posted: 1 day ago
+A second mRNA booster dose provided high effectiveness against severe COVID-19 (74.2% to 86.3% against ICU admission, 79.3% to 90.8% against death).
+The CCA vaccination scheme plus a second mRNA booster dose provided the highest protection against COVID-19-related deaths.
+A study in Canada found that a fourth dose of an mRNA vaccine had 87% effectiveness against severe outcomes among residents in long-term care facilities aged 60 years or older.
+Another study in Sweden found a decrease in short-term risk of death of about 70% among individuals older than 80 years who received a fourth dose of an mRNA vaccine.
+These values are relevant for forecasting COVID-19 hospitalizations in Ontario, Canada.
+
+Article 2 of 8
+Title: Updated Pfizer COVID-19 vaccine now available in N.B., doses for children expected next week
+Publisher: CBC.ca
+Posted: 3 days ago
+New Brunswick's COVID-19 hazard index has more than doubled in a week and is now the highest in the country.
+The province recorded 57 hospitalizations and more than 150 new PCR-confirmed cases between Oct. 8 and Oct. 14.
+Public Health recommends all New Brunswickers aged six months or older receive an updated COVID vaccine, which can help reduce the risk of serious complications and hospitalizations.
+The article does not provide specific data on Ontario's COVID-19 situation, but it highlights the importance of vaccination in reducing hospitalizations due to COVID-19.
+
+Article 3 of 8
+Title: N.B.'s COVID-19 hazard index highest in Canada, says researcher, as virus kills 3 more
+Publisher: CBC.ca
+Posted: 4 days ago
+The national average of estimated infections across Canada is at or nearing the peak of all previous Omicron waves.
+In New Brunswick, about one in 10 people are infected and the province's COVID-19 hazard index has more than doubled in a week.
+There were 57 hospitalizations for or with COVID-19 in New Brunswick during the reporting week, including 46 people aged 65 or older.
+The number of ICU admissions decreased to two from seven during the first week of October.
+These values are important for forecasting COVID-19 hospitalizations in Ontario, Canada.
+
+Article 4 of 8
+Title: Virus activity rises in Nova Scotia as vaccine appointments fill up
+Publisher: CBC.ca
+Posted: 4 days ago
+Nova Scotia reports 51 new COVID-19 hospitalizations (no breakdown by age or vaccination status).
+COVID-19 activity is increasing but lower than in 2022.
+RSV and flu cases are also reported, but no direct correlation with COVID-19 hospitalizations.
+
+Article 5 of 8
+Title: Where to get free COVID-19 rapid antigen tests in Toronto
+Publisher: CTV News Toronto
+Posted: 4 days ago
+The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Key values include:
+The province's decision to discontinue rapid test distribution to retail stores
+Availability of free rapid antigen tests at libraries, pharmacies, and medical clinics across Toronto
+Locations where rapid tests can be found (e.g., libraries, pharmacies, dental and medical clinics, community centres)
+Guidance on self-isolation for individuals who test positive for COVID-19
+
+Article 6 of 8
+Title: N.B. could reverse decision not to fund new RSV vaccine for seniors, health minister suggests
+Publisher: CBC.ca
+Posted: 4 days ago
+The article discusses RSV (respiratory syncytial virus) and its impact on hospitalization rates.
+RSV can cause severe illness in people aged 65 and older, infants, and immunocompromised individuals.
+The Public Health Agency of Canada reports that RSV is one of the main causes of hospitalizations at this time of year.
+A Liberal Leader estimates $1.2M spent on RSV hospital costs in New Brunswick.
+The article highlights the importance of preventative care and vaccination to reduce hospitalization rates.
+Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Age (people aged 65 and older are at higher risk)
+Seasonality (RSV is more prevalent during certain times of the year)
+
+Article 7 of 8
+Title: New RSV vaccine for seniors not covered in New Brunswick
+Publisher: CBC.ca
+Posted: 5 days ago
+The article discusses RSV (respiratory syncytial virus) cases in New Brunswick, but notes that most provinces are not covering the cost of the vaccine.
+Ontario is providing the vaccine free-of-charge in congregate living settings such as long-term care homes.
+This information may be relevant for forecasting COVID-19 hospitalizations in Ontario, Canada, as it provides context on respiratory virus cases and vaccination policies.
+
+Article 8 of 8
+Title: More than 1.3 M Canadians abandoned waits in emergency rooms in 2023
+Publisher: CTV News
+Posted: 7 days ago
+1.3 million Canadians left ERs without being seen (8.6% of total patients) in 2022-2023.
+This is a 34% increase from the previous year (963,000).
+The data suggests that overcrowding and long wait times are significant issues in Canadian ERs.
+The article does not provide specific information on COVID-19 hospitalizations.

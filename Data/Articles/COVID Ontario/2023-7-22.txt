@@ -1,8 +1,0 @@
-Below is a news article from the past 7 days to help guide you in making your decision. Articles that are from known reputable sources have been flagged with "Trusted: True".
-
-Title: COVID-19 rapid antigen test kits now available at health unit offices
-Publisher: Huntsville Doppler
-Trusted: False
-Posted: Today
-Relevant.
-The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada because it reports a decrease in COVID-19-related hospitalizations in Simcoe Muskoka over several months. However, no specific values are mentioned that would be useful for forecasting COVID-19 hospitalizations in Ontario, Canada.

@@ -1,0 +1,60 @@
+Below are 5 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 5
+Title: On COVID restrictions, our governments keep firing up the gaslights and shifting the goalposts
+Publisher: CBC News
+Posted: Today
+The article mentions that new case numbers in Ontario are split evenly between unvaccinated and fully vaccinated individuals.
+It also discusses the rollout of booster shots and potential changes to vaccination targets.
+However, it does not provide specific data or information on current hospitalization rates or trends.
+The article's focus is more on the policy and public health response to COVID-19 in Ontario, rather than providing quantitative data for forecasting purposes.
+
+Article 2 of 5
+Title: Canadians 50 and over should get COVID-19 booster shot, national immunization committee says
+Publisher: CBC News
+Posted: 1 day ago
+Key values for forecasting:
+Decreasing protection against infection over time (mentioned as a reason for booster shots)
+Waning vaccine effectiveness against asymptomatic infection and symptoms
+Higher risk of waning protection among individuals with short intervals between first two doses
+Importance of considering local epidemiological conditions (case counts) when deciding on booster shots
+
+Article 3 of 5
+Title: What you need to know about COVID-19 in Ottawa on Thursday, Dec. 2
+Publisher: CBC.ca
+Posted: 2 days ago
+The article discusses the COVID-19 vaccination efforts in Canada, specifically in Ontario and Quebec, for children aged five to eleven years old. Key points include:
+Children born in 2016 and earlier are eligible for vaccination in Ontario.
+The Pfizer-BioNTech Comirnaty vaccine is recommended for people under 24 due to a mild risk of a rare heart condition associated with the Moderna Spikevax vaccine.
+In Quebec, anyone five years old or older can get an appointment or visit a permanent or mobile walk-in clinic.
+Clinics for newly eligible children will operate in schools, and siblings can be booked together in a single time slot.
+Parents can check a box to signal if their child is nervous about the process.
+COVID-19 symptoms can range from a cold-like illness to a severe lung infection, with common symptoms including fever, cough, headache, vomiting, and loss of taste or smell.
+Long-haul symptoms can last for months.
+If you have severe symptoms, call 911.
+Mental health can also be affected by the pandemic, and resources are available to help.
+In eastern Ontario, select pharmacies test people with symptoms, along with certain people without symptoms. Rapid and take-home tests are available in some places, including pharmacies and child-care settings when risk is high.
+Travellers who need a test have local options to pay for one.
+In western Quebec, tests are strongly recommended for people with symptoms and their contacts.
+People can make an appointment or see if they're near a walk-in option online. They can also call 1-877-644-4545 with questions during hours the line is running.
+Gargle tests are offered in some places instead of a swab.
+Rapid COVID-19 tests are available in all Quebec preschools and elementary schools.
+First Nations, Inuit, and Métis people, or someone travelling to work in a remote Indigenous community, are eligible for a test in Ontario.
+
+Article 4 of 5
+Title: MOH addresses continued rise of COVID-19 cases in KFL&A
+Publisher: Kingstonist
+Posted: 4 days ago
+The KFL&A region has seen a significant increase in COVID-19 cases, hospitalizations (nearly 20 local cases), and deaths (4 in the past month).
+The incidence of contracting COVID-19 is over six times higher among those who are not vaccinated.
+Public Health Ontario data shows that Ontario has reached 10,000 COVID-19 deaths as of Nov. 29, 2021.
+Hospitalizations and deaths due to COVID-19 have increased in the province, indicating a potential surge in hospitalizations in Ontario.
+
+Article 5 of 5
+Title: Ontario reviewing 3rd dose vaccine strategy in wake of omicron variant, top doctor says
+Publisher: CBC.ca
+Posted: 5 days ago
+145 people with COVID-19 are currently hospitalized.
+148 people are in an intensive care unit (ICU) due to COVID-related illnesses.
+The seven-day average of cases rose slightly and now stands at 784, its highest point since June 6.
+The province is reviewing measures to protect residents in the wake of a newly discovered COVID-19 variant of concern, including accelerating the third dose vaccine strategy.

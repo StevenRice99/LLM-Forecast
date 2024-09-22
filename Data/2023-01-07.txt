@@ -1,0 +1,87 @@
+Below are 7 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 7
+Title: $2.8 million paid out so far by Vaccine Injury Support Program
+Publisher: CBC.ca
+Posted: Today
+Relevant.
+Summary: The article reports on the Vaccine Injury Support Program (VISP) in Canada, which has paid out $2.779 million since its inception 19 months ago. Key values for forecasting COVID-19 hospitalizations in Ontario, Canada include:
+Number of approved claims: 50
+Total number of claims submitted: 1,299
+Percentage of approved claims: 3.8%
+Maximum VISP payout possible: $284,000
+Number of deaths associated with COVID-19 in Canada: over 49,000
+
+Article 2 of 7
+Title: Posts push unsubstantiated claim Covid vaccines killed medics
+Publisher: AFP Factcheck
+Posted: 1 day ago
+Relevant.
+Summary: 
+The article reports on unproven claims by Chris Shoemaker that 80 Canadian doctors between the ages of 25 and 55 have died in the last 60 days due to COVID-19 vaccines. However, Health Canada and the Public Health Agency of Canada have stated that these claims are unsubstantiated and that immunization is one of the most important ways to protect public health.
+Values for forecasting COVID-19 hospitalizations in Ontario, Canada:
+No information on actual COVID-19 hospitalization rates or trends.
+No data on vaccination rates or effectiveness in preventing hospitalizations.
+No mention of specific factors influencing hospitalization rates, such as age, comorbidities, or geographic location within Ontario.
+
+Article 3 of 7
+Title: Nova Scotia confirms 2 cases of 'Kraken' COVID-19 variant
+Publisher: CBC.ca
+Posted: 2 days ago
+Key values:
+Daily average of new cases (110)
+Number of people in hospital with COVID-19 (246)
+Breakdown of hospitalizations:
++ 34 in hospital for COVID-19
++ 113 patients contracted COVID-19 after admission
+
+Article 4 of 7
+Title: Ottawa COVID trends stable or rising coming out of the holidays
+Publisher: CBC.ca
+Posted: 3 days ago
+Here's a brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Ottawa's COVID-19 hospitalizations are stable at 25 active patients with 2 in intensive care.
+Eastern Ontario communities outside Ottawa report about 40 COVID-19 hospitalizations (not including Hastings Prince Edward Public Health).
+Western Quebec reports 86 COVID hospitalizations (none in intensive care).
+Kingston area records its highest-ever average test positivity of 24.7%.
+35% of Ottawa residents age 12 and up have had a booster vaccine in the last 6 months.
+93% of Ottawa residents aged 5 and up have had at least one COVID vaccine dose, 90% at least two, and 62% at least three.
+
+Article 5 of 7
+Title: Flu kills 9 more New Brunswickers in one week
+Publisher: CBC.ca
+Posted: 4 days ago
+Relevant.
+Total flu hospitalizations in New Brunswick: 704 (since Aug 28)
+Current week's hospitalizations: 134
+Flu deaths this season: 39
+Lab-confirmed flu cases: 711 (23% positivity rate) 
+Regional breakdown of new cases: Moncton region (177), Saint John region (90), Fredericton region (122), Edmundston region (87), Campbellton region (37), Bathurst region (154), Miramichi region (44)
+Influenza outbreaks in nursing homes and "other" settings: 27
+Influenza-like illness outbreaks at schools: 206
+
+Article 6 of 7
+Title: More money is a must, but health-care delivery also needs a major rethink, doctors say
+Publisher: CBC News
+Posted: 5 days ago
+The article discusses Canada's health-care system and the challenges it faces in providing quality care to its citizens. The federal government has been transferring funds to the provinces to cover healthcare costs, but experts say that more money is needed to address the system's problems.
+Some of the key issues mentioned include:
+1. Shortage of doctors and nurses: Canada is facing a shortage of medical professionals, which puts pressure on the existing workforce.
+2. Administrative burden: Doctors and administrators are spending too much time on administrative tasks, taking away from patient care.
+3. Need for system reforms: Experts say that the health-care system needs to be reformed to improve outcomes, including investing in community care, palliative care, home care, and digital integration.
+To address these issues, experts suggest:
+1. Long-term, predictable funding: The federal government should provide long-term funding commitments to provinces to allow for sustainable planning.
+2. Streamlining health information sharing: Improving the sharing of health information between different healthcare providers can reduce administrative burdens on doctors and nurses.
+3. Recognizing foreign credentials: Quickly recognizing the foreign credentials of doctors and nurses already living in Canada could boost their numbers without poaching health-care workers from abroad.
+4. Changing how health care is delivered: More health services should be delivered outside of a hospital setting, requiring additional family doctors with lower administrative burdens.
+The article concludes that solving Canada's health-care crisis requires more than just money; it demands a new way of doing things.
+
+Article 7 of 7
+Title: The pandemic was worse in Quebec in 2022 than in 2021
+Publisher: CBC.ca
+Posted: 7 days ago
+Key values:
+High number of COVID-19 cases (640,000) and deaths (5,700) in Quebec in 2022
+Steady flow of COVID-19 hospitalizations throughout 2022, with a peak of 8,700 new admissions in January 2022
+Continued circulation of contagious variants, such as omicron, contributing to high case numbers
+Concerns from health experts about the potential for increased hospitalizations due to Christmas gatherings and ongoing virus transmission.

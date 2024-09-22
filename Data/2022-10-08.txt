@@ -1,0 +1,50 @@
+Below are 4 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 4
+Title: Brief on Primary Care Part 2: Factors Affecting Primary Care Capacity in Ontario for Pandemic Response and Recovery
+Publisher: Ontario COVID-19 Science Advisory Table
+Posted: 5 days ago
+The text describes a research methodology used to create a science brief on the state of primary care in Ontario during the COVID-19 pandemic. The methods employed include:
+1. Literature search: A comprehensive search of peer-reviewed literature, preprints, academic presentations, reports, manuals, and grey literature was conducted using databases such as Ovid MEDLINE.
+2. Grey literature search: A targeted search of relevant reports, manuals, and policy papers on primary care and COVID-19 pandemic response, pandemic recovery, integration of care, and team-based care was performed.
+3. Media scan: The Ontario Medical Association library team provided a daily in-house environmental scanning product called "The Scan" to identify articles and materials addressing the state of primary care in Ontario during the pandemic.
+4. Review and analysis: A total of 215 reports and papers were shared among study lead authors and co-authors for review, with multiple iterations to ensure inclusion of relevant evidence.
+5. Emerging data collection: Unpublished emerging data was sought from relevant health system sources such as the Ministry of Health, Ontario Health, and the INSPIRE-Primary Health Care research team.
+6. Expert consensus: A core group of six co-authors representing family physician leaders and researchers affiliated with various academic institutions in Ontario were involved in an iterative process to draw lessons learned and recommendations.
+7. Feedback and revision: Drafts of the brief sections were shared with primary care stakeholders across the province, country, and internationally for feedback, which was incorporated into the final version.
+The methodology employed a simple analytical framework called SALSA (Search, Appraisal, Synthesis, and Analysis) to generate narrative summaries for each section of the brief. The resulting science brief provides an evidence-based overview of the impact of COVID-19 on primary care in Ontario and Canada, as well as recommendations for improvement.
+
+Article 2 of 4
+Title: Adding COVID-19 to ‘designated diseases’ could boost vaccine uptake among children
+Publisher: The Conversation Indonesia
+Posted: 6 days ago
+Key values:
+Increased frequency and severity of SARS-CoV-2 infections among children
+Higher risk of severe outcomes, including hospitalizations and deaths, among children with co-morbidities
+Low vaccination uptake among minors (41% completed primary series for those 5-11 years old)
+High rates of COVID-19 vaccine hesitancy among parents in Ontario
+
+Article 3 of 4
+Title: New Omicron strains on the horizon could drive future COVID waves
+Publisher: CBC News
+Posted: 7 days ago
+The article discusses the current state of COVID-19 immunity in Canada and its implications for future waves of infections. Key points include:
+1. High levels of immunity: Almost two-thirds (64%) of Canadian adults have been infected with COVID-19 since Omicron emerged last December, with younger adults bearing the brunt at 73%.
+2. Vaccination and infection provide hybrid immunity: A new study found that those with combined hybrid immunity from vaccination and prior infection fared better against future COVID infections.
+3. Protection equivalent to three doses: The study showed that two doses of a COVID-19 vaccine plus recovery from an Omicron infection provided protection equivalent to three doses.
+4. Vulnerable populations remain at risk: Only about 40% of Canadians over the age of 60 have had COVID, leaving them more vulnerable to infection in the future, especially with newer strains.
+5. Bivalent vaccines may reduce risk: Canada recently approved an updated bivalent COVID-19 vaccine that targets both the original virus and the original Omicron variant BA.1, which may help reduce the risk of infections with new viruses.
+6. Uncertainty about long-term protection: The article highlights the uncertainty about how well population immunity will hold up against future waves of infections, even with updated bivalent vaccines.
+Overall, the article suggests that while Canada has made significant progress in building immunity against COVID-19, there are still uncertainties and challenges ahead, particularly for vulnerable populations.
+
+Article 4 of 4
+Title: Canada has now ended its COVID-19 travel restrictions, mask mandates
+Publisher: CTV News
+Posted: 7 days ago
+The article reports on the end of COVID-19 public health restrictions in Canada, including no longer requiring proof of vaccination or mask-wearing on planes and trains, and an end to random mandatory tests for travellers. However, it does not provide information on current hospitalization rates or trends that would be useful for forecasting COVID-19 hospitalizations in Ontario, Canada.
+Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: 
+Current hospitalization rates
+Trends in hospitalization rates over time
+Vaccination rates and effectiveness
+Mask-wearing compliance rates (if relevant)
+Testing rates and positivity rates

@@ -1,0 +1,82 @@
+Below are 8 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 8
+Title: Wastewater now 'one of our only reliable tools' to detect COVID-19 prevalence
+Publisher: CTV News
+Posted: 1 day ago
+The article discusses the use of wastewater surveillance to monitor COVID-19 levels in communities across Canada. Experts from various provinces, including Alberta, Ontario, and British Columbia, share their insights on the challenges and limitations of this approach.
+Key points:
+1. Wastewater surveillance: The process involves analyzing wastewater samples for SARS-CoV-2 genetic material, which can indicate the presence of COVID-19 in a community.
+2. Challenges and limitations: Experts highlight several factors that can affect the accuracy of wastewater data, including variations in water usage patterns, precipitation, and industrial contributions to municipal wastewater.
+3. Comparing levels between cities or health regions: This comparison is not recommended due to differences in wastewater systems and variables between communities.
+4. Establishing trends: The focus should be on determining whether COVID-19 levels are increasing or decreasing rather than trying to determine an absolute concentration.
+5. Converting wastewater signal into actual case numbers: This conversion is scientifically difficult, as it's not known how much virus individuals shed through their feces or whether these amounts differ based on the severity of their infection.
+6. Future forecasts: Experts expect COVID-19 levels in Ontario and British Columbia to continue rising, but they cannot predict how high or for how long.
+The article concludes by emphasizing the importance of engaging with wastewater data as a tool to inform public choices about living with COVID-19.
+
+Article 2 of 8
+Title: Hospitals in northeastern Ontario short-staffed due to high COVID-19 numbers
+Publisher: CBC.ca
+Posted: 3 days ago
+Relevant.
+COVID-19 hospitalizations in Ontario have increased from 553 to 1,366 in 16 days.
+Staffing shortages due to COVID-19 exposure are affecting hospitals across northeastern Ontario, with some short-staffed by up to 4.2% of their total workforce.
+Hospitals are managing staffing shortages but face challenges in scheduling staff and maintaining adequate care for patients.
+
+Article 3 of 8
+Title: Paxlovid ‘inaccessible’ to many patients in Canada. Here’s why that needs to change - National
+Publisher: Global News
+Posted: 3 days ago
+Here's a brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Paxlovid has shown a 90% reduction in hospitalizations among unvaccinated patients with the Delta variant who received the drug within 5 days of symptom onset.
+Ontario had a centralized distribution system until it allowed select pharmacies to distribute the drug to those who have a prescription.
+Hospitalizations and intensive care unit capacities have been key drivers for public health measures in past COVID-19 waves in Ontario.
+The province is now in its sixth wave, driven by the lifting of public health measures, and hospitalizations are rising.
+
+Article 4 of 8
+Title: Study identifies risk factors for severe COVID-19 in hospitalized children in Canada
+Publisher: News-Medical.Net
+Posted: 4 days ago
+42% of hospitalizations occurred in Ontario.
+Children aged 2-4 years and 12-17 years had the highest risk of severe COVID-19 (49% and 41%, respectively).
+Neurologic and pulmonary disorders, technology dependence, and premature births were associated with increased risk of severe COVID-19.
+ICU admissions and hemodynamic or pulmonary support requirements varied by age group.
+
+Article 5 of 8
+Title: COVID-19 hospitalizations in Ontario up more than 25% in last week
+Publisher: CityNews Toronto
+Posted: 5 days ago
+Hospitalizations: 1,090 (up 25% from last week)
+ICU patients: 184 (up from 168 last week)
+Ventilator use among ICU patients: 82
+New infections: 2,401 (underreported due to testing capacity limits), with wastewater surveillance suggesting over 100,000 new daily cases.
+
+Article 6 of 8
+Title: Scientists, doctors try to fill gaps in COVID-19 risk information amid decrease in reliable data
+Publisher: CBC News
+Posted: 5 days ago
+Key values:
+PCR testing has dropped significantly, causing underestimations of official case counts.
+The Omicron variant fuels soaring COVID-19 cases.
+Hospitalizations, COVID deaths, test positivity rate, and estimated daily cases are being used to calculate the risk level in every province and territory.
+A "local COVID-19 risk index" is being developed by Peterborough's public health unit, which incorporates local case rates, hospitalizations, deaths, wastewater surveillance, PCR test positivity, and rapid antigen test positivity.
+
+Article 7 of 8
+Title: A refresher into Paxlovid, Pfizer's antiviral COVID-19 treatment
+Publisher: CityNews Toronto
+Posted: 5 days ago
+Here is a brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Paxlovid (Pfizer's antiviral treatment) can reduce hospitalization by 90% if given within 3 days of infection and 85% if administered within 5 days.
+The treatment is effective against high-risk patients, including those aged 70+ or immunocompromised.
+Ontario has expanded eligibility for antiviral treatments to include individuals aged 18+, with certain risk conditions, regardless of vaccination status.
+
+Article 8 of 8
+Title: Ontario reports 11 net new COVID-19 deaths, 1,188 hospitalizations
+Publisher: CP24
+Posted: 7 days ago
+Relevant.
+1,188 people currently hospitalized with COVID-19 in Ontario.
+45% of hospitalized patients were admitted for virus-related reasons and 55% for other reasons but tested positive.
+168 ICU patients, with 64% admitted for virus-related reasons and 36% for other reasons.
+Positivity rate: 18.4%, up from 17.1% a week ago.
+Estimated daily cases: upwards of 100,000 (based on wastewater analysis).

@@ -1,0 +1,110 @@
+Below are 8 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 8
+Title: 2 Montreal children have died from group A strep complications. Here's what parents need to know
+Publisher: CBC.ca
+Posted: Today
+Here are the key points from the article:
+What is iGAS? 
+Invasive Group A Streptococcal (iGAS) infections are caused by a type of bacteria called Group A streptococcus.
+These infections can cause serious illnesses, including strep throat, meningitis, septic arthritis, and necrotizing fasciitis (flesh-eating disease).
+Who is most at risk? 
+Children under the age of one
+Those who haven't been vaccinated against the flu or chickenpox
+Immunocompromised people
+Those with skin conditions that can allow bacteria to enter the body, such as uncontrolled eczema
+What are symptoms to watch out for in kids? 
+Trouble breathing
+Fever
+Significant change in personality
+Fatigue
+Stiff neck
+A full-body rash
+Not able to eat or drink
+No longer urinating
+How can people protect themselves and children? 
+Proper hand washing before eating and after coughing or sneezing
+Watching for skin infections
+Coughing or sneezing into a tissue or into their bent elbow, and disinfecting frequently touched surfaces and objects.
+What are the symptoms of iGAS in adults? 
+High fever
+Difficulty breathing
+Fatigue
+Confusion
+Widespread reddening of the skin
+Is iGAS circulating in Canada right now? 
+Yes, there have been confirmed cases of iGAS in Canada since mid-November.
+However, it is not clear if this is a significant increase or just a normal part of the annual circulation of the bacteria.
+
+Article 2 of 8
+Title: A senior says she ended up in the ER after being denied the COVID treatment Paxlovid
+Publisher: CBC News
+Posted: 1 day ago
+Key values:
+Paxlovid treatment reduces incidence of hospitalization and death.
+Eligibility criteria: patients over 60 qualify for Paxlovid prescription; younger people can access if immunocompromised or high-risk.
+Supply is not an issue (1.5 million courses ordered).
+Only a small percentage of distributed courses have been used (e.g., Saskatchewan: 6%).
+Ontario recently allowed pharmacists to prescribe Paxlovid, potentially increasing accessibility and reducing hospitalizations.
+
+Article 3 of 8
+Title: Nursing home wait list hits record high — and is now holding up 500 hospital beds
+Publisher: CBC.ca
+Posted: 1 day ago
+The number of seniors waiting for nursing home beds in New Brunswick has reached a record high (833 people), with nearly 500 waiting in hospital beds.
+This situation increases the strain on the hospital system due to the triple threat of respiratory illnesses (flu, RSV, and COVID-19).
+The article highlights the importance of addressing the root cause of hospital bed shortages, such as staff shortages and inefficient assessment processes, rather than just building new nursing homes.
+The cost of keeping seniors in hospital beds is high ($800-$1,000 per day), while alternative care options like special care homes are available but expensive ($5,000-$6,000 per month).
+The article suggests that forecasting COVID-19 hospitalizations in Ontario, Canada should consider the broader context of healthcare system capacity and resource allocation.
+
+Article 4 of 8
+Title: COVID-19 vaccination campaigns saved Canada billions of dollars, report estimates
+Publisher: CTV News Calgary
+Posted: 2 days ago
+Vaccines were highly effective at reducing COVID-19 cases (21%), hospitalizations (37%), and deaths.
+Estimated 34,900 fewer deaths from January 2021 to May 2022.
+Hospitalization rate reduction is most relevant for forecasting COVID-19 hospitalizations.
+
+Article 5 of 8
+Title: Why are children across Canada getting so sick this year?
+Publisher: CityNews Toronto
+Posted: 4 days ago
+Relevant.
+The article suggests an immunity gap as a significant factor in the high number of children hospitalized with common respiratory viruses, such as RSV and Influenza. Key values for forecasting COVID-19 hospitalizations in Ontario, Canada include:
+Immunity gap due to social distancing and masking measures
+Overlapping seasons of RSV and flu, increasing co-infections
+Potential impact of COVID-19 infections on children's immune systems
+Low vaccination rates against influenza (less than 1/4 kids vaccinated)
+Seasonality of RSV and flu, with a potential end to the season at some point.
+
+Article 6 of 8
+Title: Ontario to allow pharmacists to prescribe Paxlovid for COVID-19
+Publisher: CityNews Toronto
+Posted: 5 days ago
+Relevant.
+The article is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada. Key points include:
+Pharmacists can now prescribe Paxlovid to eligible patients at no cost, starting Dec 12.
+Eligible individuals include those 60+, immunocompromised, and those with chronic conditions such as diabetes or heart disease.
+The goal is to reduce COVID-19-related hospital admissions by increasing access to treatment within 5 days of symptom onset.
+
+Article 7 of 8
+Title: Why using the term ‘immunity debt’ is problematic for reporters
+Publisher: Association of Health Care Journalists
+Posted: 5 days ago
+Relevant.
+The article highlights that:
+The current caseload of flu, RSV, and COVID-19 infections is due to delayed exposure to pathogens, not weakened immune systems.
+Social distancing and masking measures temporarily held off infections, which are now occurring as population behavior allows the greater spread of pathogens.
+Most children have RSV infections multiple times throughout childhood, conferring weak immunity.
+The "debt" refers to the lack of infections due to simple lack of exposure to pathogens at all.
+
+Article 8 of 8
+Title: Hospitalizations signal rising COVID-19 risk for U.S. seniors
+Publisher: CP24
+Posted: 6 days ago
+Relevant.
+COVID-19 hospitalizations are rising in the US, with a 30% increase in two weeks.
+Older adults (70+) make up a growing share of US deaths and hospitalizations.
+Only about 23% of nursing home staff are up to date on COVID-19 vaccinations.
+Booster rates among seniors are low, with only about a third getting the shot.
+Hospital admissions for seniors with COVID-19 have surpassed those during previous omicron waves in some states.

@@ -1,0 +1,52 @@
+Below are 5 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 5
+Title: Thunder Bay-area hospitals prepare for up to 20 COVID-19 patients from Manitoba ICUs
+Publisher: CBC.ca
+Posted: 2 days ago
+Relevant.
+The article reports on Manitoba's surge in COVID-19 hospitalizations (291 cases, including 76 in ICU) and their decision to transfer patients to Ontario hospitals due to capacity constraints. The article highlights:
+Manitoba's current COVID-19 hospitalization numbers: 291 total, 76 in ICU
+Ontario hospitals' capacity to accept up to 20 COVID-19 patients from Manitoba
+Low COVID-19 cases in northwestern Ontario (e.g., Thunder Bay Regional Health Sciences Centre has only 9 COVID-19 patients on Thursday)
+
+Article 2 of 5
+Title: In one of Ontario's hardest-hit regions, COVID-19 takes a toll on essential workers
+Publisher: CBC.ca
+Posted: 3 days ago
+Peel Region has been hit harder by COVID-19 than almost any other part of Ontario.
+There have been more than 500 outbreaks of COVID-19 in workplaces in Peel since the pandemic began early last year.
+The median age of those infected in the region is 36.
+Public Health Ontario reports that Peel's cumulative case count is 6,439 cases per 100,000 people.
+
+Article 3 of 5
+Title: Canada expected to pass US on first dose Covid vaccinations as demand declines among Americans
+Publisher: CNN
+Posted: 4 days ago
+25% decrease in active Covid-19 cases in Canada this week
+Hospitalizations and ICU admissions related to the virus remain high in Canada, especially in Ontario (no specific numbers mentioned)
+No direct information on hospitalization rates or trends in Ontario.
+
+Article 4 of 5
+Title: Hospital staff train in new ER tents to prepare for surge in non-COVID-19 patients
+Publisher: CBC.ca
+Posted: 4 days ago
+Key points:
+New COVID-19 cases and hospitalizations have been slowly going down.
+Hospitals anticipate a surge in non-COVID-19 patients who delayed seeking care during the pandemic.
+Staff are preparing for this surge by running simulations in new tents outside emergency departments to create more space for physical distancing.
+The medical director of UHN's emergency departments expects a surge in activity for conditions that have been deferred, such as overdoses and mental health crises.
+
+Article 5 of 5
+Title: 'Cave syndrome': Why some people may choose to stay home even after COVID-19 ends
+Publisher: CTV News
+Posted: 5 days ago
+The article discusses the potential mental health impacts of the pandemic on Canadians.
+Psychologists mention that people with pre-existing conditions (e.g. anxiety disorders) may be more affected by the pandemic.
+Avoidance behaviors during the pandemic can worsen anxiety and stress in the long term.
+Paying attention to feelings after restrictions are lifted is important for identifying potential mental health issues.
+Free online resources, such as Mind Shift through Anxiety Canada, are available for those who need help.
+Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Pre-existing conditions (e.g. anxiety disorders)
+Avoidance behaviors during the pandemic
+Mental health impacts on Canadians after restrictions are lifted

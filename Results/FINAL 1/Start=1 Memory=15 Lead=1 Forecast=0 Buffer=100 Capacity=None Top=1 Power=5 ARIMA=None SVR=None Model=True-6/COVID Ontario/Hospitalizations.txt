@@ -1,7 +1,0 @@
-Succeeded: 67034
-Failed: 9582
-Lost: 0
-Arrived: 67850
-Required: 76616
-Remaining: 816
-Time: 4:36

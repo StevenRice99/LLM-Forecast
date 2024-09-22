@@ -1,0 +1,101 @@
+Below are 9 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 9
+Title: Why Canada avoided a severe winter COVID wave
+Publisher: CBC News
+Posted: Today
+The article discusses the current state of COVID-19 immunity in Canada and globally, highlighting the concept of hybrid immunity, which is a combination of vaccine-induced immunity and natural immunity from previous infections.
+Key points:
+Hybrid immunity provides sustained protection against severe disease but not as good protection against infection.
+Protection against infection wanes more quickly, leading to continued waves of transmission despite high levels of immunity.
+The safest way to get immunity is through vaccination, with a much lower risk of severe illness compared to previous variants like Delta or the original strain.
+South Africa has seen a significant reduction in hospitalizations and deaths due to COVID-19 since the rollout of vaccines, with the current immunity wall holding well.
+Better access to antiviral treatments has helped reduce hospitalizations, especially among elderly Canadians who are less likely to have prior infections.
+The immunity landscape is drastically different between younger adults and elderly Canadians, with a larger proportion of younger people having been infected.
+Future goals should focus on improving COVID-19 vaccine technology to recreate the protection provided by hybrid immunity in those who haven't yet been vaccinated.
+The article also mentions that:
+Immunity from severe disease may wane over time, and it's unclear how long immunity will last.
+There could be seasonal variation in terms of the severity of COVID infections, similar to the flu.
+The scientists tracking new COVID-19 variants are on high alert for potential new strains that could emerge before they're detected and tracked.
+Overall, the article suggests that while there is still some uncertainty about the long-term effectiveness of hybrid immunity, it has provided a significant level of protection against severe disease, and continued vigilance and research are necessary to address any future challenges.
+
+Article 2 of 9
+Title: Daughter can't understand why dad couldn't get Paxlovid to ease COVID symptoms
+Publisher: Times Colonist
+Posted: Today
+Key values:
+Age 60 and older are eligible for Paxlovid in Ontario
+Those 18 and older with immuno-compromised conditions or high risk of severe illness due to other serious diseases (e.g. liver, lung, kidney disease) are also eligible
+The article mentions the effectiveness of Paxlovid in reducing hospitalization and death in high-risk patients, but notes that there is no significant reduction in hospitalization or death in lower-risk populations
+
+Article 3 of 9
+Title: Ontario declared a state of emergency over the COVID-19 pandemic three years ago today. Here is a look back.
+Publisher: CP24
+Posted: 1 day ago
+Key points:
+Older Canadians (over 60) and those with underlying medical conditions are disproportionately impacted by COVID-19.
+Vaccination rates have been high, but breakthrough cases can still occur.
+The virus has reached a relatively steady state in the country, but certain groups remain at higher risk.
+Continued vaccination is recommended to protect against severe illness.
+
+Article 4 of 9
+Title: Over 14,000 Canadians Died While Waiting for Medical Treatment From 2021-2022: Report
+Publisher: Vision Times
+Posted: 3 days ago
+Relevant.
+Summary: Ontario will face a shortage of 33,000 nurses and personal support workers by 2027-28, with current salaries being the lowest in Canada. This could impact healthcare capacity, including COVID-19 hospitalizations, as hospitals may struggle to maintain adequate staffing levels.
+
+Article 5 of 9
+Title: Canadian cardiologists debunk Florida COVID-19 vaccine claims
+Publisher: CTV News
+Posted: 4 days ago
+The article discusses a letter written by Florida Surgeon General Joseph Ladapo claiming a significant surge in VAERS reports related to COVID-19 vaccinations, which was condemned as potentially harmful misinformation by US health agencies.
+The article highlights concerns among Canadian health professionals about the claims made and the quality of evidence cited.
+Key values for forecasting COVID-19 hospitalizations in Ontario, Canada:
++ Vaccination rates: The article does not provide specific vaccination rates for Ontario or Canada, but notes that over 13 billion doses have been given worldwide with low rates of adverse effects.
++ Hospitalization data: There is no mention of hospitalization data specifically related to COVID-19 in Ontario, Canada.
++ Demographic factors: The article does not discuss demographic factors such as age, sex, or comorbidities that may be relevant for forecasting COVID-19 hospitalizations in Ontario, Canada.
+
+Article 6 of 9
+Title: Children infected with Omicron more likely to have repeat ER visits: Canadian study
+Publisher: CTV News
+Posted: 5 days ago
+Children infected with Omicron were more likely to have additional emergency department visits compared to those infected with Delta.
+There was no clear difference in the proportion of children hospitalized or admitted to the intensive care unit across different variants.
+Fever and cough were associated more heavily with Omicron and Delta variants, but serious outcomes like hospitalization remained stable even across all variants.
+
+Article 7 of 9
+Title: Comorbidity-stratified estimates of 30-day mortality risk by age for unvaccinated men and women with COVID-19: a population-based cohort study - BMC Public Health
+Publisher: BMC Public Health
+Posted: 5 days ago
+Age remains a key factor in triage process
+Presence of comorbidities (e.g., CKD, cancer) increases mortality risk, especially among men and those under 45 years old
+Frailty indicator can be used to identify individuals at higher risk for death with COVID-19 despite younger age
+Relative age (e.g., "heart age") can improve communication of cardiovascular risk and promote behavior change.
+
+Article 8 of 9
+Title: After 3 years of COVID-19, here’s how Canada’s ‘endemic’ future may look - National
+Publisher: Global News
+Posted: 7 days ago
+COVID-19 hospitalizations have been relatively stable over the past 6-8 months despite the ongoing spread of Omicron subvariants.
+Experts expect a steady state of COVID-19 activity in Canada with no distinct variant-driven waves.
+The population has immunity to COVID-19, and death rates are lower since the beginning of the pandemic.
+Future challenges may arise for older and immune-compromised Canadians, but the impact may not be as profound as it was in 2020 or 2021.
+
+Article 9 of 9
+Title: Three years later: What has COVID-19 taught us and are we ready for the next big threat?
+Publisher: CBC.ca
+Posted: 7 days ago
+This article discusses the lessons learned from the COVID-19 pandemic in Alberta, Canada, and how they can be applied to future public health crises. The author interviews various experts, including Dr. Tim Caulfield, a professor of bioethics at the University of Alberta, and Dr. Deena Hinshaw, the province's former chief medical officer of health.
+The article highlights several key takeaways from the pandemic:
+1. Science evolves: The pandemic showed that scientific knowledge can change rapidly, and public health officials must be prepared to adapt their recommendations accordingly.
+2. Trust is a two-way street: The government and public health officials must communicate clearly and transparently with the public, while also acknowledging and addressing concerns and mistrust.
+3. Socio-economic divisions were amplified: The pandemic highlighted existing socio-economic divisions in society, with more advantaged people being more willing to trust Canadian institutions.
+4. Vaccine uptake was high: Despite some resistance, a significant majority of Albertans (78%) received their initial COVID-19 shots.
+The article also discusses the challenges that may arise if another pandemic occurs:
+1. Distrust and polarization: The experience of the past three years has created distrust among some segments of society, which could make it more difficult to implement public health measures in the future.
+2. Lessons not learned: Some experts worry that the lessons from the pandemic will not be applied, leading to a repeat of mistakes made during COVID-19.
+The article concludes by highlighting the importance of learning from past experiences and being prepared for future public health crises:
+1. Hope for change: Despite the challenges, there is hope for positive change, as people have learned how to negotiate with each other and extend their relationships.
+2. Preparedness is key: The next time a pandemic occurs, it's essential to be better prepared, with clear communication, trust-building, and proactive measures in place.
+Overall, the article provides a nuanced and thought-provoking analysis of the COVID-19 pandemic in Alberta, highlighting both the successes and challenges that arose during this period.

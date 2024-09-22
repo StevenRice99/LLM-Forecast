@@ -1,0 +1,52 @@
+Below are 5 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 5
+Title: Woman may have caught coronavirus in airplane toilet, researchers say
+Publisher: CTV News
+Posted: 2 days ago
+The study highlights the potential for asymptomatic transmission of COVID-19 on a flight.
+A 28-year-old woman developed symptoms and was hospitalized after being on a flight from Italy to South Korea with 300 other passengers.
+The woman wore an N95 mask except when using the toilet, where she came into contact with an asymptomatic patient.
+This study suggests that even with precautions in place, such as social distancing and mask-wearing, transmission can still occur.
+The article provides evidence of COVID-19 transmission on a flight, which is relevant for forecasting hospitalizations in Ontario, Canada.
+
+Article 2 of 5
+Title: Back-to-school shopping amid COVID-19: What you need for September
+Publisher: CTV News
+Posted: 3 days ago
+Key values:
+Mask requirements by age group (Grade 4 to Grade 12 required, kindergarten to Grade 3 encouraged)
+Potential for increased hospitalizations due to mask-related issues (e.g. wet or soiled masks, irritation from poor fit)
+
+Article 3 of 5
+Title: COVID-19 on P.E.I.: What's happening Tuesday, Aug. 25
+Publisher: CBC.ca
+Posted: 4 days ago
+The article reports that P.E.I. has had 44 cases of COVID-19, with no deaths or hospitalizations. This information is relevant for forecasting COVID-19 hospitalizations in Ontario, Canada, as it provides context on the overall situation in another Canadian province.
+
+Article 4 of 5
+Title: Pulmonary Thrombosis or Embolism in a Large Cohort of Hospitalized Patients With Covid-19
+Publisher: Frontiers
+Posted: 5 days ago
+The provided text appears to be a list of references related to the topic of pulmonary embolism and COVID-19, with a focus on the relationship between the two conditions. The references are in the format of a bibliography, with each entry including a citation number, author names, journal title, year of publication, volume and page numbers (if applicable), and a digital object identifier (DOI) for online articles.
+Some of the references appear to be original research articles, while others may be case reports or reviews. The topics covered include:
+1. Pulmonary embolism in patients with COVID-19 pneumonia (references 28 and 29)
+2. Concomitant acute aortic thrombosis and pulmonary embolism complicating COVID-19 pneumonia (reference 29)
+3. Pulmonary embolism in a young pregnant woman with COVID-19 (reference 30)
+4. A new CT index to quantify arterial obstruction in pulmonary embolism (reference 31)
+5. Nonlinear imputation of PaO2/FIO2 from SpO2/FIO2 among mechanically ventilated patients in the ICU (references 32 and 33)
+6. Prevalence of venous thromboembolism in patients with severe novel coronavirus pneumonia (reference 35)
+7. Pulmonary arterial thrombosis in COVID-19 with fatal outcome (reference 40)
+8. Attention should be paid to venous thromboembolism prophylaxis in the management of COVID-19 (reference 41)
+9. Pathological evidence of pulmonary thrombotic phenomena in severe COVID-19 (reference 42)
+The references suggest that there is a significant association between COVID-19 and pulmonary embolism, with several studies reporting cases of pulmonary embolism in patients with COVID-19 pneumonia or other complications related to the virus.
+To provide a more detailed analysis, I would need to examine each reference individually. However, based on the provided information, it appears that there is a growing body of research highlighting the importance of considering venous thromboembolism prophylaxis in the management of COVID-19 patients.
+
+Article 5 of 5
+Title: Hamilton's low income and racialized neighbourhoods have higher COVID-19 rates: study
+Publisher: CBC.ca
+Posted: 6 days ago
+Key values:
+Neighbourhoods with more low-income residents and people of colour have almost twice the rate of COVID-19 compared to neighbourhoods with the fewest low-income residents and people of colour.
+The average COVID-19 rate in Hamilton is 136 cases per 100,000 people.
+Ontario-wide data show similar trends: lower income and racialization status are associated with higher rates of COVID-19 cases, hospitalizations, ICU admissions, and mortality rates.

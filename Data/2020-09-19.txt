@@ -1,0 +1,58 @@
+Below are 6 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 6
+Title: Toronto's Waterfront community seeing most new cases in the city
+Publisher: CBC.ca
+Posted: 1 day ago
+Here's a brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+63% of people living in Waterfront community are between ages 20-40.
+This age group has been driving the surge of new infections in Ontario in recent weeks (nearly two-thirds of active cases represent people under age 40).
+Positive test rate of people in their 20s has climbed to around 4%, four times higher than the general population.
+
+Article 2 of 6
+Title: ICU doctor sounds note of optimism amid worrying surge in COVID-19 cases
+Publisher: CBC.ca
+Posted: 3 days ago
+313 new cases of COVID-19 were reported across Ontario on Monday.
+The majority of new cases are among younger people, which may not translate to increased hospitalizations or mortality.
+Only 9 patients were being treated for COVID-19 in hospital on Tuesday, none in intensive care.
+The demographics of hospitalized patients have not changed significantly since the pandemic began, with older patients having comorbidities and risk factors associated with poor outcomes.
+
+Article 3 of 6
+Title: 'The time to act is now': Tam says in response to COVID-19 spikes
+Publisher: CTV News
+Posted: 4 days ago
+251 new cases reported in Ontario on Tuesday (value: 251)
+Cases are rising from social gatherings (factor: social events)
+Public health officials are urging Canadians to take precautions before gathering in groups (factors: hand sanitizer, masks, cleaning common areas)
+
+Article 4 of 6
+Title: Now's no time for complacency, COVID-19 'long-hauler' warns
+Publisher: CBC.ca
+Posted: 4 days ago
+A 40-year-old woman (Brianne Quarrell) was hospitalized with COVID-19 in March and April, and still experiences lingering symptoms.
+She is a "long-hauler" who has not fully recovered from the disease.
+Her husband (Paul Quarrell) contracted mild COVID-19 symptoms at the end of March, but their two young daughters likely contracted the illness without showing symptoms.
+Brianne's autoimmune conditions may have contributed to her severe COVID-19 symptoms and prolonged recovery.
+The couple is warning others not to become complacent about COVID-19, as they believe it is still a serious threat.
+
+Article 5 of 6
+Title: What constitutes a COVID-19 outbreak? Experts say classification isn't clear-cut
+Publisher: CTV News
+Posted: 4 days ago
+Key values:
+Number of cases (5 students initially)
+Potential for rapid growth (25 to 625 cases)
+Community setting (London-Middlesex area)
+Contact tracing and mobility patterns important for predicting additional cases
+Importance of distinguishing between clusters and outbreaks based on epidemiological links
+
+Article 6 of 6
+Title: Toronto's strip clubs face calls to close after second Covid outbreak in a month
+Publisher: The Guardian
+Posted: 5 days ago
+Relevant.
+Summary: 
+- 313 new COVID-19 cases in Ontario on Monday.
+- Surge of new cases and hospitalizations throughout the province.
+- Outbreaks linked to strip clubs (Club Paradise and Brass Rail) with potential exposure to hundreds of people.

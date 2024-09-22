@@ -1,0 +1,47 @@
+Below are 5 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 5
+Title: Wearing gloves in public won't protect you from COVID-19, experts say
+Publisher: CTV News
+Posted: 1 day ago
+The main mode of transmission of COVID-19 is through respiratory droplets released from the mouth or nose.
+Touching a surface contaminated with COVID-19 and then touching one's eyes, nose, or mouth can also lead to infection.
+Wearing disposable gloves does not provide extra protection against COVID-19 and may even increase the risk of infection if not used properly.
+Regular hand washing is still the most effective way to prevent the spread of COVID-19.
+The Public Health Agency of Canada recommends practicing good hand hygiene, not touching one's face, and practicing respiratory etiquette.
+
+Article 2 of 5
+Title: Over 450 Indigenous COVID-19 cases across Canada and 7 deaths, reports Yellowhead Institute
+Publisher: CBC News
+Posted: 3 days ago
+79 total cases reported by Chiefs of Ontario as of May 12 (44 on-reserve, 35 off-reserve)
+ISC reported 41 on-reserve cases in Ontario as of May 11
+No information is provided about the number of hospitalizations or deaths in Ontario.
+
+Article 3 of 5
+Title: Off the ventilator but not yet on his feet: The long road to recovery from COVID-19
+Publisher: CBC.ca
+Posted: 3 days ago
+Key values:
+Hospitalization rate: 1 in 1000 (Nigel Mayne's case)
+ICU admission rate: 1 in 10,000 (Dr. David Frost's estimate)
+Long-term effects: unknown, but may include physical weakness, mood issues, delirium, and lifestyle ramifications
+Recovery time: approximately one week of recovery for every day spent in the ICU (Dr. David Frost's statement)
+
+Article 4 of 5
+Title: Lower income people, new immigrants at higher COVID-19 risk in Toronto, data suggests
+Publisher: CBC.ca
+Posted: 4 days ago
+Lower-income groups have a higher rate of COVID-19 cases (113 per 100,000) and hospitalizations (20 per 100,000) compared to higher-income groups.
+Newcomers to Toronto also show a higher rate of COVID-19 cases (104 per 100,000) and hospitalizations (18 per 100,000).
+ICES data confirms that people living in lower-income neighborhoods are more likely to test positive for COVID-19.
+These findings suggest that socioeconomic status and immigration status may be important factors to consider when forecasting COVID-19 hospitalizations in Ontario.
+
+Article 5 of 5
+Title: Ontario records lowest number of new COVID-19 cases in more than a month
+Publisher: CTV News Toronto
+Posted: 7 days ago
+1,016 hospitalizations (decrease of 72 patients from Friday)
+203 ICU admissions (158 on ventilators)
+Positivity rate: below 4% (informing the eventual easing of restrictions)
+Deaths in long-term care homes account for 74% of all deaths recorded in Ontario.

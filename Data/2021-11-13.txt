@@ -1,0 +1,127 @@
+Below are 10 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 10
+Title: Ontario COVID-19 modelling shows ICU numbers stable, but likely to rise
+Publisher: The Globe and Mail
+Posted: 1 day ago
+Key values for forecasting:
+Hospitalization numbers: 207 people hospitalized with COVID-19
+ICU occupancy: 130 people in ICU (121 not fully vaccinated or unknown vaccination status)
+Projections: ICU numbers could climb to between 200 and 250 people by the end of December or early January
+Vaccination effectiveness: Unvaccinated people 11 times more likely to be hospitalized, 26-fold higher risk of being in the ICU compared to the fully vaccinated
+
+Article 2 of 10
+Title: COVID-19 outbreak at Sault Area Hospital as health unit reports 29 new cases
+Publisher: CTV News Northern Ontario
+Posted: 1 day ago
+Relevant.
+Three confirmed cases of COVID-19 in hospital connected to an outbreak.
+29 new cases reported in Sault Ste. Marie by Algoma Health Unit.
+Outbreak management team engaged with infection prevention and control measures in place.
+Vaccinated visitors only permitted on the unit for compassionate reasons.
+
+Article 3 of 10
+Title: The Advisory Committee on Immunization Practices’ Interim Recommendation for Use of Pfizer-BioNTech COVID-19 Vaccine in Children Aged 5–11 Years — United States, November 2021
+Publisher: CDC
+Posted: 1 day ago
+The text discusses the Centers for Disease Control and Prevention's (CDC) Advisory Committee on Immunization Practices' (ACIP) recommendation to vaccinate children aged 5–11 years against COVID-19. The key points are:
+1. COVID-19 in children: During the pandemic, there were reported deaths of children aged 5–11 years due to COVID-19, with COVID-19 being the eighth leading cause of death in this age group.
+2. Post-COVID conditions: Children who contracted SARS-CoV-2 experienced new, worsening, or ongoing health problems after infection.
+3. School closures: An estimated 12 million students were affected by school closures during the 2020–21 school year due to COVID-19-related issues.
+4. Vaccine access: The CDC aims to provide rapid and equitable access to COVID-19 vaccines for children, particularly those from racial and ethnic minority groups who have experienced a disproportionate impact of the pandemic.
+5. Myocarditis risk: While myocarditis (a rare adverse event) has been reported after mRNA COVID-19 vaccine receipt in adolescents, no cases were reported among 3,082 trial participants aged 5–11 years with 7 days of follow-up after dose 2.
+6. Benefits vs. risks: ACIP determined that the benefits of COVID-19 vaccination outweigh the known and potential risks for children aged 5–11 years.
+The text concludes by stating that:
+The interim recommendation is based on use of the Pfizer-BioNTech COVID-19 vaccine under an Emergency Use Authorization (EUA).
+The recommendation might change as more evidence becomes available.
+Parents or guardians should be provided with the EUA Fact Sheet before vaccination.
+ACIP will continue to review additional data and update recommendations or clinical considerations as needed.
+
+Article 4 of 10
+Title: Rapid review of multisystem inflammatory syndrome in children: what we know one year later, CCDR 47(11)
+Publisher: Canada.ca
+Posted: 3 days ago
+This text appears to be a summary of a scientific article about Multisystem Inflammatory Syndrome in Children (MIS-C). Here's a breakdown of the main points:
+Key Points: 
+1. Definition: MIS-C is a condition that affects children and adolescents, characterized by fever, inflammation, and organ dysfunction.
+2. Demographics: The median age of patients with MIS-C is between 7-10 years, with males being more commonly affected (58%).
+3. Severity: Many patients require hospitalization, with over half admitted to the ICU or PICU, and a fifth requiring intubation.
+4. Mortality: Between 0-2% of patients die from MIS-C, depending on the context and available treatment.
+Additional Information: 
+1. Case definitions: The article mentions three different case definitions for MIS-C, published by the World Health Organization (WHO), the United States Centers for Disease Control (CDC), and the Royal College of Paediatrics and Child Health (RCPCH).
+2. Research gaps: The authors highlight the need for further research on the role of race, ethnicity, and comorbidities in the development of MIS-C.
+3. Future studies: They suggest that future studies should focus on surveillance reports to determine incidence rates and investigate sequelae (long-term effects) of MIS-C.
+Authorship: 
+The article is written by a team of authors, with each author contributing to different aspects of the research, including methodology, writing, and editing.
+
+Article 5 of 10
+Title: N.B. COVID-19 roundup: Parts of Miramichi health zone going into circuit breaker
+Publisher: CBC News
+Posted: 3 days ago
+Here's a summary of the article:
+Schools: No new COVID-19 cases were reported in schools on Tuesday and Wednesday, which is a positive trend after two weeks of online learning. However, 24 schools are still affected by the virus, with a total of 453 confirmed cases since the start of the school year.
+Masks: New Brunswick's Health Minister, Dorothy Shephard, has announced that masks will remain mandatory "for the foreseeable future" due to the highly transmissible delta variant. The province aims to achieve herd immunity with at least 90% of the population double-dosed.
+Vaccination targets: As of Tuesday afternoon, 75.9% of the total population had received two doses, while 82% had received one dose. The new target is to have at least 90% of the total population double-dosed.
+Public Health measures: 
+Household transmissions account for most new cases.
+People are urged to keep their number of contacts as low as possible.
+Masks are mandatory in all indoor public spaces.
+Public exposure notices can be found on the government's website.
+Unvaccinated individuals with symptoms should get a COVID lab test and isolate while waiting for results. Those without symptoms should pick up an At-Home COVID-19 Rapid Point of Care Test (Rapid POCT) screening kit.
+Fully vaccinated individuals with symptoms should get a COVID lab test, but do not need to isolate. They can also pick up a rapid test kit.
+General advice: 
+People are reminded that they have the power to prevent the spread of COVID-19 and its variants by taking precautions such as wearing masks, keeping contacts low, and getting vaccinated.
+If symptoms develop, people should stay at home, call 811 or their doctor, and follow instructions.
+
+Article 6 of 10
+Title: Alberta reports 422 new cases of COVID-19 and 8 deaths
+Publisher: CBC News
+Posted: 4 days ago
+Key values:
+Hospitalization numbers: 608 patients with COVID-19 being treated in hospital
+ICU admissions: 128 patients in intensive care
+Positivity rate: Not directly relevant to Ontario, but Alberta's decline from 11.3% to 5.1% may indicate a trend that could be applicable to other provinces.
+Vaccination rates: Not directly relevant to forecasting hospitalizations, but can influence overall disease transmission and severity.
+
+Article 7 of 10
+Title: Protect your heart with the COVID vaccine
+Publisher: Hamilton Health Sciences
+Posted: 4 days ago
+389 reported cases of myocarditis or pericarditis following over 21 million doses of COVID-19 vaccines administered in the province as of September 18, 2021.
+Highest reporting rates observed after the second dose in males 18-24 years and males 12-17 years of age at 0.017% and 0.01%.
+Symptoms typically mild and short-lived, with most people experiencing little to no damage to the heart.
+
+Article 8 of 10
+Title: Antidepressant may prevent severe COVID-19, follow-up study indicates – Washington University School of Medicine in St. Louis
+Publisher: Washington University School of Medicine in St. Louis
+Posted: 4 days ago
+A study found that fluvoxamine, a low-cost antidepressant, reduces the risk of hospitalization and death from COVID-19.
+The study was conducted in Brazil but has implications for Ontario, Canada.
+In the study, 11% of patients taking fluvoxamine required extended emergency care or hospital admission, compared to 16% of those receiving a placebo.
+The study's senior author is affiliated with McMaster University in Hamilton, Ontario.
+
+Article 9 of 10
+Title: Cross-reactivity of antibodies from non-hospitalized COVID-19 positive individuals against the native, B.1.351, B.1.617.2, and P.1 SARS-CoV-2 spike proteins
+Publisher: Nature.com
+Posted: 5 days ago
+This text appears to be a Methods section from a scientific research article, likely in the field of virology or immunology. Here's a breakdown of what I think it's about:
+Objective: The study aims to investigate the presence of antibodies that can block the interaction between human recombinant ACE-2 and the spike protein of SARS-CoV-2.
+Methods: 
+1. SPR (Surface Plasmon Resonance) experiments: Researchers used SPR technology to measure the binding of human recombinant ACE-2 to the spike protein. They compared the responses from different serum samples.
+2. Clinical samples: The study recruited adult volunteers who had previously tested positive for COVID-19 and were now 16 weeks post-infection. Sera from these individuals were used in the experiments.
+3. Sample selection: Participants were divided into four age groups (18-49, 50-59, 60-69, and 70+ years old). Eight samples were randomly selected from each age group for a total of 32 participants.
+4. Negative controls: Sera from eight individuals who had never received a COVID-positive test were used as negative controls.
+Statistics: 
+1. Data analysis: Statistical values (AUC and p-values) were calculated using GraphPad Prism software.
+2. Comparisons: Means were compared between different groups using paired or unpaired two-tailed t-tests when appropriate.
+The study aims to understand the presence of antibodies that can block the interaction between human recombinant ACE-2 and the spike protein, which is a key step in understanding how COVID-19 vaccines work.
+
+Article 10 of 10
+Title: Testing delays in northern B.C. likely contributing to spread of COVID-19, epidemiologist warns
+Publisher: CBC.ca
+Posted: 7 days ago
+Key values highlighted:
+Average test turnaround time in Northern Health region (B.C.) was 20-40 hours, peaking at 74 hours due to reagent shortages and shipping delays.
+Rapid test kits are being used in some settings, but not widely available for asymptomatic individuals or small businesses.
+Long wait times for testing and results may contribute to the spread of COVID-19 and increase hospitalizations.
+Ontario has made rapid tests available to staff and students in schools, while other provinces have implemented more extensive deployment of rapid tests.

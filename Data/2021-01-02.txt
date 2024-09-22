@@ -1,0 +1,57 @@
+Below are 6 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 6
+Title: HSN's Dominic Giroux 'inspired' by health care workers' commitment during pandemic
+Publisher: CBC.ca
+Posted: Today
+Key values:
+40 beds at Daffodil Lodge will be opened as an insurance policy for flu season and additional COVID-19 hospitalizations.
+The Sudbury hospital is preparing to support the local health unit's vaccine distribution.
+The province has been supportive of hospitals' incremental expenditures associated with the pandemic, refunding those expenditures.
+
+Article 2 of 6
+Title: Provinces with least-strict COVID-19 restrictions this summer saw sharp case spikes in second wave, data show
+Publisher: The Globe and Mail
+Posted: 1 day ago
+The article discusses the effectiveness of government response measures in controlling the spread of COVID-19 across Canada and other countries. The Oxford Government Response Tracker data shows that provinces with stricter measures have generally had better-controlled epidemics.
+In Canada, the territories have had relatively few cases and deaths compared to the provinces. Nunavut has reported a significant spike in infections six weeks ago but has since seen a decrease in new cases. The Northwest Territories have reported 24 cases throughout the pandemic.
+The article quotes Ashleigh Tuite, an assistant professor at University of Toronto's Dalla Lana School of Public Health, who says that acting quickly with strict measures can slow the spread of the virus. She notes that it's difficult to predict the impact of any single policy but that a stronger and faster response generally results in better-controlled epidemics.
+The article also highlights the challenges of predicting the effectiveness of government policies due to randomness and human behavior. Winnipeg epidemiologist Cynthia Carr notes that models like the Oxford tracker can only measure government policies, not whether they are enforced or if people are following the rules.
+In contrast to Canada, some US states have had high infection rates despite taking few steps to limit activities or restrict businesses. The article quotes Emily Cameron-Blake, one of the Oxford researchers behind the tracking project, who notes that individual policies can make a significant difference in controlling the spread of the virus.
+Overall, the article suggests that government response measures can be effective in controlling the spread of COVID-19, but it's essential to consider the specific context and policies implemented.
+
+Article 3 of 6
+Title: Ontario reports more than 2,900 new cases of COVID-19 for first time ever
+Publisher: CTV News Toronto
+Posted: 3 days ago
+1,177 people currently hospitalized with COVID-19 (highest number since pandemic start)
+323 patients in intensive care unit (ICU), surpassing benchmark where non-COVID medical care becomes difficult
+ICU occupancy could reach up to 1,500 by mid-January (worst-case scenario)
+
+Article 4 of 6
+Title: Ontario finance minister says he's returning home as news of Caribbean vacation sparks anger
+Publisher: CBC.ca
+Posted: 4 days ago
+It appears that Ontario's Finance Minister, Rod Phillips, has come under scrutiny for taking a vacation trip outside of Canada in December while urging others to stay home due to COVID-19 restrictions. The minister initially tweeted about visiting Durham Region on December 15, but later clarified that the photo was taken previously and posted out of context.
+The NDP is calling for accountability, saying that Premier Doug Ford cannot give Phillips a free pass for his actions. They point out that other MPPs, such as Sam Oosterhoff, have faced backlash for similar behavior, while everyday Ontarians have been separated from loved ones during the pandemic.
+Residents in Ontario are expressing disappointment and frustration with the minister's actions, feeling that he is not practicing what he preaches. Some are sharing their own experiences of being unable to visit family members or friends due to COVID-19 restrictions.
+The Public Health Agency of Canada is also warning against non-essential travel, reminding travellers that contravening mandatory quarantine can lead to severe penalties. The agency notes that travel restrictions and border measures have been in place since March and are subject to change with little warning.
+
+Article 5 of 6
+Title: Record COVID-19 hospitalizations in U.S. could soon force health experts to ration care
+Publisher: CTV News
+Posted: 4 days ago
+The article reports high hospitalization rates in the US, with 121,235 patients hospitalized with COVID-19.
+ICU capacity is strained, with some hospitals using unconventional methods to accommodate patients.
+Experts warn of a potential surge on top of a surge due to holiday travel.
+The article highlights the importance of ramping up vaccine distribution and administration.
+Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Hospitalization rates (number of patients hospitalized per day/week)
+ICU capacity (percentage of available beds occupied by COVID-19 patients)
+Vaccine distribution and administration rates (number of doses administered per day/week)
+
+Article 6 of 6
+Title: True toll of Wuhan infections may be nearly 10 times official number, Chinese researchers say
+Publisher: CTV News
+Posted: 4 days ago
+The article is not directly relevant to forecasting COVID-19 hospitalizations in Ontario, Canada. However, it provides context on underreporting of cases during the initial outbreak in Wuhan and the effectiveness of containment measures. This information can be considered when evaluating the accuracy of reported case numbers and hospitalization rates in other regions, including Ontario.

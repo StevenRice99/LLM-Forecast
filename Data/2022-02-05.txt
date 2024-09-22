@@ -1,0 +1,86 @@
+Below are 7 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 7
+Title: Canada is shifting to 'living with the virus' — for better or worse
+Publisher: CBC News
+Posted: Today
+Record-high hospitalizations and ICU admissions are mentioned nationally.
+The Chief Public Health Officer Dr. Theresa Tam suggests finding a more "sustainable" way to deal with the pandemic.
+Saskatchewan has announced further limits to PCR testing, ending daily COVID-19 data sharing, and stopping outbreak investigations outside of hospitals and long-term care.
+Boosters still hold up well against infection, severe illness, and death.
+Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: Record-high hospitalizations and ICU admissions nationally.
+
+Article 2 of 7
+Title: Ontario is reporting 75 COVID-19 related deaths, but top doctor says situation is improving
+Publisher: CBC.ca
+Posted: 2 days ago
+Key values for forecasting:
+Current hospitalization numbers: 2,797 people with COVID-19 in hospitals
+ICU numbers: 541 patients with COVID-19 who required intensive care (down from 555 and 599 the same time last week)
+Percentage of positive tests: 14.6% (down from 18.4% the week prior)
+Hospitalization trend: stable, but still precarious in some areas
+Antiviral distribution plan: prioritizing unvaccinated individuals at risk of severe outcomes
+
+Article 3 of 7
+Title: This is what the latest pandemic wave is like for the ICU team at Humber River Hospital
+Publisher: CBC.ca
+Posted: 3 days ago
+Key values:
+Unvaccinated individuals are 11.8 times more likely to be hospitalized with COVID-19 than vaccinated individuals.
+ICU patients with COVID-19 contribute to delays for others in need of surgeries and treatment.
+The ability to transfer ICU patients between hospitals has been crucial in managing patient case loads efficiently.
+Fatigue and trauma have taken a toll on healthcare staff, but there is optimism that COVID-19's challenges will lead to reform in the healthcare system.
+
+Article 4 of 7
+Title: Doug Ford talks about returning to 'life we knew before COVID-19'
+Publisher: CityNews Toronto
+Posted: 5 days ago
+The worst of the current Omicron wave has passed, but a jump in hospitalizations is expected in the coming months (February and March).
+The easing of restrictions will contribute to an increased spread and hospitalizations will rebound.
+Hospitalizations have slowed, but are still expected to continue at a prolonged peak through February and March.
+
+Article 5 of 7
+Title: Ontario reports 31 new COVID-19 deaths Monday as restrictions on restaurants, gyms lift
+Publisher: CBC.ca
+Posted: 5 days ago
+Key values:
+2,983 hospitalizations as a result of COVID-19 (down from previous days)
+583 people in intensive care units across the province
+347 people requiring a ventilator to breathe
+14.7% test positivity rate
+56% of long-term care homes have active COVID-19 outbreaks
+
+Article 6 of 7
+Title: What you need to know about COVID-19 in Ottawa on Sunday, Jan. 30
+Publisher: Yahoo News Canada
+Posted: 6 days ago
+The article provides information about COVID-19 vaccination and testing guidelines in eastern Ontario and western Quebec.
+Vaccination Guidelines: 
+Both local provinces recommend doses for kids age five to 11 be given at least eight weeks apart for the best possible protection.
+Some health authorities say parents can request a shorter interval; the minimum time between doses is three weeks.
+Guidance varies on when, not if, people should get a third dose after contracting COVID-19. Experts agree that people shouldn't get it until they're feeling recovered.
+Eligible people in Ontario and Quebec can look for provincial appointments online or over the phone at 1-833-943-3900.
+Testing Guidelines: 
+In eastern Ontario, only high-risk people with symptoms or who are at risk of severe illness from COVID-19 can get a laboratory-checked PCR test due to Omicron demand.
+Qualified people can check with their health unit for clinic locations and hours. Other people with symptoms should assume they have COVID-19 and isolate.
+In western Quebec, PCR tests will be reserved for those in high-risk settings such as hospitals, long-term care homes, detention centres, and homeless shelters.
+Rapid COVID-19 tests are available in all Quebec daycares, preschools, and elementary schools, as well as through pharmacies for the general population.
+First Nations, Inuit, and Métis Communities: 
+First Nations, Inuit, and Métis people, or someone travelling to work in a remote Indigenous community, are eligible for a test in both Ontario and Quebec.
+Akwesasne has COVID-19 test and vaccine information online or at 613-575-2341. Residents can contact its Community in Quarantine Program if they need help getting essentials while isolating.
+The neighbouring Saint Regis Mohawk Tribe is also offering tests.
+People in Kitigan Zibi Anishinabeg can call the health centre at 819-449-5593 for a test or vaccine; email is another option for vaccine booking. Ode Widokazowin can help people in isolation get groceries at 819-449-2323.
+People in Pikwàkanagàn can call a COVID-19 hotline at 613-401-0428 for updates on its response. It's offering PCR tests four mornings a week.
+Anyone in Tyendinaga who's interested in a test can call its community health team at 613-967-3603, text it at 613-686-5510 or send it an email.
+Inuit in Ottawa can call the Akausivik Inuit Family Health Team at 613-740-0999 for service, including testing and vaccines, in Inuktitut or English on weekdays.
+
+Article 7 of 7
+Title: How Canada can avoid past mistakes as COVID-19 restrictions lift
+Publisher: CBC News
+Posted: 7 days ago
+Key values:
+Record-high hospitalizations have just begun to show signs of peaking.
+Omicron variant's subvariant BA.2 is showing early signs of spread in Canada.
+Experts warn that the virus doesn't work on our schedule and that immunity from vaccinations and infections may not be enough to prevent future waves.
+Leading indicators like wastewater surveillance, hospitalizations, ICU admissions, and deaths should be monitored to inform decision-making.
+Population immunity levels from vaccines, boosters, and infections will have some benefits but may not be enough to prevent a resurgence of COVID-19.

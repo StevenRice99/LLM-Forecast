@@ -1,0 +1,113 @@
+Below are 10 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 10
+Title: COVID-19 hospitalizations look different in the Omicron wave, and vaccination status is playing a part
+Publisher: The Globe and Mail
+Posted: Today
+The article discusses the impact of unvaccinated Ontarians on ICUs during the Omicron wave of COVID-19 in Ontario, Canada. The data shows that despite the raw numbers appearing to narrow, when adjusted for population size and age, the occupancy rate of unvaccinated people in ICUs is almost 15 times higher than that of fully vaccinated people.
+The article also quotes various medical professionals who note that while Omicron infections may be leading to fewer severe cases of COVID-19-related pneumonia compared to earlier waves, hospitalizations are still occurring due to other factors such as frailty, chronic illness, and pandemic fatigue. The stress on the hospital system is being exacerbated by health workers isolating or taking sick leaves due to COVID-19.
+Key points from the article include:
+Unvaccinated people in Ontario ICUs have an occupancy rate almost 15 times higher than that of fully vaccinated people.
+Omicron infections may be leading to fewer severe cases of COVID-19-related pneumonia compared to earlier waves.
+Hospitalizations are still occurring due to factors such as frailty, chronic illness, and pandemic fatigue.
+The stress on the hospital system is being exacerbated by health workers isolating or taking sick leaves due to COVID-19.
+Quebec health minister Christian Dubé reported that 20,000 health care workers are absent due to COVID-19 in his province.
+
+Article 2 of 10
+Title: Baricitinib for Hospitalized Patients with COVID-19
+Publisher: Ontario COVID-19 Science Advisory Table
+Posted: Today
+The provided text appears to be a scientific brief on the use of baricitinib in COVID-19 patients, as recommended by the Ontario Science Table Drugs & Biologics Clinical Practice Guidelines Working Group. Here's a summary of the key points:
+Recommendations: 
+1. Critically Ill Patients: Baricitinib 4 mg PO or NG daily (2 x 2 mg tablets) for 14 days or until discharge may be considered in patients receiving non-invasive or high-flow nasal oxygen, mechanical ventilation or ECMO who are on a recommended dose of dexamethasone therapy (or a dose-equivalent corticosteroid) or who have a contraindication to corticosteroid treatment.
+2. Moderately Ill Patients: Baricitinib 4 mg PO daily (2 x 2 mg tablets) for 14 days or until discharge may be considered in patients on supplemental oxygen who are on a recommended dose of dexamethasone therapy (or a dose-equivalent corticosteroid) or who have a contraindication to corticosteroid treatment.
+3. Mildly Ill Patients: Baricitinib is not recommended in mildly ill COVID-19 patients who do not require oxygen.
+Important Considerations: 
+1. Concomitant Corticosteroids: Baricitinib can be used with or without corticosteroids, and there was no additional adverse event risk.
+2. IL-6 Inhibitors: The combined use of baricitinib and IL-6 inhibitors is not recommended due to a lack of safety and efficacy evidence.
+3. Pregnancy and Breastfeeding: Use in pregnant or breastfeeding women should be determined through shared decision-making with the patient, considering potential maternal benefits and theoretical fetal risks.
+4. Renal Function: Baricitinib dose should be reduced to 2 mg daily in patients with an eGFR 30-60 mL/min/1.73m^2, and it should not be used in patients with eGFR <30 mL/min/1.73m^2.
+5. Monitoring: Patients receiving baricitinib should have a complete blood count, creatinine function, and liver enzymes monitored throughout the treatment duration.
+Methods Used for this Scientific Brief: 
+The working group searched various databases and conducted meta-analyses using STATA software to inform their recommendations. They also updated their definitions for COVID-19 disease severity, focusing on the need for new oxygen or circulatory support rather than hospital admission status.
+
+Article 3 of 10
+Title: Health and emergency sectors short staffed as workers fall ill
+Publisher: Canada's National Observer
+Posted: 1 day ago
+Ontario has seen a 5x increase in hospitalized COVID patients to 2,279.
+Staff absences due to COVID diagnoses are high at some hospitals and long-term care homes (20-30%).
+Omicron variant driving up case counts.
+
+Article 4 of 10
+Title: Doctors urge vigilance as some hospitals raise alarm about infants with COVID-19
+Publisher: CTV News
+Posted: 1 day ago
+Key values:
+2,279 people in hospital due to COVID-19 (Thursday's figure)
+307 people in intensive care units (ICU) (Thursday's figure)
+Unvaccinated or partially vaccinated individuals make up about two-thirds of those in Ontario ICUs
+Omicron variant is more transmissible than Delta but less likely to result in severe illness or death for fully vaccinated individuals
+
+Article 5 of 10
+Title: Situation in Ontario hospitals expected to worsen as doctors isolate and COVID-19 admissions rise
+Publisher: The Globe and Mail
+Posted: 1 day ago
+Record 2,472 COVID-19 patients in hospital as of Friday.
+324 COVID-19 patients in intensive care units (ICU).
+Overall acute bed capacity: 20,000; occupied beds: 18,000; ICU beds: just over 2,000.
+Rising staff absences due to COVID-19 diagnoses or exposure: e.g., 200 staff members isolating at Grand River Hospital.
+Staffing challenges and redeployment of resources in hospitals.
+
+Article 6 of 10
+Title: Why COVID-19 hospitalizations of Canadian kids — and infants — could keep rising as Omicron spreads
+Publisher: CBC News
+Posted: 2 days ago
+Key values:
+38 infants and toddlers were hospitalized with COVID-19 over the most recently-available two-week period.
+Children ranging from newborns to four-years-old are the highest hospitalization level of any youth.
+The Hospital for Sick Children (SickKids) had fewer than five patients admitted with coronavirus infections a month ago, but that tally hit 14 by Wednesday.
+COVID-19 admissions at B.C. Children's Hospital in Vancouver are also "going up, marginally," compared to recent months before the Omicron surge.
+All six infants recently hospitalized for COVID-19 infections at several Ontario hospitals were from unvaccinated mothers.
+
+Article 7 of 10
+Title: Ontario Implements New Lockdown and Revised COVID-19 Testing Guidance
+Publisher: Ogletree Deakins
+Posted: 2 days ago
+Mandatory remote work to reduce on-site interactions
+Gathering limits (5 people indoors, 10 outdoors)
+Capacity limits for various settings (50% capacity for retail, food courts, personal care services, etc.)
+Closure of non-essential businesses and services (theatres, concert venues, museums, zoos, etc.)
+Pausing select surgeries to preserve hospital resources
+Updated isolation rules for fully-vaccinated individuals (5 days self-isolation)
+Changes in PCR testing guidelines (only high-risk individuals will have access to publicly-funded testing)
+These measures are likely to impact the number of COVID-19 cases and hospitalizations in Ontario, Canada.
+
+Article 8 of 10
+Title: 2 GTA hospitals declare 'code orange' as Ontario prepares to tighten public health measures
+Publisher: CBC.ca
+Posted: 4 days ago
+1,290 people are currently hospitalized with COVID-19 in Ontario (up from 491 last week).
+266 patients are being treated for COVID-related illnesses in intensive care units.
+The number of hospitalizations and ICU admissions has increased by 163% and 43%, respectively, over the past week.
+The province's health-care system is at risk of being overwhelmed due to the Omicron variant.
+Some hospitals have initiated a "code orange" due to staffing shortages and high levels of illness among healthcare workers.
+
+Article 9 of 10
+Title: Ontario moves school online, closes indoor dining and gyms as part of sweeping new COVID-19 measures
+Publisher: CBC.ca
+Posted: 5 days ago
+Key values for forecasting:
+Peak hospitalizations expected by the end of January
+Projected hospitalization numbers: 1,232 currently, with potential to overwhelm the system (no specific number mentioned)
+Additional beds designated for Omicron patients: 1,200-1,500
+Modelling suggests that tightened public health measures will blunt the rate of Omicron's spread and reduce hospitalizations.
+
+Article 10 of 10
+Title: Ontario reports 18,445 new COVID-19 cases on New Year's Day, a pandemic high
+Publisher: CBC.ca
+Posted: 7 days ago
+18,445 new COVID-19 cases reported in Ontario.
+Rapid and concerning growth of hospitalizations (according to Dr. Kevin Smith).
+Need for General Internal Medicine hospital admissions increasing.
+Paxlovid approval requested for emergency use due to high demand.

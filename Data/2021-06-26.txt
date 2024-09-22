@@ -1,0 +1,99 @@
+Below are 9 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 9
+Title: Manitoba moves out of code red as COVID-19 numbers fall again
+Publisher: CBC.ca
+Posted: 1 day ago
+Relevant.
+Manitoba's hospitalization numbers have been steadily dropping throughout the week (197 in hospital, including 66 ICU patients).
+Almost 80% of recent hospitalizations were individuals who had not been vaccinated or received a positive test less than 14 days after a first dose.
+The province aims to reach at least 75% vaccination rates by August for further reopening.
+
+Article 2 of 9
+Title: Ontario moving to Step 2 of reopening early as province sees 296 new COVID-19 cases
+Publisher: CBC.ca
+Posted: 2 days ago
+Key values:
+305 people with COVID-related illnesses in ICUs (as of Wednesday)
+Decreasing numbers of COVID-19 patients being treated in intensive care units
+Delta variant accounts for roughly 63% of all new infections in the province
+Vaccination targets: 76% of adults with one dose, 29% fully immunized
+
+Article 3 of 9
+Title: SickKids reports handful of 'rare' heart inflammation cases following COVID-19 vaccine
+Publisher: CBC.ca
+Posted: 2 days ago
+The risk of myocarditis (inflammation of the heart) after receiving an mRNA-based COVID-19 vaccine (Pfizer or Moderna) is estimated to be about 1 in 100,000.
+Most cases are mild and resolve on their own or with over-the-counter medication.
+The benefit of vaccination far outweighs the risk of myocarditis.
+Common symptoms of myocarditis include chest pain, shortness of breath, fatigue, and fever.
+
+Article 4 of 9
+Title: Substance-related poisonings and homelessness in Canada: a descriptive analysis of hospitalization data
+Publisher: Canada.ca
+Posted: 3 days ago
+This report appears to be a statistical analysis of hospitalization data related to substance-related poisonings in Canada. Here are the key points from the report:
+Methodology 
+The analysis uses data from the Canadian Institute for Health Information (CIHI) Discharge Abstract Database (DAD)
+The study focuses on patients hospitalized for substance-related poisonings
+The analysis includes co-diagnosed mental health conditions, but notes that these do not reflect the overall prevalence of mental health conditions among those hospitalized for substance-related poisonings
+Limitations 
+The analysis is descriptive and does not evaluate why differences occur
+It was not possible to determine which poisonings were a result of pharmaceutical substances, non-pharmaceutical substances, or a combination of both
+Co-poisonings may have been due to intended use of multiple substances at the same time or close in time, or if a substance unknowingly contained other substances
+The DAD captures patients discharged from hospital, but not those still hospitalized during the analysis year
+Data on sex is recorded based on biological determination or legal documentation, and an 'other' sex group was available but excluded due to low counts
+Data on homelessness may have been underreported due to self-reported information and potential "hidden homelessness"
+Intention of poisoning may be overrepresented as accidental due to reliance on self-reported information
+Mental health conditions can go undiagnosed or take time to diagnose, which would not be captured in this data
+Key findings 
+The report does not provide specific key findings, but rather outlines the methodology and limitations of the analysis.
+Overall, this report appears to be a detailed statistical analysis with a focus on methodology and limitations. It provides context for understanding the scope and potential biases of the study, but does not present specific results or conclusions.
+
+Article 5 of 9
+Title: Why mixing Pfizer and Moderna vaccines could help Canada end the pandemic sooner
+Publisher: CBC.ca
+Posted: 3 days ago
+The delta variant now makes up more than 50% of COVID-19 cases in Ontario.
+Two doses of Pfizer or Moderna are highly effective against symptomatic disease from the delta variant (88% and 93% respectively).
+A single dose of Pfizer or AstraZeneca is only about 33% effective against delta, highlighting the importance of completing a full vaccination course.
+
+Article 6 of 9
+Title: Pressure builds to open U.S.-Canada border
+Publisher: The Washington Post
+Posted: 4 days ago
+Cases and hospitalizations have fallen precipitously across much of Canada since a punishing third wave in the spring.
+As of now, roughly 66% of Canada's population has received at least one dose and almost 19% are fully vaccinated.
+The article mentions that there is no consensus among provincial premiers about when or how to lift restrictions, but does not provide specific data on hospitalizations in Ontario.
+
+Article 7 of 9
+Title: How COVID-19 exposed long-term health-care issues at Brampton hospital
+Publisher: The Globe and Mail
+Posted: 5 days ago
+The article discusses how Brampton Civic Hospital pivoted to conserve critical nursing resources during the COVID-19 pandemic. Here are some ways they did so:
+1. Proning patients in batches: The hospital developed a system where staff would flip critically ill COVID-19 patients onto their stomachs (a procedure called proning) in batches, with multiple teams working together to minimize downtime and reduce the risk of pressure sores.
+2. Standardized protocols: The hospital established standardized protocols for proning, including a checklist that ensured staff followed safety procedures, such as monitoring breathing tubes and preventing unhooked connections.
+3. Staff training and confidence: Through extensive training and experience, staff developed the expertise to perform proning safely and efficiently, giving them confidence in their abilities.
+4. Transferring patients to other hospitals: When Brampton Civic's ICU became overwhelmed with critically ill COVID-19 patients, they coordinated transfers to other hospitals through the GTA Hospital Incident Management System (IMS). This helped alleviate pressure on their resources and allowed them to focus on more critical cases.
+5. Collaboration with other hospitals: The hospital worked closely with other hospitals in the GTA to transfer patients, share resources, and coordinate care.
+These strategies enabled Brampton Civic Hospital to conserve critical nursing resources during a period of intense demand, ultimately helping to manage the pandemic's impact on their staff and patients.
+
+Article 8 of 9
+Title: Ontario health guidance downplays aerosol spread of COVID-19. Critics say this puts lives at risk
+Publisher: CBC.ca
+Posted: 6 days ago
+Key points:
+540,000 Ontarians have been infected with COVID-19.
+Emerging evidence suggests airborne transmission was underestimated initially.
+Increased emphasis on ventilation and air purification in indoor settings could have prevented outbreaks.
+High-risk workers should have had immediate access to N95 respirators.
+Public guidance has not changed despite acknowledgement of the airborne risk.
+
+Article 9 of 9
+Title: Why COVID-19 may now feel like a 'bad cold' — with headache, runny nose among most-reported symptoms
+Publisher: CBC.ca
+Posted: 7 days ago
+The article discusses the changing nature of COVID-19 symptoms as vaccination rates increase in Canada. Experts are noting that the virus is becoming less severe, with some people experiencing mild symptoms similar to a common cold. This shift could make it more difficult to track the spread of the virus, particularly among vulnerable populations such as the elderly and those with underlying health conditions.
+The article cites Dr. Andrew Morris, an infectious diseases specialist at the University of Toronto, who notes that symptoms may vary depending on age and strain or variants of the virus. Jason Kindrachuk, a virologist at the University of Manitoba, suggests that the rise in mild symptom reports could be due to increased awareness and reporting of minor health changes.
+The article also highlights the importance of targeted testing strategies, such as testing patients when they enter hospitals or congregate-care settings, rather than relying on community-based testing. Experts are warning that schools may need to be a focus this fall, particularly since only Canadian youth aged 12 and up are eligible for vaccination.
+Overall, the article suggests that COVID-19 is becoming less of a threat as vaccination rates increase, but that it's still important to remain vigilant and adapt public health measures to address the changing nature of the virus.

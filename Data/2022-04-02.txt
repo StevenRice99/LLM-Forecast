@@ -1,0 +1,95 @@
+Below are 9 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 9
+Title: Canada’s hospital capacity crisis will remain long after the pandemic is over
+Publisher: The Globe and Mail
+Posted: Today
+The article discusses the potential for bundled payments in Canadian healthcare to improve patient outcomes and reduce costs. Bundled payments involve paying hospitals a fixed amount for a specific treatment or procedure, rather than reimbursing them on a fee-for-service basis.
+Kevin Smith, president of the University Health Network in Toronto, has implemented small-scale versions of bundled payments at UHN and St. Joseph Health System in Hamilton. He notes that this approach incentivizes better care by tying hospital budgets to patient outcomes.
+Jason Sutherland, an expert on healthcare funding, advocates for a funding model that ties hospital budgets to patient outcomes. He suggests that hospitals should be rewarded for providing high-quality care, rather than simply being paid for the number of procedures they perform.
+The article also highlights the importance of data in improving healthcare outcomes. Elyse Berger Pelletier, an ER physician and former deputy director general of emergencies and EMS in Quebec, notes that leveraging data can help identify areas where hospitals are overusing resources, such as keeping patients in hospital longer than necessary.
+Pelletier suggests that Canadian hospitals could learn from their US counterparts, which have more robust data systems to track patient outcomes. She argues that this approach could help free up capacity in the short term and improve patient care.
+The article concludes by noting that some Canadian jurisdictions are better at leveraging data than others, but that there is still much work to be done to improve healthcare outcomes.
+Key points:
+Bundled payments can incentivize better care by tying hospital budgets to patient outcomes.
+Data is essential for improving healthcare outcomes and identifying areas where hospitals can optimize their resources.
+Canadian hospitals could learn from their US counterparts in terms of data-driven decision-making.
+Leveraging data can help free up capacity in the short term and improve patient care.
+Overall, the article suggests that a more data-driven approach to healthcare funding and resource allocation could lead to better patient outcomes and improved efficiency in Canadian hospitals.
+
+Article 2 of 9
+Title: COVID-19 on P.E.I.: What's happening the week of March 27
+Publisher: CBC.ca
+Posted: 1 day ago
+13 people were being treated at hospitals for COVID-19 as of Tuesday (no specific mention of Ontario).
+An average of 350 new cases per day over the seven days prior to Tuesday.
+The impact of COVID-19 on the health-care system will be key in determining if restrictions will be lifted further, says Chief Public Health Officer Dr. Heather Morrison (no specific mention of Ontario).
+Paxlovid is helping keep Islanders out of hospital, says Chief Public Health Officer Dr. Heather Morrison (Paxlovid availability and effectiveness may vary by province).
+Note: The article primarily focuses on Prince Edward Island (PEI), but some general information about COVID-19 cases and hospitalizations in Atlantic Canada might be indirectly relevant for forecasting in Ontario, Canada.
+
+Article 3 of 9
+Title: COVID vs. flu — is it a fair comparison?
+Publisher: CBC.ca
+Posted: 2 days ago
+Colin Furness, an infection control epidemiologist from Ontario, warns that treating COVID-19 like a flu is a "dangerous thing" due to its potential long-term damage and serious effects.
+COVID-19 has caused significant hospitalizations (nearly 150 people hospitalized with COVID in New Brunswick) compared to the flu (no hospitalizations reported in Week 10 of the current flu season).
+Furness suggests that scaling back testing and monitoring for COVID-19 can lead to a false sense of security, encouraging more spread and potentially harming vulnerable populations.
+He emphasizes the importance of continued vigilance and accurate reporting to inform public health decisions and protect vulnerable individuals.
+
+Article 4 of 9
+Title: Ontario finance minister tests positive for COVID-19, says symptoms mild
+Publisher: CTV News Toronto
+Posted: 2 days ago
+Rising COVID-19 hospitalizations in Ontario (key metric)
+Limited access to PCR testing
+Wastewater testing shows rising COVID-19 activity in the province (indication of potential future hospitalization increases)
+
+Article 5 of 9
+Title: Ontario finance minister tests positive for COVID, says symptoms mild
+Publisher: Global News
+Posted: 2 days ago
+The article reports that Ontario's COVID-19 metrics have been rising, including hospitalizations. Wastewater testing also indicates increasing COVID-19 activity in the province. These values are most important for forecasting COVID-19 hospitalizations in Ontario, Canada: 
+Rising hospitalization numbers
+Increasing COVID-19 activity (wastewater testing)
+
+Article 6 of 9
+Title: Canada headed towards 6th COVID-19 wave this spring, experts warn - National
+Publisher: Global News
+Posted: 4 days ago
+Cases and hospitalizations are creeping back up again across the country.
+Ontario reported 790 people were in hospital with COVID-19 (a 20-per cent increase from Monday) and 165 were in intensive care Tuesday.
+The more contagious BA.2 subvariant of Omicron is driving the increase, coupled with loosened public health measures.
+Experts anticipate that the spring wave will cause cases to rise, with a risk of an increase in hospitalizations, ICU admissions, and deaths.
+Protection from a third COVID-19 booster shot may be declining three to four months after the third dose, potentially resulting in more severe cases in older people.
+
+Article 7 of 9
+Title: Is COVID-19 vaccination during pregnancy safe?
+Publisher: News-Medical.Net
+Posted: 4 days ago
+97,590 pregnant individuals from Ontario were studied
+23% (22,660) received at least one COVID-19 vaccine dose during pregnancy
+No significant association was found between COVID-19 vaccination during pregnancy and:
++ Postpartum hemorrhage
++ Chorioamnionitis
++ Cesarean delivery
++ NICU admissions
++ Low Apgar score
+The study's findings remained unchanged when stratified by vaccine manufacturer, number of doses received, or trimester of vaccination.
+
+Article 8 of 9
+Title: P.E.I. reports 2 COVID-related deaths in past week
+Publisher: CBC.ca
+Posted: 4 days ago
+13 people admitted to hospital due to COVID-19 (useful for understanding current hospitalization trends)
+1 person in intensive care (indicates potential strain on ICU resources)
+Outbreaks at long-term care and community care facilities (high-risk settings for severe illness and hospitalizations)
+
+Article 9 of 9
+Title: COVID-19 wastewater level at its highest since January wave
+Publisher: CTV News Ottawa
+Posted: 5 days ago
+Key values for forecasting:
+Exponential rise in COVID-19 wastewater viral signal in Ottawa since March 10
+Daily viral signal detected on March 24 similar to daily levels detected in mid-January
+Hospitalization levels in the city have been relatively steady, but hospitalizations often lag by about a week or more behind a rise in infections
+Current hospitalization numbers: 10 residents in hospital because of an active case of COVID-19 (OPH), with 25 patients at The Ottawa Hospital and 12 patients at Queensway Carleton Hospital.

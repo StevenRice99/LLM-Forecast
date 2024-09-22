@@ -1,0 +1,58 @@
+Below are 5 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 5
+Title: Monovalent and bivalent COVID boosters provide strong protection against severe outcomes in older adults
+Publisher: News-Medical.Net
+Posted: Today
+The study was conducted on adults aged 50+ years in Ontario, Canada.
+The effectiveness of monovalent and bivalent mRNA vaccines against severe Omicron-related outcomes was evaluated.
+The study found that both types of vaccines offer effective initial protection against COVID-19-related hospitalization or mortality among adults aged 50+ years.
+The Moderna Spikevax bivalent vaccine showed a VE of 86% between 7-29 days post-vaccination and 76% between 90-119 days post-vaccination.
+The study suggests that additional vaccine doses would benefit older adults the most, as they experience the highest rates of severe outcomes related to COVID-19.
+
+Article 2 of 5
+Title: Why most Canadians don't need another COVID-19 booster — at least not yet
+Publisher: CBC News
+Posted: 1 day ago
+Here is a brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Vulnerable adults (65+, long-term care residents, and those with compromised immune systems) should get an additional dose of vaccine this spring.
+Protection from severe outcomes lasts at least 9 months after vaccination or last exposure.
+Hybrid immunity (prior vaccination + infection) offers strong protection against future infections.
+Personal risk level can shift due to factors like pregnancy, which increases the risk of severe COVID-19 by 10 times.
+Public Health Ontario lists pregnancy as a high-risk condition eligible for a spring booster.
+Scientists expect annual shots for the general population eventually, assuming the virus settles into a more predictable pattern.
+
+Article 3 of 5
+Title: Flu cases are rising in Canada: How does influenza B differ from influenza A?
+Publisher: Yahoo Canada Shine On
+Posted: 1 day ago
+Influenza B is the driving force behind rising flu cases in Canada.
+71% of recent influenza detections were classified as influenza B.
+Pediatric hospitalizations related to influenza are mostly caused by influenza B (14/15).
+Influenza A and B viruses can cause severe illness, especially in children.
+Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Proportion of influenza cases attributed to influenza B
+Number of pediatric hospitalizations related to influenza B
+
+Article 4 of 5
+Title: SARS-CoV-2 testing and BA.1/BA.2 asymptomatic rates in children, CCDR 49(4)
+Publisher: Canada.ca
+Posted: 3 days ago
+The article discusses the results of a survey conducted in Newfoundland and Labrador (NL) to investigate the prevalence of COVID-19 cases among children and youth. The survey, which was part of a larger study on the epidemiological situation in NL, found that:
+1. Asymptomatic infections were common: 59.8% of positive cases were asymptomatic.
+2. Underreporting was significant: Only one out of every 4.3 (95% CI, 3.1–5.3) positive households was captured by provincial case count.
+3. Spatial distribution of COVID-19 cases was heterogeneous: No relationship between regional proximity and COVID-19 prevalence was found, with Eastern Health reporting the lowest infection prevalence despite being the most densely populated region.
+4. Participation rate was low: The survey had a participation rate of 3.5%, which may have introduced sample selection biases.
+The authors note that their results should be interpreted with caution due to the low participation rate and small sample sizes, but provide an overview of the epidemiological situation in NL at the time the tests were conducted. They also discuss the difficulty in obtaining epidemiological data in the context of volatile public health care measures and rampant disease spread.
+The study was funded by subgrants from various organizations and approved by the Health Research Ethics Board, Newfoundland and Labrador. The authors acknowledge the contributions of several individuals and groups to the study, including the Nunatsiavut Government, NunatuKavut Community Council, and the Mik'maq First Nations.
+
+Article 5 of 5
+Title: ‘Arcturus,’ a highly transmissible COVID variant eyed by the WHO, appears to have a new symptom. Here’s what you need to know
+Publisher: Fortune
+Posted: 5 days ago
+Key points:
+XBB.1.16 is a new variant of Omicron causing a surge of cases in India.
+The variant has been detected in the US, Singapore, and Australia.
+It may cause more severe disease due to additional mutations in its spike protein.
+COVID hospitalizations and deaths have not yet risen in India, but are considered "lagging indicators".
+XBB.1.16 is expected to spread worldwide in the near future, potentially causing cases to rise again even in areas with recent increases.

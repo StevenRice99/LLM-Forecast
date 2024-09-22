@@ -1,0 +1,43 @@
+Below are 3 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 3
+Title: Is the Rise in RSV Infections Associated With Immune Debt or SARS-CoV-2 Immune Dysfunction?
+Publisher: Infection Control Today
+Posted: 2 days ago
+Post-COVID-19 immune deficiency may explain the surge in RSV cases.
+Children who had a prior documented COVID-19 infection are almost twice as likely to develop an RSV infection.
+Post-COVID-19 immunodeficiency can persist for up to 8 months and is characterized by highly activated innate immune cells and a lack of naive T and B cells.
+Reinfections can occur in children, possibly at a greater frequency than in adults, and carry a significant risk of long COVID, multisystem inflammatory syndrome, and immunosuppression.
+
+Article 2 of 3
+Title: COVID-19 rules on Canadian TV and film sets cause tension
+Publisher: The Globe and Mail
+Posted: 4 days ago
+Relevant.
+Summary: The article discusses COVID-19 protocols in the film and television industry in Ontario, Canada. Key points for forecasting COVID-19 hospitalizations include:
+60% of shows currently filming in Ontario have some form of vaccine requirement (Alistair Hepburn)
+Regional considerations like surging COVID-19 related hospitalizations can trigger pivot points for production rules
+The federal government's Short-Term Compensation Fund expires at the end of March, which may impact production schedules and COVID-19 protocols.
+
+Article 3 of 3
+Title: Estimating COVID-19 vaccine uptake and its drivers among migrants, homeless and precariously housed people in France
+Publisher: Nature.com
+Posted: 5 days ago
+The text appears to be a research study on vaccine uptake among people experiencing homelessness (PEH) in France, using a mixed-methods approach. Here's a summary of the key points:
+Findings: 
+1. A significant proportion of PEH participants reported being afraid of vaccines (52%).
+2. Association between positive views on vaccination and COVID-19 vaccine uptake was observed.
+3. Vaccinated participants held various beliefs and behaviors, with 64% convinced that the vaccine is useful and protects against COVID-19.
+4. Non-vaccinated participants without any intention to receive the vaccine in the future were also noted (similar to findings in the general population of Somaliland).
+5. Peer pressure was identified as a factor influencing vaccination intentions, consistent with previous studies on migrants and PEH.
+6. Awareness-raising and sensitization by trusted third parties (e.g., homeless organizations, social workers) had a positive impact on vaccine uptake.
+7. Support mechanisms and follow-up by medical professionals or social organizations also contributed to increased vaccine uptake.
+8. Structural barriers to vaccine uptake were identified, including distance/time to vaccination centers, lack of information, and problems making online appointments.
+Limitations: 
+1. High replacement rate due to absence or refusal, which may have led to an underestimation of vaccine uptake in the Accommodated stratum and an overestimation in the Precariously Housed stratum.
+2. Language barriers may have contributed to increased refusals.
+3. The survey took place at the beginning of winter, which may have influenced the results for the Streets stratum.
+4. Cross-sectional study limitations apply, including potential biases related to social desirability and survival or healthy worker bias.
+Strengths: 
+1. Rigorous methodology, including face-to-face surveys conducted in eight languages commonly used by PEH.
+2. Sampling process ensured representativeness of all PEH/PH categories and housing types with stratification based on the ETHOS typology and random selection of sites and individuals.

@@ -1,0 +1,27 @@
+Below are 3 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 3
+Title: Wastewater sampling in Canada suggests COVID case rate 19 times higher than reported
+Publisher: University of Minnesota Twin Cities
+Posted: 2 days ago
+Wastewater sampling can estimate COVID-19 cases 6-18 times higher than reported due to changes in clinical testing.
+The relationship between wastewater SARS-CoV-2 load and COVID-19 hospitalizations was strongest 4 days after sampling.
+Monitoring wastewater provides crucial data beyond testing, especially when PCR testing eligibility changed or capacity was overwhelmed.
+
+Article 2 of 3
+Title: N.B. reports 16 more COVID-19 deaths, decrease in hospitalizations and new cases
+Publisher: CBC.ca
+Posted: 4 days ago
+The article reports on COVID-19 cases and hospitalizations in New Brunswick, but also mentions the regional health authorities Horizon and Vitalité.
+These two health authorities are located in neighboring provinces (New Brunswick and Quebec) to Ontario, Canada.
+The article provides information on the number of people hospitalized for or with COVID-19, including those requiring intensive care, which is relevant for forecasting hospitalizations.
+However, it's essential to note that the specific data provided is from New Brunswick, not Ontario.
+
+Article 3 of 3
+Title: Opioid death rates tripled for Ontario teens, young adults since 2014, research shows
+Publisher: CBC.ca
+Posted: 4 days ago
+Relevant.
+The article reports on a 3-fold increase in opioid-related deaths among teens and young adults (15-24 years) in Ontario from 2014 to 2021. Key values for forecasting COVID-19 hospitalizations in Ontario, Canada are not present in this article. However, the following information may be indirectly relevant:
+The article mentions a surge in emergency department visits related to opioids, which could be a proxy measure for healthcare utilization.
+The report highlights the importance of accessible resources and harm reduction services, which might be applicable to COVID-19 response efforts if considering broader public health strategies.

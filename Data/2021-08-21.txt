@@ -1,0 +1,78 @@
+Below are 8 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 8
+Title: Alberta Health Services invokes emergency work rules for nurses as COVID hospitalizations rise
+Publisher: CBC.ca
+Posted: 1 day ago
+Relevant.
+Summary: Alberta's COVID-19 hospitalizations are surging, leading to staffing gaps and mandatory overtime for nurses. The province's health-care system is under pressure, especially in Edmonton and southern Alberta, with ICUs, emergency departments, and other units experiencing significant staffing issues. This information may be relevant for forecasting COVID-19 hospitalizations in Ontario, Canada, as it suggests that similar surges in hospitalizations could lead to staffing shortages and mandatory overtime in other provinces.
+
+Article 2 of 8
+Title: More doctors suffering burnout throughout pandemic, OMA says
+Publisher: CBC News
+Posted: 2 days ago
+Key values highlighted:
+Burnout among healthcare workers, including doctors and nurses, has increased during the pandemic.
+72% of Ontario doctors reported at least some level of burnout in a 2021 survey.
+Delayed non-COVID care is now resulting in sicker patients coming to hospitals.
+Emergency department traffic is at "unprecedented" levels due to delayed care.
+Doctors are worried about COVID spiking again in the fall, which could further strain hospital resources.
+
+Article 3 of 8
+Title: 9-year-old daughter hospitalized with COVID-19 was 'terrifying' experience, father says
+Publisher: CBC.ca
+Posted: 3 days ago
+2% of all COVID-19 hospitalizations nationwide are among Canadians aged 19 and younger (Health Canada data).
+Children under 12 are not eligible to receive the vaccine in Ontario, making them more susceptible to the delta variant.
+The article highlights a case where a 9-year-old girl was hospitalized twice for 7 days due to COVID-19 symptoms.
+A pediatric infectious disease specialist suggests that while children with COVID-19 may have mild symptoms, some may become sicker than before and require hospitalization.
+
+Article 4 of 8
+Title: Why it's now more likely you'll face coronavirus — even if you're vaccinated against COVID-19
+Publisher: CBC.ca
+Posted: 3 days ago
+Key points:
+The delta variant is driving a fourth wave of cases in Canada.
+Cases among fully vaccinated individuals are expected and typically milder.
+However, breakthrough infections among fully vaccinated individuals may still prompt alarm.
+Serious breakthrough cases remain rare, but more likely to have dire outcomes for vulnerable populations (e.g. elderly, immunocompromised).
+Ontario figures show a larger portion of overall cases among those fully vaccinated, although these are typically older and more vulnerable individuals.
+Public health measures such as masking, distancing, and ventilation can help reduce the number of people being infected and buy time for more people to be vaccinated.
+
+Article 5 of 8
+Title: 'Nothing like the flu': Man recovered from COVID-19 urges under 40s to get vaccinated
+Publisher: CBC.ca
+Posted: 3 days ago
+The article reports on a 33-year-old man hospitalized with COVID-19 in Nova Scotia. Key values for forecasting COVID-19 hospitalizations in Ontario, Canada include:
+Age: The individual was under 40, which is relevant for understanding the demographic most affected by COVID-19.
+Vaccination status: The article highlights lower vaccination rates among younger individuals (53% fully vaccinated among 20-24 year olds), which can inform forecasting models.
+Hospitalization data: The province's data shows that the vast majority of cases and hospitalizations are among unvaccinated people, providing context for understanding COVID-19 hospitalization trends in Ontario.
+
+Article 6 of 8
+Title: How will a 4th wave of COVID-19 affect kids in Canada?
+Publisher: CBC.ca
+Posted: 4 days ago
+Here is a brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+63% of all Canadians are now fully vaccinated (reducing the chance of hospitals being overwhelmed).
+Since vaccination started, 9 out of 10 cases have been in unvaccinated people.
+The majority of Canadian kids who get COVID-19 have mild symptoms or no symptoms at all.
+Hospitalizations among Canadian kids are not increasing due to the delta variant.
+
+Article 7 of 8
+Title: Study: Treatment From Female Doctors in the ER Led to Fewer Deaths
+Publisher: Verywell Health
+Posted: 4 days ago
+The study analyzed data from 171,625 hospitalized patients in general medical wards at seven different hospitals in Ontario, Canada from 2010 to 2017.
+The researchers found that patients treated by female physicians had a lower mortality rate (4.8% vs 5.2%) compared to those treated by male physicians.
+The study did not find a clear reason for the difference in mortality rates between female and male physicians, but suggested that factors such as adherence to clinical guidelines, communication with patients, and reviewing patient histories may be important.
+The findings are relevant for forecasting COVID-19 hospitalizations in Ontario, Canada, as they suggest that female physicians may have better outcomes in general medical wards.
+
+Article 8 of 8
+Title: Ontario to run school-based COVID-19 vaccine clinics as academic year begins
+Publisher: CBC.ca
+Posted: 5 days ago
+Relevant.
+526 new COVID-19 cases reported in Ontario on Monday.
+Majority of recent cases are in unvaccinated or partially vaccinated individuals.
+69% of youth aged 12-17 have received one dose and 55% are fully vaccinated, with the lowest vaccination rate among eligible age cohorts.
+The Delta variant is estimated to cause 91% of cases, which are doubling every nine days.

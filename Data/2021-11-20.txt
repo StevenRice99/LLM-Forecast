@@ -1,0 +1,42 @@
+Below are 5 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 5
+Title: COVID-19 outbreak at Sault motel hosting homeless
+Publisher: CTV News Northern Ontario
+Posted: 1 day ago
+20+ individuals from a vulnerable population (including homeless) required COVID-19 related supports in early November.
+Homeless people are being temporarily housed at the Bel-Air Motel due to a COVID-19 outbreak.
+Efforts are being made to ensure homeless individuals who test positive for COVID-19 stay isolated and receive necessary support.
+
+Article 2 of 5
+Title: Dr. Jennifer Kwan receives Award of Excellence for her work as a Family Physician
+Publisher: Burlington Gazette
+Posted: 2 days ago
+Dr. Jennifer Kwan shared daily public health data via Twitter during the pandemic, including information on COVID cases, testing, hospitalizations, and vaccinations. This data is likely valuable for understanding trends and patterns of COVID-19 hospitalizations in Ontario.
+
+Article 3 of 5
+Title: Deadly COVID-19 spike after church event is 'unfortunate' but part of God's plan, says pastor
+Publisher: CBC News
+Posted: 4 days ago
+Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Community spread associated with a specific event (e.g. church gathering)
+Number of attendees at the event (~100 people)
+Vaccination status of attendees (not all were vaccinated)
+Location of the event (Nova Scotia)
+
+Article 4 of 5
+Title: Doctors Manitoba raises the alarm about surgery backlogs as COVID-19 cases rise
+Publisher: CBC News
+Posted: 5 days ago
+Relevant.
+The article reports rising COVID-19 hospitalizations in Manitoba, with 145 Manitobans in hospital and 30 in intensive care. The province is postponing surgeries to increase ICU capacity. This may lead to a backlog of 130,000 postponed surgical and diagnostic procedures. The president of Doctors Manitoba calls for a task force to address the problem, citing concerns about delayed care for non-COVID patients.
+
+Article 5 of 5
+Title: Ontario reports highest daily COVID-19 case increase since early October
+Publisher: CityNews Toronto
+Posted: 6 days ago
+Relevant.
+126 people hospitalized with COVID-19
+133 people in ICU
+7-day rolling average of COVID-19 infections: 563 (increasing from 349 two weeks ago)
+Effective reproduction number: 1.21 (growing from 0.87 one month ago)

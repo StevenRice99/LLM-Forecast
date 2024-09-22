@@ -1,0 +1,74 @@
+Below are 6 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 6
+Title: Key COVID-19 numbers in the Ottawa area today
+Publisher: CBC.ca
+Posted: 1 day ago
+Summary: 
+Hospitalization numbers are slowly declining in Ottawa (25 active cases) and other eastern Ontario communities.
+Wastewater levels in Ottawa and surrounding areas are also decreasing, indicating a potential decline in COVID-19 transmission.
+Vaccination rates are high across the region, with 92% of eligible residents having at least one vaccine dose and 63% having three doses.
+Hospitalization numbers outside Ottawa include:
++ Western Quebec: 78 hospitalizations (2 ICU patients)
++ Eastern Ontario communities: 45 hospitalizations (10 ICU patients)
++ Renfrew County: 16 hospitalizations
++ Kingston area: 11 hospitalizations (3 ICU patients)
+
+Article 2 of 6
+Title: COVID-19 in Quebec: What you need to know Wednesday
+Publisher: CBC.ca
+Posted: 3 days ago
+Quebec reported 1,847 people in hospital (decrease from previous day) and 62 in intensive care (decrease of four).
+6,511 health-care workers absent for COVID-related reasons.
+Vaccination rates: 91% of eligible population has received at least one dose, 54% have received a third dose, and 12% have received a fourth dose.
+
+Article 3 of 6
+Title: Inequalities in COVID-19 mortality rates by neighbourhood types in Canada
+Publisher: Statistique Canada
+Posted: 5 days ago
+The references provided are a mix of academic articles, government reports, and data analyses related to the COVID-19 pandemic's impact on various populations and communities in Canada and globally. Here's a brief summary of each reference:
+1. Capuana et al. (2020): This article discusses the higher mortality rate among men compared to women during the COVID-19 pandemic, exploring possible reasons such as differences in immune response, lifestyle factors, and healthcare access.
+2. CIHI (2020): The Canadian Institute for Health Information report compares Canada's long-term care sector experience with other countries during the pandemic.
+3. Clark et al. (2020): This study examines the disproportionate impact of COVID-19 on immigrant communities in the United States, highlighting the need for targeted public health responses.
+4. Clark (2021): The report discusses the effects of the pandemic on nursing and residential care facilities in Canada.
+5. Edward (2021): This analysis explores COVID-19 deaths among immigrants in Canada during the early months of the pandemic.
+6. Hawkins et al. (2020): The study investigates the relationship between socioeconomic status and COVID-19-related cases and fatalities, finding a significant association.
+7. Ke & Zhenghao (2020): This article examines the link between population density and the spread rate of SARS-CoV-2, suggesting that higher population density is associated with increased transmission rates.
+8. Martins-Filho (2021): The study explores the relationship between population density and COVID-19 incidence and mortality estimates at a country-level analysis.
+9. Miller et al. (2021): This analysis estimates mortality increases during the pandemic by socioeconomic status, race, and ethnicity in the United States.
+10. O'Brien et al. (2020): The study investigates the incidence, clinical features, and outcomes of COVID-19 in Canada, including the impact of sex and age on disease severity.
+11. PHAC (2018 & 2020): These reports from the Public Health Agency of Canada discuss key health inequalities in Canada and social inequalities in COVID-19 mortality by area- and individual-level characteristics.
+12. Spotswood et al. (2021): The study examines the relationship between nature inequity and higher COVID-19 case rates in less-green neighborhoods in the United States.
+13. Statistics Canada (2019): This user guide provides information on the Canadian Index of Multiple Deprivation, a tool for measuring socioeconomic status.
+14. Subedi et al. (2020): The analysis explores COVID-19 mortality rates in Canada's ethnocultural neighborhoods.
+15. Wadhera et al. (2020): This study examines variation in COVID-19 hospitalizations and deaths across New York City Boroughs.
+16. Yanez et al. (2020): The study investigates the risk of COVID-19 mortality for older men and women.
+These references provide valuable insights into various aspects of the pandemic's impact on different populations, including socioeconomic status, ethnicity, age, sex, and geographic location.
+
+Article 4 of 6
+Title: City of Toronto declares end of COVID-19 emergency order
+Publisher: CBC.ca
+Posted: 5 days ago
+Relevant.
+The article reports on Toronto's end of its municipal emergency declaration after 777 days. Key values for forecasting COVID-19 hospitalizations in Ontario, Canada include:
+Weekly case rates: decreasing or holding stable
+Percent positivity: decreasing or holding stable
+Wastewater signals: indicating a decrease in COVID-19 activity
+Vaccination rates: improving
+These indicators suggest that the pandemic is under control in Toronto, but the Medical Officer of Health cautions against letting one's guard down and emphasizes the need for continued vigilance.
+
+Article 5 of 6
+Title: New antibody drug Evusheld now available to certain Quebecers to prevent COVID-19
+Publisher: CTV News Montreal
+Posted: 5 days ago
+Evusheld is a new antibody therapy drug to prevent COVID-19 infection.
+6,465 doses received by Quebec, but not mentioned if available in Ontario.
+Eligible individuals include those severely immunocompromised and at high risk of COVID-19 infection.
+The injection provides protection for at least six months.
+
+Article 6 of 6
+Title: Muslim Doctor Named Scientific Director of Ontario COVID-19 Advisory Group
+Publisher: About Islam
+Posted: 5 days ago
+Relevant.
+Summary: Dr. Fahad Razak, new scientific director of Ontario's COVID-19 advisory group, has experience with hospital visitor policies, vaccines, and therapeutics related to COVID-19. His research includes studies on patients hospitalized with COVID-19, examining disability impact, critical drug shortages, and prone positioning trials.

@@ -1,22 +1,17 @@
 # Hybridized Pandemic Forecasting Utilizing Large Language Models and Analytical Methods
 
-## Code
-
-- ``main.py`` contains the core forecasting logic. The ``predict`` method is the forecasting model itself, the ``test`` method performs the testing for the forecasting model, and the ``auto`` method is a helper method to test a lot of model configurations.
-- ``evaluate.py`` contains the method for generating tables and plots.
-- ``covid.py`` contains a method for downloading and parsing COVID-19 data for Ontario, Canada. The data is from [Covid Timeline Canada](https://github.com/ccodwg/CovidTimelineCanada/blob/main/data/pt/hosp_admissions_pt.csv "Covid Timeline Canada GitHub").
-- ``scraping.py`` includes methods for web scraping.
-- ``llm.py`` contains methods for messaging the [Ollama](https://ollama.com "Ollama") large language model.
-- ``initial_tests.py`` contains the initial hyperparameter searching for the baseline model.
-- ``llm_tests.py`` contains the tests for trying the best hyperparameters with the full model utilizing large language models.
-
 ## Usage
 
 1. This project requires [Ollama](https://ollama.com "Ollama"), so ensure it is installed and running.
-2. Install requirements by running ``pip install -r requirements.txt`` in the directory of this project.
-3. For web scraping, you need to have [Mozilla Firefox](https://www.mozilla.org/en-CA/firefox "Mozilla Firefox") installed.
-4. Run ``covid.py`` to download and convert Ontario COVID-19 data into a format for this repository.
-5. To replicate our tests, first delete the ``DATA`` and ``RESULTS`` folders.
-6. Web scraping is preferably done ahead of time. Note that this process takes a long time due to needing to use [Selenium](https://www.selenium.dev "") if Google starts to mask URLs. To do this, run ``scraping.py``.
-7. Running ``initial_tests.py`` will perform the initial hyperparameter searching for the baseline model, with the results being under the ``RESULTS`` folder in the ``INITIAL`` subfolders.
-8. Running ``llm_tests.py`` will perform the tests for trying the best hyperparameters with the full model. The results can be found under the ``RESULTS`` folder in the ``FINAL`` subfolders.
+2. For web scraping, you need to have [Mozilla Firefox](https://www.mozilla.org/en-CA/firefox "Mozilla Firefox") installed.
+3. Install requirements by running ``pip install -r requirements.txt`` in the directory of this project. It is recommended you do this in a [virtual environment](https://docs.python.org/3/tutorial/venv.html "Python Virtual Environments and Packages").
+4. To replicate our tests, first delete the ``Data``, ``Results``, and ``Responses`` folders. The web scraping is the most time-consuming part, so if you wish to keep the existing news summaries and simply replicate our results from that, keep the ``Data`` and only delete the ``Results`` and ``Responses`` folders.
+5. Run ``main.py`` to perform the experiments. Sometimes, during the web scraping [Selenium](https://www.selenium.dev "Selenium") using [Mozilla Firefox](https://www.mozilla.org/en-CA/firefox "Mozilla Firefox") may hang, and not move onto the next news article. In this case, simply restart the script, and it will continue from where it left off.
+6. Under the ``Data`` folder, you will see the summaries of the news articles produced by the large language model. Under the ``Results`` folder, you will see the results charts and plots.
+   1. ``Actual.csv`` - The actual COVID-19 hospitalizations to occur over the next given weeks from a given week.
+   2. ``Baseline.csv`` - The baseline ARIMA model predictions of how many COVID-19 hospitalizations to occur over the next given weeks from a given week.
+   3. ``LLM.csv`` - The large language model predictions of how many COVID-19 hospitalizations to occur over the next given weeks from a given week.
+
+## Data
+
+The data used for this experiment is taken from [Covid Timeline Canada](https://github.com/ccodwg/CovidTimelineCanada/blob/main/data/pt/hosp_admissions_pt.csv "Covid Timeline Canada GitHub").

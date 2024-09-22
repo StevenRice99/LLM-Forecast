@@ -1,0 +1,57 @@
+Below are 7 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 7
+Title: Nearly 800 fines issued to returning travellers who refused to quarantine
+Publisher: CTV News
+Posted: 3 days ago
+The article reports on fines issued to international travelers arriving in Canada who refused to quarantine at a government-authorized hotel. In Ontario, 606 tickets were issued between Feb 22 and May 7. This information is relevant as it may indicate compliance with public health measures, which can impact COVID-19 hospitalizations.
+
+Article 2 of 7
+Title: COVID-19 claims Ottawa's youngest victim yet
+Publisher: CBC.ca
+Posted: 3 days ago
+20 deaths in their 20s out of 3,342 total deaths in the province (Public Health Ontario).
+Variants of COVID-19 have increased the likelihood of hospitalization or death by 40% (Dr. Doug Manuel).
+Younger people are not invincible and can still be severely affected by COVID-19 (Osman Elmi, Meghan Boyd).
+
+Article 3 of 7
+Title: Ontario will no longer give AstraZeneca COVID-19 vaccine as 1st dose due to blood clot risk
+Publisher: CBC.ca
+Posted: 4 days ago
+The province of Ontario has paused the rollout and administration of first doses of the AstraZeneca vaccine due to an increase in cases of a rare blood clotting syndrome (VITT) linked to the vaccine.
+As of May 8, there were over 853,000 doses of AstraZeneca administered with a rate of VITT of roughly 1 per 100,000 doses administered.
+The article mentions that COVID-19 case numbers are decreasing in Ontario, but does not provide specific hospitalization data.
+
+Article 4 of 7
+Title: What does the science say about AstraZeneca? A blood clot expert weighs in
+Publisher: CTV News
+Posted: 4 days ago
+Relevant.
+The article discusses the pause in administering first doses of AstraZeneca vaccine in Ontario due to concerns about blood clots and uncertain supply. Dr. Menaka Pai, a member of Ontario's COVID-19 Science Advisory Table, states that AstraZeneca remains effective against COVID-19, reducing death and hospitalization. The article highlights the need for more science on mixing and matching doses and the potential lower risk of blood clots with the second dose.
+
+Article 5 of 7
+Title: What do you do if you think you have VITT? What we know of the rare clotting disorder
+Publisher: CTV News
+Posted: 4 days ago
+Risk of VITT: estimated as one case per 50,000 to 250,000 doses given
+Number of AstraZeneca doses administered in Canada: over 1.7 million (as of late April)
+Cases of VITT confirmed in Canada: not specified for Ontario specifically, but mentioned that the rate was closer to one per 100,000 as of April 28 nationwide
+
+Article 6 of 7
+Title: Tam warns Canadians that full vaccination does not equal full protection from transmitting COVID-19
+Publisher: The Globe and Mail
+Posted: 6 days ago
+Here is a brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Hospitalization rates have started to tick downward in provinces such as Ontario.
+The article mentions that nearly 150 pharmacies in Ontario started offering COVID-19 vaccines to all adults in some virus hot spots this weekend.
+This expansion of vaccination efforts may contribute to a decrease in hospitalizations in the province.
+
+Article 7 of 7
+Title: Lockdown 3, the one everyone could foresee
+Publisher: CBC.ca
+Posted: 7 days ago
+The article discusses Manitoba's third lockdown and its delayed response to the third wave of COVID-19.
+The province's decision to wait and implement restrictions in small increments had little effect on slowing the spread of the virus.
+The age breakdown of active cases shows that COVID-19 is mainly spreading among younger Manitobans (69% under 40, 53% under 30).
+However, the age breakdown of hospitalizations does not skew as young (55% under 60), and patients in hospital are overwhelmingly unvaccinated.
+The article highlights the importance of timely action to prevent hospitalization surges.

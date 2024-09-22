@@ -1,0 +1,54 @@
+Below are 4 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 4
+Title: Doctors urge Ontario to rethink ICU capacity as key lockdown indicator
+Publisher: CTV News
+Posted: 2 days ago
+Here is a brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Record high ICU occupancy (430 COVID ICU patients)
+Variants of concern are the main driver behind the third wave
+Patients requiring ICU care double with each individual infection due to variants of concern
+Younger patients are ending up in hospital and ICUs, including parents of school-aged children
+Important supplies, such as tocilizumab (a life-saving medication), are beginning to run low.
+
+Article 2 of 4
+Title: COVID-19 Hospitalizations, ICU Admissions and Deaths Associated with the New Variants of Concern
+Publisher: Ontario COVID-19 Science Advisory Table
+Posted: 5 days ago
+This Science Brief presents data on the impact of new Variants of Concern (VOCs) of SARS-CoV-2 on COVID-19 outcomes in Ontario, Canada. The key findings are:
+1. Increased risk of hospitalization: New VOCs are associated with a 103% increase in the risk of hospitalization due to COVID-19.
+2. Increased risk of ICU admission: New VOCs are associated with a 63% increase in the risk of ICU admission due to COVID-19.
+3. Increased risk of death: New VOCs are associated with a 56% increase in the risk of death due to COVID-19.
+4. Higher burden on healthcare system: The increased risk of hospitalization, ICU admission, and death will result in a higher burden on the healthcare system than observed during the second wave.
+5. Delays in full impact: The full impact of new VOCs on the healthcare system may not be apparent until 14-28 days after diagnosis, due to delays in reporting and hospitalization.
+6. Increased ICU occupancy: As of March 28, 2021, ICU occupancy was 28% higher than at the start of the province-wide lockdown on December 26, 2020.
+7. Shift in age distribution: Patients aged 59 years and younger now make up 46% of new COVID-19 admissions to ICUs, compared with 30% in the week prior to the start of the province-wide lockdown.
+The methods used for this Science Brief include:
+1. Retrospective cohort study: A retrospective cohort study was conducted using cases of SARS-CoV-2 infection reported in CCM/iPHIS.
+2. Logistic regression models: Logistic regression models were constructed to evaluate associations between VOC SARS-CoV-2 infection and COVID-19 outcomes.
+3. Meta-analysis: An inverse-variance fixed-effects meta-analysis was used to combine adjusted estimates from individual studies.
+The data sources include:
+1. CCM/iPHIS: Cases of SARS-CoV-2 infection reported in CCM/iPHIS.
+2. PubMed , Google Scholar , and other COVID-19 specific resources: Studies on the prognosis associated with new VOCs were searched and retrieved from these databases.
+The analysis was conducted by a team of researchers, and the results are presented in this Science Brief.
+
+Article 3 of 4
+Title: New data shows COVID-19 pandemic now 'completely out of control' in Ontario, key scientific adviser says
+Publisher: CBC.ca
+Posted: 5 days ago
+Variants causing more severe illness account for 67% of all SARS-CoV-2 infections in Ontario.
+The variants are associated with a:
++ 60% increased risk of hospitalization
++ Doubled risk of admission to intensive care (ICU)
++ 56% increased risk of death
+New daily infections have reached the same number as at the height of the second wave, and the number of people hospitalized is now 21% higher than at the start of the province-wide lockdown.
+ICU occupancy is 28% higher, with a 50% increase in COVID-19 patients under 60 years old.
+
+Article 4 of 4
+Title: 'Stronger' measures needed across Canada to suppress COVID-19 resurgence: Tam
+Publisher: CTV News
+Posted: 7 days ago
+Highly contagious variants are driving up daily case counts in Ontario.
+Hospitalization rates and variant cases have delayed reopening plans in Alberta.
+Ontario's intensive care beds are already occupied at levels "well above the threshold" that hospitals can cope with.
+The Registered Nurses Association of Ontario is urging Premier Doug Ford to scale back reopening plans due to high hospitalization rates.

@@ -1,0 +1,66 @@
+Below are 5 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 5
+Title: Yes, vaccines curb COVID-19 transmission — but that's not enough to protect those without a shot
+Publisher: CBC.ca
+Posted: Today
+The article discusses the impact of COVID-19 vaccination rates on the spread of the virus in various communities. It highlights several studies that have found a correlation between higher vaccination rates and lower infection rates among unvaccinated individuals.
+A study published in The Lancet found that areas with high vaccination rates had significantly lower rates of COVID-19 infections among unvaccinated youth.
+Another study from Public Health England found that three weeks after people received a single dose of either the Pfizer-BioNTech or AstraZeneca-Oxford vaccine, household transmission of the virus was reduced by 40-50%.
+However, despite these findings, COVID-19 cases and hospitalizations are still rising in many parts of the world, particularly in areas with low vaccination rates.
+The article also notes that variants such as delta, alpha, and beta are spreading rapidly throughout Africa, where vaccination rates are among the lowest in the world. This has led to a 43% week-on-week rise in COVID-19 deaths across the continent.
+Experts warn that pockets of unvaccinated individuals remain, and these groups are driving transmission and hospitalizations. In the US, for example, nearly all COVID-19 deaths are now among those who aren't fully vaccinated.
+The article concludes by highlighting the need to get vaccines distributed globally to areas where high transmission is occurring, in order to reduce the toll of the pandemic.
+Key points:
+Higher vaccination rates are associated with lower infection rates among unvaccinated individuals.
+Variants such as delta, alpha, and beta are spreading rapidly throughout Africa, where vaccination rates are low.
+Pockets of unvaccinated individuals remain, driving transmission and hospitalizations.
+Experts warn that these disparities may continue in the months ahead if vaccine coverage remains spotty.
+The need to distribute vaccines globally to areas with high transmission is emphasized.
+
+Article 2 of 5
+Title: Ontario’s Community-Dwelling Older Adults Who Remain Unvaccinated Against COVID-19
+Publisher: Ontario COVID-19 Science Advisory Table
+Posted: 1 day ago
+The study used a cross-sectional design to investigate COVID-19 vaccination rates among community-dwelling older adults in Ontario, Canada. The analysis was based on linked health administrative datasets from the Institute for Clinical Evaluative Sciences (ICES). Here are the key points from the methods section:
+1. Study Population and Design: A cross-sectional study design was used to quantify COVID-19 vaccination rates among all community-dwelling older women and men in Ontario.
+2. Data Sources: Data were obtained through linked health administrative datasets, including:
+Registered Person's Database (RPDB) for identifying individuals aged 65 or older
+OHIP physician billings and ODB Plan claims for healthcare encounters
+Resident Assessment Instrument (RAI) assessments from the Continuing Care Reporting System (CCRS) for LTC home residents
+Ontario Laboratory Information System (OLIS), Public Health Case and Contact Management (CCM) Solutions, and laboratory testing data for COVID-19 cases
+3. Neighbourhood Risk of SARS-CoV-2: FSAs were ranked based on their cumulative incidence of SARS-CoV-2 infection among residents living outside LTC homes within each FSA, and grouped into deciles.
+4. COVID-19 Vaccination Data: Information on COVID-19 vaccine administration was obtained from provincial COVaxON data as of April 26, 2021, and June 7, 2021.
+5. Primary Care Assignment: Physician billing claims under OHIP and CAPE dataset were used to assess contact with a primary care provider, categorizing individuals into three groups:
+Rostered to a primary care practice
+Assigned primary care physician (no visit within two years)
+No regular primary care physician (no visit within two years)
+6. Outcomes and Variables: The primary outcome was the proportion of older adults receiving at least one dose of a COVID-19 vaccine, reported by various individual-level factors including age, sex, and primary care assignment.
+The study aimed to inform tactics for improving COVID-19 vaccination among Ontario community-dwelling older adults who remain at high risk of severe COVID-19 outcomes.
+
+Article 3 of 5
+Title: Ontario indoor dining finally reopens July 16 after months closed
+Publisher: RestoBiz
+Posted: 1 day ago
+Relevant.
+Summary: Ontario has moved to Step 3 of its reopening plan, allowing indoor dining without capacity limits due to encouraging trends in case numbers and hospitalization rates, combined with high vaccination rates. This means restaurants can welcome back as many patrons as possible while maintaining proper social distancing.
+
+Article 4 of 5
+Title: Ontario reports 143 new COVID cases Thursday
+Publisher: BarrieToday
+Posted: 2 days ago
+Relevant.
+20 new hospitalizations
+165 COVID-positive patients currently hospitalized in Ontario
+168 patients in intensive care units with COVID-related illness (38 no longer test positive)
+130 people on ventilators due to COVID-related illness (25 no longer test positive)
+
+Article 5 of 5
+Title: 'Very sick' patients continue to put pressure on Waterloo region's hospitals, doctor says
+Publisher: CBC.ca
+Posted: 5 days ago
+27 new COVID-19 cases reported in Waterloo region on Monday.
+Number of people in hospitals rose by 4 to 25, with 17 in ICU.
+288 active cases as of Monday.
+80.73% of people aged 18+ have received at least one dose of vaccine, and 53.59% have both doses.
+16 COVID-19-related hospital admissions province-wide over the past three days, with 4 admissions in Waterloo region (a quarter of all provincial admissions).

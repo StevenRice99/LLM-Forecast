@@ -1,0 +1,55 @@
+Below are 5 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 5
+Title: Montreal private seniors' home hit with COVID-19 outbreak for the 1st time
+Publisher: CBC.ca
+Posted: Today
+563 active cases of COVID-19 in Quebec's seniors' residences (RPAs), with 5% of residents affected.
+242 active cases in Quebec's long-term care homes (CHSLD), with 16% of residents affected.
+No hospitalizations reported at the specific residence mentioned, but most residents have received four doses of COVID-19 vaccine.
+
+Article 2 of 5
+Title: Interim Recommendations of the Advisory Committee on Immunization Practices for Use of Moderna and Pfizer-BioNTech COVID-19 Vaccines in Children Aged 6 Months–5 Years — United States, June 2022
+Publisher: CDC
+Posted: 1 day ago
+The text discusses the Centers for Disease Control and Prevention's (CDC) Advisory Committee on Immunization Practices' (ACIP) recommendations for COVID-19 vaccination in children aged 6 months to 5 years. The key points are:
+1. Myocarditis and pericarditis risks: These rare adverse events have been reported after mRNA COVID-19 vaccine receipt, but monitoring has not detected an increased risk in children aged 5-11 years.
+2. Benefits outweigh risks: ACIP determined that the benefits of COVID-19 vaccination outweigh the known and potential risks, even with high seroprevalence among young children.
+3. Interim recommendations:
+For children aged 6 months to 5 years: a 2-dose primary series with the Moderna COVID-19 vaccine as authorized under an Emergency Use Authorization (EUA).
+For children aged 6 months to 4 years: a 3-dose primary series with the Pfizer-BioNTech COVID-19 vaccine as authorized under an EUA.
+4. No product preference: Children may receive any ACIP-recommended COVID-19 vaccine, and it's encouraged to receive the earliest vaccine available.
+5. Same mRNA vaccine product for all doses: Once a primary series is started, the same mRNA vaccine product should be used for all doses in the series.
+The text also mentions that:
+The CDC will continue to review additional data as they become available.
+Updates to recommendations or clinical considerations will be posted on the ACIP website.
+COVID-19 vaccines must be administered according to applicable state and territorial vaccination laws.
+The EUA Fact Sheet should be provided to parents or guardians before vaccination.
+
+Article 3 of 5
+Title: Lung-imaging shows cause of long COVID symptoms
+Publisher: healthcare-in-europe.com
+Posted: 3 days ago
+Study conducted at 5 centers across Ontario.
+Focus on long COVID symptoms and potential causes.
+No direct information on current or future hospitalization rates.
+FALSE (for forecasting COVID-19 hospitalizations)
+
+Article 4 of 5
+Title: What causes long COVID? Canadian researchers think they’ve found a key clue - National
+Publisher: Global News
+Posted: 4 days ago
+34 patients were studied, including 12 who had been hospitalized with COVID-19.
+All patients experienced problems in the level of oxygen being absorbed by their red blood cells.
+The study found a microscopic abnormality in the way oxygen moves from the lungs and into the blood vessels of long COVID patients.
+This abnormality could explain why some people experience breathing issues months after contracting COVID-19.
+The study was funded by the Ontario COVID-19 Rapid Research Fund.
+
+Article 5 of 5
+Title: Cause of long-COVID symptoms revealed by lung-imaging research at Western University
+Publisher: CBC.ca
+Posted: 4 days ago
+The study was conducted at multiple centers across Ontario, including London Health Sciences Centre (LHSC) and St. Joseph's Health Care.
+Researchers found that long-COVID patients had normal pulmonary function tests but abnormal MRI results showing depressed oxygen exchange from lungs to red blood cells.
+There was no difference in the severity of abnormalities between patients who required hospitalization for COVID-19 and those who recovered at home.
+The study involved 500 million air sacs in the lungs, which is a relevant anatomical value for forecasting COVID-19 hospitalizations.

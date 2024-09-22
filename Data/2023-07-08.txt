@@ -1,0 +1,50 @@
+Below are 3 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 3
+Title: Public health risk profile: Wildfires in Canada, 2023
+Publisher: Canada.ca
+Posted: 1 day ago
+This document appears to be a risk profile for public health risks associated with wildfires in Canada. Here's a summary of its key points:
+Current Impact 
+The current impact of evacuations on the well-being of people living in Canada is unknown due to lack of data.
+There is moderate uncertainty about the impacts of evacuations on mental health, well-being, and social stability, particularly for equity-deserving populations.
+Contextual Factors Affecting Risk 
+Climate change will increase the frequency, duration, severity, and season length of wildfires, leading to increased exposure to wildfire smoke and evacuations.
+Individuals with disabilities may face unique challenges during evacuation and displacement.
+The long-term impacts of wildfires on socially or economically marginalized populations are significant and require further review.
+Risk Factors 
+Heat is often correlated with wildfires, which may interact with wildfire smoke or evacuation exposures and affect impacts.
+Wildfire smoke can impact air quality in multiple communities across geographic locations.
+Downstream impacts from wildfires, such as industrial area contamination, may increase risk.
+Collaboration between organizations and departments at all government levels is required to support health priorities.
+Limitations and Knowledge Gaps 
+The risk profile has several limitations, including:
++ Limited understanding of factors leading to differential wildfire smoke or evacuation exposure and impact.
++ Lack of information on specific populations susceptible to wildfire smoke or evacuations.
++ Insufficient data on the longer-term impacts of wildfires on physical, mental, social, or cultural health and safety.
++ Limited knowledge on the effectiveness of mitigating measures and equity impacts.
+Recommendations 
+Public health authorities can use this risk profile to prepare for, respond to, and communicate about acute public health risks associated with the 2023 Canadian wildfire season.
+Next steps include:
++ Improving understanding of factors leading to differential exposure and impact.
++ Gathering more information on specific populations susceptible to wildfire smoke or evacuations.
++ Conducting further research on the longer-term impacts of wildfires.
+Overall, this risk profile highlights the need for improved understanding and preparedness for public health risks associated with wildfires in Canada.
+
+Article 2 of 3
+Title: Toronto hospitals relax mask mandates amid lower levels of COVID-19 transmission
+Publisher: CTV News Toronto
+Posted: 3 days ago
+Low community transmission of COVID-19 and other respiratory viruses in Toronto.
+Only 36 people hospitalized with COVID-19 in Toronto last week, down from double that number the month prior.
+Mandatory masking requirement still in place in patient rooms, waiting areas where patients are present, emergency departments, and areas caring for immunocompromised individuals.
+
+Article 3 of 3
+Title: Wastewater surveillance highlights significant underestimation of COVID-19 cases in Canada
+Publisher: News-Medical.Net
+Posted: 5 days ago
+Key findings:
+Wastewater SARS-CoV-2 loads correlated with COVID-19 cases and hospitalizations.
+Correlations were strongest on the sampling date or one day after sampling.
+The highest correlation between wastewater viral loads and hospitalizations occurred four days after sampling.
+A linear regression model predicted a 6.5- to 18.7-fold underestimation of COVID-19 cases at the peak of the fifth and sixth waves, respectively.

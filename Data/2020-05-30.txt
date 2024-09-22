@@ -1,0 +1,68 @@
+Below are 7 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 7
+Title: Can I let cleaners into my house? Your COVID-19 questions answered
+Publisher: CBC.ca
+Posted: 1 day ago
+Values most important for forecasting:
+Number of domestic workers (e.g., cleaners) allowed back into homes
+Precautions taken by clients and cleaning staff to maintain physical distance and prevent transmission
+Use of personal protective equipment (PPE) and proper hand hygiene practices among cleaning staff
+Potential for increased exposure to COVID-19 through shared tools and equipment used by multiple households.
+
+Article 2 of 7
+Title: Can I go for a bike ride with my friends during the pandemic?
+Publisher: CTV News
+Posted: 1 day ago
+The article discusses the safety of cycling during the COVID-19 pandemic in Ontario, Canada. Key points for forecasting COVID-19 hospitalizations include:
+Cycling outdoors with proper physical distancing and hygiene practices is considered relatively safe.
+The risk of transmission via surfaces is low since each person rides their own bike.
+Vigorous cycling or exercising in groups can increase the risk of transmission due to heavy breathing and aerosolized viral matter.
+Wearing masks may be advisable when engaging in vigorous activity, especially in group settings.
+
+Article 3 of 7
+Title: New study suggests wearing a face mask at home could help limit spread of COVID-19
+Publisher: CTV News
+Posted: 2 days ago
+Key findings:
+Wearing a face mask inside the home was 79% effective in preventing transmission of COVID-19 between an infected person and other family members before symptoms were present.
+Daily disinfection habits using chlorine or ethanol-based products helped to curb transmission rates by 77%.
+The risk of close-contact transmission increased by four times if the infected person was experiencing diarrhea as a symptom.
+
+Article 4 of 7
+Title: Ontario's strict rules for reopening dental clinics differ from other provinces
+Publisher: CTV News
+Posted: 2 days ago
+Ontario has strict guidelines for reopening dental clinics, including mandatory PPE use and extended wait times between patients (8 minutes to 3.5 hours).
+Dental clinics are considered high-risk for spreading COVID-19.
+Pre-screening of patients is required before appointments to assess their risk of COVID-19.
+These measures may impact the number of hospitalizations related to COVID-19 in Ontario.
+
+Article 5 of 7
+Title: Military alleges horrific conditions, abuse in pandemic-hit Ontario nursing homes
+Publisher: CBC.ca
+Posted: 3 days ago
+The article reports on allegations of elder abuse and neglect in five Ontario long-term care homes, including Orchard Villa in Pickering where 77 COVID-19 deaths occurred.
+Conditions were described as "horrid" and "inhumane", with staff being overwhelmed and burned out.
+Residents were left in soiled bedding, not fed properly, and some were drugged without medical necessity.
+The article highlights the potential for COVID-19 to spread in these facilities due to inadequate policies and procedures.
+The Ontario government was criticized for its handling of the situation, with Premier Doug Ford calling it "gut-wrenching" and Prime Minister Justin Trudeau saying it's "deeply disturbing".
+
+Article 6 of 7
+Title: Thousands of travellers still arriving in Canada despite border restrictions
+Publisher: CTV News
+Posted: 4 days ago
+Relevant.
+The article reports on the number of international travellers arriving in Canada during the COVID-19 pandemic. Key values include:
+4,077 US travellers and 12,165 international air travellers arrived in Canada between May 18-24.
+These numbers represent a 98% and 97% decrease from last year's totals, respectively.
+The article highlights concerns about the potential for these travellers to bring COVID-19 into Canada, despite quarantine requirements.
+
+Article 7 of 7
+Title: Isolation fatigue 'partly' to blame for mass gathering at Toronto park, expert says
+Publisher: CTV News
+Posted: 5 days ago
+Key values:
+460 new cases of COVID-19 reported on Sunday (May 24), the fourth day in a row with numbers above 400.
+Increase in complaints related to park use and physical distancing in Toronto (167 on May 22).
+Concerns from government and health officials about the potential for a "setback" due to gatherings like Trinity Bellwoods Park.

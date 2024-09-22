@@ -1,0 +1,50 @@
+Below are 5 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 5
+Title: Respiratory risk remains high as October ends
+Publisher: CBC.ca
+Posted: 2 days ago
+The average number of Ottawa residents in local hospitals for COVID-19 is stable at 45.
+There are 35 active COVID outbreaks in Ottawa, with most being in retirement homes or hospitals.
+The city's weekly average test positivity rate is about 17%, which is high.
+Wastewater data shows a generally stable level of coronavirus, but considered high by OPH.
+Hospitalization numbers are also reported for other regions in Ontario, including Kingston (26 active patients), Leeds, Grenville and Lanark (3 hospitalizations), Hastings Prince Edward (13 hospitalizations), and Western Quebec (74 hospital patients).
+
+Article 2 of 5
+Title: What Canadian parents should know about flu shots for their kids
+Publisher: Yahoo Canada Shine On
+Posted: 2 days ago
+The article mentions a surge in pediatric COVID-19 cases in 2022, along with flu and RSV cases.
+It highlights the importance of vaccination against the flu, especially for children under 5 who are at higher risk of complications.
+The article notes that lower vaccination rates overall may contribute to increased hospitalizations and deaths from the flu.
+It emphasizes the need for annual flu vaccination due to changes in the virus each year.
+Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Seasonal trends (e.g., fall season)
+Vaccination rates
+Age-specific risk of complications (especially children under 5)
+
+Article 3 of 5
+Title: Why it's 'especially important' for older Canadians to get COVID-19 booster
+Publisher: CTV News
+Posted: 5 days ago
+Relevant.
+COVID-19 hospitalizations are rising in Canada, with a high risk to seniors. The majority of hospitalized individuals are over 80 years old. Booster coverage is low (22% for people 5+), which is a concern as immunity fades after 6 months. This highlights the importance of maintaining up-to-date vaccination status, particularly among vulnerable populations.
+
+Article 4 of 5
+Title: Elderly Canadians remain at higher risk of serious COVID from first infections, study suggests
+Publisher: CBC.ca
+Posted: 5 days ago
+Key values highlighted:
+40% of seniors (aged 80 and older) may have avoided infection so far
+Seniors have the highest risk of serious outcomes from COVID-19
+Vaccination campaigns should prioritize seniors to reduce their risk of severe outcomes
+The risk of hospital admission or death for seniors is still significant, even with vaccination and prior SARS-CoV-2 infection
+
+Article 5 of 5
+Title: COVID-19 vaccine, flu shot available to Ontario's general public as of Monday
+Publisher: CTV News Toronto
+Posted: 6 days ago
+Availability of free flu shots and new COVID-19 vaccines starting Monday.
+Targeted groups: elderly, immunocompromised, and those with medical conditions that make them susceptible to respiratory illnesses.
+New COVID-19 vaccines approved by Health Canada target the XBB variant.
+Eligibility for new COVID-19 vaccine: 6 months and older, or 6 months since last vaccine dose or confirmed infection.

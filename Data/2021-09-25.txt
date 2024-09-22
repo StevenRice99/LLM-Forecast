@@ -1,0 +1,81 @@
+Below are 8 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 8
+Title: Jason Kenney, Scott Moe face similar COVID-19 crises but different political pressure
+Publisher: CBC.ca
+Posted: Today
+Key values:
+Average new cases per 100,000 people over the past 7 days: 
++ Alberta: 253
++ Saskatchewan: 279
++ Ontario: 32
+Vaccination rates:
++ Saskatchewan: 72%
+Hospitalization data:
++ Saskatchewan: record 276 people in hospital and 61 in ICU
+
+Article 2 of 8
+Title: Regeneron’s antibody COVID-19 treatment is popular in the U.S. — why not in Canada? - National
+Publisher: Global News
+Posted: 1 day ago
+The Regeneron antibody cocktail has been shown to be effective in reducing hospitalization rates.
+However, its limited availability in Canada (6,000 doses received) may impact its potential use.
+Logistical challenges, such as the need for intravenous infusion and dedicated healthcare personnel, have hindered widespread adoption in Canada.
+Experts suggest that new delivery methods (e.g., subcutaneous administration) could help overcome these barriers.
+
+Article 3 of 8
+Title: Alberta COVID party sends several people to hospital with virus
+Publisher: CityNews Toronto
+Posted: 2 days ago
+The article reports on an "anti-vax" party in Alberta where guests intentionally contracted COVID-19 to build up natural immunity.
+This behavior can lead to increased hospitalizations and stress on the healthcare system.
+The article highlights that unvaccinated individuals are driving COVID-19 cases and hospitalizations, which is relevant for forecasting hospitalizations in Ontario, Canada.
+
+Article 4 of 8
+Title: As a 45-year-old farmer recovers from COVID-19, his wife and friends run 90 kilometres
+Publisher: CBC.ca
+Posted: 2 days ago
+Relevant.
+Summary: The article mentions ECMO machines being effective in treating COVID-19 patients with severe lung damage, which is relevant for forecasting hospitalizations. However, it does not provide specific data on hospitalization rates or trends in Ontario, Canada.
+
+Article 5 of 8
+Title: This elderly man is finally home from hospital after his family says he caught COVID-19 from a support worker
+Publisher: CBC.ca
+Posted: 4 days ago
+The article highlights the long-term effects of COVID-19 on older adults, including irreversible damage to mobility.
+It mentions that COVID-19 can exacerbate existing chronic conditions, such as dementia and mobility issues.
+The article quotes a geriatrician who notes that it's difficult to diagnose long COVID in older people due to pre-existing conditions.
+The article also highlights the impact of COVID-19 on hospital capacity, with ICUs being overwhelmed and not enough beds available.
+
+Article 6 of 8
+Title: External validation of the 4C mortality score among COVID-19 patients admitted to hospital in Ontario, Canada: a retrospective study
+Publisher: Nature.com
+Posted: 5 days ago
+The study used data from the McMaster Multi-Regional Hospital Coronavirus Registry (COREG) in southern Ontario, Canada.
+The registry includes COVID-19-related emergency department visits and hospital admissions from six tertiary hospitals with approximately 2400 total inpatient beds.
+The study analyzed patients admitted between March 2020 and June 2021, stratified into three waves based on admission date.
+The 4C mortality score was adapted to match available data and used to predict in-hospital mortality.
+The study found good discriminability of the 4C score (AUC = 0.77) and calculated diagnostic accuracy measures for different cut-offs.
+Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Number of inpatient beds (approximately 2400)
+Admission date stratification into three waves
+Adapted 4C mortality score to predict in-hospital mortality
+
+Article 7 of 8
+Title: 'Waning immunity?' Some experts say term leads to false understanding of COVID-19 vaccines
+Publisher: CBC.ca
+Posted: 5 days ago
+Here is a brief summary highlighting values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Recent studies show a drop in effectiveness for COVID-19 vaccines, but protection against severe disease remains high.
+A pre-print study by Public Health England suggests that protection against hospitalization and death remains much higher than protection against infection, even among older adults.
+In Ontario, there were 43 hospitalized breakthrough cases among the fully vaccinated on Friday, compared with 256 unvaccinated hospitalized infections.
+The concept of waning immunity depends on whether you're measuring protection against infection or against severe disease.
+
+Article 8 of 8
+Title: 'Exhausted, scared': Front line workers burnt out in fourth wave, says doctor
+Publisher: CBC.ca
+Posted: 6 days ago
+Saskatchewan has 228 hospitalizations as of Saturday (highest since early February), with 19.3 people hospitalized per 100,000.
+In contrast, Ontario has about 2.2 people in hospital per 100,000.
+Projections indicate Saskatchewan could see a rolling seven-day average of 125 infected people in ICUs by Sept. 30.
+The article highlights the capacity and workforce limitations in Saskatchewan's healthcare system, which may be relevant for forecasting COVID-19 hospitalizations in Ontario, Canada.

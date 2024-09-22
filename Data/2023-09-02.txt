@@ -1,0 +1,74 @@
+Below are 7 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 7
+Title: More COVID cases are coming. Here's what you need to know
+Publisher: CBC.ca
+Posted: Today
+The article discusses the current COVID-19 situation in Canada and the advice of health experts on how to navigate it. Here are the key points:
+1. Increased cases: There is an increase in COVID-19 cases, but it's not yet clear if this indicates a new wave.
+2. New variants: The BA.2.86 variant has emerged, which could potentially lead to another pandemic wave if it gains a growth advantage.
+3. Boosters: Most experts advise waiting for the new vaccines expected mid-fall before getting a booster. However, those at high risk should consider getting their current boosters now.
+4. Back to school: The return to school will likely bring an increase in viral spread, but this could also lead to an immediate rise in common cold cases, which can offer some protection against COVID-19 infections.
+5. Mask mandates and lockdowns: Health experts agree that a fall COVID-19 wave is unlikely to induce mask mandates or lockdowns.
+Key quotes:
+"The curve ball is BA.2.86... If it were to really emerge and have a growth advantage, then all bets are off and we might actually see a subsequent pandemic wave." - Dr. Gerald Evans
+"You need a booster. If everybody just abandons getting boosters going forward there's a high probability we'll return to a more susceptible population." - Dr. Gerald Evans
+"Regardless of the variant, there are things we can do to decrease spread of respiratory illness... Wearing a mask as we get back to work or school is one thing we can do to help decrease transmission..." - Dr. Etches
+
+Article 2 of 7
+Title: Cancer Patients More Likely to Die During COVID Pandemic
+Publisher: Medpage Today
+Posted: 1 day ago
+Key values:
+Increased risk of COVID infection and severe disease among cancer patients (adjusted HR 1.19, 95% CI 1.13-1.25)
+Higher risks of 14-day hospitalization and 28-day mortality among hematologic malignancies (aHR 1.75, 95% CI 1.57-1.96) and solid tumors (aHR 1.11, 95% CI 1.05-1.18)
+Lower risk of ICU admission among cancer patients compared to the general population
+Decreased COVID risk with increasing numbers of COVID vaccine doses received (one dose: aHR 0.63, 95% CI 0.62-0.63; two doses: aHR 0.16, 95% CI 0.16-0.16; three doses: aHR 0.05, 95% CI 0.04-0.06)
+
+Article 3 of 7
+Title: Cancer patients saw higher mortality from COVID-19
+Publisher: University of Minnesota Twin Cities
+Posted: 2 days ago
+Relevant.
+In Ontario, Canada, cancer patients had higher rates of COVID-19 hospitalization and death compared to a cancer-free cohort.
+The cumulative incidence of SARS-CoV-2 infection was 2.9% in individuals with solid tumors, 3.5% in those with hematologic malignant neoplasms (leukemia, lymphoma), and 4.0% in the general population without cancer.
+Individuals with hematologic malignant neoplasms were at a greater risk of SARS-CoV-2 infection and had a significantly increased risk for 28-day mortality (HR, 7.67).
+Both types of cancer patients were at a greater risk of 14-day hospitalization if infected with COVID-19.
+
+Article 4 of 7
+Title: School mask mandates again? Why some experts believe it’s a good idea - National
+Publisher: Global News Toronto
+Posted: 3 days ago
+Key values highlighted:
+Reinstating mask mandates in schools may help mitigate the transmission of COVID-19 and other respiratory viruses.
+Experts warn about a potential "tridemic" this fall due to the circulation of RSV, influenza, and new COVID-19 variants.
+Masking is effective in reducing the spread of COVID-19, especially when layered with other public health measures.
+Vulnerable individuals may be protected by mask mandates in crowded indoor settings like schools.
+
+Article 5 of 7
+Title: Braced for an increase in COVID cases, Health Canada reviews 3 new vaccines
+Publisher: Radio-Canada.ca
+Posted: 4 days ago
+The number of reported COVID-19 cases and test positivity rate are increasing in Ontario.
+Public Health Ontario reports a 9.9% positive test result rate between Aug 13-19, up from 5.2% in early July.
+The most commonly reported COVID-19 strain is EG.5.1, followed by EG.5.1.1 and XBB.1.16.
+Hospitalizations due to COVID-19 have been stable for months despite the increase in test positivity.
+A new formulation of mRNA vaccines targeting the XBB.1.5 Omicron subvariant may be available this fall, which could help with hospitalization forecasting.
+
+Article 6 of 7
+Title: Opinion: COVID-19 unleashed a crisis of delirium in our hospitals
+Publisher: The Globe and Mail
+Posted: 4 days ago
+69.5% of all COVID-19 hospitalizations in Canada are among people aged 60 years and older.
+The pandemic disrupted delirium prevention care, leading to an increased incidence of delirium and sedating medication use among older adults admitted to Ontario hospitals.
+Sedating medications can make things worse for patients with delirium.
+Simple strategies like promoting family caregiver presence, encouraging patients to move while in hospital, and minimizing disruptions to routines can reduce the incidence of delirium.
+
+Article 7 of 7
+Title: Canadian doctors brace for another ‘tripledemic’ – COVID-19, RSV and influenza - National
+Publisher: Global News Toronto
+Posted: 5 days ago
+A "tripledemic" of influenza, RSV, and COVID-19 is expected to hit Ontario this fall.
+Children aged 16 and younger are likely to be disproportionately affected by the flu season.
+Hospitalizations and emergency room visits are expected to surge as temperatures drop and people spend more time indoors.
+Preparations for the upcoming flu season include increasing staffing and bed capacity, redirecting patients with less severe symptoms to alternative healthcare facilities, and ensuring a stable supply of vaccines and PPE for family physicians.

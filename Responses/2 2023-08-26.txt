@@ -1,0 +1,13 @@
+Based on the articles provided, here are some key points related to the size and potential impact of the current COVID-19 wave:
+1. Rising cases : The number of COVID-19 cases is increasing in Canada after a period of decline.
+2. Hospitalizations up 11% : There was an 11% increase in COVID-related hospitalizations in Canada on August 15 compared to the previous week.
+3. Average length of stay increased : The average length of stay in hospitals due to COVID-19 has increased from 13 days to 20 days.
+4. Mortality rate decreased : Despite the rise in cases, the mortality rate has decreased by 1%.
+5. Wastewater data suggests low risk : Wastewater data indicates that the EG.5 variant is circulating in Canada and may be less severe than previous variants, but still poses a risk to vulnerable populations.
+6. Vaccination efforts ongoing : Public Health Sudbury and Districts (PHSD) plans to prioritize COVID-19 vaccinations for those at highest risk of complications or hospitalizations.
+As for the potential size of the current wave, it's difficult to predict with certainty. However, based on the articles provided:
+ The 11% increase in hospitalizations is a concern, but it's not clear if this will lead to a significant surge in cases.
+ The average length of stay has increased, which may indicate that patients are experiencing more severe symptoms or requiring longer treatment.
+ The mortality rate has decreased, which could be a positive trend, but it's still too early to say for sure.
+It's also worth noting that the articles mention the BA.2.86 subvariant, which is of concern due to its heavy mutations (over 30). However, booster shots are expected to shore up Canadians' immunity this fall, particularly against major subvariants of the virus (except possibly BA.2.86).
+Overall, while there are concerns about the rising cases and hospitalizations, it's too early to say for sure how big the current wave will get or what impact it will have on the healthcare system.

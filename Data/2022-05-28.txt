@@ -1,0 +1,90 @@
+Below are 8 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 8
+Title: Ontario reports lowest COVID-19 ICU occupancy in 6 months
+Publisher: CP24
+Posted: Today
+Relevant.
+865 total hospital patients with COVID-19 (down from 1,116 a week ago).
+144 ICU patients with COVID-19 (lowest occupancy rate since Nov. 28, 2021).
+13 net new deaths.
+8.5% positivity rate among 11,297 tests in the past 24 hours.
+1,144 new infections reported.
+
+Article 2 of 8
+Title: Voter prep: What Waterloo voters need to know in this provincial election
+Publisher: CBC.ca
+Posted: Today
+The article discusses concerns about healthcare infrastructure in Ontario, particularly gaps exposed by the COVID-19 pandemic. Key points for forecasting COVID-19 hospitalizations include:
+Longer wait times for routine exams and tests due to pandemic-related shutdowns
+Concerns about people struggling with job loss and affordability issues
+Discussion of healthcare system capacity and potential strain on resources
+These points are relevant for forecasting COVID-19 hospitalizations in Ontario, Canada.
+
+Article 3 of 8
+Title: Ontario has a pandemic backlog of 1 million surgeries. One group has a prescription for change
+Publisher: CBC.ca
+Posted: 3 days ago
+Key values:
+Pre-pandemic health-care system strain
+Pandemic backlog of 22 million health-care services (including 1 million surgeries)
+Delayed preventative care and cancer screenings
+Increased mental duress due to prolonged physical ailments
+Potential for worsening patient conditions due to delayed treatment
+
+Article 4 of 8
+Title: Air Pollution May Increase the Risk of Severe COVID-19
+Publisher: TIME
+Posted: 4 days ago
+151,000 Canadians with COVID-19 were studied.
+Exposure to high levels of ground-level ozone and fine particulate matter was associated with higher risk of hospitalization, ICU admission, and death.
+People living in areas with high air pollution levels had worse COVID-19 outcomes.
+
+Article 5 of 8
+Title: Learning models for forecasting hospital resource utilization for COVID-19 patients in Canada
+Publisher: Nature.com
+Posted: 4 days ago
+The study developed a Temporal Convolutional Network (TCN) model to forecast COVID-19-related targets in 7 regions of Canada, including Ontario.
+The model used past data to make forecasts for various targets, such as hospital beds, ICU beds, ventilators, cases, and deaths.
+The results showed that the TCN model was more accurate than other models in forecasting these targets.
+The study found that using a history of 3 weeks (L=21) produced the best results for 3- and 4-week forecasts.
+The article highlights the importance of long-horizon forecasts for healthcare providers to mobilize necessary resources in advance.
+
+Article 6 of 8
+Title: Q&A: Researchers search Sask. wastewater for potential COVID sub-variants
+Publisher: CBC.ca
+Posted: 4 days ago
+Relevant.
+The article highlights values most important for forecasting COVID-19 hospitalizations in Ontario, Canada:
+Presence of new sub-variants (e.g., BA.3, BA.4, BA.5) which may be more transmissible than BA.2
+Relative amounts of different variants circulating in the community
+Monitoring of variant spread and community-level transmission rates
+
+Article 7 of 8
+Title: Effectiveness of COVID-19 vaccines against SARS-CoV-2 variants of concern: a systematic review and meta-analysis - BMC Medicine
+Publisher: BMC Medicine
+Posted: 5 days ago
+This text appears to be a summary of a research study on the effectiveness of COVID-19 vaccines against two variants of the virus: B.1.617.2 (Delta) and B.1.1.529 (Omicron).
+Here are the main points from the text:
+Effectiveness against Delta variant 
+33 studies were included in this analysis, including 3 RCTs, 13 cohort studies, and 17 case-control studies.
+The summary vaccine effectiveness (VE) of full vaccination against the Delta variant was 77.8% (95% CI, 72.7–82.0).
+VE against any infection and symptomatic infection with the Delta variant were 74.6% (95% CI, 70.0–78.5) and 79.2% (95% CI, 71.9–84.6), respectively.
+Subgroup analysis showed that VE was higher in adolescents (88.8%, 95% CI, 83.5–92.4) and lower in older adults (59.7%, 95% CI, 45.0–70.4).
+The summary VE of booster vaccination against the Delta variant was 95.5% (95% CI, 94.2–96.5).
+Effectiveness against Omicron variant 
+Only 3 case-control studies were included in this analysis.
+The summary VE of full vaccination against the Omicron variant was 55.9% (95% CI, 40.9–67.0).
+The VE of booster vaccination against the Omicron variant was 80.8% (95% CI, 58.6–91.1).
+Overall, the study found that COVID-19 vaccines were effective against both the Delta and Omicron variants, although the effectiveness varied depending on the population and vaccine type.
+
+Article 8 of 8
+Title: COVID-19 on P.E.I.: What's happening the week of May 15
+Publisher: CBC.ca
+Posted: 7 days ago
+5 people died from COVID-19 in New Brunswick in the past week (not directly relevant but shows regional trends)
+Nova Scotia's largest children's hospital is stretched to its limits due to COVID-19 cases
+Health P.E.I. declared a COVID-19 outbreak on the Western Hospital inpatient unit in Alberton
+6 people died from COVID-19 on P.E.I. last week (not directly relevant but shows regional trends)
+People aged 60 and older are now eligible for a second COVID-19 booster vaccine, four months after receiving their first
+Values most important for forecasting COVID-19 hospitalizations in Ontario, Canada: None directly mentioned. However, the article does not provide any specific data or information that would be useful for forecasting COVID-19 hospitalizations in Ontario, Canada.

@@ -1,0 +1,66 @@
+Below are 7 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 7
+Title: Canada buying 140,000 blood tests to begin immunity testing of COVID-19
+Publisher: CTV News
+Posted: 3 days ago
+Number of Canadians who have contracted COVID-19 (tens of thousands)
+Presence of antibodies created by the human body after exposure to a virus (serology test results)
+Ability to detect immunity 17 days after symptoms began
+Potential for second wave of COVID-19 and need for public health measures
+Importance of knowing populations most vulnerable to new outbreaks
+
+Article 2 of 7
+Title: Canada-U.S. border to remain closed to non-essential travel for another month
+Publisher: CTV News
+Posted: 4 days ago
+The Canada-US border remains closed to non-essential travel until July 21.
+This closure aims to prevent the spread of COVID-19 in Ontario, Canada.
+Canadian health officials will continue to monitor the US epidemic trajectory before deciding whether to lift restrictions.
+Mandatory quarantine and follow-up enforcement for international travelers remain a cornerstone of disease control measures.
+
+Article 3 of 7
+Title: 'Frightening': Doctor debunks claims that wearing a face mask is more harmful than COVID-19
+Publisher: CTV News
+Posted: 4 days ago
+The doctor emphasizes that wearing face masks is safe for the vast majority of individuals and should be done to curb the spread of COVID-19.
+She notes that countries with widespread mask-wearing have seen lower numbers of diseases, fewer hospitalizations, and less mortality.
+Only a small minority of people may experience negative health outcomes from wearing a face mask, including those with COPD or psychological trauma related to their faces being covered.
+
+Article 4 of 7
+Title: Prolonged stretch of hot, humid and dry conditions in Ontario this week
+Publisher: The Weather Network
+Posted: 5 days ago
+Summary: Temperatures in Ontario are expected to reach near or above 30°C by Friday, with high humidity and sunshine throughout the week. This heatwave is likely to intensify over the weekend. Relevant values for forecasting COVID-19 hospitalizations include:
+Temperature (near or above 30°C)
+Humidity (increasing over the week)
+Sunshine (plenty of sunshine expected)
+
+Article 5 of 7
+Title: Why did we hoard toilet paper? New research says it wasn't because of selfishness
+Publisher: CTV News
+Posted: 6 days ago
+The study surveyed 996 people across 22 countries, including Canada, in late March 2020.
+Conscientiousness (diligence and organization) was a strong predictor of toilet paper stockpiling.
+Dependence and sentimentality also played a role in stockpiling habits.
+Older respondents were more likely to purchase and stockpile toilet paper.
+The study found no correlation between gender, political attitude, or local COVID-19 situation and hoarding habits.
+
+Article 6 of 7
+Title: One country, two pandemics: what COVID-19 reveals about inequality in Canada
+Publisher: CBC.ca
+Posted: 7 days ago
+In Ontario, rates of infection, death, hospitalization, and socioeconomic disparities are higher in ethnically and culturally diverse neighborhoods.
+Low-income residents and recent immigrants are disproportionately affected by COVID-19.
+The rate of hospitalizations in hard-hit communities is four times higher than in less diverse areas.
+Working conditions, smaller dwellings, and pre-existing inequalities contribute to these disparities.
+
+Article 7 of 7
+Title: Coronavirus: What's happening around the world on June 13
+Publisher: CBC.ca
+Posted: 7 days ago
+Total cases in Canada: 98,408
+Cases considered recovered or resolved: 59,353
+Deaths in Canada: 8,163
+Daily hospitalizations in Texas (US): 2,166 (not directly relevant but can be used as a comparison)
+India reported 11,458 new cases and 386 deaths on Saturday.

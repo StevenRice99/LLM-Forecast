@@ -1,0 +1,66 @@
+Below are 6 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 6
+Title: 'Perverse logic': Don't compare the flu to COVID-19
+Publisher: CTV News
+Posted: 1 day ago
+Key values highlighted:
+Case fatality rate (CFR) for COVID-19: 1.0% to 31.4% (estimated)
+CFR for seasonal flu: 0.1% or less
+Hospitalization rates:
++ Seasonal flu: approximately 12,200 hospitalizations per year
++ COVID-19: at least 10,000 hospitalizations as of June 24, likely to be far more by the end of 2020
+Reproduction number (R0) for COVID-19 in Canada: estimated between 2.0 and 3.0
+
+Article 2 of 6
+Title: How Canada could avoid a 2nd wave of COVID-19
+Publisher: CBC.ca
+Posted: 2 days ago
+Key points:
+The likelihood of a second wave isn't set in stone; smaller waves or no second wave at all are possible if Canadians keep their guard up.
+Experts predict that outbreaks will be more like "whack-a-mole" - small and manageable, but requiring quick action to prevent them from growing into larger epidemics.
+Physical distancing, proper hand hygiene, and wearing masks when appropriate are essential tools in fighting the spread of COVID-19.
+The largest risk factor for another wave of infection is that most Canadians are susceptible because they haven't had it; a mathematical probability exists for another wave, but it may be less severe based on what we've learned about controlling the virus.
+
+Article 3 of 6
+Title: Quebec stops publishing daily COVID-19 data despite leading country in number of cases
+Publisher: CBC.ca
+Posted: 2 days ago
+Number of daily cases: 142 (as of Thursday)
+Total number of cases: 55,079
+Number of people in hospital: 487
+Total deaths: 5,448
+Testing data: 520,227 tests have come back negative
+These values are most important for forecasting COVID-19 hospitalizations in Ontario, Canada.
+
+Article 4 of 6
+Title: Millions of dollars in COVID-19 fines disproportionately hurting Black, Indigenous, marginalized groups: report
+Publisher: CTV News
+Posted: 3 days ago
+10,000 COVID-related charges were laid between April 1 and June 15 in Quebec, Ontario, and Nova Scotia (98% of them issued in these provinces).
+In Ontario, $2.42 million worth of tickets were issued.
+Fines are typically $750 in Ontario, with a mandatory victim surcharge bringing the total to $880.
+The report highlights the disproportionate impact on marginalized groups, including Black, Indigenous and other racialized communities, who may be more likely to be stopped and questioned by law enforcement.
+
+Article 5 of 6
+Title: Nobody died in these nursing homes - what did they do right?
+Publisher: CTV News
+Posted: 3 days ago
+The article discusses how some long-term care facilities in Canada were better equipped to handle the COVID-19 pandemic than others. The facilities that fared well, such as Yee Hong and Shepherd Village, had implemented measures early on to prepare for a potential outbreak, including training staff, communicating regularly with residents and families, and implementing infection control protocols.
+In contrast, some facilities struggled with outbreaks and were criticized for inadequate staffing, lack of personal protective equipment (PPE), and poor communication. The article cites the Canadian Armed Forces report, which highlighted serious concerns about PPE shortages, staffing shortages, inadequate training and communication, and deficient isolation measures at some long-term care homes.
+The article suggests that the facilities that fared well had a few key advantages, including:
+Early preparation and planning: Yee Hong and Shepherd Village started preparing for a potential outbreak in February, while many other facilities were caught off guard.
+Strong leadership: The CEOs of these facilities were actively involved in decision-making and communication with staff and residents.
+Training and education: Staff at these facilities received extensive training on infection control and pandemic protocols.
+Communication: Regular communication with staff, residents, and families helped to build trust and ensure everyone was on the same page.
+The article also highlights the importance of proper funding and resources for long-term care facilities. The non-profit status of Yee Hong and Shepherd Village may have given them more flexibility to allocate resources and prioritize resident care.
+Overall, the article suggests that some long-term care facilities were better equipped to handle the COVID-19 pandemic due to their early preparation, strong leadership, training, communication, and access to resources.
+
+Article 6 of 6
+Title: Toronto city councillor Michael Ford says he has recovered from COVID-19
+Publisher: CBC.ca
+Posted: 6 days ago
+Total number of hospitalizations: 251
+Number of people in ICU: 59
+Number of people on ventilators: 47
+Cumulative total of COVID-19 cases in Toronto: 13,856

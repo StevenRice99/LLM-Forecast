@@ -1,0 +1,56 @@
+Below are 5 news articles from the past week to help guide you in making your decision.
+
+Article 1 of 5
+Title: Common, inexpensive diabetes drug could cut long COVID risk, study finds
+Publisher: CBC News
+Posted: Today
+Metformin reduced long COVID incidence by 41% among infected patients.
+Participants on metformin were also less likely to be hospitalized roughly a month after infection by SARS-CoV-2.
+The study found that metformin may help patients fight off the virus or reduce inflammation, although more research is needed to understand its mechanism of action.
+
+Article 2 of 5
+Title: How to better protect yourself from the health effects of wildfire smoke
+Publisher: CBC News
+Posted: 3 days ago
+The Air Quality Health Index (AQHI) updates twice a day and provides a risk rating on a scale of 1 to 10+.
+High air quality risks are associated with increased emergency room visits and hospitalizations for respiratory conditions such as asthma and pneumonia.
+Exposure to wildfire smoke can exacerbate existing lung problems in the elderly, who are more likely to be living with chronic lung conditions like asthma or COPD.
+
+Article 3 of 5
+Title: Paediatric inflammatory multisystem syndrome in Canada: population-based surveillance and role of SARS-CoV-2 linkage
+Publisher: Nature.com
+Posted: 5 days ago
+This study provides an overview of the incidence and characteristics of Pediatric Inflammatory Multisystem Syndrome (PIMS) associated with SARS-CoV-2 infection in children, as reported by the Canadian Paediatric Surveillance Program (CPSP). The key findings are:
+1. Incidence: The minimum national incidence of PIMS hospitalization was 5.6 per 100,000 population, and for ICU admission was 1.8 per 100,000 population.
+2. Age distribution: The highest incidence rates were observed in children aged 1-5 years (3.3 per 100,000 population) and those aged 6-12 years (3.1 per 100,000 population).
+3. Comorbidities: Asthma (5.9%), obesity (3.0%), and neurologic/neurodevelopmental conditions (3.0%) were reported in a small proportion of cases.
+4. Prior history of Kawasaki Disease (KD): Five children (1.2%) had a prior history of KD, which is consistent with the reported percentage of recurrence of KD pre-pandemic.
+5. Correlation with SARS-CoV-2 infections: Peaks of PIMS hospitalizations correlated with a temporal lag of five weeks after peaks in all Canadian SARS-CoV-2 infections.
+6. Variability by region: Higher numbers of cases were seen in three Canadian jurisdictions (Ontario, Quebec, and Alberta) with the highest numbers of acute SARS-CoV-2 infections.
+The study also highlights some limitations, including:
+1. Voluntary reporting: Not all cases may have been reported.
+2. Limited data collection: Data on other important clinical or laboratory markers were not included in the study.
+3. Variability in treatment and timing of treatment: Treatment and timing of treatment may have differed across Canada, which may have affected clinical outcomes.
+The study concludes that while PIMS is rare, it remains an important consequence of SARS-CoV-2 infection in children, with almost one in three hospitalized children requiring ICU admission and respiratory/hemodynamic support. The findings provide baseline data prior to the implementation of SARS-CoV-2 vaccination for children and can be used to monitor changes to the epidemiology of PIMS as vaccination in different age groups is introduced.
+
+Article 4 of 5
+Title: Acute severe hepatitis of unknown origin in children in Canada, CCDR 49(6)
+Publisher: Canada.ca
+Posted: 6 days ago
+This text appears to be a scientific report on an investigation into cases of acute severe hepatitis in children in Canada. Here's a summary:
+Background: A recent study found high levels of Adeno-associated virus 2 (AAV-2) in explanted livers and blood of non-transplanted cases with acute severe hepatitis in the UK, suggesting an association between AAV-2 and acute severe hepatitis.
+Investigation: The authors conducted a federal/provincial/territorial joint investigation to identify cases of acute hepatitis of unknown origin in Canada. They analyzed hospital records from October 1, 2021, to February 28, 2022, using the Discharge Abstract Database (DAD).
+Results: The analysis estimated the baseline incidence of acute severe hepatitis of unknown origin in children in Canada and found that it was not exceeding the expected historic baseline for this condition.
+Conclusion: The investigation did not find an increase above the expected historic baseline for acute severe hepatitis in children in Canada. However, more research is required internationally to identify the possible cause of the increase observed in certain regions and to fully elucidate any possible links to adenovirus, AAV-2 or other potential causation.
+Strengths and limitations: The investigation had some methodological differences between estimating the national baseline incidence using passive administrative data and active case finding during the investigation. However, it provided a nationally representative estimate of the incidence, which was not established prior to this investigation.
+Overall, the report concludes that there is no evidence of an increase in acute severe hepatitis cases in children in Canada above the expected historic baseline, but more research is needed to understand the possible causes of the increase observed in other regions.
+
+Article 5 of 5
+Title: Antipsychotic drugs use increased in Canadian long-term care homes, pointing to possible quality-of-care issues: study
+Publisher: CTV News
+Posted: 7 days ago
+Relevant.
+Summary: The article reports on an increase in antipsychotic medication use in long-term care homes across Canada, including Ontario, during the COVID-19 pandemic. Key values for forecasting COVID-19 hospitalizations in Ontario include:
+No significant increase in behavioral symptoms of residents
+10% risk-adjusted odds of potentially inappropriate antipsychotic drug use in Ontario (2019/2020: 18.3%, 2020/2021: 19.3%)
+Increase in antipsychotic medication use without a diagnosis, with the highest increase in Alberta and lowest in Ontario
