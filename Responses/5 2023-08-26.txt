@@ -1,0 +1,11 @@
+Based on the articles provided, here's a summary of the current situation with COVID-19 hospitalizations in Canada:
+ 10 regions in Canada are reporting an increase in COVID-19 activity (Article 1).
+ Hospitalizations due to COVID-19 increased by 19% between April 2022 and March 2023, with over 120,000 hospital stays (Article 1).
+ The median age of patients has increased from 63 to 75 years old, and the average length of stay in hospital has increased to 20 days from 13 days (Article 5).
+ There is a small peak in COVID-19 cases in Toronto, but research suggests that most Canadians have developed some level of immunity against the virus due to high rates of vaccination (Article 7).
+As for how big the wave will get, it's difficult to predict with certainty. However, based on the articles provided:
+ The EG.5 variant has been circulating in Canada since at least May, and early evidence suggests it is no more severe but better able to evade front-line immune defenses (Article 6).
+ Public Health Sudbury and Districts plans to prioritize COVID-19 vaccinations for those at highest risk of complications or hospitalizations (Article 6).
+ Booster shots are expected to shore up Canadians' immunity this fall, particularly against major subvariants of the virus (except possibly BA.2.86) (Article 7).
+It's also worth noting that a statistical model used to analyze the impact of COVID-19 on non-COVID-19 ICU patients in Brazil found that the proportion of ICU patients diagnosed with COVID-19 had a significant impact on mortality rates, and that hospital size, sex, age, and other factors also played a role (Article 8).
+Overall, while there is some concern about the rise in COVID-19 cases and hospitalizations, it's difficult to predict exactly how big the wave will get. However, with high levels of immunity among Canadians due to vaccination, and the expected impact of booster shots, it's possible that the wave may not be as severe as previous ones.

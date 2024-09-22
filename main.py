@@ -761,4 +761,4 @@ def main(forecast: int = 1) -> None:
 
 
 if __name__ == "__main__":
-    main(4)
+    main(8)

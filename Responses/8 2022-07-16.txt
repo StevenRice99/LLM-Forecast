@@ -1,0 +1,34 @@
+Here is a summary of the articles related to COVID-19:
+ Article 4 
+ The authors used R versions 3.6.0 to 4.0.4 for data processing and statistical analyses.
+ They plotted their results using ggplot2 version 3.3.3 in R or GraphPad Prism version 8.
+ The study employed a combination of molecular biology techniques (RT-PCR, Sanger sequencing) and next-generation sequencing (RNA-seq with Oxford Nanopore) to study alternative splicing and NMD of the OAS1 gene.
+ Article 5 
+ Canada's COVID death rates are comparable to those in other nations over the last three years.
+ Public health officials in Canada are downplaying the severity of the current surge, stating that case counts have fallen and hospitalizations and deaths are decreasing across the country.
+ Experts warn about a new variation of BA.2, named "Centaurus" or BA.2.75, which may be more contagious than other Omicron subvariants.
+ The World Health Organization has warned about BA.2.75 and is monitoring its spread globally.
+ Article 6 
+ Alberta will start vaccinating small kids against COVID with Moderna by the end of July.
+ The pediatric vaccine dosage is one-quarter the size of those approved for adults.
+ A pediatrician predicts that the vaccine will be effective against severe illness months and months down the road with children.
+ Another pediatrician expects slow uptake of the vaccine among parents.
+ Article 7 
+ Adults aged 18 to 59 who had a third shot at least five months ago (or three months since a COVID-19 infection) are eligible for a fourth dose.
+ Individuals with increased risk of severe illness from COVID-19 should be offered a shot in the fall, and those between the ages of 12 and 64 may also be eligible at that time.
+ A fourth dose is recommended if it has been five months since their last shot.
+ Article 8 
+ There were 1,270 new cases of COVID-19 on P.E.I. in the past week, with 19 people currently hospitalized.
+ The average daily cases over the past week is 182, up from 153 in the previous week.
+ Article 9 
+ A farm company was convicted after a COVID-19 outbreak that killed a migrant worker.
+ There were 196 COVID-19 cases among 216 agricultural workers on a southern Ontario farm.
+ 3 workers were hospitalized due to COVID-19, and a Mexican migrant worker died from COVID-19 complications.
+ Article 10 
+ Quebec reports an increase in COVID-19 cases (873) and hospitalizations (54-patient rise) due to BA.4 and BA.5 variants.
+ The 7th wave of COVID-19 is expected to peak in July, with recommendations for people at risk to wear masks.
+ Ontario has also entered the 7th wave of COVID-19.
+Some key values mentioned in these articles that are important for forecasting COVID-19 hospitalizations include:
+ Age: Adults aged 18 to 59 who had a third shot at least five months ago (or three months since a COVID-19 infection)
+ Vaccination status: Individuals with increased risk of severe illness from COVID-19
+ Time since last dose: A fourth dose is recommended if it has been five months since their last shot.

@@ -1,0 +1,10 @@
+Based on the articles provided, here are some key values relevant for forecasting COVID-19 hospitalizations in Ontario:
+1. Positive test results for COVID-19 : 17% (most recent rate)
+2. RSV cases : Surging in many parts of Canada, with ICUs operating at 120-150% capacity
+3. Influenza A strain : Dominant strain this year
+4. COVID-19 hospitalizations : Currently 33 people hospitalized due to COVID-19 in New Brunswick (Article 4)
+5. Paxlovid treatment efficacy :
+ Relative reduction in risk of hospitalizations or deaths: 44%
+ Number needed to treat (NNT) value for preventing a single hospital admission or death: 62
+6. Pharmacist prescribing powers : Ontario considering expanding pharmacists' prescribing powers to include Paxlovid and other antiviral medications
+These values can be used as inputs for forecasting COVID-19 hospitalizations in Ontario, taking into account the current surge in RSV cases and influenza activity.

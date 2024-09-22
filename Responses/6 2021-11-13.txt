@@ -1,0 +1,51 @@
+Here are the 10 articles related to COVID-19:
+ Article 1 
+Title: [Not provided]
+Summary: The article is not provided, but it's mentioned as a general advice section.
+ Article 2 
+Title: Alberta reports 422 new cases of COVID-19 and 8 deaths
+Publisher: CBC News
+Posted: 4 days ago
+Key values:
+ Hospitalization numbers: 608 patients with COVID-19 being treated in hospital
+ ICU admissions: 128 patients in intensive care
+ Positivity rate: Not directly relevant to Ontario, but Alberta's decline from 11.3% to 5.1% may indicate a trend that could be applicable to other provinces.
+ Article 3 
+Title: Protect your heart with the COVID vaccine
+Publisher: Hamilton Health Sciences
+Posted: 4 days ago
+Summary: The article discusses the benefits of getting vaccinated against COVID-19, including preventing severe cases and hospitalizations. It also mentions that myocarditis or pericarditis (heart inflammation) is a rare side effect of the vaccine.
+ Article 4 
+Title: Antidepressant may prevent severe COVID-19, follow-up study indicates – Washington University School of Medicine in St. Louis
+Publisher: Washington University School of Medicine in St. Louis
+Posted: 4 days ago
+Summary: A study found that fluvoxamine, a low-cost antidepressant, reduces the risk of hospitalization and death from COVID-19.
+ Article 5 
+Title: Cross-reactivity of antibodies from non-hospitalized COVID-19 positive individuals against the native, B.1.351, B.1.617.2, and P.1 SARS-CoV-2 spike proteins
+Publisher: Nature.com
+Posted: 5 days ago
+Summary: This article appears to be a Methods section from a scientific research article, likely in the field of virology or immunology. The study aims to investigate the presence of antibodies that can block the interaction between human recombinant ACE-2 and the spike protein of SARS-CoV-2.
+ Article 6 
+Title: [Not provided]
+Summary: This article is not provided, but it's mentioned as a general advice section.
+ Article 7 
+Title: Testing delays in northern B.C. likely contributing to spread of COVID-19, epidemiologist warns
+Publisher: CBC.ca
+Posted: 7 days ago
+Key values highlighted:
+ Average test turnaround time in Northern Health region (B.C.) was 20-40 hours, peaking at 74 hours due to reagent shortages and shipping delays.
+ Rapid test kits are being used in some settings, but not widely available for asymptomatic individuals or small businesses.
+ Article 8 
+Title: [Not provided]
+Summary: This article is not provided, but it's mentioned as a general advice section.
+ Article 9 
+Title: [Not provided]
+Summary: This article is not provided, but it's mentioned as a general advice section.
+ Article 10 
+Title: Testing delays in northern B.C. likely contributing to spread of COVID-19, epidemiologist warns
+Publisher: CBC.ca
+Posted: 7 days ago
+Key values highlighted:
+ Average test turnaround time in Northern Health region (B.C.) was 20-40 hours, peaking at 74 hours due to reagent shortages and shipping delays.
+ Rapid test kits are being used in some settings, but not widely available for asymptomatic individuals or small businesses.
+Note that Articles 1, 6, 8, and 9 are not provided, and their summaries are based on the context.
