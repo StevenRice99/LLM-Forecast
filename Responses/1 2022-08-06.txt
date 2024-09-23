@@ -1,0 +1,12 @@
+Here are the summaries of each article:
+ Article 1: Crime Rates in Canada 
+The article reports on crime rates across Canada, citing a table that provides detailed breakdowns of changes in crime rates between 2020 and 2021. The data shows increases in certain types of crimes, such as shoplifting and other unspecified factors.
+ Article 2: Ontario Hospital Staffing Crunch 
+The article discusses the hospital staffing crunch in Ontario, where 25 hospitals had to close parts of their operations due to staffing shortages. It also reports on a decrease in COVID-19 hospitalizations, but notes that hospital staff absences due to COVID-19 infections have doubled since May.
+ Article 3: Paxlovid Availability 
+The article discusses the availability of Paxlovid, an antiviral medication used to treat COVID-19, particularly for individuals over 60 years old who are considered high-risk for severe illness. It highlights several reasons why Paxlovid may be restricted or not widely recommended, including cost, scarcity, and regulatory controls.
+ Article 4: ISARIC-COVID-19 Dataset 
+The article appears to be a list of acknowledgments and disclosures from various authors who contributed to a research study on COVID-19. The purpose is to provide transparency about potential conflicts of interest or financial relationships that may have influenced the research.
+ Article 5: BCCDC Removes Data on COVID-19 Infection Outcomes 
+The article reports that the British Columbia Centre for Disease Control (BCCDC) has removed data on COVID-19 infection outcomes by vaccination status from its dashboard. It highlights the importance of age-standardized rates of hospitalization and the impact of the Omicron variant on case burden and data reliability.
+Let me know if you have any specific questions or would like further clarification on any of these articles!

@@ -1,0 +1,25 @@
+Here's a summary of the articles:
+ Article 1: Ontario Exceeds 400 COVID Patients in ICU 
+ Total hospitalizations: 2,419
+ ICU admissions: 412 (up 80% compared to one week ago)
+ Unvaccinated patients in ICU: 123
+ Fully vaccinated patients in ICU: 137
+ Hospitalized with COVID-19:
+ + Unvaccinated: 457
+ + Fully vaccinated: 1,353
+ Article 2: Baricitinib for Hospitalized Patients with COVID-19 
+ The Ontario Science Table recommends the use of baricitinib in hospitalized patients with COVID-19.
+ Recommendations:
+ + Critically ill patients: Baricitinib 4 mg PO or NG daily (2 x 2 mg tablets) for 14 days or until discharge.
+ + Moderately ill patients: Baricitinib 4 mg PO daily (2 x 2 mg tablets) for 14 days or until discharge.
+ + Mildly ill patients: Not recommended.
+ Important considerations:
+ + Concomitant corticosteroids: Can be used with or without baricitinib.
+ + IL-6 inhibitors: Combined use not recommended due to lack of safety and efficacy evidence.
+ + Pregnancy and breastfeeding: Use should be determined through shared decision-making.
+ + Renal function: Dose should be reduced in patients with eGFR 30-60 mL/min/1.73m^2, and it should not be used in patients with eGFR <30 mL/min/1.73m^2.
+ Article 3: COVID-19 Hospitalizations Look Different in the Omicron Wave 
+ The article discusses the impact of unvaccinated Ontarians on ICUs during the Omicron wave.
+ Data shows that despite raw numbers appearing to narrow, when adjusted for population size and age, the occupancy rate of unvaccinated people in ICUs is almost 15 times higher than that of fully vaccinated people.
+ Medical professionals note that while Omicron infections may be leading to fewer severe cases of COVID-19-related pneumonia compared to earlier waves, hospitalizations are still occurring due to other factors such as frailty, chronic illness, and pandemic fatigue.
+ The stress on the hospital system is being exacerbated by health workers isolating or taking sick leaves due to COVID-19.

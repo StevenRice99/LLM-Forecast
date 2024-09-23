@@ -642,7 +642,7 @@ def calculate_scores(index: str, dataset_actual: pandas.DataFrame,
         else:
             # Otherwise, it was a failure, so see by how much it failed.
             failures -= dataset_diff[index][j]
-    return max(successes / total * 100, 0), dataset_diff[index].mean(), failures, excess, total
+    return max(successes / total * 100, 0), dataset_diff[index].mean(), failures, excess
 
 
 def evaluate(dataset_actual: pandas.DataFrame, dataset_baseline: pandas.DataFrame,
@@ -699,8 +699,8 @@ def evaluate(dataset_actual: pandas.DataFrame, dataset_baseline: pandas.DataFram
                 llm_s = f"{llm_s}%"
             improvement_s = ""
         # Get the improvement for the failures and excess.
-        improvement_f = llm_f - base_f if is_number(base_f) and is_number(llm_f) else ""
-        improvement_e = llm_e - base_e if is_number(base_e) and is_number(llm_e) else ""
+        improvement_f = base_f - llm_f if is_number(base_f) and is_number(llm_f) else ""
+        improvement_e = base_e - llm_e if is_number(base_e) and is_number(llm_e) else ""
         # Add to the data to be written.
         success_rate += f"\n{index},{base_s},{llm_s},{improvement_s}"
         average_diff += f"\n{index},{base_d},{llm_d}"
