@@ -8,7 +8,7 @@ Here are the key points from the articles:
  Poland is on the brink of disaster due to inadequate testing and lack of support for doctors, according to immunologist Pawel Grzesiowski.
  Iran has reported its highest single-day record for new deaths (279) and infections (4,830) from the coronavirus.
  The country has imposed a travel ban on five major cities, including Tehran and Mashhad, ahead of an important religious holiday.
- Japan conducted a supercomputer study that found humidity can significantly affect the dispersion of virus particles.
+ Japan found that humidity can significantly affect the dispersion of virus particles, suggesting that humidifiers may help limit infections in dry indoor conditions during winter months.
  Article 3 
  Blood type O may be less vulnerable to COVID-19 and have a reduced likelihood of getting severely ill, according to new studies.
  A Danish study found 38.4% with blood type O tested positive for COVID-19, compared to other studies that showed higher rates of severe illness in patients with blood types A or AB.
@@ -18,4 +18,9 @@ Here are the key points from the articles:
  Article 5 
  COVID-19 hospitalizations are down compared to the initial wave, but a second wave could be deadly.
  A study found that SARS-CoV-2 can survive on non-porous surfaces for up to 28 days at a temperature of 20°C.
- Temperature plays a huge factor in the virus' survivability, with colder temperatures allowing it to last longer on surfaces.
+ However, the virus dies significantly faster in hotter temperatures and is reduced by 50% (half-life) within 2.74 days on paper bank notes and 1.68 days on cotton.
+ Key points 
+ COVID-19 cases are rising globally, with many countries reporting record numbers of new infections and deaths.
+ Blood type O may be less vulnerable to COVID-19 and have a reduced likelihood of getting severely ill.
+ Portable operating rooms and ICUs can increase patient treatment capacity and help avoid procedure cancellations.
+ Surface transmission of COVID-19 is still a rare occurrence, but temperature can influence its spread.

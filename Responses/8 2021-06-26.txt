@@ -1,6 +1,5 @@
 Based on the provided articles, I would say that the following information would not be captured in this data:
  The specific number of hospitalizations in Ontario (mentioned in Article 6)
- The exact strategies used by other hospitals in the GTA to manage COVID-19 cases (while Brampton Civic Hospital's approach is detailed, it's unclear what other hospitals did)
- The demographics of patients experiencing mild symptoms (e.g., age range, underlying health conditions) beyond what Dr. Andrew Morris mentions
- A comprehensive analysis of the effectiveness of targeted testing strategies in different settings (e.g., schools, congregate-care facilities)
-These pieces of information are not explicitly mentioned or analyzed in the provided articles, so they would not be captured in this data.
+ The effectiveness of AstraZeneca vaccine against delta variant (mentioned in Article 5)
+ The exact percentage of COVID-19 cases in Ontario that are attributed to the delta variant (mentioned in Article 5, but only as a general statement)
+These pieces of information are not explicitly mentioned or quantified in the provided articles.

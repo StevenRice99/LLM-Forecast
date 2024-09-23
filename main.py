@@ -7,6 +7,8 @@ import re
 import warnings
 from urllib.parse import urlparse
 
+import inflect
+import numpy as np
 import ollama
 import pandas
 import pandas as pd
@@ -18,6 +20,7 @@ from pandas import DataFrame
 from pandas.core.dtypes.inference import is_number
 from selenium import webdriver
 from selenium.webdriver.firefox.service import Service
+from sklearn.metrics import mean_squared_error
 from statsmodels.tools.sm_exceptions import ConvergenceWarning
 from statsmodels.tsa.arima.model import ARIMA
 from statsmodels.tsa.holtwinters import SimpleExpSmoothing
@@ -356,26 +359,19 @@ def llm_forecast(prediction: int, history: list, forecast: int, date: str) -> in
     :param date: The date which is being forecast.
     :return: The value predicted by the LLM.
     """
-    # Load the summaries.
-    path = os.path.join("Data", f"{date}.txt")
-    # If the file does not exist, we cannot use the LLM.
-    if not os.path.exists(path):
-        return prediction
-    # Load the summaries.
-    f = open(path, "r")
-    articles = f.read()
-    f.close()
-    # If there are no summaries, don't use the LLM.
-    if articles == "":
-        return prediction
     # If we already have the response for this date, load it.
-    path = os.path.join("Responses", f"{forecast} {date}.txt")
-    if os.path.exists(path):
-        f = open(path, "r")
+    response = os.path.join("Responses", f"{forecast} {date}.txt")
+    if os.path.exists(response):
+        f = open(response, "r")
         s = f.read()
         f.close()
     # Otherwise, query the LLM.
     else:
+        # If the file does not exist, we cannot use the LLM.
+        path = os.path.join("Data", f"{date}.txt")
+        if not os.path.exists(path):
+            return prediction
+        # Build the prompt.
         timeframe = "week" if forecast == 1 else f"{forecast} weeks"
         prompt = (f"You are tasked with forecasting COVID-19 hospitalizations in Ontario, Canada you predict will "
                   f"occur over the next {timeframe}. You must respond with a single integer and nothing else.")
@@ -394,10 +390,18 @@ def llm_forecast(prediction: int, history: list, forecast: int, date: str) -> in
         prompt += (f" An ARIMA forecasting model has predicted that over the next {timeframe}, there will be "
                    f"{prediction} COVID-19 hospitalizations in Ontario, Canada. ARIMA is known to underpredict and "
                    f"react too slow for a surge. Using your best judgement, keep or adjust this value.")
-        s = generate(f"{prompt} {articles}", False, True)
+        # Load the summaries.
+        f = open(path, "r")
+        articles = f.read()
+        f.close()
+        # If there are summaries, add them.
+        if articles != "":
+            prompt = f"{prompt} {articles}"
+        s = generate(prompt, False, True)
+        # Save the response for future lookups.
         if not os.path.exists("Responses"):
             os.mkdir("Responses")
-        f = open(path, "w", errors="ignore")
+        f = open(response, "w", errors="ignore")
         f.write(s)
         f.close()
     # We need to ensure there is only one value, as otherwise the LLM either could not or failed to do what was asked.
@@ -479,8 +483,8 @@ def baseline(dataset: pandas.DataFrame) -> pandas.DataFrame:
         if len(history) > 1:
             # Store the best ARIMA model.
             best = None
-            # Try p values from 0 to 2.
-            p = range(0, 3)
+            # Try p values from 0 to 5.
+            p = range(0, 6)
             # Try d values from 0 to 1.
             d = range(0, 2)
             # Try q values from 0 to 2.
@@ -498,14 +502,15 @@ def baseline(dataset: pandas.DataFrame) -> pandas.DataFrame:
                 # noinspection PyBroadException
                 try:
                     # Fit the ARIMA model.
-                    model = ARIMA(history, order=pdq)
-                    model_fit = model.fit()
-                    # Get the AIC score.
-                    score = model_fit.aic()
-                    # If the AIC is lower, update the best model
+                    model = ARIMA(history, order=pdq).fit()
+                    # Get the score.
+                    predictions = model.predict(start=1, end=len(history) - 1, typ="levels")
+                    score = np.sqrt(mean_squared_error(history[1:], predictions))
+                    #score = model.aic()
+                    # If the score is lower, update the best model
                     if score < best_score:
                         best_score = score
-                        best = model_fit
+                        best = model
                 except Exception:
                     # Skip invalid models.
                     continue
@@ -539,7 +544,7 @@ def baseline(dataset: pandas.DataFrame) -> pandas.DataFrame:
     return pd.read_csv(path)
 
 
-def llm(dataset: pandas.DataFrame, dataset_baseline: pandas.DataFrame, forecast: int = 1) -> pandas.DataFrame:
+def llm(dataset: pandas.DataFrame, dataset_baseline: pandas.DataFrame, forecast: int = 0) -> pandas.DataFrame:
     """
     Get the LLM predictions.
     :param dataset: The dataset to test on.
@@ -547,31 +552,33 @@ def llm(dataset: pandas.DataFrame, dataset_baseline: pandas.DataFrame, forecast:
     :param forecast: How many weeks in advance should the LLM model forecast.
     :return: The LLM predictions.
     """
-    # If the LLM results have already been processed, there is nothing to do.
-    path = os.path.join("Results", "LLM.csv")
-    if os.path.exists(path):
-        return pd.read_csv(path)
+    # Ensure all articles exist.
     initialize()
     prepare_articles(dataset)
     dates = dataset_baseline["Date"]
     periods = len(dates)
-    if forecast > periods:
+    # If no forecast was given or trying to forecast too far into the future, forecast everything.
+    if forecast > periods or forecast < 1:
         forecast = periods
     history = []
     s = "Date"
     for i in range(forecast):
         s += f",{i + 1}"
+    # Forecast for every period.
     for i in range(periods):
+        print(f"Full model forecasting for period {i + 1} of {periods}.")
         history.append(dataset["Hospitalizations"][i])
         s += f"\n{dates[i]}"
         for j in range(forecast):
             index = j + 1
+            # If the baseline model did not fit for this, then neither will the LLM.
             current_baseline = dataset_baseline[f'{index}'][i]
             if current_baseline < 0:
                 s += ",-1"
                 continue
-            print(f"LLM forecasting for period {i + 1} of {periods} with forecast {index} of {forecast}.")
             s += f",{llm_forecast(current_baseline, history, index, dates[i])}"
+    # Save the data and return it.
+    path = os.path.join("Results", "Full Model.csv")
     f = open(path, "w")
     f.write(s)
     f.close()
@@ -590,31 +597,52 @@ def metrics(title: str, dataset_results: pandas.DataFrame, dataset_actual: panda
     columns = len(dataset_results.columns.tolist()) - 1
     # Start off the difference and failures.
     diff = "Date"
-    failures = "Date"
     for i in range(columns):
-        success_rate = f",{i + 1}"
-        diff += success_rate
-        failures += success_rate
+        diff += f",{i + 1}"
     # Get the data for every date.
     dates = dataset_results["Date"]
     for i in range(len(dates)):
-        success_rate = f"\n{dates[i]}"
-        diff += success_rate
-        failures += success_rate
+        diff += f"\n{dates[i]}"
         # Get the results for all forecasting windows and add them to the documents.
         for j in range(columns):
             index = f"{j + 1}"
-            real = dataset_actual[index][i]
-            pred = dataset_results[index][i]
-            diff += f",{pred - real}"
-            failures += f",{0 if pred >= real else real - pred}"
+            diff += f",{dataset_results[index][i] - dataset_actual[index][i]}"
     # Save the data for the differences and failures.
-    f = open(os.path.join("Results", f"{title} Difference.csv"), "w")
+    f = open(os.path.join("Results", f"Difference {title}.csv"), "w")
     f.write(diff)
     f.close()
-    f = open(os.path.join("Results", f"{title} Failures.csv"), "w")
-    f.write(failures)
-    f.close()
+
+
+def calculate_scores(index: str, dataset_actual: pandas.DataFrame,
+                     dataset_diff: pandas.DataFrame) -> (float, float, int, int):
+    """
+    Calculate the success rate, average difference, total failures, and total excess.
+    :param index: The forecasting index in the datasets.
+    :param dataset_actual: The actual results.
+    :param dataset_diff: The differences the model had.
+    :return: The success rate, average difference, total failures, and total excess.
+    """
+    total = 0
+    successes = 0
+    failures = 0
+    excess = 0
+    # Loop through all possible entries.
+    entries = len(dataset_actual[index])
+    for j in range(entries):
+        # If this entry does not exist in the actual data, stop here.
+        if dataset_actual[index][j] < 0:
+            break
+        # Increment the total number of entries.
+        total += 1
+        # If the hospitalizations were met, this is a success.
+        if dataset_diff[index][j] >= 0:
+            successes += 1
+            # Check how much excess there was.
+            excess += dataset_diff[index][j]
+        else:
+            # Otherwise, it was a failure, so see by how much it failed.
+            failures -= dataset_diff[index][j]
+    return max(successes / total * 100, 0), dataset_diff[index].mean(), failures, excess, total
 
 
 def evaluate(dataset_actual: pandas.DataFrame, dataset_baseline: pandas.DataFrame,
@@ -628,56 +656,68 @@ def evaluate(dataset_actual: pandas.DataFrame, dataset_baseline: pandas.DataFram
     """
     # Compute the metrics for the baseline and LLM models.
     metrics("Baseline", dataset_baseline, dataset_actual)
-    metrics("LLM", dataset_llm, dataset_actual)
+    metrics("Full Model", dataset_llm, dataset_actual)
     # Get average scores for each model.
-    dataset_baseline_diff = pd.read_csv(os.path.join("Results", "Baseline Difference.csv"))
-    dataset_baseline_failures = pd.read_csv(os.path.join("Results", "Baseline Failures.csv"))
-    dataset_llm_diff = pd.read_csv(os.path.join("Results", "LLM Difference.csv"))
-    dataset_llm_failures = pd.read_csv(os.path.join("Results", "LLM Failures.csv"))
+    dataset_baseline_diff = pd.read_csv(os.path.join("Results", "Difference Baseline.csv"))
+    dataset_llm_diff = pd.read_csv(os.path.join("Results", "Difference Full Model.csv"))
     # Create the headers.
-    success_rate = "Forecast,Baseline,LLM,Improvement"
-    average_diff = "Forecast,Baseline,LLM"
+    success_rate = "Forecast,Baseline,Full Model,Improvement"
+    average_diff = "Forecast,Baseline,Full Model"
+    total_failures = "Forecast,Baseline,Full Model,Improvement"
+    total_excess = "Forecast,Baseline,Full Model,Improvement"
     # Loop through every column, calculating the metrics.
     columns_baseline = len(dataset_baseline.columns.tolist()) - 1
     columns_llm = len(dataset_llm.columns.tolist()) - 1
     columns = max(columns_baseline, columns_llm)
     for i in range(columns):
         index = f"{i + 1}"
-        total = dataset_actual[index].sum()
         # Baseline metrics.
         if i < columns_baseline:
-            baseline_success_rate = max((total - dataset_baseline_failures[index].sum()) / total * 100, 0)
-            baseline_average_diff = f"{dataset_baseline_diff[index].mean()}"
+            base_s, base_d, base_f, base_e = calculate_scores(index, dataset_actual, dataset_baseline_diff)
         else:
-            baseline_success_rate = ""
-            baseline_average_diff = ""
+            base_s = ""
+            base_d = ""
+            base_f = ""
+            base_e = ""
         # LLM metrics.
         if i < columns_llm:
-            llm_success_rate = max((total - dataset_llm_failures[index].sum()) / total * 100, 0)
-            llm_average_diff = f"{dataset_llm_diff[index].mean()}"
+            llm_s, llm_d, llm_f, llm_e = calculate_scores(index, dataset_actual, dataset_llm_diff)
         else:
-            llm_success_rate = ""
-            llm_average_diff = ""
+            llm_s = ""
+            llm_d = ""
+            llm_f = ""
+            llm_e = ""
         # Get the improvement that the LLM model had on the success rate.
-        if is_number(baseline_success_rate) and is_number(llm_success_rate):
-            success_rate_improvement = f"{llm_success_rate - baseline_success_rate}%"
-            baseline_success_rate = f"{baseline_success_rate}%"
-            llm_success_rate = f"{llm_success_rate}%"
+        if is_number(base_s) and is_number(llm_s):
+            improvement_s = f"{llm_s - base_s}%"
+            base_s = f"{base_s}%"
+            llm_s = f"{llm_s}%"
         else:
-            if is_number(baseline_success_rate):
-                baseline_success_rate = f"{baseline_success_rate}%"
-            if is_number(llm_success_rate):
-                llm_success_rate = f"{llm_success_rate}%"
-            success_rate_improvement = ""
+            if is_number(base_s):
+                base_s = f"{base_s}%"
+            if is_number(llm_s):
+                llm_s = f"{llm_s}%"
+            improvement_s = ""
+        # Get the improvement for the failures and excess.
+        improvement_f = llm_f - base_f if is_number(base_f) and is_number(llm_f) else ""
+        improvement_e = llm_e - base_e if is_number(base_e) and is_number(llm_e) else ""
         # Add to the data to be written.
-        success_rate += f"\n{index},{baseline_success_rate},{llm_success_rate},{success_rate_improvement}"
-        average_diff += f"\n{index},{baseline_average_diff},{llm_average_diff}"
+        success_rate += f"\n{index},{base_s},{llm_s},{improvement_s}"
+        average_diff += f"\n{index},{base_d},{llm_d}"
+        total_failures += f"\n{index},{base_f},{llm_f},{improvement_f}"
+        total_excess += f"\n{index},{base_e},{llm_e},{improvement_e}"
     # Save the data for the success rate and average differences.
     f = open(os.path.join("Results", "Success Rate.csv"), "w")
     f.write(success_rate)
     f.close()
     f = open(os.path.join("Results", "Average Difference.csv"), "w")
     f.write(average_diff)
+    f.close()
+    f = open(os.path.join("Results", "Total Failures.csv"), "w")
+    f.write(total_failures)
+    f.close()
+    f = open(os.path.join("Results", "Total Excess.csv"), "w")
+    f.write(total_excess)
     f.close()
     # Create plots for each of the forecasted periods.
     total = len(dataset_actual["Date"])
@@ -703,13 +743,16 @@ def evaluate(dataset_actual: pandas.DataFrame, dataset_baseline: pandas.DataFram
         if len(points_baseline) < 2:
             continue
         fig = plt.figure(figsize=(8, 5))
+        word = inflect.engine().number_to_words(i + 1)
+        week = "week" if i < 1 else f"weeks"
+        plt.title(f"Forecasting {word} {week}")
         plt.xlabel("Week")
-        plt.ylabel(f"COVID-19 hospitalizations in the next {'week' if i < 1 else f'{index} weeks'}")
+        plt.ylabel(f"COVID-19 hospitalizations in the next {week if i < 1 else f'{word} {week}'}")
         # Plot all three values.
         plt.plot(points_actual, color="red", label="Actual Hospitalizations")
         plt.plot(points_baseline, color="blue", label="Baseline Prediction")
         if len(points_llm) > 0:
-            plt.plot(points_llm, color="green", label="LLM Prediction")
+            plt.plot(points_llm, color="green", label="Full Model Prediction")
         plt.xlim(0, len(points_actual) - 1)
         bottom, top = plt.ylim()
         plt.ylim(0, top)
@@ -740,7 +783,7 @@ def update_articles(old: str, new: str) -> None:
         f.close()
 
 
-def main(forecast: int = 1) -> None:
+def main(forecast: int = 0) -> None:
     """
     Run all required code.
     :param forecast: How many weeks in advance should the LLM model forecast.
@@ -755,4 +798,4 @@ def main(forecast: int = 1) -> None:
 
 
 if __name__ == "__main__":
-    main(8)
+    main(12)

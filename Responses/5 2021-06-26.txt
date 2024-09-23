@@ -1,5 +1,5 @@
 Based on the provided articles, I would say that the following information would not be captured in this data:
  The specific number of hospitalizations in Ontario (mentioned in Article 6)
- The exact strategies used by other hospitals in the GTA to manage COVID-19 cases and conserve resources (similar to Brampton Civic Hospital's efforts mentioned in Article 7, but without specific details)
- The detailed breakdown of symptoms among different age groups or populations (beyond the general trend of mild symptoms reported in Article 9)
-These pieces of information are not explicitly stated in any of the articles provided.
+ The effectiveness of AstraZeneca vaccine against delta variant (mentioned in Article 5)
+ The exact percentage of COVID-19 cases in Ontario that are attributed to the delta variant (mentioned in Article 5, but only as a general statement)
+These pieces of information are not explicitly mentioned or quantified in the provided articles.
