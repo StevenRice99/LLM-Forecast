@@ -695,8 +695,8 @@ def evaluate(dataset_actual: pandas.DataFrame, dataset_baseline: pandas.DataFram
                 llm_s = f"{llm_s}%"
             improvement_s = ""
         # Get the improvement for the failures and excess.
-        improvement_f = base_f - llm_f if is_number(base_f) and is_number(llm_f) else ""
-        improvement_e = base_e - llm_e if is_number(base_e) and is_number(llm_e) else ""
+        improvement_f = f"{(base_f - llm_f) / base_f * 100}%" if is_number(base_f) and is_number(llm_f) else ""
+        improvement_e = f"{(base_e - llm_e) / base_e * 100}%" if is_number(base_e) and is_number(llm_e) else ""
         # Add to the data to be written.
         success_rate += f"\n{index},{base_s},{llm_s},{improvement_s}"
         average_diff += f"\n{index},{base_d},{llm_d}"
@@ -738,17 +738,17 @@ def evaluate(dataset_actual: pandas.DataFrame, dataset_baseline: pandas.DataFram
         # Configure the plot.
         if len(points_baseline) < 2:
             continue
-        fig = plt.figure(figsize=(8, 5))
+        fig = plt.figure(figsize=(5, 4))
         word = inflect.engine().number_to_words(i + 1)
         week = "week" if i < 1 else f"weeks"
         plt.title(f"Forecasting {word} {week}")
         plt.xlabel("Week")
         plt.ylabel(f"COVID-19 hospitalizations in the next {week if i < 1 else f'{word} {week}'}")
         # Plot all three values.
-        plt.plot(points_actual, color="red", label="Actual Hospitalizations")
-        plt.plot(points_baseline, color="blue", label="Baseline Prediction")
+        plt.plot(points_actual, color="red", label="Actual")
+        plt.plot(points_baseline, color="blue", label="Baseline")
         if len(points_llm) > 0:
-            plt.plot(points_llm, color="green", label="Full Model Prediction")
+            plt.plot(points_llm, color="green", label="Full Model")
         plt.xlim(0, len(points_actual) - 1)
         bottom, top = plt.ylim()
         plt.ylim(0, top)
