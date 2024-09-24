@@ -1,4 +1,4 @@
-Forecast,Baseline,Full Model
+Forecast,ARIMA,ARIMA + LLMs
 1,-2.33,68.32
 2,-5.88,79.77
 3,-11.48,122.86

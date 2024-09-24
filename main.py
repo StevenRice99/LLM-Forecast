@@ -668,10 +668,10 @@ def evaluate(dataset_actual: pandas.DataFrame, dataset_baseline: pandas.DataFram
     dataset_baseline_diff = pd.read_csv(os.path.join("Results", "Difference Baseline.csv"))
     dataset_llm_diff = pd.read_csv(os.path.join("Results", "Difference Full Model.csv"))
     # Create the headers.
-    success_rate = "Forecast,Baseline,Full Model,Improvement"
-    average_diff = "Forecast,Baseline,Full Model"
-    total_failures = "Forecast,Baseline,Full Model,Improvement"
-    total_excess = "Forecast,Baseline,Full Model,Improvement"
+    success_rate = "Forecast,ARIMA,ARIMA + LLMs,Improvement"
+    average_diff = "Forecast,ARIMA,ARIMA + LLMs"
+    total_failures = "Forecast,ARIMA,ARIMA + LLMs,Improvement"
+    total_excess = "Forecast,ARIMA,ARIMA + LLMs,Improvement"
     # Loop through every column, calculating the metrics.
     columns_baseline = len(dataset_baseline.columns.tolist()) - 1
     columns_llm = len(dataset_llm.columns.tolist()) - 1
@@ -759,9 +759,9 @@ def evaluate(dataset_actual: pandas.DataFrame, dataset_baseline: pandas.DataFram
         plt.ylabel(f"COVID-19 hospitalizations in the next {week if i < 1 else f'{word} {week}'}")
         # Plot all three values.
         plt.plot(points_actual, color="red", label="Actual")
-        plt.plot(points_baseline, color="blue", label="Baseline")
+        plt.plot(points_baseline, color="blue", label="ARIMA")
         if len(points_llm) > 0:
-            plt.plot(points_llm, color="green", label="Full Model")
+            plt.plot(points_llm, color="green", label="ARIMA + LLMs")
         plt.xlim(0, len(points_actual) - 1)
         bottom, top = plt.ylim()
         plt.ylim(0, top)

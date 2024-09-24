@@ -1,4 +1,4 @@
-Forecast,Baseline,Full Model,Improvement
+Forecast,ARIMA,ARIMA + LLMs,Improvement
 1,6920,4271,38.28%
 2,18846,12487,33.74%
 3,34926,25560,26.82%
