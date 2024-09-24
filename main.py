@@ -1,3 +1,4 @@
+import argparse
 import datetime
 import itertools
 import logging
@@ -642,14 +643,24 @@ def calculate_scores(index: str, dataset_actual: pandas.DataFrame,
 
 
 def evaluate(dataset_actual: pandas.DataFrame, dataset_baseline: pandas.DataFrame,
-             dataset_llm: pandas.DataFrame) -> None:
+             dataset_llm: pandas.DataFrame, width: float = 5, height: float = 4, decimals: int = 2) -> None:
     """
     Get the metrics for both the baseline and LLM models and plot the results.
     :param dataset_actual: The actual values for hospitalizations.
     :param dataset_baseline: The baseline analytical predictions.
     :param dataset_llm: The LLM predictions.
+    :param width: How wide figures should be.
+    :param height: How tall figures should be.
+    :param decimals: The many decimal spaces final results should be saved to.
     :return: Nothing.
     """
+    # Ensure values are valid.
+    if width <= 0:
+        width = 5
+    if height <= 0:
+        height = 4
+    if decimals < 0:
+        decimals = 0
     # Compute the metrics for the baseline and LLM models.
     metrics("Baseline", dataset_baseline, dataset_actual)
     metrics("Full Model", dataset_llm, dataset_actual)
@@ -685,9 +696,9 @@ def evaluate(dataset_actual: pandas.DataFrame, dataset_baseline: pandas.DataFram
             llm_e = ""
         # Get the improvement that the LLM model had on the success rate.
         if is_number(base_s) and is_number(llm_s):
-            improvement_s = f"{llm_s - base_s}%"
-            base_s = f"{base_s}%"
-            llm_s = f"{llm_s}%"
+            improvement_s = f"{llm_s - base_s:.{decimals}f}%"
+            base_s = f"{base_s:.{decimals}f}%"
+            llm_s = f"{llm_s:.{decimals}f}%"
         else:
             if is_number(base_s):
                 base_s = f"{base_s}%"
@@ -695,8 +706,8 @@ def evaluate(dataset_actual: pandas.DataFrame, dataset_baseline: pandas.DataFram
                 llm_s = f"{llm_s}%"
             improvement_s = ""
         # Get the improvement for the failures and excess.
-        improvement_f = f"{(base_f - llm_f) / base_f * 100}%" if is_number(base_f) and is_number(llm_f) else ""
-        improvement_e = f"{(base_e - llm_e) / base_e * 100}%" if is_number(base_e) and is_number(llm_e) else ""
+        improvement_f = f"{(base_f - llm_f) / base_f * 100:.{decimals}f}%" if is_number(base_f) and is_number(llm_f) else ""
+        improvement_e = f"{(base_e - llm_e) / base_e * 100:.{decimals}f}%" if is_number(base_e) and is_number(llm_e) else ""
         # Add to the data to be written.
         success_rate += f"\n{index},{base_s},{llm_s},{improvement_s}"
         average_diff += f"\n{index},{base_d},{llm_d}"
@@ -738,7 +749,7 @@ def evaluate(dataset_actual: pandas.DataFrame, dataset_baseline: pandas.DataFram
         # Configure the plot.
         if len(points_baseline) < 2:
             continue
-        fig = plt.figure(figsize=(5, 4))
+        fig = plt.figure(figsize=(width, height))
         word = inflect.engine().number_to_words(i + 1)
         week = "week" if i < 1 else f"weeks"
         plt.title(f"Forecasting {word} {week}")
@@ -779,10 +790,13 @@ def update_articles(old: str, new: str) -> None:
         f.close()
 
 
-def main(forecast: int = 0) -> None:
+def main(forecast: int = 0, width: float = 5, height: float = 4, decimals: int = 2) -> None:
     """
     Run all required code.
     :param forecast: How many weeks in advance should the LLM model forecast.
+    :param width: How wide figures should be.
+    :param height: How tall figures should be.
+    :param decimals: The many decimal spaces final results should be saved to.
     :return: Nothing.
     """
     # Get the initial dataset.
@@ -790,8 +804,14 @@ def main(forecast: int = 0) -> None:
     # Get the baseline results for the LLM model to use.
     dataset_baseline = baseline(dataset)
     # Evaluate both models and make plots.
-    evaluate(actual(dataset), dataset_baseline, llm(dataset, dataset_baseline, forecast))
+    evaluate(actual(dataset), dataset_baseline, llm(dataset, dataset_baseline, forecast), width, height, decimals)
 
 
 if __name__ == "__main__":
-    main(12)
+    parser = argparse.ArgumentParser(description="LLM-Forecast")
+    parser.add_argument("-f", "--forecast", type=int, default=12, help="Number of weeks to forecast.")
+    parser.add_argument("-w", "--width", type=float, default=5, help="The width of the figures.")
+    parser.add_argument("-l", "--height", type=float, default=4, help="The height of the figures.")
+    parser.add_argument("-d", "--decimals", type=int, default=2, help="The number of decimal spaces.")
+    args = parser.parse_args()
+    main(args.forecast, args.width, args.height, args.decimals)
