@@ -681,6 +681,7 @@ def evaluate(dataset_actual: pandas.DataFrame, dataset_baseline: pandas.DataFram
         # Baseline metrics.
         if i < columns_baseline:
             base_s, base_d, base_f, base_e = calculate_scores(index, dataset_actual, dataset_baseline_diff)
+            base_d = f"{base_d:.{decimals}f}"
         else:
             base_s = ""
             base_d = ""
@@ -689,6 +690,7 @@ def evaluate(dataset_actual: pandas.DataFrame, dataset_baseline: pandas.DataFram
         # LLM metrics.
         if i < columns_llm:
             llm_s, llm_d, llm_f, llm_e = calculate_scores(index, dataset_actual, dataset_llm_diff)
+            llm_d = f"{llm_d:.{decimals}f}"
         else:
             llm_s = ""
             llm_d = ""
