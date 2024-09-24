@@ -1,4 +1,5 @@
 gnews
+inflect
 lxml_html_clean
 matplotlib
 newspaper3k

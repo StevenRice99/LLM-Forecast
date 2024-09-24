@@ -8,7 +8,6 @@ import warnings
 from urllib.parse import urlparse
 
 import inflect
-import numpy as np
 import ollama
 import pandas
 import pandas as pd
@@ -20,7 +19,6 @@ from pandas import DataFrame
 from pandas.core.dtypes.inference import is_number
 from selenium import webdriver
 from selenium.webdriver.firefox.service import Service
-from sklearn.metrics import mean_squared_error
 from statsmodels.tools.sm_exceptions import ConvergenceWarning
 from statsmodels.tsa.arima.model import ARIMA
 from statsmodels.tsa.holtwinters import SimpleExpSmoothing
@@ -504,9 +502,7 @@ def baseline(dataset: pandas.DataFrame) -> pandas.DataFrame:
                     # Fit the ARIMA model.
                     model = ARIMA(history, order=pdq).fit()
                     # Get the score.
-                    predictions = model.predict(start=1, end=len(history) - 1, typ="levels")
-                    score = np.sqrt(mean_squared_error(history[1:], predictions))
-                    #score = model.aic()
+                    score = model.aic()
                     # If the score is lower, update the best model
                     if score < best_score:
                         best_score = score
@@ -532,8 +528,8 @@ def baseline(dataset: pandas.DataFrame) -> pandas.DataFrame:
                 # If this period cannot be forecast as it extends beyond the data, then list it as -1.
                 s += ",-1"
                 continue
-            # The prediction should not be lower than the previous instance.
-            forecast += max(0 if math.isnan(predictions[index]) else predictions[index], history[-1])
+            # Add the prediction.
+            forecast += 0 if math.isnan(predictions[index]) else predictions[index]
             s += f",{int(forecast)}"
     # Write to a CSV file.
     if not os.path.exists("Results"):

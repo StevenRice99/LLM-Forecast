@@ -1,7 +1,7 @@
 Here are the main points from each article:
  Article 1: 
  The COVID-19 pandemic had varying impacts on different non-SARS-CoV-2 respiratory viruses.
- Some viruses, such as rhinovirus/respiratory enterovirus, may have benefited from reduced competition with SARS-CoV-2 and increased genomic diversity to quickly increase and persist when NPIs were relaxed.
+ Some viruses, such as rhinovirus/respiratory enterovirus, may have benefited from relaxed NPIs due to their stability on surfaces and genomic diversity.
  Other viruses, like human coronavirus, human parainfluenza virus, and human metapneumovirus, experienced marked reductions in circulation at the onset of the pandemic but rebounded as NPIs were lifted.
  Article 2: 
  Health officials are concerned about recent upward trends in COVID-19 cases and hospitalizations in Canada.

@@ -19,8 +19,4 @@ Here are the key points from the articles:
  COVID-19 hospitalizations are down compared to the initial wave, but a second wave could be deadly.
  A study found that SARS-CoV-2 can survive on non-porous surfaces for up to 28 days at a temperature of 20°C.
  However, the virus dies significantly faster in hotter temperatures and is reduced by 50% (half-life) within 2.74 days on paper bank notes and 1.68 days on cotton.
- Key points 
- COVID-19 cases are rising globally, with many countries reporting record numbers of new infections and deaths.
- Blood type O may be less vulnerable to COVID-19 and have a reduced likelihood of getting severely ill.
- Portable operating rooms and ICUs can increase patient treatment capacity and help avoid procedure cancellations.
- Surface transmission of COVID-19 is still a rare occurrence, but temperature can influence its spread.
+Overall, these articles highlight the ongoing challenges posed by COVID-19 around the world, including record-breaking case numbers, inadequate testing and support for healthcare systems, and the potential for a second wave of infections in Canada.

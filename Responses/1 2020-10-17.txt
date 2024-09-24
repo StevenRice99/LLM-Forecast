@@ -5,22 +5,22 @@ Here are the key points from the articles:
  Germany confirmed more than 7,000 new coronavirus infections for the first time, its second consecutive daily record.
  The Czech Republic set a new one-day record for COVID-19 cases for the second straight day, with 9,721 new cases reported on Thursday.
  Article 2 
- The World Health Organization (WHO) said that European 'hot spots' are driving an increase in COVID-19 cases, with local hotspots being the main force behind the rise.
- President Andres Manuel Lopez Obrador said he will take the COVID-19 vaccine in public if doctors approve the treatment for him.
- Article 3 
- The number of confirmed coronavirus cases worldwide has reached 141,804, with 3,217 deaths.
  Poland is on the brink of disaster due to inadequate testing and lack of support for doctors, according to immunologist Pawel Grzesiowski.
- Iran reported its highest single-day record for new deaths (279) and infections (4,830) from the coronavirus.
+ Iran has reported its highest single-day record for new deaths (279) and infections (4,830) from the coronavirus.
+ The country has imposed a travel ban on five major cities, including Tehran and Mashhad, ahead of an important religious holiday.
+ Japan conducted a supercomputer study that found humidity can significantly affect the dispersion of virus particles.
+ Article 3 
+ Blood type O may be less vulnerable to COVID-19 and have a reduced likelihood of getting severely ill, according to new studies.
+ A Danish study found 38.4% with blood type O tested positive for COVID-19, compared to other studies that showed higher rates of severe illness in patients with blood types A or AB.
  Article 4 
- A supercomputer study found that humidity can significantly affect the dispersion of virus particles, suggesting that humidifiers may help limit infections in dry indoor conditions during winter months.
- China has conducted over 4.2 million tests in Qingdao, with no new cases reported among almost two million sets of results received.
+ Fero International's portable operating rooms and ICUs can increase patient treatment capacity and help avoid procedure cancellations.
+ The units have controlled air pressure and filtered air to protect patients and prevent infection.
  Article 5 
- Blood type O may be less vulnerable to COVID-19 and have a reduced likelihood of getting severely ill, according to studies from Denmark and Canada.
- More research is needed to understand the mechanism behind this link.
- Article 6 
- A Canadian company has developed portable operating rooms and ICUs that can increase patient treatment capacity and help avoid procedure cancellations.
  COVID-19 hospitalizations are down compared to the initial wave, but a second wave could be deadly.
- Article 7 
- The study found that SARS-CoV-2 can survive on non-porous surfaces for up to 28 days at a temperature of 20°C.
- However, the virus dies significantly faster in hotter temperatures and is reduced by 50% (half-life) within 2.74 days on paper bank notes and 1.68 days on cotton.
-Overall, these articles highlight the ongoing pandemic situation around the world, with many countries experiencing a resurgence of cases and deaths. They also touch on various research studies and innovations related to COVID-19, including the potential link between blood type and disease severity, portable operating rooms, and the survivability of the virus on surfaces.
+ A study found that SARS-CoV-2 can survive on non-porous surfaces for up to 28 days at a temperature of 20°C.
+ Temperature plays a huge factor in the virus' survivability, with colder temperatures allowing it to last longer on surfaces.
+ Key points 
+ COVID-19 cases are rising globally, with many countries reporting record numbers of new infections and deaths.
+ Blood type O may be less vulnerable to COVID-19 and have a reduced likelihood of getting severely ill.
+ Portable operating rooms and ICUs can increase patient treatment capacity and help avoid procedure cancellations.
+ Surface transmission of COVID-19 is still a rare occurrence, but temperature can influence its spread.

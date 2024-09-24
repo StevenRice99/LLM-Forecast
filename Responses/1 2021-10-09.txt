@@ -1,30 +1,29 @@
 Here are the articles related to COVID-19:
 1. Exposure sites : 
- - Subway (186 King St., Miramichi) on Sept. 21 between 7 a.m. and 3 p.m.
- - Guillevin International (318 Dalton Ave., Miramichi) on Sept. 22, 23, and 24 between 7:30 a.m. and 5 p.m.
-2. Alberta COVID-19 situation : 
+ - Subway (186 King St., Miramichi) between 7 a.m. and 3 p.m.
+ - Guillevin International (318 Dalton Ave., Miramichi) between 7:30 a.m. and 5 p.m.
+2. Alberta COVID-19 situation :
  - Alberta reported 663 new COVID-19 cases on Tuesday.
  - There were 1,094 patients in hospital with the disease on Tuesday, including 252 in intensive care.
  - ICU capacity was at 82% as of Tuesday.
-3. Delta variant risks : 
+3. Delta variant risk :
  - The delta variant causes a 108% increased risk for hospitalization, 235% increased risk for ICU admission, and 133% increased risk for death compared to the original virus strain.
  - Unvaccinated individuals are at higher risk of severe disease and death from COVID-19.
-4. WECHU updates : 
+4. WECHU updates :
  - 100 new COVID-19 cases reported in Windsor-Essex
  - 15 people currently hospitalized with COVID-19
  - 278 active cases in the region
  - 25 outbreaks reported (6 workplaces, 6 schools, and 13 community settings)
  - New outbreak declared at Downtown Mission, St. Clair College, and The Salvation Army
-5. Northern B.C. situation : 
+5. Northern B.C. situation :
  - High number of new COVID-19 cases (more than double the provincial average) and hospitalizations per 100,000 people (more than four times the provincial average) in Northern British Columbia.
  - 79 people hospitalized for COVID-19 in northern B.C., setting a new record for the region.
  - Unvaccinated individuals are 25 times more likely to be hospitalized than those who are fully vaccinated.
-6. Military nurses deployment : 
+6. Military nurses deployment :
  - Military medical personnel and Canadian Red Cross staff arriving to help ease strain on hospitals
  - 1,066 Albertans being treated in hospital for COVID-19 (as of Friday)
  - 263 patients in ICU
  - High number of active cases (20,215) and new cases (1,630) reported on Friday
-7. Alberta's cautionary tale : 
- - Experts warn that Alberta is on a "really bad" trajectory, with hospitalizations and deaths rising due to unvaccinated pockets of populations.
- - The healthcare system is already stretched beyond capacity, with ICUs at risk of being overwhelmed.
- - Measures such as vaccine passports and incentives for vaccination have had little impact on increasing vaccination rates.
+7. Alberta's cautionary tale :
+ - The article discusses the COVID-19 pandemic situation in Alberta and Saskatchewan, two provinces in Canada's Prairie region.
+ - Experts warn that both provinces are on a "really bad" trajectory, with hospitalizations and deaths rising due to unvaccinated pockets of populations.
