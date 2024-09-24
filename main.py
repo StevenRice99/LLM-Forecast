@@ -703,9 +703,9 @@ def evaluate(dataset_actual: pandas.DataFrame, dataset_baseline: pandas.DataFram
             llm_s = f"{llm_s:.{decimals}f}%"
         else:
             if is_number(base_s):
-                base_s = f"{base_s}%"
+                base_s = f"{base_s:.{decimals}f}%"
             if is_number(llm_s):
-                llm_s = f"{llm_s}%"
+                llm_s = f"{llm_s:.{decimals}f}%"
             improvement_s = ""
         # Get the improvement for the failures and excess.
         improvement_f = f"{(base_f - llm_f) / base_f * 100:.{decimals}f}%" if is_number(base_f) and is_number(llm_f) else ""
