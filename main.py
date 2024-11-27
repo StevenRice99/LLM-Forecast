@@ -23,6 +23,7 @@ from pandas import DataFrame
 from pandas.core.dtypes.inference import is_number
 from selenium import webdriver
 from selenium.webdriver.firefox.service import Service
+from sklearn.metrics import mean_absolute_error
 from statsmodels.tools.sm_exceptions import ConvergenceWarning
 from statsmodels.tsa.arima.model import ARIMA
 from statsmodels.tsa.holtwinters import SimpleExpSmoothing
@@ -669,13 +670,13 @@ def wis(true: list, pred: list, z_score: float = 1.96, alpha: float = 0.05) -> f
 
 
 def calculate_scores(index: str, dataset_actual: pandas.DataFrame,
-                     dataset_diff: pandas.DataFrame) -> (float, float, int, int, float):
+                     dataset_diff: pandas.DataFrame) -> (float, float, int, int, float, float):
     """
     Calculate the success rate, average difference, total failures, and total excess.
     :param index: The forecasting index in the datasets.
     :param dataset_actual: The actual results.
     :param dataset_diff: The differences the model had.
-    :return: The success rate, average difference, total failures, total excess, and WIS.
+    :return: The success rate, average difference, total failures, total excess, WIS, and MAE.
     """
     total = 0
     successes = 0
@@ -703,7 +704,8 @@ def calculate_scores(index: str, dataset_actual: pandas.DataFrame,
         else:
             # Otherwise, it was a failure, so see by how much it failed.
             failures -= dataset_diff[index][i]
-    return max(successes / total * 100, 0), dataset_diff[index].mean(), failures, excess, wis(true, pred)
+    return (max(successes / total * 100, 0), dataset_diff[index].mean(), failures, excess, wis(true, pred),
+            mean_absolute_error(true, pred))
 
 
 def evaluate(dataset_actual: pandas.DataFrame, dataset_baseline: pandas.DataFrame,
@@ -737,6 +739,7 @@ def evaluate(dataset_actual: pandas.DataFrame, dataset_baseline: pandas.DataFram
     total_failures = "Forecast,ARIMA,ARIMA + LLMs,Improvement"
     total_excess = "Forecast,ARIMA,ARIMA + LLMs,Improvement"
     wis_scores = "Forecast,ARIMA,ARIMA + LLMs,Improvement"
+    mae_scores = "Forecast,ARIMA,ARIMA + LLMs,Improvement"
     # Loop through every column, calculating the metrics.
     columns_baseline = len(dataset_baseline.columns.tolist()) - 1
     columns_llm = len(dataset_llm.columns.tolist()) - 1
@@ -745,7 +748,8 @@ def evaluate(dataset_actual: pandas.DataFrame, dataset_baseline: pandas.DataFram
         index = f"{i + 1}"
         # Baseline metrics.
         if i < columns_baseline:
-            base_s, base_d, base_f, base_e, base_wis = calculate_scores(index, dataset_actual, dataset_baseline_diff)
+            base_s, base_d, base_f, base_e, base_wis, base_mae = calculate_scores(index, dataset_actual,
+                                                                                  dataset_baseline_diff)
             base_d = f"{base_d:.{decimals}f}"
         else:
             base_s = ""
@@ -753,9 +757,10 @@ def evaluate(dataset_actual: pandas.DataFrame, dataset_baseline: pandas.DataFram
             base_f = ""
             base_e = ""
             base_wis = ""
+            base_mae = ""
         # LLM metrics.
         if i < columns_llm:
-            llm_s, llm_d, llm_f, llm_e, llm_wis = calculate_scores(index, dataset_actual, dataset_llm_diff)
+            llm_s, llm_d, llm_f, llm_e, llm_wis, llm_mae = calculate_scores(index, dataset_actual, dataset_llm_diff)
             llm_d = f"{llm_d:.{decimals}f}"
         else:
             llm_s = ""
@@ -763,6 +768,7 @@ def evaluate(dataset_actual: pandas.DataFrame, dataset_baseline: pandas.DataFram
             llm_f = ""
             llm_e = ""
             llm_wis = ""
+            llm_mae = ""
         # Get the improvement that the LLM model had on the success rate.
         if is_number(base_s) and is_number(llm_s):
             improvement_s = f"{llm_s - base_s:.{decimals}f}%"
@@ -774,10 +780,16 @@ def evaluate(dataset_actual: pandas.DataFrame, dataset_baseline: pandas.DataFram
             if is_number(llm_s):
                 llm_s = f"{llm_s:.{decimals}f}%"
             improvement_s = ""
+        # Get the WIS improvement.
         if is_number(base_wis) and is_number(llm_wis):
             improvement_wis = f"{(base_wis - llm_wis) / base_wis * 100:.{decimals}f}%"
         else:
             improvement_wis = ""
+        # Get the MAE improvement.
+        if is_number(base_mae) and is_number(llm_mae):
+            improvement_mae = f"{(base_mae - llm_mae) / base_wis * 100:.{decimals}f}%"
+        else:
+            improvement_mae = ""
         # Get the improvement for the failures and excess.
         improvement_f = f"{(base_f - llm_f) / base_f * 100:.{decimals}f}%" if is_number(base_f) and is_number(llm_f) else ""
         improvement_e = f"{(base_e - llm_e) / base_e * 100:.{decimals}f}%" if is_number(base_e) and is_number(llm_e) else ""
@@ -787,6 +799,7 @@ def evaluate(dataset_actual: pandas.DataFrame, dataset_baseline: pandas.DataFram
         total_failures += f"\n{index},{base_f},{llm_f},{improvement_f}"
         total_excess += f"\n{index},{base_e},{llm_e},{improvement_e}"
         wis_scores += f"\n{index},{base_wis},{llm_wis},{improvement_wis}"
+        mae_scores += f"\n{index},{base_mae},{llm_mae},{improvement_mae}"
     # Save the data for the success rate and average differences.
     f = open(os.path.join("Results", "Success Rate.csv"), "w")
     f.write(success_rate)
@@ -802,6 +815,9 @@ def evaluate(dataset_actual: pandas.DataFrame, dataset_baseline: pandas.DataFram
     f.close()
     f = open(os.path.join("Results", "WIS.csv"), "w")
     f.write(wis_scores)
+    f.close()
+    f = open(os.path.join("Results", "MAE.csv"), "w")
+    f.write(mae_scores)
     f.close()
     # Create plots for each of the forecasted periods.
     total = len(dataset_actual["Date"])
