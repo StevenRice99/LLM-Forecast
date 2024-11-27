@@ -14,8 +14,6 @@ import ollama
 import pandas
 import pandas as pd
 import requests
-import scores
-import xarray as xr
 from gnews import GNews
 from matplotlib import pyplot as plt, pyplot
 from newspaper import Article

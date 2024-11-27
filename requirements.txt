@@ -12,5 +12,3 @@ scipy
 selenium
 statsmodels
 webdriver-manager
-scores
-xarray
