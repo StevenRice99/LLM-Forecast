@@ -9,3 +9,6 @@ venv
 
 # VS Code Cache
 .vscode
+
+# Unused.
+.cadence

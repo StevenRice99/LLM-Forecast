@@ -9,10 +9,13 @@ import warnings
 from urllib.parse import urlparse
 
 import inflect
+import numpy as np
 import ollama
 import pandas
 import pandas as pd
 import requests
+import scores
+import xarray as xr
 from gnews import GNews
 from matplotlib import pyplot as plt, pyplot
 from newspaper import Article
@@ -610,36 +613,97 @@ def metrics(title: str, dataset_results: pandas.DataFrame, dataset_actual: panda
     f.close()
 
 
+def interval_score(true: float, lower: float, upper: float, alpha: float = 0.05) -> float:
+    """
+    Compute the interval score for a single prediction interval.
+    :param true: A true value.
+    :param lower: A lower value.
+    :param upper: An upper value.
+    :param alpha: The alpha factor.
+    :return: The interval score for this instance.
+    """
+    if true < lower:
+        return (upper - lower) + (2 / alpha) * (lower - true)
+    elif true > upper:
+        return (upper - lower) + (2 / alpha) * (true - upper)
+    else:
+        return upper - lower
+
+
+def wis(true: list, pred: list, z_score: float = 1.96, alpha: float = 0.05) -> float:
+    """
+    Calculate the WIS.
+    :param true: The true values.
+    :param pred: The predicted values.
+    :param z_score: Z-score for the desired confidence level which by default is 95%.
+    :param alpha: The alpha factor.
+    :return: The WIS.
+    """
+    # Ensure values are valid.
+    a = len(true)
+    b = len(pred)
+    if a < 1 or b < 1 or a != b:
+        return 0
+    # Ensure values are numpy arrays.
+    true = np.array(true)
+    pred = np.array(pred)
+    # Calculate residuals.
+    residuals = true - pred
+    # Estimate standard deviation of residuals.
+    std_dev = np.std(residuals)
+    # Calculate margins of error.
+    margin_of_error = z_score * std_dev
+    # Generate prediction intervals.
+    lower_bounds = pred - margin_of_error
+    upper_bounds = pred + margin_of_error
+    # Create DataArrays for true values and prediction intervals.
+    observed = xr.DataArray(true, dims="time")
+    lower = xr.DataArray(lower_bounds, dims="time")
+    upper = xr.DataArray(upper_bounds, dims="time")
+    # Calculate the interval score
+    interval_scores = [
+        interval_score(obs, low, up, alpha)
+        for obs, low, up in zip(true, lower_bounds, upper_bounds)
+    ]
+    return float(np.mean(interval_scores))
+
+
 def calculate_scores(index: str, dataset_actual: pandas.DataFrame,
-                     dataset_diff: pandas.DataFrame) -> (float, float, int, int):
+                     dataset_diff: pandas.DataFrame) -> (float, float, int, int, float):
     """
     Calculate the success rate, average difference, total failures, and total excess.
     :param index: The forecasting index in the datasets.
     :param dataset_actual: The actual results.
     :param dataset_diff: The differences the model had.
-    :return: The success rate, average difference, total failures, and total excess.
+    :return: The success rate, average difference, total failures, total excess, and WIS.
     """
     total = 0
     successes = 0
     failures = 0
     excess = 0
+    # Build lists to store values we will be scoring.
+    true = []
+    pred = []
     # Loop through all possible entries.
     entries = len(dataset_actual[index])
-    for j in range(entries):
+    for i in range(entries):
         # If this entry does not exist in the actual data, stop here.
-        if dataset_actual[index][j] < 0:
+        if dataset_actual[index][i] < 0:
             break
         # Increment the total number of entries.
         total += 1
+        # Append values for later calculation.
+        true.append(dataset_actual[index][i])
+        pred.append(dataset_actual[index][i] + dataset_diff[index][i])
         # If the hospitalizations were met, this is a success.
-        if dataset_diff[index][j] >= 0:
+        if dataset_diff[index][i] >= 0:
             successes += 1
             # Check how much excess there was.
-            excess += dataset_diff[index][j]
+            excess += dataset_diff[index][i]
         else:
             # Otherwise, it was a failure, so see by how much it failed.
-            failures -= dataset_diff[index][j]
-    return max(successes / total * 100, 0), dataset_diff[index].mean(), failures, excess
+            failures -= dataset_diff[index][i]
+    return max(successes / total * 100, 0), dataset_diff[index].mean(), failures, excess, wis(true, pred)
 
 
 def evaluate(dataset_actual: pandas.DataFrame, dataset_baseline: pandas.DataFrame,
@@ -672,6 +736,7 @@ def evaluate(dataset_actual: pandas.DataFrame, dataset_baseline: pandas.DataFram
     average_diff = "Forecast,ARIMA,ARIMA + LLMs"
     total_failures = "Forecast,ARIMA,ARIMA + LLMs,Improvement"
     total_excess = "Forecast,ARIMA,ARIMA + LLMs,Improvement"
+    wis_scores = "Forecast,ARIMA,ARIMA + LLMs,Improvement"
     # Loop through every column, calculating the metrics.
     columns_baseline = len(dataset_baseline.columns.tolist()) - 1
     columns_llm = len(dataset_llm.columns.tolist()) - 1
@@ -680,22 +745,24 @@ def evaluate(dataset_actual: pandas.DataFrame, dataset_baseline: pandas.DataFram
         index = f"{i + 1}"
         # Baseline metrics.
         if i < columns_baseline:
-            base_s, base_d, base_f, base_e = calculate_scores(index, dataset_actual, dataset_baseline_diff)
+            base_s, base_d, base_f, base_e, base_wis = calculate_scores(index, dataset_actual, dataset_baseline_diff)
             base_d = f"{base_d:.{decimals}f}"
         else:
             base_s = ""
             base_d = ""
             base_f = ""
             base_e = ""
+            base_wis = ""
         # LLM metrics.
         if i < columns_llm:
-            llm_s, llm_d, llm_f, llm_e = calculate_scores(index, dataset_actual, dataset_llm_diff)
+            llm_s, llm_d, llm_f, llm_e, llm_wis = calculate_scores(index, dataset_actual, dataset_llm_diff)
             llm_d = f"{llm_d:.{decimals}f}"
         else:
             llm_s = ""
             llm_d = ""
             llm_f = ""
             llm_e = ""
+            llm_wis = ""
         # Get the improvement that the LLM model had on the success rate.
         if is_number(base_s) and is_number(llm_s):
             improvement_s = f"{llm_s - base_s:.{decimals}f}%"
@@ -707,6 +774,10 @@ def evaluate(dataset_actual: pandas.DataFrame, dataset_baseline: pandas.DataFram
             if is_number(llm_s):
                 llm_s = f"{llm_s:.{decimals}f}%"
             improvement_s = ""
+        if is_number(base_wis) and is_number(llm_wis):
+            improvement_wis = f"{(base_wis - llm_wis) / base_wis * 100:.{decimals}f}%"
+        else:
+            improvement_wis = ""
         # Get the improvement for the failures and excess.
         improvement_f = f"{(base_f - llm_f) / base_f * 100:.{decimals}f}%" if is_number(base_f) and is_number(llm_f) else ""
         improvement_e = f"{(base_e - llm_e) / base_e * 100:.{decimals}f}%" if is_number(base_e) and is_number(llm_e) else ""
@@ -715,6 +786,7 @@ def evaluate(dataset_actual: pandas.DataFrame, dataset_baseline: pandas.DataFram
         average_diff += f"\n{index},{base_d},{llm_d}"
         total_failures += f"\n{index},{base_f},{llm_f},{improvement_f}"
         total_excess += f"\n{index},{base_e},{llm_e},{improvement_e}"
+        wis_scores += f"\n{index},{base_wis},{llm_wis},{improvement_wis}"
     # Save the data for the success rate and average differences.
     f = open(os.path.join("Results", "Success Rate.csv"), "w")
     f.write(success_rate)
@@ -727,6 +799,9 @@ def evaluate(dataset_actual: pandas.DataFrame, dataset_baseline: pandas.DataFram
     f.close()
     f = open(os.path.join("Results", "Total Excess.csv"), "w")
     f.write(total_excess)
+    f.close()
+    f = open(os.path.join("Results", "WIS.csv"), "w")
+    f.write(wis_scores)
     f.close()
     # Create plots for each of the forecasted periods.
     total = len(dataset_actual["Date"])

@@ -8,6 +8,9 @@ ollama
 pandas
 requests
 scikit-learn
+scipy
 selenium
 statsmodels
 webdriver-manager
+scores
+xarray
