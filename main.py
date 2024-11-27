@@ -21,6 +21,7 @@ from matplotlib import pyplot as plt, pyplot
 from newspaper import Article
 from pandas import DataFrame
 from pandas.core.dtypes.inference import is_number
+from scipy.stats import norm
 from selenium import webdriver
 from selenium.webdriver.firefox.service import Service
 from sklearn.metrics import mean_absolute_error
@@ -631,52 +632,15 @@ def interval_score(true: float, lower: float, upper: float, alpha: float = 0.05)
         return upper - lower
 
 
-def wis(true: list, pred: list, z_score: float = 1.96, alpha: float = 0.05) -> float:
-    """
-    Calculate the WIS.
-    :param true: The true values.
-    :param pred: The predicted values.
-    :param z_score: Z-score for the desired confidence level which by default is 95%.
-    :param alpha: The alpha factor.
-    :return: The WIS.
-    """
-    # Ensure values are valid.
-    a = len(true)
-    b = len(pred)
-    if a < 1 or b < 1 or a != b:
-        return 0
-    # Ensure values are numpy arrays.
-    true = np.array(true)
-    pred = np.array(pred)
-    # Calculate residuals.
-    residuals = true - pred
-    # Estimate standard deviation of residuals.
-    std_dev = np.std(residuals)
-    # Calculate margins of error.
-    margin_of_error = z_score * std_dev
-    # Generate prediction intervals.
-    lower_bounds = pred - margin_of_error
-    upper_bounds = pred + margin_of_error
-    # Create DataArrays for true values and prediction intervals.
-    observed = xr.DataArray(true, dims="time")
-    lower = xr.DataArray(lower_bounds, dims="time")
-    upper = xr.DataArray(upper_bounds, dims="time")
-    # Calculate the interval score
-    interval_scores = [
-        interval_score(obs, low, up, alpha)
-        for obs, low, up in zip(true, lower_bounds, upper_bounds)
-    ]
-    return float(np.mean(interval_scores))
-
-
 def calculate_scores(index: str, dataset_actual: pandas.DataFrame,
-                     dataset_diff: pandas.DataFrame) -> (float, float, int, int, float, float):
+                     dataset_diff: pandas.DataFrame, alpha: float = 0.95) -> (float, float, int, int, float, float):
     """
     Calculate the success rate, average difference, total failures, and total excess.
     :param index: The forecasting index in the datasets.
     :param dataset_actual: The actual results.
     :param dataset_diff: The differences the model had.
-    :return: The success rate, average difference, total failures, total excess, WIS, and MAE.
+    :param alpha: The alpha factor for the desired confidence level which by default is 95%.
+    :return: The success rate, average difference, total failures, total excess, WIS, MAE, and coverage.
     """
     total = 0
     successes = 0
@@ -704,12 +668,31 @@ def calculate_scores(index: str, dataset_actual: pandas.DataFrame,
         else:
             # Otherwise, it was a failure, so see by how much it failed.
             failures -= dataset_diff[index][i]
-    return (max(successes / total * 100, 0), dataset_diff[index].mean(), failures, excess, wis(true, pred),
-            mean_absolute_error(true, pred))
+    # Ensure values are numpy arrays.
+    true = np.array(true)
+    pred = np.array(pred)
+    # Calculate residuals.
+    residuals = true - pred
+    # Estimate mean standard deviation of residuals.
+    mean_residual = np.mean(residuals)
+    std_residual = np.std(residuals)
+    # Get the z-score.
+    z_score = norm.ppf((1 + alpha) / 2)
+    # Generate prediction intervals.
+    lower = [p + mean_residual - z_score * std_residual for p in pred]
+    upper = [p + mean_residual + z_score * std_residual for p in pred]
+    # Calculate the weighted interval score.
+    wis = np.mean([interval_score(obs, low, up, 1 - alpha) for obs, low, up in zip(true, lower, upper)])
+    # Calculate the coverage score.
+    within_interval = [l <= t <= u for t, l, u in zip(true, lower, upper)]
+    coverage = sum(within_interval) / len(true)
+    return (max(successes / total * 100, 0), dataset_diff[index].mean(), failures, excess, wis,
+            mean_absolute_error(true, pred), coverage)
 
 
 def evaluate(dataset_actual: pandas.DataFrame, dataset_baseline: pandas.DataFrame,
-             dataset_llm: pandas.DataFrame, width: float = 5, height: float = 4, decimals: int = 2) -> None:
+             dataset_llm: pandas.DataFrame, width: float = 5, height: float = 4, decimals: int = 2,
+             alpha: float = 0.95) -> None:
     """
     Get the metrics for both the baseline and LLM models and plot the results.
     :param dataset_actual: The actual values for hospitalizations.
@@ -718,6 +701,7 @@ def evaluate(dataset_actual: pandas.DataFrame, dataset_baseline: pandas.DataFram
     :param width: How wide figures should be.
     :param height: How tall figures should be.
     :param decimals: The many decimal spaces final results should be saved to.
+    :param alpha: The alpha factor for the desired confidence level which by default is 95%.
     :return: Nothing.
     """
     # Ensure values are valid.
@@ -738,8 +722,9 @@ def evaluate(dataset_actual: pandas.DataFrame, dataset_baseline: pandas.DataFram
     average_diff = "Forecast,ARIMA,ARIMA + LLMs"
     total_failures = "Forecast,ARIMA,ARIMA + LLMs,Improvement"
     total_excess = "Forecast,ARIMA,ARIMA + LLMs,Improvement"
-    wis_scores = "Forecast,ARIMA,ARIMA + LLMs,Improvement"
-    mae_scores = "Forecast,ARIMA,ARIMA + LLMs,Improvement"
+    wis = "Forecast,ARIMA,ARIMA + LLMs,Improvement"
+    mae = "Forecast,ARIMA,ARIMA + LLMs,Improvement"
+    coverage = "Forecast,ARIMA,ARIMA + LLMs,Improvement"
     # Loop through every column, calculating the metrics.
     columns_baseline = len(dataset_baseline.columns.tolist()) - 1
     columns_llm = len(dataset_llm.columns.tolist()) - 1
@@ -748,8 +733,9 @@ def evaluate(dataset_actual: pandas.DataFrame, dataset_baseline: pandas.DataFram
         index = f"{i + 1}"
         # Baseline metrics.
         if i < columns_baseline:
-            base_s, base_d, base_f, base_e, base_wis, base_mae = calculate_scores(index, dataset_actual,
-                                                                                  dataset_baseline_diff)
+            base_s, base_d, base_f, base_e, base_wis, base_mae, base_coverage = calculate_scores(index, dataset_actual,
+                                                                                                 dataset_baseline_diff,
+                                                                                                 alpha)
             base_d = f"{base_d:.{decimals}f}"
         else:
             base_s = ""
@@ -758,9 +744,11 @@ def evaluate(dataset_actual: pandas.DataFrame, dataset_baseline: pandas.DataFram
             base_e = ""
             base_wis = ""
             base_mae = ""
+            base_coverage = ""
         # LLM metrics.
         if i < columns_llm:
-            llm_s, llm_d, llm_f, llm_e, llm_wis, llm_mae = calculate_scores(index, dataset_actual, dataset_llm_diff)
+            llm_s, llm_d, llm_f, llm_e, llm_wis, llm_mae, llm_coverage = calculate_scores(index, dataset_actual,
+                                                                                          dataset_llm_diff, alpha)
             llm_d = f"{llm_d:.{decimals}f}"
         else:
             llm_s = ""
@@ -769,6 +757,7 @@ def evaluate(dataset_actual: pandas.DataFrame, dataset_baseline: pandas.DataFram
             llm_e = ""
             llm_wis = ""
             llm_mae = ""
+            llm_coverage = ""
         # Get the improvement that the LLM model had on the success rate.
         if is_number(base_s) and is_number(llm_s):
             improvement_s = f"{llm_s - base_s:.{decimals}f}%"
@@ -783,13 +772,36 @@ def evaluate(dataset_actual: pandas.DataFrame, dataset_baseline: pandas.DataFram
         # Get the WIS improvement.
         if is_number(base_wis) and is_number(llm_wis):
             improvement_wis = f"{(base_wis - llm_wis) / base_wis * 100:.{decimals}f}%"
+            base_wis = f"{base_wis:.{decimals}f}"
+            llm_wis = f"{llm_wis:.{decimals}f}"
         else:
+            if is_number(base_wis):
+                base_wis = f"{base_wis:.{decimals}f}"
+            if is_number(llm_wis):
+                llm_wis = f"{llm_wis:.{decimals}f}"
             improvement_wis = ""
         # Get the MAE improvement.
         if is_number(base_mae) and is_number(llm_mae):
-            improvement_mae = f"{(base_mae - llm_mae) / base_wis * 100:.{decimals}f}%"
+            improvement_mae = f"{(base_mae - llm_mae) / base_mae * 100:.{decimals}f}%"
+            base_mae = f"{base_mae:.{decimals}f}"
+            llm_mae = f"{llm_mae:.{decimals}f}"
         else:
+            if is_number(base_mae):
+                base_mae = f"{base_mae:.{decimals}f}"
+            if is_number(llm_mae):
+                llm_mae = f"{llm_mae:.{decimals}f}"
             improvement_mae = ""
+        # Get the coverage improvement.
+        if is_number(base_coverage) and is_number(llm_coverage):
+            improvement_coverage = f"{(base_coverage - llm_coverage) / base_coverage * 100:.{decimals}f}%"
+            base_coverage = f"{base_coverage * 100:.{decimals}f}%"
+            llm_coverage = f"{llm_coverage * 100:.{decimals}f}%"
+        else:
+            if is_number(base_coverage):
+                base_coverage = f"{base_coverage * 100:.{decimals}f}%"
+            if is_number(llm_coverage):
+                llm_coverage = f"{llm_coverage * 100:.{decimals}f}%"
+            improvement_coverage = ""
         # Get the improvement for the failures and excess.
         improvement_f = f"{(base_f - llm_f) / base_f * 100:.{decimals}f}%" if is_number(base_f) and is_number(llm_f) else ""
         improvement_e = f"{(base_e - llm_e) / base_e * 100:.{decimals}f}%" if is_number(base_e) and is_number(llm_e) else ""
@@ -798,8 +810,9 @@ def evaluate(dataset_actual: pandas.DataFrame, dataset_baseline: pandas.DataFram
         average_diff += f"\n{index},{base_d},{llm_d}"
         total_failures += f"\n{index},{base_f},{llm_f},{improvement_f}"
         total_excess += f"\n{index},{base_e},{llm_e},{improvement_e}"
-        wis_scores += f"\n{index},{base_wis},{llm_wis},{improvement_wis}"
-        mae_scores += f"\n{index},{base_mae},{llm_mae},{improvement_mae}"
+        wis += f"\n{index},{base_wis},{llm_wis},{improvement_wis}"
+        mae += f"\n{index},{base_mae},{llm_mae},{improvement_mae}"
+        coverage += f"\n{index},{base_coverage},{llm_coverage},{improvement_coverage}"
     # Save the data for the success rate and average differences.
     f = open(os.path.join("Results", "Success Rate.csv"), "w")
     f.write(success_rate)
@@ -814,10 +827,13 @@ def evaluate(dataset_actual: pandas.DataFrame, dataset_baseline: pandas.DataFram
     f.write(total_excess)
     f.close()
     f = open(os.path.join("Results", "WIS.csv"), "w")
-    f.write(wis_scores)
+    f.write(wis)
     f.close()
     f = open(os.path.join("Results", "MAE.csv"), "w")
-    f.write(mae_scores)
+    f.write(mae)
+    f.close()
+    f = open(os.path.join("Results", "Coverage.csv"), "w")
+    f.write(coverage)
     f.close()
     # Create plots for each of the forecasted periods.
     total = len(dataset_actual["Date"])
@@ -883,13 +899,14 @@ def update_articles(old: str, new: str) -> None:
         f.close()
 
 
-def main(forecast: int = 0, width: float = 5, height: float = 4, decimals: int = 2) -> None:
+def main(forecast: int = 0, width: float = 5, height: float = 4, decimals: int = 2, alpha: float = 0.95) -> None:
     """
     Run all required code.
     :param forecast: How many weeks in advance should the LLM model forecast.
     :param width: How wide figures should be.
     :param height: How tall figures should be.
     :param decimals: The many decimal spaces final results should be saved to.
+    :param alpha: The alpha factor for the desired confidence level which by default is 95%.
     :return: Nothing.
     """
     # Get the initial dataset.
@@ -897,7 +914,8 @@ def main(forecast: int = 0, width: float = 5, height: float = 4, decimals: int =
     # Get the baseline results for the LLM model to use.
     dataset_baseline = baseline(dataset)
     # Evaluate both models and make plots.
-    evaluate(actual(dataset), dataset_baseline, llm(dataset, dataset_baseline, forecast), width, height, decimals)
+    evaluate(actual(dataset), dataset_baseline, llm(dataset, dataset_baseline, forecast), width, height, decimals,
+             alpha)
 
 
 if __name__ == "__main__":
@@ -906,5 +924,7 @@ if __name__ == "__main__":
     parser.add_argument("-w", "--width", type=float, default=5, help="The width of the figures.")
     parser.add_argument("-l", "--height", type=float, default=4, help="The height of the figures.")
     parser.add_argument("-d", "--decimals", type=int, default=2, help="The number of decimal spaces.")
+    parser.add_argument("-a", "--alpha", type=float, default=0.95, help="The alpha factor for the desired confidence "
+                                                                        "level which by default is 95%.")
     args = parser.parse_args()
-    main(args.forecast, args.width, args.height, args.decimals)
+    main(args.forecast, args.width, args.height, args.decimals, args.alpha)
