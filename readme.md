@@ -11,6 +11,7 @@
    2. ``-w`` or ``--width`` - The width of the figures. Defaults to five.
    3. ``-l`` or ``--height`` - The height of the figures. Defaults to four.
    4. ``-d`` or ``--decimals`` - The number of decimal spaces. Defaults to two.
+   5. ``-a`` or ``--alpha`` - The alpha factor for the desired confidence level which by default is 95%.
 6. Under the ``Data`` folder, you will see the summaries of the news articles produced by the large language model. Under the ``Results`` folder, you will see the results charts and plots.
    1. ``Actual.csv`` - The actual COVID-19 hospitalizations to occur over the next given weeks from a given week.
    2. ``Baseline.csv`` and ``Full Model.csv`` - The baseline model and full model predictions of how many COVID-19 hospitalizations to occur over the next given weeks from a given week.
@@ -19,6 +20,9 @@
    5. ``Average Difference.csv`` - The average difference each model had from the actual amounts of hospitalizations to occur over a given period.
    6. ``Total Failures.csv`` - The total failures which occurred for each model over a forecasting period.
    7. ``Total Excess.csv`` - The total excess which occurred for each model over a forecasting period.
+   8. ``WIS.csv`` - The weighted interval scores.
+   9. ``MAE.csv`` - The mean absolute errors.
+   10. ``Coverage.csv`` - Coverage of values falling within the alpha prediction intervals.
 
 ## Data
 

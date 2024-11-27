@@ -801,8 +801,10 @@ def evaluate(dataset_actual: pandas.DataFrame, dataset_baseline: pandas.DataFram
                 llm_coverage = f"{llm_coverage * 100:.{decimals}f}%"
             improvement_coverage = ""
         # Get the improvement for the failures and excess.
-        improvement_f = f"{(base_f - llm_f) / base_f * 100:.{decimals}f}%" if is_number(base_f) and is_number(llm_f) else ""
-        improvement_e = f"{(base_e - llm_e) / base_e * 100:.{decimals}f}%" if is_number(base_e) and is_number(llm_e) else ""
+        improvement_f = (f"{(base_f - llm_f) / base_f * 100:.{decimals}f}%" if is_number(base_f) and is_number(llm_f)
+                         else "")
+        improvement_e = (f"{(base_e - llm_e) / base_e * 100:.{decimals}f}%" if is_number(base_e) and is_number(llm_e)
+                         else "")
         # Add to the data to be written.
         success_rate += f"\n{index},{base_s},{llm_s},{improvement_s}"
         average_diff += f"\n{index},{base_d},{llm_d}"
