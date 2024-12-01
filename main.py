@@ -28,6 +28,8 @@ from statsmodels.tsa.arima.model import ARIMA
 from statsmodels.tsa.holtwinters import SimpleExpSmoothing
 from webdriver_manager.firefox import GeckoDriverManager
 
+from publishers import load_trusted
+
 
 def load() -> DataFrame:
     """
@@ -146,7 +148,7 @@ def generate(prompt: str, prompt_clean: bool = False, response_clean: bool = Tru
     if prompt_clean:
         prompt = clean(prompt)
     # Use no temperature for consistent results.
-    response = ollama.generate("llama3.1", prompt, options={"temperature": 0})["response"]
+    response = ollama.generate("llama3.1", prompt, options={"temperature": 0, "num_ctx": 8196})["response"]
     return clean(response) if response_clean else response
 
 
@@ -203,7 +205,7 @@ def get_article(result: dict, driver) -> dict or None:
         if summary != "":
             prompt = (f"You are trying to help forecast COVID-19 hospitalizations in Ontario, Canada. Below is an "
                       f"article. If the article is not relevant for forecasting COVID-19 hospitalizations in Ontario, "
-                      f"Canada, respond with \"FALSE\". If the article is relevant for forecasting COVID-19 "
+                      f'Canada, respond with "FALSE". If the article is relevant for forecasting COVID-19 '
                       f"hospitalizations in Ontario, Canada, respond with a brief summary highlighting values most "
                       f"important for forecasting COVID-19 hospitalizations in Ontario, Canada. Only state facts and "
                       f"keep sentences short:\n\n{summary}")
@@ -214,6 +216,7 @@ def get_article(result: dict, driver) -> dict or None:
     # No point in having the summary if it is just equal to the title.
     if title is None or title == "":
         return None
+    # If the article was not relevant or summarizing failed, discard it.
     if (summary is None or title == summary or summary == "" or summary.isspace() or summary.startswith("FALSE") or
             summary.startswith("I'm sorry, ") or summary.startswith("I apologize, ")):
         return None
@@ -352,13 +355,16 @@ def prepare_articles(dataset: pandas.DataFrame) -> None:
             print(f"{file} has {count} TRUE entries.")
 
 
-def llm_forecast(prediction: int, history: list, forecast: int, date: str) -> int:
+def llm_forecast(prediction: int, history: list[float], forecast: int, date: str, terms: list[str] or None = None,
+                 trusted: list[str] or None = None) -> int:
     """
     Perform the LLM forecasting.
     :param prediction: The prediction made by the analytical model.
     :param history: Previous values.
     :param forecast: How far into the future to forecast.
     :param date: The date which is being forecast.
+    :param terms: Terms to mask.
+    :param trusted: List of trusted sources.
     :return: The value predicted by the LLM.
     """
     # If we already have the response for this date, load it.
@@ -390,8 +396,8 @@ def llm_forecast(prediction: int, history: list, forecast: int, date: str) -> in
                 prompt += f", {history[i]}"
             prompt += "."
         prompt += (f" An ARIMA forecasting model has predicted that over the next {timeframe}, there will be "
-                   f"{prediction} COVID-19 hospitalizations in Ontario, Canada. ARIMA is known to underpredict and "
-                   f"react too slow for a surge. Using your best judgement, keep or adjust this value.")
+                   f"{prediction} COVID-19 hospitalizations in Ontario, Canada. ARIMA is known to react too slow to "
+                   f"surges or rapid drops. Using your best judgement, keep or adjust this value.")
         # Load the summaries.
         f = open(path, "r")
         articles = f.read()
@@ -399,6 +405,25 @@ def llm_forecast(prediction: int, history: list, forecast: int, date: str) -> in
         # If there are summaries, add them.
         if articles != "":
             prompt = f"{prompt} {articles}"
+        # Mask terms.
+        if terms is not None:
+            for term in terms:
+                prompt = prompt.replace(term, "NEW-VIRUS")
+        # Set trusted sources.
+        has_trusted = False
+        if trusted is not None:
+            for publisher in trusted:
+                original = f"Publisher: {publisher}"
+                if original in prompt:
+                    prompt = prompt.replace(original, f"Publisher (TRUSTED): {publisher}")
+                    has_trusted = True
+        # If there was a trusted source, indicate its importance.
+        if has_trusted:
+            prompt = prompt.replace("to help guide you in making your decision.",
+                                    'to help guide you in making your decision. Highly reliable news source '
+                                    'publishers have been flagged as "TRUSTED". Consider their information as more '
+                                    'reliable.')
+        # Get the response.
         s = generate(prompt, False, True)
         # Save the response for future lookups.
         if not os.path.exists("Responses"):
@@ -560,6 +585,15 @@ def llm(dataset: pandas.DataFrame, dataset_baseline: pandas.DataFrame, forecast:
     # If no forecast was given or trying to forecast too far into the future, forecast everything.
     if forecast > periods or forecast < 1:
         forecast = periods
+    # Load terms.
+    path = os.path.join(os.getcwd(), "Terms.txx")
+    if os.path.exists(path):
+        with open(path, "r") as file:
+            terms = [line.strip() for line in file]
+    else:
+        terms = None
+    # Load trusted sources.
+    trusted = load_trusted()
     history = []
     s = "Date"
     for i in range(forecast):
@@ -576,7 +610,7 @@ def llm(dataset: pandas.DataFrame, dataset_baseline: pandas.DataFrame, forecast:
             if current_baseline < 0:
                 s += ",-1"
                 continue
-            s += f",{llm_forecast(current_baseline, history, index, dates[i])}"
+            s += f",{llm_forecast(current_baseline, history, index, dates[i], terms, trusted)}"
     # Save the data and return it.
     path = os.path.join("Results", "Full Model.csv")
     f = open(path, "w")
