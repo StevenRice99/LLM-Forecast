@@ -1,7 +1,1 @@
-The articles discuss the recent surge in COVID-19 cases, hospitalizations, and deaths in Ontario's long-term care homes. Here are some key points:
-1. COVID-19 cases and hospitalizations : There have been 5,459 COVID-19 cases among LTC home residents between August 27 and October 28, 2023, with 181 hospitalizations.
-2. Mask mandates return : In response to the surge in cases and outbreaks, Ontario has reinstated a masking mandate for all staff in long-term care homes.
-3. Respiratory virus outbreaks : There have been significant increases in respiratory virus outbreaks over September and October in long-term care facilities.
-4. Wastewater surveillance data : Wastewater surveillance data shows a slow uptick in the virus as of November 9, which could lead to an increase in hospitalizations.
-5. Projected peak : The virus is projected to possibly peak in the next few weeks.
-These articles highlight the ongoing challenges posed by COVID-19 and other respiratory viruses in long-term care facilities, emphasizing the need for continued vigilance and public health measures to mitigate the spread of these diseases.
+1050

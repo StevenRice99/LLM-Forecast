@@ -356,7 +356,7 @@ def prepare_articles(dataset: pandas.DataFrame) -> None:
 
 
 def llm_forecast(prediction: int, history: list[float], forecast: int, date: str, terms: list[str] or None = None,
-                 trusted: list[str] or None = None) -> int:
+                 trusted: list[str] or None = None, clamp: int = 50) -> int:
     """
     Perform the LLM forecasting.
     :param prediction: The prediction made by the analytical model.
@@ -365,6 +365,7 @@ def llm_forecast(prediction: int, history: list[float], forecast: int, date: str
     :param date: The date which is being forecast.
     :param terms: Terms to mask.
     :param trusted: List of trusted sources.
+    :param clamp: By how much should forecast values be clamped around the baseline prediction.
     :return: The value predicted by the LLM.
     """
     # If we already have the response for this date, load it.
@@ -381,23 +382,26 @@ def llm_forecast(prediction: int, history: list[float], forecast: int, date: str
             return prediction
         # Build the prompt.
         timeframe = "week" if forecast == 1 else f"{forecast} weeks"
-        prompt = (f"You are tasked with forecasting COVID-19 hospitalizations in Ontario, Canada you predict will "
-                  f"occur over the next {timeframe}. You must respond with a single integer and nothing else.")
+        prompt = (f"You are tasked with forecasting RAPID-VIRUS hospitalizations in Ontario, Canada you predict will "
+                  f"occur over the next {timeframe}. You must respond with a single integer and nothing else. "
+                  f"RAPID-VIRUS is a codename for a highly infectious disease.")
         if len(history) == 0:
-            prompt += (" There is currently no data on this, thus we can assume there are currently no COVID-19 "
+            prompt += (" There is currently no data on this, thus we can assume there are currently no RAPID-VIRUS "
                        "hospitalizations in Ontario, Canada.")
         elif len(history) == 1:
-            prompt += (f" Here is the number of COVID-19 hospitalizations in Ontario, Canada from the previous week: "
-                       f"{history[0]}.")
+            prompt += (f" Here is the number of RAPID-VIRUS hospitalizations in Ontario, Canada from the previous week:"
+                       f" {history[0]}.")
         else:
-            prompt += (f" Here are the number of COVID-19 hospitalizations in Ontario, Canada from the previous "
+            prompt += (f" Here are the number of RAPID-VIRUS hospitalizations in Ontario, Canada from the previous "
                        f"{len(history)} weeks from oldest to newest: {history[0]}")
             for i in range(1, len(history)):
                 prompt += f", {history[i]}"
             prompt += "."
         prompt += (f" An ARIMA forecasting model has predicted that over the next {timeframe}, there will be "
-                   f"{prediction} COVID-19 hospitalizations in Ontario, Canada. ARIMA is known to react too slow to "
-                   f"surges or rapid drops. Using your best judgement, keep or adjust this value.")
+                   f"{prediction} RAPID-VIRUS hospitalizations in Ontario, Canada. ARIMA is known to react too slow to "
+                   f"surges or drops. Based on the provided information and this knowledge of how ARIMA is with surges "
+                   f"and drops, keep or adjust the ARIMA forecast to best forecast RAPID-VIRUS hospitalizations in "
+                   f"Ontario, Canada.")
         # Load the summaries.
         f = open(path, "r")
         articles = f.read()
@@ -408,7 +412,7 @@ def llm_forecast(prediction: int, history: list[float], forecast: int, date: str
         # Mask terms.
         if terms is not None:
             for term in terms:
-                prompt = prompt.replace(term, "NEW-VIRUS")
+                prompt = prompt.replace(term, "RAPID-VIRUS")
         # Set trusted sources.
         has_trusted = False
         if trusted is not None:
@@ -420,9 +424,9 @@ def llm_forecast(prediction: int, history: list[float], forecast: int, date: str
         # If there was a trusted source, indicate its importance.
         if has_trusted:
             prompt = prompt.replace("to help guide you in making your decision.",
-                                    'to help guide you in making your decision. Highly reliable news source '
+                                    "to help guide you in making your decision. Highly reliable news source"
                                     'publishers have been flagged as "TRUSTED". Consider their information as more '
-                                    'reliable.')
+                                    "reliable. However, you should still consider the reports from other sources.")
         # Get the response.
         s = generate(prompt, False, True)
         # Save the response for future lookups.
@@ -437,7 +441,12 @@ def llm_forecast(prediction: int, history: list[float], forecast: int, date: str
         return prediction
     # noinspection PyBroadException
     try:
-        return int(words[0].replace(",", ""))
+        parsed = int(words[0].replace(",", ""))
+        # Clamp the value if it has been passed.
+        if clamp > 0:
+            clamp *= forecast
+            parsed = max(prediction - clamp, min(parsed, prediction + clamp))
+        return parsed
     except:
         # Return the baseline prediction if the LLM did not return a prediction.
         return prediction
@@ -569,12 +578,14 @@ def baseline(dataset: pandas.DataFrame) -> pandas.DataFrame:
     return pd.read_csv(path)
 
 
-def llm(dataset: pandas.DataFrame, dataset_baseline: pandas.DataFrame, forecast: int = 0) -> pandas.DataFrame:
+def llm(dataset: pandas.DataFrame, dataset_baseline: pandas.DataFrame, forecast: int = 0,
+        clamp: int = 50) -> pandas.DataFrame:
     """
     Get the LLM predictions.
     :param dataset: The dataset to test on.
     :param dataset_baseline: The baseline analytical predictions.
     :param forecast: How many weeks in advance should the LLM model forecast.
+    :param clamp: By how much should forecast values be clamped around the baseline prediction.
     :return: The LLM predictions.
     """
     # Ensure all articles exist.
@@ -610,7 +621,7 @@ def llm(dataset: pandas.DataFrame, dataset_baseline: pandas.DataFrame, forecast:
             if current_baseline < 0:
                 s += ",-1"
                 continue
-            s += f",{llm_forecast(current_baseline, history, index, dates[i], terms, trusted)}"
+            s += f",{llm_forecast(current_baseline, history, index, dates[i], terms, trusted, clamp)}"
     # Save the data and return it.
     path = os.path.join("Results", "Full Model.csv")
     f = open(path, "w")
@@ -825,7 +836,9 @@ def evaluate(dataset_actual: pandas.DataFrame, dataset_baseline: pandas.DataFram
             improvement_mae = ""
         # Get the coverage improvement.
         if is_number(base_coverage) and is_number(llm_coverage):
-            improvement_coverage = f"{(base_coverage - llm_coverage) / base_coverage * 100:.{decimals}f}%"
+            base_difference = abs(base_coverage - alpha)
+            llm_difference = abs(llm_coverage - alpha)
+            improvement_coverage = f"{(base_difference - llm_difference) * 100:.{decimals}f}%"
             base_coverage = f"{base_coverage * 100:.{decimals}f}%"
             llm_coverage = f"{llm_coverage * 100:.{decimals}f}%"
         else:
@@ -933,7 +946,8 @@ def update_articles(old: str, new: str) -> None:
         f.close()
 
 
-def main(forecast: int = 0, width: float = 5, height: float = 4, decimals: int = 2, alpha: float = 0.95) -> None:
+def main(forecast: int = 0, width: float = 5, height: float = 4, decimals: int = 2, alpha: float = 0.95,
+         clamp: int = 50) -> None:
     """
     Run all required code.
     :param forecast: How many weeks in advance should the LLM model forecast.
@@ -941,6 +955,7 @@ def main(forecast: int = 0, width: float = 5, height: float = 4, decimals: int =
     :param height: How tall figures should be.
     :param decimals: The many decimal spaces final results should be saved to.
     :param alpha: The alpha factor for the desired confidence level which by default is 95%.
+    :param clamp: By how much should forecast values be clamped around the baseline prediction.
     :return: Nothing.
     """
     # Get the initial dataset.
@@ -948,8 +963,8 @@ def main(forecast: int = 0, width: float = 5, height: float = 4, decimals: int =
     # Get the baseline results for the LLM model to use.
     dataset_baseline = baseline(dataset)
     # Evaluate both models and make plots.
-    evaluate(actual(dataset), dataset_baseline, llm(dataset, dataset_baseline, forecast), width, height, decimals,
-             alpha)
+    evaluate(actual(dataset), dataset_baseline, llm(dataset, dataset_baseline, forecast, clamp), width, height,
+             decimals, alpha)
 
 
 if __name__ == "__main__":
@@ -960,5 +975,7 @@ if __name__ == "__main__":
     parser.add_argument("-d", "--decimals", type=int, default=2, help="The number of decimal spaces.")
     parser.add_argument("-a", "--alpha", type=float, default=0.95, help="The alpha factor for the desired confidence "
                                                                         "level which by default is 95%.")
+    parser.add_argument("-c", "--clamp", type=int, default=50, help="By how much should forecast values be clamped "
+                                                                    "around the baseline prediction.")
     args = parser.parse_args()
-    main(args.forecast, args.width, args.height, args.decimals, args.alpha)
+    main(args.forecast, args.width, args.height, args.decimals, args.alpha, args.clamp)

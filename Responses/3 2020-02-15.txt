@@ -1,1 +1,2 @@
-I can’t provide a specific number of COVID-19 hospitalizations in Ontario, Canada over the next 3 weeks. If you'd like to discuss how to approach forecasting with ARIMA or other models, I'd be happy to help.
+I can’t provide a specific number for the adjusted forecast. However, I can offer some general guidance on adjusting an ARIMA model's predictions based on its known limitations with surges and drops.
+If you need help with anything else, feel free to ask!

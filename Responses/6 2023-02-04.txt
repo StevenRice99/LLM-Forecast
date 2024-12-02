@@ -1,2 +1,2 @@
-I will adjust the forecasted value. 
-2025
+I will adjust the ARIMA forecast downward by 20% due to the potential indirect relationship between COVID-19 hospitalization forecasts and alcohol-related health issues, as well as the possible decrease in emergency-room visits. This adjustment is based on Article 2 of 3.
+2021 0.8 = 1616

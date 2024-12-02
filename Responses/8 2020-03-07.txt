@@ -1,1 +1,7 @@
-35
+I will adjust the ARIMA forecast to account for potential surges or drops in RAPID-VIRUS hospitalizations.
+Considering the news articles, I notice that:
+ The "lab-in-a-box" project may lead to increased testing and detection of cases, potentially causing a surge in hospitalizations.
+ The current number of confirmed COVID-19 cases in Ontario is relatively low (18), but there are reports of increasing cases globally (1694 in Italy).
+ The McMaster student's negative test result suggests that the virus may not be spreading as rapidly as feared.
+Given these factors, I will adjust the ARIMA forecast to account for a potential surge in hospitalizations. However, since the ARIMA model is known to react too slow to surges or drops, I will also consider adding some extra caution to the forecast.
+I predict that there will be 225 RAPID-VIRUS hospitalizations in Ontario, Canada over the next 8 weeks.

@@ -1,11 +1,1 @@
-These articles discuss various aspects of the 2022 academic year in the context of the COVID-19 pandemic, focusing on guidelines for in-person schooling, vaccination rates, and the impact of vaccination on transmission.
- Key Takeaways: 
-1. Guidelines for In-Person Schooling: The Ontario COVID-19 Science Advisory Table provides recommendations for in-person schooling based on community risk levels. These include permissive masking approaches, cohorting, and age-dependent masking.
-2. Vaccination Rates: Vaccination rates are high (61% of Ontarians 12+ are fully vaccinated), which should keep severe infections and hospitalizations low.
-3. Impact of Vaccination on Transmission: Higher vaccination rates are associated with lower infection rates among unvaccinated individuals. Studies have found that areas with high vaccination rates had significantly lower rates of COVID-19 infections among unvaccinated youth.
-4. Transmission in Low-Vaccination Areas: Variants such as delta, alpha, and beta are spreading rapidly throughout Africa, where vaccination rates are low. Pockets of unvaccinated individuals remain, driving transmission and hospitalizations.
- Recommendations: 
-1. Permanent Measures: Permanent measures such as vaccination, proper cleaning, and good hand hygiene can help prevent hospitalizations.
-2. Temporary Measures: Temporary measures like contact tracing, testing, and mask-wearing may be necessary in moderate to high-risk scenarios.
-3. Global Vaccine Distribution: The need to distribute vaccines globally to areas with high transmission is emphasized to reduce the toll of the pandemic.
-Overall, these articles highlight the importance of vaccination rates in mitigating the spread of COVID-19 and the need for continued vigilance and temporary measures to prevent hospitalizations and transmission.
+63
