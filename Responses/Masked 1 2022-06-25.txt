@@ -1,0 +1,5 @@
+I will adjust the ARIMA forecast to account for potential surges due to the recent news articles.
+Based on Article 1, there is a growing concern about SARS-CoV-2 infection in Ontario, Canada, particularly among individuals aged 18 and older with certain clinical comorbidities. This could lead to an increase in RAPID-VIRUS hospitalizations.
+Article 2 highlights the risk of myocarditis or pericarditis associated with mRNA vaccines, particularly Moderna's vaccine in young men. While this is a concern for cardiovascular health, it may also contribute to an increase in hospitalizations due to complications from the vaccine.
+Considering these factors, I will adjust the ARIMA forecast by adding 100 hospitalizations to account for potential surges and drops in RAPID-VIRUS hospitalizations over the next week. 
+278 + 100 = 378

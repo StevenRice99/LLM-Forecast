@@ -1,0 +1,8 @@
+I will adjust the ARIMA forecast to account for potential surges or drops in RAPID-VIRUS hospitalizations.
+Based on the news articles, there are several indicators that suggest a potential surge in COVID-19 cases and hospitalizations:
+ Article 1: A surge in COVID-19 cases and hospitalizations in large US states, which could pose a health threat to Canada if the border were reopened.
+ Article 4: A surge of new COVID-19 cases and hospitalizations in the Philippines, with private hospitals reaching full capacity for treating patients.
+However, there are also indicators that suggest a low risk for children contracting severe illness or hospitalization due to COVID-19 (Article 3).
+Considering these factors, I will adjust the ARIMA forecast by adding 10% to account for potential surges in RAPID-VIRUS hospitalizations. This is a conservative estimate, given the uncertainty of the situation.
+Adjusted forecast: 516 + (516 x 0.1) = 567
+The adjusted forecast is 567 RAPID-VIRUS hospitalizations in Ontario, Canada over the next 11 weeks.

@@ -1,0 +1,1 @@
+I would adjust the ARIMA forecast to 2500 RAPID-VIRUS hospitalizations in Ontario, Canada over the next 5 weeks.

@@ -1,5 +1,0 @@
-I will adjust the ARIMA forecast downward by 15% due to the stable or dropping COVID-19 trends in Ottawa, as reported in Article 1. This adjustment is based on the fact that the test positivity rate has dropped to around 11 per cent and wastewater data shows a stable level of coronavirus.
-2695 0.85 = 2292.25
-I will round this number down to 2292, considering the potential indirect relationship between COVID-19 hospitalization forecasts and alcohol-related health issues mentioned in Article 2. This adjustment is based on the fact that there may be a decrease in emergency-room visits due to fear of catching COVID-19 or overwhelming healthcare systems.
-However, I will not adjust for the family doctor shortage reported in Article 3, as it does not directly impact hospitalization rates.
-The final adjusted forecast is: 2292

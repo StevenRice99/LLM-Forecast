@@ -1,0 +1,7 @@
+I will adjust the ARIMA forecast to account for potential surges or drops in RAPID-VIRUS hospitalizations.
+Considering the news articles:
+ Article 1 suggests a surge in COVID-19 cases and hospitalizations in several large US states, which could pose a health threat to Canada if the border were reopened.
+ Article 4 reports on a surge of new COVID-19 cases and hospitalizations in the Philippines, with private hospitals reaching full capacity for treating patients.
+ Article 5 mentions 130 new cases of COVID-19 reported in Ontario, bringing the provincial total to 36,594 cases.
+Given these articles, I will increase the ARIMA forecast by 10% to account for potential surges or drops in RAPID-VIRUS hospitalizations. 
+281 1.10 = 309

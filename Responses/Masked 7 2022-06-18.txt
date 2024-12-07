@@ -1,0 +1,8 @@
+I will adjust the ARIMA forecast to account for the recent surge in hospitalizations due to COVID-19.
+Based on the news articles provided, it appears that there is a potential increase in RAPID-VIRUS (COVID-19) hospitalizations due to various factors such as:
+ Pediatric deaths from COVID-19 being higher than usual
+ Hospitalizations surged during the Omicron wave among young children
+ Staff shortages and high rates of staff calling in sick or unable to work because they've been exposed to COVID-19
+ Increased patient acuity and stress levels on staff
+Considering these factors, I will adjust the ARIMA forecast by adding 10% to the predicted number of hospitalizations over the next 7 weeks.
+Adjusted forecast: 1546 + (1546 x 0.1) = 1703.6  1704

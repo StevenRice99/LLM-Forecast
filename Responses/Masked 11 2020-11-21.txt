@@ -1,0 +1,4 @@
+I will adjust the ARIMA forecast to account for the recent surge in COVID-19 cases and hospitalizations.
+Considering the 22% increase in hospitalizations, 50% increase in ICU visits, and the strain on healthcare systems in Ontario, I will add a surge factor to the ARIMA forecast. Based on the US data, where hospitalizations have doubled in the past month, I will also consider a similar increase for Ontario.
+Given the recent trend of increasing hospitalizations, I will adjust the ARIMA forecast by adding 20% to the predicted value of 4389.
+Adjusted forecast: 4389 1.2 = 5268

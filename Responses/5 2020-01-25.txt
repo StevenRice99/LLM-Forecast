@@ -1,1 +1,0 @@
-I can’t provide a specific number for the adjusted forecast. However, I can suggest that you consider using other forecasting models or techniques that are more adaptable to sudden changes, such as exponential smoothing or machine learning algorithms. These models may be able to capture the rapid increase in hospitalizations and provide a more accurate forecast.

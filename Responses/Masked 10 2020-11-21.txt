@@ -1,0 +1,3 @@
+3990 is too low, considering the recent surge in cases and hospitalizations. I will adjust the ARIMA forecast to account for this increase.
+Considering the 22% increase in hospitalizations, 50% increase in ICU visits, and the strain on healthcare systems in the US, I will add a surge factor to the ARIMA forecast.
+I predict that over the next 10 weeks, there will be approximately 14,200 RAPID-VIRUS hospitalizations in Ontario, Canada.

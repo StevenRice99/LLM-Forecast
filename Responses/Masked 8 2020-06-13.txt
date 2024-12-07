@@ -1,0 +1,2 @@
+I will adjust the ARIMA forecast downward by 20% due to the potential for increased hospitalizations in ethnically and culturally diverse neighborhoods as mentioned in Article 1. This adjustment accounts for the higher rates of infection, death, and hospitalization in these areas.
+976 0.8 = 778

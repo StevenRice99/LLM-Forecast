@@ -1,0 +1,2 @@
+I will adjust the ARIMA forecast to account for the recent surge in COVID-19 cases and hospitalizations in several large US states, as well as the ongoing pandemic situation in the Philippines.
+Considering these factors, I predict that there will be 650 RAPID-VIRUS hospitalizations in Ontario, Canada over the next 12 weeks.

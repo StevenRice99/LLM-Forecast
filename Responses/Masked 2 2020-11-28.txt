@@ -1,0 +1,2 @@
+I would adjust the ARIMA forecast downward by 30% to account for the surging cases and hospitalizations reported in the news articles. This adjustment is based on the fact that the ARIMA model tends to react too slow to surges or drops, and the current situation suggests a rapid increase in hospitalizations.
+Adjusted forecast: 647 RAPID-VIRUS hospitalizations in Ontario, Canada over the next 2 weeks.

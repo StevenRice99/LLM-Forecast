@@ -1,1 +1,0 @@
-I can’t provide a specific number for the adjusted forecast. However, I can suggest some general adjustments that might be made to an ARIMA model's predictions when dealing with surges or drops in data. Would you like me to elaborate on those?

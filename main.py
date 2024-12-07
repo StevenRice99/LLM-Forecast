@@ -18,7 +18,6 @@ from gnews import GNews
 from matplotlib import pyplot as plt, pyplot
 from newspaper import Article
 from pandas import DataFrame
-from pandas.core.dtypes.inference import is_number
 from scipy.stats import norm
 from selenium import webdriver
 from selenium.webdriver.firefox.service import Service
@@ -356,7 +355,7 @@ def prepare_articles(dataset: pandas.DataFrame) -> None:
 
 
 def llm_forecast(prediction: int, history: list[float], forecast: int, date: str, terms: list[str] or None = None,
-                 trusted: list[str] or None = None, clamp: int = 50) -> int:
+                 trusted: list[str] or None = None, clamp: int = 100, mask: bool = False, latest: int = 0) -> int:
     """
     Perform the LLM forecasting.
     :param prediction: The prediction made by the analytical model.
@@ -366,10 +365,12 @@ def llm_forecast(prediction: int, history: list[float], forecast: int, date: str
     :param terms: Terms to mask.
     :param trusted: List of trusted sources.
     :param clamp: By how much should forecast values be clamped around the baseline prediction.
+    :param mask: If we should mask COVID-19 or not.
+    :param latest: Up to how many latest weeks of data should we keep.
     :return: The value predicted by the LLM.
     """
     # If we already have the response for this date, load it.
-    response = os.path.join("Responses", f"{forecast} {date}.txt")
+    response = os.path.join("Responses", f"{'Masked' if mask else 'Unmasked'} {forecast} {date}.txt")
     if os.path.exists(response):
         f = open(response, "r")
         s = f.read()
@@ -381,52 +382,57 @@ def llm_forecast(prediction: int, history: list[float], forecast: int, date: str
         if not os.path.exists(path):
             return prediction
         # Build the prompt.
+        virus = "RAPID-VIRUS" if mask else "COVID-19"
         timeframe = "week" if forecast == 1 else f"{forecast} weeks"
-        prompt = (f"You are tasked with forecasting RAPID-VIRUS hospitalizations in Ontario, Canada you predict will "
-                  f"occur over the next {timeframe}. You must respond with a single integer and nothing else. "
-                  f"RAPID-VIRUS is a codename for a highly infectious disease.")
+        prompt = (f"You are tasked with forecasting {virus} hospitalizations in Ontario, Canada you predict will occur "
+                  f"over the next {timeframe}. You must respond with a single integer and nothing else.")
+        if mask:
+            prompt += " RAPID-VIRUS is a codename for a highly infectious disease."
         if len(history) == 0:
-            prompt += (" There is currently no data on this, thus we can assume there are currently no RAPID-VIRUS "
+            prompt += (f" There is currently no data on this, thus we can assume there are currently no {virus} "
                        "hospitalizations in Ontario, Canada.")
         elif len(history) == 1:
-            prompt += (f" Here is the number of RAPID-VIRUS hospitalizations in Ontario, Canada from the previous week:"
+            prompt += (f" Here is the number of {virus} hospitalizations in Ontario, Canada from the previous week:"
                        f" {history[0]}.")
         else:
-            prompt += (f" Here are the number of RAPID-VIRUS hospitalizations in Ontario, Canada from the previous "
+            # Trim the history if we should.
+            if 0 < latest < len(history):
+                history = history[-latest:]
+            prompt += (f" Here are the number of {virus} hospitalizations in Ontario, Canada from the previous "
                        f"{len(history)} weeks from oldest to newest: {history[0]}")
             for i in range(1, len(history)):
                 prompt += f", {history[i]}"
             prompt += "."
         prompt += (f" An ARIMA forecasting model has predicted that over the next {timeframe}, there will be "
-                   f"{prediction} RAPID-VIRUS hospitalizations in Ontario, Canada. ARIMA is known to react too slow to "
+                   f"{prediction} {virus} hospitalizations in Ontario, Canada. ARIMA is known to react too slow to "
                    f"surges or drops. Based on the provided information and this knowledge of how ARIMA is with surges "
-                   f"and drops, keep or adjust the ARIMA forecast to best forecast RAPID-VIRUS hospitalizations in "
+                   f"and drops, keep or adjust the ARIMA forecast to best forecast {virus} hospitalizations in "
                    f"Ontario, Canada.")
         # Load the summaries.
         f = open(path, "r")
         articles = f.read()
         f.close()
-        # If there are summaries, add them.
-        if articles != "":
-            prompt = f"{prompt} {articles}"
         # Mask terms.
-        if terms is not None:
+        if mask and terms is not None:
             for term in terms:
-                prompt = prompt.replace(term, "RAPID-VIRUS")
+                articles = articles.replace(term, virus)
         # Set trusted sources.
         has_trusted = False
         if trusted is not None:
             for publisher in trusted:
                 original = f"Publisher: {publisher}"
-                if original in prompt:
-                    prompt = prompt.replace(original, f"Publisher (TRUSTED): {publisher}")
+                if original in articles:
+                    articles = articles.replace(original, f"Publisher (TRUSTED): {publisher}")
                     has_trusted = True
         # If there was a trusted source, indicate its importance.
         if has_trusted:
-            prompt = prompt.replace("to help guide you in making your decision.",
-                                    "to help guide you in making your decision. Highly reliable news source"
-                                    'publishers have been flagged as "TRUSTED". Consider their information as more '
-                                    "reliable. However, you should still consider the reports from other sources.")
+            articles = articles.replace("to help guide you in making your decision.",
+                                        "to help guide you in making your decision. Highly reliable news source"
+                                        'publishers have been flagged as "TRUSTED". Consider their information as more '
+                                        "reliable. However, you should still consider the reports from other sources.")
+        # If there are summaries, add them.
+        if articles != "":
+            prompt = f"{prompt} {articles}"
         # Get the response.
         s = generate(prompt, False, True)
         # Save the response for future lookups.
@@ -579,13 +585,15 @@ def baseline(dataset: pandas.DataFrame) -> pandas.DataFrame:
 
 
 def llm(dataset: pandas.DataFrame, dataset_baseline: pandas.DataFrame, forecast: int = 0,
-        clamp: int = 50) -> pandas.DataFrame:
+        clamp: int = 100, mask: bool = False, latest: int = 0) -> pandas.DataFrame:
     """
     Get the LLM predictions.
     :param dataset: The dataset to test on.
     :param dataset_baseline: The baseline analytical predictions.
     :param forecast: How many weeks in advance should the LLM model forecast.
     :param clamp: By how much should forecast values be clamped around the baseline prediction.
+    :param mask: If we should mask COVID-19 or not.
+    :param latest: Up to how many latest weeks of data should we keep.
     :return: The LLM predictions.
     """
     # Ensure all articles exist.
@@ -609,9 +617,10 @@ def llm(dataset: pandas.DataFrame, dataset_baseline: pandas.DataFrame, forecast:
     s = "Date"
     for i in range(forecast):
         s += f",{i + 1}"
+    title = "Masked" if mask else "Unmasked"
     # Forecast for every period.
     for i in range(periods):
-        print(f"Full model forecasting for period {i + 1} of {periods}.")
+        print(f"{title} model forecasting for period {i + 1} of {periods}.")
         history.append(dataset["Hospitalizations"][i])
         s += f"\n{dates[i]}"
         for j in range(forecast):
@@ -621,9 +630,9 @@ def llm(dataset: pandas.DataFrame, dataset_baseline: pandas.DataFrame, forecast:
             if current_baseline < 0:
                 s += ",-1"
                 continue
-            s += f",{llm_forecast(current_baseline, history, index, dates[i], terms, trusted, clamp)}"
+            s += f",{llm_forecast(current_baseline, history, index, dates[i], terms, trusted, clamp, mask, latest)}"
     # Save the data and return it.
-    path = os.path.join("Results", "Full Model.csv")
+    path = os.path.join("Results", f"{title}.csv")
     f = open(path, "w")
     f.write(s)
     f.close()
@@ -728,19 +737,20 @@ def calculate_scores(index: str, dataset_actual: pandas.DataFrame,
     wis = np.mean([interval_score(obs, low, up, 1 - alpha) for obs, low, up in zip(true, lower, upper)])
     # Calculate the coverage score.
     within_interval = [l <= t <= u for t, l, u in zip(true, lower, upper)]
-    coverage = sum(within_interval) / len(true)
+    coverage = sum(within_interval) / len(true) * 100
     return (max(successes / total * 100, 0), dataset_diff[index].mean(), failures, excess, wis,
             mean_absolute_error(true, pred), coverage)
 
 
 def evaluate(dataset_actual: pandas.DataFrame, dataset_baseline: pandas.DataFrame,
-             dataset_llm: pandas.DataFrame, width: float = 5, height: float = 4, decimals: int = 2,
-             alpha: float = 0.95) -> None:
+             dataset_unmasked: pandas.DataFrame, dataset_masked: pandas.DataFrame, width: float = 5, height: float = 4,
+             decimals: int = 2, alpha: float = 0.95) -> None:
     """
     Get the metrics for both the baseline and LLM models and plot the results.
     :param dataset_actual: The actual values for hospitalizations.
     :param dataset_baseline: The baseline analytical predictions.
-    :param dataset_llm: The LLM predictions.
+    :param dataset_unmasked: The LLM predictions.
+    :param dataset_masked: The masked LLM predictions.
     :param width: How wide figures should be.
     :param height: How tall figures should be.
     :param decimals: The many decimal spaces final results should be saved to.
@@ -756,110 +766,92 @@ def evaluate(dataset_actual: pandas.DataFrame, dataset_baseline: pandas.DataFram
         decimals = 0
     # Compute the metrics for the baseline and LLM models.
     metrics("Baseline", dataset_baseline, dataset_actual)
-    metrics("Full Model", dataset_llm, dataset_actual)
+    metrics("Unmasked", dataset_unmasked, dataset_actual)
+    metrics("Masked", dataset_masked, dataset_actual)
     # Get average scores for each model.
     dataset_baseline_diff = pd.read_csv(os.path.join("Results", "Difference Baseline.csv"))
-    dataset_llm_diff = pd.read_csv(os.path.join("Results", "Difference Full Model.csv"))
+    dataset_unmasked_diff = pd.read_csv(os.path.join("Results", "Difference Unmasked.csv"))
+    dataset_masked_diff = pd.read_csv(os.path.join("Results", "Difference Masked.csv"))
     # Create the headers.
-    success_rate = "Forecast,ARIMA,ARIMA + LLMs,Improvement"
-    average_diff = "Forecast,ARIMA,ARIMA + LLMs"
-    total_failures = "Forecast,ARIMA,ARIMA + LLMs,Improvement"
-    total_excess = "Forecast,ARIMA,ARIMA + LLMs,Improvement"
-    wis = "Forecast,ARIMA,ARIMA + LLMs,Improvement"
-    mae = "Forecast,ARIMA,ARIMA + LLMs,Improvement"
-    coverage = "Forecast,ARIMA,ARIMA + LLMs,Improvement"
+    success_rate = "Forecast,Baseline,Unmasked,Masked"
+    average_diff = "Forecast,Baseline,Unmasked,Masked"
+    total_failures = "Forecast,Baseline,Unmasked,Masked"
+    total_excess = "Forecast,Baseline,Unmasked,Masked"
+    wis = "Forecast,Baseline,Unmasked,Masked"
+    mae = "Forecast,Baseline,Unmasked,Masked"
+    coverage = "Forecast,Baseline,Unmasked,Masked"
     # Loop through every column, calculating the metrics.
     columns_baseline = len(dataset_baseline.columns.tolist()) - 1
-    columns_llm = len(dataset_llm.columns.tolist()) - 1
-    columns = max(columns_baseline, columns_llm)
+    columns_unmasked = len(dataset_unmasked.columns.tolist()) - 1
+    columns_masked = len(dataset_unmasked.columns.tolist()) - 1
+    columns = max(columns_baseline, columns_unmasked, columns_masked)
     for i in range(columns):
         index = f"{i + 1}"
         # Baseline metrics.
         if i < columns_baseline:
-            base_s, base_d, base_f, base_e, base_wis, base_mae, base_coverage = calculate_scores(index, dataset_actual,
-                                                                                                 dataset_baseline_diff,
-                                                                                                 alpha)
-            base_d = f"{base_d:.{decimals}f}"
+            b_s, b_d, b_f, b_e, b_wis, b_mae, b_coverage = calculate_scores(index, dataset_actual,
+                                                                            dataset_baseline_diff, alpha)
+            b_s = f"{b_s:.{decimals}f}%"
+            b_d = f"{b_d:.{decimals}f}"
+            b_f = f"{b_f:.{decimals}f}"
+            b_e = f"{b_e:.{decimals}f}"
+            b_wis = f"{b_wis:.{decimals}f}"
+            b_mae = f"{b_mae:.{decimals}f}"
+            b_coverage = f"{b_coverage:.{decimals}f}"
         else:
-            base_s = ""
-            base_d = ""
-            base_f = ""
-            base_e = ""
-            base_wis = ""
-            base_mae = ""
-            base_coverage = ""
-        # LLM metrics.
-        if i < columns_llm:
-            llm_s, llm_d, llm_f, llm_e, llm_wis, llm_mae, llm_coverage = calculate_scores(index, dataset_actual,
-                                                                                          dataset_llm_diff, alpha)
-            llm_d = f"{llm_d:.{decimals}f}"
+            b_s = ""
+            b_d = ""
+            b_f = ""
+            b_e = ""
+            b_wis = ""
+            b_mae = ""
+            b_coverage = ""
+        # Unmasked LLM metrics.
+        if i < columns_unmasked:
+            n_s, n_d, n_f, n_e, n_wis, n_mae, n_coverage = calculate_scores(index, dataset_actual,
+                                                                            dataset_unmasked_diff, alpha)
+            n_s = f"{n_s:.{decimals}f}%"
+            n_d = f"{n_d:.{decimals}f}"
+            n_f = f"{n_f:.{decimals}f}"
+            n_e = f"{n_e:.{decimals}f}"
+            n_wis = f"{n_wis:.{decimals}f}"
+            n_mae = f"{n_mae:.{decimals}f}"
+            n_coverage = f"{n_coverage:.{decimals}f}%"
         else:
-            llm_s = ""
-            llm_d = ""
-            llm_f = ""
-            llm_e = ""
-            llm_wis = ""
-            llm_mae = ""
-            llm_coverage = ""
-        # Get the improvement that the LLM model had on the success rate.
-        if is_number(base_s) and is_number(llm_s):
-            improvement_s = f"{llm_s - base_s:.{decimals}f}%"
-            base_s = f"{base_s:.{decimals}f}%"
-            llm_s = f"{llm_s:.{decimals}f}%"
+            n_s = ""
+            n_d = ""
+            n_f = ""
+            n_e = ""
+            n_wis = ""
+            n_mae = ""
+            n_coverage = ""
+        # Masked LLM metrics.
+        if i < columns_unmasked:
+            m_s, m_d, m_f, m_e, m_wis, m_mae, m_coverage = calculate_scores(index, dataset_actual, dataset_masked_diff,
+                                                                            alpha)
+            m_s = f"{m_s:.{decimals}f}%"
+            m_d = f"{m_d:.{decimals}f}"
+            m_f = f"{m_f:.{decimals}f}"
+            m_e = f"{m_e:.{decimals}f}"
+            m_wis = f"{m_wis:.{decimals}f}"
+            m_mae = f"{m_mae:.{decimals}f}"
+            m_coverage = f"{m_coverage:.{decimals}f}%"
         else:
-            if is_number(base_s):
-                base_s = f"{base_s:.{decimals}f}%"
-            if is_number(llm_s):
-                llm_s = f"{llm_s:.{decimals}f}%"
-            improvement_s = ""
-        # Get the WIS improvement.
-        if is_number(base_wis) and is_number(llm_wis):
-            improvement_wis = f"{(base_wis - llm_wis) / base_wis * 100:.{decimals}f}%"
-            base_wis = f"{base_wis:.{decimals}f}"
-            llm_wis = f"{llm_wis:.{decimals}f}"
-        else:
-            if is_number(base_wis):
-                base_wis = f"{base_wis:.{decimals}f}"
-            if is_number(llm_wis):
-                llm_wis = f"{llm_wis:.{decimals}f}"
-            improvement_wis = ""
-        # Get the MAE improvement.
-        if is_number(base_mae) and is_number(llm_mae):
-            improvement_mae = f"{(base_mae - llm_mae) / base_mae * 100:.{decimals}f}%"
-            base_mae = f"{base_mae:.{decimals}f}"
-            llm_mae = f"{llm_mae:.{decimals}f}"
-        else:
-            if is_number(base_mae):
-                base_mae = f"{base_mae:.{decimals}f}"
-            if is_number(llm_mae):
-                llm_mae = f"{llm_mae:.{decimals}f}"
-            improvement_mae = ""
-        # Get the coverage improvement.
-        if is_number(base_coverage) and is_number(llm_coverage):
-            base_difference = abs(base_coverage - alpha)
-            llm_difference = abs(llm_coverage - alpha)
-            improvement_coverage = f"{(base_difference - llm_difference) * 100:.{decimals}f}%"
-            base_coverage = f"{base_coverage * 100:.{decimals}f}%"
-            llm_coverage = f"{llm_coverage * 100:.{decimals}f}%"
-        else:
-            if is_number(base_coverage):
-                base_coverage = f"{base_coverage * 100:.{decimals}f}%"
-            if is_number(llm_coverage):
-                llm_coverage = f"{llm_coverage * 100:.{decimals}f}%"
-            improvement_coverage = ""
-        # Get the improvement for the failures and excess.
-        improvement_f = (f"{(base_f - llm_f) / base_f * 100:.{decimals}f}%" if is_number(base_f) and is_number(llm_f)
-                         else "")
-        improvement_e = (f"{(base_e - llm_e) / base_e * 100:.{decimals}f}%" if is_number(base_e) and is_number(llm_e)
-                         else "")
+            m_s = ""
+            m_d = ""
+            m_f = ""
+            m_e = ""
+            m_wis = ""
+            m_mae = ""
+            m_coverage = ""
         # Add to the data to be written.
-        success_rate += f"\n{index},{base_s},{llm_s},{improvement_s}"
-        average_diff += f"\n{index},{base_d},{llm_d}"
-        total_failures += f"\n{index},{base_f},{llm_f},{improvement_f}"
-        total_excess += f"\n{index},{base_e},{llm_e},{improvement_e}"
-        wis += f"\n{index},{base_wis},{llm_wis},{improvement_wis}"
-        mae += f"\n{index},{base_mae},{llm_mae},{improvement_mae}"
-        coverage += f"\n{index},{base_coverage},{llm_coverage},{improvement_coverage}"
+        success_rate += f"\n{index},{b_s},{n_s},{m_s}"
+        average_diff += f"\n{index},{b_d},{n_d},{m_d}"
+        total_failures += f"\n{index},{b_f},{n_f},{m_f}"
+        total_excess += f"\n{index},{b_e},{n_e},{m_e}"
+        wis += f"\n{index},{b_wis},{n_wis},{m_wis}"
+        mae += f"\n{index},{b_mae},{n_mae},{m_mae}"
+        coverage += f"\n{index},{b_coverage},{n_coverage},{m_coverage}%"
     # Save the data for the success rate and average differences.
     f = open(os.path.join("Results", "Success Rate.csv"), "w")
     f.write(success_rate)
@@ -884,13 +876,12 @@ def evaluate(dataset_actual: pandas.DataFrame, dataset_baseline: pandas.DataFram
     f.close()
     # Create plots for each of the forecasted periods.
     total = len(dataset_actual["Date"])
-    baseline_columns = len(dataset_baseline.columns.tolist()) - 1
-    llm_columns = len(dataset_llm.columns.tolist()) - 1
-    for i in range(baseline_columns):
+    for i in range(columns):
         # Store the results.
         points_actual = []
         points_baseline = []
-        points_llm = []
+        points_unmasked = []
+        points_masked = []
         index = f"{i + 1}"
         # At most, we can check every entry.
         for j in range(total):
@@ -899,11 +890,14 @@ def evaluate(dataset_actual: pandas.DataFrame, dataset_baseline: pandas.DataFram
                 break
             # Add valid points for each.
             points_actual.append(dataset_actual[index][j])
-            points_baseline.append(dataset_baseline[index][j])
-            if i < llm_columns:
-                points_llm.append(dataset_llm[index][j])
+            if i < columns_baseline:
+                points_baseline.append(dataset_baseline[index][j])
+            if i < columns_unmasked:
+                points_unmasked.append(dataset_unmasked[index][j])
+            if i < columns_masked:
+                points_masked.append(dataset_masked[index][j])
         # Configure the plot.
-        if len(points_baseline) < 2:
+        if len(points_baseline) < 2 and len(points_unmasked) < 2 and len(points_masked) < 2:
             continue
         fig = plt.figure(figsize=(width, height))
         word = inflect.engine().number_to_words(i + 1)
@@ -913,9 +907,12 @@ def evaluate(dataset_actual: pandas.DataFrame, dataset_baseline: pandas.DataFram
         plt.ylabel(f"COVID-19 hospitalizations in the next {week if i < 1 else f'{word} {week}'}")
         # Plot all three values.
         plt.plot(points_actual, color="red", label="Actual")
-        plt.plot(points_baseline, color="blue", label="ARIMA")
-        if len(points_llm) > 0:
-            plt.plot(points_llm, color="green", label="ARIMA + LLMs")
+        if len(points_baseline) > 0:
+            plt.plot(points_baseline, color="blue", label="Baseline", alpha=0.75)
+        if len(points_unmasked) > 0:
+            plt.plot(points_unmasked, color="green", label="Unmasked", alpha=0.75)
+        if len(points_masked) > 0:
+            plt.plot(points_masked, color="yellow", label="Masked", alpha=0.75)
         plt.xlim(0, len(points_actual) - 1)
         bottom, top = plt.ylim()
         plt.ylim(0, top)
@@ -947,7 +944,7 @@ def update_articles(old: str, new: str) -> None:
 
 
 def main(forecast: int = 0, width: float = 5, height: float = 4, decimals: int = 2, alpha: float = 0.95,
-         clamp: int = 50) -> None:
+         clamp: int = 100, latest: int = 0) -> None:
     """
     Run all required code.
     :param forecast: How many weeks in advance should the LLM model forecast.
@@ -956,6 +953,7 @@ def main(forecast: int = 0, width: float = 5, height: float = 4, decimals: int =
     :param decimals: The many decimal spaces final results should be saved to.
     :param alpha: The alpha factor for the desired confidence level which by default is 95%.
     :param clamp: By how much should forecast values be clamped around the baseline prediction.
+    :param latest: Up to how many latest weeks of data should we keep.
     :return: Nothing.
     """
     # Get the initial dataset.
@@ -963,19 +961,21 @@ def main(forecast: int = 0, width: float = 5, height: float = 4, decimals: int =
     # Get the baseline results for the LLM model to use.
     dataset_baseline = baseline(dataset)
     # Evaluate both models and make plots.
-    evaluate(actual(dataset), dataset_baseline, llm(dataset, dataset_baseline, forecast, clamp), width, height,
-             decimals, alpha)
+    evaluate(actual(dataset), dataset_baseline, llm(dataset, dataset_baseline, forecast, clamp, False, latest),
+             llm(dataset, dataset_baseline, forecast, clamp, True, latest), width, height, decimals, alpha)
 
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="LLM-Forecast")
     parser.add_argument("-f", "--forecast", type=int, default=12, help="Number of weeks to forecast.")
     parser.add_argument("-w", "--width", type=float, default=5, help="The width of the figures.")
-    parser.add_argument("-l", "--height", type=float, default=4, help="The height of the figures.")
+    parser.add_argument("-t", "--height", type=float, default=4, help="The height of the figures.")
     parser.add_argument("-d", "--decimals", type=int, default=2, help="The number of decimal spaces.")
     parser.add_argument("-a", "--alpha", type=float, default=0.95, help="The alpha factor for the desired confidence "
                                                                         "level which by default is 95%.")
-    parser.add_argument("-c", "--clamp", type=int, default=50, help="By how much should forecast values be clamped "
-                                                                    "around the baseline prediction.")
+    parser.add_argument("-c", "--clamp", type=int, default=100, help="By how much should forecast values be clamped "
+                                                                     "around the baseline prediction.")
+    parser.add_argument("-l", "--latest", type=int, default=0, help="Up to how many latest weeks of data should we "
+                                                                    "keep.")
     args = parser.parse_args()
-    main(args.forecast, args.width, args.height, args.decimals, args.alpha, args.clamp)
+    main(args.forecast, args.width, args.height, args.decimals, args.alpha, args.clamp, args.latest)

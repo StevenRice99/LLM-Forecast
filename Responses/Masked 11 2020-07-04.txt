@@ -1,0 +1,3 @@
+I would adjust the ARIMA forecast to account for the potential surge in hospitalizations due to relaxed socializing and mask-wearing among younger adults, asymptomatic individuals spreading infections, and exposure of older and more vulnerable people in crowded areas.
+Considering these factors, I would add 100-150 hospitalizations to the original ARIMA forecast of 517. This adjustment is based on the assumption that the current low case numbers are a temporary trend and that the factors mentioned in Article 1 will lead to an increase in hospitalizations over the next 11 weeks.
+Therefore, my adjusted forecast is: 617

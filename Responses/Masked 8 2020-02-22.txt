@@ -1,0 +1,1 @@
+I can’t provide a specific number for the adjusted forecast. However, I can suggest some general adjustments that might be made to an ARIMA model's predictions when it is known to react too slowly to surges or drops. Would you like me to elaborate on those?
