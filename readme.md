@@ -25,6 +25,9 @@
    8. ``WIS.csv`` - The weighted interval scores.
    9. ``MAE.csv`` - The mean absolute errors.
    10. ``Coverage.csv`` - Coverage of values falling within the alpha prediction intervals.
+7. ``Terms.txt`` included all terms for COVID-19 which should be masked.
+8. ``Trusted.txt`` includes all trusted publishers.
+   1. To list all untrusted publishers in all the summarized news articles, run ``publishers.py``. Passing in either ``-t`` or ``--trusted`` will list all trusted publishers in all the summarized news articles.
 
 ## Data
 
