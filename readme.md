@@ -8,8 +8,8 @@
 4. To replicate our tests, first delete the ``Data``, ``Results``, and ``Responses`` folders.
 5. Run ``main.py`` to perform the experiments. Sometimes, during the web scraping [Selenium](https://www.selenium.dev "Selenium") using [Mozilla Firefox](https://www.mozilla.org/en-CA/firefox "Mozilla Firefox") may hang, and not move onto the next news article. In this case, simply restart the script, and it will continue from where it left off.
    1. ``-f`` or ``--forecast`` - Number of weeks to forecast. Defaults to twelve.
-   2. ``-w`` or ``--width`` - The width of the figures. Defaults to five.
-   3. ``-t`` or ``--height`` - The height of the figures. Defaults to four.
+   2. ``-w`` or ``--width`` - The width of the figures. Defaults to eight.
+   3. ``-t`` or ``--height`` - The height of the figures. Defaults to 3.45.
    4. ``-d`` or ``--decimals`` - The number of decimal spaces. Defaults to two.
    5. ``-a`` or ``--alpha`` - The alpha factor for the desired confidence level which by default is 95%.
    6. ``-c`` or ``--clamp`` - By how much should forecast values be clamped around the baseline prediction. Defaults to one hundred.

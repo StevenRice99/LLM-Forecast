@@ -793,11 +793,11 @@ def evaluate(dataset_actual: pandas.DataFrame, dataset_baseline: pandas.DataFram
                                                                             dataset_baseline_diff, alpha)
             b_s = f"{b_s:.{decimals}f}%"
             b_d = f"{b_d:.{decimals}f}"
-            b_f = f"{b_f:.{decimals}f}"
-            b_e = f"{b_e:.{decimals}f}"
+            b_f = f"{b_f}"
+            b_e = f"{b_e}"
             b_wis = f"{b_wis:.{decimals}f}"
             b_mae = f"{b_mae:.{decimals}f}"
-            b_coverage = f"{b_coverage:.{decimals}f}"
+            b_coverage = f"{b_coverage:.{decimals}f}%"
         else:
             b_s = ""
             b_d = ""
@@ -812,8 +812,8 @@ def evaluate(dataset_actual: pandas.DataFrame, dataset_baseline: pandas.DataFram
                                                                             dataset_unmasked_diff, alpha)
             n_s = f"{n_s:.{decimals}f}%"
             n_d = f"{n_d:.{decimals}f}"
-            n_f = f"{n_f:.{decimals}f}"
-            n_e = f"{n_e:.{decimals}f}"
+            n_f = f"{n_f}"
+            n_e = f"{n_e}"
             n_wis = f"{n_wis:.{decimals}f}"
             n_mae = f"{n_mae:.{decimals}f}"
             n_coverage = f"{n_coverage:.{decimals}f}%"
@@ -831,8 +831,8 @@ def evaluate(dataset_actual: pandas.DataFrame, dataset_baseline: pandas.DataFram
                                                                             alpha)
             m_s = f"{m_s:.{decimals}f}%"
             m_d = f"{m_d:.{decimals}f}"
-            m_f = f"{m_f:.{decimals}f}"
-            m_e = f"{m_e:.{decimals}f}"
+            m_f = f"{m_f}"
+            m_e = f"{m_e}"
             m_wis = f"{m_wis:.{decimals}f}"
             m_mae = f"{m_mae:.{decimals}f}"
             m_coverage = f"{m_coverage:.{decimals}f}%"
@@ -851,7 +851,7 @@ def evaluate(dataset_actual: pandas.DataFrame, dataset_baseline: pandas.DataFram
         total_excess += f"\n{index},{b_e},{n_e},{m_e}"
         wis += f"\n{index},{b_wis},{n_wis},{m_wis}"
         mae += f"\n{index},{b_mae},{n_mae},{m_mae}"
-        coverage += f"\n{index},{b_coverage},{n_coverage},{m_coverage}%"
+        coverage += f"\n{index},{b_coverage},{n_coverage},{m_coverage}"
     # Save the data for the success rate and average differences.
     f = open(os.path.join("Results", "Success Rate.csv"), "w")
     f.write(success_rate)
@@ -904,7 +904,7 @@ def evaluate(dataset_actual: pandas.DataFrame, dataset_baseline: pandas.DataFram
         week = "week" if i < 1 else f"weeks"
         plt.title(f"Forecasting {word} {week}")
         plt.xlabel("Week")
-        plt.ylabel(f"COVID-19 hospitalizations in the next {week if i < 1 else f'{word} {week}'}")
+        plt.ylabel(f"Hospitalizations over next {week if i < 1 else f'{word} {week}'}")
         # Plot all three values.
         plt.plot(points_actual, color="red", label="Actual")
         if len(points_baseline) > 0:
@@ -912,7 +912,7 @@ def evaluate(dataset_actual: pandas.DataFrame, dataset_baseline: pandas.DataFram
         if len(points_unmasked) > 0:
             plt.plot(points_unmasked, color="green", label="Unmasked", alpha=0.75)
         if len(points_masked) > 0:
-            plt.plot(points_masked, color="yellow", label="Masked", alpha=0.75)
+            plt.plot(points_masked, color="orange", label="Masked", alpha=0.75)
         plt.xlim(0, len(points_actual) - 1)
         bottom, top = plt.ylim()
         plt.ylim(0, top)
@@ -968,8 +968,8 @@ def main(forecast: int = 0, width: float = 5, height: float = 4, decimals: int =
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="LLM-Forecast")
     parser.add_argument("-f", "--forecast", type=int, default=12, help="Number of weeks to forecast.")
-    parser.add_argument("-w", "--width", type=float, default=5, help="The width of the figures.")
-    parser.add_argument("-t", "--height", type=float, default=4, help="The height of the figures.")
+    parser.add_argument("-w", "--width", type=float, default=8, help="The width of the figures.")
+    parser.add_argument("-t", "--height", type=float, default=3.45, help="The height of the figures.")
     parser.add_argument("-d", "--decimals", type=int, default=2, help="The number of decimal spaces.")
     parser.add_argument("-a", "--alpha", type=float, default=0.95, help="The alpha factor for the desired confidence "
                                                                         "level which by default is 95%.")
